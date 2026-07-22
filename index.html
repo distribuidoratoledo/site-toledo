@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distribuidora Toledo</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap');
+    :root {
+      --vermelho: #e01e3c;
+      --azul: #1a2f52;
+      --cor-clara: #f5f7fa;
+      --cor-texto: #3a4557;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      color: var(--cor-texto);
+      line-height: 1.6;
+    }
+
+    /* Cabeçalho e menu */
+    header {
+      background: #fff;
+      padding: 0.4rem 1.5rem;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+    }
+    header img.logo { height: 60px; }
+    nav a {
+      color: var(--azul);
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+    nav a:hover { color: var(--vermelho); }
+
+    /* Barra de busca do topo */
+    .barra-busca {
+      background: var(--azul);
+      padding: 0.8rem 2.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .busca-form {
+      display: flex;
+      width: 240px;
+      flex-shrink: 0;
+    }
+    .busca-form input {
+      flex: 1;
+      border: none;
+      padding: 0.45rem 0.9rem;
+      border-radius: 20px 0 0 20px;
+      font-size: 0.9rem;
+      outline: none;
+      min-width: 0;
+    }
+    .busca-form button {
+      border: none;
+      background: var(--vermelho);
+      padding: 0 0.9rem;
+      border-radius: 0 20px 20px 0;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+    }
+    .busca-form button:hover { background: #c4162f; }
+    .barra-contato {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1.5rem;
+      color: #fff;
+      font-size: 0.9rem;
+      justify-content: center;
+      align-items: center;
+    }
+    .barra-contato span { display: flex; align-items: center; gap: 0.3rem; }
+    .barra-contato a { color: #fff; text-decoration: none; font-weight: 600; }
+    .barra-contato a:hover { text-decoration: underline; }
+    .whats-topo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: #25d366;
+      color: #fff !important;
+      font-weight: 700;
+      font-size: 0.95rem;
+      padding: 0.5rem 1.2rem;
+      border-radius: 22px;
+      text-decoration: none !important;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+      order: -1;
+    }
+    .whats-topo:hover { background: #1eb455; text-decoration: none !important; }
+    .whats-topo svg { width: 18px; height: 18px; flex-shrink: 0; }
+
+    /* Busca da lateral (acima de Categorias) */
+    .busca-form-topo { display: flex; width: 100%; margin-bottom: 0.9rem; }
+    .busca-form-topo input {
+      flex: 1;
+      border: 1px solid #d5dbe4;
+      border-right: none;
+      padding: 0.5rem 0.8rem;
+      border-radius: 20px 0 0 20px;
+      font-size: 0.9rem;
+      outline: none;
+      min-width: 0;
+    }
+    .busca-form-topo button {
+      border: none;
+      background: var(--vermelho);
+      padding: 0 0.95rem;
+      border-radius: 0 20px 20px 0;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+    }
+    .busca-form-topo button:hover { background: #c4162f; }
+
+    /* Nome ao lado da logo */
+    .marca { display: flex; align-items: center; gap: 0.6rem; }
+    .nome-topo { flex: 1; text-align: center; margin: 0 1.5rem; color: var(--azul); font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 3.8rem; letter-spacing: -1px; line-height: 1.05; }
+    @media (max-width: 600px) { .nome-topo { font-size: 1.8rem; margin: 0 0.5rem; } }
+
+    /* Faixa de vantagens */
+    .vantagens {
+      display: flex;
+      justify-content: center;
+      gap: 2.5rem;
+      flex-wrap: wrap;
+      background: var(--cor-clara);
+      padding: 0.7rem 1rem;
+      font-size: 0.9rem;
+      color: var(--azul);
+      border-bottom: 1px solid #e6eaf0;
+    }
+    .vantagens span { display: flex; align-items: center; gap: 0.4rem; font-weight: 600; }
+
+    /* Produtos em destaque */
+    .grid-produtos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.2rem;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .prod {
+      background: #fff;
+      border: 1px solid #eef1f5;
+      border-radius: 10px;
+      padding: 1rem;
+      text-align: center;
+      transition: transform 0.2s, box-shadow 0.2s;
+      display: flex;
+      flex-direction: column;
+    }
+    .prod:hover { transform: translateY(-4px); box-shadow: 0 8px 18px rgba(0,0,0,0.1); }
+    .prod img { width: 100%; height: 140px; object-fit: cover; border-radius: 8px; margin-bottom: 0.7rem; }
+    .prod h4 { color: var(--azul); font-size: 0.98rem; margin-bottom: 0.3rem; }
+    .prod .preco { color: var(--vermelho); font-weight: 700; margin-bottom: 0.8rem; font-size: 0.95rem; }
+    .btn-mini {
+      margin-top: auto;
+      background: #25d366;
+      color: #fff;
+      text-decoration: none;
+      padding: 0.5rem;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+    .btn-mini:hover { background: #1eb455; }
+
+    /* Topo: menu + nome */
+    .topo-wrap {
+      display: flex;
+      gap: 2rem;
+      max-width: none;
+      margin: 0;
+      padding: 1rem 2.5rem;
+      align-items: flex-start;
+    }
+    .topo-wrap .sidebar { flex: 0 0 230px; }
+    .topo-wrap .hero { flex: 1; }
+    .topo-wrap .segmentos-topo { flex: 1; }
+
+    /* Carrossel rotativo */
+    .carrossel {
+      position: relative;
+      width: 100%;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    }
+    .carrossel .slide {
+      display: none;
+      width: 100%;
+      height: 360px;
+      object-fit: cover;
+    }
+    .carrossel .slide.ativo { display: block; animation: fade 0.8s; }
+    @keyframes fade { from { opacity: 0.3; } to { opacity: 1; } }
+    .carrossel .seta {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.4);
+      color: #fff;
+      border: none;
+      font-size: 1.8rem;
+      line-height: 1;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    .carrossel .seta:hover { background: rgba(0,0,0,0.65); }
+    .carrossel .prev { left: 12px; }
+    .carrossel .next { right: 12px; }
+    .carrossel .pontos {
+      position: absolute;
+      bottom: 12px;
+      left: 0; right: 0;
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+    }
+    .carrossel .ponto {
+      width: 12px; height: 12px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.6);
+      cursor: pointer;
+    }
+    .carrossel .ponto.ativo { background: #fff; }
+    @media (max-width: 760px) {
+      .topo-wrap { flex-direction: column; }
+      .topo-wrap .sidebar { flex: none; width: 100%; }
+    }
+
+    /* Seção principal (hero) */
+    .hero {
+      background: #fff;
+      color: var(--azul);
+      text-align: center;
+      padding: 0.8rem 2rem 2.5rem;
+      border-bottom: none;
+    }
+    .hero h1 { font-size: 3.8rem; margin-bottom: 0.6rem; color: var(--azul); }
+    .hero p { font-size: 1.1rem; max-width: 620px; margin: 0 auto 1.2rem; color: var(--cor-texto); }
+    .dados-empresa {
+      max-width: 620px;
+      margin: 0 auto 1.2rem;
+      font-size: 1rem;
+      color: var(--cor-texto);
+    }
+    .dados-empresa p { margin: 0.25rem 0; }
+    .link-whats { color: var(--cor-texto); font-weight: 700; text-decoration: none; }
+    .link-whats:hover { text-decoration: underline; }
+    .btn {
+      display: inline-block;
+      background: var(--vermelho);
+      color: #fff;
+      padding: 0.8rem 2.2rem;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: transform 0.2s, background 0.2s;
+    }
+    .btn:hover { transform: translateY(-2px); background: #c4162f; }
+
+    /* Seções gerais */
+    section { padding: 4rem 2rem; max-width: 1000px; margin: 0 auto; }
+    section h2 {
+      text-align: center;
+      font-size: 2rem;
+      color: var(--azul);
+      margin-bottom: 0.5rem;
+    }
+    section h2 + .linha {
+      width: 60px; height: 4px; background: var(--vermelho);
+      margin: 0 auto 2.5rem; border-radius: 2px;
+    }
+
+    /* Serviços */
+    #servicos { padding-top: 1.5rem; }
+    .servicos {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+    .card {
+      background: var(--cor-clara);
+      padding: 1.2rem 1rem;
+      border-radius: 10px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+      text-align: center;
+      border-top: 4px solid var(--vermelho);
+    }
+    .card .icone {
+      font-size: 2.6rem;
+      margin: 0 auto 0.7rem;
+      width: 84px;
+      height: 84px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      box-shadow: 6px 6px 14px rgba(26,47,82,0.18),
+                  -5px -5px 12px rgba(255,255,255,0.9),
+                  inset 2px 2px 4px rgba(255,255,255,0.6);
+      filter: drop-shadow(2px 3px 2px rgba(0,0,0,0.15));
+    }
+    .card .foto {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 0.7rem;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+    }
+    .card h3 { color: var(--azul); margin-bottom: 0.4rem; font-size: 1.05rem; }
+    .card p { font-size: 0.9rem; }
+
+    /* Produtos com barra lateral */
+    #produtos { padding-top: 0.5rem; }
+    .sidebar li.grupo {
+      color: var(--vermelho);
+      font-weight: 700;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-top: 0.9rem;
+      cursor: default;
+      padding-bottom: 0.2rem;
+      border-bottom: 1px solid #e0e5ec;
+    }
+    .sidebar li.grupo:hover { background: none; }
+    .sidebar li.sub { padding-left: 1.2rem; }
+    .produtos-wrap {
+      display: flex;
+      gap: 1.5rem;
+      max-width: 1000px;
+      margin: 0 auto;
+      align-items: flex-start;
+    }
+    .sidebar {
+      flex: 0 0 220px;
+      background: var(--cor-clara);
+      border-radius: 10px;
+      padding: 1rem;
+      border-top: 4px solid var(--vermelho);
+    }
+    .sidebar h3 { color: var(--azul); margin-bottom: 0.8rem; font-size: 1.1rem; }
+    .sidebar input {
+      width: 100%;
+      padding: 0.5rem 0.7rem;
+      border: 1px solid #d5dbe4;
+      border-radius: 6px;
+      margin-bottom: 0.8rem;
+      font-size: 0.9rem;
+    }
+    .sidebar ul { list-style: none; }
+    .sidebar li {
+      padding: 0.55rem 0.7rem;
+      border-radius: 6px;
+      cursor: pointer;
+      color: var(--cor-texto);
+      font-size: 0.95rem;
+      transition: background 0.15s;
+    }
+    .sidebar li:hover { background: #e8edf3; }
+    .sidebar li.ativo { background: var(--vermelho); color: #fff; font-weight: 600; }
+    .produtos-main {
+      flex: 1;
+      min-height: 200px;
+      background: #fff;
+      border: 1px solid #eef1f5;
+      border-radius: 10px;
+      padding: 2rem;
+      text-align: center;
+      color: var(--cor-texto);
+    }
+    @media (max-width: 700px) {
+      .produtos-wrap { flex-direction: column; }
+      .sidebar { flex: none; width: 100%; }
+    }
+
+    /* Sobre */
+    .sobre { background: #fff; max-width: none; }
+    .sobre .conteudo { max-width: 700px; margin: 0 auto; text-align: center; }
+
+    /* Contato */
+    .contato-info { text-align: center; font-size: 1.1rem; }
+    .contato-info p { margin-bottom: 0.6rem; }
+
+    /* Rodapé */
+    footer {
+      background: var(--azul);
+      color: #cbd5e1;
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+    }
+
+    /* Botão de WhatsApp */
+    .btn-whats {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: #25d366;
+      color: #fff;
+      padding: 0.8rem 1.8rem;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: transform 0.2s, background 0.2s;
+    }
+    .btn-whats:hover { transform: translateY(-2px); background: #1eb455; }
+
+    /* Botão flutuante de WhatsApp */
+    .whats-flutuante {
+      position: fixed;
+      bottom: 22px;
+      right: 22px;
+      background: #25d366;
+      color: #fff;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+      z-index: 20;
+      transition: transform 0.2s;
+    }
+    .whats-flutuante:hover { transform: scale(1.08); }
+    .whats-flutuante svg { width: 34px; height: 34px; fill: #fff; }
+
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 2rem; }
+      header { flex-direction: column; gap: 0.6rem; }
+      nav a { margin: 0 0.7rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== Cabeçalho com a logo ===== -->
+  <header>
+    <img src="logo-toledo.png" alt="Distribuidora Toledo" class="logo">
+    <span class="nome-topo">Toledo Distribuidora</span>
+    <nav>
+      <a href="#inicio">Início</a>
+      <a href="#servicos">Serviços</a>
+      <a href="#sobre">Sobre</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <!-- ===== Barra de busca do topo ===== -->
+  <div class="barra-busca">
+    <div class="barra-contato">
+      <a class="whats-topo" href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20produtos%20da%20Distribuidora%20Toledo." target="_blank" rel="noopener">
+        <svg viewBox="0 0 32 32" fill="#fff"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1 1-4.7-.3-.4C5.5 18.4 5 16.7 5 15c0-5.5 4.9-10 11-10s11 4.5 11 10-4.9 9.8-11 9.8zm5.5-7.4c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5 0-.2-.7-1.7-1-2.3-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.3 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.2-.3-.3-.6-.4z"/></svg>
+        WhatsApp: (31) 9 8511-3106
+      </a>
+      <span>📞 (31) 3771-6262 | (31) 3771-9696</span>
+      <span>✉️ toledo@toledodistribuidora.com.br</span>
+      <span>📍 Rua São Paulo, 67 - Boa Vista, Sete Lagoas/MG - CEP: 35700-094</span>
+    </div>
+  </div>
+
+  <!-- ===== Faixa de vantagens ===== -->
+  <div class="vantagens">
+    <span>💬 Atendimento pelo WhatsApp</span>
+    <span>💳 PIX e cartão em até 10x</span>
+    <span>🚚 Entrega para toda a região</span>
+  </div>
+
+  <!-- ===== Topo: menu de categorias + nome da empresa ===== -->
+  <div class="topo-wrap">
+    <aside class="sidebar">
+      <form class="busca-form-topo" onsubmit="return buscarTopo(event)">
+        <input type="text" id="busca-topo" placeholder="O que você procura?">
+        <button type="submit" aria-label="Pesquisar">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
+      </form>
+      <h3>Categorias</h3>
+      <input type="text" id="busca-cat" placeholder="Pesquisar categoria...">
+      <ul id="lista-cat">
+        <li class="grupo">Papelaria</li>
+        <li class="sub">Escrita</li>
+        <li class="sub">Cadernos</li>
+        <li class="sub">Mochilas</li>
+        <li class="sub">Estojos</li>
+        <li class="sub">Adesivos</li>
+        <li class="sub">Pastas</li>
+        <li class="grupo">Embalagens</li>
+        <li class="sub">Marmitex de isopor</li>
+        <li class="sub">Sacolas</li>
+        <li class="sub">Caixas</li>
+        <li class="grupo">Descartáveis</li>
+        <li class="sub">Copos e pratos</li>
+        <li class="sub">Talheres</li>
+        <li class="grupo">Produtos de Limpeza</li>
+        <li class="sub">Sacos para lixo</li>
+        <li class="sub">Itens de limpeza</li>
+      </ul>
+    </aside>
+
+  <!-- ===== Carrossel de imagens em destaque ===== -->
+  <!-- Para trocar as imagens, mude o "src" de cada <img class="slide"> pela sua foto -->
+  <div class="segmentos-topo" id="inicio">
+    <div class="carrossel">
+      <div id="slides">
+        <img class="slide ativo" src="https://placehold.co/1000x360/1a2f52/ffffff?text=Sua+imagem+de+destaque+1" alt="Destaque 1">
+        <img class="slide" src="https://placehold.co/1000x360/e01e3c/ffffff?text=Sua+imagem+de+destaque+2" alt="Destaque 2">
+        <img class="slide" src="https://placehold.co/1000x360/1a2f52/ffffff?text=Sua+imagem+de+destaque+3" alt="Destaque 3">
+      </div>
+      <button class="seta prev" onclick="mudarSlide(-1)" aria-label="Anterior">&#8249;</button>
+      <button class="seta next" onclick="mudarSlide(1)" aria-label="Próximo">&#8250;</button>
+      <div class="pontos" id="pontos"></div>
+    </div>
+  </div>
+  </div><!-- fim topo-wrap -->
+
+  <!-- ===== Produtos em destaque ===== -->
+  <section id="destaques">
+    <h2>Destaques</h2>
+    <div class="linha"></div>
+    <div class="grid-produtos">
+      <div class="prod">
+        <img src="https://loremflickr.com/300/220/pen,writing" alt="Produto">
+        <h4>Nome do produto 1</h4>
+        <p class="preco">Consulte o preço</p>
+        <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20saber%20o%20pre%C3%A7o%20do%20produto%201." target="_blank" rel="noopener" class="btn-mini">Consultar no WhatsApp</a>
+      </div>
+      <div class="prod">
+        <img src="https://loremflickr.com/300/220/notebook,paper" alt="Produto">
+        <h4>Nome do produto 2</h4>
+        <p class="preco">Consulte o preço</p>
+        <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20saber%20o%20pre%C3%A7o%20do%20produto%202." target="_blank" rel="noopener" class="btn-mini">Consultar no WhatsApp</a>
+      </div>
+      <div class="prod">
+        <img src="https://loremflickr.com/300/220/backpack" alt="Produto">
+        <h4>Nome do produto 3</h4>
+        <p class="preco">Consulte o preço</p>
+        <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20saber%20o%20pre%C3%A7o%20do%20produto%203." target="_blank" rel="noopener" class="btn-mini">Consultar no WhatsApp</a>
+      </div>
+      <div class="prod">
+        <img src="https://loremflickr.com/300/220/box,packaging" alt="Produto">
+        <h4>Nome do produto 4</h4>
+        <p class="preco">Consulte o preço</p>
+        <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20saber%20o%20pre%C3%A7o%20do%20produto%204." target="_blank" rel="noopener" class="btn-mini">Consultar no WhatsApp</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Produtos com barra lateral de categorias ===== -->
+  <section id="produtos">
+    <h2>Produtos</h2>
+    <div class="linha"></div>
+    <div class="produtos-main" id="produtos-main">
+      <p>Selecione uma categoria no menu ao lado do nome da empresa para ver os produtos.</p>
+    </div>
+  </section>
+
+  <!-- ===== Sobre ===== -->
+  <section class="sobre" id="sobre">
+    <div style="max-width:1000px;margin:0 auto;">
+      <h2>Sobre Nós</h2>
+      <div class="linha"></div>
+      <div class="conteudo">
+        <p>A Distribuidora Toledo é especializada na revenda de produtos de papelaria,
+        embalagens e descartáveis. Atendemos empresas, comércios e consumidores com
+        variedade, qualidade e preços competitivos, sempre com um atendimento próximo
+        e de confiança.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Contato (coloque seus dados reais) ===== -->
+  <section id="contato">
+    <h2>Contato</h2>
+    <div class="linha"></div>
+    <div class="contato-info">
+      <p>📞 Telefones: (31) 3771-6262 &nbsp;|&nbsp; (31) 3771-9696</p>
+      <p>📱 WhatsApp: (31) 9 8511-3106</p>
+      <p>✉️ E-mail: toledo@toledodistribuidora.com.br</p>
+      <p style="margin-top:1.5rem;">
+        <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20produtos%20da%20Distribuidora%20Toledo."
+           target="_blank" rel="noopener" class="btn-whats">
+          <svg viewBox="0 0 32 32" width="20" height="20" fill="#fff"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1 1-4.7-.3-.4C5.5 18.4 5 16.7 5 15c0-5.5 4.9-10 11-10s11 4.5 11 10-4.9 9.8-11 9.8zm5.5-7.4c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5 0-.2-.7-1.7-1-2.3-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.3 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.2-.3-.3-.6-.4z"/></svg>
+          Chamar no WhatsApp
+        </a>
+      </p>
+    </div>
+  </section>
+
+  <!-- ===== Botão flutuante de WhatsApp ===== -->
+  <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20produtos%20da%20Distribuidora%20Toledo."
+     target="_blank" rel="noopener" class="whats-flutuante" aria-label="Fale conosco no WhatsApp">
+    <svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1 1-4.7-.3-.4C5.5 18.4 5 16.7 5 15c0-5.5 4.9-10 11-10s11 4.5 11 10-4.9 9.8-11 9.8zm5.5-7.4c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5 0-.2-.7-1.7-1-2.3-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.3 5.2 4.6.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.2-.3-.3-.6-.4z"/></svg>
+  </a>
+
+  <!-- ===== Rodapé ===== -->
+  <footer>
+    <p>&copy; 2026 Distribuidora Toledo. Todos os direitos reservados.</p>
+  </footer>
+
+  <!-- ===== Script da barra de categorias ===== -->
+  <script>
+    const itens = document.querySelectorAll('#lista-cat li.sub');
+    const grupos = document.querySelectorAll('#lista-cat li.grupo');
+    const painel = document.getElementById('produtos-main');
+    itens.forEach(function (li) {
+      li.addEventListener('click', function () {
+        itens.forEach(function (i) { i.classList.remove('ativo'); });
+        li.classList.add('ativo');
+        painel.innerHTML = '<h3 style="color:#1a2f52;margin-bottom:0.5rem;">' + li.textContent + '</h3>' +
+          '<p>Em breve os produtos da categoria <strong>' + li.textContent + '</strong> aparecerão aqui.</p>';
+        document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+      });
+    });
+    function filtrar(termo) {
+      termo = termo.toLowerCase();
+      itens.forEach(function (li) {
+        li.style.display = li.textContent.toLowerCase().indexOf(termo) > -1 ? '' : 'none';
+      });
+      grupos.forEach(function (g) { g.style.display = termo ? 'none' : ''; });
+    }
+    const busca = document.getElementById('busca-cat');
+    busca.addEventListener('input', function () { filtrar(busca.value); });
+
+    // Busca do topo
+    function buscarTopo(e) {
+      e.preventDefault();
+      const termo = document.getElementById('busca-topo').value;
+      filtrar(termo);
+      if (busca) busca.value = termo;
+      document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+      return false;
+    }
+    window.buscarTopo = buscarTopo;
+
+    // Carrossel rotativo
+    var idx = 0;
+    var slides = document.querySelectorAll('#slides .slide');
+    var pontosBox = document.getElementById('pontos');
+    slides.forEach(function (s, i) {
+      var d = document.createElement('span');
+      d.className = 'ponto' + (i === 0 ? ' ativo' : '');
+      d.addEventListener('click', function () { mostrar(i); });
+      pontosBox.appendChild(d);
+    });
+    var pontos = pontosBox.querySelectorAll('.ponto');
+    function mostrar(n) {
+      slides.forEach(function (s) { s.classList.remove('ativo'); });
+      pontos.forEach(function (p) { p.classList.remove('ativo'); });
+      slides[n].classList.add('ativo');
+      pontos[n].classList.add('ativo');
+      idx = n;
+    }
+    function mudarSlide(d) {
+      mostrar((idx + d + slides.length) % slides.length);
+    }
+    window.mudarSlide = mudarSlide;
+    if (slides.length > 1) { setInterval(function () { mudarSlide(1); }, 4000); }
+  </script>
+
+</body>
+</html>
