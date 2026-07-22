@@ -1,0 +1,9 @@
+# Arquivos temporarios e de sistema
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+
+# Prints e rascunhos que nao fazem parte do site
+WhatsApp Image*
+*_rascunho*
