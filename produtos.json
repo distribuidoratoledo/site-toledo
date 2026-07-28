@@ -9,70 +9,70 @@
      "nome": "CANETA BIC CRISTAL-AZUL",
      "marca": "BIC",
      "preco": 1.3,
-     "img": null
+     "img": "produtos/552.jpg"
     },
     {
      "cod": 553,
      "nome": "CANETA BIC CRISTAL-PRETA",
      "marca": "BIC",
      "preco": 1.3,
-     "img": null
+     "img": "produtos/553.jpg"
     },
     {
      "cod": 555,
      "nome": "CANETA BIC FINE PLUS-AZUL",
      "marca": "BIC",
      "preco": 1.5,
-     "img": null
+     "img": "produtos/555.jpg"
     },
     {
      "cod": 9369,
      "nome": "CANETA JOCAR 1.0-AZUL",
      "marca": "JOCAR",
      "preco": 1.0,
-     "img": null
+     "img": "produtos/9369.jpg"
     },
     {
      "cod": 554,
      "nome": "CANETA BIC CRISTAL-VERMELHA",
      "marca": "BIC",
      "preco": 1.3,
-     "img": null
+     "img": "produtos/554.jpg"
     },
     {
      "cod": 562,
      "nome": "CANETA CIS SPIRO-AZUL ESCURO",
      "marca": "CIS",
      "preco": 4.5,
-     "img": null
+     "img": "produtos/562.jpg"
     },
     {
      "cod": 9370,
      "nome": "CANETA JOCAR 1.0-PRETA",
      "marca": "JOCAR",
      "preco": 1.0,
-     "img": null
+     "img": "produtos/9370.jpg"
     },
     {
      "cod": 569,
      "nome": "CANETA COMPACTOR-AZUL",
      "marca": "COMPACTOR",
      "preco": 1.5,
-     "img": null
+     "img": "produtos/569.jpg"
     },
     {
      "cod": 565,
      "nome": "CANETA CIS SPIRO-PRETA",
      "marca": "CIS",
      "preco": 4.5,
-     "img": null
+     "img": "produtos/565.jpg"
     },
     {
      "cod": 556,
      "nome": "CANETA BIC FINE PLUS-PRETA",
      "marca": "BIC",
      "preco": 1.5,
-     "img": null
+     "img": "produtos/556.jpg"
     },
     {
      "cod": 9371,
@@ -2194,18 +2194,18 @@
      "img": "produtos/1832.jpg"
     },
     {
-     "cod": 1833,
-     "nome": "MARCA TEXTO PILOT-VERDE",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/1833.jpg"
-    },
-    {
      "cod": 7533,
      "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
      "marca": "JOCAR",
      "preco": 2.5,
      "img": "produtos/7533.jpg"
+    },
+    {
+     "cod": 1833,
+     "nome": "MARCA TEXTO PILOT-VERDE",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/1833.jpg"
     },
     {
      "cod": 2353,
@@ -2306,13 +2306,6 @@
      "img": "produtos/7579.jpg"
     },
     {
-     "cod": 11571,
-     "nome": "MARCA TEXTO MAPED PASTEL-ROSA",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/11571.jpg"
-    },
-    {
      "cod": 12147,
      "nome": "MARCA TEXTO PILOT-VIOLETA",
      "marca": "PILOT",
@@ -2325,6 +2318,13 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg"
+    },
+    {
+     "cod": 11571,
+     "nome": "MARCA TEXTO MAPED PASTEL-ROSA",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/11571.jpg"
     },
     {
      "cod": 7532,
@@ -4259,70 +4259,70 @@
      "nome": "CADERNO 1X1 80F-MY COLLECTION FEMININO",
      "marca": "CREDEAL",
      "preco": 8.9,
-     "img": null
+     "img": "produtos/9329.jpg"
     },
     {
      "cod": 9324,
      "nome": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
      "marca": "CREDEAL",
      "preco": 9.9,
-     "img": null
+     "img": "produtos/9324.jpg"
     },
     {
      "cod": 10903,
      "nome": "CADERNO 10X1 160F-ESSENCIALE (CORES)",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": null
+     "img": "produtos/10903.jpg"
     },
     {
      "cod": 8142,
      "nome": "CADERNO 1X1 80F-BOM D+ FEMININO",
      "marca": "SD",
      "preco": 11.9,
-     "img": null
+     "img": "produtos/8142.jpg"
     },
     {
      "cod": 8149,
      "nome": "CADERNO 1X1 80F-BOM D+ MASCULINO",
      "marca": "SD",
      "preco": 11.9,
-     "img": null
+     "img": "produtos/8149.jpg"
     },
     {
      "cod": 8255,
      "nome": "CADERNO 10X1 160F-ESSENCIALE PRETO",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": null
+     "img": "produtos/8255.jpg"
     },
     {
      "cod": 12407,
      "nome": "CADERNO CD 80F-SUPER CARS",
      "marca": "CREDEAL",
      "preco": 12.9,
-     "img": null
+     "img": "produtos/12407.jpg"
     },
     {
      "cod": 8244,
      "nome": "CADERNO CD 96F-FOXY KIDS",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": null
+     "img": "produtos/8244.jpg"
     },
     {
      "cod": 8246,
      "nome": "CADERNO CD 80F-LALA PETS",
      "marca": "CREDEAL",
      "preco": 12.9,
-     "img": null
+     "img": "produtos/8246.jpg"
     },
     {
      "cod": 12405,
      "nome": "CADERNO CD 80F-TURMA DA LALA",
      "marca": "CREDEAL",
      "preco": 10.9,
-     "img": null
+     "img": "produtos/12405.jpg"
     },
     {
      "cod": 11432,
@@ -7984,6 +7984,2265 @@
      "marca": "THOMPSON",
      "preco": 26.9,
      "img": "produtos/9116.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "corretivo",
+   "nome": "Corretivo",
+   "itens": [
+    {
+     "cod": 7549,
+     "nome": "CORRETIVO PINCEL 18ML-JOCAR",
+     "marca": "JOCAR",
+     "preco": 3.9,
+     "img": "produtos/7549.jpg"
+    },
+    {
+     "cod": 4212,
+     "nome": "CORRETIVO PINCEL-MERCUR",
+     "marca": "MERCUR",
+     "preco": 4.9,
+     "img": "produtos/4212.jpg"
+    },
+    {
+     "cod": 11867,
+     "nome": "CORRETIVO FITA 5M-BRW (PET)",
+     "marca": "BRW",
+     "preco": 8.9,
+     "img": "produtos/11867.jpg"
+    },
+    {
+     "cod": 13146,
+     "nome": "CORRETIVO FITA 5M-TILIBRA (SNOOPY)",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/13146.jpg"
+    },
+    {
+     "cod": 982,
+     "nome": "CORRETIVO FITA 6M-JOCAR",
+     "marca": "JOCAR",
+     "preco": 6.9,
+     "img": "produtos/982.jpg"
+    },
+    {
+     "cod": 983,
+     "nome": "CORRETIVO FITA 6M-MERCUR (RECAR.)",
+     "marca": "MERCUR",
+     "preco": 16.9,
+     "img": "produtos/983.jpg"
+    },
+    {
+     "cod": 7685,
+     "nome": "CORRETIVO FITA 6M-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 9.9,
+     "img": "produtos/7685.jpg"
+    },
+    {
+     "cod": 12225,
+     "nome": "COLA FITA 6M-BRW",
+     "marca": "BRW",
+     "preco": 9.9,
+     "img": "produtos/12225.jpg"
+    },
+    {
+     "cod": 13145,
+     "nome": "CORRETIVO FITA 6M-TILIBRA (PURRFECT)",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/13145.jpg"
+    },
+    {
+     "cod": 6632,
+     "nome": "CORRETIVO FITA 6M-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 5.9,
+     "img": "produtos/6632.jpg"
+    },
+    {
+     "cod": 7291,
+     "nome": "CORRETIVO FITA 10M-JOCAR",
+     "marca": "JOCAR",
+     "preco": 8.9,
+     "img": "produtos/7291.jpg"
+    },
+    {
+     "cod": 12303,
+     "nome": "CORRETIVO FITA 10M-MOLIN (STITCH E ANGEL)",
+     "marca": "MOLIN",
+     "preco": 26.9,
+     "img": "produtos/12303.jpg"
+    },
+    {
+     "cod": 981,
+     "nome": "CORRETIVO FITA 12M-MERCUR",
+     "marca": "MERCUR",
+     "preco": 19.9,
+     "img": "produtos/981.jpg"
+    },
+    {
+     "cod": 9874,
+     "nome": "CORRETIVO FITA 12M-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 4.9,
+     "img": "produtos/9874.jpg"
+    },
+    {
+     "cod": 4176,
+     "nome": "CORRETIVO CANETA 4ML CIS",
+     "marca": "CIS",
+     "preco": 7.9,
+     "img": "produtos/4176.jpg"
+    },
+    {
+     "cod": 14000,
+     "nome": "CORRETIVO CANETA 4,2ML PENTEL",
+     "marca": "PENTEL",
+     "preco": 10.9,
+     "img": "produtos/14000.jpg"
+    },
+    {
+     "cod": 6109,
+     "nome": "CORRETIVO CANETA 7ML MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 5.9,
+     "img": "produtos/6109.jpg"
+    },
+    {
+     "cod": 979,
+     "nome": "CORRETIVO CANETA 8ML JOCAR",
+     "marca": "JOCAR",
+     "preco": 5.9,
+     "img": "produtos/979.jpg"
+    },
+    {
+     "cod": 978,
+     "nome": "CORRETIVO CANETA 8ML MERCUR (BRANCA)",
+     "marca": "MERCUR",
+     "preco": 17.9,
+     "img": "produtos/978.jpg"
+    },
+    {
+     "cod": 2618,
+     "nome": "REFIL CORRETIVO FITA MERCUR 6M",
+     "marca": "MERCUR",
+     "preco": 12.9,
+     "img": "produtos/2618.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "extrator",
+   "nome": "Extrator",
+   "itens": [
+    {
+     "cod": 6613,
+     "nome": "EXTRATOR GRAMPO",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/6613.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "grampo",
+   "nome": "Grampo",
+   "itens": [
+    {
+     "cod": 9505,
+     "nome": "GRAMPO 26/6 C/5000-JOCAR (GALVANIZADO)",
+     "marca": "JOCAR",
+     "preco": 4.5,
+     "img": "produtos/9505.jpg"
+    },
+    {
+     "cod": 1537,
+     "nome": "GRAMPO 26/6 C/5000-ACC (GALVANIZADO)",
+     "marca": "ACC",
+     "preco": 13.9,
+     "img": "produtos/1537.jpg"
+    },
+    {
+     "cod": 1538,
+     "nome": "GRAMPO 26/6 C/5000-JOCAR (COBREADO)",
+     "marca": "JOCAR",
+     "preco": 6.9,
+     "img": "produtos/1538.jpg"
+    },
+    {
+     "cod": 1536,
+     "nome": "GRAMPO 26/6 C/5000-ACC (COBREADO)",
+     "marca": "ACC",
+     "preco": 13.9,
+     "img": "produtos/1536.jpg"
+    },
+    {
+     "cod": 3479,
+     "nome": "GRAMPO 26/6 C/5000-TOP (COBREADO)",
+     "marca": "TOP",
+     "preco": 7.9,
+     "img": "produtos/3479.jpg"
+    },
+    {
+     "cod": 10248,
+     "nome": "GRAMPO 26/6 C/1000-JOCAR (GALVANIZADO)",
+     "marca": "JOCAR",
+     "preco": 2.9,
+     "img": "produtos/10248.jpg"
+    },
+    {
+     "cod": 4361,
+     "nome": "GRAMPO 26/8 C/5000-ACC (GALVANIZADO)",
+     "marca": "ACC",
+     "preco": 25.9,
+     "img": "produtos/4361.jpg"
+    },
+    {
+     "cod": 1539,
+     "nome": "GRAMPO 26/6 C/5000-TOP (GALVANIZADO)",
+     "marca": "TOP",
+     "preco": 7.5,
+     "img": "produtos/1539.jpg"
+    },
+    {
+     "cod": 1540,
+     "nome": "GRAMPO 9/10-23/10 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 46.9,
+     "img": "produtos/1540.jpg"
+    },
+    {
+     "cod": 1543,
+     "nome": "GRAMPO 9/14-23/13 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 39.9,
+     "img": "produtos/1543.jpg"
+    },
+    {
+     "cod": 9507,
+     "nome": "GRAMPO/CLIPS (PEQ) N°2 TRUNFO C/50-BACCHI",
+     "marca": "BACCHI",
+     "preco": 12.9,
+     "img": "produtos/9507.jpg"
+    },
+    {
+     "cod": 3476,
+     "nome": "GRAMPO 23/13 C/1000",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/3476.jpg"
+    },
+    {
+     "cod": 1530,
+     "nome": "GRAMPO 106/6 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 28.9,
+     "img": "produtos/1530.jpg"
+    },
+    {
+     "cod": 1532,
+     "nome": "GRAMPO 106/8 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 33.9,
+     "img": "produtos/1532.jpg"
+    },
+    {
+     "cod": 12117,
+     "nome": "GRAMPO 26/8 C/5000-CIS",
+     "marca": "CIS",
+     "preco": 18.9,
+     "img": "produtos/12117.jpg"
+    },
+    {
+     "cod": 1546,
+     "nome": "GRAMPO TRILHO PLAST. DELLO ESTENDIDO C/50",
+     "marca": "DELLO",
+     "preco": 29.9,
+     "img": "produtos/1546.jpg"
+    },
+    {
+     "cod": 4155,
+     "nome": "GRAMPO TRILHO JOCAR METAL C/50",
+     "marca": "JOCAR",
+     "preco": 15.9,
+     "img": "produtos/4155.jpg"
+    },
+    {
+     "cod": 1547,
+     "nome": "GRAMPO TRILHO ACC METAL C/50",
+     "marca": "ACC",
+     "preco": 32.9,
+     "img": "produtos/1547.jpg"
+    },
+    {
+     "cod": 8169,
+     "nome": "GRAMPO TRILHO PLAST (ESTENDIDO) C/10",
+     "marca": "",
+     "preco": 6.0,
+     "img": null
+    },
+    {
+     "cod": 1545,
+     "nome": "GRAMPO TOT C/1000-CHAPARRAU",
+     "marca": "CHAPARRAU",
+     "preco": 4.9,
+     "img": "produtos/1545.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "impresso",
+   "nome": "Impresso",
+   "itens": [
+    {
+     "cod": 2603,
+     "nome": "BLOCO RECIBO S/C C/50FL-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 3.0,
+     "img": "produtos/2603.jpg"
+    },
+    {
+     "cod": 2601,
+     "nome": "BLOCO RECIBO C/C 50F-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 3.5,
+     "img": "produtos/2601.jpg"
+    },
+    {
+     "cod": 2602,
+     "nome": "BLOCO RECIBO C/C 50F-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 4.0,
+     "img": "produtos/2602.jpg"
+    },
+    {
+     "cod": 4508,
+     "nome": "BLOCO RECIBO SALARIO E PROVENTOS GRIFFE C/50FL",
+     "marca": "GRIFFE",
+     "preco": 5.5,
+     "img": "produtos/4508.jpg"
+    },
+    {
+     "cod": 2605,
+     "nome": "BLOCO RECIBO EMPREG. DOMEST. 50F",
+     "marca": "MINASPEL",
+     "preco": 2.0,
+     "img": "produtos/2605.jpg"
+    },
+    {
+     "cod": 3631,
+     "nome": "BLOCO RECIBO S/C 50F-TILIBRA GRD (210X140MM)",
+     "marca": "TILIBRA",
+     "preco": 4.9,
+     "img": "produtos/3631.jpg"
+    },
+    {
+     "cod": 3854,
+     "nome": "BLOCO VALE S/C 50F-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/3854.jpg"
+    },
+    {
+     "cod": 3096,
+     "nome": "BLOCO VALE C/C 50F-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 2.5,
+     "img": "produtos/3096.jpg"
+    },
+    {
+     "cod": 3095,
+     "nome": "BLOCO VALE C/C 100F-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 4.5,
+     "img": "produtos/3095.jpg"
+    },
+    {
+     "cod": 3099,
+     "nome": "BLOCO VALE S/C 100F-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/3099.jpg"
+    },
+    {
+     "cod": 2283,
+     "nome": "BLOCO PEDIDO 1V GRIFFE C/50FL",
+     "marca": "GRIFFE",
+     "preco": 4.5,
+     "img": "produtos/2283.jpg"
+    },
+    {
+     "cod": 2285,
+     "nome": "BLOCO PEDIDO 2V GRIFFE C/50FL",
+     "marca": "GRIFFE",
+     "preco": 4.9,
+     "img": "produtos/2285.jpg"
+    },
+    {
+     "cod": 2286,
+     "nome": "BLOCO PEDIDO 2V TILIBRA C/50FL",
+     "marca": "TILIBRA",
+     "preco": 9.9,
+     "img": "produtos/2286.jpg"
+    },
+    {
+     "cod": 2284,
+     "nome": "BLOCO PEDIDO 1V TILIBRA C/50FL",
+     "marca": "TILIBRA",
+     "preco": 5.9,
+     "img": "produtos/2284.jpg"
+    },
+    {
+     "cod": 3589,
+     "nome": "PEDIDO OFICIO 1V 50F-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 9.9,
+     "img": "produtos/3589.jpg"
+    },
+    {
+     "cod": 2288,
+     "nome": "BLOCO PEDIDO 3V TILIBRA C/72FL",
+     "marca": "TILIBRA",
+     "preco": 8.5,
+     "img": "produtos/2288.jpg"
+    },
+    {
+     "cod": 2289,
+     "nome": "BLOCO PEDIDO 3V GRIFFE C/75FL",
+     "marca": "GRIFFE",
+     "preco": 6.5,
+     "img": "produtos/2289.jpg"
+    },
+    {
+     "cod": 1981,
+     "nome": "BLOCO NOTA NEUTRA (S/C) GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 3.0,
+     "img": "produtos/1981.jpg"
+    },
+    {
+     "cod": 1979,
+     "nome": "BLOCO NOTA NEUTRA (C/C) GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 3.0,
+     "img": "produtos/1979.jpg"
+    },
+    {
+     "cod": 4320,
+     "nome": "BLOCO NOTA NEUTRA (S/C) TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 3.5,
+     "img": "produtos/4320.jpg"
+    },
+    {
+     "cod": 1977,
+     "nome": "BLOCO NOTA NEUTRA (C/C) TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 4.5,
+     "img": "produtos/1977.jpg"
+    },
+    {
+     "cod": 1983,
+     "nome": "BLOCO PROMISSORIA TILIBRA C/50F",
+     "marca": "TILIBRA",
+     "preco": 2.9,
+     "img": "produtos/1983.jpg"
+    },
+    {
+     "cod": 1982,
+     "nome": "BLOCO PROMISSORIA GRIFFE C/50F",
+     "marca": "GRIFFE",
+     "preco": 3.0,
+     "img": "produtos/1982.jpg"
+    },
+    {
+     "cod": 677,
+     "nome": "BLOCO CARNE GPS TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 6.9,
+     "img": "produtos/677.jpg"
+    },
+    {
+     "cod": 6675,
+     "nome": "BLOCO CARNE GPS TAMOIO",
+     "marca": "TAMOIO",
+     "preco": 6.9,
+     "img": "produtos/6675.jpg"
+    },
+    {
+     "cod": 7756,
+     "nome": "CARTAO PONTO C/100-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 19.9,
+     "img": "produtos/7756.jpg"
+    },
+    {
+     "cod": 680,
+     "nome": "CARTAO PONTO C/100-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 21.9,
+     "img": "produtos/680.jpg"
+    },
+    {
+     "cod": 4924,
+     "nome": "BLOCO CONTRATO DE LOCAÇAO (FOLHA)",
+     "marca": "GRIFFE",
+     "preco": 0.5,
+     "img": "produtos/4924.jpg"
+    },
+    {
+     "cod": 991,
+     "nome": "BLOCO CURRICULUN",
+     "marca": "GRIFFE",
+     "preco": 0.3,
+     "img": "produtos/991.jpg"
+    },
+    {
+     "cod": 204,
+     "nome": "BLOCO BINGO C/100 VERMELHO-TAMOIO",
+     "marca": "TAMOIO",
+     "preco": 5.5,
+     "img": "produtos/204.jpg"
+    },
+    {
+     "cod": 882,
+     "nome": "BLOCO COMANDO 2C 100F TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 4.5,
+     "img": "produtos/882.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "molha-dedo",
+   "nome": "Molha Dedo",
+   "itens": []
+  },
+  {
+   "slug": "papel",
+   "nome": "Papel",
+   "itens": [
+    {
+     "cod": 4502,
+     "nome": "PAPEL A4 C/100-BRANCO",
+     "marca": "CHAMEQUINH",
+     "preco": 9.9,
+     "img": "produtos/4502.jpg"
+    },
+    {
+     "cod": 3975,
+     "nome": "PAPEL A4 COLOR. C/100-AZUL",
+     "marca": "CHAMEQUINH",
+     "preco": 10.9,
+     "img": "produtos/3975.jpg"
+    },
+    {
+     "cod": 2007,
+     "nome": "PAPEL A4 COLOR. C/100-AMARELO",
+     "marca": "CHAMEQUINH",
+     "preco": 10.9,
+     "img": "produtos/2007.jpg"
+    },
+    {
+     "cod": 6313,
+     "nome": "PAPEL A4 COLOR. C/100-VERDE",
+     "marca": "CHAMEQUINH",
+     "preco": 10.9,
+     "img": "produtos/6313.jpg"
+    },
+    {
+     "cod": 6314,
+     "nome": "PAPEL A4 COLOR. C/100-ROSA",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/6314.jpg"
+    },
+    {
+     "cod": 9052,
+     "nome": "PAPEL A4 C/500 PRIMUS",
+     "marca": "PRIMUS",
+     "preco": 27.5,
+     "img": "produtos/9052.jpg"
+    },
+    {
+     "cod": 2014,
+     "nome": "PAPEL A4 C/500 PAPEX",
+     "marca": "PAPEX",
+     "preco": 32.9,
+     "img": "produtos/2014.jpg"
+    },
+    {
+     "cod": 2015,
+     "nome": "PAPEL A4 C/500 CHAMEX",
+     "marca": "CHAMEX",
+     "preco": 35.9,
+     "img": "produtos/2015.jpg"
+    },
+    {
+     "cod": 2130,
+     "nome": "PAPEL OFICIO 9 C/500",
+     "marca": "CHAMEX",
+     "preco": 28.0,
+     "img": "produtos/2130.jpg"
+    },
+    {
+     "cod": 2113,
+     "nome": "PAPEL KRAFT 80GR 66X96 (FOLHA)",
+     "marca": "SCRITY",
+     "preco": 1.5,
+     "img": "produtos/2113.jpg"
+    },
+    {
+     "cod": 6114,
+     "nome": "PAPEL 60KG (66X96)",
+     "marca": "",
+     "preco": 2.5,
+     "img": "produtos/6114.jpg"
+    },
+    {
+     "cod": 3583,
+     "nome": "PAPEL PARANA N.80 100X80CM",
+     "marca": "SANTECK",
+     "preco": 18.9,
+     "img": "produtos/3583.jpg"
+    },
+    {
+     "cod": 2034,
+     "nome": "CARTOLINA-BRANCA",
+     "marca": "GRIFFE",
+     "preco": 1.5,
+     "img": "produtos/2034.jpg"
+    },
+    {
+     "cod": 740,
+     "nome": "CARTAO-AMARELO",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/740.jpg"
+    },
+    {
+     "cod": 751,
+     "nome": "CARTAO-VERMELHO",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/751.jpg"
+    },
+    {
+     "cod": 2050,
+     "nome": "COLORSETE-VERMELHO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2050.jpg"
+    },
+    {
+     "cod": 2068,
+     "nome": "CREPOM AMARELO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/2068.jpg"
+    },
+    {
+     "cod": 2033,
+     "nome": "CARTOLINA-AZUL",
+     "marca": "GRIFFE",
+     "preco": 1.5,
+     "img": "produtos/2033.jpg"
+    },
+    {
+     "cod": 2079,
+     "nome": "CREPOM VERDE BANDEIRA",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/2079.jpg"
+    },
+    {
+     "cod": 2081,
+     "nome": "CREPOM VERMELHO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/2081.jpg"
+    },
+    {
+     "cod": 2047,
+     "nome": "COLORSETE-VERDE BANDEIRA",
+     "marca": "",
+     "preco": 1.2,
+     "img": "produtos/2047.jpg"
+    },
+    {
+     "cod": 2032,
+     "nome": "CARTOLINA-AMARELA",
+     "marca": "GRIFFE",
+     "preco": 1.5,
+     "img": "produtos/2032.jpg"
+    },
+    {
+     "cod": 2070,
+     "nome": "CREPOM AZUL ESCURO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/2070.jpg"
+    },
+    {
+     "cod": 2114,
+     "nome": "LAMINADO-AMARELO",
+     "marca": "CROMUS",
+     "preco": 1.5,
+     "img": "produtos/2114.jpg"
+    },
+    {
+     "cod": 2116,
+     "nome": "LAMINADO-PRATA",
+     "marca": "CROMUS",
+     "preco": 1.5,
+     "img": "produtos/2116.jpg"
+    },
+    {
+     "cod": 2039,
+     "nome": "COLORSETE-AZUL ESCURO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2039.jpg"
+    },
+    {
+     "cod": 5075,
+     "nome": "CREPOM BRANCO",
+     "marca": "",
+     "preco": 1.8,
+     "img": null
+    },
+    {
+     "cod": 2036,
+     "nome": "CARTOLINA-VERDE",
+     "marca": "MINASPEL",
+     "preco": 1.5,
+     "img": "produtos/2036.jpg"
+    },
+    {
+     "cod": 2037,
+     "nome": "COLORSETE-AMARELO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2037.jpg"
+    },
+    {
+     "cod": 2044,
+     "nome": "COLORSETE-PRETO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2044.jpg"
+    },
+    {
+     "cod": 2045,
+     "nome": "COLORSETE-ROSA",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2045.jpg"
+    },
+    {
+     "cod": 4181,
+     "nome": "COLORSETE-AZUL CLARO",
+     "marca": "",
+     "preco": 1.2,
+     "img": "produtos/4181.jpg"
+    },
+    {
+     "cod": 2069,
+     "nome": "CREPOM AZUL CLARO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/2069.jpg"
+    },
+    {
+     "cod": 749,
+     "nome": "CARTAO-VERDE BANDEIRA",
+     "marca": "MINASPEL",
+     "preco": 1.6,
+     "img": "produtos/749.jpg"
+    },
+    {
+     "cod": 4715,
+     "nome": "CREPOM LARANJA",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/4715.jpg"
+    },
+    {
+     "cod": 2035,
+     "nome": "CARTOLINA-ROSA",
+     "marca": "GRIFFE",
+     "preco": 1.5,
+     "img": "produtos/2035.jpg"
+    },
+    {
+     "cod": 6733,
+     "nome": "CREPOM PINK",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/6733.jpg"
+    },
+    {
+     "cod": 2091,
+     "nome": "FANTASIA-VERDE",
+     "marca": "V.M.P",
+     "preco": 1.0,
+     "img": "produtos/2091.jpg"
+    },
+    {
+     "cod": 2085,
+     "nome": "FANTASIA-AMARELO",
+     "marca": "V.M.P",
+     "preco": 1.0,
+     "img": "produtos/2085.jpg"
+    },
+    {
+     "cod": 2043,
+     "nome": "COLORSETE-MARROM",
+     "marca": "",
+     "preco": 1.2,
+     "img": "produtos/2043.jpg"
+    },
+    {
+     "cod": 4788,
+     "nome": "CREPOM PRETO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/4788.jpg"
+    },
+    {
+     "cod": 738,
+     "nome": "CARTAO BRILHO-AMARELO",
+     "marca": "GRIFFE",
+     "preco": 2.0,
+     "img": "produtos/738.jpg"
+    },
+    {
+     "cod": 2092,
+     "nome": "FANTASIA-VERMELHO",
+     "marca": "V.M.P",
+     "preco": 1.0,
+     "img": "produtos/2092.jpg"
+    },
+    {
+     "cod": 2030,
+     "nome": "CAMURÇA-VERMELHO",
+     "marca": "VMP",
+     "preco": 1.8,
+     "img": "produtos/2030.jpg"
+    },
+    {
+     "cod": 7736,
+     "nome": "CREPOM VERDE FOLHA",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/7736.jpg"
+    },
+    {
+     "cod": 7379,
+     "nome": "CREPOM ROSA CLARO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/7379.jpg"
+    },
+    {
+     "cod": 4182,
+     "nome": "COLORSETE-LILAS/VIOLETA",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/4182.jpg"
+    },
+    {
+     "cod": 7894,
+     "nome": "CREPOM ROXO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/7894.jpg"
+    },
+    {
+     "cod": 5076,
+     "nome": "CREPOM LILAS",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/5076.jpg"
+    },
+    {
+     "cod": 2048,
+     "nome": "COLORSETE-VERDE CLARO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2048.jpg"
+    },
+    {
+     "cod": 4786,
+     "nome": "CREPOM AZUL ROYAL",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/4786.jpg"
+    },
+    {
+     "cod": 2026,
+     "nome": "CAMURÇA-PRETO",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2026.jpg"
+    },
+    {
+     "cod": 2090,
+     "nome": "FANTASIA-PRETO",
+     "marca": "V.M.P",
+     "preco": 1.0,
+     "img": "produtos/2090.jpg"
+    },
+    {
+     "cod": 2088,
+     "nome": "FANTASIA-LARANJA",
+     "marca": "V.M.P",
+     "preco": 1.0,
+     "img": "produtos/2088.jpg"
+    },
+    {
+     "cod": 744,
+     "nome": "CARTAO-LARANJA",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/744.jpg"
+    },
+    {
+     "cod": 4787,
+     "nome": "CREPOM MARROM",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/4787.jpg"
+    },
+    {
+     "cod": 742,
+     "nome": "CARTAO-AZUL ESCURO",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/742.jpg"
+    },
+    {
+     "cod": 2119,
+     "nome": "LAMINADO-VERMELHO",
+     "marca": "CROMUS",
+     "preco": 1.5,
+     "img": "produtos/2119.jpg"
+    },
+    {
+     "cod": 3308,
+     "nome": "CARTAO-BRANCO",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/3308.jpg"
+    },
+    {
+     "cod": 747,
+     "nome": "CARTAO-PRETO",
+     "marca": "",
+     "preco": 1.6,
+     "img": "produtos/747.jpg"
+    },
+    {
+     "cod": 2018,
+     "nome": "CAMURÇA-AMARELO",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2018.jpg"
+    },
+    {
+     "cod": 2023,
+     "nome": "CAMURÇA-LARANJA",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2023.jpg"
+    },
+    {
+     "cod": 741,
+     "nome": "CARTAO-AZUL CLARO",
+     "marca": "",
+     "preco": 1.6,
+     "img": "produtos/741.jpg"
+    },
+    {
+     "cod": 748,
+     "nome": "CARTAO-ROSA",
+     "marca": "",
+     "preco": 1.6,
+     "img": "produtos/748.jpg"
+    },
+    {
+     "cod": 2029,
+     "nome": "CAMURÇA-VERDE BANDEIRA",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2029.jpg"
+    },
+    {
+     "cod": 5158,
+     "nome": "CARTAO-VERDE CLARO",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/5158.jpg"
+    },
+    {
+     "cod": 2019,
+     "nome": "CAMURÇA-AZUL ROYAL",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2019.jpg"
+    },
+    {
+     "cod": 4180,
+     "nome": "CARTAO-LILAS/VIOLETA",
+     "marca": "GRIFFE",
+     "preco": 1.6,
+     "img": "produtos/4180.jpg"
+    },
+    {
+     "cod": 2089,
+     "nome": "FANTASIA-MARROM",
+     "marca": "V.M.P",
+     "preco": 1.0,
+     "img": "produtos/2089.jpg"
+    },
+    {
+     "cod": 2028,
+     "nome": "CAMURÇA-ROSA ESCURO",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2028.jpg"
+    },
+    {
+     "cod": 746,
+     "nome": "CARTAO-MARROM",
+     "marca": "",
+     "preco": 1.6,
+     "img": "produtos/746.jpg"
+    },
+    {
+     "cod": 2117,
+     "nome": "LAMINADO-ROSA",
+     "marca": "CROMUS",
+     "preco": 1.5,
+     "img": "produtos/2117.jpg"
+    },
+    {
+     "cod": 2115,
+     "nome": "LAMINADO-AZUL",
+     "marca": "CROMUS",
+     "preco": 1.5,
+     "img": "produtos/2115.jpg"
+    },
+    {
+     "cod": 2025,
+     "nome": "CAMURÇA-MARROM",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2025.jpg"
+    },
+    {
+     "cod": 2118,
+     "nome": "LAMINADO-VERDE",
+     "marca": "CROMUS",
+     "preco": 1.5,
+     "img": "produtos/2118.jpg"
+    },
+    {
+     "cod": 2022,
+     "nome": "CAMURÇA-BRANCO",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2022.jpg"
+    },
+    {
+     "cod": 2024,
+     "nome": "CAMURÇA-LILAS",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2024.jpg"
+    },
+    {
+     "cod": 2124,
+     "nome": "PAPEL MICROONDULADO-BRANCO",
+     "marca": "VMP",
+     "preco": 3.0,
+     "img": "produtos/2124.jpg"
+    },
+    {
+     "cod": 2127,
+     "nome": "PAPEL MICROONDULADO-PRETO",
+     "marca": "VMP",
+     "preco": 3.0,
+     "img": "produtos/2127.jpg"
+    },
+    {
+     "cod": 11784,
+     "nome": "PAPEL FOTO A4-108GR C/100-(MATTE FOSCO) MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 23.9,
+     "img": "produtos/11784.jpg"
+    },
+    {
+     "cod": 2096,
+     "nome": "PAPEL FOTO A4-(ADESIVO) 130GR C/50-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 39.9,
+     "img": "produtos/2096.jpg"
+    },
+    {
+     "cod": 6495,
+     "nome": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 19.9,
+     "img": "produtos/6495.jpg"
+    },
+    {
+     "cod": 2100,
+     "nome": "PAPEL FOTO A4-180GR C/50-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 29.9,
+     "img": "produtos/2100.jpg"
+    },
+    {
+     "cod": 2099,
+     "nome": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 12.9,
+     "img": "produtos/2099.jpg"
+    },
+    {
+     "cod": 4344,
+     "nome": "PAPEL FOTO A4-230GR C/20-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 18.9,
+     "img": "produtos/4344.jpg"
+    },
+    {
+     "cod": 2159,
+     "nome": "VEGETAL A4 (60GR) C/10-USA FOLIEN",
+     "marca": "USA FOLIEN",
+     "preco": 6.9,
+     "img": "produtos/2159.jpg"
+    },
+    {
+     "cod": 7182,
+     "nome": "VEGETAL A4 (90GR) C/10-USA FOLIEN",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/7182.jpg"
+    },
+    {
+     "cod": 673,
+     "nome": "CARBONO 1F CIS AZUL",
+     "marca": "CIS",
+     "preco": 0.8,
+     "img": "produtos/673.jpg"
+    },
+    {
+     "cod": 674,
+     "nome": "CARBONO 2F CIS AZUL",
+     "marca": "CIS",
+     "preco": 1.0,
+     "img": "produtos/674.jpg"
+    },
+    {
+     "cod": 2132,
+     "nome": "BLOCO QUADRICULADO A4 (1X1) C/50F",
+     "marca": "TAMOIO",
+     "preco": 18.9,
+     "img": "produtos/2132.jpg"
+    },
+    {
+     "cod": 2067,
+     "nome": "PAPEL COUCHE A4 250G C/30FL BRILHO",
+     "marca": "ASSETE",
+     "preco": 26.9,
+     "img": "produtos/2067.jpg"
+    },
+    {
+     "cod": 14126,
+     "nome": "PAPEL CRIATIVE PAPER A4 (180G) C/32FL-USAPEL",
+     "marca": "USAPEL",
+     "preco": 22.9,
+     "img": "produtos/14126.jpg"
+    },
+    {
+     "cod": 5986,
+     "nome": "PAPEL 40KG A4 C/50-BRANCO CHAMEQUINHO",
+     "marca": "",
+     "preco": 16.9,
+     "img": "produtos/5986.jpg"
+    },
+    {
+     "cod": 2066,
+     "nome": "PAPEL COUCHE A4 170G C/50FL BRILHO",
+     "marca": "ASSETE",
+     "preco": 26.9,
+     "img": "produtos/2066.jpg"
+    },
+    {
+     "cod": 6667,
+     "nome": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 12.9,
+     "img": "produtos/6667.jpg"
+    },
+    {
+     "cod": 5082,
+     "nome": "PAPEL A3 C/100 CHAMEX (75GR)",
+     "marca": "CHAMEX",
+     "preco": 17.9,
+     "img": "produtos/5082.jpg"
+    },
+    {
+     "cod": 13876,
+     "nome": "VERGE 120G C/50 CREME-USAPEL",
+     "marca": "USAPEL",
+     "preco": 18.9,
+     "img": "produtos/13876.jpg"
+    },
+    {
+     "cod": 2163,
+     "nome": "VERGE 180G C/50 BRANCO (CASCA OVO) MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 19.9,
+     "img": "produtos/2163.jpg"
+    },
+    {
+     "cod": 9698,
+     "nome": "VERGE 180G C/50 AMARELO-USAPEL",
+     "marca": "USAPEL",
+     "preco": 21.9,
+     "img": "produtos/9698.jpg"
+    },
+    {
+     "cod": 7339,
+     "nome": "VERGE 180G C/50 VERDE-USAPEL",
+     "marca": "USAPEL",
+     "preco": 21.9,
+     "img": "produtos/7339.jpg"
+    },
+    {
+     "cod": 7338,
+     "nome": "VERGE 180G C/50 SALMÃO-USAPEL",
+     "marca": "USAPEL",
+     "preco": 21.9,
+     "img": "produtos/7338.jpg"
+    },
+    {
+     "cod": 7337,
+     "nome": "VERGE 180G C/50 AZUL-USAPEL",
+     "marca": "USAPEL",
+     "preco": 21.9,
+     "img": "produtos/7337.jpg"
+    },
+    {
+     "cod": 3962,
+     "nome": "VERGE 180G C/50 SALMÃO-FILIPAPER",
+     "marca": "FILIPAPER",
+     "preco": 28.9,
+     "img": "produtos/3962.jpg"
+    },
+    {
+     "cod": 2133,
+     "nome": "PAPEL SCRAPBOOK A4 C/10",
+     "marca": "MINASPEL",
+     "preco": 9.9,
+     "img": "produtos/2133.jpg"
+    },
+    {
+     "cod": 2012,
+     "nome": "PAPEL A4 RECICLADO C/100-CHAMEX",
+     "marca": "CHAMEX",
+     "preco": 10.9,
+     "img": "produtos/2012.jpg"
+    },
+    {
+     "cod": 14085,
+     "nome": "PAPEL KRAFT A4 C/50",
+     "marca": "ASSETE",
+     "preco": 18.9,
+     "img": "produtos/14085.jpg"
+    },
+    {
+     "cod": 2065,
+     "nome": "COLORSETE A4 C/50 VERMELHO",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2065.jpg"
+    },
+    {
+     "cod": 4765,
+     "nome": "COLORSETE A4 C/48-CORES SORTIDAS",
+     "marca": "GRIFFE",
+     "preco": 18.9,
+     "img": "produtos/4765.jpg"
+    },
+    {
+     "cod": 2051,
+     "nome": "COLORSETE A4 C/50 AMARELO",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2051.jpg"
+    },
+    {
+     "cod": 2055,
+     "nome": "COLORSETE A4 C/50 LARANJA",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2055.jpg"
+    },
+    {
+     "cod": 2059,
+     "nome": "COLORSETE A4 C/50 ROSA CLARO",
+     "marca": "",
+     "preco": 15.9,
+     "img": "produtos/2059.jpg"
+    },
+    {
+     "cod": 2054,
+     "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2054.jpg"
+    },
+    {
+     "cod": 2063,
+     "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2063.jpg"
+    },
+    {
+     "cod": 2061,
+     "nome": "COLORSETE A4 C/50 ROSA PINK",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2061.jpg"
+    },
+    {
+     "cod": 4763,
+     "nome": "COLORSETE A4 C/50 AZUL CLARO",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": null
+    },
+    {
+     "cod": 2058,
+     "nome": "COLORSETE A4 C/50 PRETO",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2058.jpg"
+    },
+    {
+     "cod": 2064,
+     "nome": "COLORSETE A4 C/50 VERDE CLARO",
+     "marca": "MINASPEL",
+     "preco": 15.9,
+     "img": "produtos/2064.jpg"
+    },
+    {
+     "cod": 4172,
+     "nome": "COLORSETE A4 C/50 LILAS",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/4172.jpg"
+    },
+    {
+     "cod": 2057,
+     "nome": "COLORSETE A4 C/50 MARROM",
+     "marca": "MINASPEL",
+     "preco": 15.9,
+     "img": "produtos/2057.jpg"
+    },
+    {
+     "cod": 5162,
+     "nome": "COLORSETE A4 C/50 VIOLETA",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/5162.jpg"
+    },
+    {
+     "cod": 2137,
+     "nome": "SEDA BRANCA",
+     "marca": "V.M.P",
+     "preco": 0.4,
+     "img": "produtos/2137.jpg"
+    },
+    {
+     "cod": 2144,
+     "nome": "SEDA PRETA",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2144.jpg"
+    },
+    {
+     "cod": 2148,
+     "nome": "SEDA VERDE BANDEIRA",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2148.jpg"
+    },
+    {
+     "cod": 2134,
+     "nome": "SEDA AMARELA",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2134.jpg"
+    },
+    {
+     "cod": 2146,
+     "nome": "SEDA ROSA PINK",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2146.jpg"
+    },
+    {
+     "cod": 2139,
+     "nome": "SEDA LARANJA",
+     "marca": "RIACHO",
+     "preco": 0.4,
+     "img": "produtos/2139.jpg"
+    },
+    {
+     "cod": 2142,
+     "nome": "SEDA OURO",
+     "marca": "VMP",
+     "preco": 0.8,
+     "img": "produtos/2142.jpg"
+    },
+    {
+     "cod": 2147,
+     "nome": "SEDA ROXO",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2147.jpg"
+    },
+    {
+     "cod": 2145,
+     "nome": "SEDA ROSA CLARO",
+     "marca": "V.M.P",
+     "preco": 0.4,
+     "img": "produtos/2145.jpg"
+    },
+    {
+     "cod": 2143,
+     "nome": "SEDA PRATA",
+     "marca": "VMP",
+     "preco": 0.8,
+     "img": "produtos/2143.jpg"
+    },
+    {
+     "cod": 2150,
+     "nome": "SEDA VERMELHA",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2150.jpg"
+    },
+    {
+     "cod": 7098,
+     "nome": "SEDA AZUL ESCURO/ROYAL",
+     "marca": "RIACHO",
+     "preco": 0.4,
+     "img": "produtos/7098.jpg"
+    },
+    {
+     "cod": 2141,
+     "nome": "SEDA MARROM",
+     "marca": "V.M.P",
+     "preco": 0.4,
+     "img": "produtos/2141.jpg"
+    },
+    {
+     "cod": 2149,
+     "nome": "SEDA VERDE CLARO",
+     "marca": "V.M.P",
+     "preco": 0.4,
+     "img": "produtos/2149.jpg"
+    },
+    {
+     "cod": 2135,
+     "nome": "SEDA AZUL CLARO",
+     "marca": "RIACHO",
+     "preco": 0.4,
+     "img": "produtos/2135.jpg"
+    },
+    {
+     "cod": 2140,
+     "nome": "SEDA LILAS",
+     "marca": "VMP",
+     "preco": 0.4,
+     "img": "produtos/2140.jpg"
+    },
+    {
+     "cod": 12760,
+     "nome": "SEDA AZUL CELESTE",
+     "marca": "",
+     "preco": 0.4,
+     "img": "produtos/12760.jpg"
+    },
+    {
+     "cod": 3580,
+     "nome": "PAPEL 60KG A3 C/20FL-GRIFFE",
+     "marca": "",
+     "preco": 15.0,
+     "img": "produtos/3580.jpg"
+    },
+    {
+     "cod": 8404,
+     "nome": "PAPEL 60KG A4 + ENCAD. C/20F",
+     "marca": "MINASPEL",
+     "preco": 15.9,
+     "img": "produtos/8404.jpg"
+    },
+    {
+     "cod": 6844,
+     "nome": "PAPEL 60KG A3 C/50FL-GRIFFE",
+     "marca": "MINASPEL",
+     "preco": 29.9,
+     "img": "produtos/6844.jpg"
+    },
+    {
+     "cod": 5973,
+     "nome": "PAPEL 60KG A4 C/50",
+     "marca": "",
+     "preco": 15.9,
+     "img": "produtos/5973.jpg"
+    },
+    {
+     "cod": 5083,
+     "nome": "CARTAO VISITA BRANCO C/5 (60X95MM)",
+     "marca": "MINASPEL",
+     "preco": 1.5,
+     "img": "produtos/5083.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "quadro",
+   "nome": "Quadro",
+   "itens": [
+    {
+     "cod": 2584,
+     "nome": "QUADRO BRANCO 60X40 (AL) STALO",
+     "marca": "STALO",
+     "preco": 59.9,
+     "img": "produtos/2584.jpg"
+    },
+    {
+     "cod": 2585,
+     "nome": "QUADRO BRANCO 70X50 (AL)",
+     "marca": "SOUZA",
+     "preco": 79.9,
+     "img": "produtos/2585.jpg"
+    },
+    {
+     "cod": 4296,
+     "nome": "QUADRO BRANCO 90X60 (AL)",
+     "marca": "STALO",
+     "preco": 89.9,
+     "img": "produtos/4296.jpg"
+    },
+    {
+     "cod": 7667,
+     "nome": "QUADRO BRANCO 100X70 (AL)",
+     "marca": "SOUZA",
+     "preco": 99.9,
+     "img": "produtos/7667.jpg"
+    },
+    {
+     "cod": 2583,
+     "nome": "QUADRO BRANCO 100X70 (AL) STALO",
+     "marca": "STALO",
+     "preco": 122.9,
+     "img": "produtos/2583.jpg"
+    },
+    {
+     "cod": 6700,
+     "nome": "QUADRO BRANCO 1,20X90 (AL) SOUZA",
+     "marca": "SOUZA",
+     "preco": 139.9,
+     "img": "produtos/6700.jpg"
+    },
+    {
+     "cod": 2594,
+     "nome": "QUADRO VERDE 60X40",
+     "marca": "SOUZA",
+     "preco": 32.9,
+     "img": "produtos/2594.jpg"
+    },
+    {
+     "cod": 2595,
+     "nome": "QUADRO VERDE 70X50",
+     "marca": "SOUZA",
+     "preco": 41.9,
+     "img": "produtos/2595.jpg"
+    },
+    {
+     "cod": 4377,
+     "nome": "QUADRO VERDE 90X70",
+     "marca": "SOUZA",
+     "preco": 66.9,
+     "img": "produtos/4377.jpg"
+    },
+    {
+     "cod": 2593,
+     "nome": "QUADRO VERDE 100X80",
+     "marca": "SOUZA",
+     "preco": 82.9,
+     "img": "produtos/2593.jpg"
+    },
+    {
+     "cod": 2592,
+     "nome": "QUADRO VERDE 1,20X90",
+     "marca": "SOUZA",
+     "preco": 110.9,
+     "img": "produtos/2592.jpg"
+    },
+    {
+     "cod": 11508,
+     "nome": "QUADRO CORTIÇA 60X40",
+     "marca": "SOUZA",
+     "preco": 55.9,
+     "img": "produtos/11508.jpg"
+    },
+    {
+     "cod": 11507,
+     "nome": "QUADRO CORTIÇA 1,20X90",
+     "marca": "SOUZA",
+     "preco": 170.9,
+     "img": "produtos/11507.jpg"
+    },
+    {
+     "cod": 6701,
+     "nome": "QUADRO CORTIÇA 1,20X90-(AL)",
+     "marca": "SOUZA",
+     "preco": 189.9,
+     "img": "produtos/6701.jpg"
+    },
+    {
+     "cod": 11513,
+     "nome": "QUADRO FELTRO 60X40",
+     "marca": "SOUZA",
+     "preco": 45.9,
+     "img": "produtos/11513.jpg"
+    },
+    {
+     "cod": 3767,
+     "nome": "QUADRO FELTRO 90X60",
+     "marca": "SOUZA",
+     "preco": 105.9,
+     "img": "produtos/3767.jpg"
+    },
+    {
+     "cod": 3769,
+     "nome": "QUADRO FELTRO 1,20X90",
+     "marca": "SOUZA",
+     "preco": 221.9,
+     "img": "produtos/3769.jpg"
+    },
+    {
+     "cod": 14006,
+     "nome": "LIMPADOR Q.BRC 60ML-CARBRINK",
+     "marca": "CARBRINK",
+     "preco": 12.9,
+     "img": "produtos/14006.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "tinta",
+   "nome": "Tinta",
+   "itens": [
+    {
+     "cod": 4873,
+     "nome": "TINTA RELEVO 35ML ACRILEX ACRIPEL",
+     "marca": "ACRILEX",
+     "preco": 12.5,
+     "img": "produtos/4873.jpg"
+    },
+    {
+     "cod": 3007,
+     "nome": "TINTA TECIDO 37ML-BRANCO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3007.jpg"
+    },
+    {
+     "cod": 3709,
+     "nome": "TINTA TECIDO 37ML-AMARELO OURO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3709.jpg"
+    },
+    {
+     "cod": 3011,
+     "nome": "TINTA TECIDO 37ML-PRETO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3011.jpg"
+    },
+    {
+     "cod": 3713,
+     "nome": "TINTA TECIDO 37ML-VERMELHO FOGO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3713.jpg"
+    },
+    {
+     "cod": 3006,
+     "nome": "TINTA TECIDO 37ML-AZUL TURQUESA",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3006.jpg"
+    },
+    {
+     "cod": 3014,
+     "nome": "TINTA TECIDO 37ML-VERDE BANDEIRA",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3014.jpg"
+    },
+    {
+     "cod": 3712,
+     "nome": "TINTA TECIDO 37ML-AZUL MARINHO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3712.jpg"
+    },
+    {
+     "cod": 3010,
+     "nome": "TINTA TECIDO 37ML-MARROM",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3010.jpg"
+    },
+    {
+     "cod": 3012,
+     "nome": "TINTA TECIDO 37ML-PINK",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3012.jpg"
+    },
+    {
+     "cod": 3710,
+     "nome": "TINTA TECIDO 37ML-AZUL CELESTE",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3710.jpg"
+    },
+    {
+     "cod": 3015,
+     "nome": "TINTA TECIDO 37ML-VERDE FOLHA",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3015.jpg"
+    },
+    {
+     "cod": 7124,
+     "nome": "TINTA TECIDO 37ML-LILAS",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/7124.jpg"
+    },
+    {
+     "cod": 3008,
+     "nome": "TINTA TECIDO 37ML-LARANJA",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3008.jpg"
+    },
+    {
+     "cod": 14001,
+     "nome": "TINTA TECIDO 37ML-CINZA LUNAR",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/14001.jpg"
+    },
+    {
+     "cod": 3016,
+     "nome": "TINTA TECIDO 37ML-VIOLETA COBALTO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3016.jpg"
+    },
+    {
+     "cod": 5078,
+     "nome": "TINTA TECIDO 37ML-AZUL COBALTO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/5078.jpg"
+    },
+    {
+     "cod": 11670,
+     "nome": "TINTA TECIDO 250ML-BRANCO",
+     "marca": "ACRILEX",
+     "preco": 35.9,
+     "img": "produtos/11670.jpg"
+    },
+    {
+     "cod": 7378,
+     "nome": "TINTA TECIDO 250ML-PRETO",
+     "marca": "ACRILEX",
+     "preco": 35.9,
+     "img": "produtos/7378.jpg"
+    },
+    {
+     "cod": 2970,
+     "nome": "TINTA ACR.(FOS) 15ML ACRILEX-AZUL",
+     "marca": "ACRILEX",
+     "preco": 3.8,
+     "img": "produtos/2970.jpg"
+    },
+    {
+     "cod": 2972,
+     "nome": "TINTA ACR.(FOS) 15ML ACRILEX-PRETO",
+     "marca": "ACRILEX",
+     "preco": 3.8,
+     "img": "produtos/2972.jpg"
+    },
+    {
+     "cod": 2973,
+     "nome": "TINTA ACR.(FOS) 15ML ACRILEX-VERDE",
+     "marca": "ACRILEX",
+     "preco": 3.8,
+     "img": "produtos/2973.jpg"
+    },
+    {
+     "cod": 2983,
+     "nome": "TINTA CONFETTI C/6 CORES",
+     "marca": "ACRILEX",
+     "preco": 10.9,
+     "img": "produtos/2983.jpg"
+    },
+    {
+     "cod": 12518,
+     "nome": "AQUARELA DAC C/36 CORES",
+     "marca": "DACART",
+     "preco": 29.9,
+     "img": "produtos/12518.jpg"
+    },
+    {
+     "cod": 12517,
+     "nome": "AQUARELA DAC C/12 CORES",
+     "marca": "DACART",
+     "preco": 19.9,
+     "img": "produtos/12517.jpg"
+    },
+    {
+     "cod": 12239,
+     "nome": "AQUARELA BRW C/12 CORES",
+     "marca": "BRW",
+     "preco": 24.9,
+     "img": "produtos/12239.jpg"
+    },
+    {
+     "cod": 11641,
+     "nome": "AQUARELA JOY C/12 CORES",
+     "marca": "LEONORA",
+     "preco": 18.9,
+     "img": "produtos/11641.jpg"
+    },
+    {
+     "cod": 12961,
+     "nome": "AQUARELA FABER C/12 CORES",
+     "marca": "FABER",
+     "preco": 39.9,
+     "img": "produtos/12961.jpg"
+    },
+    {
+     "cod": 12338,
+     "nome": "AQUARELA MOLIN C/12 CORES",
+     "marca": "MOLIN",
+     "preco": 28.9,
+     "img": "produtos/12338.jpg"
+    },
+    {
+     "cod": 5542,
+     "nome": "TINTA CONFETTI CORES",
+     "marca": "ACRILEX",
+     "preco": 1.0,
+     "img": "produtos/5542.jpg"
+    },
+    {
+     "cod": 2981,
+     "nome": "TINTA CARIMBO 40ML RADEX-PRETO",
+     "marca": "RADEX",
+     "preco": 5.9,
+     "img": "produtos/2981.jpg"
+    },
+    {
+     "cod": 2980,
+     "nome": "TINTA CARIMBO 40ML RADEX-AZUL",
+     "marca": "RADEX",
+     "preco": 5.9,
+     "img": "produtos/2980.jpg"
+    },
+    {
+     "cod": 2982,
+     "nome": "TINTA CARIMBO 40ML RADEX-VERMELHO",
+     "marca": "RADEX",
+     "preco": 5.9,
+     "img": "produtos/2982.jpg"
+    },
+    {
+     "cod": 12207,
+     "nome": "TINTA CARIMBO 40ML BRW-VERMELHO",
+     "marca": "BRW",
+     "preco": 5.9,
+     "img": "produtos/12207.jpg"
+    },
+    {
+     "cod": 2978,
+     "nome": "TINTA CARIMBO 42ML PILOT-PRETO",
+     "marca": "PILOT",
+     "preco": 15.9,
+     "img": "produtos/2978.jpg"
+    },
+    {
+     "cod": 2977,
+     "nome": "TINTA CARIMBO 42ML PILOT-AZUL",
+     "marca": "PILOT",
+     "preco": 15.9,
+     "img": "produtos/2977.jpg"
+    },
+    {
+     "cod": 2979,
+     "nome": "TINTA CARIMBO 42ML PILOT-VERMELHO",
+     "marca": "PILOT",
+     "preco": 15.9,
+     "img": "produtos/2979.jpg"
+    },
+    {
+     "cod": 2975,
+     "nome": "TINTA CARIMBO AUTOM-AZUL",
+     "marca": "RADEX",
+     "preco": 8.9,
+     "img": "produtos/2975.jpg"
+    },
+    {
+     "cod": 2976,
+     "nome": "TINTA CARIMBO AUTOM-PRETA",
+     "marca": "RADEX",
+     "preco": 8.9,
+     "img": "produtos/2976.jpg"
+    },
+    {
+     "cod": 14075,
+     "nome": "TINTA P.Q.BRC 15ML PRETA-PILOT",
+     "marca": "PILOT",
+     "preco": 9.9,
+     "img": "produtos/14075.jpg"
+    },
+    {
+     "cod": 2987,
+     "nome": "TINTA P.Q.BRC 20ML VERMELHA-JOCAR",
+     "marca": "JOCAR",
+     "preco": 6.5,
+     "img": "produtos/2987.jpg"
+    },
+    {
+     "cod": 2985,
+     "nome": "TINTA P.Q.BRC 20ML AZUL-JOCAR",
+     "marca": "JOCAR",
+     "preco": 6.5,
+     "img": "produtos/2985.jpg"
+    },
+    {
+     "cod": 2986,
+     "nome": "TINTA P.Q.BRC 20ML PRETA-JOCAR",
+     "marca": "JOCAR",
+     "preco": 6.5,
+     "img": "produtos/2986.jpg"
+    },
+    {
+     "cod": 9408,
+     "nome": "TINTA PINCEL 20ML JOCAR-AZUL",
+     "marca": "JOCAR",
+     "preco": 4.5,
+     "img": "produtos/9408.jpg"
+    },
+    {
+     "cod": 9409,
+     "nome": "TINTA PINCEL 20ML JOCAR-PRETO",
+     "marca": "JOCAR",
+     "preco": 4.5,
+     "img": "produtos/9409.jpg"
+    },
+    {
+     "cod": 9410,
+     "nome": "TINTA PINCEL 20ML JOCAR-VERMELHO",
+     "marca": "JOCAR",
+     "preco": 4.5,
+     "img": "produtos/9410.jpg"
+    },
+    {
+     "cod": 4461,
+     "nome": "TINTA PINCEL 30ML COMPACTOR-VERMELHO",
+     "marca": "COMPACTOR",
+     "preco": 6.9,
+     "img": "produtos/4461.jpg"
+    },
+    {
+     "cod": 2995,
+     "nome": "TINTA PINCEL 37ML PILOT-PRETO",
+     "marca": "PILOT",
+     "preco": 14.9,
+     "img": "produtos/2995.jpg"
+    },
+    {
+     "cod": 2994,
+     "nome": "TINTA PINCEL 37ML PILOT-AZUL",
+     "marca": "PILOT",
+     "preco": 14.9,
+     "img": "produtos/2994.jpg"
+    },
+    {
+     "cod": 2996,
+     "nome": "TINTA PINCEL 37ML PILOT-VERMELHO",
+     "marca": "PILOT",
+     "preco": 14.9,
+     "img": "produtos/2996.jpg"
+    },
+    {
+     "cod": 3000,
+     "nome": "TINTA PINCEL 40ML RADEX-VERMELHO",
+     "marca": "RADEX",
+     "preco": 8.5,
+     "img": "produtos/3000.jpg"
+    },
+    {
+     "cod": 9699,
+     "nome": "TINTA P.Q.BRC 500ML AZUL-JOCAR",
+     "marca": "JOCAR",
+     "preco": 89.9,
+     "img": "produtos/9699.jpg"
+    },
+    {
+     "cod": 10548,
+     "nome": "TINTA P.Q.BRC 500ML AZUL-BRW",
+     "marca": "BRW",
+     "preco": 69.9,
+     "img": "produtos/10548.jpg"
+    },
+    {
+     "cod": 9700,
+     "nome": "TINTA P.Q.BRC 500ML VERMELHO-JOCAR",
+     "marca": "JOCAR",
+     "preco": 89.9,
+     "img": "produtos/9700.jpg"
+    },
+    {
+     "cod": 10550,
+     "nome": "TINTA P.Q.BRC 500ML VERMELHO-BRW",
+     "marca": "BRW",
+     "preco": 69.9,
+     "img": "produtos/10550.jpg"
+    },
+    {
+     "cod": 57,
+     "nome": "AQUARELA CIS C/12 CORES",
+     "marca": "CIS",
+     "preco": 24.9,
+     "img": "produtos/57.jpg"
+    },
+    {
+     "cod": 2989,
+     "nome": "TINTA P.Q.BRC LITRO RADEX-PRETA",
+     "marca": "RADEX",
+     "preco": 249.9,
+     "img": "produtos/2989.jpg"
+    },
+    {
+     "cod": 3725,
+     "nome": "TINTA P.Q.BRC LITRO RADEX-VERMELHA",
+     "marca": "RADEX",
+     "preco": 249.9,
+     "img": "produtos/3725.jpg"
+    },
+    {
+     "cod": 6241,
+     "nome": "AQUARELA ACRILEX C/12 CORES",
+     "marca": "ACRILEX",
+     "preco": 25.9,
+     "img": "produtos/6241.jpg"
+    },
+    {
+     "cod": 3344,
+     "nome": "SPRAY DESENGRIPANTE 300ML",
+     "marca": "LUB FAST",
+     "preco": 15.9,
+     "img": "produtos/3344.jpg"
+    },
+    {
+     "cod": 3054,
+     "nome": "SPRAY VERDE ESCURO 350ML",
+     "marca": "SPRAYTN",
+     "preco": 24.9,
+     "img": "produtos/3054.jpg"
+    },
+    {
+     "cod": 6888,
+     "nome": "SPRAY ALUMINIO 350ML",
+     "marca": "TEKBOND",
+     "preco": 24.9,
+     "img": "produtos/6888.jpg"
+    },
+    {
+     "cod": 3877,
+     "nome": "SPRAY BRONZE 350ML",
+     "marca": "COLOR GIN",
+     "preco": 36.9,
+     "img": "produtos/3877.jpg"
+    },
+    {
+     "cod": 3678,
+     "nome": "SPRAY BRANCO BRILHO 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3678.jpg"
+    },
+    {
+     "cod": 3679,
+     "nome": "SPRAY BRANCO FOSCO 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3679.jpg"
+    },
+    {
+     "cod": 3681,
+     "nome": "SPRAY PRETO BRILHO 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3681.jpg"
+    },
+    {
+     "cod": 3682,
+     "nome": "SPRAY PRETO FOSCO 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3682.jpg"
+    },
+    {
+     "cod": 8786,
+     "nome": "SPRAY OURO METALICO 400ML",
+     "marca": "COLORE",
+     "preco": 28.9,
+     "img": "produtos/8786.jpg"
+    },
+    {
+     "cod": 3056,
+     "nome": "SPRAY VIOLETA 400ML",
+     "marca": "CHEMICOLOR",
+     "preco": 24.9,
+     "img": "produtos/3056.jpg"
+    },
+    {
+     "cod": 4721,
+     "nome": "SPRAY CINZA 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4721.jpg"
+    },
+    {
+     "cod": 8787,
+     "nome": "SPRAY AZUL CÉU 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/8787.jpg"
+    },
+    {
+     "cod": 3684,
+     "nome": "SPRAY VERMELHO 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3684.jpg"
+    },
+    {
+     "cod": 4718,
+     "nome": "SPRAY LARANJA 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4718.jpg"
+    },
+    {
+     "cod": 4716,
+     "nome": "SPRAY MARROM 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4716.jpg"
+    },
+    {
+     "cod": 4719,
+     "nome": "SPRAY AMARELO 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4719.jpg"
+    },
+    {
+     "cod": 4717,
+     "nome": "SPRAY ROSA 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4717.jpg"
+    },
+    {
+     "cod": 3040,
+     "nome": "SPRAY COBRE 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3040.jpg"
+    },
+    {
+     "cod": 3683,
+     "nome": "SPRAY VERDE FOLHA 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/3683.jpg"
+    },
+    {
+     "cod": 10044,
+     "nome": "PINTURA FACIAL ROLL ON 6ML-AMARELA",
+     "marca": "DALEGRIA",
+     "preco": 11.9,
+     "img": "produtos/10044.jpg"
+    },
+    {
+     "cod": 7523,
+     "nome": "TINTA FACIAL 15ML-MARROM",
+     "marca": "COLORMAKE",
+     "preco": 7.9,
+     "img": "produtos/7523.jpg"
+    },
+    {
+     "cod": 7522,
+     "nome": "TINTA FACIAL 15ML-PRETO",
+     "marca": "COLORMAKE",
+     "preco": 7.9,
+     "img": "produtos/7522.jpg"
+    },
+    {
+     "cod": 10049,
+     "nome": "PINTURA FACIAL SANGUE ARTIFICIAL 20ML-COLORMAKE",
+     "marca": "COLORMAKE",
+     "preco": 9.9,
+     "img": "produtos/10049.jpg"
+    },
+    {
+     "cod": 10136,
+     "nome": "PINTURA FACIAL CREMOSA C/6-MARIPEL",
+     "marca": "MARIPEL",
+     "preco": 21.9,
+     "img": "produtos/10136.jpg"
+    },
+    {
+     "cod": 2365,
+     "nome": "PINTURA FACIAL FLUORESCENTE C/5-COLORMAKE",
+     "marca": "COLORMAKE",
+     "preco": 29.9,
+     "img": "produtos/2365.jpg"
     }
    ]
   }
