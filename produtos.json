@@ -40,11 +40,11 @@
      "img": "produtos/554.jpg"
     },
     {
-     "cod": 569,
-     "nome": "CANETA COMPACTOR-AZUL",
-     "marca": "COMPACTOR",
-     "preco": 1.5,
-     "img": "produtos/569.jpg"
+     "cod": 9370,
+     "nome": "CANETA JOCAR 1.0-PRETA",
+     "marca": "JOCAR",
+     "preco": 1.0,
+     "img": "produtos/9370.jpg"
     },
     {
      "cod": 562,
@@ -54,18 +54,11 @@
      "img": "produtos/562.jpg"
     },
     {
-     "cod": 9370,
-     "nome": "CANETA JOCAR 1.0-PRETA",
-     "marca": "JOCAR",
-     "preco": 1.0,
-     "img": "produtos/9370.jpg"
-    },
-    {
-     "cod": 556,
-     "nome": "CANETA BIC FINE PLUS-PRETA",
-     "marca": "BIC",
+     "cod": 569,
+     "nome": "CANETA COMPACTOR-AZUL",
+     "marca": "COMPACTOR",
      "preco": 1.5,
-     "img": "produtos/556.jpg"
+     "img": "produtos/569.jpg"
     },
     {
      "cod": 565,
@@ -75,11 +68,11 @@
      "img": "produtos/565.jpg"
     },
     {
-     "cod": 570,
-     "nome": "CANETA COMPACTOR-PRETA",
-     "marca": "COMPACTOR",
+     "cod": 556,
+     "nome": "CANETA BIC FINE PLUS-PRETA",
+     "marca": "BIC",
      "preco": 1.5,
-     "img": "produtos/570.jpg"
+     "img": "produtos/556.jpg"
     },
     {
      "cod": 9371,
@@ -96,6 +89,13 @@
      "img": "produtos/10829.jpg"
     },
     {
+     "cod": 570,
+     "nome": "CANETA COMPACTOR-PRETA",
+     "marca": "COMPACTOR",
+     "preco": 1.5,
+     "img": "produtos/570.jpg"
+    },
+    {
      "cod": 557,
      "nome": "CANETA BIC FINE PLUS-VERMELHA",
      "marca": "BIC",
@@ -108,13 +108,6 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/571.jpg"
-    },
-    {
-     "cod": 559,
-     "nome": "CANETA CIS FINE FUTURA PRETA",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/559.jpg"
     },
     {
      "cod": 10830,
@@ -131,6 +124,13 @@
      "img": "produtos/588.jpg"
     },
     {
+     "cod": 559,
+     "nome": "CANETA CIS FINE FUTURA PRETA",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/559.jpg"
+    },
+    {
      "cod": 564,
      "nome": "CANETA CIS SPIRO-LILAS",
      "marca": "CIS",
@@ -145,18 +145,18 @@
      "img": "produtos/568.jpg"
     },
     {
-     "cod": 567,
-     "nome": "CANETA CIS SPIRO-VERDE",
-     "marca": "CIS",
-     "preco": 4.5,
-     "img": "produtos/567.jpg"
-    },
-    {
      "cod": 7292,
      "nome": "CANETA BIC CRISTAL-VERDE",
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/7292.jpg"
+    },
+    {
+     "cod": 567,
+     "nome": "CANETA CIS SPIRO-VERDE",
+     "marca": "CIS",
+     "preco": 4.5,
+     "img": "produtos/567.jpg"
     },
     {
      "cod": 561,
@@ -166,13 +166,6 @@
      "img": "produtos/561.jpg"
     },
     {
-     "cod": 563,
-     "nome": "CANETA CIS SPIRO-LARANJA",
-     "marca": "CIS",
-     "preco": 4.5,
-     "img": "produtos/563.jpg"
-    },
-    {
      "cod": 587,
      "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
      "marca": "PAPER MATE",
@@ -180,11 +173,11 @@
      "img": "produtos/587.jpg"
     },
     {
-     "cod": 566,
-     "nome": "CANETA CIS SPIRO-ROSA",
+     "cod": 563,
+     "nome": "CANETA CIS SPIRO-LARANJA",
      "marca": "CIS",
      "preco": 4.5,
-     "img": "produtos/566.jpg"
+     "img": "produtos/563.jpg"
     },
     {
      "cod": 10629,
@@ -194,6 +187,13 @@
      "img": "produtos/10629.jpg"
     },
     {
+     "cod": 10288,
+     "nome": "CANETA FABER TRILUX-(FINA) AZUL",
+     "marca": "FABER",
+     "preco": 2.9,
+     "img": "produtos/10288.jpg"
+    },
+    {
      "cod": 5300,
      "nome": "CANETA CIS SPIRO GEM-AZUL (CORPO DOURADO)",
      "marca": "CIS",
@@ -201,18 +201,18 @@
      "img": "produtos/5300.jpg"
     },
     {
+     "cod": 566,
+     "nome": "CANETA CIS SPIRO-ROSA",
+     "marca": "CIS",
+     "preco": 4.5,
+     "img": "produtos/566.jpg"
+    },
+    {
      "cod": 1577,
      "nome": "JOGO CANETA BIC C/4 CORES (SHIMMERS)",
      "marca": "BIC",
      "preco": 11.9,
      "img": "produtos/1577.jpg"
-    },
-    {
-     "cod": 10288,
-     "nome": "CANETA FABER TRILUX-(FINA) AZUL",
-     "marca": "FABER",
-     "preco": 2.9,
-     "img": "produtos/10288.jpg"
     },
     {
      "cod": 3794,
@@ -236,13 +236,6 @@
      "img": "produtos/548.jpg"
     },
     {
-     "cod": 550,
-     "nome": "CANETA BIC BOLD 1.6-PRETA",
-     "marca": "BIC",
-     "preco": 3.9,
-     "img": "produtos/550.jpg"
-    },
-    {
      "cod": 589,
      "nome": "CANETA KILOMETRICA 0.7-VERMELHA (FINA)",
      "marca": "PAPER MATE",
@@ -264,18 +257,11 @@
      "img": "produtos/8823.jpg"
     },
     {
-     "cod": 4826,
-     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (TRIGEL)",
-     "marca": "CIS",
-     "preco": 6.5,
-     "img": "produtos/4826.jpg"
-    },
-    {
-     "cod": 5239,
-     "nome": "JOGO CANETA BIC C/10 CORES (SHIMMERS)",
+     "cod": 550,
+     "nome": "CANETA BIC BOLD 1.6-PRETA",
      "marca": "BIC",
-     "preco": 26.9,
-     "img": "produtos/5239.jpg"
+     "preco": 3.9,
+     "img": "produtos/550.jpg"
     },
     {
      "cod": 617,
@@ -285,11 +271,18 @@
      "img": "produtos/617.jpg"
     },
     {
-     "cod": 10831,
-     "nome": "CANETA CIS 0.7-VERMELHA",
+     "cod": 5239,
+     "nome": "JOGO CANETA BIC C/10 CORES (SHIMMERS)",
+     "marca": "BIC",
+     "preco": 26.9,
+     "img": "produtos/5239.jpg"
+    },
+    {
+     "cod": 4826,
+     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (TRIGEL)",
      "marca": "CIS",
-     "preco": 1.5,
-     "img": "produtos/10831.jpg"
+     "preco": 6.5,
+     "img": "produtos/4826.jpg"
     },
     {
      "cod": 577,
@@ -299,11 +292,11 @@
      "img": "produtos/577.jpg"
     },
     {
-     "cod": 10598,
-     "nome": "CANETA CIS MINUS 0.4-AZUL",
+     "cod": 10831,
+     "nome": "CANETA CIS 0.7-VERMELHA",
      "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/10598.jpg"
+     "preco": 1.5,
+     "img": "produtos/10831.jpg"
     },
     {
      "cod": 4769,
@@ -313,18 +306,18 @@
      "img": "produtos/4769.jpg"
     },
     {
-     "cod": 10291,
-     "nome": "CANETA FABER TRILUX-PRATA",
-     "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/10291.jpg"
-    },
-    {
      "cod": 596,
      "nome": "CANETA NOTA FALSA JOCAR",
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/596.jpg"
+    },
+    {
+     "cod": 10291,
+     "nome": "CANETA FABER TRILUX-PRATA",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/10291.jpg"
     },
     {
      "cod": 605,
@@ -334,13 +327,6 @@
      "img": "produtos/605.jpg"
     },
     {
-     "cod": 606,
-     "nome": "CANETA PILOT GRIP 0.7-PRETA",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/606.jpg"
-    },
-    {
      "cod": 612,
      "nome": "CANETA PILOT GRIP 1.6-PRETA",
      "marca": "PILOT",
@@ -348,18 +334,11 @@
      "img": "produtos/612.jpg"
     },
     {
-     "cod": 607,
-     "nome": "CANETA PILOT GRIP 0.7-VERMELHA",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/607.jpg"
-    },
-    {
-     "cod": 602,
-     "nome": "CANETA PILOT COMUM-AZUL",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/602.jpg"
+     "cod": 10598,
+     "nome": "CANETA CIS MINUS 0.4-AZUL",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/10598.jpg"
     },
     {
      "cod": 614,
@@ -369,32 +348,18 @@
      "img": "produtos/614.jpg"
     },
     {
-     "cod": 5279,
-     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
-     "marca": "TRIS",
-     "preco": 18.9,
-     "img": "produtos/5279.jpg"
+     "cod": 602,
+     "nome": "CANETA PILOT COMUM-AZUL",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/602.jpg"
     },
     {
-     "cod": 13054,
-     "nome": "CANETINHA C/12-CIS (HIDROCOR)",
-     "marca": "CIS",
-     "preco": 15.9,
-     "img": "produtos/13054.jpg"
-    },
-    {
-     "cod": 10569,
-     "nome": "CANETA JETSTREAM 1.0-PRETA (UNI)",
-     "marca": "UNIBALL",
-     "preco": 16.9,
-     "img": "produtos/10569.jpg"
-    },
-    {
-     "cod": 5398,
-     "nome": "CANETA FABER TRILUX-LARANJA",
-     "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/5398.jpg"
+     "cod": 607,
+     "nome": "CANETA PILOT GRIP 0.7-VERMELHA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/607.jpg"
     },
     {
      "cod": 5403,
@@ -404,18 +369,25 @@
      "img": "produtos/5403.jpg"
     },
     {
-     "cod": 633,
-     "nome": "CANETA TILIBRA 0.6 DEFINIT-PRETA",
-     "marca": "TILIBRA",
-     "preco": 10.9,
-     "img": "produtos/633.jpg"
+     "cod": 581,
+     "nome": "CANETA FIXA COMUM",
+     "marca": "FEJOVA",
+     "preco": 26.9,
+     "img": "produtos/581.jpg"
     },
     {
-     "cod": 632,
-     "nome": "CANETA TILIBRA 0.6 DEFINIT-AZUL",
-     "marca": "TILIBRA",
-     "preco": 10.9,
-     "img": "produtos/632.jpg"
+     "cod": 606,
+     "nome": "CANETA PILOT GRIP 0.7-PRETA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/606.jpg"
+    },
+    {
+     "cod": 5398,
+     "nome": "CANETA FABER TRILUX-LARANJA",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/5398.jpg"
     },
     {
      "cod": 10585,
@@ -425,11 +397,25 @@
      "img": "produtos/10585.jpg"
     },
     {
+     "cod": 5279,
+     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
+     "marca": "TRIS",
+     "preco": 18.9,
+     "img": "produtos/5279.jpg"
+    },
+    {
      "cod": 545,
      "nome": "CANETA APAGAVEL PILOT-AZUL",
      "marca": "PILOT",
      "preco": 24.9,
      "img": "produtos/545.jpg"
+    },
+    {
+     "cod": 13054,
+     "nome": "CANETINHA C/12-CIS (HIDROCOR)",
+     "marca": "CIS",
+     "preco": 15.9,
+     "img": "produtos/13054.jpg"
     },
     {
      "cod": 5400,
@@ -439,32 +425,11 @@
      "img": "produtos/5400.jpg"
     },
     {
-     "cod": 581,
-     "nome": "CANETA FIXA COMUM",
-     "marca": "FEJOVA",
-     "preco": 26.9,
-     "img": "produtos/581.jpg"
-    },
-    {
-     "cod": 603,
-     "nome": "CANETA PILOT COMUM-PRETA",
+     "cod": 608,
+     "nome": "CANETA PILOT GRIP 1.0-AZUL",
      "marca": "PILOT",
      "preco": 11.9,
-     "img": "produtos/603.jpg"
-    },
-    {
-     "cod": 10603,
-     "nome": "CANETA CIS LINEA 0.7-CORES",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/10603.jpg"
-    },
-    {
-     "cod": 10040,
-     "nome": "CANETA GEL/CONVITE 1.0 CIS-OURO (TRIGEL)",
-     "marca": "CIS",
-     "preco": 8.9,
-     "img": "produtos/10040.jpg"
+     "img": "produtos/608.jpg"
     },
     {
      "cod": 10580,
@@ -474,11 +439,25 @@
      "img": "produtos/10580.jpg"
     },
     {
-     "cod": 615,
-     "nome": "CANETA PILOT S.GRIP 0.7-PRETA",
+     "cod": 603,
+     "nome": "CANETA PILOT COMUM-PRETA",
      "marca": "PILOT",
      "preco": 11.9,
-     "img": "produtos/615.jpg"
+     "img": "produtos/603.jpg"
+    },
+    {
+     "cod": 10040,
+     "nome": "CANETA GEL/CONVITE 1.0 CIS-OURO (TRIGEL)",
+     "marca": "CIS",
+     "preco": 8.9,
+     "img": "produtos/10040.jpg"
+    },
+    {
+     "cod": 611,
+     "nome": "CANETA PILOT GRIP 1.6-AZUL",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/611.jpg"
     },
     {
      "cod": 546,
@@ -488,11 +467,18 @@
      "img": "produtos/546.jpg"
     },
     {
-     "cod": 618,
-     "nome": "CANETA PILOT S.GRIP 1.0-PRETA",
+     "cod": 10569,
+     "nome": "CANETA JETSTREAM 1.0-PRETA (UNI)",
+     "marca": "UNIBALL",
+     "preco": 16.9,
+     "img": "produtos/10569.jpg"
+    },
+    {
+     "cod": 615,
+     "nome": "CANETA PILOT S.GRIP 0.7-PRETA",
      "marca": "PILOT",
      "preco": 11.9,
-     "img": "produtos/618.jpg"
+     "img": "produtos/615.jpg"
     },
     {
      "cod": 551,
@@ -500,6 +486,41 @@
      "marca": "BIC",
      "preco": 3.9,
      "img": "produtos/551.jpg"
+    },
+    {
+     "cod": 618,
+     "nome": "CANETA PILOT S.GRIP 1.0-PRETA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/618.jpg"
+    },
+    {
+     "cod": 5223,
+     "nome": "CANETA BIC CELEBRATION PRATA",
+     "marca": "BIC",
+     "preco": 10.9,
+     "img": "produtos/5223.jpg"
+    },
+    {
+     "cod": 10575,
+     "nome": "CANETA CIS LAKUBO 0.7-AZUL",
+     "marca": "UNI",
+     "preco": 11.9,
+     "img": "produtos/10575.jpg"
+    },
+    {
+     "cod": 10603,
+     "nome": "CANETA CIS LINEA 0.7-CORES",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/10603.jpg"
+    },
+    {
+     "cod": 5402,
+     "nome": "CANETA FABER XTREME COLORS-ROSA",
+     "marca": "FABER",
+     "preco": 8.9,
+     "img": "produtos/5402.jpg"
     },
     {
      "cod": 10039,
@@ -523,27 +544,6 @@
      "img": "produtos/12306.jpg"
     },
     {
-     "cod": 5223,
-     "nome": "CANETA BIC CELEBRATION PRATA",
-     "marca": "BIC",
-     "preco": 10.9,
-     "img": "produtos/5223.jpg"
-    },
-    {
-     "cod": 10575,
-     "nome": "CANETA CIS LAKUBO 0.7-AZUL",
-     "marca": "UNI",
-     "preco": 11.9,
-     "img": "produtos/10575.jpg"
-    },
-    {
-     "cod": 5402,
-     "nome": "CANETA FABER XTREME COLORS-ROSA",
-     "marca": "FABER",
-     "preco": 8.9,
-     "img": "produtos/5402.jpg"
-    },
-    {
      "cod": 10574,
      "nome": "CANETA GEL/CONVITE UNIBALL SIGNO-PRATA",
      "marca": "UNI BALL",
@@ -551,39 +551,11 @@
      "img": "produtos/10574.jpg"
     },
     {
-     "cod": 611,
-     "nome": "CANETA PILOT GRIP 1.6-AZUL",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/611.jpg"
-    },
-    {
-     "cod": 608,
-     "nome": "CANETA PILOT GRIP 1.0-AZUL",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/608.jpg"
-    },
-    {
-     "cod": 8740,
-     "nome": "CANETA STABILO BILLE FINE-AZUL",
-     "marca": "STABILO",
-     "preco": 12.9,
-     "img": "produtos/8740.jpg"
-    },
-    {
-     "cod": 13055,
-     "nome": "CANETINHA C/24-CIS (HIDROCOR)",
-     "marca": "CIS",
-     "preco": 26.9,
-     "img": "produtos/13055.jpg"
-    },
-    {
-     "cod": 8747,
-     "nome": "CANETA JETSTREAM 1.0-AZUL (UNI)",
-     "marca": "JETSTREAM",
-     "preco": 16.9,
-     "img": "produtos/8747.jpg"
+     "cod": 633,
+     "nome": "CANETA TILIBRA 0.6 DEFINIT-PRETA",
+     "marca": "TILIBRA",
+     "preco": 10.9,
+     "img": "produtos/633.jpg"
     },
     {
      "cod": 10583,
@@ -591,6 +563,13 @@
      "marca": "UNI BALL",
      "preco": 16.9,
      "img": "produtos/10583.jpg"
+    },
+    {
+     "cod": 13055,
+     "nome": "CANETINHA C/24-CIS (HIDROCOR)",
+     "marca": "CIS",
+     "preco": 26.9,
+     "img": "produtos/13055.jpg"
     },
     {
      "cod": 578,
@@ -607,13 +586,6 @@
      "img": "produtos/13793.jpg"
     },
     {
-     "cod": 12345,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE LOVE PINK 1.0-PRETA",
-     "marca": "MOLIN",
-     "preco": 21.9,
-     "img": "produtos/12345.jpg"
-    },
-    {
      "cod": 10571,
      "nome": "CANETA UNIBALL UB-155 DELUXE MICRO-PRETA",
      "marca": "UNI BALL",
@@ -628,11 +600,11 @@
      "img": "produtos/10289.jpg"
     },
     {
-     "cod": 10042,
-     "nome": "CANETA GEL/CONVITE CIS-PRATA",
-     "marca": "CIS",
-     "preco": 8.9,
-     "img": "produtos/10042.jpg"
+     "cod": 12345,
+     "nome": "CANETA MOLIN CORAÇAO DIAMANTE LOVE PINK 1.0-PRETA",
+     "marca": "MOLIN",
+     "preco": 21.9,
+     "img": "produtos/12345.jpg"
     },
     {
      "cod": 10573,
@@ -642,11 +614,11 @@
      "img": "produtos/10573.jpg"
     },
     {
-     "cod": 11570,
-     "nome": "CANETINHA MAPED C/8 + 2 MAGIC",
-     "marca": "MAPED",
-     "preco": 25.9,
-     "img": "produtos/11570.jpg"
+     "cod": 10042,
+     "nome": "CANETA GEL/CONVITE CIS-PRATA",
+     "marca": "CIS",
+     "preco": 8.9,
+     "img": "produtos/10042.jpg"
     },
     {
      "cod": 12321,
@@ -654,6 +626,13 @@
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12321.jpg"
+    },
+    {
+     "cod": 632,
+     "nome": "CANETA TILIBRA 0.6 DEFINIT-AZUL",
+     "marca": "TILIBRA",
+     "preco": 10.9,
+     "img": "produtos/632.jpg"
     },
     {
      "cod": 13792,
@@ -670,18 +649,18 @@
      "img": "produtos/12296.jpg"
     },
     {
-     "cod": 616,
-     "nome": "CANETA PILOT S.GRIP 0.7-VERMELHA",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/616.jpg"
+     "cod": 8750,
+     "nome": "CANETA UNIBALL UB-155 DELUXE MICRO-AZUL",
+     "marca": "UNI-BALL",
+     "preco": 16.9,
+     "img": "produtos/8750.jpg"
     },
     {
-     "cod": 12295,
-     "nome": "CANETA MOLIN LOVE CITY 1.0-AZUL",
-     "marca": "MOLIN",
-     "preco": 10.9,
-     "img": "produtos/12295.jpg"
+     "cod": 11570,
+     "nome": "CANETINHA MAPED C/8 + 2 MAGIC",
+     "marca": "MAPED",
+     "preco": 25.9,
+     "img": "produtos/11570.jpg"
     },
     {
      "cod": 12294,
@@ -691,27 +670,6 @@
      "img": "produtos/12294.jpg"
     },
     {
-     "cod": 8750,
-     "nome": "CANETA UNIBALL UB-155 DELUXE MICRO-AZUL",
-     "marca": "UNI-BALL",
-     "preco": 16.9,
-     "img": "produtos/8750.jpg"
-    },
-    {
-     "cod": 11568,
-     "nome": "CANETINHA C/24-MAPED PIXEL",
-     "marca": "MAPED",
-     "preco": 45.9,
-     "img": "produtos/11568.jpg"
-    },
-    {
-     "cod": 12687,
-     "nome": "JOGO PINCEL TRIS C/8",
-     "marca": "TRIS",
-     "preco": 36.9,
-     "img": "produtos/12687.jpg"
-    },
-    {
      "cod": 10584,
      "nome": "CANETA CIS UNIBALL UB-150 EYE MICRO-AZUL",
      "marca": "UNI BALL",
@@ -719,32 +677,18 @@
      "img": "produtos/10584.jpg"
     },
     {
-     "cod": 582,
-     "nome": "CANETA FIXA C/BASE V",
-     "marca": "C. DE BALC",
-     "preco": 29.9,
-     "img": "produtos/582.jpg"
+     "cod": 616,
+     "nome": "CANETA PILOT S.GRIP 0.7-VERMELHA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/616.jpg"
     },
     {
-     "cod": 12328,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE CRYSTAL ROSE  1.0-PRETA",
-     "marca": "MOLIN",
-     "preco": 21.9,
-     "img": "produtos/12328.jpg"
-    },
-    {
-     "cod": 11542,
-     "nome": "CANETINHA C/24 MAPED OCEAN DECORADA",
-     "marca": "MAPED",
-     "preco": 39.9,
-     "img": "produtos/11542.jpg"
-    },
-    {
-     "cod": 12682,
-     "nome": "CANETINHA C/36-TRIS (TONS VIBRANTES)",
-     "marca": "TRIS",
-     "preco": 59.9,
-     "img": "produtos/12682.jpg"
+     "cod": 8740,
+     "nome": "CANETA STABILO BILLE FINE-AZUL",
+     "marca": "STABILO",
+     "preco": 12.9,
+     "img": "produtos/8740.jpg"
     },
     {
      "cod": 5401,
@@ -768,18 +712,53 @@
      "img": "produtos/584.jpg"
     },
     {
+     "cod": 12295,
+     "nome": "CANETA MOLIN LOVE CITY 1.0-AZUL",
+     "marca": "MOLIN",
+     "preco": 10.9,
+     "img": "produtos/12295.jpg"
+    },
+    {
+     "cod": 11542,
+     "nome": "CANETINHA C/24 MAPED OCEAN DECORADA",
+     "marca": "MAPED",
+     "preco": 39.9,
+     "img": "produtos/11542.jpg"
+    },
+    {
+     "cod": 11568,
+     "nome": "CANETINHA C/24-MAPED PIXEL",
+     "marca": "MAPED",
+     "preco": 45.9,
+     "img": "produtos/11568.jpg"
+    },
+    {
+     "cod": 12682,
+     "nome": "CANETINHA C/36-TRIS (TONS VIBRANTES)",
+     "marca": "TRIS",
+     "preco": 59.9,
+     "img": "produtos/12682.jpg"
+    },
+    {
+     "cod": 12687,
+     "nome": "JOGO PINCEL TRIS C/8",
+     "marca": "TRIS",
+     "preco": 36.9,
+     "img": "produtos/12687.jpg"
+    },
+    {
+     "cod": 12328,
+     "nome": "CANETA MOLIN CORAÇAO DIAMANTE CRYSTAL ROSE  1.0-PRETA",
+     "marca": "MOLIN",
+     "preco": 21.9,
+     "img": "produtos/12328.jpg"
+    },
+    {
      "cod": 10292,
      "nome": "KIT CANETA FABER TRILUX C/5-CORES",
      "marca": "FABER",
      "preco": 14.9,
      "img": "produtos/10292.jpg"
-    },
-    {
-     "cod": 6902,
-     "nome": "CANETA BRUSH (CORES BASICAS) C/12-CIS",
-     "marca": "CIS",
-     "preco": 61.9,
-     "img": "produtos/6902.jpg"
     },
     {
      "cod": 10500,
@@ -789,11 +768,11 @@
      "img": "produtos/10500.jpg"
     },
     {
-     "cod": 574,
-     "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
-     "marca": "MOLIN",
-     "preco": 9.5,
-     "img": "produtos/574.jpg"
+     "cod": 601,
+     "nome": "CANETA PILOT BP-1-VERMELHA",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/601.jpg"
     },
     {
      "cod": 609,
@@ -801,13 +780,6 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/609.jpg"
-    },
-    {
-     "cod": 601,
-     "nome": "CANETA PILOT BP-1-VERMELHA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/601.jpg"
     },
     {
      "cod": 5297,
@@ -829,13 +801,6 @@
      "marca": "JOCAR",
      "preco": 16.9,
      "img": "produtos/9973.jpg"
-    },
-    {
-     "cod": 13141,
-     "nome": "CANETA TILIBRA WEST VILLAGE 1.0-PRETA",
-     "marca": "TILIBRA",
-     "preco": 18.9,
-     "img": "produtos/13141.jpg"
     },
     {
      "cod": 10572,
@@ -866,11 +831,18 @@
      "img": "produtos/12298.jpg"
     },
     {
-     "cod": 4460,
-     "nome": "CANETA NOTA FALSA DETECT MONEY",
-     "marca": "DETECT MON",
-     "preco": 6.9,
-     "img": "produtos/4460.jpg"
+     "cod": 13141,
+     "nome": "CANETA TILIBRA WEST VILLAGE 1.0-PRETA",
+     "marca": "TILIBRA",
+     "preco": 18.9,
+     "img": "produtos/13141.jpg"
+    },
+    {
+     "cod": 6902,
+     "nome": "CANETA BRUSH (CORES BASICAS) C/12-CIS",
+     "marca": "CIS",
+     "preco": 61.9,
+     "img": "produtos/6902.jpg"
     },
     {
      "cod": 5298,
@@ -878,13 +850,6 @@
      "marca": "CIS",
      "preco": 2.9,
      "img": "produtos/5298.jpg"
-    },
-    {
-     "cod": 580,
-     "nome": "CANETA FABER XTREME-VERMELHA",
-     "marca": "FABER",
-     "preco": 5.9,
-     "img": "produtos/580.jpg"
     },
     {
      "cod": 13931,
@@ -901,18 +866,11 @@
      "img": "produtos/9974.jpg"
     },
     {
-     "cod": 8741,
-     "nome": "CANETA STABILO BILLE FINE-PRETA",
-     "marca": "STABILO",
-     "preco": 12.9,
-     "img": "produtos/8741.jpg"
-    },
-    {
-     "cod": 8742,
-     "nome": "CANETA STABILO BILLE FINE-VERMELHA",
-     "marca": "STABILO",
-     "preco": 12.9,
-     "img": "produtos/8742.jpg"
+     "cod": 4460,
+     "nome": "CANETA NOTA FALSA DETECT MONEY",
+     "marca": "DETECT MON",
+     "preco": 6.9,
+     "img": "produtos/4460.jpg"
     },
     {
      "cod": 12959,
@@ -922,18 +880,18 @@
      "img": "produtos/12959.jpg"
     },
     {
-     "cod": 5325,
-     "nome": "KIT ESCOLAR CIS COLORS-CINZA (4 PÇ)",
-     "marca": "CIS",
-     "preco": 11.9,
-     "img": "produtos/5325.jpg"
+     "cod": 580,
+     "nome": "CANETA FABER XTREME-VERMELHA",
+     "marca": "FABER",
+     "preco": 5.9,
+     "img": "produtos/580.jpg"
     },
     {
-     "cod": 5294,
-     "nome": "CANETA CIS SPIRO LOLLIPOP-AZUL CLARO",
-     "marca": "CIS",
-     "preco": 2.9,
-     "img": "produtos/5294.jpg"
+     "cod": 8747,
+     "nome": "CANETA JETSTREAM 1.0-AZUL (UNI)",
+     "marca": "JETSTREAM",
+     "preco": 16.9,
+     "img": "produtos/8747.jpg"
     },
     {
      "cod": 604,
@@ -964,6 +922,34 @@
      "img": "produtos/8753.jpg"
     },
     {
+     "cod": 8741,
+     "nome": "CANETA STABILO BILLE FINE-PRETA",
+     "marca": "STABILO",
+     "preco": 12.9,
+     "img": "produtos/8741.jpg"
+    },
+    {
+     "cod": 8742,
+     "nome": "CANETA STABILO BILLE FINE-VERMELHA",
+     "marca": "STABILO",
+     "preco": 12.9,
+     "img": "produtos/8742.jpg"
+    },
+    {
+     "cod": 5325,
+     "nome": "KIT ESCOLAR CIS COLORS-CINZA (4 PÇ)",
+     "marca": "CIS",
+     "preco": 11.9,
+     "img": "produtos/5325.jpg"
+    },
+    {
+     "cod": 5294,
+     "nome": "CANETA CIS SPIRO LOLLIPOP-AZUL CLARO",
+     "marca": "CIS",
+     "preco": 2.9,
+     "img": "produtos/5294.jpg"
+    },
+    {
      "cod": 10568,
      "nome": "CANETA GEL/CONVITE UNIBALL SIGNO-DOURADA",
      "marca": "CIS",
@@ -985,13 +971,6 @@
      "img": "produtos/12336.jpg"
     },
     {
-     "cod": 613,
-     "nome": "CANETA PILOT GRIP 1.6-VERMELHA",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/613.jpg"
-    },
-    {
      "cod": 10576,
      "nome": "CANETA CIS LAKUBO 0.7-VERMELHA",
      "marca": "UNI",
@@ -1006,18 +985,18 @@
      "img": "produtos/5296.jpg"
     },
     {
-     "cod": 10290,
-     "nome": "CANETA FABER TRILUX-(FINA) VERMELHA",
-     "marca": "FABER",
-     "preco": 2.9,
-     "img": "produtos/10290.jpg"
-    },
-    {
      "cod": 8749,
      "nome": "CANETA JETSTREAM 1.0-VERMELHA",
      "marca": "JETSTREAM",
      "preco": 14.9,
      "img": "produtos/8749.jpg"
+    },
+    {
+     "cod": 613,
+     "nome": "CANETA PILOT GRIP 1.6-VERMELHA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/613.jpg"
     },
     {
      "cod": 8751,
@@ -1081,6 +1060,13 @@
      "marca": "CIS",
      "preco": 2.9,
      "img": "produtos/10625.jpg"
+    },
+    {
+     "cod": 10290,
+     "nome": "CANETA FABER TRILUX-(FINA) VERMELHA",
+     "marca": "FABER",
+     "preco": 2.9,
+     "img": "produtos/10290.jpg"
     },
     {
      "cod": 10253,
@@ -1208,13 +1194,6 @@
      "img": "produtos/4122.jpg"
     },
     {
-     "cod": 1683,
-     "nome": "LAPIS ESCREVER FABER SEXTAVADO",
-     "marca": "FABER",
-     "preco": 1.5,
-     "img": "produtos/1683.jpg"
-    },
-    {
      "cod": 3528,
      "nome": "LAPIS ESCREVER LEO E LEO-SEXTAVADO (MADEIRA)",
      "marca": "LEO E LEO",
@@ -1243,18 +1222,18 @@
      "img": "produtos/13310.jpg"
     },
     {
-     "cod": 5704,
-     "nome": "LAPIS ESCREVER TILIBRA-ACADEMIE C/BORRACHA",
-     "marca": "TILIBRA",
-     "preco": 1.5,
-     "img": "produtos/5704.jpg"
-    },
-    {
      "cod": 11564,
      "nome": "LAPIS ESCREVER MAPED ENERGY C/BORRACHA",
      "marca": "MAPED",
      "preco": 1.5,
      "img": "produtos/11564.jpg"
+    },
+    {
+     "cod": 8415,
+     "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/8415.jpg"
     },
     {
      "cod": 3514,
@@ -1264,11 +1243,11 @@
      "img": "produtos/3514.jpg"
     },
     {
-     "cod": 8415,
-     "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/8415.jpg"
+     "cod": 5704,
+     "nome": "LAPIS ESCREVER TILIBRA-ACADEMIE C/BORRACHA",
+     "marca": "TILIBRA",
+     "preco": 1.5,
+     "img": "produtos/5704.jpg"
     },
     {
      "cod": 3513,
@@ -1299,6 +1278,20 @@
      "img": "produtos/13153.jpg"
     },
     {
+     "cod": 3508,
+     "nome": "LAPIS FABER GRIP-ROSA",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/3508.jpg"
+    },
+    {
+     "cod": 1680,
+     "nome": "LAPIS ESCREVER FABER NEON-AMARELO",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/1680.jpg"
+    },
+    {
      "cod": 10272,
      "nome": "LAPIS ESCREVER FABER GRIP-CINZA",
      "marca": "FABER",
@@ -1313,25 +1306,11 @@
      "img": "produtos/13161.jpg"
     },
     {
-     "cod": 3508,
-     "nome": "LAPIS FABER GRIP-ROSA",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3508.jpg"
-    },
-    {
      "cod": 5836,
      "nome": "LAPIS ESCREVER FABER REGUA",
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/5836.jpg"
-    },
-    {
-     "cod": 1680,
-     "nome": "LAPIS ESCREVER FABER NEON-AMARELO",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/1680.jpg"
     },
     {
      "cod": 13152,
@@ -1341,6 +1320,13 @@
      "img": "produtos/13152.jpg"
     },
     {
+     "cod": 8462,
+     "nome": "LAPIS ESCREVER FABER GLITZ-VERDE",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/8462.jpg"
+    },
+    {
      "cod": 10477,
      "nome": "LAPIS ESCREVER CIS JUMBO",
      "marca": "CIS",
@@ -1348,11 +1334,11 @@
      "img": "produtos/10477.jpg"
     },
     {
-     "cod": 8462,
-     "nome": "LAPIS ESCREVER FABER GLITZ-VERDE",
-     "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/8462.jpg"
+     "cod": 13354,
+     "nome": "LAPIS ESCREVER MAPED NEON C/BORRACHA-AMARELO",
+     "marca": "MAPED",
+     "preco": 1.9,
+     "img": "produtos/13354.jpg"
     },
     {
      "cod": 6355,
@@ -1362,11 +1348,11 @@
      "img": "produtos/6355.jpg"
     },
     {
-     "cod": 13354,
-     "nome": "LAPIS ESCREVER MAPED NEON C/BORRACHA-AMARELO",
+     "cod": 13305,
+     "nome": "LAPIS ESCREVER MAPED KIDY LEARN",
      "marca": "MAPED",
      "preco": 1.9,
-     "img": "produtos/13354.jpg"
+     "img": "produtos/13305.jpg"
     },
     {
      "cod": 12914,
@@ -1383,32 +1369,11 @@
      "img": "produtos/1675.jpg"
     },
     {
-     "cod": 1650,
-     "nome": "LAPIS 12CORES-LEO E LEO (SEXTAVADO)",
-     "marca": "LEO E LEO",
-     "preco": 5.9,
-     "img": "produtos/1650.jpg"
-    },
-    {
-     "cod": 13305,
-     "nome": "LAPIS ESCREVER MAPED KIDY LEARN",
-     "marca": "MAPED",
-     "preco": 1.9,
-     "img": "produtos/13305.jpg"
-    },
-    {
      "cod": 7707,
      "nome": "LAPIS 12CORES+3 DUO-MAPED",
      "marca": "MAPED",
      "preco": 12.9,
      "img": "produtos/7707.jpg"
-    },
-    {
-     "cod": 3507,
-     "nome": "LAPIS FABER GRIP-LILAS",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3507.jpg"
     },
     {
      "cod": 7859,
@@ -1418,25 +1383,18 @@
      "img": "produtos/7859.jpg"
     },
     {
-     "cod": 1652,
-     "nome": "LAPIS 24CORES-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 25.9,
-     "img": "produtos/1652.jpg"
+     "cod": 1650,
+     "nome": "LAPIS 12CORES-LEO E LEO (SEXTAVADO)",
+     "marca": "LEO E LEO",
+     "preco": 5.9,
+     "img": "produtos/1650.jpg"
     },
     {
-     "cod": 7699,
-     "nome": "LAPIS 12CORES-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 9.9,
-     "img": "produtos/7699.jpg"
-    },
-    {
-     "cod": 13608,
-     "nome": "LAPIS 12CORES-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 8.9,
-     "img": "produtos/13608.jpg"
+     "cod": 3507,
+     "nome": "LAPIS FABER GRIP-LILAS",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/3507.jpg"
     },
     {
      "cod": 5835,
@@ -1453,18 +1411,18 @@
      "img": "produtos/1677.jpg"
     },
     {
-     "cod": 1658,
-     "nome": "LAPIS 24CORES-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 10.9,
-     "img": "produtos/1658.jpg"
+     "cod": 13608,
+     "nome": "LAPIS 12CORES-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 8.9,
+     "img": "produtos/13608.jpg"
     },
     {
-     "cod": 1676,
-     "nome": "LAPIS FABER 6B (DESENHO)",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/1676.jpg"
+     "cod": 1652,
+     "nome": "LAPIS 24CORES-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 25.9,
+     "img": "produtos/1652.jpg"
     },
     {
      "cod": 10065,
@@ -1474,11 +1432,18 @@
      "img": "produtos/10065.jpg"
     },
     {
-     "cod": 13353,
-     "nome": "LAPIS ESCREVER MAPED NEON C/BORRACHA-ROSA",
-     "marca": "MAPED",
-     "preco": 1.9,
-     "img": "produtos/13353.jpg"
+     "cod": 1676,
+     "nome": "LAPIS FABER 6B (DESENHO)",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/1676.jpg"
+    },
+    {
+     "cod": 7699,
+     "nome": "LAPIS 12CORES-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 9.9,
+     "img": "produtos/7699.jpg"
     },
     {
      "cod": 1673,
@@ -1502,6 +1467,13 @@
      "img": "produtos/13176.jpg"
     },
     {
+     "cod": 1658,
+     "nome": "LAPIS 24CORES-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 10.9,
+     "img": "produtos/1658.jpg"
+    },
+    {
      "cod": 10594,
      "nome": "LAPIS COR COLORCIS MULTI NEON-CIS",
      "marca": "CIS",
@@ -1509,25 +1481,11 @@
      "img": "produtos/10594.jpg"
     },
     {
-     "cod": 10698,
-     "nome": "LAPIS ESCREVER FABER PASTEL-AZUL",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/10698.jpg"
-    },
-    {
-     "cod": 7860,
-     "nome": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+     "cod": 13353,
+     "nome": "LAPIS ESCREVER MAPED NEON C/BORRACHA-ROSA",
      "marca": "MAPED",
-     "preco": 1.5,
-     "img": "produtos/7860.jpg"
-    },
-    {
-     "cod": 3498,
-     "nome": "LAPIS 24CORES-FABER (4 BICOLOR)",
-     "marca": "FABER",
-     "preco": 51.9,
-     "img": "produtos/3498.jpg"
+     "preco": 1.9,
+     "img": "produtos/13353.jpg"
     },
     {
      "cod": 10702,
@@ -1537,39 +1495,11 @@
      "img": "produtos/10702.jpg"
     },
     {
-     "cod": 11529,
-     "nome": "LAPIS 12CORES-MAPED STAR",
-     "marca": "MAPED",
-     "preco": 12.9,
-     "img": "produtos/11529.jpg"
-    },
-    {
      "cod": 13745,
      "nome": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/13745.jpg"
-    },
-    {
-     "cod": 7700,
-     "nome": "LAPIS 12CORES-ACRILEX (JUMBO)",
-     "marca": "",
-     "preco": 28.9,
-     "img": "produtos/7700.jpg"
-    },
-    {
-     "cod": 13053,
-     "nome": "LAPIS ESCREVER CIS FANTASIA DIVERTIDA C/BORRACHA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/13053.jpg"
-    },
-    {
-     "cod": 12282,
-     "nome": "LAPIS ESCREVER MOLIN LOVE BLACK E WHITE C/BORRACHA",
-     "marca": "MOLIN",
-     "preco": 2.5,
-     "img": "produtos/12282.jpg"
     },
     {
      "cod": 10561,
@@ -1579,20 +1509,6 @@
      "img": "produtos/10561.jpg"
     },
     {
-     "cod": 1655,
-     "nome": "LAPIS 24CORES-FABER (SEM KIT)",
-     "marca": "FABER",
-     "preco": 41.9,
-     "img": "produtos/1655.jpg"
-    },
-    {
-     "cod": 13158,
-     "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-AZUL",
-     "marca": "TILIBRA",
-     "preco": 0.9,
-     "img": "produtos/13158.jpg"
-    },
-    {
      "cod": 10562,
      "nome": "LAPIS ESCREVER CIS SPIRO-ROXO",
      "marca": "CIS",
@@ -1600,18 +1516,25 @@
      "img": "produtos/10562.jpg"
     },
     {
-     "cod": 10270,
-     "nome": "LAPIS ESCREVER FABER SEXTAVADO AZUL C/BORRACHA",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/10270.jpg"
+     "cod": 12282,
+     "nome": "LAPIS ESCREVER MOLIN LOVE BLACK E WHITE C/BORRACHA",
+     "marca": "MOLIN",
+     "preco": 2.5,
+     "img": "produtos/12282.jpg"
     },
     {
-     "cod": 12717,
-     "nome": "LAPIS ESCREVER TRIS MARIE",
-     "marca": "TRIS",
-     "preco": 2.5,
-     "img": "produtos/12717.jpg"
+     "cod": 10698,
+     "nome": "LAPIS ESCREVER FABER PASTEL-AZUL",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/10698.jpg"
+    },
+    {
+     "cod": 13053,
+     "nome": "LAPIS ESCREVER CIS FANTASIA DIVERTIDA C/BORRACHA",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/13053.jpg"
     },
     {
      "cod": 13159,
@@ -1621,18 +1544,39 @@
      "img": "produtos/13159.jpg"
     },
     {
+     "cod": 7700,
+     "nome": "LAPIS 12CORES-ACRILEX (JUMBO)",
+     "marca": "",
+     "preco": 28.9,
+     "img": "produtos/7700.jpg"
+    },
+    {
+     "cod": 11529,
+     "nome": "LAPIS 12CORES-MAPED STAR",
+     "marca": "MAPED",
+     "preco": 12.9,
+     "img": "produtos/11529.jpg"
+    },
+    {
+     "cod": 10270,
+     "nome": "LAPIS ESCREVER FABER SEXTAVADO AZUL C/BORRACHA",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/10270.jpg"
+    },
+    {
+     "cod": 13158,
+     "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-AZUL",
+     "marca": "TILIBRA",
+     "preco": 0.9,
+     "img": "produtos/13158.jpg"
+    },
+    {
      "cod": 13160,
      "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-ROXO",
      "marca": "TILIBRA",
      "preco": 0.9,
      "img": "produtos/13160.jpg"
-    },
-    {
-     "cod": 10636,
-     "nome": "LAPIS ESCREVER CIS FANTASIA PETS C/BORRACHA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/10636.jpg"
     },
     {
      "cod": 5407,
@@ -1642,18 +1586,25 @@
      "img": "produtos/5407.jpg"
     },
     {
-     "cod": 1642,
-     "nome": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
-     "marca": "ACRILEX",
-     "preco": 14.9,
-     "img": "produtos/1642.jpg"
-    },
-    {
      "cod": 10705,
      "nome": "LAPIS ESCREVER FABER DINOSSAURO-AZUL",
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/10705.jpg"
+    },
+    {
+     "cod": 1655,
+     "nome": "LAPIS 24CORES-FABER (SEM KIT)",
+     "marca": "FABER",
+     "preco": 41.9,
+     "img": "produtos/1655.jpg"
+    },
+    {
+     "cod": 1642,
+     "nome": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
+     "marca": "ACRILEX",
+     "preco": 14.9,
+     "img": "produtos/1642.jpg"
     },
     {
      "cod": 6287,
@@ -1663,11 +1614,11 @@
      "img": "produtos/6287.jpg"
     },
     {
-     "cod": 12313,
-     "nome": "LAPIS ESCREVER MOLIN LOVE BORBOLETAS C/BORRACHA",
-     "marca": "MOLIN",
-     "preco": 2.0,
-     "img": "produtos/12313.jpg"
+     "cod": 10636,
+     "nome": "LAPIS ESCREVER CIS FANTASIA PETS C/BORRACHA",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/10636.jpg"
     },
     {
      "cod": 1674,
@@ -1684,25 +1635,11 @@
      "img": "produtos/1640.jpg"
     },
     {
-     "cod": 10475,
-     "nome": "LAPIS ESCREVER CIS FANTASIA FRUTAS C/BORRACHA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/10475.jpg"
-    },
-    {
-     "cod": 7706,
-     "nome": "LAPIS 24 CORES-MAPED INFINITY",
-     "marca": "MAPED",
-     "preco": 24.9,
-     "img": "produtos/7706.jpg"
-    },
-    {
-     "cod": 1659,
-     "nome": "LAPIS 24CORES-MAPED",
-     "marca": "MAPED",
-     "preco": 28.9,
-     "img": "produtos/1659.jpg"
+     "cod": 12717,
+     "nome": "LAPIS ESCREVER TRIS MARIE",
+     "marca": "TRIS",
+     "preco": 2.5,
+     "img": "produtos/12717.jpg"
     },
     {
      "cod": 10066,
@@ -1712,25 +1649,11 @@
      "img": "produtos/10066.jpg"
     },
     {
-     "cod": 1662,
-     "nome": "LAPIS 36CORES-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 15.9,
-     "img": "produtos/1662.jpg"
-    },
-    {
-     "cod": 5405,
-     "nome": "LAPIS FABER 3B (DESENHO)",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/5405.jpg"
-    },
-    {
-     "cod": 3496,
-     "nome": "LAPIS 12CORES-LEO E LEO-(JUMBO)",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/3496.jpg"
+     "cod": 7706,
+     "nome": "LAPIS 24 CORES-MAPED INFINITY",
+     "marca": "MAPED",
+     "preco": 24.9,
+     "img": "produtos/7706.jpg"
     },
     {
      "cod": 1646,
@@ -1740,25 +1663,25 @@
      "img": "produtos/1646.jpg"
     },
     {
-     "cod": 7705,
-     "nome": "LAPIS 12CORES-MAPED (INFINITY)",
-     "marca": "MAPED",
+     "cod": 3496,
+     "nome": "LAPIS 12CORES-LEO E LEO-(JUMBO)",
+     "marca": "LEO E LEO",
      "preco": 12.9,
-     "img": "produtos/7705.jpg"
+     "img": "produtos/3496.jpg"
     },
     {
-     "cod": 8461,
-     "nome": "LAPIS ESCREVER FABER GLITZ-LILAS",
+     "cod": 10475,
+     "nome": "LAPIS ESCREVER CIS FANTASIA FRUTAS C/BORRACHA",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/10475.jpg"
+    },
+    {
+     "cod": 5405,
+     "nome": "LAPIS FABER 3B (DESENHO)",
      "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/8461.jpg"
-    },
-    {
-     "cod": 12626,
-     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR",
-     "marca": "TRIS",
-     "preco": 10.9,
-     "img": "produtos/12626.jpg"
+     "preco": 4.9,
+     "img": "produtos/5405.jpg"
     },
     {
      "cod": 5406,
@@ -1768,32 +1691,25 @@
      "img": "produtos/5406.jpg"
     },
     {
-     "cod": 13044,
-     "nome": "LAPIS 12CORES-CIS SPIRO GRIP",
-     "marca": "CIS",
-     "preco": 13.9,
-     "img": "produtos/13044.jpg"
-    },
-    {
-     "cod": 10699,
-     "nome": "LAPIS ESCREVER FABER PASTEL-LILAS",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/10699.jpg"
-    },
-    {
-     "cod": 3515,
-     "nome": "LAPIS ESCREVER FABER NEON-VERDE",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3515.jpg"
-    },
-    {
-     "cod": 7710,
-     "nome": "LAPIS 12CORES-MAPED (APAGAVEL)",
+     "cod": 7705,
+     "nome": "LAPIS 12CORES-MAPED (INFINITY)",
      "marca": "MAPED",
-     "preco": 18.9,
-     "img": "produtos/7710.jpg"
+     "preco": 12.9,
+     "img": "produtos/7705.jpg"
+    },
+    {
+     "cod": 12313,
+     "nome": "LAPIS ESCREVER MOLIN LOVE BORBOLETAS C/BORRACHA",
+     "marca": "MOLIN",
+     "preco": 2.0,
+     "img": "produtos/12313.jpg"
+    },
+    {
+     "cod": 1662,
+     "nome": "LAPIS 36CORES-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 15.9,
+     "img": "produtos/1662.jpg"
     },
     {
      "cod": 4871,
@@ -1803,25 +1719,32 @@
      "img": "produtos/4871.jpg"
     },
     {
+     "cod": 8461,
+     "nome": "LAPIS ESCREVER FABER GLITZ-LILAS",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/8461.jpg"
+    },
+    {
+     "cod": 13044,
+     "nome": "LAPIS 12CORES-CIS SPIRO GRIP",
+     "marca": "CIS",
+     "preco": 13.9,
+     "img": "produtos/13044.jpg"
+    },
+    {
+     "cod": 7710,
+     "nome": "LAPIS 12CORES-MAPED (APAGAVEL)",
+     "marca": "MAPED",
+     "preco": 18.9,
+     "img": "produtos/7710.jpg"
+    },
+    {
      "cod": 1661,
      "nome": "LAPIS 36CORES-FABER",
      "marca": "FABER",
      "preco": 85.9,
      "img": "produtos/1661.jpg"
-    },
-    {
-     "cod": 4869,
-     "nome": "LAPIS 6CORES NEON-MAPED",
-     "marca": "MAPED",
-     "preco": 12.9,
-     "img": "produtos/4869.jpg"
-    },
-    {
-     "cod": 8986,
-     "nome": "LAPIS 12CORES-NORMA+1 APONTADOR (JUMBO)",
-     "marca": "NORMA",
-     "preco": 29.9,
-     "img": "produtos/8986.jpg"
     },
     {
      "cod": 13799,
@@ -1838,6 +1761,20 @@
      "img": "produtos/10560.jpg"
     },
     {
+     "cod": 8986,
+     "nome": "LAPIS 12CORES-NORMA+1 APONTADOR (JUMBO)",
+     "marca": "NORMA",
+     "preco": 29.9,
+     "img": "produtos/8986.jpg"
+    },
+    {
+     "cod": 7860,
+     "nome": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+     "marca": "MAPED",
+     "preco": 1.5,
+     "img": "produtos/7860.jpg"
+    },
+    {
      "cod": 8985,
      "nome": "LAPIS 12CORES-NORMA+1 APONTADOR",
      "marca": "NORMA",
@@ -1845,11 +1782,11 @@
      "img": "produtos/8985.jpg"
     },
     {
-     "cod": 8419,
-     "nome": "LAPIS ESCREVER FABER (STRASS) SPARKLE-ROSA",
+     "cod": 3515,
+     "nome": "LAPIS ESCREVER FABER NEON-VERDE",
      "marca": "FABER",
      "preco": 2.0,
-     "img": "produtos/8419.jpg"
+     "img": "produtos/3515.jpg"
     },
     {
      "cod": 12315,
@@ -1873,11 +1810,18 @@
      "img": "produtos/1657.jpg"
     },
     {
-     "cod": 1660,
-     "nome": "LAPIS 36CORES-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 32.9,
-     "img": "produtos/1660.jpg"
+     "cod": 4869,
+     "nome": "LAPIS 6CORES NEON-MAPED",
+     "marca": "MAPED",
+     "preco": 12.9,
+     "img": "produtos/4869.jpg"
+    },
+    {
+     "cod": 8419,
+     "nome": "LAPIS ESCREVER FABER (STRASS) SPARKLE-ROSA",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/8419.jpg"
     },
     {
      "cod": 10068,
@@ -1894,6 +1838,13 @@
      "img": "produtos/12323.jpg"
     },
     {
+     "cod": 3512,
+     "nome": "LAPIS ESCREVER FABER METALLIC-ROSA",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/3512.jpg"
+    },
+    {
      "cod": 1664,
      "nome": "LAPIS 48CORES-FABER",
      "marca": "FABER",
@@ -1901,11 +1852,60 @@
      "img": "produtos/1664.jpg"
     },
     {
-     "cod": 3512,
-     "nome": "LAPIS ESCREVER FABER METALLIC-ROSA",
+     "cod": 3516,
+     "nome": "LAPIS ESCREVER FABER PEROLA-AZUL",
      "marca": "FABER",
      "preco": 2.0,
-     "img": "produtos/3512.jpg"
+     "img": "produtos/3516.jpg"
+    },
+    {
+     "cod": 12630,
+     "nome": "LAPIS 120CORES-TRIS MEGA SOFT COLOR",
+     "marca": "TRIS",
+     "preco": 159.9,
+     "img": "produtos/12630.jpg"
+    },
+    {
+     "cod": 10563,
+     "nome": "LAPIS ESCREVER CIS SPIRO-VERDE",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/10563.jpg"
+    },
+    {
+     "cod": 1660,
+     "nome": "LAPIS 36CORES-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 32.9,
+     "img": "produtos/1660.jpg"
+    },
+    {
+     "cod": 10699,
+     "nome": "LAPIS ESCREVER FABER PASTEL-LILAS",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/10699.jpg"
+    },
+    {
+     "cod": 14124,
+     "nome": "LAPIS ESCREVER FABER SEXTAVADO AZUL",
+     "marca": "FABER",
+     "preco": 1.9,
+     "img": "produtos/14124.jpg"
+    },
+    {
+     "cod": 12626,
+     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR",
+     "marca": "TRIS",
+     "preco": 10.9,
+     "img": "produtos/12626.jpg"
+    },
+    {
+     "cod": 10632,
+     "nome": "LAPIS ESCREVER CIS NEON-ROXO",
+     "marca": "CIS",
+     "preco": 1.5,
+     "img": "produtos/10632.jpg"
     },
     {
      "cod": 5838,
@@ -1922,46 +1922,11 @@
      "img": "produtos/7856.jpg"
     },
     {
-     "cod": 12683,
-     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR (TONS PASTEIS)",
-     "marca": "TRIS",
-     "preco": 19.9,
-     "img": "produtos/12683.jpg"
-    },
-    {
-     "cod": 6288,
-     "nome": "LAPIS 12CORES-BIC EVOLUTION (JUMBO)",
-     "marca": "BIC",
-     "preco": 23.9,
-     "img": "produtos/6288.jpg"
-    },
-    {
-     "cod": 3516,
-     "nome": "LAPIS ESCREVER FABER PEROLA-AZUL",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3516.jpg"
-    },
-    {
-     "cod": 10563,
-     "nome": "LAPIS ESCREVER CIS SPIRO-VERDE",
-     "marca": "CIS",
-     "preco": 1.9,
-     "img": "produtos/10563.jpg"
-    },
-    {
-     "cod": 12732,
-     "nome": "LAPIS ESCREVER TRIS COLLECTION TRIO",
-     "marca": "TRIS",
-     "preco": 2.0,
-     "img": "produtos/12732.jpg"
-    },
-    {
-     "cod": 12630,
-     "nome": "LAPIS 120CORES-TRIS MEGA SOFT COLOR",
-     "marca": "TRIS",
-     "preco": 159.9,
-     "img": "produtos/12630.jpg"
+     "cod": 1666,
+     "nome": "LAPIS 48CORES-MAPED",
+     "marca": "MAPED",
+     "preco": 59.9,
+     "img": "produtos/1666.jpg"
     },
     {
      "cod": 8459,
@@ -1971,18 +1936,11 @@
      "img": "produtos/8459.jpg"
     },
     {
-     "cod": 10632,
-     "nome": "LAPIS ESCREVER CIS NEON-ROXO",
-     "marca": "CIS",
-     "preco": 1.5,
-     "img": "produtos/10632.jpg"
-    },
-    {
-     "cod": 1666,
-     "nome": "LAPIS 48CORES-MAPED",
-     "marca": "MAPED",
-     "preco": 59.9,
-     "img": "produtos/1666.jpg"
+     "cod": 12732,
+     "nome": "LAPIS ESCREVER TRIS COLLECTION TRIO",
+     "marca": "TRIS",
+     "preco": 2.0,
+     "img": "produtos/12732.jpg"
     },
     {
      "cod": 6455,
@@ -1990,13 +1948,6 @@
      "marca": "MAPED",
      "preco": 34.9,
      "img": "produtos/6455.jpg"
-    },
-    {
-     "cod": 7858,
-     "nome": "LAPIS ESCREVER MAPED GLITTER ROSA C/BORRACHA",
-     "marca": "MAPED",
-     "preco": 2.5,
-     "img": "produtos/7858.jpg"
     },
     {
      "cod": 5697,
@@ -2013,11 +1964,32 @@
      "img": "produtos/1670.jpg"
     },
     {
+     "cod": 7858,
+     "nome": "LAPIS ESCREVER MAPED GLITTER ROSA C/BORRACHA",
+     "marca": "MAPED",
+     "preco": 2.5,
+     "img": "produtos/7858.jpg"
+    },
+    {
+     "cod": 6288,
+     "nome": "LAPIS 12CORES-BIC EVOLUTION (JUMBO)",
+     "marca": "BIC",
+     "preco": 23.9,
+     "img": "produtos/6288.jpg"
+    },
+    {
      "cod": 10564,
      "nome": "LAPIS ESCREVER CIS SPIRO-VERMELHO",
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10564.jpg"
+    },
+    {
+     "cod": 12683,
+     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR (TONS PASTEIS)",
+     "marca": "TRIS",
+     "preco": 19.9,
+     "img": "produtos/12683.jpg"
     },
     {
      "cod": 10312,
@@ -2062,13 +2034,6 @@
      "img": "produtos/10314.jpg"
     },
     {
-     "cod": 14124,
-     "nome": "LAPIS ESCREVER FABER SEXTAVADO AZUL",
-     "marca": "FABER",
-     "preco": 1.9,
-     "img": "produtos/14124.jpg"
-    },
-    {
      "cod": 12322,
      "nome": "LAPIS ESCREVER MOLIN STITCH C/BORRACHA",
      "marca": "MOLIN",
@@ -2081,6 +2046,13 @@
    "slug": "pincel-permanente",
    "nome": "Pincel Permanente",
    "itens": [
+    {
+     "cod": 11981,
+     "nome": "MARCA TEXTO JOCAR-AMARELO",
+     "marca": "JOCAR",
+     "preco": 2.0,
+     "img": "produtos/11981.jpg"
+    },
     {
      "cod": 2657,
      "nome": "RETRO 2.0 PILOT-PRETO",
@@ -2166,6 +2138,13 @@
      "img": "produtos/6054.jpg"
     },
     {
+     "cod": 11855,
+     "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
+     "marca": "BRW",
+     "preco": 3.9,
+     "img": "produtos/11855.jpg"
+    },
+    {
      "cod": 1582,
      "nome": "JOGO PINCEL COMPACTOR C/6",
      "marca": "COMPACTOR",
@@ -2180,18 +2159,39 @@
      "img": "produtos/6053.jpg"
     },
     {
-     "cod": 11855,
-     "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
-     "marca": "BRW",
-     "preco": 3.9,
-     "img": "produtos/11855.jpg"
-    },
-    {
      "cod": 6052,
      "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6052.jpg"
+    },
+    {
+     "cod": 2653,
+     "nome": "RETRO 1.0 PILOT-PRETO",
+     "marca": "PILOT",
+     "preco": 10.9,
+     "img": "produtos/2653.jpg"
+    },
+    {
+     "cod": 6051,
+     "nome": "MARCA TEXTO MASTERPRINT-AZUL",
+     "marca": "MASTERPRIN",
+     "preco": 2.0,
+     "img": "produtos/6051.jpg"
+    },
+    {
+     "cod": 2659,
+     "nome": "RETRO 2.0 PILOT-VERMELHO",
+     "marca": "PILOT",
+     "preco": 6.9,
+     "img": "produtos/2659.jpg"
+    },
+    {
+     "cod": 6638,
+     "nome": "PINCEL ATOM.RECAR.MASTERPRINT-AZUL",
+     "marca": "MASTERPRIN",
+     "preco": 5.9,
+     "img": "produtos/6638.jpg"
     },
     {
      "cod": 1830,
@@ -2208,34 +2208,6 @@
      "img": "produtos/1832.jpg"
     },
     {
-     "cod": 2653,
-     "nome": "RETRO 1.0 PILOT-PRETO",
-     "marca": "PILOT",
-     "preco": 10.9,
-     "img": "produtos/2653.jpg"
-    },
-    {
-     "cod": 2659,
-     "nome": "RETRO 2.0 PILOT-VERMELHO",
-     "marca": "PILOT",
-     "preco": 6.9,
-     "img": "produtos/2659.jpg"
-    },
-    {
-     "cod": 6051,
-     "nome": "MARCA TEXTO MASTERPRINT-AZUL",
-     "marca": "MASTERPRIN",
-     "preco": 2.0,
-     "img": "produtos/6051.jpg"
-    },
-    {
-     "cod": 6638,
-     "nome": "PINCEL ATOM.RECAR.MASTERPRINT-AZUL",
-     "marca": "MASTERPRIN",
-     "preco": 5.9,
-     "img": "produtos/6638.jpg"
-    },
-    {
      "cod": 1833,
      "nome": "MARCA TEXTO PILOT-VERDE",
      "marca": "PILOT",
@@ -2248,13 +2220,6 @@
      "marca": "JOCAR",
      "preco": 2.5,
      "img": "produtos/7533.jpg"
-    },
-    {
-     "cod": 1831,
-     "nome": "MARCA TEXTO PILOT-LARANJA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/1831.jpg"
     },
     {
      "cod": 2353,
@@ -2271,6 +2236,13 @@
      "img": "produtos/1847.jpg"
     },
     {
+     "cod": 1831,
+     "nome": "MARCA TEXTO PILOT-LARANJA",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/1831.jpg"
+    },
+    {
      "cod": 2350,
      "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
      "marca": "PILOT",
@@ -2285,13 +2257,6 @@
      "img": "produtos/2343.jpg"
     },
     {
-     "cod": 13364,
-     "nome": "MARCA TEXTO JOCAR-LARANJA",
-     "marca": "JOCAR",
-     "preco": 2.0,
-     "img": "produtos/13364.jpg"
-    },
-    {
      "cod": 2354,
      "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBMA-VBM-M)",
      "marca": "PILOT",
@@ -2299,11 +2264,11 @@
      "img": "produtos/2354.jpg"
     },
     {
-     "cod": 12147,
-     "nome": "MARCA TEXTO PILOT-VIOLETA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/12147.jpg"
+     "cod": 13364,
+     "nome": "MARCA TEXTO JOCAR-LARANJA",
+     "marca": "JOCAR",
+     "preco": 2.0,
+     "img": "produtos/13364.jpg"
     },
     {
      "cod": 2334,
@@ -2311,13 +2276,6 @@
      "marca": "JOCAR",
      "preco": 2.0,
      "img": "produtos/2334.jpg"
-    },
-    {
-     "cod": 6637,
-     "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
-     "marca": "MASTERPRIN",
-     "preco": 2.0,
-     "img": "produtos/6637.jpg"
     },
     {
      "cod": 2352,
@@ -2355,20 +2313,6 @@
      "img": "produtos/2348.jpg"
     },
     {
-     "cod": 11571,
-     "nome": "MARCA TEXTO MAPED PASTEL-ROSA",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/11571.jpg"
-    },
-    {
-     "cod": 1827,
-     "nome": "MARCA TEXTO CIS-VERDE",
-     "marca": "CIS",
-     "preco": 3.0,
-     "img": "produtos/1827.jpg"
-    },
-    {
      "cod": 7579,
      "nome": "PINCEL ATOM.SLIM.JOCAR-AZUL",
      "marca": "JOCAR",
@@ -2376,18 +2320,25 @@
      "img": "produtos/7579.jpg"
     },
     {
-     "cod": 7530,
-     "nome": "CANETINHA PLUS C/12-LEO E LEO",
-     "marca": "LEO E LEO",
+     "cod": 11571,
+     "nome": "MARCA TEXTO MAPED PASTEL-ROSA",
+     "marca": "MAPED",
      "preco": 6.9,
-     "img": "produtos/7530.jpg"
+     "img": "produtos/11571.jpg"
     },
     {
-     "cod": 7527,
-     "nome": "JOGO PINCEL BIG LEO E LEO C/12",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/7527.jpg"
+     "cod": 12147,
+     "nome": "MARCA TEXTO PILOT-VIOLETA",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/12147.jpg"
+    },
+    {
+     "cod": 2338,
+     "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
+     "marca": "JOCAR",
+     "preco": 2.9,
+     "img": "produtos/2338.jpg"
     },
     {
      "cod": 7532,
@@ -2397,11 +2348,11 @@
      "img": "produtos/7532.jpg"
     },
     {
-     "cod": 11575,
-     "nome": "MARCA TEXTO MAPED PASTEL-ROXO",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/11575.jpg"
+     "cod": 1827,
+     "nome": "MARCA TEXTO CIS-VERDE",
+     "marca": "CIS",
+     "preco": 3.0,
+     "img": "produtos/1827.jpg"
     },
     {
      "cod": 11856,
@@ -2411,11 +2362,32 @@
      "img": "produtos/11856.jpg"
     },
     {
+     "cod": 6637,
+     "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
+     "marca": "MASTERPRIN",
+     "preco": 2.0,
+     "img": "produtos/6637.jpg"
+    },
+    {
      "cod": 13804,
      "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-ROSA",
      "marca": "CIS",
      "preco": 3.9,
      "img": "produtos/13804.jpg"
+    },
+    {
+     "cod": 7530,
+     "nome": "CANETINHA PLUS C/12-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 6.9,
+     "img": "produtos/7530.jpg"
+    },
+    {
+     "cod": 11575,
+     "nome": "MARCA TEXTO MAPED PASTEL-ROXO",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/11575.jpg"
     },
     {
      "cod": 13805,
@@ -2446,13 +2418,6 @@
      "img": "produtos/1848.jpg"
     },
     {
-     "cod": 2338,
-     "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
-     "marca": "JOCAR",
-     "preco": 2.9,
-     "img": "produtos/2338.jpg"
-    },
-    {
      "cod": 6899,
      "nome": "MARCA TEXTO GEL VERDE-FABER",
      "marca": "FABER",
@@ -2467,39 +2432,18 @@
      "img": "produtos/2351.jpg"
     },
     {
+     "cod": 7527,
+     "nome": "JOGO PINCEL BIG LEO E LEO C/12",
+     "marca": "LEO E LEO",
+     "preco": 12.9,
+     "img": "produtos/7527.jpg"
+    },
+    {
      "cod": 2345,
      "nome": "PINCEL ATOM.1100 PILOT-VERMELHO",
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2345.jpg"
-    },
-    {
-     "cod": 12241,
-     "nome": "MARCA TEXTO BRW GEL-AMARELO",
-     "marca": "BRW",
-     "preco": 4.9,
-     "img": "produtos/12241.jpg"
-    },
-    {
-     "cod": 7526,
-     "nome": "JOGO PINCEL BIG LEO E LEO C/6",
-     "marca": "LEO E LEO",
-     "preco": 6.9,
-     "img": "produtos/7526.jpg"
-    },
-    {
-     "cod": 12229,
-     "nome": "MARCA TEXTO BRW GEL-ROSA",
-     "marca": "BRW",
-     "preco": 4.9,
-     "img": "produtos/12229.jpg"
-    },
-    {
-     "cod": 7528,
-     "nome": "CANETINHA PLUS C/24-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/7528.jpg"
     },
     {
      "cod": 13801,
@@ -2509,11 +2453,25 @@
      "img": "produtos/13801.jpg"
     },
     {
-     "cod": 7529,
-     "nome": "CANETINHA PLUS C/6-LEO E LEO",
-     "marca": "LEO E LEO",
+     "cod": 12241,
+     "nome": "MARCA TEXTO BRW GEL-AMARELO",
+     "marca": "BRW",
      "preco": 4.9,
-     "img": "produtos/7529.jpg"
+     "img": "produtos/12241.jpg"
+    },
+    {
+     "cod": 12229,
+     "nome": "MARCA TEXTO BRW GEL-ROSA",
+     "marca": "BRW",
+     "preco": 4.9,
+     "img": "produtos/12229.jpg"
+    },
+    {
+     "cod": 7526,
+     "nome": "JOGO PINCEL BIG LEO E LEO C/6",
+     "marca": "LEO E LEO",
+     "preco": 6.9,
+     "img": "produtos/7526.jpg"
     },
     {
      "cod": 13803,
@@ -2523,11 +2481,11 @@
      "img": "produtos/13803.jpg"
     },
     {
-     "cod": 2658,
-     "nome": "RETRO 2.0 PILOT-VERDE",
-     "marca": "PILOT",
-     "preco": 6.9,
-     "img": "produtos/2658.jpg"
+     "cod": 7528,
+     "nome": "CANETINHA PLUS C/24-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 12.9,
+     "img": "produtos/7528.jpg"
     },
     {
      "cod": 8375,
@@ -2535,6 +2493,13 @@
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/8375.jpg"
+    },
+    {
+     "cod": 2658,
+     "nome": "RETRO 2.0 PILOT-VERDE",
+     "marca": "PILOT",
+     "preco": 6.9,
+     "img": "produtos/2658.jpg"
     },
     {
      "cod": 8494,
@@ -2558,11 +2523,11 @@
      "img": "produtos/10382.jpg"
     },
     {
-     "cod": 6640,
-     "nome": "PINCEL ATOM.RECAR.MASTERPRINT-VERMELHO",
-     "marca": "MASTERPRIN",
-     "preco": 5.9,
-     "img": "produtos/6640.jpg"
+     "cod": 7529,
+     "nome": "CANETINHA PLUS C/6-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 4.9,
+     "img": "produtos/7529.jpg"
     },
     {
      "cod": 13609,
@@ -2570,6 +2535,13 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13609.jpg"
+    },
+    {
+     "cod": 6640,
+     "nome": "PINCEL ATOM.RECAR.MASTERPRINT-VERMELHO",
+     "marca": "MASTERPRIN",
+     "preco": 5.9,
+     "img": "produtos/6640.jpg"
     },
     {
      "cod": 10383,
@@ -2593,13 +2565,6 @@
      "img": "produtos/3800.jpg"
     },
     {
-     "cod": 11536,
-     "nome": "MARCA TEXTO MAPED GLITTER-PRATA",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/11536.jpg"
-    },
-    {
      "cod": 10384,
      "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-VERDE",
      "marca": "JOCAR",
@@ -2612,6 +2577,13 @@
      "marca": "LEO E LEO",
      "preco": 1.5,
      "img": "produtos/11979.jpg"
+    },
+    {
+     "cod": 11536,
+     "nome": "MARCA TEXTO MAPED GLITTER-PRATA",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/11536.jpg"
     },
     {
      "cod": 11977,
@@ -2628,11 +2600,11 @@
      "img": "produtos/2429.jpg"
     },
     {
-     "cod": 13142,
-     "nome": "CANETINHA C/12-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/13142.jpg"
+     "cod": 13796,
+     "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/13796.jpg"
     },
     {
      "cod": 13795,
@@ -2642,25 +2614,18 @@
      "img": "produtos/13795.jpg"
     },
     {
-     "cod": 12197,
-     "nome": "MARCA TEXTO MAPED PASTEL-VERDE",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/12197.jpg"
-    },
-    {
-     "cod": 11547,
-     "nome": "MARCA TEXTO MAPED GLITTER-BRONZE",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/11547.jpg"
-    },
-    {
      "cod": 2625,
      "nome": "REFIL PINCEL Q.BRC PILOT-LARANJA",
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2625.jpg"
+    },
+    {
+     "cod": 1825,
+     "nome": "MARCA TEXTO CIS-AMARELO",
+     "marca": "CIS",
+     "preco": 3.9,
+     "img": "produtos/1825.jpg"
     },
     {
      "cod": 4759,
@@ -2670,13 +2635,6 @@
      "img": "produtos/4759.jpg"
     },
     {
-     "cod": 12220,
-     "nome": "MARCA TEXTO BRW GEL-LARANJA",
-     "marca": "BRW",
-     "preco": 4.9,
-     "img": "produtos/12220.jpg"
-    },
-    {
      "cod": 2629,
      "nome": "REFIL PINCEL Q.BRC PILOT-VIOLETA",
      "marca": "PILOT",
@@ -2684,39 +2642,11 @@
      "img": "produtos/2629.jpg"
     },
     {
-     "cod": 10260,
-     "nome": "CANETINHA C/6-ACRILEX",
-     "marca": "ACRILEX",
+     "cod": 12197,
+     "nome": "MARCA TEXTO MAPED PASTEL-VERDE",
+     "marca": "MAPED",
      "preco": 6.9,
-     "img": "produtos/10260.jpg"
-    },
-    {
-     "cod": 13796,
-     "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/13796.jpg"
-    },
-    {
-     "cod": 8510,
-     "nome": "MARCA TEXTO JOCAR PASTEL TREND-AMARELO",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/8510.jpg"
-    },
-    {
-     "cod": 8512,
-     "nome": "MARCA TEXTO JOCAR PASTEL TREND-SALMAO",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/8512.jpg"
-    },
-    {
-     "cod": 7574,
-     "nome": "MARCADOR FINE PLUS C/10-JOCAR (TIPO STABILO)",
-     "marca": "JOCAR",
-     "preco": 25.9,
-     "img": "produtos/7574.jpg"
+     "img": "produtos/12197.jpg"
     },
     {
      "cod": 7732,
@@ -2726,6 +2656,41 @@
      "img": "produtos/7732.jpg"
     },
     {
+     "cod": 13142,
+     "nome": "CANETINHA C/12-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 13.9,
+     "img": "produtos/13142.jpg"
+    },
+    {
+     "cod": 8510,
+     "nome": "MARCA TEXTO JOCAR PASTEL TREND-AMARELO",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/8510.jpg"
+    },
+    {
+     "cod": 11547,
+     "nome": "MARCA TEXTO MAPED GLITTER-BRONZE",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/11547.jpg"
+    },
+    {
+     "cod": 10260,
+     "nome": "CANETINHA C/6-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/10260.jpg"
+    },
+    {
+     "cod": 8512,
+     "nome": "MARCA TEXTO JOCAR PASTEL TREND-SALMAO",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/8512.jpg"
+    },
+    {
      "cod": 13802,
      "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-LARANJA",
      "marca": "CIS",
@@ -2733,18 +2698,32 @@
      "img": "produtos/13802.jpg"
     },
     {
-     "cod": 10261,
-     "nome": "CANETINHA C/24-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 24.9,
-     "img": "produtos/10261.jpg"
-    },
-    {
      "cod": 2655,
      "nome": "RETRO 1.0 PILOT-VERMELHO",
      "marca": "PILOT",
      "preco": 10.9,
      "img": "produtos/2655.jpg"
+    },
+    {
+     "cod": 12220,
+     "nome": "MARCA TEXTO BRW GEL-LARANJA",
+     "marca": "BRW",
+     "preco": 4.9,
+     "img": "produtos/12220.jpg"
+    },
+    {
+     "cod": 7574,
+     "nome": "MARCADOR FINE PLUS C/10-JOCAR (TIPO STABILO)",
+     "marca": "JOCAR",
+     "preco": 25.9,
+     "img": "produtos/7574.jpg"
+    },
+    {
+     "cod": 10261,
+     "nome": "CANETINHA C/24-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 24.9,
+     "img": "produtos/10261.jpg"
     },
     {
      "cod": 6641,
@@ -2775,25 +2754,11 @@
      "img": "produtos/2355.jpg"
     },
     {
-     "cod": 9136,
-     "nome": "MARCA TEXTO GEL VERDE-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9136.jpg"
-    },
-    {
      "cod": 10386,
      "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-LARANJA",
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/10386.jpg"
-    },
-    {
-     "cod": 12198,
-     "nome": "MARCA TEXTO MAPED PASTEL-LARANJA",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/12198.jpg"
     },
     {
      "cod": 13800,
@@ -2803,11 +2768,18 @@
      "img": "produtos/13800.jpg"
     },
     {
-     "cod": 8499,
-     "nome": "MARCA TEXTO GEL AMARELO PASTEL-CIS",
-     "marca": "CIS",
-     "preco": 9.9,
-     "img": "produtos/8499.jpg"
+     "cod": 9136,
+     "nome": "MARCA TEXTO GEL VERDE-TRIS TWIST",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/9136.jpg"
+    },
+    {
+     "cod": 12198,
+     "nome": "MARCA TEXTO MAPED PASTEL-LARANJA",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/12198.jpg"
     },
     {
      "cod": 10385,
@@ -2824,6 +2796,20 @@
      "img": "produtos/12226.jpg"
     },
     {
+     "cod": 8499,
+     "nome": "MARCA TEXTO GEL AMARELO PASTEL-CIS",
+     "marca": "CIS",
+     "preco": 9.9,
+     "img": "produtos/8499.jpg"
+    },
+    {
+     "cod": 3604,
+     "nome": "PINCEL ATOM.1100 PILOT-VERDE",
+     "marca": "PILOT",
+     "preco": 7.9,
+     "img": "produtos/3604.jpg"
+    },
+    {
      "cod": 12733,
      "nome": "MARCA TEXTO FITA ACRILEX-AMARELO LIMAO",
      "marca": "ACRILEX",
@@ -2838,11 +2824,11 @@
      "img": "produtos/8775.jpg"
     },
     {
-     "cod": 3604,
-     "nome": "PINCEL ATOM.1100 PILOT-VERDE",
+     "cod": 2654,
+     "nome": "RETRO 1.0 PILOT-VERDE",
      "marca": "PILOT",
-     "preco": 7.9,
-     "img": "produtos/3604.jpg"
+     "preco": 10.9,
+     "img": "produtos/2654.jpg"
     },
     {
      "cod": 13268,
@@ -2859,13 +2845,6 @@
      "img": "produtos/12742.jpg"
     },
     {
-     "cod": 2654,
-     "nome": "RETRO 1.0 PILOT-VERDE",
-     "marca": "PILOT",
-     "preco": 10.9,
-     "img": "produtos/2654.jpg"
-    },
-    {
      "cod": 13379,
      "nome": "CANETINHA C/24-TRIS (TONS VIBRANTES)",
      "marca": "TRIS",
@@ -2878,13 +2857,6 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/10381.jpg"
-    },
-    {
-     "cod": 1825,
-     "nome": "MARCA TEXTO CIS-AMARELO",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/1825.jpg"
     },
     {
      "cod": 11858,
@@ -3012,13 +2984,6 @@
      "img": "produtos/13811.jpg"
     },
     {
-     "cod": 11596,
-     "nome": "LAPISEIRA 0.7-CIS SPIRO CORES",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/11596.jpg"
-    },
-    {
      "cod": 12228,
      "nome": "LAPISEIRA 0.7-BRW TECNICA C/GRAFITE BRANCA",
      "marca": "BRW",
@@ -3026,18 +2991,18 @@
      "img": "produtos/12228.jpg"
     },
     {
+     "cod": 11596,
+     "nome": "LAPISEIRA 0.7-CIS SPIRO CORES",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/11596.jpg"
+    },
+    {
      "cod": 12233,
      "nome": "LAPISEIRA 0.7-BRW TECNICA AZUL",
      "marca": "BRW",
      "preco": 6.9,
      "img": "produtos/12233.jpg"
-    },
-    {
-     "cod": 12227,
-     "nome": "LAPISEIRA 2.0-BRW PRETA/AZUL",
-     "marca": "BRW",
-     "preco": 4.9,
-     "img": "produtos/12227.jpg"
     },
     {
      "cod": 7035,
@@ -3061,6 +3026,13 @@
      "img": "produtos/13846.jpg"
     },
     {
+     "cod": 12227,
+     "nome": "LAPISEIRA 2.0-BRW PRETA/AZUL",
+     "marca": "BRW",
+     "preco": 4.9,
+     "img": "produtos/12227.jpg"
+    },
+    {
      "cod": 12222,
      "nome": "LAPISEIRA 2.0-BRW C/GRAFITE PRATA",
      "marca": "BRW",
@@ -3068,25 +3040,11 @@
      "img": "produtos/12222.jpg"
     },
     {
-     "cod": 12302,
-     "nome": "LAPISEIRA 0.7-MOLIN BUSTER CORES",
-     "marca": "MOLIN",
-     "preco": 3.9,
-     "img": "produtos/12302.jpg"
-    },
-    {
      "cod": 13163,
      "nome": "LAPISEIRA 0.7-TILIBRA CAPYCLUB",
      "marca": "TILIBRA",
      "preco": 12.9,
      "img": "produtos/13163.jpg"
-    },
-    {
-     "cod": 5705,
-     "nome": "LAPISEIRA 0.7-TILIBRA SUMMER",
-     "marca": "TILIBRA",
-     "preco": 9.9,
-     "img": "produtos/5705.jpg"
     },
     {
      "cod": 7564,
@@ -3110,18 +3068,18 @@
      "img": "produtos/1693.jpg"
     },
     {
-     "cod": 5048,
-     "nome": "LAPISEIRA 0.7-CIS TECNO AZUL",
-     "marca": "CIS",
-     "preco": 9.9,
-     "img": "produtos/5048.jpg"
-    },
-    {
      "cod": 1694,
      "nome": "LAPISEIRA 0.5-FABER POLY TRI SHAPE",
      "marca": "FABER",
      "preco": 9.9,
      "img": "produtos/1694.jpg"
+    },
+    {
+     "cod": 12302,
+     "nome": "LAPISEIRA 0.7-MOLIN BUSTER CORES",
+     "marca": "MOLIN",
+     "preco": 3.9,
+     "img": "produtos/12302.jpg"
     },
     {
      "cod": 10608,
@@ -3131,25 +3089,11 @@
      "img": "produtos/10608.jpg"
     },
     {
-     "cod": 5754,
-     "nome": "LAPISEIRA 0.9-TILIBRA I-POINT",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/5754.jpg"
-    },
-    {
      "cod": 12247,
      "nome": "LAPISEIRA 0.3 BRW TECNICA BORDO",
      "marca": "BRW",
      "preco": 8.9,
      "img": "produtos/12247.jpg"
-    },
-    {
-     "cod": 1704,
-     "nome": "LAPISEIRA 0.7-FABER POLY SUPER MATIC",
-     "marca": "FABER",
-     "preco": 15.9,
-     "img": "produtos/1704.jpg"
     },
     {
      "cod": 9399,
@@ -3159,6 +3103,20 @@
      "img": "produtos/9399.jpg"
     },
     {
+     "cod": 5048,
+     "nome": "LAPISEIRA 0.7-CIS TECNO AZUL",
+     "marca": "CIS",
+     "preco": 9.9,
+     "img": "produtos/5048.jpg"
+    },
+    {
+     "cod": 5754,
+     "nome": "LAPISEIRA 0.9-TILIBRA I-POINT",
+     "marca": "TILIBRA",
+     "preco": 13.9,
+     "img": "produtos/5754.jpg"
+    },
+    {
      "cod": 1702,
      "nome": "LAPISEIRA 0.7-FABER APOLLO",
      "marca": "FABER",
@@ -3166,25 +3124,11 @@
      "img": "produtos/1702.jpg"
     },
     {
-     "cod": 12213,
-     "nome": "LAPISEIRA 0.7-BRW TECNICA METALIZADA",
-     "marca": "BRW",
-     "preco": 19.9,
-     "img": "produtos/12213.jpg"
-    },
-    {
-     "cod": 12681,
-     "nome": "LAPISEIRA 0.7-TRIS HOLIC FANCY CORES",
-     "marca": "TRIS",
-     "preco": 13.9,
-     "img": "produtos/12681.jpg"
-    },
-    {
-     "cod": 1698,
-     "nome": "LAPISEIRA 0.5-TILIBRA I-POINT",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/1698.jpg"
+     "cod": 1704,
+     "nome": "LAPISEIRA 0.7-FABER POLY SUPER MATIC",
+     "marca": "FABER",
+     "preco": 15.9,
+     "img": "produtos/1704.jpg"
     },
     {
      "cod": 10602,
@@ -3201,6 +3145,27 @@
      "img": "produtos/5409.jpg"
     },
     {
+     "cod": 5705,
+     "nome": "LAPISEIRA 0.7-TILIBRA SUMMER",
+     "marca": "TILIBRA",
+     "preco": 9.9,
+     "img": "produtos/5705.jpg"
+    },
+    {
+     "cod": 12213,
+     "nome": "LAPISEIRA 0.7-BRW TECNICA METALIZADA",
+     "marca": "BRW",
+     "preco": 19.9,
+     "img": "produtos/12213.jpg"
+    },
+    {
+     "cod": 12681,
+     "nome": "LAPISEIRA 0.7-TRIS HOLIC FANCY CORES",
+     "marca": "TRIS",
+     "preco": 13.9,
+     "img": "produtos/12681.jpg"
+    },
+    {
      "cod": 10590,
      "nome": "LAPISEIRA 0.9-CIS TECNOCIS NEON",
      "marca": "CIS",
@@ -3208,18 +3173,25 @@
      "img": "produtos/10590.jpg"
     },
     {
-     "cod": 10284,
-     "nome": "LAPISEIRA 0.7-FABER GRIP MATIC PASTEL",
-     "marca": "FABER",
-     "preco": 18.9,
-     "img": "produtos/10284.jpg"
-    },
-    {
      "cod": 7037,
      "nome": "LAPISEIRA 0.5-JOCAR CORES",
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/7037.jpg"
+    },
+    {
+     "cod": 1698,
+     "nome": "LAPISEIRA 0.5-TILIBRA I-POINT",
+     "marca": "TILIBRA",
+     "preco": 13.9,
+     "img": "produtos/1698.jpg"
+    },
+    {
+     "cod": 10284,
+     "nome": "LAPISEIRA 0.7-FABER GRIP MATIC PASTEL",
+     "marca": "FABER",
+     "preco": 18.9,
+     "img": "produtos/10284.jpg"
     },
     {
      "cod": 10282,
@@ -3234,6 +3206,327 @@
      "marca": "TILIBRA",
      "preco": 14.9,
      "img": "produtos/9156.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "borrachas",
+   "nome": "Borrachas",
+   "itens": [
+    {
+     "cod": 278,
+     "nome": "BORRACHA 60 LEO",
+     "marca": "LEO E LEO",
+     "preco": 0.25,
+     "img": "produtos/278.jpg"
+    },
+    {
+     "cod": 276,
+     "nome": "BORRACHA MERCUR 20",
+     "marca": "MERCUR",
+     "preco": 1.8,
+     "img": "produtos/276.jpg"
+    },
+    {
+     "cod": 277,
+     "nome": "BORRACHA 40 LEO",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/277.jpg"
+    },
+    {
+     "cod": 283,
+     "nome": "BORRACHA FABER C/CP VERMELHA",
+     "marca": "FABER",
+     "preco": 3.9,
+     "img": "produtos/283.jpg"
+    },
+    {
+     "cod": 275,
+     "nome": "BORRACHA 20 LEO",
+     "marca": "LEO E LEO",
+     "preco": 0.7,
+     "img": "produtos/275.jpg"
+    },
+    {
+     "cod": 4341,
+     "nome": "BORRACHA MERCUR 40",
+     "marca": "MERCUR",
+     "preco": 1.2,
+     "img": "produtos/4341.jpg"
+    },
+    {
+     "cod": 7917,
+     "nome": "BORRACHA MERCUR CLEAN VERDE",
+     "marca": "MERCUR",
+     "preco": 3.0,
+     "img": "produtos/7917.jpg"
+    },
+    {
+     "cod": 279,
+     "nome": "BORRACHA MERCUR 60",
+     "marca": "MERCUR",
+     "preco": 0.9,
+     "img": "produtos/279.jpg"
+    },
+    {
+     "cod": 284,
+     "nome": "BORRACHA FABER C/CP GIGANTE VERM.",
+     "marca": "FABER",
+     "preco": 8.9,
+     "img": "produtos/284.jpg"
+    },
+    {
+     "cod": 3212,
+     "nome": "BORRACHA FABER C/CP PASTEL-VERDE",
+     "marca": "FABER",
+     "preco": 3.9,
+     "img": "produtos/3212.jpg"
+    },
+    {
+     "cod": 7913,
+     "nome": "BORRACHA MERCUR C/CP PRETA",
+     "marca": "MERCUR",
+     "preco": 4.9,
+     "img": "produtos/7913.jpg"
+    },
+    {
+     "cod": 293,
+     "nome": "BORRACHA PONTEIRA",
+     "marca": "MERCUR",
+     "preco": 0.6,
+     "img": "produtos/293.jpg"
+    },
+    {
+     "cod": 13077,
+     "nome": "BORRACHA MERCUR DELTA BRANCA",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/13077.jpg"
+    },
+    {
+     "cod": 282,
+     "nome": "BORRACHA FABER C/CP PASTEL-AZUL",
+     "marca": "FABER",
+     "preco": 3.9,
+     "img": "produtos/282.jpg"
+    },
+    {
+     "cod": 3217,
+     "nome": "BORRACHA FABER C/CP NEON-VERDE",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/3217.jpg"
+    },
+    {
+     "cod": 12771,
+     "nome": "BORRACHA FABER TRIANGULAR VERMELHA",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/12771.jpg"
+    },
+    {
+     "cod": 8430,
+     "nome": "BORRACHA FABER SUPER SOFT (PRETA)",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/8430.jpg"
+    },
+    {
+     "cod": 13084,
+     "nome": "BORRACHA MERCUR OCEANO",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/13084.jpg"
+    },
+    {
+     "cod": 3215,
+     "nome": "BORRACHA FABER C/CP NEON-LARANJA",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/3215.jpg"
+    },
+    {
+     "cod": 13083,
+     "nome": "BORRACHA MERCUR PETS",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/13083.jpg"
+    },
+    {
+     "cod": 12663,
+     "nome": "BORRACHA TRIS C/CP AMARELO",
+     "marca": "TRIS",
+     "preco": 2.9,
+     "img": "produtos/12663.jpg"
+    },
+    {
+     "cod": 281,
+     "nome": "BORRACHA MERCUR ART VISUAL",
+     "marca": "MERCUR",
+     "preco": 1.5,
+     "img": "produtos/281.jpg"
+    },
+    {
+     "cod": 10389,
+     "nome": "BORRACHA FABER C/CP GLITTER-AZUL",
+     "marca": "FABER",
+     "preco": 6.9,
+     "img": "produtos/10389.jpg"
+    },
+    {
+     "cod": 12664,
+     "nome": "BORRACHA TRIS C/CP AZUL",
+     "marca": "TRIS",
+     "preco": 2.9,
+     "img": "produtos/12664.jpg"
+    },
+    {
+     "cod": 10391,
+     "nome": "BORRACHA FABER C/CP GLITTER-ROXO",
+     "marca": "FABER",
+     "preco": 6.9,
+     "img": "produtos/10391.jpg"
+    },
+    {
+     "cod": 274,
+     "nome": "BORRACHA MERCUR 2 CORES (PRIMA)",
+     "marca": "MERCUR",
+     "preco": 1.5,
+     "img": "produtos/274.jpg"
+    },
+    {
+     "cod": 10390,
+     "nome": "BORRACHA FABER C/CP GLITTER-ROSA",
+     "marca": "FABER",
+     "preco": 6.9,
+     "img": "produtos/10390.jpg"
+    },
+    {
+     "cod": 3216,
+     "nome": "BORRACHA FABER C/CP NEON-ROSA",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/3216.jpg"
+    },
+    {
+     "cod": 3225,
+     "nome": "BORRACHA TILIBRA SNOOPY",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/3225.jpg"
+    },
+    {
+     "cod": 13138,
+     "nome": "BORRACHA BE BERRY C/4",
+     "marca": "TILIBRA",
+     "preco": 9.9,
+     "img": "produtos/13138.jpg"
+    },
+    {
+     "cod": 8161,
+     "nome": "BORRACHA MERCUR 2 CORES (TINTA E LAPIS DE COR)",
+     "marca": "MERCUR",
+     "preco": 2.5,
+     "img": "produtos/8161.jpg"
+    },
+    {
+     "cod": 12314,
+     "nome": "BORRACHA MOLIN LOVE PICOLE",
+     "marca": "MOLIN",
+     "preco": 6.9,
+     "img": "produtos/12314.jpg"
+    },
+    {
+     "cod": 12701,
+     "nome": "CANETA BORRACHA+APONTADOR C/D 1F-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/12701.jpg"
+    },
+    {
+     "cod": 7915,
+     "nome": "REFIL CANETA BORR MERCUR CORES",
+     "marca": "MERCUR",
+     "preco": 2.0,
+     "img": "produtos/7915.jpg"
+    },
+    {
+     "cod": 3223,
+     "nome": "BORRACHA MERCUR NANKIN",
+     "marca": "MERCUR",
+     "preco": 2.5,
+     "img": "produtos/3223.jpg"
+    },
+    {
+     "cod": 10453,
+     "nome": "BORRACHA FABER DINOSSAURO",
+     "marca": "FABER",
+     "preco": 3.9,
+     "img": "produtos/10453.jpg"
+    },
+    {
+     "cod": 12342,
+     "nome": "BORRACHA MOLIN SPIDER MAN",
+     "marca": "MOLIN",
+     "preco": 4.9,
+     "img": "produtos/12342.jpg"
+    },
+    {
+     "cod": 10392,
+     "nome": "BORRACHA FABER C/CP GLITTER-VERDE",
+     "marca": "FABER",
+     "preco": 6.9,
+     "img": "produtos/10392.jpg"
+    },
+    {
+     "cod": 3214,
+     "nome": "BORRACHA FABER C/CP NEON-AMARELA",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/3214.jpg"
+    },
+    {
+     "cod": 7919,
+     "nome": "BORRACHA MERCUR TR CILINDRICA",
+     "marca": "MERCUR",
+     "preco": 3.5,
+     "img": "produtos/7919.jpg"
+    },
+    {
+     "cod": 12699,
+     "nome": "BORRACHA TRIS C/CP HOLIC FOGLIA DELICATA ROSA",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12699.jpg"
+    },
+    {
+     "cod": 12700,
+     "nome": "BORRACHA TRIS C/CP HOLIC FOGLIA DELICATA ROXO",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12700.jpg"
+    },
+    {
+     "cod": 12698,
+     "nome": "BORRACHA TRIS C/CP HOLIC FOGLIA DELICATA VERDE",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12698.jpg"
+    },
+    {
+     "cod": 296,
+     "nome": "BORRACHA FABER URBZ",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/296.jpg"
+    },
+    {
+     "cod": 12697,
+     "nome": "BORRACHA TRIS C/CP HOLIC FOGLIA DELICATA AMARELO",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12697.jpg"
     }
    ]
   }
@@ -3271,7 +3564,7 @@
    "cod": 2491,
    "nome": "PT102 COPOBRAS C/100 (FUNDO)",
    "marca": "COPOBRAS",
-   "preco": 25.9,
+   "preco": 23.9,
    "img": "produtos/2491.jpg"
   },
   {
