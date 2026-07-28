@@ -2208,18 +2208,18 @@
      "img": "produtos/1833.jpg"
     },
     {
-     "cod": 2353,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
-     "marca": "PILOT",
-     "preco": 25.9,
-     "img": "produtos/2353.jpg"
-    },
-    {
      "cod": 1847,
      "nome": "MARCA TEXTO GEL AMARELO-FABER",
      "marca": "FABER",
      "preco": 12.9,
      "img": "produtos/1847.jpg"
+    },
+    {
+     "cod": 2353,
+     "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
+     "marca": "PILOT",
+     "preco": 25.9,
+     "img": "produtos/2353.jpg"
     },
     {
      "cod": 1831,
@@ -10243,6 +10243,4105 @@
      "marca": "COLORMAKE",
      "preco": 29.9,
      "img": "produtos/2365.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "etiqueta",
+   "nome": "Etiqueta",
+   "itens": [
+    {
+     "cod": 3411,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA ACAD",
+     "marca": "TILIBRA",
+     "preco": 5.9,
+     "img": "produtos/3411.jpg"
+    },
+    {
+     "cod": 5746,
+     "nome": "ETIQUETA ESCOLAR TILIBRA BRANCA C/8",
+     "marca": "TILIBRA",
+     "preco": 2.9,
+     "img": "produtos/5746.jpg"
+    },
+    {
+     "cod": 1163,
+     "nome": "ETIQUETA ESCOLAR DECORADA C/6",
+     "marca": "",
+     "preco": 2.0,
+     "img": "produtos/1163.jpg"
+    },
+    {
+     "cod": 7803,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA SPIDER-MAN",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/7803.jpg"
+    },
+    {
+     "cod": 10503,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA AVENGERS",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/10503.jpg"
+    },
+    {
+     "cod": 11495,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA SONIC",
+     "marca": "TILIBRA",
+     "preco": 5.9,
+     "img": "produtos/11495.jpg"
+    },
+    {
+     "cod": 10505,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA MAGIC",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/10505.jpg"
+    },
+    {
+     "cod": 10495,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA LOVELAND",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/10495.jpg"
+    },
+    {
+     "cod": 11490,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA ASTRO",
+     "marca": "TILIBRA",
+     "preco": 5.9,
+     "img": "produtos/11490.jpg"
+    },
+    {
+     "cod": 4334,
+     "nome": "SELO CONVITE OURO 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/4334.jpg"
+    },
+    {
+     "cod": 13371,
+     "nome": "SELO CONVITE AMARELO 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/13371.jpg"
+    },
+    {
+     "cod": 13372,
+     "nome": "SELO CONVITE AZUL 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/13372.jpg"
+    },
+    {
+     "cod": 4335,
+     "nome": "SELO CONVITE PRATA 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/4335.jpg"
+    },
+    {
+     "cod": 13926,
+     "nome": "SELO CONVITE PRETO 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/13926.jpg"
+    },
+    {
+     "cod": 13743,
+     "nome": "SELO CONVITE VERDE 12/13MM C/210",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/13743.jpg"
+    },
+    {
+     "cod": 8726,
+     "nome": "SELO CONVITE VERMELHO 12/13MM C/210",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/8726.jpg"
+    },
+    {
+     "cod": 13773,
+     "nome": "SELO CONVITE VERMELHO 13MM C/108",
+     "marca": "AGAPE",
+     "preco": 3.9,
+     "img": "produtos/13773.jpg"
+    },
+    {
+     "cod": 2907,
+     "nome": "SELO CONVITE OURO 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/2907.jpg"
+    },
+    {
+     "cod": 7392,
+     "nome": "SELO CONVITE BRANCO 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/7392.jpg"
+    },
+    {
+     "cod": 2908,
+     "nome": "SELO CONVITE PRATA 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/2908.jpg"
+    },
+    {
+     "cod": 7391,
+     "nome": "SELO CONVITE AZUL ROYAL 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/7391.jpg"
+    },
+    {
+     "cod": 9041,
+     "nome": "SELO CONVITE ROSA CLARO 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/9041.jpg"
+    },
+    {
+     "cod": 9783,
+     "nome": "SELO CONVITE VERDE BANDEIRA 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/9783.jpg"
+    },
+    {
+     "cod": 13712,
+     "nome": "SELO CONVITE PRETO 19MM C/200",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/13712.jpg"
+    },
+    {
+     "cod": 13373,
+     "nome": "SELO CONVITE ROSA PINK 19MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/13373.jpg"
+    },
+    {
+     "cod": 7434,
+     "nome": "ETIQUETA GRESPAN 6185 C/100 (01) GC285",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7434.jpg"
+    },
+    {
+     "cod": 7435,
+     "nome": "ETIQUETA GRESPAN 6185 C/25 (01) GC285",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7435.jpg"
+    },
+    {
+     "cod": 7433,
+     "nome": "ETIQUETA GRESPAN 6180 C/25 (30) GC280",
+     "marca": "GRESPAN",
+     "preco": 21.9,
+     "img": "produtos/7433.jpg"
+    },
+    {
+     "cod": 7431,
+     "nome": "ETIQUETA GRESPAN 6181 C/25 (20) GC281",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7431.jpg"
+    },
+    {
+     "cod": 7430,
+     "nome": "ETIQUETA GRESPAN 6181 C/100 (20) GC281",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7430.jpg"
+    },
+    {
+     "cod": 7437,
+     "nome": "ETIQUETA GRESPAN 6182 C/25 (14) GC282",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7437.jpg"
+    },
+    {
+     "cod": 7442,
+     "nome": "ETIQUETA GRESPAN 6184 C/100 (06) GC284",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7442.jpg"
+    },
+    {
+     "cod": 7436,
+     "nome": "ETIQUETA GRESPAN 6182 C/100 (14) GC282",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7436.jpg"
+    },
+    {
+     "cod": 7439,
+     "nome": "ETIQUETA GRESPAN A4251 C/25 (65)",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7439.jpg"
+    },
+    {
+     "cod": 7443,
+     "nome": "ETIQUETA GRESPAN 6184 C/25 (06) GC284",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7443.jpg"
+    },
+    {
+     "cod": 7438,
+     "nome": "ETIQUETA GRESPAN A4251 C/100 (65)",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7438.jpg"
+    },
+    {
+     "cod": 7429,
+     "nome": "ETIQUETA GRESPAN 6189 C/25 (60) GC289",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7429.jpg"
+    },
+    {
+     "cod": 1186,
+     "nome": "ETIQUETA PIMACO 6184 C/100 (06)",
+     "marca": "PIMACO",
+     "preco": 95.9,
+     "img": "produtos/1186.jpg"
+    },
+    {
+     "cod": 7403,
+     "nome": "ETIQUETA DELIVERY-SEGURANÇA C/150 (NÃO VIOLE) VERMELHA",
+     "marca": "GRESPAN",
+     "preco": 16.9,
+     "img": "produtos/7403.jpg"
+    },
+    {
+     "cod": 7418,
+     "nome": "ETIQUETA BIJUTERIA (NF02) C/1000",
+     "marca": "GRESPAN",
+     "preco": 26.9,
+     "img": "produtos/7418.jpg"
+    },
+    {
+     "cod": 11960,
+     "nome": "ETIQUETA DELIVERY-BOM APETITE C/1000 (NÃO VIOLE) ROXO",
+     "marca": "GRESPAN",
+     "preco": 55.9,
+     "img": "produtos/11960.jpg"
+    },
+    {
+     "cod": 7404,
+     "nome": "ETIQUETA DELIVERY-C/150 (NÃO VIOLE) PRETA",
+     "marca": "GRESPAN",
+     "preco": 16.9,
+     "img": "produtos/7404.jpg"
+    },
+    {
+     "cod": 7401,
+     "nome": "ETIQUETA SINALIZ-CUIDADO FRAGIL C/10",
+     "marca": "GRESPAN",
+     "preco": 8.9,
+     "img": "produtos/7401.jpg"
+    },
+    {
+     "cod": 7388,
+     "nome": "ETIQUETA BOLA GG C/1000",
+     "marca": "GRESPAN",
+     "preco": 7.5,
+     "img": "produtos/7388.jpg"
+    },
+    {
+     "cod": 7406,
+     "nome": "ETIQUETA COMEMOR. C/100-FELICIDADES (RETANG.)",
+     "marca": "GRESPAN",
+     "preco": 8.9,
+     "img": "produtos/7406.jpg"
+    },
+    {
+     "cod": 7405,
+     "nome": "ETIQUETA COMEMOR. C/100-PARABENS (OVAL)",
+     "marca": "GRESPAN",
+     "preco": 8.9,
+     "img": "produtos/7405.jpg"
+    },
+    {
+     "cod": 7389,
+     "nome": "ETIQUETA BOLA G C/1000",
+     "marca": "GRESPAN",
+     "preco": 7.5,
+     "img": "produtos/7389.jpg"
+    },
+    {
+     "cod": 7387,
+     "nome": "ETIQUETA BOLA M C/1000",
+     "marca": "GRESPAN",
+     "preco": 7.5,
+     "img": "produtos/7387.jpg"
+    },
+    {
+     "cod": 7407,
+     "nome": "ETIQUETA COMEMOR. C/100-FELICIDADES (OVAL)",
+     "marca": "GRESPAN",
+     "preco": 8.9,
+     "img": "produtos/7407.jpg"
+    },
+    {
+     "cod": 11959,
+     "nome": "ETIQUETA DELIVERY-SEGURANÇA C/1000 (NÃO VIOLE) VERMELHA",
+     "marca": "GRESPAN",
+     "preco": 55.9,
+     "img": "produtos/11959.jpg"
+    },
+    {
+     "cod": 7421,
+     "nome": "ETIQUETA BIJUTERIA (NF21) C/500",
+     "marca": "GRESPAN",
+     "preco": 42.9,
+     "img": "produtos/7421.jpg"
+    },
+    {
+     "cod": 7385,
+     "nome": "ETIQUETA BOLA PP C/1000",
+     "marca": "GRESPAN",
+     "preco": 7.5,
+     "img": "produtos/7385.jpg"
+    },
+    {
+     "cod": 11958,
+     "nome": "ETIQUETA DELIVERY-BOM APETITE C/150 (NÃO VIOLE) ROXO",
+     "marca": "GRESPAN",
+     "preco": 16.9,
+     "img": "produtos/11958.jpg"
+    },
+    {
+     "cod": 7402,
+     "nome": "ETIQUETA SINALIZ-CUIDADO FRAGIL C/250",
+     "marca": "GRESPAN",
+     "preco": 49.9,
+     "img": "produtos/7402.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "organizador",
+   "nome": "Organizador",
+   "itens": [
+    {
+     "cod": 10723,
+     "nome": "CAIXA ORGANIZADORA M C/DIVISORIAS",
+     "marca": "NITRON",
+     "preco": 16.9,
+     "img": "produtos/10723.jpg"
+    },
+    {
+     "cod": 13709,
+     "nome": "CAIXA ORGANIZADORA POLYCART G-AZUL",
+     "marca": "POLYCART",
+     "preco": 48.9,
+     "img": "produtos/13709.jpg"
+    },
+    {
+     "cod": 13711,
+     "nome": "CAIXA ORGANIZADORA POLYCART G-PRETA",
+     "marca": "POLYCART",
+     "preco": 48.9,
+     "img": "produtos/13711.jpg"
+    },
+    {
+     "cod": 3259,
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
+     "marca": "POLIBRAS",
+     "preco": 48.9,
+     "img": "produtos/3259.jpg"
+    },
+    {
+     "cod": 13749,
+     "nome": "CAIXA ORGANIZADORA POLIBRAS M-VERMELHO",
+     "marca": "POLIBRAS",
+     "preco": 37.9,
+     "img": "produtos/13749.jpg"
+    },
+    {
+     "cod": 6197,
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G-LILAS PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 48.9,
+     "img": "produtos/6197.jpg"
+    },
+    {
+     "cod": 5173,
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G-ROSA PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 48.9,
+     "img": "produtos/5173.jpg"
+    },
+    {
+     "cod": 13710,
+     "nome": "CAIXA ORGANIZADORA POLYCART G-PRATA",
+     "marca": "POLYCART",
+     "preco": 48.9,
+     "img": "produtos/13710.jpg"
+    },
+    {
+     "cod": 1988,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE CRISTAL",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/1988.jpg"
+    },
+    {
+     "cod": 4858,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE PRETO",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/4858.jpg"
+    },
+    {
+     "cod": 1989,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE FUME",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/1989.jpg"
+    },
+    {
+     "cod": 11411,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE AZUL PASTEL",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/11411.jpg"
+    },
+    {
+     "cod": 11412,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE BRANCO",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/11412.jpg"
+    },
+    {
+     "cod": 14004,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE ROSA PASTEL",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/14004.jpg"
+    },
+    {
+     "cod": 14003,
+     "nome": "ORGAN. TRIPLO WALEU OFFICE VERDE PASTEL",
+     "marca": "WALEU",
+     "preco": 112.9,
+     "img": "produtos/14003.jpg"
+    },
+    {
+     "cod": 4986,
+     "nome": "ARQUIVO ORGAN. P/ PASTAS ESTREITO (PRETO)",
+     "marca": "",
+     "preco": 44.9,
+     "img": "produtos/4986.jpg"
+    },
+    {
+     "cod": 6741,
+     "nome": "MALETA C/6 PASTAS SUSP.FUME-DELLO",
+     "marca": "DELLO",
+     "preco": 65.9,
+     "img": "produtos/6741.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "pasta",
+   "nome": "Pasta",
+   "itens": [
+    {
+     "cod": 2185,
+     "nome": "PASTA ABA ELAST.PAPEL-BRANCA",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2185.jpg"
+    },
+    {
+     "cod": 2188,
+     "nome": "PASTA ABA ELAST.PAPEL-PRETA",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2188.jpg"
+    },
+    {
+     "cod": 2184,
+     "nome": "PASTA ABA ELAST.PAPEL-AZUL",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2184.jpg"
+    },
+    {
+     "cod": 2191,
+     "nome": "PASTA ABA ELAST.PAPEL-VERMELHO",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2191.jpg"
+    },
+    {
+     "cod": 2190,
+     "nome": "PASTA ABA ELAST.PAPEL-VERDE",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2190.jpg"
+    },
+    {
+     "cod": 2183,
+     "nome": "PASTA ABA ELAST.PAPEL-AMARELO",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2183.jpg"
+    },
+    {
+     "cod": 2187,
+     "nome": "PASTA ABA ELAST.PAPEL-LARANJA",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2187.jpg"
+    },
+    {
+     "cod": 2189,
+     "nome": "PASTA ABA ELAST.PAPEL-ROSA",
+     "marca": "POLYCART",
+     "preco": 3.9,
+     "img": "produtos/2189.jpg"
+    },
+    {
+     "cod": 2219,
+     "nome": "PASTA GRAMPO TRILHO AZUL",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2219.jpg"
+    },
+    {
+     "cod": 2227,
+     "nome": "PASTA GRAMPO TRILHO VERMELHO",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2227.jpg"
+    },
+    {
+     "cod": 2218,
+     "nome": "PASTA GRAMPO TRILHO-AMARELA",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2218.jpg"
+    },
+    {
+     "cod": 2224,
+     "nome": "PASTA GRAMPO TRILHO PRETA",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2224.jpg"
+    },
+    {
+     "cod": 2221,
+     "nome": "PASTA GRAMPO TRILHO LARANJA",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2221.jpg"
+    },
+    {
+     "cod": 2226,
+     "nome": "PASTA GRAMPO TRILHO VERDE",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2226.jpg"
+    },
+    {
+     "cod": 2220,
+     "nome": "PASTA GRAMPO TRILHO BRANCA",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2220.jpg"
+    },
+    {
+     "cod": 12538,
+     "nome": "PASTA GRAMPO TRILHO BREEZE ROSA PASTEL",
+     "marca": "DAC",
+     "preco": 4.9,
+     "img": "produtos/12538.jpg"
+    },
+    {
+     "cod": 2225,
+     "nome": "PASTA GRAMPO TRILHO ROSA",
+     "marca": "POLYCART",
+     "preco": 3.2,
+     "img": "produtos/2225.jpg"
+    },
+    {
+     "cod": 2223,
+     "nome": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/2223.jpg"
+    },
+    {
+     "cod": 2222,
+     "nome": "PASTA GRAMPO TRILHO PLAST. FUME",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/2222.jpg"
+    },
+    {
+     "cod": 4153,
+     "nome": "PASTA CANALETA A4 CRISTAL",
+     "marca": "",
+     "preco": 4.9,
+     "img": "produtos/4153.jpg"
+    },
+    {
+     "cod": 11014,
+     "nome": "PASTA CANALETA A4 FUME",
+     "marca": "POLIBRAS",
+     "preco": 4.9,
+     "img": "produtos/11014.jpg"
+    },
+    {
+     "cod": 4152,
+     "nome": "PASTA L A4 CRISTAL",
+     "marca": "",
+     "preco": 2.5,
+     "img": "produtos/4152.jpg"
+    },
+    {
+     "cod": 6798,
+     "nome": "PASTA L A4 FUME",
+     "marca": "",
+     "preco": 2.5,
+     "img": "produtos/6798.jpg"
+    },
+    {
+     "cod": 6801,
+     "nome": "PASTA L A4 VERDE",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/6801.jpg"
+    },
+    {
+     "cod": 6802,
+     "nome": "PASTA L A4 AZUL",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/6802.jpg"
+    },
+    {
+     "cod": 13989,
+     "nome": "PASTA L OF. CRISTAL",
+     "marca": "",
+     "preco": 2.9,
+     "img": "produtos/13989.jpg"
+    },
+    {
+     "cod": 6800,
+     "nome": "PASTA L A4 VERMELHA",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/6800.jpg"
+    },
+    {
+     "cod": 12476,
+     "nome": "PASTA L A4 ROSA-DAC",
+     "marca": "DAC",
+     "preco": 1.8,
+     "img": "produtos/12476.jpg"
+    },
+    {
+     "cod": 12475,
+     "nome": "PASTA L A4 LILAS-DAC",
+     "marca": "DAC",
+     "preco": 1.8,
+     "img": "produtos/12475.jpg"
+    },
+    {
+     "cod": 6799,
+     "nome": "PASTA L A4 AMARELA",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/6799.jpg"
+    },
+    {
+     "cod": 2268,
+     "nome": "PASTA SANFON.31D.A4 TRANSP.",
+     "marca": "POLIBRAS",
+     "preco": 69.9,
+     "img": "produtos/2268.jpg"
+    },
+    {
+     "cod": 5181,
+     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) AZUL PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 29.9,
+     "img": "produtos/5181.jpg"
+    },
+    {
+     "cod": 6308,
+     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) ROSA PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 29.9,
+     "img": "produtos/6308.jpg"
+    },
+    {
+     "cod": 2267,
+     "nome": "PASTA SANFON.12D.OFICIO TRANSP.",
+     "marca": "POLIBRAS",
+     "preco": 39.9,
+     "img": "produtos/2267.jpg"
+    },
+    {
+     "cod": 2266,
+     "nome": "PASTA SANFON.12D.DUPLICATA TRANSP.",
+     "marca": "POLIBRAS",
+     "preco": 25.9,
+     "img": "produtos/2266.jpg"
+    },
+    {
+     "cod": 2271,
+     "nome": "PASTA SANFON.31D.OFICIO TRANSP.",
+     "marca": "POLIBRAS",
+     "preco": 72.9,
+     "img": "produtos/2271.jpg"
+    },
+    {
+     "cod": 2270,
+     "nome": "PASTA SANFON.31D.DUPLICATA TRANSP.",
+     "marca": "POLIBRAS",
+     "preco": 49.9,
+     "img": "produtos/2270.jpg"
+    },
+    {
+     "cod": 2265,
+     "nome": "PASTA SANFON.12D.CHEQUE TRANSP.",
+     "marca": "",
+     "preco": 16.9,
+     "img": "produtos/2265.jpg"
+    },
+    {
+     "cod": 5180,
+     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) LILAS PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 29.9,
+     "img": "produtos/5180.jpg"
+    },
+    {
+     "cod": 11008,
+     "nome": "PASTA SANFON.5D.A4 GLITTER OURO",
+     "marca": "POLIBRAS",
+     "preco": 26.9,
+     "img": "produtos/11008.jpg"
+    },
+    {
+     "cod": 12943,
+     "nome": "PASTA SANFON.6D.A4 (PLASCONY) ROSA NEON",
+     "marca": "PLASCONY",
+     "preco": 16.9,
+     "img": "produtos/12943.jpg"
+    },
+    {
+     "cod": 11006,
+     "nome": "PASTA SANFON.5D.A4 GLITTER PRATA",
+     "marca": "POLIBRAS",
+     "preco": 26.9,
+     "img": "produtos/11006.jpg"
+    },
+    {
+     "cod": 2274,
+     "nome": "PASTA SANFON.31D.DUPLICATA (PAPEL)",
+     "marca": "DELLO",
+     "preco": 162.9,
+     "img": "produtos/2274.jpg"
+    },
+    {
+     "cod": 11007,
+     "nome": "PASTA SANFON.5D.A4 GLITTER ROSE",
+     "marca": "POLIBRAS",
+     "preco": 26.9,
+     "img": "produtos/11007.jpg"
+    },
+    {
+     "cod": 2280,
+     "nome": "PASTA VAI E VEM (255MMX347MM)",
+     "marca": "ACP",
+     "preco": 15.9,
+     "img": "produtos/2280.jpg"
+    },
+    {
+     "cod": 6190,
+     "nome": "PASTA POLIONDA 2CM AMARELA",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/6190.jpg"
+    },
+    {
+     "cod": 6192,
+     "nome": "PASTA POLIONDA 2CM AZUL",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/6192.jpg"
+    },
+    {
+     "cod": 2171,
+     "nome": "PASTA POLIONDA 2CM VERMELHA",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/2171.jpg"
+    },
+    {
+     "cod": 6191,
+     "nome": "PASTA POLIONDA 2CM VERDE",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/6191.jpg"
+    },
+    {
+     "cod": 3869,
+     "nome": "PASTA POLIONDA 4CM VERDE",
+     "marca": "POLIBRAS",
+     "preco": 6.9,
+     "img": "produtos/3869.jpg"
+    },
+    {
+     "cod": 3870,
+     "nome": "PASTA POLIONDA 4CM VERMELHO",
+     "marca": "POLIBRAS",
+     "preco": 6.9,
+     "img": "produtos/3870.jpg"
+    },
+    {
+     "cod": 2174,
+     "nome": "PASTA POLIONDA 4CM AMARELO",
+     "marca": "POLIBRAS",
+     "preco": 6.9,
+     "img": "produtos/2174.jpg"
+    },
+    {
+     "cod": 3868,
+     "nome": "PASTA POLIONDA 4CM AZUL",
+     "marca": "POLIBRAS",
+     "preco": 6.9,
+     "img": "produtos/3868.jpg"
+    },
+    {
+     "cod": 3872,
+     "nome": "PASTA POLIONDA 5,5CM VERMELHO",
+     "marca": "POLIBRAS",
+     "preco": 7.9,
+     "img": "produtos/3872.jpg"
+    },
+    {
+     "cod": 2181,
+     "nome": "PASTA POLIONDA 5,5CM VERDE",
+     "marca": "POLIBRAS",
+     "preco": 7.9,
+     "img": "produtos/2181.jpg"
+    },
+    {
+     "cod": 3871,
+     "nome": "PASTA POLIONDA 5,5CM AZUL",
+     "marca": "POLIBRAS",
+     "preco": 7.9,
+     "img": "produtos/3871.jpg"
+    },
+    {
+     "cod": 2178,
+     "nome": "PASTA POLIONDA 5,5CM AMARELO",
+     "marca": "POLIBRAS",
+     "preco": 7.9,
+     "img": "produtos/2178.jpg"
+    },
+    {
+     "cod": 2231,
+     "nome": "PASTA PP 1CM-CRISTAL",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/2231.jpg"
+    },
+    {
+     "cod": 2260,
+     "nome": "PASTA PP MINI 1CM-CRISTAL",
+     "marca": "POLIBRAS",
+     "preco": 3.9,
+     "img": "produtos/2260.jpg"
+    },
+    {
+     "cod": 6797,
+     "nome": "PASTA PP 1CM-FUME",
+     "marca": "POLIBRAS",
+     "preco": 3.5,
+     "img": "produtos/6797.jpg"
+    },
+    {
+     "cod": 5177,
+     "nome": "PASTA PP 1CM POLIBRAS-LILAS PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/5177.jpg"
+    },
+    {
+     "cod": 13817,
+     "nome": "PASTA PP 1CM POLIBRAS-AZUL",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/13817.jpg"
+    },
+    {
+     "cod": 13819,
+     "nome": "PASTA PP 1CM POLIBRAS-AMARELA",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/13819.jpg"
+    },
+    {
+     "cod": 7167,
+     "nome": "PASTA PP MINI 1CM-FUME",
+     "marca": "POLIBRAS",
+     "preco": 3.9,
+     "img": "produtos/7167.jpg"
+    },
+    {
+     "cod": 13816,
+     "nome": "PASTA PP 1CM POLIBRAS-VERDE",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/13816.jpg"
+    },
+    {
+     "cod": 13818,
+     "nome": "PASTA PP 1CM POLIBRAS-VERMELHA",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/13818.jpg"
+    },
+    {
+     "cod": 12923,
+     "nome": "PASTA PP MINI 1CM-VERMELHO",
+     "marca": "ACP",
+     "preco": 2.9,
+     "img": "produtos/12923.jpg"
+    },
+    {
+     "cod": 11002,
+     "nome": "PASTA PP 1CM POLIBRAS-ROSA PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/11002.jpg"
+    },
+    {
+     "cod": 11003,
+     "nome": "PASTA PP 1CM POLIBRAS-VERDE PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/11003.jpg"
+    },
+    {
+     "cod": 5176,
+     "nome": "PASTA PP 1CM POLIBRAS-AZUL PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/5176.jpg"
+    },
+    {
+     "cod": 12926,
+     "nome": "PASTA PP MINI 1CM-AMARELA",
+     "marca": "ACP",
+     "preco": 2.9,
+     "img": "produtos/12926.jpg"
+    },
+    {
+     "cod": 12924,
+     "nome": "PASTA PP MINI 1CM-VERDE",
+     "marca": "ACP",
+     "preco": 2.9,
+     "img": "produtos/12924.jpg"
+    },
+    {
+     "cod": 12925,
+     "nome": "PASTA PP MINI 1CM-AZUL",
+     "marca": "ACP",
+     "preco": 2.9,
+     "img": "produtos/12925.jpg"
+    },
+    {
+     "cod": 11153,
+     "nome": "PASTA PP 1CM DAC-PATRULHA CANINA MASCULINA",
+     "marca": "DAC",
+     "preco": 23.9,
+     "img": "produtos/11153.jpg"
+    },
+    {
+     "cod": 3592,
+     "nome": "PASTA PP 2CM-CRISTAL",
+     "marca": "",
+     "preco": 5.9,
+     "img": "produtos/3592.jpg"
+    },
+    {
+     "cod": 11005,
+     "nome": "PASTA PP 2CM-FUME",
+     "marca": "POLIBRAS",
+     "preco": 5.9,
+     "img": "produtos/11005.jpg"
+    },
+    {
+     "cod": 12541,
+     "nome": "PASTA PP 2CM-ROSA PASTEL",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/12541.jpg"
+    },
+    {
+     "cod": 2263,
+     "nome": "PASTA PP MINI 2CM-FUME",
+     "marca": "POLIBRAS",
+     "preco": 3.0,
+     "img": "produtos/2263.jpg"
+    },
+    {
+     "cod": 12543,
+     "nome": "PASTA PP 2CM-LILAS PASTEL",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/12543.jpg"
+    },
+    {
+     "cod": 12542,
+     "nome": "PASTA PP 2CM-AZUL PASTEL",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/12542.jpg"
+    },
+    {
+     "cod": 7166,
+     "nome": "PASTA PP MINI 2CM-CRISTAL",
+     "marca": "POLIBRAS",
+     "preco": 4.9,
+     "img": "produtos/7166.jpg"
+    },
+    {
+     "cod": 10013,
+     "nome": "PASTA PP 2CM POLIBRAS-AZUL NEON",
+     "marca": "POLIBRAS",
+     "preco": 12.9,
+     "img": "produtos/10013.jpg"
+    },
+    {
+     "cod": 10010,
+     "nome": "PASTA PP 2CM POLIBRAS-ROSA NEON",
+     "marca": "POLIBRAS",
+     "preco": 12.9,
+     "img": "produtos/10010.jpg"
+    },
+    {
+     "cod": 13947,
+     "nome": "PASTA PP 2CM-VERDE PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 10.9,
+     "img": "produtos/13947.jpg"
+    },
+    {
+     "cod": 10011,
+     "nome": "PASTA PP 2CM POLIBRAS-LILAS NEON",
+     "marca": "POLIBRAS",
+     "preco": 12.9,
+     "img": "produtos/10011.jpg"
+    },
+    {
+     "cod": 3929,
+     "nome": "PASTA PP 4CM-CRISTAL",
+     "marca": "",
+     "preco": 6.9,
+     "img": "produtos/3929.jpg"
+    },
+    {
+     "cod": 10020,
+     "nome": "PASTA PP 4CM POLIBRAS-AMARELO NEON",
+     "marca": "POLIBRAS",
+     "preco": 15.9,
+     "img": "produtos/10020.jpg"
+    },
+    {
+     "cod": 10019,
+     "nome": "PASTA PP 4CM POLIBRAS-LILAS NEON",
+     "marca": "POLIBRAS",
+     "preco": 15.9,
+     "img": "produtos/10019.jpg"
+    },
+    {
+     "cod": 12918,
+     "nome": "PASTA PP 4CM PLASCONY A3 CRISTAL",
+     "marca": "PLASCONY",
+     "preco": 20.9,
+     "img": "produtos/12918.jpg"
+    },
+    {
+     "cod": 12933,
+     "nome": "PASTA PP 4CM PLASCONY-FUME",
+     "marca": "PLASCONY",
+     "preco": 7.9,
+     "img": "produtos/12933.jpg"
+    },
+    {
+     "cod": 10018,
+     "nome": "PASTA PP 4CM POLIBRAS-ROSA NEON",
+     "marca": "POLIBRAS",
+     "preco": 15.9,
+     "img": "produtos/10018.jpg"
+    },
+    {
+     "cod": 10021,
+     "nome": "PASTA PP 4CM POLIBRAS-AZUL NEON",
+     "marca": "POLIBRAS",
+     "preco": 15.9,
+     "img": "produtos/10021.jpg"
+    },
+    {
+     "cod": 12934,
+     "nome": "PASTA PP 5CM-CRISTAL",
+     "marca": "",
+     "preco": 8.9,
+     "img": "produtos/12934.jpg"
+    },
+    {
+     "cod": 12935,
+     "nome": "PASTA PP 5CM-FUME",
+     "marca": "",
+     "preco": 8.9,
+     "img": "produtos/12935.jpg"
+    },
+    {
+     "cod": 1806,
+     "nome": "MALETA ESCOLAR 4CM-VERDE",
+     "marca": "POLIBRAS",
+     "preco": 17.9,
+     "img": "produtos/1806.jpg"
+    },
+    {
+     "cod": 1805,
+     "nome": "MALETA ESCOLAR 4CM-AZUL",
+     "marca": "POLIBRAS",
+     "preco": 17.9,
+     "img": "produtos/1805.jpg"
+    },
+    {
+     "cod": 1807,
+     "nome": "MALETA ESCOLAR 4CM-VERMELHA",
+     "marca": "POLIBRAS",
+     "preco": 17.9,
+     "img": "produtos/1807.jpg"
+    },
+    {
+     "cod": 1803,
+     "nome": "MALETA ESCOLAR 4CM-AMARELA",
+     "marca": "POLIBRAS",
+     "preco": 17.9,
+     "img": "produtos/1803.jpg"
+    },
+    {
+     "cod": 12915,
+     "nome": "MALETA ESCOLAR 4CM PP-AZUL",
+     "marca": "PLASCONY",
+     "preco": 18.9,
+     "img": "produtos/12915.jpg"
+    },
+    {
+     "cod": 5557,
+     "nome": "MALETA DECORADA BATMAN",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/5557.jpg"
+    },
+    {
+     "cod": 5558,
+     "nome": "MALETA DECORADA HOMEM ARANHA",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/5558.jpg"
+    },
+    {
+     "cod": 10667,
+     "nome": "MALETA DECORADA CARROS",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/10667.jpg"
+    },
+    {
+     "cod": 8181,
+     "nome": "MALETA DECORADA NARUTO",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/8181.jpg"
+    },
+    {
+     "cod": 10668,
+     "nome": "MALETA DECORADA MICKEY",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/10668.jpg"
+    },
+    {
+     "cod": 13986,
+     "nome": "MALETA A3 POLIONDA-CINZA",
+     "marca": "POLIBRAS",
+     "preco": 33.9,
+     "img": "produtos/13986.jpg"
+    },
+    {
+     "cod": 1809,
+     "nome": "MALETA A3 POLIONDA-PRETA",
+     "marca": "POLIBRAS",
+     "preco": 33.9,
+     "img": "produtos/1809.jpg"
+    },
+    {
+     "cod": 1816,
+     "nome": "MALETA DECORADA AVENGERS",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/1816.jpg"
+    },
+    {
+     "cod": 8182,
+     "nome": "MALETA DECORADA LIGA DA JUSTIÇA",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/8182.jpg"
+    },
+    {
+     "cod": 1808,
+     "nome": "MALETA A3 POLIONDA-AZUL",
+     "marca": "POLIBRAS",
+     "preco": 33.9,
+     "img": "produtos/1808.jpg"
+    },
+    {
+     "cod": 2195,
+     "nome": "PASTA AZ TIGRADA-FRAMA (FINA)",
+     "marca": "FRAMA",
+     "preco": 24.9,
+     "img": "produtos/2195.jpg"
+    },
+    {
+     "cod": 2197,
+     "nome": "PASTA AZ TIGRADA-POLYCART",
+     "marca": "POLYCART",
+     "preco": 24.9,
+     "img": "produtos/2197.jpg"
+    },
+    {
+     "cod": 14039,
+     "nome": "PASTA AZ  PRETA-POLYCART",
+     "marca": "POLYCART",
+     "preco": 22.9,
+     "img": "produtos/14039.jpg"
+    },
+    {
+     "cod": 11945,
+     "nome": "PASTA AZ VERDE-DAC",
+     "marca": "DAC",
+     "preco": 35.9,
+     "img": "produtos/11945.jpg"
+    },
+    {
+     "cod": 11939,
+     "nome": "PASTA AZ VERMELHA-DAC",
+     "marca": "DAC",
+     "preco": 35.9,
+     "img": "produtos/11939.jpg"
+    },
+    {
+     "cod": 11947,
+     "nome": "PASTA AZ AMARELA-DAC",
+     "marca": "DAC",
+     "preco": 35.9,
+     "img": "produtos/11947.jpg"
+    },
+    {
+     "cod": 2215,
+     "nome": "PASTA C/ORELHA-AZUL",
+     "marca": "POLYCART",
+     "preco": 2.0,
+     "img": "produtos/2215.jpg"
+    },
+    {
+     "cod": 6744,
+     "nome": "PASTA ORELHA AZUL-DELLO",
+     "marca": "DELLO",
+     "preco": 3.8,
+     "img": "produtos/6744.jpg"
+    },
+    {
+     "cod": 6195,
+     "nome": "PASTA CATALOGO PRETA C/50",
+     "marca": "ACP",
+     "preco": 25.9,
+     "img": "produtos/6195.jpg"
+    },
+    {
+     "cod": 6196,
+     "nome": "PASTA CATALOGO PRETA C/100",
+     "marca": "",
+     "preco": 37.9,
+     "img": "produtos/6196.jpg"
+    },
+    {
+     "cod": 6950,
+     "nome": "PASTA CATALOGO PRETA C/10",
+     "marca": "",
+     "preco": 16.9,
+     "img": "produtos/6950.jpg"
+    },
+    {
+     "cod": 6951,
+     "nome": "PASTA CATALOGO PRETA C/30",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/6951.jpg"
+    },
+    {
+     "cod": 12931,
+     "nome": "PASTA CATALOGO TRANSP. C/30",
+     "marca": "PLASCONY",
+     "preco": 21.9,
+     "img": "produtos/12931.jpg"
+    },
+    {
+     "cod": 10022,
+     "nome": "PASTA ENVELOPE A4-ROSA NEON",
+     "marca": "POLIBRAS",
+     "preco": 9.9,
+     "img": "produtos/10022.jpg"
+    },
+    {
+     "cod": 10023,
+     "nome": "PASTA ENVELOPE A4-AZUL NEON",
+     "marca": "POLIBRAS",
+     "preco": 9.9,
+     "img": "produtos/10023.jpg"
+    },
+    {
+     "cod": 10025,
+     "nome": "PASTA ENVELOPE A4-LILAS NEON",
+     "marca": "POLIBRAS",
+     "preco": 9.9,
+     "img": "produtos/10025.jpg"
+    },
+    {
+     "cod": 9882,
+     "nome": "PASTA CATALOGO (CANDY A4) ROSA/LILAS C/30",
+     "marca": "ACP",
+     "preco": 65.9,
+     "img": "produtos/9882.jpg"
+    },
+    {
+     "cod": 9881,
+     "nome": "PASTA CATALOGO  (CANDY A4 )AZUL/VERDE C/30",
+     "marca": "ACP",
+     "preco": 65.9,
+     "img": "produtos/9881.jpg"
+    },
+    {
+     "cod": 10024,
+     "nome": "PASTA ENVELOPE A4-AMARELO NEON",
+     "marca": "POLIBRAS",
+     "preco": 9.9,
+     "img": "produtos/10024.jpg"
+    },
+    {
+     "cod": 11746,
+     "nome": "PASTA ENVELOPE A4-AZUL PASTEL",
+     "marca": "POLIBRAS",
+     "preco": 6.9,
+     "img": "produtos/11746.jpg"
+    },
+    {
+     "cod": 2213,
+     "nome": "PASTA CLASSIFICADORA CINZA C/10",
+     "marca": "TIMPEL",
+     "preco": 55.9,
+     "img": "produtos/2213.jpg"
+    },
+    {
+     "cod": 2212,
+     "nome": "PASTA CLASSIFICADORA AZUL C/10",
+     "marca": "TIMPEL",
+     "preco": 55.9,
+     "img": "produtos/2212.jpg"
+    },
+    {
+     "cod": 2278,
+     "nome": "PASTA SUSPENSA PP CRISTAL",
+     "marca": "POLIBRAS",
+     "preco": 3.9,
+     "img": "produtos/2278.jpg"
+    },
+    {
+     "cod": 2276,
+     "nome": "PASTA SUSPENSA C/10 S/PL KRAFT",
+     "marca": "TIMPEL",
+     "preco": 37.9,
+     "img": "produtos/2276.jpg"
+    },
+    {
+     "cod": 2277,
+     "nome": "PASTA SUSPENSA C/10 C/PL MARM (0.35)",
+     "marca": "",
+     "preco": 57.9,
+     "img": "produtos/2277.jpg"
+    },
+    {
+     "cod": 3831,
+     "nome": "PASTA COMANDA 8X16,5CM (LUXO)",
+     "marca": "MAXI P.",
+     "preco": 15.9,
+     "img": "produtos/3831.jpg"
+    },
+    {
+     "cod": 3109,
+     "nome": "VISOR P/SUSPENSA DELLO C/50",
+     "marca": "DELLO",
+     "preco": 15.9,
+     "img": "produtos/3109.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "plastico",
+   "nome": "Plástico",
+   "itens": [
+    {
+     "cod": 933,
+     "nome": "CONTACT TRANSPARENTE",
+     "marca": "LEOTACK",
+     "preco": 3.9,
+     "img": "produtos/933.jpg"
+    },
+    {
+     "cod": 922,
+     "nome": "CONTACT LISO-PRETO FOSCO",
+     "marca": "LEOARTE",
+     "preco": 5.9,
+     "img": "produtos/922.jpg"
+    },
+    {
+     "cod": 919,
+     "nome": "CONTACT LISO-BRANCO FOSCO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/919.jpg"
+    },
+    {
+     "cod": 924,
+     "nome": "CONTACT LISO-VERMELHO",
+     "marca": "LEOARTE",
+     "preco": 5.9,
+     "img": "produtos/924.jpg"
+    },
+    {
+     "cod": 923,
+     "nome": "CONTACT LISO-VERDE",
+     "marca": "LEOARTE",
+     "preco": 5.9,
+     "img": "produtos/923.jpg"
+    },
+    {
+     "cod": 916,
+     "nome": "CONTACT LISO-AMARELO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/916.jpg"
+    },
+    {
+     "cod": 7636,
+     "nome": "CONTACT LISO-AZUL CLARO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/7636.jpg"
+    },
+    {
+     "cod": 12551,
+     "nome": "CONTACT LISO-BEGE",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/12551.jpg"
+    },
+    {
+     "cod": 920,
+     "nome": "CONTACT LISO-LARANJA",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/920.jpg"
+    },
+    {
+     "cod": 7294,
+     "nome": "CONTACT LISO-ROXO",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/7294.jpg"
+    },
+    {
+     "cod": 4187,
+     "nome": "CONTACT LISO-ROSA PINK",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": null
+    },
+    {
+     "cod": 6683,
+     "nome": "CONTACT LISO-ROSA CLARO",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/6683.jpg"
+    },
+    {
+     "cod": 10000,
+     "nome": "CONTACT LISO-LILAS",
+     "marca": "CON-TACT",
+     "preco": 5.9,
+     "img": "produtos/10000.jpg"
+    },
+    {
+     "cod": 7614,
+     "nome": "CONTACT DECORADO-ARABESCO 01",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7614.jpg"
+    },
+    {
+     "cod": 7619,
+     "nome": "CONTACT DECORADO-PEDRA 02",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7619.jpg"
+    },
+    {
+     "cod": 7627,
+     "nome": "CONTACT GLITER-DOURADO",
+     "marca": "LEOTACK",
+     "preco": 12.9,
+     "img": "produtos/7627.jpg"
+    },
+    {
+     "cod": 899,
+     "nome": "CONTACT DECORADO-CANJIQUINHA BRANCA",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/899.jpg"
+    },
+    {
+     "cod": 7633,
+     "nome": "CONTACT DECORADO-ARABESCO VITRAL",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7633.jpg"
+    },
+    {
+     "cod": 7631,
+     "nome": "CONTACT DECORADO-AZULEJO ROSA",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7631.jpg"
+    },
+    {
+     "cod": 7620,
+     "nome": "CONTACT DECORADO-FLORAL 04",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7620.jpg"
+    },
+    {
+     "cod": 7611,
+     "nome": "CONTACT DECORADO-TERRACOTA TENDENCIA",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7611.jpg"
+    },
+    {
+     "cod": 7626,
+     "nome": "CONTACT GLITER-PRATA",
+     "marca": "LEOTACK",
+     "preco": 12.9,
+     "img": "produtos/7626.jpg"
+    },
+    {
+     "cod": 892,
+     "nome": "CONTACT DECORADO-FLOWER 16",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/892.jpg"
+    },
+    {
+     "cod": 7628,
+     "nome": "CONTACT DECORADO-ARCOS",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7628.jpg"
+    },
+    {
+     "cod": 931,
+     "nome": "CONTACT MADEIRA-PEROBA DO CAMPO",
+     "marca": "PLASTCOVER",
+     "preco": 15.9,
+     "img": "produtos/931.jpg"
+    },
+    {
+     "cod": 7623,
+     "nome": "CONTACT DECORADO-AZULEJO 03",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7623.jpg"
+    },
+    {
+     "cod": 7605,
+     "nome": "CONTACT DECORADO-FLORAL VERDE",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7605.jpg"
+    },
+    {
+     "cod": 7618,
+     "nome": "CONTACT DECORADO-CIMENTO QUEIMADO",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7618.jpg"
+    },
+    {
+     "cod": 7607,
+     "nome": "CONTACT DECORADO-FORMAS 02",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7607.jpg"
+    },
+    {
+     "cod": 7612,
+     "nome": "CONTACT MADEIRA-PAU ROSA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7612.jpg"
+    },
+    {
+     "cod": 900,
+     "nome": "CONTACT DECORADO-ARABESCO BRONZE",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/900.jpg"
+    },
+    {
+     "cod": 898,
+     "nome": "CONTACT DECORADO-AZULEIJO PORTUGUES",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/898.jpg"
+    },
+    {
+     "cod": 5302,
+     "nome": "CONTACT DECORADO-CANJIQUINHA 2",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/5302.jpg"
+    },
+    {
+     "cod": 5553,
+     "nome": "CONTACT DECORADO-CANTINHO GOURMET",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/5553.jpg"
+    },
+    {
+     "cod": 903,
+     "nome": "CONTACT DECORADO-CRAFT BEER",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/903.jpg"
+    },
+    {
+     "cod": 7610,
+     "nome": "CONTACT DECORADO-FLAMINGO",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7610.jpg"
+    },
+    {
+     "cod": 7635,
+     "nome": "CONTACT DECORADO-FLORAL 06",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7635.jpg"
+    },
+    {
+     "cod": 893,
+     "nome": "CONTACT DECORADO-FLOWER 17",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/893.jpg"
+    },
+    {
+     "cod": 891,
+     "nome": "CONTACT DECORADO-FLOWER 6",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/891.jpg"
+    },
+    {
+     "cod": 904,
+     "nome": "CONTACT DECORADO-FOLHAGEM TROPICAL",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/904.jpg"
+    },
+    {
+     "cod": 7629,
+     "nome": "CONTACT DECORADO-I LOVE MY PET",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7629.jpg"
+    },
+    {
+     "cod": 7630,
+     "nome": "CONTACT DECORADO-LIRIOS",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7630.jpg"
+    },
+    {
+     "cod": 7604,
+     "nome": "CONTACT DECORADO-MANDALA",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7604.jpg"
+    },
+    {
+     "cod": 7616,
+     "nome": "CONTACT DECORADO-RETRÔ 01",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7616.jpg"
+    },
+    {
+     "cod": 7632,
+     "nome": "CONTACT DECORADO-TROPICAL (FRUTAS)",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7632.jpg"
+    },
+    {
+     "cod": 896,
+     "nome": "CONTACT DECORADO-VINTAGE",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/896.jpg"
+    },
+    {
+     "cod": 9999,
+     "nome": "CONTACT GLITER-AZUL",
+     "marca": "LEOTACK",
+     "preco": 12.9,
+     "img": "produtos/9999.jpg"
+    },
+    {
+     "cod": 4938,
+     "nome": "CONTACT GLITER-ROSA CLARO",
+     "marca": "LEOTACK",
+     "preco": 12.9,
+     "img": "produtos/4938.jpg"
+    },
+    {
+     "cod": 6748,
+     "nome": "CONTACT GLITER-ROSA ESCURO",
+     "marca": "PLAVITEC",
+     "preco": 12.9,
+     "img": "produtos/6748.jpg"
+    },
+    {
+     "cod": 6558,
+     "nome": "CONTACT MADEIRA-IMBUIDA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/6558.jpg"
+    },
+    {
+     "cod": 926,
+     "nome": "CONTACT MADEIRA-JACARANDA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/926.jpg"
+    },
+    {
+     "cod": 927,
+     "nome": "CONTACT MADEIRA-MOGNO",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/927.jpg"
+    },
+    {
+     "cod": 928,
+     "nome": "CONTACT MADEIRA-VINHATICO",
+     "marca": "PLASTCOVER",
+     "preco": 15.9,
+     "img": "produtos/928.jpg"
+    },
+    {
+     "cod": 13555,
+     "nome": "ROLO INFANTIL COLORIR ADESIVO-DINO",
+     "marca": "VMP",
+     "preco": 27.9,
+     "img": "produtos/13555.jpg"
+    },
+    {
+     "cod": 13558,
+     "nome": "ROLO INFANTIL COLORIR ADESIVO-SEREIA",
+     "marca": "VMP",
+     "preco": 27.9,
+     "img": "produtos/13558.jpg"
+    },
+    {
+     "cod": 12507,
+     "nome": "CONTACT INFANTIL-STITCH",
+     "marca": "DAC",
+     "preco": 10.9,
+     "img": "produtos/12507.jpg"
+    },
+    {
+     "cod": 13554,
+     "nome": "ROLO INFANTIL COLORIR ADESIVO-ANIMAIS",
+     "marca": "VMP",
+     "preco": 27.9,
+     "img": "produtos/13554.jpg"
+    },
+    {
+     "cod": 6555,
+     "nome": "CONTACT DECORADO-FANTASIA CIRCO",
+     "marca": "LENORA",
+     "preco": 6.9,
+     "img": "produtos/6555.jpg"
+    },
+    {
+     "cod": 7622,
+     "nome": "CONTACT MADEIRA-RIPA PRETA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7622.jpg"
+    },
+    {
+     "cod": 7615,
+     "nome": "CONTACT MADEIRA-RIPA RUSTICA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7615.jpg"
+    },
+    {
+     "cod": 5334,
+     "nome": "CONTACT MADEIRA-OLIVE TEAK",
+     "marca": "GEKKOFIX",
+     "preco": 15.9,
+     "img": "produtos/5334.jpg"
+    },
+    {
+     "cod": 668,
+     "nome": "CAPA PRONTA BROCH. C/5 (80/60FL)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/668.jpg"
+    },
+    {
+     "cod": 669,
+     "nome": "CAPA PRONTA CD 96F C/5 (CD TILIBRA-LIVRO)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/669.jpg"
+    },
+    {
+     "cod": 3728,
+     "nome": "CAPA PRONTA AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
+     "marca": "MAXI PLAST",
+     "preco": 12.5,
+     "img": "produtos/3728.jpg"
+    },
+    {
+     "cod": 672,
+     "nome": "CAPA PRONTA LIVRO C/5 (AJUSTAVEL)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/672.jpg"
+    },
+    {
+     "cod": 667,
+     "nome": "CAPA PRONTA ALIBOM. C/5 (CARTONADO)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/667.jpg"
+    },
+    {
+     "cod": 671,
+     "nome": "CAPA PRONTA ESPIRAL  C/5 (SOLTA)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/671.jpg"
+    },
+    {
+     "cod": 4437,
+     "nome": "SACO ADESIVADO 5X7 C/100",
+     "marca": "GALA",
+     "preco": 7.9,
+     "img": "produtos/4437.jpg"
+    },
+    {
+     "cod": 4872,
+     "nome": "SACO ADESIVADO 6X7 C/100",
+     "marca": "",
+     "preco": 8.9,
+     "img": "produtos/4872.jpg"
+    },
+    {
+     "cod": 2745,
+     "nome": "SACO ADESIVADO 6,5X9 C/100",
+     "marca": "CROMUS",
+     "preco": 10.5,
+     "img": "produtos/2745.jpg"
+    },
+    {
+     "cod": 2746,
+     "nome": "SACO ADESIVADO 8X8 C/100",
+     "marca": "",
+     "preco": 11.9,
+     "img": "produtos/2746.jpg"
+    },
+    {
+     "cod": 3656,
+     "nome": "SACO ADESIVADO 9X13 C/100",
+     "marca": "VABENE",
+     "preco": 15.9,
+     "img": "produtos/3656.jpg"
+    },
+    {
+     "cod": 4432,
+     "nome": "SACO ADESIVADO 10X14 C/100",
+     "marca": "GALA",
+     "preco": 18.9,
+     "img": "produtos/4432.jpg"
+    },
+    {
+     "cod": 13540,
+     "nome": "SACO ADESIVADO 10X25 C/50",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/13540.jpg"
+    },
+    {
+     "cod": 2741,
+     "nome": "SACO ADESIVADO 15X20 C/100",
+     "marca": "CROMUS",
+     "preco": 29.9,
+     "img": "produtos/2741.jpg"
+    },
+    {
+     "cod": 2743,
+     "nome": "SACO ADESIVADO 22X30 C/100",
+     "marca": "VABENE",
+     "preco": 32.9,
+     "img": "produtos/2743.jpg"
+    },
+    {
+     "cod": 2744,
+     "nome": "SACO ADESIVADO 25X35 C/100",
+     "marca": "",
+     "preco": 78.9,
+     "img": "produtos/2744.jpg"
+    },
+    {
+     "cod": 9784,
+     "nome": "SACO ADESIVADO 25X37 C/100",
+     "marca": "GALA",
+     "preco": 61.9,
+     "img": "produtos/9784.jpg"
+    },
+    {
+     "cod": 2412,
+     "nome": "PLASTICO MESA (0.10) 1,40-MEDIO",
+     "marca": "CIPATEX",
+     "preco": 9.9,
+     "img": "produtos/2412.jpg"
+    },
+    {
+     "cod": 10775,
+     "nome": "AVENTAL ESCOLAR BATMAN",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/10775.jpg"
+    },
+    {
+     "cod": 12399,
+     "nome": "AVENTAL ESCOLAR STITCH (ROSA)",
+     "marca": "LUXCEL",
+     "preco": 47.9,
+     "img": "produtos/12399.jpg"
+    },
+    {
+     "cod": 10726,
+     "nome": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+     "marca": "DAC",
+     "preco": 17.9,
+     "img": "produtos/10726.jpg"
+    },
+    {
+     "cod": 4921,
+     "nome": "PLASTICO 4F OF. FINO C/100",
+     "marca": "DAC",
+     "preco": 26.9,
+     "img": "produtos/4921.jpg"
+    },
+    {
+     "cod": 4918,
+     "nome": "PLASTICO 4F A4 FINO C/100",
+     "marca": "",
+     "preco": 26.9,
+     "img": "produtos/4918.jpg"
+    },
+    {
+     "cod": 4920,
+     "nome": "PLASTICO 4F A4 MEDIO C/100",
+     "marca": "MP",
+     "preco": 39.9,
+     "img": "produtos/4920.jpg"
+    },
+    {
+     "cod": 4922,
+     "nome": "PLASTICO 4F OF. GROSSO C/100",
+     "marca": "MP",
+     "preco": 42.9,
+     "img": "produtos/4922.jpg"
+    },
+    {
+     "cod": 2400,
+     "nome": "PLASTICO 4F A4 GROSSO C/5 (LISTA ESCOLAR)",
+     "marca": "DAC",
+     "preco": 5.9,
+     "img": "produtos/2400.jpg"
+    },
+    {
+     "cod": 4923,
+     "nome": "PLASTICO 4F OF. MEDIO C/100",
+     "marca": "MP",
+     "preco": 39.9,
+     "img": "produtos/4923.jpg"
+    },
+    {
+     "cod": 4919,
+     "nome": "PLASTICO 4F A4 GROSSO C/100",
+     "marca": "MP",
+     "preco": 42.9,
+     "img": "produtos/4919.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "telefone",
+   "nome": "Telefone",
+   "itens": [
+    {
+     "cod": 2957,
+     "nome": "TELEFONE HEADSET C/FONE HST-6000",
+     "marca": "ELGIN",
+     "preco": 305.9,
+     "img": "produtos/2957.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "tesoura",
+   "nome": "Tesoura",
+   "itens": [
+    {
+     "cod": 1142,
+     "nome": "ESTILETE LARGO",
+     "marca": "",
+     "preco": 4.9,
+     "img": "produtos/1142.jpg"
+    },
+    {
+     "cod": 1139,
+     "nome": "ESTILETE FINO",
+     "marca": "",
+     "preco": 2.8,
+     "img": "produtos/1139.jpg"
+    },
+    {
+     "cod": 1144,
+     "nome": "ESTILETE LARGO PROFISSIONAL",
+     "marca": "THOMPSON",
+     "preco": 15.9,
+     "img": "produtos/1144.jpg"
+    },
+    {
+     "cod": 13124,
+     "nome": "MINI ESTILETE NUVEM-CORES",
+     "marca": "TILIBRA",
+     "preco": 9.9,
+     "img": "produtos/13124.jpg"
+    },
+    {
+     "cod": 3390,
+     "nome": "ESTILETE FINO PROFISSIONAL",
+     "marca": "",
+     "preco": 13.5,
+     "img": "produtos/3390.jpg"
+    },
+    {
+     "cod": 7201,
+     "nome": "LAMINA ESTILETE GROSSA C/10",
+     "marca": "",
+     "preco": 6.9,
+     "img": "produtos/7201.jpg"
+    },
+    {
+     "cod": 7200,
+     "nome": "LAMINA ESTILETE FINA C/10",
+     "marca": "",
+     "preco": 4.9,
+     "img": "produtos/7200.jpg"
+    },
+    {
+     "cod": 10746,
+     "nome": "TESOURA GRD TUUT (19,5CM)",
+     "marca": "TUUT",
+     "preco": 12.9,
+     "img": "produtos/10746.jpg"
+    },
+    {
+     "cod": 6633,
+     "nome": "TESOURA GRD MASTERPRINT (21CM)",
+     "marca": "MASTERPRIN",
+     "preco": 11.9,
+     "img": "produtos/6633.jpg"
+    },
+    {
+     "cod": 5077,
+     "nome": "TESOURA GRD BRW (21CM)",
+     "marca": "BRW",
+     "preco": 11.9,
+     "img": "produtos/5077.jpg"
+    },
+    {
+     "cod": 6634,
+     "nome": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+     "marca": "NX13C/MAST",
+     "preco": 3.9,
+     "img": "produtos/6634.jpg"
+    },
+    {
+     "cod": 3702,
+     "nome": "TESOURA S/P TRAMONTINA-ROXO",
+     "marca": "TRAMONTINA",
+     "preco": 15.9,
+     "img": "produtos/3702.jpg"
+    },
+    {
+     "cod": 3705,
+     "nome": "TESOURA S/P TRAMONTINA-VERMELHA",
+     "marca": "TRAMONTINA",
+     "preco": 15.9,
+     "img": "produtos/3705.jpg"
+    },
+    {
+     "cod": 2959,
+     "nome": "TESOURA GRD TRAMONTINA",
+     "marca": "TRAMONTINA",
+     "preco": 24.9,
+     "img": "produtos/2959.jpg"
+    },
+    {
+     "cod": 10263,
+     "nome": "TESOURA S/P ACRILEX-AZUL",
+     "marca": "ACRILEX",
+     "preco": 10.9,
+     "img": "produtos/10263.jpg"
+    },
+    {
+     "cod": 12746,
+     "nome": "TESOURA S/P ACRILEX-PRETA (BICOLOR)",
+     "marca": "ACRILEX",
+     "preco": 11.9,
+     "img": "produtos/12746.jpg"
+    },
+    {
+     "cod": 12747,
+     "nome": "TESOURA S/P ACRILEX-CORES (BICOLOR)",
+     "marca": "ACRILEX",
+     "preco": 11.9,
+     "img": "produtos/12747.jpg"
+    },
+    {
+     "cod": 10265,
+     "nome": "TESOURA S/P ACRILEX-PRETA",
+     "marca": "ACRILEX",
+     "preco": 10.9,
+     "img": "produtos/10265.jpg"
+    },
+    {
+     "cod": 10264,
+     "nome": "TESOURA S/P ACRILEX-ROSA",
+     "marca": "ACRILEX",
+     "preco": 10.9,
+     "img": "produtos/10264.jpg"
+    },
+    {
+     "cod": 6920,
+     "nome": "TESOURA S/P TRAMONTINA (CORES)",
+     "marca": "TRAMONTINA",
+     "preco": 15.9,
+     "img": "produtos/6920.jpg"
+    },
+    {
+     "cod": 13281,
+     "nome": "TESOURA S/P MAPED NEON",
+     "marca": "MAPED",
+     "preco": 7.9,
+     "img": "produtos/13281.jpg"
+    },
+    {
+     "cod": 12737,
+     "nome": "TESOURA S/P ACRILEX-ROSA (LETRAS)",
+     "marca": "ACRILEX",
+     "preco": 18.9,
+     "img": "produtos/12737.jpg"
+    },
+    {
+     "cod": 4772,
+     "nome": "TESOURA GRD THOMPSON",
+     "marca": "THOMPSON",
+     "preco": 12.9,
+     "img": "produtos/4772.jpg"
+    },
+    {
+     "cod": 12738,
+     "nome": "TESOURA S/P ACRILEX-PRETA (LETRAS)",
+     "marca": "ACRILEX",
+     "preco": 18.9,
+     "img": "produtos/12738.jpg"
+    },
+    {
+     "cod": 2964,
+     "nome": "TESOURA S/P TRIS CANHOTO",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/2964.jpg"
+    },
+    {
+     "cod": 6635,
+     "nome": "TESOURA PICOTAR GRD MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 59.9,
+     "img": "produtos/6635.jpg"
+    },
+    {
+     "cod": 11562,
+     "nome": "APONTADOR MAPED C/D 1F-BOOGY CORES",
+     "marca": "MAPED",
+     "preco": 2.9,
+     "img": "produtos/11562.jpg"
+    },
+    {
+     "cod": 11861,
+     "nome": "APONTADOR BRW S/D 1F-METAL",
+     "marca": "BRW",
+     "preco": 3.9,
+     "img": "produtos/11861.jpg"
+    },
+    {
+     "cod": 13607,
+     "nome": "APONTADOR TILIBRA C/D 1F-FUTEBOL",
+     "marca": "TILIBRA",
+     "preco": 8.9,
+     "img": "produtos/13607.jpg"
+    },
+    {
+     "cod": 10614,
+     "nome": "APONTADOR CIS C/D 1F-EMOJI",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/10614.jpg"
+    },
+    {
+     "cod": 12639,
+     "nome": "APONTADOR TRIS C/D 1F-LILAS (SU263)",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12639.jpg"
+    },
+    {
+     "cod": 11862,
+     "nome": "APONTADOR BRW S/D 1F (PANDA)",
+     "marca": "BRW",
+     "preco": 7.9,
+     "img": "produtos/11862.jpg"
+    },
+    {
+     "cod": 13133,
+     "nome": "APONTADOR TILIBRA S/D 1F (BERRY)",
+     "marca": "TILIBRA",
+     "preco": 11.9,
+     "img": "produtos/13133.jpg"
+    },
+    {
+     "cod": 12285,
+     "nome": "APONTADOR MOLIN C/D 1F-LOVE BLACK E WHITE",
+     "marca": "MOLIN",
+     "preco": 9.9,
+     "img": "produtos/12285.jpg"
+    },
+    {
+     "cod": 12245,
+     "nome": "APONTADOR BRW S/D 1F-ASTRONAUTA/FOGUETE",
+     "marca": "BRW",
+     "preco": 8.9,
+     "img": "produtos/12245.jpg"
+    },
+    {
+     "cod": 12678,
+     "nome": "APONTADOR TRIS C/D 1F-HOLIC ALL BLACK PRETO",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/12678.jpg"
+    },
+    {
+     "cod": 12722,
+     "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS AZUL",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12722.jpg"
+    },
+    {
+     "cod": 12638,
+     "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12638.jpg"
+    },
+    {
+     "cod": 12286,
+     "nome": "APONTADOR MOLIN C/D 1F-LOVE CITY",
+     "marca": "MOLIN",
+     "preco": 10.9,
+     "img": "produtos/12286.jpg"
+    },
+    {
+     "cod": 12637,
+     "nome": "APONTADOR TRIS C/D 1F-AZUL (SU263)",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12637.jpg"
+    },
+    {
+     "cod": 12712,
+     "nome": "APONTADOR TRIS S/D 1F-TEDDY MARROM",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12712.jpg"
+    },
+    {
+     "cod": 12703,
+     "nome": "APONTADOR TRIS C/D 1F-HOLIC CAKE AZUL",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12703.jpg"
+    },
+    {
+     "cod": 3171,
+     "nome": "APONTADOR TILIBRA C/D 1F-HAPPY ROSA",
+     "marca": "TILIBRA",
+     "preco": 6.9,
+     "img": "produtos/3171.jpg"
+    },
+    {
+     "cod": 11584,
+     "nome": "APONTADOR MAPED C/D 1F-CANHOTO ROSA",
+     "marca": "MAPED",
+     "preco": 4.9,
+     "img": "produtos/11584.jpg"
+    },
+    {
+     "cod": 12307,
+     "nome": "APONTADOR MOLIN C/D+BORR 1F-STITCH",
+     "marca": "MOLIN",
+     "preco": 28.9,
+     "img": "produtos/12307.jpg"
+    },
+    {
+     "cod": 13381,
+     "nome": "APONTADOR TRIS C/D 1F-MARIE ROSA",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/13381.jpg"
+    },
+    {
+     "cod": 13380,
+     "nome": "APONTADOR TRIS C/D 1F-MARIE LILAS",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/13380.jpg"
+    },
+    {
+     "cod": 12673,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC ROSA",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12673.jpg"
+    },
+    {
+     "cod": 11583,
+     "nome": "APONTADOR MAPED C/D 1F-CANHOTO AMARELO",
+     "marca": "MAPED",
+     "preco": 4.9,
+     "img": "produtos/11583.jpg"
+    },
+    {
+     "cod": 13687,
+     "nome": "APONTADOR MAPED C/D 1F-KIDY LEARN",
+     "marca": "MAPED",
+     "preco": 9.9,
+     "img": "produtos/13687.jpg"
+    },
+    {
+     "cod": 13130,
+     "nome": "APONTADOR TILIBRA C/D 1F AP14-ROSA",
+     "marca": "TILIBRA",
+     "preco": 4.9,
+     "img": "produtos/13130.jpg"
+    },
+    {
+     "cod": 12689,
+     "nome": "APONTADOR TRIS C/D 1F-MELANCIA",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12689.jpg"
+    },
+    {
+     "cod": 12725,
+     "nome": "APONTADOR TRIS C/D 1F-BATMAN AMARELO",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/12725.jpg"
+    },
+    {
+     "cod": 12726,
+     "nome": "APONTADOR TRIS C/D 1F-BATMAN AZUL",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/12726.jpg"
+    },
+    {
+     "cod": 12246,
+     "nome": "APONTADOR BRW S/D 1F-SPORTS",
+     "marca": "BRW",
+     "preco": 8.9,
+     "img": "produtos/12246.jpg"
+    },
+    {
+     "cod": 11551,
+     "nome": "APONTADOR MAPED C/D 1F-SMILING PLANET",
+     "marca": "MAPED",
+     "preco": 4.9,
+     "img": "produtos/11551.jpg"
+    },
+    {
+     "cod": 12308,
+     "nome": "APONTADOR MOLIN C/D 1F-DOG CORES",
+     "marca": "MOLIN",
+     "preco": 24.9,
+     "img": "produtos/12308.jpg"
+    },
+    {
+     "cod": 12284,
+     "nome": "APONTADOR MOLIN C/D 1F-LOVE HEART",
+     "marca": "MOLIN",
+     "preco": 11.9,
+     "img": "produtos/12284.jpg"
+    },
+    {
+     "cod": 3169,
+     "nome": "APONTADOR TILIBRA C/D 1F-HAPPY AZUL",
+     "marca": "TILIBRA",
+     "preco": 6.9,
+     "img": "produtos/3169.jpg"
+    },
+    {
+     "cod": 12716,
+     "nome": "APONTADOR TRIS C/D 1F-FROZEN ROSA",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/12716.jpg"
+    },
+    {
+     "cod": 12317,
+     "nome": "APONTADOR MOLIN C/D+BORR 1F-LOVE HEART",
+     "marca": "MOLIN",
+     "preco": 19.9,
+     "img": "produtos/12317.jpg"
+    },
+    {
+     "cod": 3170,
+     "nome": "APONTADOR TILIBRA C/D 1F-HAPPY LILAS",
+     "marca": "TILIBRA",
+     "preco": 6.9,
+     "img": "produtos/3170.jpg"
+    },
+    {
+     "cod": 12676,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC AMARELO",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12676.jpg"
+    },
+    {
+     "cod": 12715,
+     "nome": "APONTADOR TRIS C/D 1F-FROZEN AZUL",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/12715.jpg"
+    },
+    {
+     "cod": 12723,
+     "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS LARANJA",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12723.jpg"
+    },
+    {
+     "cod": 12675,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC LILAS",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12675.jpg"
+    },
+    {
+     "cod": 12674,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC VERDE",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12674.jpg"
+    },
+    {
+     "cod": 10530,
+     "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/DOURADO (TREND)",
+     "marca": "CIS",
+     "preco": 9.9,
+     "img": "produtos/10530.jpg"
+    },
+    {
+     "cod": 3172,
+     "nome": "APONTADOR TILIBRA C/D 1F-HAPPY VERDE",
+     "marca": "TILIBRA",
+     "preco": 6.9,
+     "img": "produtos/3172.jpg"
+    },
+    {
+     "cod": 12728,
+     "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTIÇA VERDE",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12728.jpg"
+    },
+    {
+     "cod": 12650,
+     "nome": "APONTADOR ACRILEX C/D 1F-PRETO (22406)",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/12650.jpg"
+    },
+    {
+     "cod": 10650,
+     "nome": "APONTADOR CIS (1F) C/D+BORR-VERDE/DOURADO (TREND)",
+     "marca": "CIS",
+     "preco": 9.9,
+     "img": "produtos/10650.jpg"
+    },
+    {
+     "cod": 12729,
+     "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTIÇA AZUL",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12729.jpg"
+    },
+    {
+     "cod": 10523,
+     "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/PRATA (TREND)",
+     "marca": "CIS",
+     "preco": 9.9,
+     "img": "produtos/10523.jpg"
+    },
+    {
+     "cod": 10518,
+     "nome": "APONTADOR CIS C/D 415 (1F)-AZUL CLARO PASTEL",
+     "marca": "CIS",
+     "preco": 3.9,
+     "img": "produtos/10518.jpg"
+    },
+    {
+     "cod": 12641,
+     "nome": "APONTADOR TRIS C/D 1F-VERDE (SU263)",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12641.jpg"
+    },
+    {
+     "cod": 8158,
+     "nome": "APONTADOR CIS C/D SPIRO 2F-LILAS/ROSA",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/8158.jpg"
+    },
+    {
+     "cod": 12718,
+     "nome": "APONTADOR TRIS C/D 2F-PATRULHA CANINA",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/12718.jpg"
+    },
+    {
+     "cod": 13135,
+     "nome": "APONTADOR TILIBRA C/D 2F-SOHO AZUL",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/13135.jpg"
+    },
+    {
+     "cod": 13137,
+     "nome": "APONT TILIBRA C/D 2F WEST VILLAGE",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/13137.jpg"
+    },
+    {
+     "cod": 12288,
+     "nome": "APONTADOR MOLIN C/D 2F-LOVE FLOWERS",
+     "marca": "MOLIN",
+     "preco": 15.9,
+     "img": "produtos/12288.jpg"
+    },
+    {
+     "cod": 7960,
+     "nome": "APONTADOR MAPED C/D+BORR 2F-LILAS PASTEL",
+     "marca": "MAPED",
+     "preco": 11.9,
+     "img": "produtos/7960.jpg"
+    },
+    {
+     "cod": 12648,
+     "nome": "APONTADOR TRIS C/D 2F-ROXO (SU266)",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12648.jpg"
+    },
+    {
+     "cod": 8159,
+     "nome": "APONTADOR CIS C/D SPIRO 2F-VERDE/AZUL",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/8159.jpg"
+    },
+    {
+     "cod": 12347,
+     "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID MARROM",
+     "marca": "MOLIN",
+     "preco": 14.9,
+     "img": "produtos/12347.jpg"
+    },
+    {
+     "cod": 10514,
+     "nome": "APONTADOR CIS C/D 352 (2F)-CORES",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/10514.jpg"
+    },
+    {
+     "cod": 12379,
+     "nome": "APONTADOR MOLIN C/D 2F-LOVE BORBOLETAS VERDE",
+     "marca": "MOLIN",
+     "preco": 15.9,
+     "img": "produtos/12379.jpg"
+    },
+    {
+     "cod": 12349,
+     "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID VERDE",
+     "marca": "MOLIN",
+     "preco": 14.9,
+     "img": "produtos/12349.jpg"
+    },
+    {
+     "cod": 10647,
+     "nome": "APONTADOR CIS C/D SPIRO 2F-LARANJA/AZUL",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/10647.jpg"
+    },
+    {
+     "cod": 7602,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-LILAS",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/7602.jpg"
+    },
+    {
+     "cod": 3163,
+     "nome": "APONTADOR LEO C/D JUMBO-ROSA (CESTINHA)",
+     "marca": "LEO E LEO",
+     "preco": 3.5,
+     "img": "produtos/3163.jpg"
+    },
+    {
+     "cod": 7548,
+     "nome": "APONTADOR LEO C/D MINI-VERDE",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/7548.jpg"
+    },
+    {
+     "cod": 7587,
+     "nome": "APONTADOR LEO C/D BLOCO 60-AZUL",
+     "marca": "LEO E LEO",
+     "preco": 1.0,
+     "img": "produtos/7587.jpg"
+    },
+    {
+     "cod": 7588,
+     "nome": "APONTADOR LEO C/D BLOCO 60-LARANJA",
+     "marca": "LEO E LEO",
+     "preco": 1.0,
+     "img": "produtos/7588.jpg"
+    },
+    {
+     "cod": 3192,
+     "nome": "APONTADOR MAPED S/D PASTEL-LILAS",
+     "marca": "MAPED",
+     "preco": 2.0,
+     "img": "produtos/3192.jpg"
+    },
+    {
+     "cod": 3193,
+     "nome": "APONTADOR MAPED S/D PASTEL-ROSA",
+     "marca": "MAPED",
+     "preco": 2.0,
+     "img": "produtos/3193.jpg"
+    },
+    {
+     "cod": 7886,
+     "nome": "APONTADOR MAPED C/D PANDA/PINGUIM",
+     "marca": "MAPED",
+     "preco": 3.9,
+     "img": "produtos/7886.jpg"
+    },
+    {
+     "cod": 7592,
+     "nome": "APONTADOR LEO C/D BLOCO 60-ROXO",
+     "marca": "LEO E LEO",
+     "preco": 1.0,
+     "img": "produtos/7592.jpg"
+    },
+    {
+     "cod": 7603,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-ROSA",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/7603.jpg"
+    },
+    {
+     "cod": 3146,
+     "nome": "APONTADOR FABER C/D TRADIC.NEON-LARANJA",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/3146.jpg"
+    },
+    {
+     "cod": 7589,
+     "nome": "APONTADOR LEO C/D BLOCO 60-ROSA",
+     "marca": "LEO E LEO",
+     "preco": 1.0,
+     "img": "produtos/7589.jpg"
+    },
+    {
+     "cod": 7954,
+     "nome": "APONTADOR MAPED S/D PASTEL-AZUL",
+     "marca": "MAPED",
+     "preco": 2.0,
+     "img": "produtos/7954.jpg"
+    },
+    {
+     "cod": 7601,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-LARANJA",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/7601.jpg"
+    },
+    {
+     "cod": 3145,
+     "nome": "APONTADOR FABER C/D TRADIC.NEON-AMARELO",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/3145.jpg"
+    },
+    {
+     "cod": 7546,
+     "nome": "APONTADOR LEO C/D MINI-LARANJA",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/7546.jpg"
+    },
+    {
+     "cod": 48,
+     "nome": "APONTADOR FABER C/D JUMBO",
+     "marca": "FABER",
+     "preco": 5.9,
+     "img": "produtos/48.jpg"
+    },
+    {
+     "cod": 7598,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-AMARELO",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/7598.jpg"
+    },
+    {
+     "cod": 11553,
+     "nome": "APONTADOR MAPED C/D CROC (JOANINHA/BALEIA)",
+     "marca": "MAPED",
+     "preco": 9.9,
+     "img": "produtos/11553.jpg"
+    },
+    {
+     "cod": 11864,
+     "nome": "APONTADOR E BORRACHA BRW C/D XTREME",
+     "marca": "BRW",
+     "preco": 6.9,
+     "img": "produtos/11864.jpg"
+    },
+    {
+     "cod": 8465,
+     "nome": "APONTADOR FABER C/D ELIPSE-CINZA",
+     "marca": "FABER",
+     "preco": 7.9,
+     "img": "produtos/8465.jpg"
+    },
+    {
+     "cod": 8463,
+     "nome": "APONTADOR FABER C/D ELIPSE-VERMELHO",
+     "marca": "FABER",
+     "preco": 7.9,
+     "img": "produtos/8463.jpg"
+    },
+    {
+     "cod": 5207,
+     "nome": "APONTADOR FABER C/D+BORR-AZUL PASTEL",
+     "marca": "FABER",
+     "preco": 10.9,
+     "img": "produtos/5207.jpg"
+    },
+    {
+     "cod": 7590,
+     "nome": "APONTADOR LEO C/D BLOCO 60-PRETO",
+     "marca": "LEO E LEO",
+     "preco": 1.0,
+     "img": "produtos/7590.jpg"
+    },
+    {
+     "cod": 7547,
+     "nome": "APONTADOR LEO C/D MINI-ROSA",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/7547.jpg"
+    },
+    {
+     "cod": 53,
+     "nome": "APONTADOR FABER C/D TUBO SUBST.",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/53.jpg"
+    },
+    {
+     "cod": 4370,
+     "nome": "APONTADOR LEO C/D JUMBO OVAL-VERDE",
+     "marca": "LEO E LEO",
+     "preco": 2.5,
+     "img": "produtos/4370.jpg"
+    },
+    {
+     "cod": 3190,
+     "nome": "APONTADOR LEO S/D REDONDO-VERDE",
+     "marca": "LEO E LEO",
+     "preco": 0.4,
+     "img": "produtos/3190.jpg"
+    },
+    {
+     "cod": 5212,
+     "nome": "APONTADOR FABER C/D TRADIC.GLITER-VERDE",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/5212.jpg"
+    },
+    {
+     "cod": 3173,
+     "nome": "APONTADOR FABER S/D-PRETO",
+     "marca": "FABER",
+     "preco": 1.8,
+     "img": "produtos/3173.jpg"
+    },
+    {
+     "cod": 7591,
+     "nome": "APONTADOR LEO C/D BLOCO 60-VERDE",
+     "marca": "LEO E LEO",
+     "preco": 1.0,
+     "img": "produtos/7591.jpg"
+    },
+    {
+     "cod": 5209,
+     "nome": "APONTADOR FABER C/D+BORR-VERDE PASTEL",
+     "marca": "FABER",
+     "preco": 10.9,
+     "img": "produtos/5209.jpg"
+    },
+    {
+     "cod": 10278,
+     "nome": "APONTADOR FABER C/D VAI E VEM-ROSA",
+     "marca": "FABER",
+     "preco": 13.9,
+     "img": "produtos/10278.jpg"
+    },
+    {
+     "cod": 7545,
+     "nome": "APONTADOR LEO C/D MINI-AZUL",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/7545.jpg"
+    },
+    {
+     "cod": 3189,
+     "nome": "APONTADOR LEO S/D REDONDO-AZUL",
+     "marca": "LEO E LEO",
+     "preco": 0.4,
+     "img": "produtos/3189.jpg"
+    },
+    {
+     "cod": 10788,
+     "nome": "APONTADOR CIS C/D MINI-ROSA",
+     "marca": "LEO E LEO",
+     "preco": 1.2,
+     "img": "produtos/10788.jpg"
+    },
+    {
+     "cod": 12730,
+     "nome": "BORRACHA TRIS LIGA DA JUSTIÇA",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/12730.jpg"
+    },
+    {
+     "cod": 3174,
+     "nome": "APONTADOR FABER S/D-ROSA",
+     "marca": "FABER",
+     "preco": 1.8,
+     "img": "produtos/3174.jpg"
+    },
+    {
+     "cod": 5216,
+     "nome": "APONTADOR FABER C/D TRADIC.PASTEL-LILAS",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/5216.jpg"
+    },
+    {
+     "cod": 5233,
+     "nome": "APONTADOR LEO C/D BLOCO 40-LARANJA",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/5233.jpg"
+    },
+    {
+     "cod": 3147,
+     "nome": "APONTADOR FABER C/D TRADIC.NEON-ROSA",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/3147.jpg"
+    },
+    {
+     "cod": 7596,
+     "nome": "APONTADOR LEO S/D REDONDO-PRETO",
+     "marca": "LEO E LEO",
+     "preco": 0.4,
+     "img": "produtos/7596.jpg"
+    },
+    {
+     "cod": 56,
+     "nome": "APONTADOR FABER S/D-AZUL",
+     "marca": "FABER",
+     "preco": 1.8,
+     "img": "produtos/56.jpg"
+    },
+    {
+     "cod": 8464,
+     "nome": "APONTADOR FABER C/D ELIPSE-PRETO",
+     "marca": "FABER",
+     "preco": 7.9,
+     "img": "produtos/8464.jpg"
+    },
+    {
+     "cod": 13029,
+     "nome": "APONTADOR FABER C/D UNICORNIO-ROSA",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/13029.jpg"
+    },
+    {
+     "cod": 5232,
+     "nome": "APONTADOR LEO C/D BLOCO 40-AZUL",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/5232.jpg"
+    },
+    {
+     "cod": 11550,
+     "nome": "APONTADOR MAPED C/D CROC (SAPO)",
+     "marca": "MAPED",
+     "preco": 11.9,
+     "img": "produtos/11550.jpg"
+    },
+    {
+     "cod": 3154,
+     "nome": "APONTADOR FABER C/D TRIANGULAR-ROSA",
+     "marca": "FABER",
+     "preco": 4.5,
+     "img": "produtos/3154.jpg"
+    },
+    {
+     "cod": 3155,
+     "nome": "APONTADOR FABER C/D TRIANGULAR-VERDE",
+     "marca": "FABER",
+     "preco": 4.5,
+     "img": "produtos/3155.jpg"
+    },
+    {
+     "cod": 13030,
+     "nome": "APONTADOR FABER C/D UNICORNIO-ROXO",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/13030.jpg"
+    },
+    {
+     "cod": 5236,
+     "nome": "APONTADOR LEO C/D BLOCO 40-ROXO",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/5236.jpg"
+    },
+    {
+     "cod": 7595,
+     "nome": "APONTADOR LEO S/D REDONDO-ROXO",
+     "marca": "LEO E LEO",
+     "preco": 0.4,
+     "img": "produtos/7595.jpg"
+    },
+    {
+     "cod": 13031,
+     "nome": "APONTADOR FABER C/D DINOSSAURO-AZUL",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/13031.jpg"
+    },
+    {
+     "cod": 13032,
+     "nome": "APONTADOR FABER C/D DINOSSAURO-VERDE",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/13032.jpg"
+    },
+    {
+     "cod": 5214,
+     "nome": "APONTADOR FABER C/D TRADIC.GLITER-ROXO",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/5214.jpg"
+    },
+    {
+     "cod": 3175,
+     "nome": "APONTADOR FABER S/D-VERMELHO",
+     "marca": "FABER",
+     "preco": 1.8,
+     "img": "produtos/3175.jpg"
+    },
+    {
+     "cod": 5237,
+     "nome": "APONTADOR LEO C/D BLOCO 40-VERDE",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/5237.jpg"
+    },
+    {
+     "cod": 5234,
+     "nome": "APONTADOR LEO C/D BLOCO 40-PRETO",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/5234.jpg"
+    },
+    {
+     "cod": 3139,
+     "nome": "APONTADOR FABER C/D TRADIC-ROSA",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/3139.jpg"
+    },
+    {
+     "cod": 7594,
+     "nome": "APONTADOR LEO S/D REDONDO-ROSA",
+     "marca": "LEO E LEO",
+     "preco": 0.4,
+     "img": "produtos/7594.jpg"
+    },
+    {
+     "cod": 11538,
+     "nome": "APONTADOR MAPED C/D CROC (HIPOPOTAMO)",
+     "marca": "MAPED",
+     "preco": 15.9,
+     "img": "produtos/11538.jpg"
+    },
+    {
+     "cod": 10786,
+     "nome": "APONTADOR CIS C/D MINI-AZUL",
+     "marca": "LEO E LEO",
+     "preco": 1.2,
+     "img": "produtos/10786.jpg"
+    },
+    {
+     "cod": 4811,
+     "nome": "APONTADOR CIS C/D SPIRO-ROXO",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/4811.jpg"
+    },
+    {
+     "cod": 7093,
+     "nome": "APONTADOR CIS S/D RETANGULAR-ROSA",
+     "marca": "CIS",
+     "preco": 0.65,
+     "img": "produtos/7093.jpg"
+    },
+    {
+     "cod": 7094,
+     "nome": "APONTADOR CIS S/D RETANGULAR-ROXO",
+     "marca": "CIS",
+     "preco": 0.65,
+     "img": "produtos/7094.jpg"
+    },
+    {
+     "cod": 7086,
+     "nome": "APONTADOR CIS S/D-ROSA",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/7086.jpg"
+    },
+    {
+     "cod": 8736,
+     "nome": "APONTADOR FABER C/D POSTER-BRANCO/PRETO",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/8736.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "tnt-e-eva",
+   "nome": "TNT e EVA",
+   "itens": [
+    {
+     "cod": 3060,
+     "nome": "TNT BRANCO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/3060.jpg"
+    },
+    {
+     "cod": 3057,
+     "nome": "TNT AMARELO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/3057.jpg"
+    },
+    {
+     "cod": 3069,
+     "nome": "TNT VERDE BANDEIRA",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3069.jpg"
+    },
+    {
+     "cod": 4206,
+     "nome": "TNT AZUL ROYAL",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/4206.jpg"
+    },
+    {
+     "cod": 3065,
+     "nome": "TNT PRETO",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/3065.jpg"
+    },
+    {
+     "cod": 7000,
+     "nome": "TNT AZUL MARINHO",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/7000.jpg"
+    },
+    {
+     "cod": 3071,
+     "nome": "TNT VERMELHO",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3071.jpg"
+    },
+    {
+     "cod": 3062,
+     "nome": "TNT LARANJA",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/3062.jpg"
+    },
+    {
+     "cod": 3067,
+     "nome": "TNT ROSA PINK",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3067.jpg"
+    },
+    {
+     "cod": 3063,
+     "nome": "TNT LILAS",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3063.jpg"
+    },
+    {
+     "cod": 3058,
+     "nome": "TNT AZUL CLARO/BEBE",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3058.jpg"
+    },
+    {
+     "cod": 3070,
+     "nome": "TNT VERDE CLARO",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3070.jpg"
+    },
+    {
+     "cod": 3064,
+     "nome": "TNT MARROM",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3064.jpg"
+    },
+    {
+     "cod": 6999,
+     "nome": "TNT ROSA CLARO/BEBE",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/6999.jpg"
+    },
+    {
+     "cod": 5066,
+     "nome": "TNT VIOLETA",
+     "marca": "MAKE+",
+     "preco": 1.8,
+     "img": "produtos/5066.jpg"
+    },
+    {
+     "cod": 1238,
+     "nome": "EVA LISO-PRETO",
+     "marca": "MAKE +",
+     "preco": 1.5,
+     "img": "produtos/1238.jpg"
+    },
+    {
+     "cod": 1228,
+     "nome": "EVA LISO-AMARELO",
+     "marca": "LEOARTE",
+     "preco": 1.5,
+     "img": "produtos/1228.jpg"
+    },
+    {
+     "cod": 1233,
+     "nome": "EVA LISO-BRANCO",
+     "marca": "MAKE +",
+     "preco": 1.5,
+     "img": "produtos/1233.jpg"
+    },
+    {
+     "cod": 7675,
+     "nome": "EVA LISO-VERDE ESCURO",
+     "marca": "LEOARTE",
+     "preco": 1.5,
+     "img": "produtos/7675.jpg"
+    },
+    {
+     "cod": 1244,
+     "nome": "EVA LISO-VERMELHO",
+     "marca": "LEO/DUB",
+     "preco": 1.5,
+     "img": "produtos/1244.jpg"
+    },
+    {
+     "cod": 1235,
+     "nome": "EVA LISO-LARANJA",
+     "marca": "MAKE +",
+     "preco": 1.5,
+     "img": "produtos/1235.jpg"
+    },
+    {
+     "cod": 1237,
+     "nome": "EVA LISO-MARROM",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/1237.jpg"
+    },
+    {
+     "cod": 4008,
+     "nome": "EVA LISO-VERDE CLARO",
+     "marca": "LEO/DUB",
+     "preco": 1.5,
+     "img": "produtos/4008.jpg"
+    },
+    {
+     "cod": 1232,
+     "nome": "EVA LISO-BEGE",
+     "marca": "LEO/DUB",
+     "preco": 1.5,
+     "img": "produtos/1232.jpg"
+    },
+    {
+     "cod": 9161,
+     "nome": "EVA LISO-AZUL ROYAL",
+     "marca": "MAKE+",
+     "preco": 1.5,
+     "img": "produtos/9161.jpg"
+    },
+    {
+     "cod": 1230,
+     "nome": "EVA LISO-AZUL CLARO/BEBE",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/1230.jpg"
+    },
+    {
+     "cod": 9160,
+     "nome": "EVA GLITER-LARANJA",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/9160.jpg"
+    },
+    {
+     "cod": 1239,
+     "nome": "EVA LISO-ROSA CLARO/BEBE",
+     "marca": "LEO/DUB",
+     "preco": 1.5,
+     "img": "produtos/1239.jpg"
+    },
+    {
+     "cod": 4829,
+     "nome": "EVA GLITER-AZUL CLARO",
+     "marca": "LEOARTE",
+     "preco": 3.9,
+     "img": "produtos/4829.jpg"
+    },
+    {
+     "cod": 1240,
+     "nome": "EVA LISO-ROSA ESCURO/PINK",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/1240.jpg"
+    },
+    {
+     "cod": 6669,
+     "nome": "EVA LISO-AZUL MARINHO",
+     "marca": "LEO/DUB",
+     "preco": 1.5,
+     "img": "produtos/6669.jpg"
+    },
+    {
+     "cod": 1236,
+     "nome": "EVA LISO-LILAS",
+     "marca": "MAKE+",
+     "preco": 1.5,
+     "img": "produtos/1236.jpg"
+    },
+    {
+     "cod": 4648,
+     "nome": "EVA LISO-ROXO",
+     "marca": "MAKE/LEO",
+     "preco": 1.5,
+     "img": "produtos/4648.jpg"
+    },
+    {
+     "cod": 1231,
+     "nome": "EVA LISO-AZUL ESCURO",
+     "marca": "MAKE+",
+     "preco": 1.5,
+     "img": "produtos/1231.jpg"
+    },
+    {
+     "cod": 8929,
+     "nome": "EVA GLITER-AMARELO",
+     "marca": "MAKE+",
+     "preco": 3.9,
+     "img": "produtos/8929.jpg"
+    },
+    {
+     "cod": 1220,
+     "nome": "EVA GLITER-OURO",
+     "marca": "MAKE +",
+     "preco": 3.9,
+     "img": "produtos/1220.jpg"
+    },
+    {
+     "cod": 1226,
+     "nome": "EVA GLITER-VERMELHO",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/1226.jpg"
+    },
+    {
+     "cod": 1222,
+     "nome": "EVA GLITER-PRETO",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/1222.jpg"
+    },
+    {
+     "cod": 1217,
+     "nome": "EVA GLITER-CORES",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/1217.jpg"
+    },
+    {
+     "cod": 1225,
+     "nome": "EVA GLITER-VERDE BANDEIRA/GRAMA",
+     "marca": "MAKE +",
+     "preco": 3.9,
+     "img": "produtos/1225.jpg"
+    },
+    {
+     "cod": 6665,
+     "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/6665.jpg"
+    },
+    {
+     "cod": 1221,
+     "nome": "EVA GLITER-PRATA",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/1221.jpg"
+    },
+    {
+     "cod": 1223,
+     "nome": "EVA GLITER-ROSA PINK",
+     "marca": "MAKE +",
+     "preco": 3.9,
+     "img": "produtos/1223.jpg"
+    },
+    {
+     "cod": 5366,
+     "nome": "EVA GLITER-VERDE CLARO",
+     "marca": "LEO/DUBFL",
+     "preco": 3.9,
+     "img": "produtos/5366.jpg"
+    },
+    {
+     "cod": 4830,
+     "nome": "EVA GLITER-LILAS",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/4830.jpg"
+    },
+    {
+     "cod": 1219,
+     "nome": "EVA GLITER-MARROM",
+     "marca": "DUBFLEX",
+     "preco": 3.9,
+     "img": "produtos/1219.jpg"
+    },
+    {
+     "cod": 1227,
+     "nome": "EVA GLITER-VIOLETA",
+     "marca": "DUBFLEX",
+     "preco": 3.9,
+     "img": "produtos/1227.jpg"
+    },
+    {
+     "cod": 1216,
+     "nome": "EVA GLITER-AZUL ESCURO",
+     "marca": "LEOARTE",
+     "preco": 3.9,
+     "img": "produtos/1216.jpg"
+    },
+    {
+     "cod": 5367,
+     "nome": "EVA GLITER-COBRE",
+     "marca": "MAKE+",
+     "preco": 3.9,
+     "img": "produtos/5367.jpg"
+    },
+    {
+     "cod": 5371,
+     "nome": "EVA ESPECIAL 3D-ZEBRA",
+     "marca": "MAKE+",
+     "preco": 6.9,
+     "img": "produtos/5371.jpg"
+    },
+    {
+     "cod": 5372,
+     "nome": "EVA ESPECIAL 3D-TIGRE",
+     "marca": "MAKE+",
+     "preco": 6.9,
+     "img": "produtos/5372.jpg"
+    },
+    {
+     "cod": 5360,
+     "nome": "EVA DECORADO-VAQUINHA",
+     "marca": "MAKE+",
+     "preco": 5.5,
+     "img": "produtos/5360.jpg"
+    },
+    {
+     "cod": 1209,
+     "nome": "EVA ATOALHADO-LARANJA",
+     "marca": "MAKE+",
+     "preco": 6.5,
+     "img": "produtos/1209.jpg"
+    },
+    {
+     "cod": 1212,
+     "nome": "EVA ATOALHADO-ROSA CLARO",
+     "marca": "MAKE+",
+     "preco": 6.5,
+     "img": "produtos/1212.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "mochila-infantil",
+   "nome": "Mochila Costas Infantil",
+   "itens": [
+    {
+     "cod": 13678,
+     "nome": "MOCHILA COSTAS CLIO-ALICE PALUCCI AL25089",
+     "marca": "CLIO STYLE",
+     "preco": 236.9,
+     "img": "produtos/13678.jpg"
+    },
+    {
+     "cod": 13377,
+     "nome": "MOCHILA COSTAS CLIO-REBECCA BONBON RB26231",
+     "marca": "CLIO STYLE",
+     "preco": 299.9,
+     "img": "produtos/13377.jpg"
+    },
+    {
+     "cod": 13378,
+     "nome": "MOCHILA COSTAS CLIO-REBECCA BONBON RB26223",
+     "marca": "CLIO STYLE",
+     "preco": 299.0,
+     "img": "produtos/13378.jpg"
+    },
+    {
+     "cod": 13235,
+     "nome": "MOCHILA COSTAS XERYUS (M)-ATLETICO",
+     "marca": "XERYUS",
+     "preco": 149.9,
+     "img": "produtos/13235.jpg"
+    },
+    {
+     "cod": 13244,
+     "nome": "MOCHILA COSTAS XERYUS (M)- TWEEN METALLIC PATCH",
+     "marca": "XERYUS",
+     "preco": 93.9,
+     "img": "produtos/13244.jpg"
+    },
+    {
+     "cod": 12283,
+     "nome": "MOCHILA COSTAS MOLIN-LOVE PINK HEART 40235",
+     "marca": "MOLIN",
+     "preco": 289.0,
+     "img": "produtos/12283.jpg"
+    },
+    {
+     "cod": 13414,
+     "nome": "MOCHILA COSTAS XERYUS - ESPORTIVA REAL MADRID",
+     "marca": "XERYUS",
+     "preco": 199.9,
+     "img": "produtos/13414.jpg"
+    },
+    {
+     "cod": 13413,
+     "nome": "MOCHILA COSTAS XERYUS (G) - COLLEGE CHAMPION",
+     "marca": "XERYUS",
+     "preco": 171.9,
+     "img": "produtos/13413.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "mochila-adulto",
+   "nome": "Mochila Costas Adulto",
+   "itens": [
+    {
+     "cod": 11272,
+     "nome": "MOCHILA COSTAS PAULISTA 2209 CORES",
+     "marca": "LXY",
+     "preco": 129.9,
+     "img": "produtos/11272.jpg"
+    },
+    {
+     "cod": 10968,
+     "nome": "MOCHILA COSTAS PAULISTA PH2026/18-7",
+     "marca": "MMP",
+     "preco": 149.9,
+     "img": "produtos/10968.jpg"
+    },
+    {
+     "cod": 10951,
+     "nome": "MOCHILA COSTAS PAULISTA RC 9822",
+     "marca": "XINRUIQI",
+     "preco": 119.9,
+     "img": "produtos/10951.jpg"
+    },
+    {
+     "cod": 10969,
+     "nome": "MOCHILA COSTAS PAULISTA S9017 CORES",
+     "marca": "BOMAGBOY",
+     "preco": 229.9,
+     "img": "produtos/10969.jpg"
+    },
+    {
+     "cod": 10957,
+     "nome": "MOCHILA COSTAS PAULISTA XCX-610 CORES",
+     "marca": "XINRUIQI",
+     "preco": 79.9,
+     "img": "produtos/10957.jpg"
+    },
+    {
+     "cod": 10961,
+     "nome": "MOCHILA COSTAS PAULISTA 1017 CORES (C/TRAVA SEGURANÇA)",
+     "marca": "RUIGESHI",
+     "preco": 189.9,
+     "img": "produtos/10961.jpg"
+    },
+    {
+     "cod": 10955,
+     "nome": "MOCHILA COSTAS PAULISTA FA-2403 CORES",
+     "marca": "BOMAGBOY",
+     "preco": 199.9,
+     "img": "produtos/10955.jpg"
+    },
+    {
+     "cod": 11273,
+     "nome": "MOCHILA COSTAS PAULISTA GRANULADO 19-3 CORES",
+     "marca": "KIMTINO",
+     "preco": 109.9,
+     "img": "produtos/11273.jpg"
+    },
+    {
+     "cod": 10956,
+     "nome": "MOCHILA COSTAS PAULISTA A27 (C/CAPA DE CHUVA)",
+     "marca": "KLWAIN",
+     "preco": 219.9,
+     "img": "produtos/10956.jpg"
+    },
+    {
+     "cod": 10950,
+     "nome": "MOCHILA COSTAS PAULISTA J2723/2726-CORES",
+     "marca": "PHOENIX",
+     "preco": 159.9,
+     "img": "produtos/10950.jpg"
+    },
+    {
+     "cod": 8960,
+     "nome": "MOCHILA CARTEIRO EXECUTIVA LUXCEL-PRETO (EX20078PK-PT)",
+     "marca": "LUXCEL",
+     "preco": 289.9,
+     "img": "produtos/8960.jpg"
+    },
+    {
+     "cod": 11325,
+     "nome": "MOCHILA COSTAS XERYUS SELF LOVE-14365",
+     "marca": "XERYUS",
+     "preco": 169.9,
+     "img": "produtos/11325.jpg"
+    },
+    {
+     "cod": 3559,
+     "nome": "MOCHILA MJ10533 SEANITE",
+     "marca": "SEANITE",
+     "preco": 69.9,
+     "img": "produtos/3559.jpg"
+    },
+    {
+     "cod": 3562,
+     "nome": "MOCHILA MJ10538 SEANITE",
+     "marca": "SEANITE",
+     "preco": 69.9,
+     "img": "produtos/3562.jpg"
+    },
+    {
+     "cod": 3566,
+     "nome": "MOCHILA MJ10550 SEANITE",
+     "marca": "SEANITE",
+     "preco": 95.9,
+     "img": "produtos/3566.jpg"
+    },
+    {
+     "cod": 3567,
+     "nome": "MOCHILA MJ10551 SEANITE",
+     "marca": "SEANITE",
+     "preco": 95.9,
+     "img": "produtos/3567.jpg"
+    },
+    {
+     "cod": 13237,
+     "nome": "MOCHILA COSTAS XERYUS (G)- ESPORTIVA ATLETICO",
+     "marca": "XERYUS",
+     "preco": 189.9,
+     "img": "produtos/13237.jpg"
+    },
+    {
+     "cod": 13247,
+     "nome": "MOCHILA COSTAS XERYUS (G)-ESPORTIVA QUIKSILVER PRETO",
+     "marca": "XERYUS",
+     "preco": 281.9,
+     "img": "produtos/13247.jpg"
+    },
+    {
+     "cod": 13292,
+     "nome": "MOCHILA COSTAS XERYUS (G)-TEEN COTELE MAUVE",
+     "marca": "XERYUS",
+     "preco": 168.94,
+     "img": "produtos/13292.jpg"
+    },
+    {
+     "cod": 13269,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD VERDE (MS50241LD-VD)",
+     "marca": "LUXCEL",
+     "preco": 159.9,
+     "img": "produtos/13269.jpg"
+    },
+    {
+     "cod": 12250,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-POLO KING PRETO (MN54134PK-PT)",
+     "marca": "LUXCEL",
+     "preco": 146.9,
+     "img": "produtos/12250.jpg"
+    },
+    {
+     "cod": 13457,
+     "nome": "MOCHILA COSTAS XERYUS (G)-COTELE KAKHI 16120",
+     "marca": "XERYUS",
+     "preco": 162.9,
+     "img": "produtos/13457.jpg"
+    },
+    {
+     "cod": 13240,
+     "nome": "MOCHILA COSTAS XERYUS (G)-ESPORTIVA DC PRETO",
+     "marca": "XERYUS",
+     "preco": 159.9,
+     "img": "produtos/13240.jpg"
+    },
+    {
+     "cod": 13669,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD PRETO (MS50232LD-PT)",
+     "marca": "LUXCEL",
+     "preco": 139.9,
+     "img": "produtos/13669.jpg"
+    },
+    {
+     "cod": 13275,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD PRETO (MS50234LD-PT)",
+     "marca": "LUXCEL",
+     "preco": 154.9,
+     "img": "produtos/13275.jpg"
+    },
+    {
+     "cod": 13668,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD VERDE (MS50232LD-VD)",
+     "marca": "LUXCEL",
+     "preco": 139.9,
+     "img": "produtos/13668.jpg"
+    },
+    {
+     "cod": 12253,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-POLO KING PRETO (MN541181PK-PT)",
+     "marca": "LUXCEL",
+     "preco": 244.9,
+     "img": "produtos/12253.jpg"
+    },
+    {
+     "cod": 13400,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-UP4YOU AZUL (MS49506UP-AZ)",
+     "marca": "LUXCEL",
+     "preco": 171.9,
+     "img": "produtos/13400.jpg"
+    },
+    {
+     "cod": 13527,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-UP4YOU TURQUESA (MS49661UP-TQ)",
+     "marca": "LUXCEL",
+     "preco": 259.9,
+     "img": "produtos/13527.jpg"
+    },
+    {
+     "cod": 13277,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD CINZA (MS50234LD-CZ)",
+     "marca": "LUXCEL",
+     "preco": 154.9,
+     "img": "produtos/13277.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "maletas-carrinhos",
+   "nome": "Maletas e Carrinhos",
+   "itens": [
+    {
+     "cod": 13660,
+     "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA CANINA AZUL (IC42032PA-AZ)",
+     "marca": "LUXCEL",
+     "preco": 290.0,
+     "img": "produtos/13660.jpg"
+    },
+    {
+     "cod": 13659,
+     "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA CANINA ROSA (IC42032PA-RA)",
+     "marca": "LUXCEL",
+     "preco": 379.9,
+     "img": "produtos/13659.jpg"
+    },
+    {
+     "cod": 13410,
+     "nome": "MOCHILA CARRINHO XERYUS (M) - PATRULHA CANINA SKYE",
+     "marca": "XERYUS",
+     "preco": 378.9,
+     "img": "produtos/13410.jpg"
+    },
+    {
+     "cod": 13356,
+     "nome": "MOCHILA MALA LUXCEL-STITCH AZUL (MF10533SC-AZ)",
+     "marca": "LUXCEL",
+     "preco": 652.9,
+     "img": "produtos/13356.jpg"
+    },
+    {
+     "cod": 13358,
+     "nome": "MOCHILA MALA LUXCEL-STITCH ROSA (MF10534SC-RA)",
+     "marca": "LUXCEL",
+     "preco": 652.9,
+     "img": "produtos/13358.jpg"
+    },
+    {
+     "cod": 1884,
+     "nome": "MOCHILA CARRINHO DERMIWIL-CARROS 37333",
+     "marca": "DERMIWIL",
+     "preco": 329.9,
+     "img": "produtos/1884.jpg"
+    },
+    {
+     "cod": 6030,
+     "nome": "MOCHILA CARRINHO SEANITE MR40048-SUPER SPIDER",
+     "marca": "SEANITE",
+     "preco": 139.0,
+     "img": "produtos/6030.jpg"
+    },
+    {
+     "cod": 6032,
+     "nome": "MOCHILA CARRINHO SEANITE MR40156-DINOSSAURO",
+     "marca": "SEANITE",
+     "preco": 139.0,
+     "img": "produtos/6032.jpg"
+    },
+    {
+     "cod": 8981,
+     "nome": "SACOLA VIAGEM LUXCEL (M)-PRETO SA17092",
+     "marca": "LUXCEL",
+     "preco": 89.9,
+     "img": "produtos/8981.jpg"
+    },
+    {
+     "cod": 8975,
+     "nome": "SACOLA VIAGEM LUXCEL-AZUL SA17105",
+     "marca": "LUXCEL",
+     "preco": 115.9,
+     "img": "produtos/8975.jpg"
+    },
+    {
+     "cod": 8972,
+     "nome": "SACOLA VIAGEM LUXCEL-ROSE SA17105",
+     "marca": "LUXCEL",
+     "preco": 115.9,
+     "img": "produtos/8972.jpg"
+    },
+    {
+     "cod": 8974,
+     "nome": "SACOLA VIAGEM LUXCEL-VINHO SA17105",
+     "marca": "LUXCEL",
+     "preco": 115.9,
+     "img": "produtos/8974.jpg"
+    },
+    {
+     "cod": 5947,
+     "nome": "MOCHILA CARRINHO MT (G)-PATRULHA CANINA ROSA",
+     "marca": "MT KIDS",
+     "preco": 199.9,
+     "img": "produtos/5947.jpg"
+    },
+    {
+     "cod": 6166,
+     "nome": "MOCHILA CARRINHO MT (G)-BARBIE ROSA",
+     "marca": "MT KIDS",
+     "preco": 199.9,
+     "img": "produtos/6166.jpg"
+    },
+    {
+     "cod": 10835,
+     "nome": "MOCHILA CARRINHO MT (G)-STITCH LILAS",
+     "marca": "MT KIDS",
+     "preco": 199.9,
+     "img": "produtos/10835.jpg"
+    },
+    {
+     "cod": 7943,
+     "nome": "MOCHILA CARRINHO MT (G)-UNICORNIO",
+     "marca": "MT KIDS",
+     "preco": 199.9,
+     "img": "produtos/7943.jpg"
+    },
+    {
+     "cod": 13078,
+     "nome": "MOCHILA CARRINHO MT (G)-BARBIE JEANS",
+     "marca": "MT KIDS",
+     "preco": 199.9,
+     "img": "produtos/13078.jpg"
+    },
+    {
+     "cod": 10837,
+     "nome": "MOCHILA CARRINHO MT (G)-DIVERTIDAMENTE ROSA",
+     "marca": "MT KIDS",
+     "preco": 189.9,
+     "img": "produtos/10837.jpg"
+    },
+    {
+     "cod": 11560,
+     "nome": "MOCHILA CARRINHO (G) LUXCEL-BARBIE ROSA (IC41432BB-RA)",
+     "marca": "LUXCEL",
+     "preco": 162.9,
+     "img": "produtos/11560.jpg"
+    },
+    {
+     "cod": 10838,
+     "nome": "MOCHILA CARRINHO MT (G)-LULUCA",
+     "marca": "MT KIDS",
+     "preco": 189.9,
+     "img": "produtos/10838.jpg"
+    },
+    {
+     "cod": 11047,
+     "nome": "MOCHILA CARRINHO SESTINI (G)-CRUSH PRETO 075894-01",
+     "marca": "SESTINI",
+     "preco": 529.9,
+     "img": "produtos/11047.jpg"
+    },
+    {
+     "cod": 8982,
+     "nome": "SACOLA VIAGEM LUXCEL (G)-PRETO SA17092",
+     "marca": "LUXCEL",
+     "preco": 115.9,
+     "img": "produtos/8982.jpg"
+    },
+    {
+     "cod": 13228,
+     "nome": "MOCHILA CARRINHO XERYUS (P)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 324.9,
+     "img": "produtos/13228.jpg"
+    },
+    {
+     "cod": 12572,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-MICKEY Y-11620",
+     "marca": "XERYUS",
+     "preco": 101.9,
+     "img": "produtos/12572.jpg"
+    },
+    {
+     "cod": 8304,
+     "nome": "LANCHEIRA XERYUS-GUARDIOES DA GALAXIA X",
+     "marca": "XERYUS",
+     "preco": 119.9,
+     "img": "produtos/8304.jpg"
+    },
+    {
+     "cod": 11190,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-COALA 13670",
+     "marca": "XERYUS",
+     "preco": 109.9,
+     "img": "produtos/11190.jpg"
+    },
+    {
+     "cod": 11183,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-GATO 13690",
+     "marca": "XERYUS",
+     "preco": 149.9,
+     "img": "produtos/11183.jpg"
+    },
+    {
+     "cod": 11235,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-MARIE X-13250",
+     "marca": "XERYUS",
+     "preco": 199.9,
+     "img": "produtos/11235.jpg"
+    },
+    {
+     "cod": 13190,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 356.9,
+     "img": "produtos/13190.jpg"
+    },
+    {
+     "cod": 13199,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 375.9,
+     "img": "produtos/13199.jpg"
+    },
+    {
+     "cod": 12259,
+     "nome": "MOCHILA MALA LUXCEL-GASH PRETO (MF10518GA-PT)",
+     "marca": "LUXCEL",
+     "preco": 618.9,
+     "img": "produtos/12259.jpg"
+    },
+    {
+     "cod": 12260,
+     "nome": "MOCHILA MALA LUXCEL-GASH VIOLETA (MF10518GA-VL)",
+     "marca": "LUXCEL",
+     "preco": 618.9,
+     "img": "produtos/12260.jpg"
     }
    ]
   }
