@@ -9,70 +9,70 @@
      "nome": "CANETA BIC CRISTAL-AZUL",
      "marca": "BIC",
      "preco": 1.3,
-     "img": "produtos/552.jpg"
+     "img": null
     },
     {
      "cod": 553,
      "nome": "CANETA BIC CRISTAL-PRETA",
      "marca": "BIC",
      "preco": 1.3,
-     "img": "produtos/553.jpg"
+     "img": null
     },
     {
      "cod": 555,
      "nome": "CANETA BIC FINE PLUS-AZUL",
      "marca": "BIC",
      "preco": 1.5,
-     "img": "produtos/555.jpg"
+     "img": null
     },
     {
      "cod": 9369,
      "nome": "CANETA JOCAR 1.0-AZUL",
      "marca": "JOCAR",
      "preco": 1.0,
-     "img": "produtos/9369.jpg"
+     "img": null
     },
     {
      "cod": 554,
      "nome": "CANETA BIC CRISTAL-VERMELHA",
      "marca": "BIC",
      "preco": 1.3,
-     "img": "produtos/554.jpg"
-    },
-    {
-     "cod": 9370,
-     "nome": "CANETA JOCAR 1.0-PRETA",
-     "marca": "JOCAR",
-     "preco": 1.0,
-     "img": "produtos/9370.jpg"
+     "img": null
     },
     {
      "cod": 562,
      "nome": "CANETA CIS SPIRO-AZUL ESCURO",
      "marca": "CIS",
      "preco": 4.5,
-     "img": "produtos/562.jpg"
+     "img": null
+    },
+    {
+     "cod": 9370,
+     "nome": "CANETA JOCAR 1.0-PRETA",
+     "marca": "JOCAR",
+     "preco": 1.0,
+     "img": null
     },
     {
      "cod": 569,
      "nome": "CANETA COMPACTOR-AZUL",
      "marca": "COMPACTOR",
      "preco": 1.5,
-     "img": "produtos/569.jpg"
+     "img": null
     },
     {
      "cod": 565,
      "nome": "CANETA CIS SPIRO-PRETA",
      "marca": "CIS",
      "preco": 4.5,
-     "img": "produtos/565.jpg"
+     "img": null
     },
     {
      "cod": 556,
      "nome": "CANETA BIC FINE PLUS-PRETA",
      "marca": "BIC",
      "preco": 1.5,
-     "img": "produtos/556.jpg"
+     "img": null
     },
     {
      "cod": 9371,
@@ -229,6 +229,13 @@
      "img": "produtos/576.jpg"
     },
     {
+     "cod": 8823,
+     "nome": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
+     "marca": "BRW",
+     "preco": 14.9,
+     "img": "produtos/8823.jpg"
+    },
+    {
      "cod": 548,
      "nome": "CANETA BIC 4 CORES (RETRATIL)",
      "marca": "BIC",
@@ -248,13 +255,6 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/625.jpg"
-    },
-    {
-     "cod": 8823,
-     "nome": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
-     "marca": "BRW",
-     "preco": 14.9,
-     "img": "produtos/8823.jpg"
     },
     {
      "cod": 550,
@@ -4259,70 +4259,70 @@
      "nome": "CADERNO 1X1 80F-MY COLLECTION FEMININO",
      "marca": "CREDEAL",
      "preco": 8.9,
-     "img": "produtos/9329.jpg"
+     "img": null
     },
     {
      "cod": 9324,
      "nome": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
      "marca": "CREDEAL",
      "preco": 9.9,
-     "img": "produtos/9324.jpg"
+     "img": null
     },
     {
      "cod": 10903,
      "nome": "CADERNO 10X1 160F-ESSENCIALE (CORES)",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": "produtos/10903.jpg"
+     "img": null
     },
     {
      "cod": 8142,
      "nome": "CADERNO 1X1 80F-BOM D+ FEMININO",
      "marca": "SD",
      "preco": 11.9,
-     "img": "produtos/8142.jpg"
+     "img": null
     },
     {
      "cod": 8149,
      "nome": "CADERNO 1X1 80F-BOM D+ MASCULINO",
      "marca": "SD",
      "preco": 11.9,
-     "img": "produtos/8149.jpg"
+     "img": null
     },
     {
      "cod": 8255,
      "nome": "CADERNO 10X1 160F-ESSENCIALE PRETO",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": "produtos/8255.jpg"
+     "img": null
     },
     {
      "cod": 12407,
      "nome": "CADERNO CD 80F-SUPER CARS",
      "marca": "CREDEAL",
      "preco": 12.9,
-     "img": "produtos/12407.jpg"
+     "img": null
     },
     {
      "cod": 8244,
      "nome": "CADERNO CD 96F-FOXY KIDS",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": "produtos/8244.jpg"
+     "img": null
     },
     {
      "cod": 8246,
      "nome": "CADERNO CD 80F-LALA PETS",
      "marca": "CREDEAL",
      "preco": 12.9,
-     "img": "produtos/8246.jpg"
+     "img": null
     },
     {
      "cod": 12405,
      "nome": "CADERNO CD 80F-TURMA DA LALA",
      "marca": "CREDEAL",
      "preco": 10.9,
-     "img": "produtos/12405.jpg"
+     "img": null
     },
     {
      "cod": 11432,
@@ -4472,6 +4472,13 @@
      "img": "produtos/12761.jpg"
     },
     {
+     "cod": 11428,
+     "nome": "CADERNO 1X1 80F-CONNECT",
+     "marca": "CREDEAL",
+     "preco": 14.9,
+     "img": "produtos/11428.jpg"
+    },
+    {
      "cod": 8245,
      "nome": "CADERNO CD 80F-ARCO IRIS",
      "marca": "CREDEAL",
@@ -4484,13 +4491,6 @@
      "marca": "SD",
      "preco": 19.9,
      "img": "produtos/13218.jpg"
-    },
-    {
-     "cod": 11428,
-     "nome": "CADERNO 1X1 80F-CONNECT",
-     "marca": "CREDEAL",
-     "preco": 14.9,
-     "img": "produtos/11428.jpg"
     },
     {
      "cod": 5840,
@@ -6772,6 +6772,1218 @@
      "marca": "BACCHI",
      "preco": 10.9,
      "img": "produtos/5242.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "calculadora",
+   "nome": "Calculadora",
+   "itens": [
+    {
+     "cod": 14109,
+     "nome": "CALCULADORA (P) BOLSO LT-BASIC (PILHA) (8 DIGITOS)",
+     "marca": "LETRON",
+     "preco": 10.9,
+     "img": "produtos/14109.jpg"
+    },
+    {
+     "cod": 5826,
+     "nome": "CALCULADORA (P) MJ-1108-2 (BATERIA) (8 DIGITOS)",
+     "marca": "MOURE JAR",
+     "preco": 19.9,
+     "img": "produtos/5826.jpg"
+    },
+    {
+     "cod": 5010,
+     "nome": "CALCULADORA (P) MJ-C615 (BATERIA) (8 DIGITOS)",
+     "marca": "MOURE JAR",
+     "preco": 28.9,
+     "img": "produtos/5010.jpg"
+    },
+    {
+     "cod": 13997,
+     "nome": "CALCULADORA (P) AL-1600A (BATERIA) (8 DIGITOS)",
+     "marca": "ALFACELL",
+     "preco": 18.9,
+     "img": "produtos/13997.jpg"
+    },
+    {
+     "cod": 11794,
+     "nome": "CALCULADORA (P) C/CORDÃO (BATERIA) (8 DIGITOS)",
+     "marca": "LETRON",
+     "preco": 16.9,
+     "img": "produtos/11794.jpg"
+    },
+    {
+     "cod": 6914,
+     "nome": "CALCULADORA (M) MJ-8985A (BATERIA) (8 DIGITOS)",
+     "marca": "MOURE JAR",
+     "preco": 24.9,
+     "img": "produtos/6914.jpg"
+    },
+    {
+     "cod": 509,
+     "nome": "CALCULADORA (M) AL-3788A (PILHA) (8 DIGITOS)",
+     "marca": "MJ/ALFACEL",
+     "preco": 34.9,
+     "img": "produtos/509.jpg"
+    },
+    {
+     "cod": 13845,
+     "nome": "CALCULADORA (M) MJ-828A (PILHA) (8 DIGITOS)",
+     "marca": "MOURE JAR",
+     "preco": 21.9,
+     "img": "produtos/13845.jpg"
+    },
+    {
+     "cod": 14110,
+     "nome": "CALCULADORA (M) LT-OFFICE (BATERIA) (8 DIGITOS)",
+     "marca": "LETRON",
+     "preco": 18.9,
+     "img": "produtos/14110.jpg"
+    },
+    {
+     "cod": 6519,
+     "nome": "CALCULADORA (M) MJ/AL-8837B (PILHA) (12 DIGITOS)",
+     "marca": "M.JAR/ALFA",
+     "preco": 30.9,
+     "img": "produtos/6519.jpg"
+    },
+    {
+     "cod": 3283,
+     "nome": "CALCULADORA (M) MJ-837B (PILHA) (12 DIGITOS)",
+     "marca": "MOURE JAR",
+     "preco": 25.9,
+     "img": "produtos/3283.jpg"
+    },
+    {
+     "cod": 8405,
+     "nome": "CALCULADORA (M) EC8101-12 (PILHA) (12 DIGITOS)",
+     "marca": "ECOODA",
+     "preco": 40.9,
+     "img": "produtos/8405.jpg"
+    },
+    {
+     "cod": 12624,
+     "nome": "CALCULADORA (M) LT-NEO (PILHA) (12 DIGITOS)",
+     "marca": "LETRON",
+     "preco": 36.9,
+     "img": "produtos/12624.jpg"
+    },
+    {
+     "cod": 508,
+     "nome": "CALCULADORA (G) MJ-3032A (BATERIA) (8 DIGITOS)",
+     "marca": "MOURE JAR",
+     "preco": 24.9,
+     "img": "produtos/508.jpg"
+    },
+    {
+     "cod": 13999,
+     "nome": "CALCULADORA (G) AL-9835 (PILHA) (8 DIGITOS)",
+     "marca": "ALFACELL",
+     "preco": 24.9,
+     "img": "produtos/13999.jpg"
+    },
+    {
+     "cod": 13998,
+     "nome": "CALCULADORA (G) AL-3853B (BATERIA) (12 DIGITOS)",
+     "marca": "ALFACELL",
+     "preco": 36.9,
+     "img": "produtos/13998.jpg"
+    },
+    {
+     "cod": 9559,
+     "nome": "CALCULADORA (M) CCD-9918-LN",
+     "marca": "CLASSE",
+     "preco": 28.9,
+     "img": "produtos/9559.jpg"
+    },
+    {
+     "cod": 3266,
+     "nome": "CALCULADORA (M) MJ-800A (PILHA) (8 DIGITOS)",
+     "marca": "KK/MOURE J",
+     "preco": 24.9,
+     "img": "produtos/3266.jpg"
+    },
+    {
+     "cod": 494,
+     "nome": "CALCULADORA HR100 ELETRONICA",
+     "marca": "CASIO",
+     "preco": 499.9,
+     "img": "produtos/494.jpg"
+    },
+    {
+     "cod": 495,
+     "nome": "CALCULADORA HR150 ELETRONICA",
+     "marca": "CASIO",
+     "preco": 552.9,
+     "img": "produtos/495.jpg"
+    },
+    {
+     "cod": 10235,
+     "nome": "CALCULADORA (M) CIENTIFICA LT-MULTI (PILHA) (12 DIGITOS)",
+     "marca": "LETRON",
+     "preco": 36.9,
+     "img": "produtos/10235.jpg"
+    },
+    {
+     "cod": 9083,
+     "nome": "CALCULADORA (M) CIENTIFICA MJ-350MS-2 (BAT) (10 DIG)",
+     "marca": "MOURE JAR",
+     "preco": 25.9,
+     "img": "produtos/9083.jpg"
+    },
+    {
+     "cod": 2664,
+     "nome": "ROLETE IR 40T",
+     "marca": "",
+     "preco": 8.9,
+     "img": "produtos/2664.jpg"
+    },
+    {
+     "cod": 2667,
+     "nome": "ROLETE OPEN C8/P6 (OPEN) INK ROLLER",
+     "marca": "INK ROLLER",
+     "preco": 20.9,
+     "img": "produtos/2667.jpg"
+    },
+    {
+     "cod": 2665,
+     "nome": "ROLETE MX5500/M14-INK ROLLER",
+     "marca": "INK ROLLER",
+     "preco": 20.9,
+     "img": "produtos/2665.jpg"
+    },
+    {
+     "cod": 2666,
+     "nome": "ROLETE JOLLY",
+     "marca": "INK ROLLER",
+     "preco": 20.9,
+     "img": "produtos/2666.jpg"
+    },
+    {
+     "cod": 3443,
+     "nome": "FITA MAQUINA CALCULAR",
+     "marca": "",
+     "preco": 6.9,
+     "img": "produtos/3443.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "cola",
+   "nome": "Cola",
+   "itens": [
+    {
+     "cod": 3965,
+     "nome": "COLA BASTAO 8GR-BIC",
+     "marca": "BIC",
+     "preco": 5.9,
+     "img": "produtos/3965.jpg"
+    },
+    {
+     "cod": 3970,
+     "nome": "COLA BASTAO 8GR-SCOTCH",
+     "marca": "SCOTCH",
+     "preco": 6.9,
+     "img": "produtos/3970.jpg"
+    },
+    {
+     "cod": 808,
+     "nome": "COLA BASTAO 10GR-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 1.3,
+     "img": "produtos/808.jpg"
+    },
+    {
+     "cod": 805,
+     "nome": "COLA BASTAO 10GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 5.5,
+     "img": "produtos/805.jpg"
+    },
+    {
+     "cod": 807,
+     "nome": "COLA BASTAO 10GR-PRITT",
+     "marca": "PRITT",
+     "preco": 10.9,
+     "img": "produtos/807.jpg"
+    },
+    {
+     "cod": 7689,
+     "nome": "COLA BASTAO 20GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/7689.jpg"
+    },
+    {
+     "cod": 811,
+     "nome": "COLA BASTAO 20GR-PRITT",
+     "marca": "PRITT",
+     "preco": 16.9,
+     "img": "produtos/811.jpg"
+    },
+    {
+     "cod": 9042,
+     "nome": "COLA BASTAO 20GR-SCOTCH",
+     "marca": "SCOTCH",
+     "preco": 13.9,
+     "img": "produtos/9042.jpg"
+    },
+    {
+     "cod": 812,
+     "nome": "COLA BASTAO 21GR-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 3.5,
+     "img": "produtos/812.jpg"
+    },
+    {
+     "cod": 9047,
+     "nome": "COLA BASTAO 36GR-BIC",
+     "marca": "BIC",
+     "preco": 15.9,
+     "img": "produtos/9047.jpg"
+    },
+    {
+     "cod": 813,
+     "nome": "COLA BASTAO 40GR-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 5.5,
+     "img": "produtos/813.jpg"
+    },
+    {
+     "cod": 7690,
+     "nome": "COLA BASTAO 40GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 14.9,
+     "img": "produtos/7690.jpg"
+    },
+    {
+     "cod": 814,
+     "nome": "COLA BASTAO 40GR-PRITT",
+     "marca": "PRITT",
+     "preco": 24.9,
+     "img": "produtos/814.jpg"
+    },
+    {
+     "cod": 9043,
+     "nome": "COLA BASTAO 40GR-SCOTCH",
+     "marca": "SCOTCH",
+     "preco": 24.9,
+     "img": "produtos/9043.jpg"
+    },
+    {
+     "cod": 11622,
+     "nome": "COLA BASTAO 40GR-MARIPEL",
+     "marca": "MARIPEL",
+     "preco": 4.9,
+     "img": "produtos/11622.jpg"
+    },
+    {
+     "cod": 816,
+     "nome": "COLA LIQUIDA 35GR-PRITT",
+     "marca": "PRITT",
+     "preco": 6.9,
+     "img": "produtos/816.jpg"
+    },
+    {
+     "cod": 3318,
+     "nome": "COLA LIQUIDA 40GR-NEW MAGIC",
+     "marca": "NEW MAGIC",
+     "preco": 2.0,
+     "img": "produtos/3318.jpg"
+    },
+    {
+     "cod": 822,
+     "nome": "COLA LIQUIDA 90GR-NEW MAGIC",
+     "marca": "NEW MAGIC",
+     "preco": 2.9,
+     "img": "produtos/822.jpg"
+    },
+    {
+     "cod": 815,
+     "nome": "COLA LIQUIDA 110GR-PRITT",
+     "marca": "PRITT",
+     "preco": 12.9,
+     "img": "produtos/815.jpg"
+    },
+    {
+     "cod": 819,
+     "nome": "COLA LIQUIDA 500GR-NEW MAGIC",
+     "marca": "NEW MAGIC",
+     "preco": 12.9,
+     "img": "produtos/819.jpg"
+    },
+    {
+     "cod": 818,
+     "nome": "COLA LIQUIDA 500GR-CASCOREZ",
+     "marca": "CASCOREZ",
+     "preco": 28.9,
+     "img": "produtos/818.jpg"
+    },
+    {
+     "cod": 12625,
+     "nome": "COLA LIQUIDA 500GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 22.9,
+     "img": "produtos/12625.jpg"
+    },
+    {
+     "cod": 7672,
+     "nome": "COLA LIQUIDA 500GR-MAKE +",
+     "marca": "MAKE+",
+     "preco": 12.9,
+     "img": "produtos/7672.jpg"
+    },
+    {
+     "cod": 825,
+     "nome": "COLA LIQUIDA 1000GR-NEW MAGIC",
+     "marca": "NEW MAGIC",
+     "preco": 23.9,
+     "img": "produtos/825.jpg"
+    },
+    {
+     "cod": 823,
+     "nome": "COLA LIQUIDA 1000GR-CASCOREZ",
+     "marca": "CASCOREZ",
+     "preco": 53.9,
+     "img": "produtos/823.jpg"
+    },
+    {
+     "cod": 12640,
+     "nome": "COLA LIQUIDA 1000GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 34.9,
+     "img": "produtos/12640.jpg"
+    },
+    {
+     "cod": 12735,
+     "nome": "COLA TRANSPARENTE 70G ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 5.9,
+     "img": "produtos/12735.jpg"
+    },
+    {
+     "cod": 6275,
+     "nome": "COLA TRANSPARENTE 500GR ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 23.9,
+     "img": "produtos/6275.jpg"
+    },
+    {
+     "cod": 12734,
+     "nome": "COLA TRANSPARENTE 1000GR ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 36.9,
+     "img": "produtos/12734.jpg"
+    },
+    {
+     "cod": 4048,
+     "nome": "COLA THREE BOND 2GR",
+     "marca": "THREE BOND",
+     "preco": 2.2,
+     "img": "produtos/4048.jpg"
+    },
+    {
+     "cod": 848,
+     "nome": "COLA SUPER BONDER 3GR (ORIGINAL)",
+     "marca": "S. BONDER",
+     "preco": 8.9,
+     "img": "produtos/848.jpg"
+    },
+    {
+     "cod": 4049,
+     "nome": "COLA SUPER BONDER 5GR (PRECISAO)",
+     "marca": "LOCTITE",
+     "preco": 12.9,
+     "img": "produtos/4049.jpg"
+    },
+    {
+     "cod": 845,
+     "nome": "COLA INST 793 20GR-TEKBOND",
+     "marca": "TEKBOND",
+     "preco": 15.9,
+     "img": "produtos/845.jpg"
+    },
+    {
+     "cod": 844,
+     "nome": "COLA INST 725 20GR-TEKBOND",
+     "marca": "TEKBOND",
+     "preco": 12.9,
+     "img": "produtos/844.jpg"
+    },
+    {
+     "cod": 4930,
+     "nome": "COLA INST 200 20GR-TEKBOND",
+     "marca": "TEKBOND",
+     "preco": 14.9,
+     "img": "produtos/4930.jpg"
+    },
+    {
+     "cod": 7159,
+     "nome": "COLA INST 20GR-ALMASUPER",
+     "marca": "ALMASUPER",
+     "preco": 9.9,
+     "img": "produtos/7159.jpg"
+    },
+    {
+     "cod": 846,
+     "nome": "COLA INST COURO 20GR-TEKBOND",
+     "marca": "TEKBOND",
+     "preco": 12.9,
+     "img": "produtos/846.jpg"
+    },
+    {
+     "cod": 9819,
+     "nome": "KIT COLA ALMASUPER MDF",
+     "marca": "ALMASUPER",
+     "preco": 54.9,
+     "img": "produtos/9819.jpg"
+    },
+    {
+     "cod": 835,
+     "nome": "COLA GLITTER OURO 23GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 3.9,
+     "img": "produtos/835.jpg"
+    },
+    {
+     "cod": 834,
+     "nome": "COLA GLITTER AZUL 23GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 3.9,
+     "img": "produtos/834.jpg"
+    },
+    {
+     "cod": 836,
+     "nome": "COLA GLITTER PRATA 23GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 3.9,
+     "img": "produtos/836.jpg"
+    },
+    {
+     "cod": 837,
+     "nome": "COLA GLITTER VERMELHA 23GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 3.9,
+     "img": "produtos/837.jpg"
+    },
+    {
+     "cod": 7704,
+     "nome": "COLA GLITTER VERDE 23GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 3.9,
+     "img": "produtos/7704.jpg"
+    },
+    {
+     "cod": 9105,
+     "nome": "COLA GLITER 23G C/6 ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 22.9,
+     "img": "produtos/9105.jpg"
+    },
+    {
+     "cod": 11623,
+     "nome": "COLA GLITER 25G C/6 MARIPEL",
+     "marca": "MARIPEL",
+     "preco": 12.9,
+     "img": "produtos/11623.jpg"
+    },
+    {
+     "cod": 3363,
+     "nome": "DIMENSIONAL BRILHANT-VERDE MUSGO(35ML)",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/3363.jpg"
+    },
+    {
+     "cod": 3366,
+     "nome": "DIMENSIONAL BRILLIANT-AMARELO OURO (35ML)",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/3366.jpg"
+    },
+    {
+     "cod": 3362,
+     "nome": "DIMENSIONAL BRILLIANT-PRETO (35ML)",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/3362.jpg"
+    },
+    {
+     "cod": 3321,
+     "nome": "COLA COLORIDA C/4 ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/3321.jpg"
+    },
+    {
+     "cod": 3322,
+     "nome": "COLA COLORIDA C/6 ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 15.9,
+     "img": "produtos/3322.jpg"
+    },
+    {
+     "cod": 7924,
+     "nome": "COLA COLORIDA C/6 APLICOLA",
+     "marca": "APRICOLA",
+     "preco": 9.9,
+     "img": "produtos/7924.jpg"
+    },
+    {
+     "cod": 831,
+     "nome": "COLA EVA E ISOPOR 35GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 5.5,
+     "img": "produtos/831.jpg"
+    },
+    {
+     "cod": 11624,
+     "nome": "COLA EVA E ISOPOR 40G-MARIPEL",
+     "marca": "MARIPEL",
+     "preco": 4.5,
+     "img": "produtos/11624.jpg"
+    },
+    {
+     "cod": 7841,
+     "nome": "COLA ISOPOR 40GR-NEW MAGIC",
+     "marca": "NEW MAGIC",
+     "preco": 3.5,
+     "img": "produtos/7841.jpg"
+    },
+    {
+     "cod": 11625,
+     "nome": "COLA EVA E ISOPOR 80G-MARIPEL",
+     "marca": "MARIPEL",
+     "preco": 8.9,
+     "img": "produtos/11625.jpg"
+    },
+    {
+     "cod": 7842,
+     "nome": "COLA ISOPOR 80GR-NEW MAGIC",
+     "marca": "NEW MAGIC",
+     "preco": 5.9,
+     "img": "produtos/7842.jpg"
+    },
+    {
+     "cod": 832,
+     "nome": "COLA EVA E ISOPOR 90GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 11.9,
+     "img": "produtos/832.jpg"
+    },
+    {
+     "cod": 11926,
+     "nome": "COLA SILICONE 100ML",
+     "marca": "REND/LEO",
+     "preco": 8.9,
+     "img": "produtos/11926.jpg"
+    },
+    {
+     "cod": 10944,
+     "nome": "COLA SILICONE 250ML",
+     "marca": "REND/LEO",
+     "preco": 15.9,
+     "img": "produtos/10944.jpg"
+    },
+    {
+     "cod": 850,
+     "nome": "COLA JEANS 20GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 5.9,
+     "img": "produtos/850.jpg"
+    },
+    {
+     "cod": 7905,
+     "nome": "COLA GEL 90GR-MERCUR",
+     "marca": "MERCUR",
+     "preco": 8.9,
+     "img": "produtos/7905.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "fita-adesiva",
+   "nome": "Fita Adesiva",
+   "itens": [
+    {
+     "cod": 1313,
+     "nome": "FITA PVC CRISTAL 45X40MT-KORETECH",
+     "marca": "KORETECH",
+     "preco": 2.9,
+     "img": "produtos/1313.jpg"
+    },
+    {
+     "cod": 6836,
+     "nome": "FITA PVC CRISTAL 45X100MT",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/6836.jpg"
+    },
+    {
+     "cod": 4389,
+     "nome": "FITA PVC MARROM 45X40MT-KORETECH",
+     "marca": "KORETECH",
+     "preco": 2.9,
+     "img": "produtos/4389.jpg"
+    },
+    {
+     "cod": 1292,
+     "nome": "FITA CREPE 18X50MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 6.9,
+     "img": "produtos/1292.jpg"
+    },
+    {
+     "cod": 1291,
+     "nome": "FITA CREPE 18X10MT",
+     "marca": "ADELBRAS",
+     "preco": 2.0,
+     "img": "produtos/1291.jpg"
+    },
+    {
+     "cod": 11652,
+     "nome": "FITA CREPE 18X40MT-AUTOMOTIVA ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 8.9,
+     "img": "produtos/11652.jpg"
+    },
+    {
+     "cod": 1293,
+     "nome": "FITA CREPE 24X50MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 7.5,
+     "img": "produtos/1293.jpg"
+    },
+    {
+     "cod": 1294,
+     "nome": "FITA CREPE 48X50MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 15.9,
+     "img": "produtos/1294.jpg"
+    },
+    {
+     "cod": 1019,
+     "nome": "FITA DUPLA FACE 12X30MT",
+     "marca": "ADELBRAS",
+     "preco": 8.9,
+     "img": "produtos/1019.jpg"
+    },
+    {
+     "cod": 11806,
+     "nome": "FITA MASSA ACRILICA 12X2MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 14.9,
+     "img": "produtos/11806.jpg"
+    },
+    {
+     "cod": 11807,
+     "nome": "FITA MASSA ACRILICA 19X2MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 20.9,
+     "img": "produtos/11807.jpg"
+    },
+    {
+     "cod": 6761,
+     "nome": "FITA DEMARCAÇAO 48X14M-AMARELA(ADELBRAS)",
+     "marca": "ADELBRAS",
+     "preco": 19.9,
+     "img": "produtos/6761.jpg"
+    },
+    {
+     "cod": 6763,
+     "nome": "FITA DEMARCAÇAO 48X14M-VERDE(ADELBRAS)",
+     "marca": "ADELBRAS",
+     "preco": 19.9,
+     "img": "produtos/6763.jpg"
+    },
+    {
+     "cod": 6764,
+     "nome": "FITA DEMARCAÇÃO 48X14M-VERMELHA (ADELBRAS)",
+     "marca": "ADELBRAS",
+     "preco": 19.9,
+     "img": "produtos/6764.jpg"
+    },
+    {
+     "cod": 6762,
+     "nome": "FITA DEMARCAÇAO 48X14M-AZUL(ADELBRAS)",
+     "marca": "ADELBRAS",
+     "preco": 19.9,
+     "img": "produtos/6762.jpg"
+    },
+    {
+     "cod": 3434,
+     "nome": "FITA DEMARCAÇAO 48X15M-AZUL (TEKBOND)",
+     "marca": "TEKBOND",
+     "preco": 24.9,
+     "img": "produtos/3434.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "grampeador",
+   "nome": "Grampeador",
+   "itens": [
+    {
+     "cod": 10498,
+     "nome": "GRAMPEADOR MINI CIS COMPACTO METALLIC P/12FL",
+     "marca": "CIS",
+     "preco": 19.9,
+     "img": "produtos/10498.jpg"
+    },
+    {
+     "cod": 1518,
+     "nome": "GRAMPEADOR JOCAR 11,5CM P/25F",
+     "marca": "JOCAR",
+     "preco": 13.9,
+     "img": "produtos/1518.jpg"
+    },
+    {
+     "cod": 1519,
+     "nome": "GRAMPEADOR JOCAR 13CM P/25F",
+     "marca": "JOCAR",
+     "preco": 15.9,
+     "img": "produtos/1519.jpg"
+    },
+    {
+     "cod": 1526,
+     "nome": "GRAMPEADOR MAPED ESSENTIALS P/25FL",
+     "marca": "MAPED",
+     "preco": 46.9,
+     "img": "produtos/1526.jpg"
+    },
+    {
+     "cod": 1520,
+     "nome": "GRAMPEADOR JOCAR 15,5CM P/25FL",
+     "marca": "JOCAR",
+     "preco": 29.9,
+     "img": "produtos/1520.jpg"
+    },
+    {
+     "cod": 5148,
+     "nome": "GRAMPEADOR MAPED ADVANCED PRETO P/25FL",
+     "marca": "MAPED",
+     "preco": 65.9,
+     "img": "produtos/5148.jpg"
+    },
+    {
+     "cod": 11573,
+     "nome": "GRAMPEADOR MAPED ESSENTIALS ALICATE P/25FL",
+     "marca": "MAPED",
+     "preco": 65.9,
+     "img": "produtos/11573.jpg"
+    },
+    {
+     "cod": 6598,
+     "nome": "GRAMPEADOR CLASSE 25F (PR3160L)",
+     "marca": "DOTAD",
+     "preco": 24.9,
+     "img": "produtos/6598.jpg"
+    },
+    {
+     "cod": 1522,
+     "nome": "GRAMPEADOR JOCAR 20CM P/30 FL",
+     "marca": "JOCAR",
+     "preco": 32.9,
+     "img": "produtos/1522.jpg"
+    },
+    {
+     "cod": 11574,
+     "nome": "GRAMPEADOR MAPED EXPERT ALICATE P/ ATE 40FL",
+     "marca": "MAPED",
+     "preco": 89.9,
+     "img": "produtos/11574.jpg"
+    },
+    {
+     "cod": 10579,
+     "nome": "GRAMPEADOR CIS OFFICE ALICATE 25F (S-150)",
+     "marca": "CIS",
+     "preco": 59.9,
+     "img": "produtos/10579.jpg"
+    },
+    {
+     "cod": 11872,
+     "nome": "GRAMPEADOR MASTERPRINT ALICATE 25F (MP-887)",
+     "marca": "MASTERPRIN",
+     "preco": 29.9,
+     "img": "produtos/11872.jpg"
+    },
+    {
+     "cod": 10540,
+     "nome": "GRAMPEADOR CIS OFFICE ALICATE 45F (S-170)",
+     "marca": "CIS",
+     "preco": 98.9,
+     "img": "produtos/10540.jpg"
+    },
+    {
+     "cod": 10606,
+     "nome": "GRAMPEADOR CIS PROFISSIONAL 100F (CIS-1100)",
+     "marca": "CIS",
+     "preco": 119.9,
+     "img": "produtos/10606.jpg"
+    },
+    {
+     "cod": 1523,
+     "nome": "GRAMPEADOR JOCAR P/100FL",
+     "marca": "JOCAR",
+     "preco": 89.9,
+     "img": "produtos/1523.jpg"
+    },
+    {
+     "cod": 9090,
+     "nome": "GRAMPEADOR MASTERPRINT P/100FL",
+     "marca": "MASTERPRIN",
+     "preco": 69.9,
+     "img": "produtos/9090.jpg"
+    },
+    {
+     "cod": 1524,
+     "nome": "GRAMPEADOR JOCAR P/240FL",
+     "marca": "JOCAR",
+     "preco": 129.9,
+     "img": "produtos/1524.jpg"
+    },
+    {
+     "cod": 1528,
+     "nome": "GRAMPEADOR PAREDE THOMPSON",
+     "marca": "THOMPSON",
+     "preco": 69.9,
+     "img": "produtos/1528.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "perfurador",
+   "nome": "Perfurador",
+   "itens": [
+    {
+     "cod": 2297,
+     "nome": "PERFURADOR PAPEL 1 FURO JOCAR",
+     "marca": "JOCAR",
+     "preco": 12.9,
+     "img": "produtos/2297.jpg"
+    },
+    {
+     "cod": 6617,
+     "nome": "PERFURADOR PAPEL 1 FURO MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 11.9,
+     "img": "produtos/6617.jpg"
+    },
+    {
+     "cod": 2301,
+     "nome": "PERFURADOR PAPEL 12F JOCAR",
+     "marca": "JOCAR",
+     "preco": 15.9,
+     "img": "produtos/2301.jpg"
+    },
+    {
+     "cod": 2302,
+     "nome": "PERFURADOR PAPEL 20F JOCAR",
+     "marca": "JOCAR",
+     "preco": 23.9,
+     "img": "produtos/2302.jpg"
+    },
+    {
+     "cod": 6614,
+     "nome": "PERFURADOR PAPEL 20F MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 26.9,
+     "img": "produtos/6614.jpg"
+    },
+    {
+     "cod": 2303,
+     "nome": "PERFURADOR PAPEL 30F JOCAR",
+     "marca": "JOCAR",
+     "preco": 49.9,
+     "img": "produtos/2303.jpg"
+    },
+    {
+     "cod": 7028,
+     "nome": "PERFURADOR PAPEL 30F FRAMA",
+     "marca": "FRAMA",
+     "preco": 54.9,
+     "img": "produtos/7028.jpg"
+    },
+    {
+     "cod": 6615,
+     "nome": "PERFURADOR PAPEL 40F MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 41.9,
+     "img": "produtos/6615.jpg"
+    },
+    {
+     "cod": 2304,
+     "nome": "PERFURADOR PAPEL 40F JOCAR",
+     "marca": "JOCAR",
+     "preco": 111.9,
+     "img": "produtos/2304.jpg"
+    },
+    {
+     "cod": 10379,
+     "nome": "PERFURADOR PAPEL 65F JOCAR",
+     "marca": "JOCAR",
+     "preco": 99.9,
+     "img": "produtos/10379.jpg"
+    },
+    {
+     "cod": 7003,
+     "nome": "PERFURADOR EVA 25MM-FLOR DE LIS",
+     "marca": "MAKE +",
+     "preco": 29.9,
+     "img": "produtos/7003.jpg"
+    },
+    {
+     "cod": 7004,
+     "nome": "PERFURADOR EVA 38MM-CIRCULO",
+     "marca": "MAKE +",
+     "preco": 55.5,
+     "img": "produtos/7004.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "regua",
+   "nome": "Régua",
+   "itens": [
+    {
+     "cod": 13121,
+     "nome": "REGUA 15CM REFORÇ ROSA CAPYCLUB-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 18.9,
+     "img": "produtos/13121.jpg"
+    },
+    {
+     "cod": 7498,
+     "nome": "REGUA 15CM REFORÇ. CRISTAL-MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 2.9,
+     "img": "produtos/7498.jpg"
+    },
+    {
+     "cod": 2637,
+     "nome": "REGUA 20CM REFORÇ. CRISTAL-MAXCRIL",
+     "marca": "WALEU",
+     "preco": 2.9,
+     "img": "produtos/2637.jpg"
+    },
+    {
+     "cod": 2642,
+     "nome": "REGUA 30CM SIMPLES-WALEU",
+     "marca": "WALEU",
+     "preco": 1.5,
+     "img": "produtos/2642.jpg"
+    },
+    {
+     "cod": 7496,
+     "nome": "REGUA 30CM REFORÇ. CRISTAL-WALEU",
+     "marca": "MAXCRIL",
+     "preco": 2.9,
+     "img": "produtos/7496.jpg"
+    },
+    {
+     "cod": 2641,
+     "nome": "REGUA 30CM REFORÇ. CRISTAL-WALEU",
+     "marca": "WALEU",
+     "preco": 3.9,
+     "img": "produtos/2641.jpg"
+    },
+    {
+     "cod": 6385,
+     "nome": "REGUA 30CM REFORÇ. AZUL-WALEU",
+     "marca": "WALEU",
+     "preco": 2.9,
+     "img": "produtos/6385.jpg"
+    },
+    {
+     "cod": 11417,
+     "nome": "REGUA 30CM REFORÇ. VERDE-MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 2.9,
+     "img": "produtos/11417.jpg"
+    },
+    {
+     "cod": 2640,
+     "nome": "REGUA 30CM REFORÇ. CRISTAL-ACRIMET",
+     "marca": "ACRIMET",
+     "preco": 4.9,
+     "img": "produtos/2640.jpg"
+    },
+    {
+     "cod": 10030,
+     "nome": "REGUA 30CM REFORÇ. NEON ROSA",
+     "marca": "",
+     "preco": 2.9,
+     "img": "produtos/10030.jpg"
+    },
+    {
+     "cod": 6770,
+     "nome": "REGUA GEOMETRICA RETANGULAR-WALEU",
+     "marca": "WALEU",
+     "preco": 5.9,
+     "img": "produtos/6770.jpg"
+    },
+    {
+     "cod": 3489,
+     "nome": "KIT NORMOGRAFO 3PEÇAS-WALEU",
+     "marca": "WALEU",
+     "preco": 9.9,
+     "img": "produtos/3489.jpg"
+    },
+    {
+     "cod": 4958,
+     "nome": "REGUA 30CM ALUMINIO-CIS",
+     "marca": "CIS",
+     "preco": 15.9,
+     "img": "produtos/4958.jpg"
+    },
+    {
+     "cod": 7499,
+     "nome": "REGUA 30CM ALUMINIO-MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 8.9,
+     "img": "produtos/7499.jpg"
+    },
+    {
+     "cod": 4846,
+     "nome": "CONJUNTO 1ºG WALEU-CRISTAL",
+     "marca": "WALEU",
+     "preco": 11.9,
+     "img": "produtos/4846.jpg"
+    },
+    {
+     "cod": 4847,
+     "nome": "CONJUNTO 2ºG WALEU-CRISTAL",
+     "marca": "WALEU",
+     "preco": 10.9,
+     "img": "produtos/4847.jpg"
+    },
+    {
+     "cod": 1136,
+     "nome": "ESQUADRO 21X45-WALEU",
+     "marca": "WALEU",
+     "preco": 3.9,
+     "img": "produtos/1136.jpg"
+    },
+    {
+     "cod": 1137,
+     "nome": "ESQUADRO 21X60-WALEU",
+     "marca": "WALEU",
+     "preco": 3.9,
+     "img": "produtos/1137.jpg"
+    },
+    {
+     "cod": 1135,
+     "nome": "ESQUADRO 21X60-ACRIMET",
+     "marca": "ACRIMET",
+     "preco": 7.9,
+     "img": "produtos/1135.jpg"
+    },
+    {
+     "cod": 6342,
+     "nome": "TRANSFERIDOR  180º-ACRIMET",
+     "marca": "ACRIMET",
+     "preco": 6.9,
+     "img": "produtos/6342.jpg"
+    },
+    {
+     "cod": 13794,
+     "nome": "COMPASSO CIS 410 METAL C/LAPIS",
+     "marca": "CIS",
+     "preco": 18.9,
+     "img": "produtos/13794.jpg"
+    },
+    {
+     "cod": 3714,
+     "nome": "TRANSFERIDOR  360º- ACRIMET",
+     "marca": "ACRIMET",
+     "preco": 7.9,
+     "img": "produtos/3714.jpg"
+    },
+    {
+     "cod": 3087,
+     "nome": "TRANSFERIDOR 180º-WALEU",
+     "marca": "WALEU",
+     "preco": 2.9,
+     "img": "produtos/3087.jpg"
+    },
+    {
+     "cod": 3088,
+     "nome": "TRANSFERIDOR 360º-WALEU",
+     "marca": "WALEU",
+     "preco": 3.9,
+     "img": "produtos/3088.jpg"
+    },
+    {
+     "cod": 10600,
+     "nome": "COMPASSO CIS 301 TECNICO METAL",
+     "marca": "CIS",
+     "preco": 59.9,
+     "img": "produtos/10600.jpg"
+    },
+    {
+     "cod": 1109,
+     "nome": "ESCALIMETRO 30CM-MAPED",
+     "marca": "MAPED",
+     "preco": 45.9,
+     "img": "produtos/1109.jpg"
+    },
+    {
+     "cod": 5768,
+     "nome": "FITA METRICA 1,50MT",
+     "marca": "BRW",
+     "preco": 6.9,
+     "img": "produtos/5768.jpg"
+    },
+    {
+     "cod": 3419,
+     "nome": "GABARITO 25MM (LET+NUM)",
+     "marca": "COMPACTOR",
+     "preco": 17.9,
+     "img": "produtos/3419.jpg"
+    },
+    {
+     "cod": 6566,
+     "nome": "GABARITO 60MM (LET+NUM)",
+     "marca": "COMPACTOR",
+     "preco": 36.9,
+     "img": "produtos/6566.jpg"
+    },
+    {
+     "cod": 6567,
+     "nome": "GABARITO 75MM (LET+NUM)",
+     "marca": "COMPACTOR",
+     "preco": 35.9,
+     "img": "produtos/6567.jpg"
+    },
+    {
+     "cod": 11900,
+     "nome": "TRENA C/TRAVA 3,0MX16MM",
+     "marca": "THOMPSON",
+     "preco": 12.9,
+     "img": "produtos/11900.jpg"
+    },
+    {
+     "cod": 7934,
+     "nome": "TRENA C/TRAVA 5MX19MM (263)",
+     "marca": "THOMPSON",
+     "preco": 16.9,
+     "img": "produtos/7934.jpg"
+    },
+    {
+     "cod": 6845,
+     "nome": "TRENA C/TRAVA 10MX25MM",
+     "marca": "THOMPSON",
+     "preco": 31.9,
+     "img": "produtos/6845.jpg"
+    },
+    {
+     "cod": 9116,
+     "nome": "TRENA C/TRAVA 7,5MX25MM",
+     "marca": "THOMPSON",
+     "preco": 26.9,
+     "img": "produtos/9116.jpg"
     }
    ]
   }
