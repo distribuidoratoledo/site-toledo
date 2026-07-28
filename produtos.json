@@ -768,18 +768,18 @@
      "img": "produtos/10500.jpg"
     },
     {
-     "cod": 601,
-     "nome": "CANETA PILOT BP-1-VERMELHA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/601.jpg"
-    },
-    {
      "cod": 609,
      "nome": "CANETA PILOT GRIP 1.0-PRETA",
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/609.jpg"
+    },
+    {
+     "cod": 601,
+     "nome": "CANETA PILOT BP-1-VERMELHA",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/601.jpg"
     },
     {
      "cod": 5297,
@@ -2180,18 +2180,18 @@
      "img": "produtos/6051.jpg"
     },
     {
-     "cod": 2659,
-     "nome": "RETRO 2.0 PILOT-VERMELHO",
-     "marca": "PILOT",
-     "preco": 6.9,
-     "img": "produtos/2659.jpg"
-    },
-    {
      "cod": 6638,
      "nome": "PINCEL ATOM.RECAR.MASTERPRINT-AZUL",
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6638.jpg"
+    },
+    {
+     "cod": 2659,
+     "nome": "RETRO 2.0 PILOT-VERMELHO",
+     "marca": "PILOT",
+     "preco": 6.9,
+     "img": "produtos/2659.jpg"
     },
     {
      "cod": 1830,
@@ -2369,18 +2369,18 @@
      "img": "produtos/6637.jpg"
     },
     {
-     "cod": 13804,
-     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-ROSA",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/13804.jpg"
-    },
-    {
      "cod": 7530,
      "nome": "CANETINHA PLUS C/12-LEO E LEO",
      "marca": "LEO E LEO",
      "preco": 6.9,
      "img": "produtos/7530.jpg"
+    },
+    {
+     "cod": 13804,
+     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-ROSA",
+     "marca": "CIS",
+     "preco": 3.9,
+     "img": "produtos/13804.jpg"
     },
     {
      "cod": 11575,
@@ -2397,18 +2397,18 @@
      "img": "produtos/13805.jpg"
     },
     {
-     "cod": 2627,
-     "nome": "REFIL PINCEL Q.BRC PILOT-VERDE",
-     "marca": "PILOT",
-     "preco": 7.9,
-     "img": "produtos/2627.jpg"
-    },
-    {
      "cod": 6639,
      "nome": "PINCEL ATOM.RECAR.MASTERPRINT-PRETO",
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6639.jpg"
+    },
+    {
+     "cod": 2627,
+     "nome": "REFIL PINCEL Q.BRC PILOT-VERDE",
+     "marca": "PILOT",
+     "preco": 7.9,
+     "img": "produtos/2627.jpg"
     },
     {
      "cod": 1848,
@@ -2446,18 +2446,18 @@
      "img": "produtos/2345.jpg"
     },
     {
-     "cod": 13801,
-     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-AMARELO",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/13801.jpg"
-    },
-    {
      "cod": 12241,
      "nome": "MARCA TEXTO BRW GEL-AMARELO",
      "marca": "BRW",
      "preco": 4.9,
      "img": "produtos/12241.jpg"
+    },
+    {
+     "cod": 13801,
+     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-AMARELO",
+     "marca": "CIS",
+     "preco": 3.9,
+     "img": "produtos/13801.jpg"
     },
     {
      "cod": 12229,
@@ -3527,6 +3527,110 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12697.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "agenda",
+   "nome": "Agenda",
+   "itens": [
+    {
+     "cod": 11402,
+     "nome": "AGENDA PLANNER PERMANENTE 2025 BE HAPPY 53F",
+     "marca": "S.DOMINGOS",
+     "preco": 16.9,
+     "img": "produtos/11402.jpg"
+    },
+    {
+     "cod": 11380,
+     "nome": "AGENDA PLANNER 2025 BE MINE 80FL",
+     "marca": "S.DOMINGOS",
+     "preco": 39.9,
+     "img": "produtos/11380.jpg"
+    },
+    {
+     "cod": 12987,
+     "nome": "AGENDA PLANNER PERMANENTE MAGIC 75F",
+     "marca": "SAO DOMING",
+     "preco": 28.9,
+     "img": "produtos/12987.jpg"
+    },
+    {
+     "cod": 11401,
+     "nome": "AGENDA PLANNER 2025 GRAMPE 20F",
+     "marca": "ANIMATIVA",
+     "preco": 14.9,
+     "img": "produtos/11401.jpg"
+    },
+    {
+     "cod": 11621,
+     "nome": "AGENDA PLANNER PERMANENTE ROSA 20F",
+     "marca": "TAMOIO",
+     "preco": 15.9,
+     "img": "produtos/11621.jpg"
+    },
+    {
+     "cod": 11379,
+     "nome": "AGENDA PLANNER 2025 BE HAPPY 80FL",
+     "marca": "ANIMATIVA",
+     "preco": 34.9,
+     "img": "produtos/11379.jpg"
+    },
+    {
+     "cod": 11439,
+     "nome": "AGENDA PLANNER 2025 CAMBRIDGE 20F",
+     "marca": "TILIBRA",
+     "preco": 22.9,
+     "img": "produtos/11439.jpg"
+    },
+    {
+     "cod": 11620,
+     "nome": "AGENDA PLANNER PERMANENTE 2025 AZUL 20F",
+     "marca": "TAMOIO",
+     "preco": 15.9,
+     "img": "produtos/11620.jpg"
+    },
+    {
+     "cod": 10772,
+     "nome": "AGENDA 2026 DAC VISION ESP. ALL BLACK 336F",
+     "marca": "DAC",
+     "preco": 49.9,
+     "img": "produtos/10772.jpg"
+    },
+    {
+     "cod": 8897,
+     "nome": "AGENDA PLANNER PERMANENTE PAO DIARIO 80F",
+     "marca": "KIT",
+     "preco": 48.9,
+     "img": "produtos/8897.jpg"
+    },
+    {
+     "cod": 8562,
+     "nome": "PLANNER 2025 GRAMP TILIBRA HAPPY",
+     "marca": "TILIBRA",
+     "preco": 16.9,
+     "img": "produtos/8562.jpg"
+    },
+    {
+     "cod": 13812,
+     "nome": "AGENDA 2025 TILIBRA ESP. (MASC) SPOT GRD 200F",
+     "marca": "TILIBRA",
+     "preco": 39.9,
+     "img": "produtos/13812.jpg"
+    },
+    {
+     "cod": 12512,
+     "nome": "AGENDA PERMANENTE DAC MARROM 388F",
+     "marca": "DAC",
+     "preco": 59.9,
+     "img": "produtos/12512.jpg"
+    },
+    {
+     "cod": 7222,
+     "nome": "PRANCHETA ACRILICA OF (PREND. PLASTICO) -PLANNER AZUL PASTEL",
+     "marca": "WALEU",
+     "preco": 19.9,
+     "img": "produtos/7222.jpg"
     }
    ]
   }
