@@ -1754,6 +1754,13 @@
      "img": "produtos/13799.jpg"
     },
     {
+     "cod": 3515,
+     "nome": "LAPIS ESCREVER FABER NEON-VERDE",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/3515.jpg"
+    },
+    {
      "cod": 8986,
      "nome": "LAPIS 12CORES-NORMA+1 APONTADOR (JUMBO)",
      "marca": "NORMA",
@@ -1773,13 +1780,6 @@
      "marca": "NORMA",
      "preco": 19.9,
      "img": "produtos/8985.jpg"
-    },
-    {
-     "cod": 3515,
-     "nome": "LAPIS ESCREVER FABER NEON-VERDE",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3515.jpg"
     },
     {
      "cod": 12315,
@@ -2082,6 +2082,20 @@
      "img": "produtos/2344.jpg"
     },
     {
+     "cod": 2624,
+     "nome": "REFIL PINCEL Q.BRC PILOT-AZUL",
+     "marca": "PILOT",
+     "preco": 7.9,
+     "img": "produtos/2624.jpg"
+    },
+    {
+     "cod": 2626,
+     "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
+     "marca": "PILOT",
+     "preco": 7.9,
+     "img": "produtos/2626.jpg"
+    },
+    {
      "cod": 6467,
      "nome": "JOGO PINCEL COMPACTOR C/12",
      "marca": "COMPACTOR",
@@ -2096,25 +2110,11 @@
      "img": "produtos/7731.jpg"
     },
     {
-     "cod": 2624,
-     "nome": "REFIL PINCEL Q.BRC PILOT-AZUL",
-     "marca": "PILOT",
-     "preco": 7.9,
-     "img": "produtos/2624.jpg"
-    },
-    {
      "cod": 2349,
      "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2349.jpg"
-    },
-    {
-     "cod": 2626,
-     "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
-     "marca": "PILOT",
-     "preco": 7.9,
-     "img": "produtos/2626.jpg"
     },
     {
      "cod": 6054,
@@ -2124,18 +2124,18 @@
      "img": "produtos/6054.jpg"
     },
     {
-     "cod": 11855,
-     "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
-     "marca": "BRW",
-     "preco": 3.9,
-     "img": "produtos/11855.jpg"
-    },
-    {
      "cod": 6053,
      "nome": "MARCA TEXTO MASTERPRINT-ROSA",
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6053.jpg"
+    },
+    {
+     "cod": 11855,
+     "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
+     "marca": "BRW",
+     "preco": 3.9,
+     "img": "produtos/11855.jpg"
     },
     {
      "cod": 1582,
@@ -2516,6 +2516,13 @@
      "img": "produtos/7529.jpg"
     },
     {
+     "cod": 10383,
+     "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-ROSA",
+     "marca": "JOCAR",
+     "preco": 2.9,
+     "img": "produtos/10383.jpg"
+    },
+    {
      "cod": 13609,
      "nome": "MARCA TEXTO TILIBRA DUO-DUAS CORES",
      "marca": "TILIBRA",
@@ -2528,13 +2535,6 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6640.jpg"
-    },
-    {
-     "cod": 10383,
-     "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-ROSA",
-     "marca": "JOCAR",
-     "preco": 2.9,
-     "img": "produtos/10383.jpg"
     },
     {
      "cod": 2652,
@@ -4654,6 +4654,13 @@
      "img": "produtos/13209.jpg"
     },
     {
+     "cod": 13170,
+     "nome": "CADERNO CD 80F-THE FLASH",
+     "marca": "SD",
+     "preco": 26.9,
+     "img": "produtos/13170.jpg"
+    },
+    {
      "cod": 8252,
      "nome": "CADERNO 10X1 160F-GOLDEN YEARS",
      "marca": "CREDEAL",
@@ -4680,13 +4687,6 @@
      "marca": "CREDEAL",
      "preco": 35.9,
      "img": "produtos/9335.jpg"
-    },
-    {
-     "cod": 13170,
-     "nome": "CADERNO CD 80F-THE FLASH",
-     "marca": "SD",
-     "preco": 26.9,
-     "img": "produtos/13170.jpg"
     },
     {
      "cod": 5622,
@@ -6627,6 +6627,62 @@
    "nome": "Clips",
    "itens": [
     {
+     "cod": 782,
+     "nome": "CLIPS (PEQ) 2/0 C/100-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/782.jpg"
+    },
+    {
+     "cod": 787,
+     "nome": "CLIPS (PEQ) 3/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/787.jpg"
+    },
+    {
+     "cod": 790,
+     "nome": "CLIPS (PEQ) 4/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/790.jpg"
+    },
+    {
+     "cod": 9447,
+     "nome": "CLIPS (PEQ) 6/0 GR C/25-TOP",
+     "marca": "TOP",
+     "preco": 2.0,
+     "img": "produtos/9447.jpg"
+    },
+    {
+     "cod": 795,
+     "nome": "CLIPS (PEQ) 6/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/795.jpg"
+    },
+    {
+     "cod": 797,
+     "nome": "CLIPS (PEQ) 8/0 C/25-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/797.jpg"
+    },
+    {
+     "cod": 783,
+     "nome": "CLIPS (GR) 2/0 C/380 (725 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/783.jpg"
+    },
+    {
+     "cod": 7133,
+     "nome": "CLIPS (GR) 2/0 C/900 (725 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/7133.jpg"
+    },
+    {
      "cod": 785,
      "nome": "CLIPS (GR) 3/0 C/355 (440 UN)-TOP",
      "marca": "TOP",
@@ -6655,46 +6711,18 @@
      "img": "produtos/798.jpg"
     },
     {
-     "cod": 790,
-     "nome": "CLIPS (PEQ) 4/0 C/50-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/790.jpg"
-    },
-    {
-     "cod": 782,
-     "nome": "CLIPS (PEQ) 2/0 C/100-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/782.jpg"
-    },
-    {
-     "cod": 787,
-     "nome": "CLIPS (PEQ) 3/0 C/50-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/787.jpg"
-    },
-    {
-     "cod": 795,
-     "nome": "CLIPS (PEQ) 6/0 C/50-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/795.jpg"
-    },
-    {
-     "cod": 797,
-     "nome": "CLIPS (PEQ) 8/0 C/25-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/797.jpg"
-    },
-    {
-     "cod": 783,
-     "nome": "CLIPS (GR) 2/0 C/380 (725 UN)-TOP",
-     "marca": "TOP",
+     "cod": 10918,
+     "nome": "CLIPS (GR) 8/0 C/350 (180 UN)-FRAMA",
+     "marca": "FRAMA",
      "preco": 15.9,
-     "img": "produtos/783.jpg"
+     "img": "produtos/10918.jpg"
+    },
+    {
+     "cod": 13744,
+     "nome": "CLIPS (GR) 10/0 C/18-BACCHI",
+     "marca": "BACCHI",
+     "preco": 3.9,
+     "img": "produtos/13744.jpg"
     },
     {
      "cod": 781,
@@ -6702,6 +6730,13 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/781.jpg"
+    },
+    {
+     "cod": 3314,
+     "nome": "CLIPS (COLOR) 2/0 C/100 BACCHI",
+     "marca": "BACCHI",
+     "preco": 8.5,
+     "img": "produtos/3314.jpg"
     },
     {
      "cod": 800,
@@ -6732,46 +6767,11 @@
      "img": "produtos/13847.jpg"
     },
     {
-     "cod": 13744,
-     "nome": "CLIPS (GR) 10/0 C/18-BACCHI",
-     "marca": "BACCHI",
-     "preco": 3.9,
-     "img": "produtos/13744.jpg"
-    },
-    {
-     "cod": 3314,
-     "nome": "CLIPS (COLOR) 2/0 C/100 BACCHI",
-     "marca": "BACCHI",
-     "preco": 8.5,
-     "img": "produtos/3314.jpg"
-    },
-    {
-     "cod": 10918,
-     "nome": "CLIPS (GR) 8/0 C/350 (180 UN)-FRAMA",
-     "marca": "FRAMA",
-     "preco": 15.9,
-     "img": "produtos/10918.jpg"
-    },
-    {
      "cod": 5242,
      "nome": "CLIPS (MINI) BACCHI PRATA C/200",
      "marca": "BACCHI",
      "preco": 10.9,
      "img": "produtos/5242.jpg"
-    },
-    {
-     "cod": 9447,
-     "nome": "CLIPS (PEQ) 6/0 GR C/25-TOP",
-     "marca": "TOP",
-     "preco": 2.0,
-     "img": "produtos/9447.jpg"
-    },
-    {
-     "cod": 7133,
-     "nome": "CLIPS (GR) 2/0 C/900 (725 UN)-TOP",
-     "marca": "TOP",
-     "preco": 15.9,
-     "img": "produtos/7133.jpg"
     }
    ]
   }
