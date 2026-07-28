@@ -1467,13 +1467,6 @@
      "img": "produtos/13176.jpg"
     },
     {
-     "cod": 1658,
-     "nome": "LAPIS 24CORES-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 10.9,
-     "img": "produtos/1658.jpg"
-    },
-    {
      "cod": 10594,
      "nome": "LAPIS COR COLORCIS MULTI NEON-CIS",
      "marca": "CIS",
@@ -1537,6 +1530,13 @@
      "img": "produtos/13053.jpg"
     },
     {
+     "cod": 11529,
+     "nome": "LAPIS 12CORES-MAPED STAR",
+     "marca": "MAPED",
+     "preco": 12.9,
+     "img": "produtos/11529.jpg"
+    },
+    {
      "cod": 13159,
      "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-VERDE",
      "marca": "TILIBRA",
@@ -1549,13 +1549,6 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/7700.jpg"
-    },
-    {
-     "cod": 11529,
-     "nome": "LAPIS 12CORES-MAPED STAR",
-     "marca": "MAPED",
-     "preco": 12.9,
-     "img": "produtos/11529.jpg"
     },
     {
      "cod": 10270,
@@ -1621,18 +1614,18 @@
      "img": "produtos/10636.jpg"
     },
     {
-     "cod": 1674,
-     "nome": "LAPIS FABER 2H (DESENHO)",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/1674.jpg"
-    },
-    {
      "cod": 1640,
      "nome": "LAPIS BORRACHA FABER",
      "marca": "FABER",
      "preco": 5.9,
      "img": "produtos/1640.jpg"
+    },
+    {
+     "cod": 1674,
+     "nome": "LAPIS FABER 2H (DESENHO)",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/1674.jpg"
     },
     {
      "cod": 12717,
@@ -1733,6 +1726,13 @@
      "img": "produtos/13044.jpg"
     },
     {
+     "cod": 10560,
+     "nome": "LAPIS ESCREVER CIS SPIRO-PRETO",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/10560.jpg"
+    },
+    {
      "cod": 7710,
      "nome": "LAPIS 12CORES-MAPED (APAGAVEL)",
      "marca": "MAPED",
@@ -1752,13 +1752,6 @@
      "marca": "CIS",
      "preco": 2.5,
      "img": "produtos/13799.jpg"
-    },
-    {
-     "cod": 10560,
-     "nome": "LAPIS ESCREVER CIS SPIRO-PRETO",
-     "marca": "CIS",
-     "preco": 1.9,
-     "img": "produtos/10560.jpg"
     },
     {
      "cod": 8986,
@@ -1922,13 +1915,6 @@
      "img": "produtos/7856.jpg"
     },
     {
-     "cod": 1666,
-     "nome": "LAPIS 48CORES-MAPED",
-     "marca": "MAPED",
-     "preco": 59.9,
-     "img": "produtos/1666.jpg"
-    },
-    {
      "cod": 8459,
      "nome": "LAPIS ESCREVER FABER GLITZ-AZUL",
      "marca": "FABER",
@@ -1964,6 +1950,13 @@
      "img": "produtos/1670.jpg"
     },
     {
+     "cod": 10564,
+     "nome": "LAPIS ESCREVER CIS SPIRO-VERMELHO",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/10564.jpg"
+    },
+    {
      "cod": 7858,
      "nome": "LAPIS ESCREVER MAPED GLITTER ROSA C/BORRACHA",
      "marca": "MAPED",
@@ -1976,13 +1969,6 @@
      "marca": "BIC",
      "preco": 23.9,
      "img": "produtos/6288.jpg"
-    },
-    {
-     "cod": 10564,
-     "nome": "LAPIS ESCREVER CIS SPIRO-VERMELHO",
-     "marca": "CIS",
-     "preco": 1.9,
-     "img": "produtos/10564.jpg"
     },
     {
      "cod": 12683,
@@ -2145,18 +2131,18 @@
      "img": "produtos/11855.jpg"
     },
     {
-     "cod": 1582,
-     "nome": "JOGO PINCEL COMPACTOR C/6",
-     "marca": "COMPACTOR",
-     "preco": 15.9,
-     "img": "produtos/1582.jpg"
-    },
-    {
      "cod": 6053,
      "nome": "MARCA TEXTO MASTERPRINT-ROSA",
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6053.jpg"
+    },
+    {
+     "cod": 1582,
+     "nome": "JOGO PINCEL COMPACTOR C/6",
+     "marca": "COMPACTOR",
+     "preco": 15.9,
+     "img": "produtos/1582.jpg"
     },
     {
      "cod": 6052,
@@ -2180,18 +2166,18 @@
      "img": "produtos/6051.jpg"
     },
     {
-     "cod": 6638,
-     "nome": "PINCEL ATOM.RECAR.MASTERPRINT-AZUL",
-     "marca": "MASTERPRIN",
-     "preco": 5.9,
-     "img": "produtos/6638.jpg"
-    },
-    {
      "cod": 2659,
      "nome": "RETRO 2.0 PILOT-VERMELHO",
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2659.jpg"
+    },
+    {
+     "cod": 6638,
+     "nome": "PINCEL ATOM.RECAR.MASTERPRINT-AZUL",
+     "marca": "MASTERPRIN",
+     "preco": 5.9,
+     "img": "produtos/6638.jpg"
     },
     {
      "cod": 1830,
@@ -2614,13 +2600,6 @@
      "img": "produtos/13795.jpg"
     },
     {
-     "cod": 2625,
-     "nome": "REFIL PINCEL Q.BRC PILOT-LARANJA",
-     "marca": "PILOT",
-     "preco": 7.9,
-     "img": "produtos/2625.jpg"
-    },
-    {
      "cod": 1825,
      "nome": "MARCA TEXTO CIS-AMARELO",
      "marca": "CIS",
@@ -2628,11 +2607,11 @@
      "img": "produtos/1825.jpg"
     },
     {
-     "cod": 4759,
-     "nome": "CANETINHA C/12-FABER (VAI E VEM)",
-     "marca": "FABER",
-     "preco": 49.9,
-     "img": "produtos/4759.jpg"
+     "cod": 2625,
+     "nome": "REFIL PINCEL Q.BRC PILOT-LARANJA",
+     "marca": "PILOT",
+     "preco": 7.9,
+     "img": "produtos/2625.jpg"
     },
     {
      "cod": 2629,
@@ -2640,6 +2619,13 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2629.jpg"
+    },
+    {
+     "cod": 4759,
+     "nome": "CANETINHA C/12-FABER (VAI E VEM)",
+     "marca": "FABER",
+     "preco": 49.9,
+     "img": "produtos/4759.jpg"
     },
     {
      "cod": 12197,
@@ -4332,13 +4318,6 @@
      "img": "produtos/8246.jpg"
     },
     {
-     "cod": 11432,
-     "nome": "CADERNO 10X1 160F-HAPPY ADVENTURE",
-     "marca": "CREDEAL",
-     "preco": 15.9,
-     "img": "produtos/11432.jpg"
-    },
-    {
      "cod": 12405,
      "nome": "CADERNO CD 80F-TURMA DA LALA",
      "marca": "CREDEAL",
@@ -4346,67 +4325,74 @@
      "img": "produtos/12405.jpg"
     },
     {
+     "cod": 11432,
+     "nome": "CADERNO 10X1 160F-HAPPY ADVENTURE",
+     "marca": "CREDEAL",
+     "preco": 15.9,
+     "img": null
+    },
+    {
      "cod": 8890,
      "nome": "CADERNO CD 80F-PET FUN",
      "marca": "CREDEAL",
      "preco": 14.9,
-     "img": "produtos/8890.jpg"
+     "img": null
     },
     {
      "cod": 12440,
      "nome": "CADERNO CD 80F-PRINCESA FASHION",
      "marca": "CREDEAL",
      "preco": 16.9,
-     "img": "produtos/12440.jpg"
+     "img": null
     },
     {
      "cod": 8919,
      "nome": "CADERNO CD 80F-SUPER DINO",
      "marca": "CREDEAL",
      "preco": 15.9,
-     "img": "produtos/8919.jpg"
+     "img": null
     },
     {
      "cod": 5970,
      "nome": "CADERNO 10X1 160F-BOM D+ FEMININO",
      "marca": "SD",
      "preco": 19.9,
-     "img": "produtos/5970.jpg"
+     "img": null
     },
     {
      "cod": 7825,
      "nome": "CADERNO 1X1 80F-ZIP PRETO",
      "marca": "TILIBRA",
      "preco": 14.9,
-     "img": "produtos/7825.jpg"
+     "img": null
     },
     {
      "cod": 7764,
      "nome": "CADERNO 1X1 80F-HAPPY CONNECT",
      "marca": "TILIBRA",
      "preco": 27.9,
-     "img": "produtos/7764.jpg"
+     "img": null
     },
     {
      "cod": 8247,
      "nome": "CADERNO 1X1 80F-ARCO IRIS",
      "marca": "CREDEAL",
      "preco": 21.9,
-     "img": "produtos/8247.jpg"
+     "img": null
     },
     {
      "cod": 8395,
      "nome": "CADERNO 1X1 80F-PURPURINA",
      "marca": "CREDEAL",
      "preco": 21.9,
-     "img": "produtos/8395.jpg"
+     "img": null
     },
     {
      "cod": 5734,
      "nome": "CADERNO 1X1 80F-LUNIX",
      "marca": "TILIBRA",
      "preco": 13.9,
-     "img": "produtos/5734.jpg"
+     "img": null
     },
     {
      "cod": 10898,
@@ -5291,6 +5277,13 @@
      "img": "produtos/13789.jpg"
     },
     {
+     "cod": 12764,
+     "nome": "CADERNO 1X1 80F-NEON FIT MASCULINO CONNECT",
+     "marca": "TILIBRA",
+     "preco": 34.9,
+     "img": "produtos/12764.jpg"
+    },
+    {
      "cod": 13174,
      "nome": "CADERNO 1X1 80F-SWEET CHERRY",
      "marca": "SD",
@@ -5380,13 +5373,6 @@
      "marca": "CADERSIL",
      "preco": 27.9,
      "img": "produtos/12861.jpg"
-    },
-    {
-     "cod": 12764,
-     "nome": "CADERNO 1X1 80F-NEON FIT MASCULINO CONNECT",
-     "marca": "TILIBRA",
-     "preco": 34.9,
-     "img": "produtos/12764.jpg"
     },
     {
      "cod": 5618,
@@ -5959,7 +5945,7 @@
      "cod": 14097,
      "nome": "CADERNO BROCH. C/P 96F-JANDAIA",
      "marca": "JANDAIA",
-     "preco": 3.9,
+     "preco": 9.9,
      "img": "produtos/14097.jpg"
     },
     {
@@ -6633,6 +6619,159 @@
      "marca": "UTILFORMAS",
      "preco": 97.9,
      "img": "produtos/2622.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "clips",
+   "nome": "Clips",
+   "itens": [
+    {
+     "cod": 785,
+     "nome": "CLIPS (GR) 3/0 C/355 (440 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/785.jpg"
+    },
+    {
+     "cod": 788,
+     "nome": "CLIPS (GR) 4/0  C/320 (400 UN)",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/788.jpg"
+    },
+    {
+     "cod": 793,
+     "nome": "CLIPS (GR) 6/0 C/320 (220 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/793.jpg"
+    },
+    {
+     "cod": 798,
+     "nome": "CLIPS (GR) 8/0 C/350 (170UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/798.jpg"
+    },
+    {
+     "cod": 790,
+     "nome": "CLIPS (PEQ) 4/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/790.jpg"
+    },
+    {
+     "cod": 782,
+     "nome": "CLIPS (PEQ) 2/0 C/100-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/782.jpg"
+    },
+    {
+     "cod": 787,
+     "nome": "CLIPS (PEQ) 3/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/787.jpg"
+    },
+    {
+     "cod": 795,
+     "nome": "CLIPS (PEQ) 6/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/795.jpg"
+    },
+    {
+     "cod": 797,
+     "nome": "CLIPS (PEQ) 8/0 C/25-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/797.jpg"
+    },
+    {
+     "cod": 783,
+     "nome": "CLIPS (GR) 2/0 C/380 (725 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/783.jpg"
+    },
+    {
+     "cod": 781,
+     "nome": "CLIPS (GR) 10/0 C/430 (120 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/781.jpg"
+    },
+    {
+     "cod": 800,
+     "nome": "CLIPS (MINI) COLORIDO ACC C/100",
+     "marca": "ACC",
+     "preco": 7.9,
+     "img": "produtos/800.jpg"
+    },
+    {
+     "cod": 801,
+     "nome": "CLIPS (MINI) ACC OURO C/100",
+     "marca": "ACC",
+     "preco": 9.9,
+     "img": "produtos/801.jpg"
+    },
+    {
+     "cod": 12238,
+     "nome": "CLIPS (MINI) BRW OURO C/200",
+     "marca": "BRW",
+     "preco": 9.9,
+     "img": "produtos/12238.jpg"
+    },
+    {
+     "cod": 13847,
+     "nome": "CLIPS (MINI) BRW COLORIDO C/200",
+     "marca": "BRW",
+     "preco": 9.9,
+     "img": "produtos/13847.jpg"
+    },
+    {
+     "cod": 13744,
+     "nome": "CLIPS (GR) 10/0 C/18-BACCHI",
+     "marca": "BACCHI",
+     "preco": 3.9,
+     "img": "produtos/13744.jpg"
+    },
+    {
+     "cod": 3314,
+     "nome": "CLIPS (COLOR) 2/0 C/100 BACCHI",
+     "marca": "BACCHI",
+     "preco": 8.5,
+     "img": "produtos/3314.jpg"
+    },
+    {
+     "cod": 10918,
+     "nome": "CLIPS (GR) 8/0 C/350 (180 UN)-FRAMA",
+     "marca": "FRAMA",
+     "preco": 15.9,
+     "img": "produtos/10918.jpg"
+    },
+    {
+     "cod": 5242,
+     "nome": "CLIPS (MINI) BACCHI PRATA C/200",
+     "marca": "BACCHI",
+     "preco": 10.9,
+     "img": "produtos/5242.jpg"
+    },
+    {
+     "cod": 9447,
+     "nome": "CLIPS (PEQ) 6/0 GR C/25-TOP",
+     "marca": "TOP",
+     "preco": 2.0,
+     "img": "produtos/9447.jpg"
+    },
+    {
+     "cod": 7133,
+     "nome": "CLIPS (GR) 2/0 C/900 (725 UN)-TOP",
+     "marca": "TOP",
+     "preco": 15.9,
+     "img": "produtos/7133.jpg"
     }
    ]
   }
