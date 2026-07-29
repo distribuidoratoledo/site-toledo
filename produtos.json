@@ -40,18 +40,18 @@
      "img": "produtos/554.jpg"
     },
     {
-     "cod": 562,
-     "nome": "CANETA CIS SPIRO-AZUL ESCURO",
-     "marca": "CIS",
-     "preco": 4.5,
-     "img": "produtos/562.jpg"
-    },
-    {
      "cod": 9370,
      "nome": "CANETA JOCAR 1.0-PRETA",
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9370.jpg"
+    },
+    {
+     "cod": 562,
+     "nome": "CANETA CIS SPIRO-AZUL ESCURO",
+     "marca": "CIS",
+     "preco": 4.5,
+     "img": "produtos/562.jpg"
     },
     {
      "cod": 569,
@@ -166,18 +166,18 @@
      "img": "produtos/561.jpg"
     },
     {
-     "cod": 587,
-     "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
-     "marca": "PAPER MATE",
-     "preco": 1.8,
-     "img": "produtos/587.jpg"
-    },
-    {
      "cod": 563,
      "nome": "CANETA CIS SPIRO-LARANJA",
      "marca": "CIS",
      "preco": 4.5,
      "img": "produtos/563.jpg"
+    },
+    {
+     "cod": 587,
+     "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
+     "marca": "PAPER MATE",
+     "preco": 1.8,
+     "img": "produtos/587.jpg"
     },
     {
      "cod": 10629,
@@ -243,18 +243,18 @@
      "img": "produtos/548.jpg"
     },
     {
-     "cod": 589,
-     "nome": "CANETA KILOMETRICA 0.7-VERMELHA (FINA)",
-     "marca": "PAPER MATE",
-     "preco": 1.8,
-     "img": "produtos/589.jpg"
-    },
-    {
      "cod": 625,
      "nome": "CANETA TECIDO-PRETA",
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/625.jpg"
+    },
+    {
+     "cod": 589,
+     "nome": "CANETA KILOMETRICA 0.7-VERMELHA (FINA)",
+     "marca": "PAPER MATE",
+     "preco": 1.8,
+     "img": "produtos/589.jpg"
     },
     {
      "cod": 550,
@@ -278,18 +278,18 @@
      "img": "produtos/5239.jpg"
     },
     {
-     "cod": 4826,
-     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (TRIGEL)",
-     "marca": "CIS",
-     "preco": 6.5,
-     "img": "produtos/4826.jpg"
-    },
-    {
      "cod": 577,
      "nome": "CANETA FABER TRILUX-PRETA",
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/577.jpg"
+    },
+    {
+     "cod": 4826,
+     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (TRIGEL)",
+     "marca": "CIS",
+     "preco": 6.5,
+     "img": "produtos/4826.jpg"
     },
     {
      "cod": 10831,
@@ -313,20 +313,6 @@
      "img": "produtos/596.jpg"
     },
     {
-     "cod": 10291,
-     "nome": "CANETA FABER TRILUX-PRATA",
-     "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/10291.jpg"
-    },
-    {
-     "cod": 605,
-     "nome": "CANETA PILOT GRIP 0.7-AZUL",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/605.jpg"
-    },
-    {
      "cod": 612,
      "nome": "CANETA PILOT GRIP 1.6-PRETA",
      "marca": "PILOT",
@@ -339,6 +325,20 @@
      "marca": "CIS",
      "preco": 6.9,
      "img": "produtos/10598.jpg"
+    },
+    {
+     "cod": 10291,
+     "nome": "CANETA FABER TRILUX-PRATA",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/10291.jpg"
+    },
+    {
+     "cod": 605,
+     "nome": "CANETA PILOT GRIP 0.7-AZUL",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/605.jpg"
     },
     {
      "cod": 614,
@@ -355,13 +355,6 @@
      "img": "produtos/602.jpg"
     },
     {
-     "cod": 607,
-     "nome": "CANETA PILOT GRIP 0.7-VERMELHA",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/607.jpg"
-    },
-    {
      "cod": 5403,
      "nome": "CANETA FABER XTREME COLORS-ROXA",
      "marca": "FABER",
@@ -376,32 +369,18 @@
      "img": "produtos/581.jpg"
     },
     {
+     "cod": 607,
+     "nome": "CANETA PILOT GRIP 0.7-VERMELHA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/607.jpg"
+    },
+    {
      "cod": 606,
      "nome": "CANETA PILOT GRIP 0.7-PRETA",
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/606.jpg"
-    },
-    {
-     "cod": 5398,
-     "nome": "CANETA FABER TRILUX-LARANJA",
-     "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/5398.jpg"
-    },
-    {
-     "cod": 10585,
-     "nome": "CANETA UNIBALL UB-177 DELUXE FINE-PRETA",
-     "marca": "UNI BALL",
-     "preco": 16.9,
-     "img": "produtos/10585.jpg"
-    },
-    {
-     "cod": 5279,
-     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
-     "marca": "TRIS",
-     "preco": 18.9,
-     "img": "produtos/5279.jpg"
     },
     {
      "cod": 545,
@@ -411,11 +390,11 @@
      "img": "produtos/545.jpg"
     },
     {
-     "cod": 13054,
-     "nome": "CANETINHA C/12-CIS (HIDROCOR)",
-     "marca": "CIS",
-     "preco": 15.9,
-     "img": "produtos/13054.jpg"
+     "cod": 5398,
+     "nome": "CANETA FABER TRILUX-LARANJA",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/5398.jpg"
     },
     {
      "cod": 5400,
@@ -423,6 +402,13 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/5400.jpg"
+    },
+    {
+     "cod": 603,
+     "nome": "CANETA PILOT COMUM-PRETA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/603.jpg"
     },
     {
      "cod": 608,
@@ -439,11 +425,11 @@
      "img": "produtos/10580.jpg"
     },
     {
-     "cod": 603,
-     "nome": "CANETA PILOT COMUM-PRETA",
-     "marca": "PILOT",
-     "preco": 11.9,
-     "img": "produtos/603.jpg"
+     "cod": 10585,
+     "nome": "CANETA UNIBALL UB-177 DELUXE FINE-PRETA",
+     "marca": "UNI BALL",
+     "preco": 16.9,
+     "img": "produtos/10585.jpg"
     },
     {
      "cod": 10040,
@@ -451,6 +437,13 @@
      "marca": "CIS",
      "preco": 8.9,
      "img": "produtos/10040.jpg"
+    },
+    {
+     "cod": 5279,
+     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
+     "marca": "TRIS",
+     "preco": 18.9,
+     "img": "produtos/5279.jpg"
     },
     {
      "cod": 611,
@@ -467,13 +460,6 @@
      "img": "produtos/546.jpg"
     },
     {
-     "cod": 10569,
-     "nome": "CANETA JETSTREAM 1.0-PRETA (UNI)",
-     "marca": "UNIBALL",
-     "preco": 16.9,
-     "img": "produtos/10569.jpg"
-    },
-    {
      "cod": 615,
      "nome": "CANETA PILOT S.GRIP 0.7-PRETA",
      "marca": "PILOT",
@@ -481,11 +467,25 @@
      "img": "produtos/615.jpg"
     },
     {
+     "cod": 13054,
+     "nome": "CANETINHA C/12-CIS (HIDROCOR)",
+     "marca": "CIS",
+     "preco": 15.9,
+     "img": "produtos/13054.jpg"
+    },
+    {
      "cod": 551,
      "nome": "CANETA BIC BOLD 1.6-VERMELHA",
      "marca": "BIC",
      "preco": 3.9,
      "img": "produtos/551.jpg"
+    },
+    {
+     "cod": 10569,
+     "nome": "CANETA JETSTREAM 1.0-PRETA (UNI)",
+     "marca": "UNIBALL",
+     "preco": 16.9,
+     "img": "produtos/10569.jpg"
     },
     {
      "cod": 618,
@@ -523,25 +523,18 @@
      "img": "produtos/5402.jpg"
     },
     {
-     "cod": 10039,
-     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (GELYX)",
-     "marca": "CIS",
-     "preco": 8.9,
-     "img": "produtos/10039.jpg"
-    },
-    {
-     "cod": 10612,
-     "nome": "CANETINHA C/12-CIS",
-     "marca": "CIS",
-     "preco": 15.9,
-     "img": "produtos/10612.jpg"
-    },
-    {
      "cod": 12306,
      "nome": "CANETINHA C/12-MOLIN",
      "marca": "MOLIN",
      "preco": 16.9,
      "img": "produtos/12306.jpg"
+    },
+    {
+     "cod": 10039,
+     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (GELYX)",
+     "marca": "CIS",
+     "preco": 8.9,
+     "img": "produtos/10039.jpg"
     },
     {
      "cod": 10574,
@@ -565,11 +558,18 @@
      "img": "produtos/10583.jpg"
     },
     {
-     "cod": 13055,
-     "nome": "CANETINHA C/24-CIS (HIDROCOR)",
+     "cod": 10612,
+     "nome": "CANETINHA C/12-CIS",
      "marca": "CIS",
-     "preco": 26.9,
-     "img": "produtos/13055.jpg"
+     "preco": 15.9,
+     "img": "produtos/10612.jpg"
+    },
+    {
+     "cod": 10289,
+     "nome": "CANETA FABER TRILUX-(FINA) PRETA",
+     "marca": "FABER",
+     "preco": 2.9,
+     "img": "produtos/10289.jpg"
     },
     {
      "cod": 578,
@@ -593,13 +593,6 @@
      "img": "produtos/10571.jpg"
     },
     {
-     "cod": 10289,
-     "nome": "CANETA FABER TRILUX-(FINA) PRETA",
-     "marca": "FABER",
-     "preco": 2.9,
-     "img": "produtos/10289.jpg"
-    },
-    {
      "cod": 12345,
      "nome": "CANETA MOLIN CORAÇAO DIAMANTE LOVE PINK 1.0-PRETA",
      "marca": "MOLIN",
@@ -607,11 +600,32 @@
      "img": "produtos/12345.jpg"
     },
     {
+     "cod": 632,
+     "nome": "CANETA TILIBRA 0.6 DEFINIT-AZUL",
+     "marca": "TILIBRA",
+     "preco": 10.9,
+     "img": "produtos/632.jpg"
+    },
+    {
      "cod": 10573,
      "nome": "CANETA UNIBALL UB-177 DELUXE FINE-AZUL",
      "marca": "UNI BALL",
      "preco": 16.9,
      "img": "produtos/10573.jpg"
+    },
+    {
+     "cod": 13055,
+     "nome": "CANETINHA C/24-CIS (HIDROCOR)",
+     "marca": "CIS",
+     "preco": 26.9,
+     "img": "produtos/13055.jpg"
+    },
+    {
+     "cod": 11570,
+     "nome": "CANETINHA MAPED C/8 + 2 MAGIC",
+     "marca": "MAPED",
+     "preco": 25.9,
+     "img": "produtos/11570.jpg"
     },
     {
      "cod": 10042,
@@ -626,13 +640,6 @@
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12321.jpg"
-    },
-    {
-     "cod": 632,
-     "nome": "CANETA TILIBRA 0.6 DEFINIT-AZUL",
-     "marca": "TILIBRA",
-     "preco": 10.9,
-     "img": "produtos/632.jpg"
     },
     {
      "cod": 13792,
@@ -656,13 +663,6 @@
      "img": "produtos/8750.jpg"
     },
     {
-     "cod": 11570,
-     "nome": "CANETINHA MAPED C/8 + 2 MAGIC",
-     "marca": "MAPED",
-     "preco": 25.9,
-     "img": "produtos/11570.jpg"
-    },
-    {
      "cod": 12294,
      "nome": "CANETA MOLIN STITCH 1.0-PRETA",
      "marca": "MOLIN",
@@ -682,13 +682,6 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/616.jpg"
-    },
-    {
-     "cod": 8740,
-     "nome": "CANETA STABILO BILLE FINE-AZUL",
-     "marca": "STABILO",
-     "preco": 12.9,
-     "img": "produtos/8740.jpg"
     },
     {
      "cod": 5401,
@@ -740,13 +733,6 @@
      "img": "produtos/12682.jpg"
     },
     {
-     "cod": 12687,
-     "nome": "JOGO PINCEL TRIS C/8",
-     "marca": "TRIS",
-     "preco": 36.9,
-     "img": "produtos/12687.jpg"
-    },
-    {
      "cod": 12328,
      "nome": "CANETA MOLIN CORAÇAO DIAMANTE CRYSTAL ROSE  1.0-PRETA",
      "marca": "MOLIN",
@@ -775,6 +761,20 @@
      "img": "produtos/609.jpg"
     },
     {
+     "cod": 8740,
+     "nome": "CANETA STABILO BILLE FINE-AZUL",
+     "marca": "STABILO",
+     "preco": 12.9,
+     "img": "produtos/8740.jpg"
+    },
+    {
+     "cod": 12687,
+     "nome": "JOGO PINCEL TRIS C/8",
+     "marca": "TRIS",
+     "preco": 36.9,
+     "img": "produtos/12687.jpg"
+    },
+    {
      "cod": 601,
      "nome": "CANETA PILOT BP-1-VERMELHA",
      "marca": "PILOT",
@@ -801,13 +801,6 @@
      "marca": "JOCAR",
      "preco": 16.9,
      "img": "produtos/9973.jpg"
-    },
-    {
-     "cod": 10572,
-     "nome": "CANETA UNIBALL UB-150 EYE MICRO-PRETA",
-     "marca": "UNI BALL",
-     "preco": 16.9,
-     "img": "produtos/10572.jpg"
     },
     {
      "cod": 547,
@@ -859,6 +852,13 @@
      "img": "produtos/13931.jpg"
     },
     {
+     "cod": 8747,
+     "nome": "CANETA JETSTREAM 1.0-AZUL (UNI)",
+     "marca": "JETSTREAM",
+     "preco": 16.9,
+     "img": "produtos/8747.jpg"
+    },
+    {
      "cod": 9974,
      "nome": "CANETA LEO SOUL GARDEN 1.0-PRETA",
      "marca": "JOCAR",
@@ -873,6 +873,13 @@
      "img": "produtos/4460.jpg"
     },
     {
+     "cod": 10572,
+     "nome": "CANETA UNIBALL UB-150 EYE MICRO-PRETA",
+     "marca": "UNI BALL",
+     "preco": 16.9,
+     "img": "produtos/10572.jpg"
+    },
+    {
      "cod": 12959,
      "nome": "CANETINHA C/12-FABER MAGIC (10 CORES+2MAGICAS)",
      "marca": "FABER",
@@ -885,13 +892,6 @@
      "marca": "FABER",
      "preco": 5.9,
      "img": "produtos/580.jpg"
-    },
-    {
-     "cod": 8747,
-     "nome": "CANETA JETSTREAM 1.0-AZUL (UNI)",
-     "marca": "JETSTREAM",
-     "preco": 16.9,
-     "img": "produtos/8747.jpg"
     },
     {
      "cod": 604,
@@ -1222,18 +1222,18 @@
      "img": "produtos/13310.jpg"
     },
     {
-     "cod": 11564,
-     "nome": "LAPIS ESCREVER MAPED ENERGY C/BORRACHA",
-     "marca": "MAPED",
-     "preco": 1.5,
-     "img": "produtos/11564.jpg"
-    },
-    {
      "cod": 8415,
      "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/8415.jpg"
+    },
+    {
+     "cod": 11564,
+     "nome": "LAPIS ESCREVER MAPED ENERGY C/BORRACHA",
+     "marca": "MAPED",
+     "preco": 1.5,
+     "img": "produtos/11564.jpg"
     },
     {
      "cod": 3514,
@@ -1243,18 +1243,18 @@
      "img": "produtos/3514.jpg"
     },
     {
-     "cod": 5704,
-     "nome": "LAPIS ESCREVER TILIBRA-ACADEMIE C/BORRACHA",
-     "marca": "TILIBRA",
-     "preco": 1.5,
-     "img": "produtos/5704.jpg"
-    },
-    {
      "cod": 3513,
      "nome": "LAPIS ESCREVER FABER NEON-LARANJA",
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/3513.jpg"
+    },
+    {
+     "cod": 5704,
+     "nome": "LAPIS ESCREVER TILIBRA-ACADEMIE C/BORRACHA",
+     "marca": "TILIBRA",
+     "preco": 1.5,
+     "img": "produtos/5704.jpg"
     },
     {
      "cod": 5408,
@@ -1299,18 +1299,18 @@
      "img": "produtos/10272.jpg"
     },
     {
-     "cod": 13161,
-     "nome": "LAPIS ESCREVER TILIBRA PLAYER C/BORRACHA",
-     "marca": "TILIBRA",
-     "preco": 2.0,
-     "img": "produtos/13161.jpg"
-    },
-    {
      "cod": 5836,
      "nome": "LAPIS ESCREVER FABER REGUA",
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/5836.jpg"
+    },
+    {
+     "cod": 13161,
+     "nome": "LAPIS ESCREVER TILIBRA PLAYER C/BORRACHA",
+     "marca": "TILIBRA",
+     "preco": 2.0,
+     "img": "produtos/13161.jpg"
     },
     {
      "cod": 13152,
@@ -1341,13 +1341,6 @@
      "img": "produtos/13354.jpg"
     },
     {
-     "cod": 6355,
-     "nome": "LAPIS ESCREVER LEO E LEO JUMBO",
-     "marca": "LEO E LEO",
-     "preco": 1.5,
-     "img": "produtos/6355.jpg"
-    },
-    {
      "cod": 13305,
      "nome": "LAPIS ESCREVER MAPED KIDY LEARN",
      "marca": "MAPED",
@@ -1355,11 +1348,18 @@
      "img": "produtos/13305.jpg"
     },
     {
-     "cod": 12914,
-     "nome": "LAPIS 12CORES-FABER (2 BICOLOR)",
-     "marca": "FABER",
-     "preco": 21.9,
-     "img": "produtos/12914.jpg"
+     "cod": 6355,
+     "nome": "LAPIS ESCREVER LEO E LEO JUMBO",
+     "marca": "LEO E LEO",
+     "preco": 1.5,
+     "img": "produtos/6355.jpg"
+    },
+    {
+     "cod": 7707,
+     "nome": "LAPIS 12CORES+3 DUO-MAPED",
+     "marca": "MAPED",
+     "preco": 12.9,
+     "img": "produtos/7707.jpg"
     },
     {
      "cod": 1675,
@@ -1369,11 +1369,11 @@
      "img": "produtos/1675.jpg"
     },
     {
-     "cod": 7707,
-     "nome": "LAPIS 12CORES+3 DUO-MAPED",
-     "marca": "MAPED",
-     "preco": 12.9,
-     "img": "produtos/7707.jpg"
+     "cod": 12914,
+     "nome": "LAPIS 12CORES-FABER (2 BICOLOR)",
+     "marca": "FABER",
+     "preco": 21.9,
+     "img": "produtos/12914.jpg"
     },
     {
      "cod": 7859,
@@ -1397,6 +1397,13 @@
      "img": "produtos/3507.jpg"
     },
     {
+     "cod": 13608,
+     "nome": "LAPIS 12CORES-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 8.9,
+     "img": "produtos/13608.jpg"
+    },
+    {
      "cod": 5835,
      "nome": "LAPIS FABER 8B (DESENHO)",
      "marca": "FABER",
@@ -1409,20 +1416,6 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1677.jpg"
-    },
-    {
-     "cod": 13608,
-     "nome": "LAPIS 12CORES-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 8.9,
-     "img": "produtos/13608.jpg"
-    },
-    {
-     "cod": 1652,
-     "nome": "LAPIS 24CORES-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 25.9,
-     "img": "produtos/1652.jpg"
     },
     {
      "cod": 10065,
@@ -1467,6 +1460,13 @@
      "img": "produtos/13176.jpg"
     },
     {
+     "cod": 1652,
+     "nome": "LAPIS 24CORES-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 25.9,
+     "img": "produtos/1652.jpg"
+    },
+    {
      "cod": 10594,
      "nome": "LAPIS COR COLORCIS MULTI NEON-CIS",
      "marca": "CIS",
@@ -1495,13 +1495,6 @@
      "img": "produtos/13745.jpg"
     },
     {
-     "cod": 10561,
-     "nome": "LAPIS ESCREVER CIS SPIRO-ROSA",
-     "marca": "CIS",
-     "preco": 1.9,
-     "img": "produtos/10561.jpg"
-    },
-    {
      "cod": 10562,
      "nome": "LAPIS ESCREVER CIS SPIRO-ROXO",
      "marca": "CIS",
@@ -1509,11 +1502,11 @@
      "img": "produtos/10562.jpg"
     },
     {
-     "cod": 12282,
-     "nome": "LAPIS ESCREVER MOLIN LOVE BLACK E WHITE C/BORRACHA",
-     "marca": "MOLIN",
-     "preco": 2.5,
-     "img": "produtos/12282.jpg"
+     "cod": 10561,
+     "nome": "LAPIS ESCREVER CIS SPIRO-ROSA",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/10561.jpg"
     },
     {
      "cod": 10698,
@@ -1523,18 +1516,18 @@
      "img": "produtos/10698.jpg"
     },
     {
+     "cod": 12282,
+     "nome": "LAPIS ESCREVER MOLIN LOVE BLACK E WHITE C/BORRACHA",
+     "marca": "MOLIN",
+     "preco": 2.5,
+     "img": "produtos/12282.jpg"
+    },
+    {
      "cod": 13053,
      "nome": "LAPIS ESCREVER CIS FANTASIA DIVERTIDA C/BORRACHA",
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/13053.jpg"
-    },
-    {
-     "cod": 11529,
-     "nome": "LAPIS 12CORES-MAPED STAR",
-     "marca": "MAPED",
-     "preco": 12.9,
-     "img": "produtos/11529.jpg"
     },
     {
      "cod": 13159,
@@ -1544,20 +1537,6 @@
      "img": "produtos/13159.jpg"
     },
     {
-     "cod": 7700,
-     "nome": "LAPIS 12CORES-ACRILEX (JUMBO)",
-     "marca": "",
-     "preco": 28.9,
-     "img": "produtos/7700.jpg"
-    },
-    {
-     "cod": 10270,
-     "nome": "LAPIS ESCREVER FABER SEXTAVADO AZUL C/BORRACHA",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/10270.jpg"
-    },
-    {
      "cod": 13158,
      "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-AZUL",
      "marca": "TILIBRA",
@@ -1565,11 +1544,25 @@
      "img": "produtos/13158.jpg"
     },
     {
-     "cod": 13160,
-     "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-ROXO",
-     "marca": "TILIBRA",
-     "preco": 0.9,
-     "img": "produtos/13160.jpg"
+     "cod": 7700,
+     "nome": "LAPIS 12CORES-ACRILEX (JUMBO)",
+     "marca": "",
+     "preco": 28.9,
+     "img": "produtos/7700.jpg"
+    },
+    {
+     "cod": 11529,
+     "nome": "LAPIS 12CORES-MAPED STAR",
+     "marca": "MAPED",
+     "preco": 12.9,
+     "img": "produtos/11529.jpg"
+    },
+    {
+     "cod": 10270,
+     "nome": "LAPIS ESCREVER FABER SEXTAVADO AZUL C/BORRACHA",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/10270.jpg"
     },
     {
      "cod": 5407,
@@ -1586,18 +1579,11 @@
      "img": "produtos/10705.jpg"
     },
     {
-     "cod": 1655,
-     "nome": "LAPIS 24CORES-FABER (SEM KIT)",
-     "marca": "FABER",
-     "preco": 41.9,
-     "img": "produtos/1655.jpg"
-    },
-    {
-     "cod": 1642,
-     "nome": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
-     "marca": "ACRILEX",
-     "preco": 14.9,
-     "img": "produtos/1642.jpg"
+     "cod": 13160,
+     "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-ROXO",
+     "marca": "TILIBRA",
+     "preco": 0.9,
+     "img": "produtos/13160.jpg"
     },
     {
      "cod": 6287,
@@ -1607,11 +1593,11 @@
      "img": "produtos/6287.jpg"
     },
     {
-     "cod": 10636,
-     "nome": "LAPIS ESCREVER CIS FANTASIA PETS C/BORRACHA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/10636.jpg"
+     "cod": 1642,
+     "nome": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
+     "marca": "ACRILEX",
+     "preco": 14.9,
+     "img": "produtos/1642.jpg"
     },
     {
      "cod": 1640,
@@ -1621,6 +1607,13 @@
      "img": "produtos/1640.jpg"
     },
     {
+     "cod": 10636,
+     "nome": "LAPIS ESCREVER CIS FANTASIA PETS C/BORRACHA",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/10636.jpg"
+    },
+    {
      "cod": 1674,
      "nome": "LAPIS FABER 2H (DESENHO)",
      "marca": "FABER",
@@ -1628,18 +1621,11 @@
      "img": "produtos/1674.jpg"
     },
     {
-     "cod": 12717,
-     "nome": "LAPIS ESCREVER TRIS MARIE",
-     "marca": "TRIS",
-     "preco": 2.5,
-     "img": "produtos/12717.jpg"
-    },
-    {
-     "cod": 10066,
-     "nome": "LAPIS ESCREVER FABER GLAM-PRATA",
+     "cod": 1655,
+     "nome": "LAPIS 24CORES-FABER (SEM KIT)",
      "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/10066.jpg"
+     "preco": 41.9,
+     "img": "produtos/1655.jpg"
     },
     {
      "cod": 7706,
@@ -1647,6 +1633,13 @@
      "marca": "MAPED",
      "preco": 24.9,
      "img": "produtos/7706.jpg"
+    },
+    {
+     "cod": 10066,
+     "nome": "LAPIS ESCREVER FABER GLAM-PRATA",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/10066.jpg"
     },
     {
      "cod": 1646,
@@ -1661,6 +1654,13 @@
      "marca": "LEO E LEO",
      "preco": 12.9,
      "img": "produtos/3496.jpg"
+    },
+    {
+     "cod": 12717,
+     "nome": "LAPIS ESCREVER TRIS MARIE",
+     "marca": "TRIS",
+     "preco": 2.5,
+     "img": "produtos/12717.jpg"
     },
     {
      "cod": 10475,
@@ -1726,13 +1726,6 @@
      "img": "produtos/13044.jpg"
     },
     {
-     "cod": 10560,
-     "nome": "LAPIS ESCREVER CIS SPIRO-PRETO",
-     "marca": "CIS",
-     "preco": 1.9,
-     "img": "produtos/10560.jpg"
-    },
-    {
      "cod": 7710,
      "nome": "LAPIS 12CORES-MAPED (APAGAVEL)",
      "marca": "MAPED",
@@ -1754,11 +1747,11 @@
      "img": "produtos/13799.jpg"
     },
     {
-     "cod": 3515,
-     "nome": "LAPIS ESCREVER FABER NEON-VERDE",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3515.jpg"
+     "cod": 10560,
+     "nome": "LAPIS ESCREVER CIS SPIRO-PRETO",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/10560.jpg"
     },
     {
      "cod": 8986,
@@ -1768,11 +1761,11 @@
      "img": "produtos/8986.jpg"
     },
     {
-     "cod": 7860,
-     "nome": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-     "marca": "MAPED",
-     "preco": 1.5,
-     "img": "produtos/7860.jpg"
+     "cod": 3515,
+     "nome": "LAPIS ESCREVER FABER NEON-VERDE",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/3515.jpg"
     },
     {
      "cod": 8985,
@@ -1789,13 +1782,6 @@
      "img": "produtos/12315.jpg"
     },
     {
-     "cod": 3518,
-     "nome": "LAPIS ESCREVER FABER PEROLA-LILAS",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/3518.jpg"
-    },
-    {
      "cod": 1657,
      "nome": "LAPIS 24CORES-FABER (JUMBO)",
      "marca": "FABER",
@@ -1803,11 +1789,11 @@
      "img": "produtos/1657.jpg"
     },
     {
-     "cod": 4869,
-     "nome": "LAPIS 6CORES NEON-MAPED",
+     "cod": 7860,
+     "nome": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
      "marca": "MAPED",
-     "preco": 12.9,
-     "img": "produtos/4869.jpg"
+     "preco": 1.5,
+     "img": "produtos/7860.jpg"
     },
     {
      "cod": 8419,
@@ -1824,6 +1810,13 @@
      "img": "produtos/10068.jpg"
     },
     {
+     "cod": 3518,
+     "nome": "LAPIS ESCREVER FABER PEROLA-LILAS",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/3518.jpg"
+    },
+    {
      "cod": 12323,
      "nome": "LAPIS ESCREVER MOLIN TOP LOVE CITY 3D",
      "marca": "MOLIN",
@@ -1836,6 +1829,13 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/3512.jpg"
+    },
+    {
+     "cod": 4869,
+     "nome": "LAPIS 6CORES NEON-MAPED",
+     "marca": "MAPED",
+     "preco": 12.9,
+     "img": "produtos/4869.jpg"
     },
     {
      "cod": 1664,
@@ -1859,13 +1859,6 @@
      "img": "produtos/12630.jpg"
     },
     {
-     "cod": 10563,
-     "nome": "LAPIS ESCREVER CIS SPIRO-VERDE",
-     "marca": "CIS",
-     "preco": 1.9,
-     "img": "produtos/10563.jpg"
-    },
-    {
      "cod": 1660,
      "nome": "LAPIS 36CORES-ACRILEX",
      "marca": "ACRILEX",
@@ -1873,11 +1866,11 @@
      "img": "produtos/1660.jpg"
     },
     {
-     "cod": 10699,
-     "nome": "LAPIS ESCREVER FABER PASTEL-LILAS",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/10699.jpg"
+     "cod": 10563,
+     "nome": "LAPIS ESCREVER CIS SPIRO-VERDE",
+     "marca": "CIS",
+     "preco": 1.9,
+     "img": "produtos/10563.jpg"
     },
     {
      "cod": 14124,
@@ -1887,25 +1880,18 @@
      "img": "produtos/14124.jpg"
     },
     {
-     "cod": 12626,
-     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR",
-     "marca": "TRIS",
-     "preco": 10.9,
-     "img": "produtos/12626.jpg"
-    },
-    {
-     "cod": 10632,
-     "nome": "LAPIS ESCREVER CIS NEON-ROXO",
-     "marca": "CIS",
-     "preco": 1.5,
-     "img": "produtos/10632.jpg"
-    },
-    {
      "cod": 5838,
      "nome": "LAPIS ESCREVER FABER (STRASS) SPARKLE-AZUL",
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/5838.jpg"
+    },
+    {
+     "cod": 10699,
+     "nome": "LAPIS ESCREVER FABER PASTEL-LILAS",
+     "marca": "FABER",
+     "preco": 2.0,
+     "img": "produtos/10699.jpg"
     },
     {
      "cod": 7856,
@@ -1915,11 +1901,18 @@
      "img": "produtos/7856.jpg"
     },
     {
-     "cod": 8459,
-     "nome": "LAPIS ESCREVER FABER GLITZ-AZUL",
-     "marca": "FABER",
-     "preco": 2.5,
-     "img": "produtos/8459.jpg"
+     "cod": 10632,
+     "nome": "LAPIS ESCREVER CIS NEON-ROXO",
+     "marca": "CIS",
+     "preco": 1.5,
+     "img": "produtos/10632.jpg"
+    },
+    {
+     "cod": 12626,
+     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR",
+     "marca": "TRIS",
+     "preco": 10.9,
+     "img": "produtos/12626.jpg"
     },
     {
      "cod": 12732,
@@ -1955,6 +1948,13 @@
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10564.jpg"
+    },
+    {
+     "cod": 8459,
+     "nome": "LAPIS ESCREVER FABER GLITZ-AZUL",
+     "marca": "FABER",
+     "preco": 2.5,
+     "img": "produtos/8459.jpg"
     },
     {
      "cod": 7858,
@@ -2187,25 +2187,11 @@
      "img": "produtos/1830.jpg"
     },
     {
-     "cod": 1832,
-     "nome": "MARCA TEXTO PILOT-ROSA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/1832.jpg"
-    },
-    {
      "cod": 7533,
      "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
      "marca": "JOCAR",
      "preco": 2.5,
      "img": "produtos/7533.jpg"
-    },
-    {
-     "cod": 1833,
-     "nome": "MARCA TEXTO PILOT-VERDE",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/1833.jpg"
     },
     {
      "cod": 1847,
@@ -2222,11 +2208,25 @@
      "img": "produtos/2353.jpg"
     },
     {
+     "cod": 1832,
+     "nome": "MARCA TEXTO PILOT-ROSA",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/1832.jpg"
+    },
+    {
      "cod": 1831,
      "nome": "MARCA TEXTO PILOT-LARANJA",
      "marca": "PILOT",
      "preco": 4.9,
      "img": "produtos/1831.jpg"
+    },
+    {
+     "cod": 1833,
+     "nome": "MARCA TEXTO PILOT-VERDE",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/1833.jpg"
     },
     {
      "cod": 2350,
@@ -2250,18 +2250,18 @@
      "img": "produtos/2354.jpg"
     },
     {
-     "cod": 13364,
-     "nome": "MARCA TEXTO JOCAR-LARANJA",
-     "marca": "JOCAR",
-     "preco": 2.0,
-     "img": "produtos/13364.jpg"
-    },
-    {
      "cod": 2334,
      "nome": "PINCEL ATOM.850 JOCAR-AZUL",
      "marca": "JOCAR",
      "preco": 2.0,
      "img": "produtos/2334.jpg"
+    },
+    {
+     "cod": 13364,
+     "nome": "MARCA TEXTO JOCAR-LARANJA",
+     "marca": "JOCAR",
+     "preco": 2.0,
+     "img": "produtos/13364.jpg"
     },
     {
      "cod": 2352,
@@ -2306,13 +2306,6 @@
      "img": "produtos/7579.jpg"
     },
     {
-     "cod": 12147,
-     "nome": "MARCA TEXTO PILOT-VIOLETA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/12147.jpg"
-    },
-    {
      "cod": 2338,
      "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
      "marca": "JOCAR",
@@ -2327,20 +2320,6 @@
      "img": "produtos/11571.jpg"
     },
     {
-     "cod": 7532,
-     "nome": "PINCEL ATOM.SLIM.JOCAR-VERMELHO",
-     "marca": "JOCAR",
-     "preco": 2.5,
-     "img": "produtos/7532.jpg"
-    },
-    {
-     "cod": 1827,
-     "nome": "MARCA TEXTO CIS-VERDE",
-     "marca": "CIS",
-     "preco": 3.0,
-     "img": "produtos/1827.jpg"
-    },
-    {
      "cod": 11856,
      "nome": "PINCEL Q.BRC RECAR. BRW-VERMELHO",
      "marca": "BRW",
@@ -2348,18 +2327,11 @@
      "img": "produtos/11856.jpg"
     },
     {
-     "cod": 6637,
-     "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
-     "marca": "MASTERPRIN",
-     "preco": 2.0,
-     "img": "produtos/6637.jpg"
-    },
-    {
-     "cod": 7530,
-     "nome": "CANETINHA PLUS C/12-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 6.9,
-     "img": "produtos/7530.jpg"
+     "cod": 7532,
+     "nome": "PINCEL ATOM.SLIM.JOCAR-VERMELHO",
+     "marca": "JOCAR",
+     "preco": 2.5,
+     "img": "produtos/7532.jpg"
     },
     {
      "cod": 13804,
@@ -2390,11 +2362,32 @@
      "img": "produtos/6639.jpg"
     },
     {
+     "cod": 7530,
+     "nome": "CANETINHA PLUS C/12-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 6.9,
+     "img": "produtos/7530.jpg"
+    },
+    {
      "cod": 2627,
      "nome": "REFIL PINCEL Q.BRC PILOT-VERDE",
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2627.jpg"
+    },
+    {
+     "cod": 12147,
+     "nome": "MARCA TEXTO PILOT-VIOLETA",
+     "marca": "PILOT",
+     "preco": 4.9,
+     "img": "produtos/12147.jpg"
+    },
+    {
+     "cod": 6637,
+     "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
+     "marca": "MASTERPRIN",
+     "preco": 2.0,
+     "img": "produtos/6637.jpg"
     },
     {
      "cod": 1848,
@@ -2418,11 +2411,11 @@
      "img": "produtos/2351.jpg"
     },
     {
-     "cod": 7527,
-     "nome": "JOGO PINCEL BIG LEO E LEO C/12",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/7527.jpg"
+     "cod": 1827,
+     "nome": "MARCA TEXTO CIS-VERDE",
+     "marca": "CIS",
+     "preco": 3.0,
+     "img": "produtos/1827.jpg"
     },
     {
      "cod": 2345,
@@ -2432,18 +2425,25 @@
      "img": "produtos/2345.jpg"
     },
     {
-     "cod": 12241,
-     "nome": "MARCA TEXTO BRW GEL-AMARELO",
-     "marca": "BRW",
-     "preco": 4.9,
-     "img": "produtos/12241.jpg"
-    },
-    {
      "cod": 13801,
      "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-AMARELO",
      "marca": "CIS",
      "preco": 3.9,
      "img": "produtos/13801.jpg"
+    },
+    {
+     "cod": 7527,
+     "nome": "JOGO PINCEL BIG LEO E LEO C/12",
+     "marca": "LEO E LEO",
+     "preco": 12.9,
+     "img": "produtos/7527.jpg"
+    },
+    {
+     "cod": 12241,
+     "nome": "MARCA TEXTO BRW GEL-AMARELO",
+     "marca": "BRW",
+     "preco": 4.9,
+     "img": "produtos/12241.jpg"
     },
     {
      "cod": 12229,
@@ -2467,18 +2467,18 @@
      "img": "produtos/13803.jpg"
     },
     {
-     "cod": 7528,
-     "nome": "CANETINHA PLUS C/24-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/7528.jpg"
-    },
-    {
      "cod": 8375,
      "nome": "MARCA TEXTO MAPED PASTEL-LILAS",
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/8375.jpg"
+    },
+    {
+     "cod": 7528,
+     "nome": "CANETINHA PLUS C/24-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 12.9,
+     "img": "produtos/7528.jpg"
     },
     {
      "cod": 2658,
@@ -2565,18 +2565,18 @@
      "img": "produtos/11979.jpg"
     },
     {
-     "cod": 11536,
-     "nome": "MARCA TEXTO MAPED GLITTER-PRATA",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/11536.jpg"
-    },
-    {
      "cod": 13796,
      "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
      "marca": "CIS",
      "preco": 6.9,
      "img": "produtos/13796.jpg"
+    },
+    {
+     "cod": 11536,
+     "nome": "MARCA TEXTO MAPED GLITTER-PRATA",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/11536.jpg"
     },
     {
      "cod": 11977,
@@ -2628,32 +2628,11 @@
      "img": "produtos/4759.jpg"
     },
     {
-     "cod": 12197,
-     "nome": "MARCA TEXTO MAPED PASTEL-VERDE",
-     "marca": "MAPED",
-     "preco": 6.9,
-     "img": "produtos/12197.jpg"
-    },
-    {
      "cod": 7732,
      "nome": "PINCEL Q.BRC RECAR.MASTERPRINT-VERDE",
      "marca": "MASTERPRIN",
      "preco": 4.5,
      "img": "produtos/7732.jpg"
-    },
-    {
-     "cod": 13142,
-     "nome": "CANETINHA C/12-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/13142.jpg"
-    },
-    {
-     "cod": 8510,
-     "nome": "MARCA TEXTO JOCAR PASTEL TREND-AMARELO",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/8510.jpg"
     },
     {
      "cod": 11547,
@@ -2663,6 +2642,13 @@
      "img": "produtos/11547.jpg"
     },
     {
+     "cod": 12197,
+     "nome": "MARCA TEXTO MAPED PASTEL-VERDE",
+     "marca": "MAPED",
+     "preco": 6.9,
+     "img": "produtos/12197.jpg"
+    },
+    {
      "cod": 10260,
      "nome": "CANETINHA C/6-ACRILEX",
      "marca": "ACRILEX",
@@ -2670,18 +2656,25 @@
      "img": "produtos/10260.jpg"
     },
     {
-     "cod": 8512,
-     "nome": "MARCA TEXTO JOCAR PASTEL TREND-SALMAO",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/8512.jpg"
-    },
-    {
      "cod": 13802,
      "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-LARANJA",
      "marca": "CIS",
      "preco": 3.9,
      "img": "produtos/13802.jpg"
+    },
+    {
+     "cod": 8510,
+     "nome": "MARCA TEXTO JOCAR PASTEL TREND-AMARELO",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/8510.jpg"
+    },
+    {
+     "cod": 8512,
+     "nome": "MARCA TEXTO JOCAR PASTEL TREND-SALMAO",
+     "marca": "CIS",
+     "preco": 6.9,
+     "img": "produtos/8512.jpg"
     },
     {
      "cod": 2655,
@@ -2698,11 +2691,11 @@
      "img": "produtos/12220.jpg"
     },
     {
-     "cod": 7574,
-     "nome": "MARCADOR FINE PLUS C/10-JOCAR (TIPO STABILO)",
-     "marca": "JOCAR",
-     "preco": 25.9,
-     "img": "produtos/7574.jpg"
+     "cod": 13142,
+     "nome": "CANETINHA C/12-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 13.9,
+     "img": "produtos/13142.jpg"
     },
     {
      "cod": 10261,
@@ -2710,6 +2703,13 @@
      "marca": "ACRILEX",
      "preco": 24.9,
      "img": "produtos/10261.jpg"
+    },
+    {
+     "cod": 7574,
+     "nome": "MARCADOR FINE PLUS C/10-JOCAR (TIPO STABILO)",
+     "marca": "JOCAR",
+     "preco": 25.9,
+     "img": "produtos/7574.jpg"
     },
     {
      "cod": 6641,
@@ -2754,18 +2754,18 @@
      "img": "produtos/13800.jpg"
     },
     {
-     "cod": 9136,
-     "nome": "MARCA TEXTO GEL VERDE-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9136.jpg"
-    },
-    {
      "cod": 12198,
      "nome": "MARCA TEXTO MAPED PASTEL-LARANJA",
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/12198.jpg"
+    },
+    {
+     "cod": 9136,
+     "nome": "MARCA TEXTO GEL VERDE-TRIS TWIST",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/9136.jpg"
     },
     {
      "cod": 10385,
@@ -2831,18 +2831,18 @@
      "img": "produtos/12742.jpg"
     },
     {
-     "cod": 13379,
-     "nome": "CANETINHA C/24-TRIS (TONS VIBRANTES)",
-     "marca": "TRIS",
-     "preco": 35.9,
-     "img": "produtos/13379.jpg"
-    },
-    {
      "cod": 10381,
      "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-AMARELO",
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/10381.jpg"
+    },
+    {
+     "cod": 13379,
+     "nome": "CANETINHA C/24-TRIS (TONS VIBRANTES)",
+     "marca": "TRIS",
+     "preco": 35.9,
+     "img": "produtos/13379.jpg"
     },
     {
      "cod": 11858,
@@ -3012,18 +3012,18 @@
      "img": "produtos/13846.jpg"
     },
     {
-     "cod": 12227,
-     "nome": "LAPISEIRA 2.0-BRW PRETA/AZUL",
-     "marca": "BRW",
-     "preco": 4.9,
-     "img": "produtos/12227.jpg"
-    },
-    {
      "cod": 12222,
      "nome": "LAPISEIRA 2.0-BRW C/GRAFITE PRATA",
      "marca": "BRW",
      "preco": 8.9,
      "img": "produtos/12222.jpg"
+    },
+    {
+     "cod": 12227,
+     "nome": "LAPISEIRA 2.0-BRW PRETA/AZUL",
+     "marca": "BRW",
+     "preco": 4.9,
+     "img": "produtos/12227.jpg"
     },
     {
      "cod": 13163,
@@ -3096,6 +3096,13 @@
      "img": "produtos/5048.jpg"
     },
     {
+     "cod": 1704,
+     "nome": "LAPISEIRA 0.7-FABER POLY SUPER MATIC",
+     "marca": "FABER",
+     "preco": 15.9,
+     "img": "produtos/1704.jpg"
+    },
+    {
      "cod": 5754,
      "nome": "LAPISEIRA 0.9-TILIBRA I-POINT",
      "marca": "TILIBRA",
@@ -3110,11 +3117,11 @@
      "img": "produtos/1702.jpg"
     },
     {
-     "cod": 1704,
-     "nome": "LAPISEIRA 0.7-FABER POLY SUPER MATIC",
-     "marca": "FABER",
-     "preco": 15.9,
-     "img": "produtos/1704.jpg"
+     "cod": 12213,
+     "nome": "LAPISEIRA 0.7-BRW TECNICA METALIZADA",
+     "marca": "BRW",
+     "preco": 19.9,
+     "img": "produtos/12213.jpg"
     },
     {
      "cod": 10602,
@@ -3136,13 +3143,6 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/5705.jpg"
-    },
-    {
-     "cod": 12213,
-     "nome": "LAPISEIRA 0.7-BRW TECNICA METALIZADA",
-     "marca": "BRW",
-     "preco": 19.9,
-     "img": "produtos/12213.jpg"
     },
     {
      "cod": 12681,
@@ -3200,18 +3200,18 @@
    "nome": "Borrachas",
    "itens": [
     {
-     "cod": 278,
-     "nome": "BORRACHA 60 LEO",
-     "marca": "LEO E LEO",
-     "preco": 0.25,
-     "img": "produtos/278.jpg"
-    },
-    {
      "cod": 276,
      "nome": "BORRACHA MERCUR 20",
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg"
+    },
+    {
+     "cod": 278,
+     "nome": "BORRACHA 60 LEO",
+     "marca": "LEO E LEO",
+     "preco": 0.25,
+     "img": "produtos/278.jpg"
     },
     {
      "cod": 277,
@@ -3312,13 +3312,6 @@
      "img": "produtos/12771.jpg"
     },
     {
-     "cod": 8430,
-     "nome": "BORRACHA FABER SUPER SOFT (PRETA)",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/8430.jpg"
-    },
-    {
      "cod": 13084,
      "nome": "BORRACHA MERCUR OCEANO",
      "marca": "MERCUR",
@@ -3326,18 +3319,11 @@
      "img": "produtos/13084.jpg"
     },
     {
-     "cod": 3215,
-     "nome": "BORRACHA FABER C/CP NEON-LARANJA",
+     "cod": 8430,
+     "nome": "BORRACHA FABER SUPER SOFT (PRETA)",
      "marca": "FABER",
      "preco": 4.9,
-     "img": "produtos/3215.jpg"
-    },
-    {
-     "cod": 13083,
-     "nome": "BORRACHA MERCUR PETS",
-     "marca": "MERCUR",
-     "preco": 2.9,
-     "img": "produtos/13083.jpg"
+     "img": "produtos/8430.jpg"
     },
     {
      "cod": 12663,
@@ -3345,6 +3331,13 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/12663.jpg"
+    },
+    {
+     "cod": 3215,
+     "nome": "BORRACHA FABER C/CP NEON-LARANJA",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/3215.jpg"
     },
     {
      "cod": 281,
@@ -3368,11 +3361,11 @@
      "img": "produtos/12664.jpg"
     },
     {
-     "cod": 10391,
-     "nome": "BORRACHA FABER C/CP GLITTER-ROXO",
-     "marca": "FABER",
-     "preco": 6.9,
-     "img": "produtos/10391.jpg"
+     "cod": 13083,
+     "nome": "BORRACHA MERCUR PETS",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/13083.jpg"
     },
     {
      "cod": 274,
@@ -3389,11 +3382,11 @@
      "img": "produtos/10390.jpg"
     },
     {
-     "cod": 3216,
-     "nome": "BORRACHA FABER C/CP NEON-ROSA",
+     "cod": 10391,
+     "nome": "BORRACHA FABER C/CP GLITTER-ROXO",
      "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/3216.jpg"
+     "preco": 6.9,
+     "img": "produtos/10391.jpg"
     },
     {
      "cod": 3225,
@@ -3401,6 +3394,13 @@
      "marca": "TILIBRA",
      "preco": 3.9,
      "img": "produtos/3225.jpg"
+    },
+    {
+     "cod": 3216,
+     "nome": "BORRACHA FABER C/CP NEON-ROSA",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/3216.jpg"
     },
     {
      "cod": 13138,
@@ -3499,13 +3499,6 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12698.jpg"
-    },
-    {
-     "cod": 296,
-     "nome": "BORRACHA FABER URBZ",
-     "marca": "FABER",
-     "preco": 2.0,
-     "img": "produtos/296.jpg"
     },
     {
      "cod": 12697,
@@ -3779,18 +3772,18 @@
      "img": "produtos/9988.jpg"
     },
     {
-     "cod": 11343,
-     "nome": "CADERNO CD 48F S/D (VERDE)",
-     "marca": "S.DOMING",
-     "preco": 9.9,
-     "img": "produtos/11343.jpg"
-    },
-    {
      "cod": 12448,
      "nome": "CADERNO PEQ. CD 48F (VERDE)",
      "marca": "CREDEAL",
      "preco": 5.9,
      "img": "produtos/12448.jpg"
+    },
+    {
+     "cod": 11343,
+     "nome": "CADERNO CD 48F S/D (VERDE)",
+     "marca": "S.DOMING",
+     "preco": 9.9,
+     "img": "produtos/11343.jpg"
     },
     {
      "cod": 9989,
@@ -3856,18 +3849,18 @@
      "img": "produtos/8384.jpg"
     },
     {
-     "cod": 6083,
-     "nome": "CADERNO CD S/P 96F-X SPIDER",
-     "marca": "MAXIMA",
-     "preco": 14.9,
-     "img": "produtos/6083.jpg"
-    },
-    {
      "cod": 12967,
      "nome": "CADERNO CD 80F-REBECCA BONBON",
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/12967.jpg"
+    },
+    {
+     "cod": 6083,
+     "nome": "CADERNO CD S/P 96F-X SPIDER",
+     "marca": "MAXIMA",
+     "preco": 14.9,
+     "img": "produtos/6083.jpg"
     },
     {
      "cod": 13148,
@@ -3905,13 +3898,6 @@
      "img": "produtos/12798.jpg"
     },
     {
-     "cod": 7796,
-     "nome": "CADERNO CD 80F-HOT WHEELS",
-     "marca": "TILIBRA",
-     "preco": 38.9,
-     "img": "produtos/7796.jpg"
-    },
-    {
      "cod": 12808,
      "nome": "CADERNO CD 80F-MOANA",
      "marca": "TILIBRA",
@@ -3924,6 +3910,13 @@
      "marca": "SD",
      "preco": 18.9,
      "img": "produtos/13111.jpg"
+    },
+    {
+     "cod": 12970,
+     "nome": "CADERNO COLADO PAPEL CARTA 48F-URSINHOS CARINHOSOS",
+     "marca": "SD",
+     "preco": 18.9,
+     "img": "produtos/12970.jpg"
     },
     {
      "cod": 12973,
@@ -3940,18 +3933,11 @@
      "img": "produtos/12979.jpg"
     },
     {
-     "cod": 12970,
-     "nome": "CADERNO COLADO PAPEL CARTA 48F-URSINHOS CARINHOSOS",
+     "cod": 12972,
+     "nome": "CADERNO COLADO PAPEL CARTA 48F-MORANGUINHO",
      "marca": "SD",
      "preco": 18.9,
-     "img": "produtos/12970.jpg"
-    },
-    {
-     "cod": 13033,
-     "nome": "CADERNO EXECUTIVO COST. C/D (M) PRETO 80F",
-     "marca": "TILIBRA",
-     "preco": 36.9,
-     "img": "produtos/13033.jpg"
+     "img": "produtos/12972.jpg"
     },
     {
      "cod": 12796,
@@ -3961,11 +3947,11 @@
      "img": "produtos/12796.jpg"
     },
     {
-     "cod": 12972,
-     "nome": "CADERNO COLADO PAPEL CARTA 48F-MORANGUINHO",
-     "marca": "SD",
-     "preco": 18.9,
-     "img": "produtos/12972.jpg"
+     "cod": 13033,
+     "nome": "CADERNO EXECUTIVO COST. C/D (M) PRETO 80F",
+     "marca": "TILIBRA",
+     "preco": 36.9,
+     "img": "produtos/13033.jpg"
     },
     {
      "cod": 6491,
@@ -3989,18 +3975,11 @@
      "img": "produtos/12456.jpg"
     },
     {
-     "cod": 11276,
-     "nome": "CADERNO CD 80F-BEAUTIFUL BUTTERFLY",
-     "marca": "PAULISTA",
-     "preco": 10.9,
-     "img": "produtos/11276.jpg"
-    },
-    {
-     "cod": 5850,
-     "nome": "CADERNO CD 80F-MINNIE",
+     "cod": 7796,
+     "nome": "CADERNO CD 80F-HOT WHEELS",
      "marca": "TILIBRA",
-     "preco": 26.9,
-     "img": "produtos/5850.jpg"
+     "preco": 38.9,
+     "img": "produtos/7796.jpg"
     },
     {
      "cod": 6336,
@@ -4038,11 +4017,11 @@
      "img": "produtos/13165.jpg"
     },
     {
-     "cod": 5882,
-     "nome": "CADERNO CD 96F-PIMPOLHOS MASC.",
-     "marca": "SD",
-     "preco": 18.9,
-     "img": "produtos/5882.jpg"
+     "cod": 5850,
+     "nome": "CADERNO CD 80F-MINNIE",
+     "marca": "TILIBRA",
+     "preco": 26.9,
+     "img": "produtos/5850.jpg"
     },
     {
      "cod": 10490,
@@ -4059,11 +4038,18 @@
      "img": "produtos/12980.jpg"
     },
     {
-     "cod": 10465,
-     "nome": "CADERNO CD 80F-REI LEAO",
+     "cod": 8766,
+     "nome": "CADERNO CD 80F-WANDINHA",
      "marca": "TILIBRA",
-     "preco": 38.9,
-     "img": "produtos/10465.jpg"
+     "preco": 24.9,
+     "img": "produtos/8766.jpg"
+    },
+    {
+     "cod": 11276,
+     "nome": "CADERNO CD 80F-BEAUTIFUL BUTTERFLY",
+     "marca": "PAULISTA",
+     "preco": 10.9,
+     "img": "produtos/11276.jpg"
     },
     {
      "cod": 11314,
@@ -4080,11 +4066,18 @@
      "img": "produtos/8235.jpg"
     },
     {
-     "cod": 8766,
-     "nome": "CADERNO CD 80F-WANDINHA",
+     "cod": 10465,
+     "nome": "CADERNO CD 80F-REI LEAO",
      "marca": "TILIBRA",
-     "preco": 24.9,
-     "img": "produtos/8766.jpg"
+     "preco": 38.9,
+     "img": "produtos/10465.jpg"
+    },
+    {
+     "cod": 5882,
+     "nome": "CADERNO CD 96F-PIMPOLHOS MASC.",
+     "marca": "SD",
+     "preco": 18.9,
+     "img": "produtos/5882.jpg"
     },
     {
      "cod": 8385,
@@ -4136,13 +4129,6 @@
      "img": "produtos/5877.jpg"
     },
     {
-     "cod": 11479,
-     "nome": "CADERNO PEQ. CD 80F-ONE PIECE",
-     "marca": "TILIBRA",
-     "preco": 19.9,
-     "img": "produtos/11479.jpg"
-    },
-    {
      "cod": 5660,
      "nome": "CADERNO CD 80F-HOT WHEELS MONSTER TRUCK",
      "marca": "TILIBRA",
@@ -4169,6 +4155,13 @@
      "marca": "MAXIMA",
      "preco": 15.9,
      "img": "produtos/3243.jpg"
+    },
+    {
+     "cod": 11479,
+     "nome": "CADERNO PEQ. CD 80F-ONE PIECE",
+     "marca": "TILIBRA",
+     "preco": 19.9,
+     "img": "produtos/11479.jpg"
     },
     {
      "cod": 5929,
@@ -4297,18 +4290,18 @@
      "img": "produtos/8255.jpg"
     },
     {
-     "cod": 12407,
-     "nome": "CADERNO CD 80F-SUPER CARS",
-     "marca": "CREDEAL",
-     "preco": 12.9,
-     "img": "produtos/12407.jpg"
-    },
-    {
      "cod": 8244,
      "nome": "CADERNO CD 96F-FOXY KIDS",
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg"
+    },
+    {
+     "cod": 12407,
+     "nome": "CADERNO CD 80F-SUPER CARS",
+     "marca": "CREDEAL",
+     "preco": 12.9,
+     "img": "produtos/12407.jpg"
     },
     {
      "cod": 8246,
@@ -4318,17 +4311,17 @@
      "img": "produtos/8246.jpg"
     },
     {
-     "cod": 12405,
-     "nome": "CADERNO CD 80F-TURMA DA LALA",
-     "marca": "CREDEAL",
-     "preco": 10.9,
-     "img": "produtos/12405.jpg"
-    },
-    {
      "cod": 11432,
      "nome": "CADERNO 10X1 160F-HAPPY ADVENTURE",
      "marca": "CREDEAL",
      "preco": 15.9,
+     "img": "produtos/11432.jpg"
+    },
+    {
+     "cod": 12405,
+     "nome": "CADERNO CD 80F-TURMA DA LALA",
+     "marca": "CREDEAL",
+     "preco": 10.9,
      "img": null
     },
     {
@@ -4360,34 +4353,6 @@
      "img": null
     },
     {
-     "cod": 7825,
-     "nome": "CADERNO 1X1 80F-ZIP PRETO",
-     "marca": "TILIBRA",
-     "preco": 14.9,
-     "img": null
-    },
-    {
-     "cod": 7764,
-     "nome": "CADERNO 1X1 80F-HAPPY CONNECT",
-     "marca": "TILIBRA",
-     "preco": 27.9,
-     "img": null
-    },
-    {
-     "cod": 8247,
-     "nome": "CADERNO 1X1 80F-ARCO IRIS",
-     "marca": "CREDEAL",
-     "preco": 21.9,
-     "img": null
-    },
-    {
-     "cod": 8395,
-     "nome": "CADERNO 1X1 80F-PURPURINA",
-     "marca": "CREDEAL",
-     "preco": 21.9,
-     "img": null
-    },
-    {
      "cod": 5734,
      "nome": "CADERNO 1X1 80F-LUNIX",
      "marca": "TILIBRA",
@@ -4399,7 +4364,28 @@
      "nome": "CADERNO 10X1 160F-MY COLLECTION FEMININO",
      "marca": "CREDEAL",
      "preco": 15.9,
-     "img": "produtos/10898.jpg"
+     "img": null
+    },
+    {
+     "cod": 10931,
+     "nome": "CADERNO 1X1 96F-HAPPY ADVENTURE (CAPA FLEXIVEL)",
+     "marca": "CREDEAL",
+     "preco": 8.9,
+     "img": null
+    },
+    {
+     "cod": 8395,
+     "nome": "CADERNO 1X1 80F-PURPURINA",
+     "marca": "CREDEAL",
+     "preco": 21.9,
+     "img": null
+    },
+    {
+     "cod": 8247,
+     "nome": "CADERNO 1X1 80F-ARCO IRIS",
+     "marca": "CREDEAL",
+     "preco": 21.9,
+     "img": null
     },
     {
      "cod": 10928,
@@ -4409,39 +4395,11 @@
      "img": "produtos/10928.jpg"
     },
     {
-     "cod": 10931,
-     "nome": "CADERNO 1X1 96F-HAPPY ADVENTURE (CAPA FLEXIVEL)",
-     "marca": "CREDEAL",
-     "preco": 8.9,
-     "img": "produtos/10931.jpg"
-    },
-    {
-     "cod": 12554,
-     "nome": "CADERNO 10X1 160F-ATLETICO-MG",
-     "marca": "CREDEAL",
-     "preco": 49.9,
-     "img": "produtos/12554.jpg"
-    },
-    {
-     "cod": 8253,
-     "nome": "CADERNO 1X1 80F-BOTANICAL",
-     "marca": "CREDEAL",
-     "preco": 21.9,
-     "img": "produtos/8253.jpg"
-    },
-    {
-     "cod": 10933,
-     "nome": "CADERNO 10X1 160F-PERFORMANCE",
-     "marca": "CREDEAL",
-     "preco": 16.9,
-     "img": "produtos/10933.jpg"
-    },
-    {
-     "cod": 5928,
-     "nome": "CADERNO 1X1 80F-MULHER",
-     "marca": "S.DOMINGOS",
-     "preco": 24.9,
-     "img": "produtos/5928.jpg"
+     "cod": 7764,
+     "nome": "CADERNO 1X1 80F-HAPPY CONNECT",
+     "marca": "TILIBRA",
+     "preco": 27.9,
+     "img": "produtos/7764.jpg"
     },
     {
      "cod": 12963,
@@ -4451,18 +4409,32 @@
      "img": "produtos/12963.jpg"
     },
     {
-     "cod": 12387,
-     "nome": "CADERNO 20X1 280F-ESSENCIALE PRETO",
-     "marca": "CREDEAL",
-     "preco": 28.9,
-     "img": "produtos/12387.jpg"
+     "cod": 7825,
+     "nome": "CADERNO 1X1 80F-ZIP PRETO",
+     "marca": "TILIBRA",
+     "preco": 14.9,
+     "img": "produtos/7825.jpg"
     },
     {
-     "cod": 7745,
-     "nome": "CADERNO 1X1 80F-CHARME",
-     "marca": "TILIBRA",
+     "cod": 12554,
+     "nome": "CADERNO 10X1 160F-ATLETICO-MG",
+     "marca": "CREDEAL",
+     "preco": 49.9,
+     "img": "produtos/12554.jpg"
+    },
+    {
+     "cod": 10933,
+     "nome": "CADERNO 10X1 160F-PERFORMANCE",
+     "marca": "CREDEAL",
      "preco": 16.9,
-     "img": "produtos/7745.jpg"
+     "img": "produtos/10933.jpg"
+    },
+    {
+     "cod": 8245,
+     "nome": "CADERNO CD 80F-ARCO IRIS",
+     "marca": "CREDEAL",
+     "preco": 16.9,
+     "img": "produtos/8245.jpg"
     },
     {
      "cod": 12761,
@@ -4479,13 +4451,6 @@
      "img": "produtos/11428.jpg"
     },
     {
-     "cod": 8245,
-     "nome": "CADERNO CD 80F-ARCO IRIS",
-     "marca": "CREDEAL",
-     "preco": 16.9,
-     "img": "produtos/8245.jpg"
-    },
-    {
      "cod": 13218,
      "nome": "CADERNO 10X1 160F-BOM D+ MASCULINO",
      "marca": "SD",
@@ -4493,11 +4458,32 @@
      "img": "produtos/13218.jpg"
     },
     {
-     "cod": 5840,
-     "nome": "CADERNO 10X1 160F-LUNIX",
+     "cod": 8253,
+     "nome": "CADERNO 1X1 80F-BOTANICAL",
+     "marca": "CREDEAL",
+     "preco": 21.9,
+     "img": "produtos/8253.jpg"
+    },
+    {
+     "cod": 7745,
+     "nome": "CADERNO 1X1 80F-CHARME",
      "marca": "TILIBRA",
-     "preco": 23.9,
-     "img": "produtos/5840.jpg"
+     "preco": 16.9,
+     "img": "produtos/7745.jpg"
+    },
+    {
+     "cod": 12387,
+     "nome": "CADERNO 20X1 280F-ESSENCIALE PRETO",
+     "marca": "CREDEAL",
+     "preco": 28.9,
+     "img": "produtos/12387.jpg"
+    },
+    {
+     "cod": 5928,
+     "nome": "CADERNO 1X1 80F-MULHER",
+     "marca": "S.DOMINGOS",
+     "preco": 24.9,
+     "img": "produtos/5928.jpg"
     },
     {
      "cod": 13180,
@@ -4514,11 +4500,25 @@
      "img": "produtos/8402.jpg"
     },
     {
+     "cod": 13207,
+     "nome": "CADERNO 1X1 80F-AIR ATTACK",
+     "marca": "SD",
+     "preco": 22.9,
+     "img": "produtos/13207.jpg"
+    },
+    {
      "cod": 13213,
      "nome": "CADERNO 1X1 96F-FREEDOM",
      "marca": "SD",
      "preco": 14.9,
      "img": "produtos/13213.jpg"
+    },
+    {
+     "cod": 5840,
+     "nome": "CADERNO 10X1 160F-LUNIX",
+     "marca": "TILIBRA",
+     "preco": 23.9,
+     "img": "produtos/5840.jpg"
     },
     {
      "cod": 11440,
@@ -4528,20 +4528,6 @@
      "img": "produtos/11440.jpg"
     },
     {
-     "cod": 10466,
-     "nome": "CADERNO 10X1 160F-PEPPER MASCULINO",
-     "marca": "TILIBRA",
-     "preco": 21.9,
-     "img": "produtos/10466.jpg"
-    },
-    {
-     "cod": 13207,
-     "nome": "CADERNO 1X1 80F-AIR ATTACK",
-     "marca": "SD",
-     "preco": 22.9,
-     "img": "produtos/13207.jpg"
-    },
-    {
      "cod": 12385,
      "nome": "CADERNO 1X1 80F-DENMARK",
      "marca": "CREDEAL",
@@ -4549,18 +4535,11 @@
      "img": "produtos/12385.jpg"
     },
     {
-     "cod": 11438,
-     "nome": "CADERNO 10X1 160F-BE MAGNETIC",
-     "marca": "CREDEAL",
-     "preco": 23.9,
-     "img": "produtos/11438.jpg"
-    },
-    {
-     "cod": 5911,
-     "nome": "CADERNO 10X1 200F-KBOM FEMININO",
-     "marca": "SAO DOMING",
-     "preco": 27.9,
-     "img": "produtos/5911.jpg"
+     "cod": 10466,
+     "nome": "CADERNO 10X1 160F-PEPPER MASCULINO",
+     "marca": "TILIBRA",
+     "preco": 21.9,
+     "img": "produtos/10466.jpg"
     },
     {
      "cod": 7767,
@@ -4570,13 +4549,6 @@
      "img": "produtos/7767.jpg"
     },
     {
-     "cod": 6564,
-     "nome": "CADERNO 10X1 160F-PEPPER FEMININO",
-     "marca": "TILIBRA",
-     "preco": 21.9,
-     "img": "produtos/6564.jpg"
-    },
-    {
      "cod": 12404,
      "nome": "CADERNO 20X1 280F-PERFORMANCE",
      "marca": "CREDEAL",
@@ -4584,32 +4556,11 @@
      "img": "produtos/12404.jpg"
     },
     {
-     "cod": 7810,
-     "nome": "CADERNO EXECUTIVO COST. C/D (G) PRETO 80F",
-     "marca": "TILIBRA",
-     "preco": 49.9,
-     "img": "produtos/7810.jpg"
-    },
-    {
-     "cod": 12418,
-     "nome": "CADERNO CD 80F-CRY BABIES",
+     "cod": 11438,
+     "nome": "CADERNO 10X1 160F-BE MAGNETIC",
      "marca": "CREDEAL",
-     "preco": 19.9,
-     "img": "produtos/12418.jpg"
-    },
-    {
-     "cod": 5610,
-     "nome": "CADERNO 1X1 80F-CAPRICHO CONNECT",
-     "marca": "TILIBRA",
-     "preco": 29.9,
-     "img": "produtos/5610.jpg"
-    },
-    {
-     "cod": 11450,
-     "nome": "CADERNO 1X1 80F-MMA",
-     "marca": "CREDEAL",
-     "preco": 27.9,
-     "img": "produtos/11450.jpg"
+     "preco": 23.9,
+     "img": "produtos/11438.jpg"
     },
     {
      "cod": 10927,
@@ -4619,11 +4570,39 @@
      "img": "produtos/10927.jpg"
     },
     {
-     "cod": 7742,
-     "nome": "CADERNO 10X1 160F-ZIP PRETO",
+     "cod": 7810,
+     "nome": "CADERNO EXECUTIVO COST. C/D (G) PRETO 80F",
      "marca": "TILIBRA",
+     "preco": 49.9,
+     "img": "produtos/7810.jpg"
+    },
+    {
+     "cod": 11450,
+     "nome": "CADERNO 1X1 80F-MMA",
+     "marca": "CREDEAL",
      "preco": 27.9,
-     "img": "produtos/7742.jpg"
+     "img": "produtos/11450.jpg"
+    },
+    {
+     "cod": 12418,
+     "nome": "CADERNO CD 80F-CRY BABIES",
+     "marca": "CREDEAL",
+     "preco": 19.9,
+     "img": "produtos/12418.jpg"
+    },
+    {
+     "cod": 5911,
+     "nome": "CADERNO 10X1 200F-KBOM FEMININO",
+     "marca": "SAO DOMING",
+     "preco": 27.9,
+     "img": "produtos/5911.jpg"
+    },
+    {
+     "cod": 5610,
+     "nome": "CADERNO 1X1 80F-CAPRICHO CONNECT",
+     "marca": "TILIBRA",
+     "preco": 29.9,
+     "img": "produtos/5610.jpg"
     },
     {
      "cod": 5965,
@@ -4633,32 +4612,25 @@
      "img": "produtos/5965.jpg"
     },
     {
+     "cod": 6564,
+     "nome": "CADERNO 10X1 160F-PEPPER FEMININO",
+     "marca": "TILIBRA",
+     "preco": 21.9,
+     "img": "produtos/6564.jpg"
+    },
+    {
+     "cod": 7742,
+     "nome": "CADERNO 10X1 160F-ZIP PRETO",
+     "marca": "TILIBRA",
+     "preco": 27.9,
+     "img": "produtos/7742.jpg"
+    },
+    {
      "cod": 12441,
      "nome": "CADERNO CD 80F-AVENTURA DRAGOES",
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12441.jpg"
-    },
-    {
-     "cod": 13184,
-     "nome": "CADERNO 10X1 160F-LAVENDER",
-     "marca": "SD",
-     "preco": 41.9,
-     "img": "produtos/13184.jpg"
-    },
-    {
-     "cod": 13209,
-     "nome": "CADERNO 1X1 80F-NORDIC",
-     "marca": "SD",
-     "preco": 22.9,
-     "img": "produtos/13209.jpg"
-    },
-    {
-     "cod": 13170,
-     "nome": "CADERNO CD 80F-THE FLASH",
-     "marca": "SD",
-     "preco": 26.9,
-     "img": "produtos/13170.jpg"
     },
     {
      "cod": 8252,
@@ -4668,11 +4640,25 @@
      "img": "produtos/8252.jpg"
     },
     {
+     "cod": 13184,
+     "nome": "CADERNO 10X1 160F-LAVENDER",
+     "marca": "SD",
+     "preco": 41.9,
+     "img": "produtos/13184.jpg"
+    },
+    {
      "cod": 12767,
      "nome": "CADERNO 1X1 80F-GUERREIRAS DO K-POP",
      "marca": "TILIBRA",
      "preco": 28.9,
      "img": "produtos/12767.jpg"
+    },
+    {
+     "cod": 13209,
+     "nome": "CADERNO 1X1 80F-NORDIC",
+     "marca": "SD",
+     "preco": 22.9,
+     "img": "produtos/13209.jpg"
     },
     {
      "cod": 5613,
@@ -4689,18 +4675,11 @@
      "img": "produtos/9335.jpg"
     },
     {
-     "cod": 5622,
-     "nome": "CADERNO 10X1 160F-POOH CONNECT",
-     "marca": "TILIBRA",
-     "preco": 45.9,
-     "img": "produtos/5622.jpg"
-    },
-    {
-     "cod": 5914,
-     "nome": "CADERNO 20X1 320F-BOM D+ MASCULINO",
+     "cod": 13170,
+     "nome": "CADERNO CD 80F-THE FLASH",
      "marca": "SD",
-     "preco": 35.9,
-     "img": "produtos/5914.jpg"
+     "preco": 26.9,
+     "img": "produtos/13170.jpg"
     },
     {
      "cod": 8254,
@@ -4708,6 +4687,13 @@
      "marca": "CREDEAL",
      "preco": 28.9,
      "img": "produtos/8254.jpg"
+    },
+    {
+     "cod": 5622,
+     "nome": "CADERNO 10X1 160F-POOH CONNECT",
+     "marca": "TILIBRA",
+     "preco": 45.9,
+     "img": "produtos/5622.jpg"
     },
     {
      "cod": 6535,
@@ -4724,13 +4710,6 @@
      "img": "produtos/13217.jpg"
     },
     {
-     "cod": 5844,
-     "nome": "CADERNO 1X1 80F-MAGIC CONNECT",
-     "marca": "TILIBRA",
-     "preco": 27.9,
-     "img": "produtos/5844.jpg"
-    },
-    {
      "cod": 5847,
      "nome": "CADERNO 1X1 80F-NEON PRETO",
      "marca": "TILIBRA",
@@ -4745,11 +4724,18 @@
      "img": "produtos/12990.jpg"
     },
     {
-     "cod": 10893,
-     "nome": "CADERNO 1X1 80F-CAVERNA ENCANTADA",
-     "marca": "CREDEAL",
-     "preco": 15.9,
-     "img": "produtos/10893.jpg"
+     "cod": 5844,
+     "nome": "CADERNO 1X1 80F-MAGIC CONNECT",
+     "marca": "TILIBRA",
+     "preco": 27.9,
+     "img": "produtos/5844.jpg"
+    },
+    {
+     "cod": 5914,
+     "nome": "CADERNO 20X1 320F-BOM D+ MASCULINO",
+     "marca": "SD",
+     "preco": 35.9,
+     "img": "produtos/5914.jpg"
     },
     {
      "cod": 13042,
@@ -4771,6 +4757,13 @@
      "marca": "CREDEAL",
      "preco": 28.9,
      "img": "produtos/8401.jpg"
+    },
+    {
+     "cod": 10893,
+     "nome": "CADERNO 1X1 80F-CAVERNA ENCANTADA",
+     "marca": "CREDEAL",
+     "preco": 15.9,
+     "img": "produtos/10893.jpg"
     },
     {
      "cod": 12833,
@@ -4808,20 +4801,6 @@
      "img": "produtos/12413.jpg"
     },
     {
-     "cod": 5912,
-     "nome": "CADERNO 20X1 400F-KBOM MASCULINO",
-     "marca": "SAO DOMING",
-     "preco": 44.9,
-     "img": "produtos/5912.jpg"
-    },
-    {
-     "cod": 8107,
-     "nome": "CADERNO CD 80F-SUPERMAN",
-     "marca": "SD",
-     "preco": 26.9,
-     "img": "produtos/8107.jpg"
-    },
-    {
      "cod": 11423,
      "nome": "CADERNO 10X1 160F-FLOW",
      "marca": "CREDEAL",
@@ -4843,11 +4822,11 @@
      "img": "produtos/11436.jpg"
     },
     {
-     "cod": 8129,
-     "nome": "CADERNO 10X1 160F-CLEAN",
-     "marca": "SD",
-     "preco": 35.9,
-     "img": "produtos/8129.jpg"
+     "cod": 5912,
+     "nome": "CADERNO 20X1 400F-KBOM MASCULINO",
+     "marca": "SAO DOMING",
+     "preco": 44.9,
+     "img": "produtos/5912.jpg"
     },
     {
      "cod": 12401,
@@ -4871,18 +4850,11 @@
      "img": "produtos/12436.jpg"
     },
     {
-     "cod": 5889,
-     "nome": "CADERNO 1X1 80F-HAPPEN",
-     "marca": "SAO DOMING",
-     "preco": 26.9,
-     "img": "produtos/5889.jpg"
-    },
-    {
-     "cod": 13181,
-     "nome": "CADERNO 10X1 160F-ROSA ROSE",
+     "cod": 8107,
+     "nome": "CADERNO CD 80F-SUPERMAN",
      "marca": "SD",
-     "preco": 46.9,
-     "img": "produtos/13181.jpg"
+     "preco": 26.9,
+     "img": "produtos/8107.jpg"
     },
     {
      "cod": 7790,
@@ -4899,6 +4871,13 @@
      "img": "produtos/12895.jpg"
     },
     {
+     "cod": 5889,
+     "nome": "CADERNO 1X1 80F-HAPPEN",
+     "marca": "SAO DOMING",
+     "preco": 26.9,
+     "img": "produtos/5889.jpg"
+    },
+    {
      "cod": 5968,
      "nome": "CADERNO 10X1 160F-AIR ATTACK",
      "marca": "SD",
@@ -4913,25 +4892,11 @@
      "img": "produtos/13212.jpg"
     },
     {
-     "cod": 12982,
-     "nome": "CADERNO 10X1 160F-LUMINE",
-     "marca": "SD",
-     "preco": 35.9,
-     "img": "produtos/12982.jpg"
-    },
-    {
      "cod": 5627,
      "nome": "CADERNO 10X1 160F-NEON PRETO",
      "marca": "TILIBRA",
      "preco": 54.9,
      "img": "produtos/5627.jpg"
-    },
-    {
-     "cod": 12906,
-     "nome": "CADERNO 10X1 160F-OUTSIDER",
-     "marca": "CADERSIL",
-     "preco": 39.9,
-     "img": "produtos/12906.jpg"
     },
     {
      "cod": 12842,
@@ -4976,18 +4941,32 @@
      "img": "produtos/11310.jpg"
     },
     {
-     "cod": 12862,
-     "nome": "CADERNO 10X1 160F-COLEG. DOUBLE ART",
-     "marca": "CADERSIL",
-     "preco": 31.9,
-     "img": "produtos/12862.jpg"
-    },
-    {
      "cod": 12896,
      "nome": "CADERNO 10X1 160F-COLOR + BLACK FEMININO",
      "marca": "CADERSIL",
      "preco": 38.9,
      "img": "produtos/12896.jpg"
+    },
+    {
+     "cod": 12982,
+     "nome": "CADERNO 10X1 160F-LUMINE",
+     "marca": "SD",
+     "preco": 35.9,
+     "img": "produtos/12982.jpg"
+    },
+    {
+     "cod": 12906,
+     "nome": "CADERNO 10X1 160F-OUTSIDER",
+     "marca": "CADERSIL",
+     "preco": 39.9,
+     "img": "produtos/12906.jpg"
+    },
+    {
+     "cod": 13181,
+     "nome": "CADERNO 10X1 160F-ROSA ROSE",
+     "marca": "SD",
+     "preco": 46.9,
+     "img": "produtos/13181.jpg"
     },
     {
      "cod": 12400,
@@ -5004,46 +4983,11 @@
      "img": "produtos/8138.jpg"
     },
     {
-     "cod": 6466,
-     "nome": "CADERNO 1X1 80F-BORUTO",
-     "marca": "SD",
-     "preco": 29.9,
-     "img": "produtos/6466.jpg"
-    },
-    {
-     "cod": 11456,
-     "nome": "CADERNO 1X1 80F-DO IT!",
-     "marca": "TILIBRA",
-     "preco": 16.9,
-     "img": "produtos/11456.jpg"
-    },
-    {
      "cod": 10929,
      "nome": "CADERNO 1X1 80F-EMOJI",
      "marca": "CREDEAL",
      "preco": 19.9,
      "img": "produtos/10929.jpg"
-    },
-    {
-     "cod": 7765,
-     "nome": "CADERNO 1X1 80F-KRAFTWORK",
-     "marca": "TILIBRA",
-     "preco": 26.9,
-     "img": "produtos/7765.jpg"
-    },
-    {
-     "cod": 13203,
-     "nome": "CADERNO 1X1 80F-PAPERKRAFT (SMART)",
-     "marca": "SD",
-     "preco": 22.9,
-     "img": "produtos/13203.jpg"
-    },
-    {
-     "cod": 5896,
-     "nome": "CADERNO 1X1 96F-KBOM FEMININO",
-     "marca": "S.DOMINGOS",
-     "preco": 11.9,
-     "img": "produtos/5896.jpg"
     },
     {
      "cod": 6295,
@@ -5053,32 +4997,11 @@
      "img": "produtos/6295.jpg"
     },
     {
-     "cod": 12857,
-     "nome": "CADERNO PLANNER 1X1 88F-DAYDREAM",
-     "marca": "CADERSIL",
-     "preco": 32.9,
-     "img": "produtos/12857.jpg"
-    },
-    {
-     "cod": 12812,
-     "nome": "CADERNO 10X1 160F-COLEG. WEST VILLAGE",
-     "marca": "TILIBRA",
-     "preco": 39.9,
-     "img": "produtos/12812.jpg"
-    },
-    {
      "cod": 12846,
      "nome": "CADERNO 10X1 160F-INFINITY METALIZADO",
      "marca": "CADERSIL",
      "preco": 43.9,
      "img": "produtos/12846.jpg"
-    },
-    {
-     "cod": 5960,
-     "nome": "CADERNO 10X1 160F-MULHER",
-     "marca": "S.DOMINGOS",
-     "preco": 37.9,
-     "img": "produtos/5960.jpg"
     },
     {
      "cod": 5624,
@@ -5095,25 +5018,25 @@
      "img": "produtos/8782.jpg"
     },
     {
-     "cod": 12988,
-     "nome": "CADERNO 15X1 240F-CRISTO",
+     "cod": 6466,
+     "nome": "CADERNO 1X1 80F-BORUTO",
      "marca": "SD",
-     "preco": 46.9,
-     "img": "produtos/12988.jpg"
+     "preco": 29.9,
+     "img": "produtos/6466.jpg"
     },
     {
-     "cod": 13200,
-     "nome": "CADERNO 1X1 80F-CLEAN",
+     "cod": 7765,
+     "nome": "CADERNO 1X1 80F-KRAFTWORK",
+     "marca": "TILIBRA",
+     "preco": 26.9,
+     "img": "produtos/7765.jpg"
+    },
+    {
+     "cod": 13203,
+     "nome": "CADERNO 1X1 80F-PAPERKRAFT (SMART)",
      "marca": "SD",
      "preco": 22.9,
-     "img": "produtos/13200.jpg"
-    },
-    {
-     "cod": 12409,
-     "nome": "CADERNO 1X1 80F-MIMO",
-     "marca": "CREDEAL",
-     "preco": 14.9,
-     "img": "produtos/12409.jpg"
+     "img": "produtos/13203.jpg"
     },
     {
      "cod": 12889,
@@ -5130,11 +5053,18 @@
      "img": "produtos/12468.jpg"
     },
     {
-     "cod": 12899,
-     "nome": "CADERNO 10X1 160F-CHERRY LOVERS",
+     "cod": 8129,
+     "nome": "CADERNO 10X1 160F-CLEAN",
+     "marca": "SD",
+     "preco": 35.9,
+     "img": "produtos/8129.jpg"
+    },
+    {
+     "cod": 12862,
+     "nome": "CADERNO 10X1 160F-COLEG. DOUBLE ART",
      "marca": "CADERSIL",
-     "preco": 41.9,
-     "img": "produtos/12899.jpg"
+     "preco": 31.9,
+     "img": "produtos/12862.jpg"
     },
     {
      "cod": 12814,
@@ -5144,6 +5074,13 @@
      "img": "produtos/12814.jpg"
     },
     {
+     "cod": 12812,
+     "nome": "CADERNO 10X1 160F-COLEG. WEST VILLAGE",
+     "marca": "TILIBRA",
+     "preco": 39.9,
+     "img": "produtos/12812.jpg"
+    },
+    {
      "cod": 12402,
      "nome": "CADERNO 10X1 160F-DENMARK",
      "marca": "CREDEAL",
@@ -5151,18 +5088,18 @@
      "img": "produtos/12402.jpg"
     },
     {
-     "cod": 7771,
-     "nome": "CADERNO 10X1 160F-MAGIC CONNECT",
-     "marca": "TILIBRA",
-     "preco": 47.9,
-     "img": "produtos/7771.jpg"
-    },
-    {
      "cod": 13168,
      "nome": "CADERNO 10X1 160F-MANCHESTER CITY",
      "marca": "SD",
      "preco": 53.9,
      "img": "produtos/13168.jpg"
+    },
+    {
+     "cod": 5960,
+     "nome": "CADERNO 10X1 160F-MULHER",
+     "marca": "S.DOMINGOS",
+     "preco": 37.9,
+     "img": "produtos/5960.jpg"
     },
     {
      "cod": 10896,
@@ -5179,6 +5116,13 @@
      "img": "produtos/10894.jpg"
     },
     {
+     "cod": 12988,
+     "nome": "CADERNO 15X1 240F-CRISTO",
+     "marca": "SD",
+     "preco": 46.9,
+     "img": "produtos/12988.jpg"
+    },
+    {
      "cod": 13214,
      "nome": "CADERNO 15X1 300F-FREEDOM",
      "marca": "SD",
@@ -5186,11 +5130,11 @@
      "img": "produtos/13214.jpg"
     },
     {
-     "cod": 12909,
-     "nome": "CADERNO 1X1 80F-FLIP COLLEGE FEMININO",
-     "marca": "CADERSIL",
-     "preco": 19.9,
-     "img": "produtos/12909.jpg"
+     "cod": 13200,
+     "nome": "CADERNO 1X1 80F-CLEAN",
+     "marca": "SD",
+     "preco": 22.9,
+     "img": "produtos/13200.jpg"
     },
     {
      "cod": 13099,
@@ -5221,6 +5165,13 @@
      "img": "produtos/8895.jpg"
     },
     {
+     "cod": 12857,
+     "nome": "CADERNO PLANNER 1X1 88F-DAYDREAM",
+     "marca": "CADERSIL",
+     "preco": 32.9,
+     "img": "produtos/12857.jpg"
+    },
+    {
      "cod": 12439,
      "nome": "CADERNO 10X1 160F-BELLA",
      "marca": "CREDEAL",
@@ -5228,11 +5179,11 @@
      "img": "produtos/12439.jpg"
     },
     {
-     "cod": 12910,
-     "nome": "CADERNO 10X1 160F-FLIP COLLEGE FEMININO",
-     "marca": "CADERSIL",
-     "preco": 25.9,
-     "img": "produtos/12910.jpg"
+     "cod": 7771,
+     "nome": "CADERNO 10X1 160F-MAGIC CONNECT",
+     "marca": "TILIBRA",
+     "preco": 47.9,
+     "img": "produtos/7771.jpg"
     },
     {
      "cod": 12414,
@@ -5249,18 +5200,18 @@
      "img": "produtos/12765.jpg"
     },
     {
-     "cod": 13210,
-     "nome": "CADERNO 10X1 160F-NORDIC",
-     "marca": "SD",
-     "preco": 34.9,
-     "img": "produtos/13210.jpg"
-    },
-    {
      "cod": 12890,
      "nome": "CADERNO 1X1 80F-COLOR + BLACK MASCULINO",
      "marca": "CADERSIL",
      "preco": 28.9,
      "img": "produtos/12890.jpg"
+    },
+    {
+     "cod": 11456,
+     "nome": "CADERNO 1X1 80F-DO IT!",
+     "marca": "TILIBRA",
+     "preco": 16.9,
+     "img": "produtos/11456.jpg"
     },
     {
      "cod": 12911,
@@ -5291,25 +5242,11 @@
      "img": "produtos/13174.jpg"
     },
     {
-     "cod": 12415,
-     "nome": "CADERNO 1X1 80F-VIDA DE PET",
-     "marca": "CREDEAL",
-     "preco": 18.9,
-     "img": "produtos/12415.jpg"
-    },
-    {
-     "cod": 12777,
-     "nome": "CADERNO 1X1 80F-WANDINHA CONNECT",
-     "marca": "TILIBRA",
-     "preco": 38.9,
-     "img": "produtos/12777.jpg"
-    },
-    {
-     "cod": 12858,
-     "nome": "CADERNO PLANNER 10X1 168F-DAYDREAM",
-     "marca": "CADERSIL",
-     "preco": 44.9,
-     "img": "produtos/12858.jpg"
+     "cod": 5896,
+     "nome": "CADERNO 1X1 96F-KBOM FEMININO",
+     "marca": "S.DOMINGOS",
+     "preco": 11.9,
+     "img": "produtos/5896.jpg"
     },
     {
      "cod": 8892,
@@ -5333,6 +5270,13 @@
      "img": "produtos/12762.jpg"
     },
     {
+     "cod": 12910,
+     "nome": "CADERNO 10X1 160F-FLIP COLLEGE FEMININO",
+     "marca": "CADERSIL",
+     "preco": 25.9,
+     "img": "produtos/12910.jpg"
+    },
+    {
      "cod": 12780,
      "nome": "CADERNO 10X1 160F-GUERREIRAS DO K-POP CONNECT",
      "marca": "TILIBRA",
@@ -5340,11 +5284,11 @@
      "img": "produtos/12780.jpg"
     },
     {
-     "cod": 12964,
-     "nome": "CADERNO 10X1 160F-REBECCA BONBON",
+     "cod": 13210,
+     "nome": "CADERNO 10X1 160F-NORDIC",
      "marca": "SD",
-     "preco": 51.9,
-     "img": "produtos/12964.jpg"
+     "preco": 34.9,
+     "img": "produtos/13210.jpg"
     },
     {
      "cod": 12438,
@@ -5375,6 +5319,13 @@
      "img": "produtos/12861.jpg"
     },
     {
+     "cod": 12409,
+     "nome": "CADERNO 1X1 80F-MIMO",
+     "marca": "CREDEAL",
+     "preco": 14.9,
+     "img": "produtos/12409.jpg"
+    },
+    {
      "cod": 5618,
      "nome": "CADERNO 1X1 80F-NEON ROXO",
      "marca": "TILIBRA",
@@ -5389,6 +5340,20 @@
      "img": "produtos/12969.jpg"
     },
     {
+     "cod": 12415,
+     "nome": "CADERNO 1X1 80F-VIDA DE PET",
+     "marca": "CREDEAL",
+     "preco": 18.9,
+     "img": "produtos/12415.jpg"
+    },
+    {
+     "cod": 12777,
+     "nome": "CADERNO 1X1 80F-WANDINHA CONNECT",
+     "marca": "TILIBRA",
+     "preco": 38.9,
+     "img": "produtos/12777.jpg"
+    },
+    {
      "cod": 12836,
      "nome": "CADERNO 1X1 96F-BLISS RELIGIOSO",
      "marca": "CADERSIL",
@@ -5396,25 +5361,25 @@
      "img": "produtos/12836.jpg"
     },
     {
-     "cod": 8148,
-     "nome": "CADERNO 20X1 320F-BOM D+ FEMININO",
-     "marca": "SD",
-     "preco": 35.9,
-     "img": "produtos/8148.jpg"
+     "cod": 12858,
+     "nome": "CADERNO PLANNER 10X1 168F-DAYDREAM",
+     "marca": "CADERSIL",
+     "preco": 44.9,
+     "img": "produtos/12858.jpg"
     },
     {
-     "cod": 13204,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO PRATA (SMART)",
-     "marca": "SD",
-     "preco": 37.9,
-     "img": "produtos/13204.jpg"
+     "cod": 12899,
+     "nome": "CADERNO 10X1 160F-CHERRY LOVERS",
+     "marca": "CADERSIL",
+     "preco": 41.9,
+     "img": "produtos/12899.jpg"
     },
     {
-     "cod": 11443,
-     "nome": "CADERNO 1X1 80F-FRUIT-TELLA",
-     "marca": "CREDEAL",
-     "preco": 21.9,
-     "img": "produtos/11443.jpg"
+     "cod": 12964,
+     "nome": "CADERNO 10X1 160F-REBECCA BONBON",
+     "marca": "SD",
+     "preco": 51.9,
+     "img": "produtos/12964.jpg"
     },
     {
      "cod": 12845,
@@ -5438,6 +5403,13 @@
      "img": "produtos/12913.jpg"
     },
     {
+     "cod": 8148,
+     "nome": "CADERNO 20X1 320F-BOM D+ FEMININO",
+     "marca": "SD",
+     "preco": 35.9,
+     "img": "produtos/8148.jpg"
+    },
+    {
      "cod": 11307,
      "nome": "CADERNO 20X1-SWEET BEAR",
      "marca": "PAULISTA",
@@ -5450,13 +5422,6 @@
      "marca": "S. DOMINGO",
      "preco": 31.9,
      "img": "produtos/8103.jpg"
-    },
-    {
-     "cod": 13102,
-     "nome": "CADERNO 10X1 160F-MORANGUINHO",
-     "marca": "SD",
-     "preco": 54.9,
-     "img": "produtos/13102.jpg"
     },
     {
      "cod": 5628,
@@ -5473,11 +5438,25 @@
      "img": "produtos/13059.jpg"
     },
     {
-     "cod": 13206,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO LILAS (SMART)",
+     "cod": 13204,
+     "nome": "CADERNO 1X1 120F-GRAFFIATO PRATA (SMART)",
      "marca": "SD",
      "preco": 37.9,
-     "img": "produtos/13206.jpg"
+     "img": "produtos/13204.jpg"
+    },
+    {
+     "cod": 12909,
+     "nome": "CADERNO 1X1 80F-FLIP COLLEGE FEMININO",
+     "marca": "CADERSIL",
+     "preco": 19.9,
+     "img": "produtos/12909.jpg"
+    },
+    {
+     "cod": 11443,
+     "nome": "CADERNO 1X1 80F-FRUIT-TELLA",
+     "marca": "CREDEAL",
+     "preco": 21.9,
+     "img": "produtos/11443.jpg"
     },
     {
      "cod": 13179,
@@ -5515,18 +5494,18 @@
      "img": "produtos/8250.jpg"
     },
     {
+     "cod": 13102,
+     "nome": "CADERNO 10X1 160F-MORANGUINHO",
+     "marca": "SD",
+     "preco": 54.9,
+     "img": "produtos/13102.jpg"
+    },
+    {
      "cod": 5623,
      "nome": "CADERNO 10X1 160F-NEON AZUL",
      "marca": "TILIBRA",
      "preco": 54.9,
      "img": "produtos/5623.jpg"
-    },
-    {
-     "cod": 13205,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
-     "marca": "SD",
-     "preco": 37.9,
-     "img": "produtos/13205.jpg"
     },
     {
      "cod": 13211,
@@ -5613,18 +5592,25 @@
      "img": "produtos/12983.jpg"
     },
     {
+     "cod": 13206,
+     "nome": "CADERNO 1X1 120F-GRAFFIATO LILAS (SMART)",
+     "marca": "SD",
+     "preco": 37.9,
+     "img": "produtos/13206.jpg"
+    },
+    {
+     "cod": 13205,
+     "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
+     "marca": "SD",
+     "preco": 37.9,
+     "img": "produtos/13205.jpg"
+    },
+    {
      "cod": 10897,
      "nome": "CADERNO 1X1 80F-DUNGEONS & DRAGONS",
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/10897.jpg"
-    },
-    {
-     "cod": 5738,
-     "nome": "CADERNO 1X1 80F-FREE FIRE CONNECT",
-     "marca": "TILIBRA",
-     "preco": 38.9,
-     "img": "produtos/5738.jpg"
     },
     {
      "cod": 6459,
@@ -5744,6 +5730,13 @@
      "marca": "S.DOMINGOS",
      "preco": 30.9,
      "img": "produtos/5895.jpg"
+    },
+    {
+     "cod": 5738,
+     "nome": "CADERNO 1X1 80F-FREE FIRE CONNECT",
+     "marca": "TILIBRA",
+     "preco": 38.9,
+     "img": "produtos/5738.jpg"
     },
     {
      "cod": 11457,
@@ -5928,18 +5921,18 @@
      "img": "produtos/13113.jpg"
     },
     {
-     "cod": 11504,
-     "nome": "CADERNO ATIVIDADE MATEMATICA ADIÇAO 16F",
-     "marca": "TILIBRA",
-     "preco": 15.9,
-     "img": "produtos/11504.jpg"
-    },
-    {
      "cod": 11506,
      "nome": "CADERNO ATIVIDADE MATEMATICA SUBTRAÇAO 16F",
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/11506.jpg"
+    },
+    {
+     "cod": 11504,
+     "nome": "CADERNO ATIVIDADE MATEMATICA ADIÇAO 16F",
+     "marca": "TILIBRA",
+     "preco": 15.9,
+     "img": "produtos/11504.jpg"
     },
     {
      "cod": 14097,
@@ -6068,6 +6061,13 @@
      "img": "produtos/13219.jpg"
     },
     {
+     "cod": 5853,
+     "nome": "CADERNO DESENHO CD 80F-MINNIE",
+     "marca": "TILIBRA",
+     "preco": 34.9,
+     "img": "produtos/5853.jpg"
+    },
+    {
      "cod": 13171,
      "nome": "CADERNO DESENHO CD 60F-BORUTO",
      "marca": "SD",
@@ -6082,11 +6082,11 @@
      "img": "produtos/13100.jpg"
     },
     {
-     "cod": 5853,
-     "nome": "CADERNO DESENHO CD 80F-MINNIE",
-     "marca": "TILIBRA",
-     "preco": 34.9,
-     "img": "produtos/5853.jpg"
+     "cod": 12897,
+     "nome": "CADERNO DESENHO CD 80F-POM POM",
+     "marca": "CADERSIL",
+     "preco": 19.9,
+     "img": "produtos/12897.jpg"
     },
     {
      "cod": 12968,
@@ -6094,20 +6094,6 @@
      "marca": "SD",
      "preco": 25.9,
      "img": "produtos/12968.jpg"
-    },
-    {
-     "cod": 8398,
-     "nome": "CADERNO DESENHO CD 80F-LALA PETS",
-     "marca": "CREDEAL",
-     "preco": 14.9,
-     "img": "produtos/8398.jpg"
-    },
-    {
-     "cod": 12897,
-     "nome": "CADERNO DESENHO CD 80F-POM POM",
-     "marca": "CADERSIL",
-     "preco": 19.9,
-     "img": "produtos/12897.jpg"
     },
     {
      "cod": 8887,
@@ -6131,6 +6117,13 @@
      "img": "produtos/5854.jpg"
     },
     {
+     "cod": 8398,
+     "nome": "CADERNO DESENHO CD 80F-LALA PETS",
+     "marca": "CREDEAL",
+     "preco": 14.9,
+     "img": "produtos/8398.jpg"
+    },
+    {
      "cod": 11448,
      "nome": "CADERNO DESENHO CD 80F-SUPER DINO",
      "marca": "CREDEAL",
@@ -6152,25 +6145,11 @@
      "img": "produtos/8242.jpg"
     },
     {
-     "cod": 3247,
-     "nome": "CADERNO DESENHO CD 80F-(AZUL TILIBRA)",
-     "marca": "TILIBRA",
-     "preco": 17.9,
-     "img": "produtos/3247.jpg"
-    },
-    {
      "cod": 7831,
      "nome": "CADERNO DESENHO CD 80F-PRINCESAS",
      "marca": "TILIBRA",
      "preco": 35.9,
      "img": "produtos/7831.jpg"
-    },
-    {
-     "cod": 7802,
-     "nome": "CADERNO DESENHO CD 80F-SONIC",
-     "marca": "TILIBRA",
-     "preco": 40.9,
-     "img": "produtos/7802.jpg"
     },
     {
      "cod": 5745,
@@ -6185,6 +6164,13 @@
      "marca": "CREDEAL",
      "preco": 18.9,
      "img": "produtos/8884.jpg"
+    },
+    {
+     "cod": 7802,
+     "nome": "CADERNO DESENHO CD 80F-SONIC",
+     "marca": "TILIBRA",
+     "preco": 40.9,
+     "img": "produtos/7802.jpg"
     },
     {
      "cod": 8815,
@@ -6206,6 +6192,13 @@
      "marca": "TILIBRA",
      "preco": 35.9,
      "img": "produtos/11488.jpg"
+    },
+    {
+     "cod": 3247,
+     "nome": "CADERNO DESENHO CD 80F-(AZUL TILIBRA)",
+     "marca": "TILIBRA",
+     "preco": 17.9,
+     "img": "produtos/3247.jpg"
     },
     {
      "cod": 8813,
@@ -6355,18 +6348,18 @@
      "img": "produtos/13537.jpg"
     },
     {
-     "cod": 13114,
-     "nome": "CADERNETA MEDIA S/P 32F-HAPPEN",
-     "marca": "SD",
-     "preco": 9.9,
-     "img": "produtos/13114.jpg"
-    },
-    {
      "cod": 13536,
      "nome": "CADERNETA ESP. MEDIA CD 80F NICECREAM-FORONI",
      "marca": "FORONI",
      "preco": 14.9,
      "img": "produtos/13536.jpg"
+    },
+    {
+     "cod": 13114,
+     "nome": "CADERNETA MEDIA S/P 32F-HAPPEN",
+     "marca": "SD",
+     "preco": 9.9,
+     "img": "produtos/13114.jpg"
     },
     {
      "cod": 440,
@@ -6411,13 +6404,6 @@
      "img": "produtos/7819.jpg"
     },
     {
-     "cod": 2614,
-     "nome": "REFIL INTELIG. (G) BRANCO 50F",
-     "marca": "C.INTELIGE",
-     "preco": 39.9,
-     "img": "produtos/2614.jpg"
-    },
-    {
      "cod": 10806,
      "nome": "CADERNO ARGOLADO. (G) DAC DIVERTIDAMENTE (SMART)",
      "marca": "DAC",
@@ -6430,6 +6416,13 @@
      "marca": "DAC",
      "preco": 79.9,
      "img": "produtos/12750.jpg"
+    },
+    {
+     "cod": 2614,
+     "nome": "REFIL INTELIG. (G) BRANCO 50F",
+     "marca": "C.INTELIGE",
+     "preco": 39.9,
+     "img": "produtos/2614.jpg"
     },
     {
      "cod": 10811,
@@ -7248,18 +7241,18 @@
      "img": "produtos/835.jpg"
     },
     {
-     "cod": 834,
-     "nome": "COLA GLITTER AZUL 23GR-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 3.9,
-     "img": "produtos/834.jpg"
-    },
-    {
      "cod": 836,
      "nome": "COLA GLITTER PRATA 23GR-ACRILEX",
      "marca": "ACRILEX",
      "preco": 3.9,
      "img": "produtos/836.jpg"
+    },
+    {
+     "cod": 834,
+     "nome": "COLA GLITTER AZUL 23GR-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 3.9,
+     "img": "produtos/834.jpg"
     },
     {
      "cod": 837,
@@ -7495,28 +7488,28 @@
      "cod": 6761,
      "nome": "FITA DEMARCAÇAO 48X14M-AMARELA(ADELBRAS)",
      "marca": "ADELBRAS",
-     "preco": 19.9,
+     "preco": 20.9,
      "img": "produtos/6761.jpg"
     },
     {
      "cod": 6763,
      "nome": "FITA DEMARCAÇAO 48X14M-VERDE(ADELBRAS)",
      "marca": "ADELBRAS",
-     "preco": 19.9,
+     "preco": 20.9,
      "img": "produtos/6763.jpg"
     },
     {
      "cod": 6764,
      "nome": "FITA DEMARCAÇÃO 48X14M-VERMELHA (ADELBRAS)",
      "marca": "ADELBRAS",
-     "preco": 19.9,
+     "preco": 20.9,
      "img": "produtos/6764.jpg"
     },
     {
      "cod": 6762,
      "nome": "FITA DEMARCAÇAO 48X14M-AZUL(ADELBRAS)",
      "marca": "ADELBRAS",
-     "preco": 19.9,
+     "preco": 20.9,
      "img": "produtos/6762.jpg"
     },
     {
@@ -8055,18 +8048,18 @@
      "img": "produtos/12225.jpg"
     },
     {
-     "cod": 13145,
-     "nome": "CORRETIVO FITA 6M-TILIBRA (PURRFECT)",
-     "marca": "TILIBRA",
-     "preco": 12.9,
-     "img": "produtos/13145.jpg"
-    },
-    {
      "cod": 6632,
      "nome": "CORRETIVO FITA 6M-MASTERPRINT",
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6632.jpg"
+    },
+    {
+     "cod": 13145,
+     "nome": "CORRETIVO FITA 6M-TILIBRA (PURRFECT)",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/13145.jpg"
     },
     {
      "cod": 7291,
@@ -8083,18 +8076,18 @@
      "img": "produtos/12303.jpg"
     },
     {
-     "cod": 981,
-     "nome": "CORRETIVO FITA 12M-MERCUR",
-     "marca": "MERCUR",
-     "preco": 19.9,
-     "img": "produtos/981.jpg"
-    },
-    {
      "cod": 9874,
      "nome": "CORRETIVO FITA 12M-MASTERPRINT",
      "marca": "MASTERPRIN",
      "preco": 4.9,
      "img": "produtos/9874.jpg"
+    },
+    {
+     "cod": 981,
+     "nome": "CORRETIVO FITA 12M-MERCUR",
+     "marca": "MERCUR",
+     "preco": 19.9,
+     "img": "produtos/981.jpg"
     },
     {
      "cod": 4176,
@@ -8714,6 +8707,13 @@
      "img": "produtos/2039.jpg"
     },
     {
+     "cod": 2037,
+     "nome": "COLORSETE-AMARELO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2037.jpg"
+    },
+    {
      "cod": 5075,
      "nome": "CREPOM BRANCO",
      "marca": "",
@@ -8726,13 +8726,6 @@
      "marca": "MINASPEL",
      "preco": 1.5,
      "img": "produtos/2036.jpg"
-    },
-    {
-     "cod": 2037,
-     "nome": "COLORSETE-AMARELO",
-     "marca": "GRIFFE",
-     "preco": 1.2,
-     "img": "produtos/2037.jpg"
     },
     {
      "cod": 2044,
@@ -8749,11 +8742,11 @@
      "img": "produtos/2045.jpg"
     },
     {
-     "cod": 4181,
-     "nome": "COLORSETE-AZUL CLARO",
-     "marca": "",
-     "preco": 1.2,
-     "img": "produtos/4181.jpg"
+     "cod": 749,
+     "nome": "CARTAO-VERDE BANDEIRA",
+     "marca": "MINASPEL",
+     "preco": 1.6,
+     "img": "produtos/749.jpg"
     },
     {
      "cod": 2069,
@@ -8761,13 +8754,6 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/2069.jpg"
-    },
-    {
-     "cod": 749,
-     "nome": "CARTAO-VERDE BANDEIRA",
-     "marca": "MINASPEL",
-     "preco": 1.6,
-     "img": "produtos/749.jpg"
     },
     {
      "cod": 4715,
@@ -8782,6 +8768,20 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2035.jpg"
+    },
+    {
+     "cod": 4181,
+     "nome": "COLORSETE-AZUL CLARO",
+     "marca": "",
+     "preco": 1.2,
+     "img": "produtos/4181.jpg"
+    },
+    {
+     "cod": 738,
+     "nome": "CARTAO BRILHO-AMARELO",
+     "marca": "GRIFFE",
+     "preco": 2.0,
+     "img": "produtos/738.jpg"
     },
     {
      "cod": 6733,
@@ -8819,13 +8819,6 @@
      "img": "produtos/4788.jpg"
     },
     {
-     "cod": 738,
-     "nome": "CARTAO BRILHO-AMARELO",
-     "marca": "GRIFFE",
-     "preco": 2.0,
-     "img": "produtos/738.jpg"
-    },
-    {
      "cod": 2092,
      "nome": "FANTASIA-VERMELHO",
      "marca": "V.M.P",
@@ -8833,18 +8826,18 @@
      "img": "produtos/2092.jpg"
     },
     {
-     "cod": 2030,
-     "nome": "CAMURÇA-VERMELHO",
-     "marca": "VMP",
-     "preco": 1.8,
-     "img": "produtos/2030.jpg"
-    },
-    {
      "cod": 7736,
      "nome": "CREPOM VERDE FOLHA",
      "marca": "",
      "preco": 1.8,
      "img": "produtos/7736.jpg"
+    },
+    {
+     "cod": 2030,
+     "nome": "CAMURÇA-VERMELHO",
+     "marca": "VMP",
+     "preco": 1.8,
+     "img": "produtos/2030.jpg"
     },
     {
      "cod": 7379,
@@ -8861,13 +8854,6 @@
      "img": "produtos/4182.jpg"
     },
     {
-     "cod": 7894,
-     "nome": "CREPOM ROXO",
-     "marca": "",
-     "preco": 1.8,
-     "img": "produtos/7894.jpg"
-    },
-    {
      "cod": 5076,
      "nome": "CREPOM LILAS",
      "marca": "",
@@ -8875,18 +8861,11 @@
      "img": "produtos/5076.jpg"
     },
     {
-     "cod": 2048,
-     "nome": "COLORSETE-VERDE CLARO",
-     "marca": "GRIFFE",
-     "preco": 1.2,
-     "img": "produtos/2048.jpg"
-    },
-    {
-     "cod": 4786,
-     "nome": "CREPOM AZUL ROYAL",
+     "cod": 7894,
+     "nome": "CREPOM ROXO",
      "marca": "",
      "preco": 1.8,
-     "img": "produtos/4786.jpg"
+     "img": "produtos/7894.jpg"
     },
     {
      "cod": 2026,
@@ -8894,6 +8873,13 @@
      "marca": "ART FLOC",
      "preco": 1.8,
      "img": "produtos/2026.jpg"
+    },
+    {
+     "cod": 2048,
+     "nome": "COLORSETE-VERDE CLARO",
+     "marca": "GRIFFE",
+     "preco": 1.2,
+     "img": "produtos/2048.jpg"
     },
     {
      "cod": 2090,
@@ -8915,6 +8901,13 @@
      "marca": "GRIFFE",
      "preco": 1.6,
      "img": "produtos/744.jpg"
+    },
+    {
+     "cod": 4786,
+     "nome": "CREPOM AZUL ROYAL",
+     "marca": "",
+     "preco": 1.8,
+     "img": "produtos/4786.jpg"
     },
     {
      "cod": 4787,
@@ -8966,6 +8959,13 @@
      "img": "produtos/2023.jpg"
     },
     {
+     "cod": 2029,
+     "nome": "CAMURÇA-VERDE BANDEIRA",
+     "marca": "ART FLOC",
+     "preco": 1.8,
+     "img": "produtos/2029.jpg"
+    },
+    {
      "cod": 741,
      "nome": "CARTAO-AZUL CLARO",
      "marca": "",
@@ -8978,13 +8978,6 @@
      "marca": "",
      "preco": 1.6,
      "img": "produtos/748.jpg"
-    },
-    {
-     "cod": 2029,
-     "nome": "CAMURÇA-VERDE BANDEIRA",
-     "marca": "ART FLOC",
-     "preco": 1.8,
-     "img": "produtos/2029.jpg"
     },
     {
      "cod": 5158,
@@ -9232,18 +9225,18 @@
      "img": "produtos/7339.jpg"
     },
     {
-     "cod": 7338,
-     "nome": "VERGE 180G C/50 SALMÃO-USAPEL",
-     "marca": "USAPEL",
-     "preco": 21.9,
-     "img": "produtos/7338.jpg"
-    },
-    {
      "cod": 7337,
      "nome": "VERGE 180G C/50 AZUL-USAPEL",
      "marca": "USAPEL",
      "preco": 21.9,
      "img": "produtos/7337.jpg"
+    },
+    {
+     "cod": 7338,
+     "nome": "VERGE 180G C/50 SALMÃO-USAPEL",
+     "marca": "USAPEL",
+     "preco": 21.9,
+     "img": "produtos/7338.jpg"
     },
     {
      "cod": 3962,
@@ -9316,18 +9309,18 @@
      "img": "produtos/2054.jpg"
     },
     {
-     "cod": 2063,
-     "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
-     "marca": "GRIFFE",
-     "preco": 15.9,
-     "img": "produtos/2063.jpg"
-    },
-    {
      "cod": 2061,
      "nome": "COLORSETE A4 C/50 ROSA PINK",
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/2061.jpg"
+    },
+    {
+     "cod": 2063,
+     "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
+     "marca": "GRIFFE",
+     "preco": 15.9,
+     "img": "produtos/2063.jpg"
     },
     {
      "cod": 4763,
@@ -9358,18 +9351,18 @@
      "img": "produtos/4172.jpg"
     },
     {
-     "cod": 2057,
-     "nome": "COLORSETE A4 C/50 MARROM",
-     "marca": "MINASPEL",
-     "preco": 15.9,
-     "img": "produtos/2057.jpg"
-    },
-    {
      "cod": 5162,
      "nome": "COLORSETE A4 C/50 VIOLETA",
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/5162.jpg"
+    },
+    {
+     "cod": 2057,
+     "nome": "COLORSETE A4 C/50 MARROM",
+     "marca": "MINASPEL",
+     "preco": 15.9,
+     "img": "produtos/2057.jpg"
     },
     {
      "cod": 2137,
@@ -9678,18 +9671,18 @@
      "img": "produtos/3007.jpg"
     },
     {
-     "cod": 3709,
-     "nome": "TINTA TECIDO 37ML-AMARELO OURO",
-     "marca": "ACRILEX",
-     "preco": 6.9,
-     "img": "produtos/3709.jpg"
-    },
-    {
      "cod": 3011,
      "nome": "TINTA TECIDO 37ML-PRETO",
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/3011.jpg"
+    },
+    {
+     "cod": 3709,
+     "nome": "TINTA TECIDO 37ML-AMARELO OURO",
+     "marca": "ACRILEX",
+     "preco": 6.9,
+     "img": "produtos/3709.jpg"
     },
     {
      "cod": 3713,
@@ -9734,11 +9727,11 @@
      "img": "produtos/3012.jpg"
     },
     {
-     "cod": 3710,
-     "nome": "TINTA TECIDO 37ML-AZUL CELESTE",
+     "cod": 7124,
+     "nome": "TINTA TECIDO 37ML-LILAS",
      "marca": "ACRILEX",
      "preco": 6.9,
-     "img": "produtos/3710.jpg"
+     "img": "produtos/7124.jpg"
     },
     {
      "cod": 3015,
@@ -9748,11 +9741,11 @@
      "img": "produtos/3015.jpg"
     },
     {
-     "cod": 7124,
-     "nome": "TINTA TECIDO 37ML-LILAS",
+     "cod": 3710,
+     "nome": "TINTA TECIDO 37ML-AZUL CELESTE",
      "marca": "ACRILEX",
      "preco": 6.9,
-     "img": "produtos/7124.jpg"
+     "img": "produtos/3710.jpg"
     },
     {
      "cod": 3008,
@@ -10286,18 +10279,18 @@
      "img": "produtos/7803.jpg"
     },
     {
-     "cod": 10503,
-     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA AVENGERS",
-     "marca": "TILIBRA",
-     "preco": 3.9,
-     "img": "produtos/10503.jpg"
-    },
-    {
      "cod": 11495,
      "nome": "ETIQUETA ESCOLAR C/8-TILIBRA SONIC",
      "marca": "TILIBRA",
      "preco": 5.9,
      "img": "produtos/11495.jpg"
+    },
+    {
+     "cod": 10503,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA AVENGERS",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/10503.jpg"
     },
     {
      "cod": 10505,
@@ -10356,18 +10349,18 @@
      "img": "produtos/13926.jpg"
     },
     {
-     "cod": 13743,
-     "nome": "SELO CONVITE VERDE 12/13MM C/210",
-     "marca": "PIM/REFL",
-     "preco": 6.9,
-     "img": "produtos/13743.jpg"
-    },
-    {
      "cod": 8726,
      "nome": "SELO CONVITE VERMELHO 12/13MM C/210",
      "marca": "PIM/REFL",
      "preco": 6.9,
      "img": "produtos/8726.jpg"
+    },
+    {
+     "cod": 13743,
+     "nome": "SELO CONVITE VERDE 12/13MM C/210",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/13743.jpg"
     },
     {
      "cod": 13773,
@@ -10384,18 +10377,18 @@
      "img": "produtos/2907.jpg"
     },
     {
-     "cod": 7392,
-     "nome": "SELO CONVITE BRANCO 15MM C/210",
-     "marca": "GRESPAN",
-     "preco": 6.9,
-     "img": "produtos/7392.jpg"
-    },
-    {
      "cod": 2908,
      "nome": "SELO CONVITE PRATA 15MM C/210",
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/2908.jpg"
+    },
+    {
+     "cod": 7392,
+     "nome": "SELO CONVITE BRANCO 15MM C/210",
+     "marca": "GRESPAN",
+     "preco": 6.9,
+     "img": "produtos/7392.jpg"
     },
     {
      "cod": 7391,
@@ -10573,13 +10566,6 @@
      "img": "produtos/7406.jpg"
     },
     {
-     "cod": 7405,
-     "nome": "ETIQUETA COMEMOR. C/100-PARABENS (OVAL)",
-     "marca": "GRESPAN",
-     "preco": 8.9,
-     "img": "produtos/7405.jpg"
-    },
-    {
      "cod": 7389,
      "nome": "ETIQUETA BOLA G C/1000",
      "marca": "GRESPAN",
@@ -10601,6 +10587,20 @@
      "img": "produtos/7407.jpg"
     },
     {
+     "cod": 7405,
+     "nome": "ETIQUETA COMEMOR. C/100-PARABENS (OVAL)",
+     "marca": "GRESPAN",
+     "preco": 8.9,
+     "img": "produtos/7405.jpg"
+    },
+    {
+     "cod": 11958,
+     "nome": "ETIQUETA DELIVERY-BOM APETITE C/150 (NÃO VIOLE) ROXO",
+     "marca": "GRESPAN",
+     "preco": 16.9,
+     "img": "produtos/11958.jpg"
+    },
+    {
      "cod": 11959,
      "nome": "ETIQUETA DELIVERY-SEGURANÇA C/1000 (NÃO VIOLE) VERMELHA",
      "marca": "GRESPAN",
@@ -10620,13 +10620,6 @@
      "marca": "GRESPAN",
      "preco": 7.5,
      "img": "produtos/7385.jpg"
-    },
-    {
-     "cod": 11958,
-     "nome": "ETIQUETA DELIVERY-BOM APETITE C/150 (NÃO VIOLE) ROXO",
-     "marca": "GRESPAN",
-     "preco": 16.9,
-     "img": "produtos/11958.jpg"
     },
     {
      "cod": 7402,
@@ -10872,18 +10865,18 @@
      "img": "produtos/2220.jpg"
     },
     {
-     "cod": 12538,
-     "nome": "PASTA GRAMPO TRILHO BREEZE ROSA PASTEL",
-     "marca": "DAC",
-     "preco": 4.9,
-     "img": "produtos/12538.jpg"
-    },
-    {
      "cod": 2225,
      "nome": "PASTA GRAMPO TRILHO ROSA",
      "marca": "POLYCART",
      "preco": 3.2,
      "img": "produtos/2225.jpg"
+    },
+    {
+     "cod": 12538,
+     "nome": "PASTA GRAMPO TRILHO BREEZE ROSA PASTEL",
+     "marca": "DAC",
+     "preco": 4.9,
+     "img": "produtos/12538.jpg"
     },
     {
      "cod": 2223,
@@ -10928,13 +10921,6 @@
      "img": "produtos/6798.jpg"
     },
     {
-     "cod": 6801,
-     "nome": "PASTA L A4 VERDE",
-     "marca": "",
-     "preco": 1.5,
-     "img": "produtos/6801.jpg"
-    },
-    {
      "cod": 6802,
      "nome": "PASTA L A4 AZUL",
      "marca": "",
@@ -10942,18 +10928,18 @@
      "img": "produtos/6802.jpg"
     },
     {
+     "cod": 6801,
+     "nome": "PASTA L A4 VERDE",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/6801.jpg"
+    },
+    {
      "cod": 13989,
      "nome": "PASTA L OF. CRISTAL",
      "marca": "",
      "preco": 2.9,
      "img": "produtos/13989.jpg"
-    },
-    {
-     "cod": 6800,
-     "nome": "PASTA L A4 VERMELHA",
-     "marca": "",
-     "preco": 1.5,
-     "img": "produtos/6800.jpg"
     },
     {
      "cod": 12476,
@@ -10975,6 +10961,13 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/6799.jpg"
+    },
+    {
+     "cod": 6800,
+     "nome": "PASTA L A4 VERMELHA",
+     "marca": "",
+     "preco": 1.5,
+     "img": "produtos/6800.jpg"
     },
     {
      "cod": 2268,
@@ -11383,18 +11376,18 @@
      "img": "produtos/10019.jpg"
     },
     {
-     "cod": 12918,
-     "nome": "PASTA PP 4CM PLASCONY A3 CRISTAL",
-     "marca": "PLASCONY",
-     "preco": 20.9,
-     "img": "produtos/12918.jpg"
-    },
-    {
      "cod": 12933,
      "nome": "PASTA PP 4CM PLASCONY-FUME",
      "marca": "PLASCONY",
      "preco": 7.9,
      "img": "produtos/12933.jpg"
+    },
+    {
+     "cod": 12918,
+     "nome": "PASTA PP 4CM PLASCONY A3 CRISTAL",
+     "marca": "PLASCONY",
+     "preco": 20.9,
+     "img": "produtos/12918.jpg"
     },
     {
      "cod": 10018,
@@ -11474,18 +11467,18 @@
      "img": "produtos/5558.jpg"
     },
     {
-     "cod": 10667,
-     "nome": "MALETA DECORADA CARROS",
-     "marca": "DAC",
-     "preco": 39.9,
-     "img": "produtos/10667.jpg"
-    },
-    {
      "cod": 8181,
      "nome": "MALETA DECORADA NARUTO",
      "marca": "DAC",
      "preco": 39.9,
      "img": "produtos/8181.jpg"
+    },
+    {
+     "cod": 10667,
+     "nome": "MALETA DECORADA CARROS",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/10667.jpg"
     },
     {
      "cod": 10668,
@@ -11781,13 +11774,6 @@
      "img": "produtos/12551.jpg"
     },
     {
-     "cod": 920,
-     "nome": "CONTACT LISO-LARANJA",
-     "marca": "CONTACT",
-     "preco": 5.9,
-     "img": "produtos/920.jpg"
-    },
-    {
      "cod": 7294,
      "nome": "CONTACT LISO-ROXO",
      "marca": "CONTACT",
@@ -11800,6 +11786,13 @@
      "marca": "CONTACT",
      "preco": 5.9,
      "img": null
+    },
+    {
+     "cod": 920,
+     "nome": "CONTACT LISO-LARANJA",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/920.jpg"
     },
     {
      "cod": 6683,
@@ -12327,18 +12320,18 @@
      "img": "produtos/4922.jpg"
     },
     {
-     "cod": 2400,
-     "nome": "PLASTICO 4F A4 GROSSO C/5 (LISTA ESCOLAR)",
-     "marca": "DAC",
-     "preco": 5.9,
-     "img": "produtos/2400.jpg"
-    },
-    {
      "cod": 4923,
      "nome": "PLASTICO 4F OF. MEDIO C/100",
      "marca": "MP",
      "preco": 39.9,
      "img": "produtos/4923.jpg"
+    },
+    {
+     "cod": 2400,
+     "nome": "PLASTICO 4F A4 GROSSO C/5 (LISTA ESCOLAR)",
+     "marca": "DAC",
+     "preco": 5.9,
+     "img": "produtos/2400.jpg"
     },
     {
      "cod": 4919,
@@ -12493,18 +12486,18 @@
      "img": "produtos/10265.jpg"
     },
     {
-     "cod": 10264,
-     "nome": "TESOURA S/P ACRILEX-ROSA",
-     "marca": "ACRILEX",
-     "preco": 10.9,
-     "img": "produtos/10264.jpg"
-    },
-    {
      "cod": 6920,
      "nome": "TESOURA S/P TRAMONTINA (CORES)",
      "marca": "TRAMONTINA",
      "preco": 15.9,
      "img": "produtos/6920.jpg"
+    },
+    {
+     "cod": 10264,
+     "nome": "TESOURA S/P ACRILEX-ROSA",
+     "marca": "ACRILEX",
+     "preco": 10.9,
+     "img": "produtos/10264.jpg"
     },
     {
      "cod": 13281,
@@ -12577,13 +12570,6 @@
      "img": "produtos/10614.jpg"
     },
     {
-     "cod": 12639,
-     "nome": "APONTADOR TRIS C/D 1F-LILAS (SU263)",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/12639.jpg"
-    },
-    {
      "cod": 11862,
      "nome": "APONTADOR BRW S/D 1F (PANDA)",
      "marca": "BRW",
@@ -12598,27 +12584,6 @@
      "img": "produtos/13133.jpg"
     },
     {
-     "cod": 12285,
-     "nome": "APONTADOR MOLIN C/D 1F-LOVE BLACK E WHITE",
-     "marca": "MOLIN",
-     "preco": 9.9,
-     "img": "produtos/12285.jpg"
-    },
-    {
-     "cod": 12245,
-     "nome": "APONTADOR BRW S/D 1F-ASTRONAUTA/FOGUETE",
-     "marca": "BRW",
-     "preco": 8.9,
-     "img": "produtos/12245.jpg"
-    },
-    {
-     "cod": 12678,
-     "nome": "APONTADOR TRIS C/D 1F-HOLIC ALL BLACK PRETO",
-     "marca": "TRIS",
-     "preco": 9.9,
-     "img": "produtos/12678.jpg"
-    },
-    {
      "cod": 12722,
      "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS AZUL",
      "marca": "TRIS",
@@ -12626,11 +12591,11 @@
      "img": "produtos/12722.jpg"
     },
     {
-     "cod": 12638,
-     "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
+     "cod": 12639,
+     "nome": "APONTADOR TRIS C/D 1F-LILAS (SU263)",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/12638.jpg"
+     "img": "produtos/12639.jpg"
     },
     {
      "cod": 12286,
@@ -12647,6 +12612,27 @@
      "img": "produtos/12637.jpg"
     },
     {
+     "cod": 12245,
+     "nome": "APONTADOR BRW S/D 1F-ASTRONAUTA/FOGUETE",
+     "marca": "BRW",
+     "preco": 8.9,
+     "img": "produtos/12245.jpg"
+    },
+    {
+     "cod": 12678,
+     "nome": "APONTADOR TRIS C/D 1F-HOLIC ALL BLACK PRETO",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/12678.jpg"
+    },
+    {
+     "cod": 12638,
+     "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12638.jpg"
+    },
+    {
      "cod": 12712,
      "nome": "APONTADOR TRIS S/D 1F-TEDDY MARROM",
      "marca": "TRIS",
@@ -12654,11 +12640,11 @@
      "img": "produtos/12712.jpg"
     },
     {
-     "cod": 12703,
-     "nome": "APONTADOR TRIS C/D 1F-HOLIC CAKE AZUL",
-     "marca": "TRIS",
-     "preco": 7.9,
-     "img": "produtos/12703.jpg"
+     "cod": 12285,
+     "nome": "APONTADOR MOLIN C/D 1F-LOVE BLACK E WHITE",
+     "marca": "MOLIN",
+     "preco": 9.9,
+     "img": "produtos/12285.jpg"
     },
     {
      "cod": 3171,
@@ -12668,11 +12654,11 @@
      "img": "produtos/3171.jpg"
     },
     {
-     "cod": 11584,
-     "nome": "APONTADOR MAPED C/D 1F-CANHOTO ROSA",
-     "marca": "MAPED",
-     "preco": 4.9,
-     "img": "produtos/11584.jpg"
+     "cod": 12703,
+     "nome": "APONTADOR TRIS C/D 1F-HOLIC CAKE AZUL",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12703.jpg"
     },
     {
      "cod": 12307,
@@ -12689,18 +12675,11 @@
      "img": "produtos/13381.jpg"
     },
     {
-     "cod": 13380,
-     "nome": "APONTADOR TRIS C/D 1F-MARIE LILAS",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/13380.jpg"
-    },
-    {
-     "cod": 12673,
-     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC ROSA",
-     "marca": "TRIS",
-     "preco": 12.9,
-     "img": "produtos/12673.jpg"
+     "cod": 11584,
+     "nome": "APONTADOR MAPED C/D 1F-CANHOTO ROSA",
+     "marca": "MAPED",
+     "preco": 4.9,
+     "img": "produtos/11584.jpg"
     },
     {
      "cod": 11583,
@@ -12710,18 +12689,11 @@
      "img": "produtos/11583.jpg"
     },
     {
-     "cod": 13687,
-     "nome": "APONTADOR MAPED C/D 1F-KIDY LEARN",
-     "marca": "MAPED",
-     "preco": 9.9,
-     "img": "produtos/13687.jpg"
-    },
-    {
-     "cod": 13130,
-     "nome": "APONTADOR TILIBRA C/D 1F AP14-ROSA",
-     "marca": "TILIBRA",
-     "preco": 4.9,
-     "img": "produtos/13130.jpg"
+     "cod": 13380,
+     "nome": "APONTADOR TRIS C/D 1F-MARIE LILAS",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/13380.jpg"
     },
     {
      "cod": 12689,
@@ -12729,6 +12701,13 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12689.jpg"
+    },
+    {
+     "cod": 12673,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC ROSA",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12673.jpg"
     },
     {
      "cod": 12725,
@@ -12745,11 +12724,11 @@
      "img": "produtos/12726.jpg"
     },
     {
-     "cod": 12246,
-     "nome": "APONTADOR BRW S/D 1F-SPORTS",
-     "marca": "BRW",
-     "preco": 8.9,
-     "img": "produtos/12246.jpg"
+     "cod": 13687,
+     "nome": "APONTADOR MAPED C/D 1F-KIDY LEARN",
+     "marca": "MAPED",
+     "preco": 9.9,
+     "img": "produtos/13687.jpg"
     },
     {
      "cod": 11551,
@@ -12787,11 +12766,18 @@
      "img": "produtos/12716.jpg"
     },
     {
-     "cod": 12317,
-     "nome": "APONTADOR MOLIN C/D+BORR 1F-LOVE HEART",
-     "marca": "MOLIN",
-     "preco": 19.9,
-     "img": "produtos/12317.jpg"
+     "cod": 12246,
+     "nome": "APONTADOR BRW S/D 1F-SPORTS",
+     "marca": "BRW",
+     "preco": 8.9,
+     "img": "produtos/12246.jpg"
+    },
+    {
+     "cod": 13130,
+     "nome": "APONTADOR TILIBRA C/D 1F AP14-ROSA",
+     "marca": "TILIBRA",
+     "preco": 4.9,
+     "img": "produtos/13130.jpg"
     },
     {
      "cod": 3170,
@@ -12801,11 +12787,11 @@
      "img": "produtos/3170.jpg"
     },
     {
-     "cod": 12676,
-     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC AMARELO",
-     "marca": "TRIS",
-     "preco": 12.9,
-     "img": "produtos/12676.jpg"
+     "cod": 12317,
+     "nome": "APONTADOR MOLIN C/D+BORR 1F-LOVE HEART",
+     "marca": "MOLIN",
+     "preco": 19.9,
+     "img": "produtos/12317.jpg"
     },
     {
      "cod": 12715,
@@ -12815,11 +12801,11 @@
      "img": "produtos/12715.jpg"
     },
     {
-     "cod": 12723,
-     "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS LARANJA",
+     "cod": 12676,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC AMARELO",
      "marca": "TRIS",
-     "preco": 7.9,
-     "img": "produtos/12723.jpg"
+     "preco": 12.9,
+     "img": "produtos/12676.jpg"
     },
     {
      "cod": 12675,
@@ -12827,13 +12813,6 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/12675.jpg"
-    },
-    {
-     "cod": 12674,
-     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC VERDE",
-     "marca": "TRIS",
-     "preco": 12.9,
-     "img": "produtos/12674.jpg"
     },
     {
      "cod": 10530,
@@ -12850,11 +12829,25 @@
      "img": "produtos/3172.jpg"
     },
     {
+     "cod": 12723,
+     "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS LARANJA",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/12723.jpg"
+    },
+    {
      "cod": 12728,
      "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTIÇA VERDE",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/12728.jpg"
+    },
+    {
+     "cod": 12674,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC VERDE",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/12674.jpg"
     },
     {
      "cod": 12650,
@@ -12906,18 +12899,18 @@
      "img": "produtos/8158.jpg"
     },
     {
-     "cod": 12718,
-     "nome": "APONTADOR TRIS C/D 2F-PATRULHA CANINA",
-     "marca": "TRIS",
-     "preco": 9.9,
-     "img": "produtos/12718.jpg"
-    },
-    {
      "cod": 13135,
      "nome": "APONTADOR TILIBRA C/D 2F-SOHO AZUL",
      "marca": "TILIBRA",
      "preco": 12.9,
      "img": "produtos/13135.jpg"
+    },
+    {
+     "cod": 12718,
+     "nome": "APONTADOR TRIS C/D 2F-PATRULHA CANINA",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/12718.jpg"
     },
     {
      "cod": 13137,
@@ -13053,18 +13046,18 @@
      "img": "produtos/7592.jpg"
     },
     {
-     "cod": 7603,
-     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-ROSA",
-     "marca": "LEO E LEO",
-     "preco": 0.8,
-     "img": "produtos/7603.jpg"
-    },
-    {
      "cod": 3146,
      "nome": "APONTADOR FABER C/D TRADIC.NEON-LARANJA",
      "marca": "FABER",
      "preco": 6.5,
      "img": "produtos/3146.jpg"
+    },
+    {
+     "cod": 7603,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-ROSA",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/7603.jpg"
     },
     {
      "cod": 7589,
@@ -13074,18 +13067,18 @@
      "img": "produtos/7589.jpg"
     },
     {
-     "cod": 7954,
-     "nome": "APONTADOR MAPED S/D PASTEL-AZUL",
-     "marca": "MAPED",
-     "preco": 2.0,
-     "img": "produtos/7954.jpg"
-    },
-    {
      "cod": 7601,
      "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-LARANJA",
      "marca": "LEO E LEO",
      "preco": 0.8,
      "img": "produtos/7601.jpg"
+    },
+    {
+     "cod": 7954,
+     "nome": "APONTADOR MAPED S/D PASTEL-AZUL",
+     "marca": "MAPED",
+     "preco": 2.0,
+     "img": "produtos/7954.jpg"
     },
     {
      "cod": 3145,
@@ -13095,39 +13088,11 @@
      "img": "produtos/3145.jpg"
     },
     {
-     "cod": 7546,
-     "nome": "APONTADOR LEO C/D MINI-LARANJA",
-     "marca": "LEO E LEO",
-     "preco": 0.5,
-     "img": "produtos/7546.jpg"
-    },
-    {
-     "cod": 48,
-     "nome": "APONTADOR FABER C/D JUMBO",
-     "marca": "FABER",
-     "preco": 5.9,
-     "img": "produtos/48.jpg"
-    },
-    {
-     "cod": 7598,
-     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-AMARELO",
-     "marca": "LEO E LEO",
-     "preco": 0.8,
-     "img": "produtos/7598.jpg"
-    },
-    {
      "cod": 11553,
      "nome": "APONTADOR MAPED C/D CROC (JOANINHA/BALEIA)",
      "marca": "MAPED",
      "preco": 9.9,
      "img": "produtos/11553.jpg"
-    },
-    {
-     "cod": 11864,
-     "nome": "APONTADOR E BORRACHA BRW C/D XTREME",
-     "marca": "BRW",
-     "preco": 6.9,
-     "img": "produtos/11864.jpg"
     },
     {
      "cod": 8465,
@@ -13137,11 +13102,18 @@
      "img": "produtos/8465.jpg"
     },
     {
-     "cod": 8463,
-     "nome": "APONTADOR FABER C/D ELIPSE-VERMELHO",
-     "marca": "FABER",
-     "preco": 7.9,
-     "img": "produtos/8463.jpg"
+     "cod": 7598,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-AMARELO",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/7598.jpg"
+    },
+    {
+     "cod": 11864,
+     "nome": "APONTADOR E BORRACHA BRW C/D XTREME",
+     "marca": "BRW",
+     "preco": 6.9,
+     "img": "produtos/11864.jpg"
     },
     {
      "cod": 5207,
@@ -13151,6 +13123,13 @@
      "img": "produtos/5207.jpg"
     },
     {
+     "cod": 7546,
+     "nome": "APONTADOR LEO C/D MINI-LARANJA",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/7546.jpg"
+    },
+    {
      "cod": 7590,
      "nome": "APONTADOR LEO C/D BLOCO 60-PRETO",
      "marca": "LEO E LEO",
@@ -13158,18 +13137,11 @@
      "img": "produtos/7590.jpg"
     },
     {
-     "cod": 7547,
-     "nome": "APONTADOR LEO C/D MINI-ROSA",
-     "marca": "LEO E LEO",
-     "preco": 0.5,
-     "img": "produtos/7547.jpg"
-    },
-    {
-     "cod": 53,
-     "nome": "APONTADOR FABER C/D TUBO SUBST.",
+     "cod": 48,
+     "nome": "APONTADOR FABER C/D JUMBO",
      "marca": "FABER",
-     "preco": 11.9,
-     "img": "produtos/53.jpg"
+     "preco": 5.9,
+     "img": "produtos/48.jpg"
     },
     {
      "cod": 4370,
@@ -13179,18 +13151,11 @@
      "img": "produtos/4370.jpg"
     },
     {
-     "cod": 3190,
-     "nome": "APONTADOR LEO S/D REDONDO-VERDE",
+     "cod": 7547,
+     "nome": "APONTADOR LEO C/D MINI-ROSA",
      "marca": "LEO E LEO",
-     "preco": 0.4,
-     "img": "produtos/3190.jpg"
-    },
-    {
-     "cod": 5212,
-     "nome": "APONTADOR FABER C/D TRADIC.GLITER-VERDE",
-     "marca": "FABER",
-     "preco": 6.5,
-     "img": "produtos/5212.jpg"
+     "preco": 0.5,
+     "img": "produtos/7547.jpg"
     },
     {
      "cod": 3173,
@@ -13207,6 +13172,27 @@
      "img": "produtos/7591.jpg"
     },
     {
+     "cod": 3190,
+     "nome": "APONTADOR LEO S/D REDONDO-VERDE",
+     "marca": "LEO E LEO",
+     "preco": 0.4,
+     "img": "produtos/3190.jpg"
+    },
+    {
+     "cod": 5212,
+     "nome": "APONTADOR FABER C/D TRADIC.GLITER-VERDE",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/5212.jpg"
+    },
+    {
+     "cod": 53,
+     "nome": "APONTADOR FABER C/D TUBO SUBST.",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/53.jpg"
+    },
+    {
      "cod": 5209,
      "nome": "APONTADOR FABER C/D+BORR-VERDE PASTEL",
      "marca": "FABER",
@@ -13219,13 +13205,6 @@
      "marca": "FABER",
      "preco": 13.9,
      "img": "produtos/10278.jpg"
-    },
-    {
-     "cod": 7545,
-     "nome": "APONTADOR LEO C/D MINI-AZUL",
-     "marca": "LEO E LEO",
-     "preco": 0.5,
-     "img": "produtos/7545.jpg"
     },
     {
      "cod": 3189,
@@ -13242,11 +13221,11 @@
      "img": "produtos/10788.jpg"
     },
     {
-     "cod": 12730,
-     "nome": "BORRACHA TRIS LIGA DA JUSTIÇA",
-     "marca": "TRIS",
-     "preco": 4.9,
-     "img": "produtos/12730.jpg"
+     "cod": 8463,
+     "nome": "APONTADOR FABER C/D ELIPSE-VERMELHO",
+     "marca": "FABER",
+     "preco": 7.9,
+     "img": "produtos/8463.jpg"
     },
     {
      "cod": 3174,
@@ -13256,11 +13235,25 @@
      "img": "produtos/3174.jpg"
     },
     {
+     "cod": 7545,
+     "nome": "APONTADOR LEO C/D MINI-AZUL",
+     "marca": "LEO E LEO",
+     "preco": 0.5,
+     "img": "produtos/7545.jpg"
+    },
+    {
      "cod": 5216,
      "nome": "APONTADOR FABER C/D TRADIC.PASTEL-LILAS",
      "marca": "FABER",
      "preco": 6.5,
      "img": "produtos/5216.jpg"
+    },
+    {
+     "cod": 12730,
+     "nome": "BORRACHA TRIS LIGA DA JUSTIÇA",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/12730.jpg"
     },
     {
      "cod": 5233,
@@ -13270,18 +13263,18 @@
      "img": "produtos/5233.jpg"
     },
     {
-     "cod": 3147,
-     "nome": "APONTADOR FABER C/D TRADIC.NEON-ROSA",
-     "marca": "FABER",
-     "preco": 6.5,
-     "img": "produtos/3147.jpg"
-    },
-    {
      "cod": 7596,
      "nome": "APONTADOR LEO S/D REDONDO-PRETO",
      "marca": "LEO E LEO",
      "preco": 0.4,
      "img": "produtos/7596.jpg"
+    },
+    {
+     "cod": 3147,
+     "nome": "APONTADOR FABER C/D TRADIC.NEON-ROSA",
+     "marca": "FABER",
+     "preco": 6.5,
+     "img": "produtos/3147.jpg"
     },
     {
      "cod": 56,
@@ -13319,25 +13312,11 @@
      "img": "produtos/11550.jpg"
     },
     {
-     "cod": 3154,
-     "nome": "APONTADOR FABER C/D TRIANGULAR-ROSA",
-     "marca": "FABER",
-     "preco": 4.5,
-     "img": "produtos/3154.jpg"
-    },
-    {
      "cod": 3155,
      "nome": "APONTADOR FABER C/D TRIANGULAR-VERDE",
      "marca": "FABER",
      "preco": 4.5,
      "img": "produtos/3155.jpg"
-    },
-    {
-     "cod": 13030,
-     "nome": "APONTADOR FABER C/D UNICORNIO-ROXO",
-     "marca": "FABER",
-     "preco": 11.9,
-     "img": "produtos/13030.jpg"
     },
     {
      "cod": 5236,
@@ -13361,11 +13340,18 @@
      "img": "produtos/13031.jpg"
     },
     {
-     "cod": 13032,
-     "nome": "APONTADOR FABER C/D DINOSSAURO-VERDE",
+     "cod": 13030,
+     "nome": "APONTADOR FABER C/D UNICORNIO-ROXO",
      "marca": "FABER",
      "preco": 11.9,
-     "img": "produtos/13032.jpg"
+     "img": "produtos/13030.jpg"
+    },
+    {
+     "cod": 3154,
+     "nome": "APONTADOR FABER C/D TRIANGULAR-ROSA",
+     "marca": "FABER",
+     "preco": 4.5,
+     "img": "produtos/3154.jpg"
     },
     {
      "cod": 5214,
@@ -13389,11 +13375,11 @@
      "img": "produtos/5237.jpg"
     },
     {
-     "cod": 5234,
-     "nome": "APONTADOR LEO C/D BLOCO 40-PRETO",
-     "marca": "LEO E LEO",
-     "preco": 0.8,
-     "img": "produtos/5234.jpg"
+     "cod": 13032,
+     "nome": "APONTADOR FABER C/D DINOSSAURO-VERDE",
+     "marca": "FABER",
+     "preco": 11.9,
+     "img": "produtos/13032.jpg"
     },
     {
      "cod": 3139,
@@ -13401,6 +13387,13 @@
      "marca": "FABER",
      "preco": 6.5,
      "img": "produtos/3139.jpg"
+    },
+    {
+     "cod": 5234,
+     "nome": "APONTADOR LEO C/D BLOCO 40-PRETO",
+     "marca": "LEO E LEO",
+     "preco": 0.8,
+     "img": "produtos/5234.jpg"
     },
     {
      "cod": 7594,
@@ -13542,18 +13535,18 @@
      "img": "produtos/3058.jpg"
     },
     {
-     "cod": 3070,
-     "nome": "TNT VERDE CLARO",
-     "marca": "SANTA FE",
-     "preco": 1.8,
-     "img": "produtos/3070.jpg"
-    },
-    {
      "cod": 3064,
      "nome": "TNT MARROM",
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3064.jpg"
+    },
+    {
+     "cod": 3070,
+     "nome": "TNT VERDE CLARO",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/3070.jpg"
     },
     {
      "cod": 6999,
@@ -13724,18 +13717,18 @@
      "img": "produtos/1226.jpg"
     },
     {
-     "cod": 1222,
-     "nome": "EVA GLITER-PRETO",
-     "marca": "LEO/DUB",
-     "preco": 3.9,
-     "img": "produtos/1222.jpg"
-    },
-    {
      "cod": 1217,
      "nome": "EVA GLITER-CORES",
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/1217.jpg"
+    },
+    {
+     "cod": 1222,
+     "nome": "EVA GLITER-PRETO",
+     "marca": "LEO/DUB",
+     "preco": 3.9,
+     "img": "produtos/1222.jpg"
     },
     {
      "cod": 1225,
@@ -13960,18 +13953,18 @@
      "img": "produtos/10955.jpg"
     },
     {
-     "cod": 11273,
-     "nome": "MOCHILA COSTAS PAULISTA GRANULADO 19-3 CORES",
-     "marca": "KIMTINO",
-     "preco": 109.9,
-     "img": "produtos/11273.jpg"
-    },
-    {
      "cod": 10956,
      "nome": "MOCHILA COSTAS PAULISTA A27 (C/CAPA DE CHUVA)",
      "marca": "KLWAIN",
      "preco": 219.9,
      "img": "produtos/10956.jpg"
+    },
+    {
+     "cod": 11273,
+     "nome": "MOCHILA COSTAS PAULISTA GRANULADO 19-3 CORES",
+     "marca": "KIMTINO",
+     "preco": 109.9,
+     "img": "produtos/11273.jpg"
     },
     {
      "cod": 10950,
@@ -14037,13 +14030,6 @@
      "img": "produtos/13247.jpg"
     },
     {
-     "cod": 13292,
-     "nome": "MOCHILA COSTAS XERYUS (G)-TEEN COTELE MAUVE",
-     "marca": "XERYUS",
-     "preco": 168.94,
-     "img": "produtos/13292.jpg"
-    },
-    {
      "cod": 13269,
      "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD VERDE (MS50241LD-VD)",
      "marca": "LUXCEL",
@@ -14070,6 +14056,13 @@
      "marca": "XERYUS",
      "preco": 159.9,
      "img": "produtos/13240.jpg"
+    },
+    {
+     "cod": 13292,
+     "nome": "MOCHILA COSTAS XERYUS (G)-TEEN COTELE MAUVE",
+     "marca": "XERYUS",
+     "preco": 168.94,
+     "img": "produtos/13292.jpg"
     },
     {
      "cod": 13669,
@@ -14288,18 +14281,18 @@
      "img": "produtos/11235.jpg"
     },
     {
-     "cod": 13190,
-     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
-     "marca": "XERYUS",
-     "preco": 356.9,
-     "img": "produtos/13190.jpg"
-    },
-    {
      "cod": 13199,
      "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
      "marca": "XERYUS",
      "preco": 375.9,
      "img": "produtos/13199.jpg"
+    },
+    {
+     "cod": 13190,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 356.9,
+     "img": "produtos/13190.jpg"
     },
     {
      "cod": 12259,
@@ -14468,18 +14461,18 @@
      "img": "produtos/8277.jpg"
     },
     {
-     "cod": 10675,
-     "nome": "ESTOJO DAC 1F-PRINCESAS (GG)",
-     "marca": "DAC",
-     "preco": 49.9,
-     "img": "produtos/10675.jpg"
-    },
-    {
      "cod": 8200,
      "nome": "ESTOJO DAC 1F-BREEZE COLLAB CORES",
      "marca": "DAC",
      "preco": 45.9,
      "img": "produtos/8200.jpg"
+    },
+    {
+     "cod": 10675,
+     "nome": "ESTOJO DAC 1F-PRINCESAS (GG)",
+     "marca": "DAC",
+     "preco": 49.9,
+     "img": "produtos/10675.jpg"
     },
     {
      "cod": 12535,
@@ -14503,13 +14496,6 @@
      "img": "produtos/10677.jpg"
     },
     {
-     "cod": 8199,
-     "nome": "ESTOJO DAC 1F-BUBBLE CORES NEON",
-     "marca": "DAC",
-     "preco": 45.9,
-     "img": "produtos/8199.jpg"
-    },
-    {
      "cod": 10711,
      "nome": "ESTOJO DAC 1F-HELLO STICKERS",
      "marca": "DAC",
@@ -14524,6 +14510,13 @@
      "img": "produtos/12597.jpg"
     },
     {
+     "cod": 8199,
+     "nome": "ESTOJO DAC 1F-BUBBLE CORES NEON",
+     "marca": "DAC",
+     "preco": 45.9,
+     "img": "produtos/8199.jpg"
+    },
+    {
      "cod": 10735,
      "nome": "ESTOJO DAC 1F-MINNIE (ZIPER)",
      "marca": "DAC",
@@ -14536,13 +14529,6 @@
      "marca": "CIS",
      "preco": 17.9,
      "img": "produtos/13057.jpg"
-    },
-    {
-     "cod": 13058,
-     "nome": "ESTOJO CIS MOVE 1F-CINZA/PRETO",
-     "marca": "CIS",
-     "preco": 17.9,
-     "img": "produtos/13058.jpg"
     },
     {
      "cod": 13056,
@@ -14571,6 +14557,13 @@
      "marca": "XERYUS",
      "preco": 41.9,
      "img": "produtos/12587.jpg"
+    },
+    {
+     "cod": 13058,
+     "nome": "ESTOJO CIS MOVE 1F-CINZA/PRETO",
+     "marca": "CIS",
+     "preco": 17.9,
+     "img": "produtos/13058.jpg"
     },
     {
      "cod": 13046,
@@ -14671,18 +14664,18 @@
      "img": "produtos/10719.jpg"
     },
     {
-     "cod": 12398,
-     "nome": "ESTOJO LUXCEL 2F-UP4YOU AZUL (ET49159UP-AZ)",
-     "marca": "LUXCEL",
-     "preco": 48.9,
-     "img": "produtos/12398.jpg"
-    },
-    {
      "cod": 13319,
      "nome": "ESTOJO XERYUS 2F-ATLETICO MINEIRO",
      "marca": "XERYUS",
      "preco": 56.9,
      "img": "produtos/13319.jpg"
+    },
+    {
+     "cod": 12398,
+     "nome": "ESTOJO LUXCEL 2F-UP4YOU AZUL (ET49159UP-AZ)",
+     "marca": "LUXCEL",
+     "preco": 48.9,
+     "img": "produtos/12398.jpg"
     },
     {
      "cod": 12396,
@@ -14804,18 +14797,18 @@
      "img": "produtos/8224.jpg"
     },
     {
-     "cod": 8206,
-     "nome": "ESTOJO DAC 3F-PATRULHA CANINA FEMININA",
-     "marca": "DAC",
-     "preco": 72.9,
-     "img": "produtos/8206.jpg"
-    },
-    {
      "cod": 10707,
      "nome": "ESTOJO DAC 3F-FLEX SORTIDO",
      "marca": "DAC",
      "preco": 69.9,
      "img": "produtos/10707.jpg"
+    },
+    {
+     "cod": 8206,
+     "nome": "ESTOJO DAC 3F-PATRULHA CANINA FEMININA",
+     "marca": "DAC",
+     "preco": 72.9,
+     "img": "produtos/8206.jpg"
     },
     {
      "cod": 8207,
@@ -14830,13 +14823,6 @@
      "marca": "LUXCEL",
      "preco": 69.9,
      "img": "produtos/13428.jpg"
-    },
-    {
-     "cod": 12423,
-     "nome": "ESTOJO LUXCEL 3F-STITCH ROSA (ET50085SC-RA)",
-     "marca": "LUXCEL",
-     "preco": 74.9,
-     "img": "produtos/12423.jpg"
     },
     {
      "cod": 12868,
@@ -14858,6 +14844,13 @@
      "marca": "LUXCEL",
      "preco": 79.9,
      "img": "produtos/12867.jpg"
+    },
+    {
+     "cod": 12423,
+     "nome": "ESTOJO LUXCEL 3F-STITCH ROSA (ET50085SC-RA)",
+     "marca": "LUXCEL",
+     "preco": 74.9,
+     "img": "produtos/12423.jpg"
     },
     {
      "cod": 8279,
@@ -15007,20 +15000,6 @@
      "img": "produtos/10869.jpg"
     },
     {
-     "cod": 10725,
-     "nome": "ESTOJO DAC HEXAGONAL-LONNEY TUNES",
-     "marca": "DAC",
-     "preco": 49.9,
-     "img": "produtos/10725.jpg"
-    },
-    {
-     "cod": 12818,
-     "nome": "ESTOJO LUXCEL BOX-STITCH ROXO (ET50074SC-RX)",
-     "marca": "LUXCEL",
-     "preco": 107.9,
-     "img": "produtos/12818.jpg"
-    },
-    {
      "cod": 13089,
      "nome": "ESTOJO MT BOX TRANSPARENTE-CINZA",
      "marca": "MT KIDS",
@@ -15061,6 +15040,13 @@
      "marca": "DAC",
      "preco": 99.9,
      "img": "produtos/10782.jpg"
+    },
+    {
+     "cod": 10725,
+     "nome": "ESTOJO DAC HEXAGONAL-LONNEY TUNES",
+     "marca": "DAC",
+     "preco": 49.9,
+     "img": "produtos/10725.jpg"
     },
     {
      "cod": 12421,
@@ -15117,6 +15103,13 @@
      "marca": "LUXCEL",
      "preco": 107.9,
      "img": "produtos/12420.jpg"
+    },
+    {
+     "cod": 12818,
+     "nome": "ESTOJO LUXCEL BOX-STITCH ROXO (ET50074SC-RX)",
+     "marca": "LUXCEL",
+     "preco": 107.9,
+     "img": "produtos/12818.jpg"
     },
     {
      "cod": 13088,
