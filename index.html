@@ -584,8 +584,13 @@
                        -webkit-overflow-scrolling: touch;
                        scrollbar-width: none; }
       .faixa-esteira::-webkit-scrollbar { display: none; }
-      .faixa-trilho { animation-duration: 20s; gap: 1.3rem;
-                      will-change: transform; }
+      /* SEM ANIMAÇÃO NO CELULAR. O `transform` da animação desloca o trilho
+         para a esquerda, e o navegador não rola para uma área deslocada
+         assim: a faixa ficava parada E sem arrasto ao mesmo tempo. Aqui ela
+         é rolagem de verdade, movida por JS (ver "esteiraCelular"), o que
+         faz o dedo funcionar e sobrevive ao Modo de Baixo Consumo. */
+      .faixa-trilho { animation: none; gap: 1.3rem; }
+      .faixa-esteira { scroll-behavior: auto; }
       .dest-item { width: 116px; }
       .dest-item .foto { width: 104px; height: 104px; }
       .faixa-destaques .faixa-topo h2 { font-size: 1.25rem; }
@@ -890,6 +895,61 @@
       // a 2a copia existe apenas para o translateX(-50%) emendar sem pulo.
       var html = DESTAQUES.map(itemDestaque).join('');
       trilho.innerHTML = html + html;
+    })();
+
+    // ===== Faixa de destaques no CELULAR: rolagem de verdade =====
+    // No desktop a faixa desliza por animação CSS. No celular isso não serve:
+    // o `transform` da animação desloca o trilho, e o navegador não rola para
+    // uma área deslocada assim — a faixa ficava parada E sem arrasto. Pior,
+    // o Modo de Baixo Consumo do iPhone pausa animação de CSS, e aí nada se
+    // move por mais rápida que ela seja.
+    //
+    // Aqui a faixa é um contêiner que ROLA, e quem empurra é o JS. O dedo
+    // passa a funcionar (é rolagem nativa), e o movimento sozinho continua.
+    (function esteiraCelular() {
+      if (!window.matchMedia('(max-width: 640px)').matches) { return; }
+      var esteira = document.querySelector('.faixa-esteira');
+      var trilho = document.getElementById('faixa-trilho');
+      if (!esteira || !trilho || !trilho.children.length) { return; }
+
+      var pausadoEm = 0;
+      ['touchstart', 'pointerdown', 'mousedown', 'wheel'].forEach(function (ev) {
+        esteira.addEventListener(ev, function () { pausadoEm = Date.now(); },
+                                 { passive: true });
+      });
+      // Enquanto o dedo arrasta, e por 3s depois, o automático fica quieto —
+      // senão ele briga com quem está olhando um produto.
+      esteira.addEventListener('touchend', function () { pausadoEm = Date.now(); },
+                               { passive: true });
+
+      // A posição é guardada AQUI, em número quebrado, e só depois vai para o
+      // scrollLeft. Somar direto no scrollLeft não anda: são 0,9px por
+      // quadro, o navegador trunca para 0 e a faixa fica eternamente parada —
+      // foi o que aconteceu na primeira tentativa.
+      var pos = 0;
+      var ultimo = Date.now();
+      var PX_POR_SEGUNDO = 55;
+
+      // Temporizador, e não requestAnimationFrame: o rAF é a escolha bonita,
+      // mas ele PARA quando a página não está pintando, e é justamente em
+      // celular economizando bateria que isso acontece. O timer continua.
+      setInterval(function () {
+        var agora = Date.now();
+        // O passo é limitado: se o navegador engasgar o timer, o desconto de
+        // tempo acumulado faria a faixa dar um pulo em vez de deslizar.
+        var dt = Math.min(agora - ultimo, 50) / 1000;
+        ultimo = agora;
+        if (agora - pausadoEm < 3000) {
+          // Enquanto o dedo manda, o automático só observa — e anota onde a
+          // pessoa parou, para continuar dali.
+          pos = esteira.scrollLeft;
+          return;
+        }
+        var metade = esteira.scrollWidth / 2;   // a 2a cópia emenda a volta
+        pos += PX_POR_SEGUNDO * dt;
+        if (metade > 0 && pos >= metade) { pos -= metade; }
+        esteira.scrollLeft = pos;
+      }, 33);
     })();
 
     // Ano automatico no rodape
