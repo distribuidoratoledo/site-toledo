@@ -867,13 +867,69 @@
     const busca = document.getElementById('busca-cat');
     busca.addEventListener('input', function () { filtrar(busca.value); });
 
-    // Busca do topo
+    // ===== Busca do topo: procura PRODUTO, não categoria =====
+    // Ela filtrava só a lista de categorias. No computador ainda funcionava
+    // de raspão, porque a lista fica à vista e a pessoa via as categorias
+    // sobrarem. No celular, onde a lista nasce fechada, digitar "Mochila"
+    // não mudava nada na tela: o filtro acontecia num lugar invisível.
+    //
+    // Quem digita "Mochila" quer ver mochilas, não a palavra "Mochila" num
+    // menu. Agora a busca varre os 2.100 produtos do catálogo pelo nome e
+    // pela marca, e mostra o resultado na própria grade.
+    function semAcento(s) {
+      return (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    }
+
+    function buscarProdutos(termo) {
+      var alvo = semAcento(termo).trim();
+      if (!alvo) { return false; }
+
+      // PALAVRA POR PALAVRA, em qualquer ordem. Procurar a frase inteira
+      // fazia "lapis de cor" achar UM produto — uma borracha cujo nome tem
+      // "tinta e lapis de cor" — enquanto os lápis de cor de verdade estão
+      // cadastrados como "LAPIS COR ...". Palavras de até duas letras ficam
+      // de fora: o "de" não ajuda a achar nada e atrapalha tudo.
+      var palavras = alvo.split(/\s+/).filter(function (w) { return w.length > 2; });
+      if (!palavras.length) { palavras = [alvo]; }
+
+      var achados = [];
+      for (var i = 0; i < CATALOGO.length; i++) {
+        var c = CATALOGO[i];
+        for (var j = 0; j < c.itens.length; j++) {
+          var p = c.itens[j];
+          var texto = semAcento(p.nome + ' ' + (p.marca || '') + ' ' + c.nome);
+          var bate = true;
+          for (var k = 0; k < palavras.length; k++) {
+            if (texto.indexOf(palavras[k]) === -1) { bate = false; break; }
+          }
+          if (bate) { achados.push(p); }
+        }
+      }
+      if (!achados.length) {
+        painel.innerHTML = '<h3 class="titulo-cat">Nada encontrado</h3>' +
+          '<p class="sub-cat">Não achamos nada para <b>' + termo + '</b>. ' +
+          'Tente outra palavra, ou fale com a gente no WhatsApp: ' +
+          '<a href="https://wa.me/' + WHATS + '" target="_blank" rel="noopener">' +
+          'temos muito mais do que cabe no site</a>.</p>';
+      } else {
+        painel.innerHTML = '<h3 class="titulo-cat">' + termo + '</h3>' +
+          '<p class="sub-cat">' + achados.length +
+          (achados.length === 1 ? ' produto encontrado' : ' produtos encontrados') +
+          ' · clique para consultar no WhatsApp</p>' +
+          '<div class="grid-produtos">' + achados.map(cardProduto).join('') + '</div>';
+      }
+      document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+      return true;
+    }
+
     function buscarTopo(e) {
       e.preventDefault();
       const termo = document.getElementById('busca-topo').value;
-      filtrar(termo);
+      filtrar(termo);            // a lista de categorias acompanha
       if (busca) busca.value = termo;
-      document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+      if (!buscarProdutos(termo)) {
+        document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+      }
       return false;
     }
     window.buscarTopo = buscarTopo;
