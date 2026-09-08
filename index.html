@@ -569,6 +569,34 @@
       .whats-flutuante svg { width: 28px; height: 28px; }
       footer { padding-bottom: 5.5rem; }
 
+      /* 6. DESTAQUES VAZIOS NO IPHONE. A faixa aparecia como um bloco azul
+            sem nada dentro. O HTML estava lá — o que não pintava era a
+            combinação de `-webkit-mask-image` (o esmaecido das pontas) com
+            um filho animado por `transform`, que o Safari do iOS não
+            compõe. No celular a máscara sai.
+
+            E a animação fica mais curta: 34s atravessando 5.600px de trilho
+            é imperceptível numa tela de 360. Se ainda assim ela parar, é o
+            Modo de Baixo Consumo do iPhone, que pausa animação — por isso a
+            faixa também aceita arrastar com o dedo. */
+      .faixa-esteira { -webkit-mask-image: none; mask-image: none;
+                       overflow-x: auto; overflow-y: hidden;
+                       -webkit-overflow-scrolling: touch;
+                       scrollbar-width: none; }
+      .faixa-esteira::-webkit-scrollbar { display: none; }
+      .faixa-trilho { animation-duration: 20s; gap: 1.3rem;
+                      will-change: transform; }
+      .dest-item { width: 116px; }
+      .dest-item .foto { width: 104px; height: 104px; }
+      .faixa-destaques .faixa-topo h2 { font-size: 1.25rem; }
+
+      /* 7. A tira de vantagens ocupava 173px. O `gap: 2.5rem` do desktop
+            vira 40px ENTRE LINHAS quando os três itens empilham no celular
+            — três linhas de texto com dois vãos de dedo entre elas. */
+      .vantagens { gap: 0.3rem 1rem; padding: 0.55rem 0.7rem;
+                   font-size: 0.78rem; }
+      .vantagens span { gap: 0.3rem; }
+
       /* 5. O menu do topo quebrava com "Contato" sozinho na segunda linha.
             Os cinco links somam 267px de texto; com 24px de padding de cada
             lado e 14px entre eles, faltavam 13px para caber. Apertando os
