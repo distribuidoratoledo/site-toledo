@@ -16979,8 +16979,8 @@
    ]
   },
   {
-   "slug": "marmitex",
-   "nome": "Marmitex e Hamburgueira",
+   "slug": "papel-acoplado",
+   "nome": "Papel Acoplado",
    "itens": [
     {
      "cod": 4043,
@@ -17009,230 +17009,6 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg"
-    },
-    {
-     "cod": 4037,
-     "nome": "FRANGUEIRA ISOPOR H5 C/50",
-     "marca": "ULTRA",
-     "preco": 69.9,
-     "img": "produtos/4037.jpg"
-    },
-    {
-     "cod": 3924,
-     "nome": "HAMBURGUEIRA CH101 C/100",
-     "marca": "COPOPLAST",
-     "preco": 62.9,
-     "img": "produtos/3924.jpg"
-    },
-    {
-     "cod": 3947,
-     "nome": "HAMBURGUEIRA H1 C/100",
-     "marca": "",
-     "preco": 25.9,
-     "img": "produtos/3947.jpg"
-    },
-    {
-     "cod": 3731,
-     "nome": "HAMBURGUEIRA H2 C/100",
-     "marca": "",
-     "preco": 31.9,
-     "img": "produtos/3731.jpg"
-    },
-    {
-     "cod": 1569,
-     "nome": "HAMBURGUEIRA H3 C/100",
-     "marca": "COPOPLAST",
-     "preco": 39.9,
-     "img": "produtos/1569.jpg"
-    },
-    {
-     "cod": 5937,
-     "nome": "HAMBURGUEIRA/DOGUEIRA H4 C/100",
-     "marca": "",
-     "preco": 38.9,
-     "img": "produtos/5937.jpg"
-    },
-    {
-     "cod": 1852,
-     "nome": "MARMITEX 5 MANUAL C/100-MELLO",
-     "marca": "MELLO",
-     "preco": 47.9,
-     "img": "produtos/1852.jpg"
-    },
-    {
-     "cod": 1855,
-     "nome": "MARMITEX 8 MANUAL C/100-MELLO",
-     "marca": "MELLO",
-     "preco": 65.9,
-     "img": "produtos/1855.jpg"
-    },
-    {
-     "cod": 1861,
-     "nome": "MARMITEX 9 MANUAL C/100-MELLO",
-     "marca": "MELLO",
-     "preco": 62.9,
-     "img": "produtos/1861.jpg"
-    },
-    {
-     "cod": 2460,
-     "nome": "PORTA MARMITEX FUNDO ISOPOR",
-     "marca": "ISOMAX",
-     "preco": 14.9,
-     "img": "produtos/2460.jpg"
-    },
-    {
-     "cod": 2461,
-     "nome": "PORTA MARMITEX TAMPA ISOPOR",
-     "marca": "ISOMAX",
-     "preco": 8.9,
-     "img": "produtos/2461.jpg"
-    },
-    {
-     "cod": 8365,
-     "nome": "PT090 C/50 (FUNDO)",
-     "marca": "ULTRA",
-     "preco": 52.9,
-     "img": "produtos/8365.jpg"
-    },
-    {
-     "cod": 8364,
-     "nome": "PT090 C/50 (TAMPA)",
-     "marca": "ULTRA",
-     "preco": 29.9,
-     "img": "produtos/8364.jpg"
-    },
-    {
-     "cod": 4391,
-     "nome": "PT090 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 85.9,
-     "img": "produtos/4391.jpg"
-    },
-    {
-     "cod": 4390,
-     "nome": "PT090 COPOBRAS C/100 (TAMPA)",
-     "marca": "COPOBRAS",
-     "preco": 79.9,
-     "img": "produtos/4390.jpg"
-    },
-    {
-     "cod": 13600,
-     "nome": "PT090 ISOBRAS C/100 (TAMPA)",
-     "marca": "ISOBRAS",
-     "preco": 43.9,
-     "img": "produtos/13600.jpg"
-    },
-    {
-     "cod": 1867,
-     "nome": "PT100 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/1867.jpg"
-    },
-    {
-     "cod": 6841,
-     "nome": "PT100 COPOPLAST C/100 (FUNDO)",
-     "marca": "COPOPLAST",
-     "preco": 28.9,
-     "img": "produtos/6841.jpg"
-    },
-    {
-     "cod": 2937,
-     "nome": "PT100/PT102/PT104 COPOBRAS C/100 (TAMPA)",
-     "marca": "COPOBRAS",
-     "preco": 22.0,
-     "img": "produtos/2937.jpg"
-    },
-    {
-     "cod": 4146,
-     "nome": "PT100/PT102/PT104 COPOPLAST C/100 (TAMPA)",
-     "marca": "COPOPLAST",
-     "preco": 18.9,
-     "img": "produtos/4146.jpg"
-    },
-    {
-     "cod": 2491,
-     "nome": "PT102 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/2491.jpg"
-    },
-    {
-     "cod": 3887,
-     "nome": "PT102 COPOPLAST C/100 (FUNDO)",
-     "marca": "COPOPLAST",
-     "preco": 21.0,
-     "img": "produtos/3887.jpg"
-    },
-    {
-     "cod": 7352,
-     "nome": "PT104 COPOPLAST C/100 (FUNDO)",
-     "marca": "COPOPLAST",
-     "preco": 35.9,
-     "img": "produtos/7352.jpg"
-    },
-    {
-     "cod": 13985,
-     "nome": "PT104 TOTALPLAST (KIT TAMPA+FUNDO) C/100",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/13985.jpg"
-    },
-    {
-     "cod": 3536,
-     "nome": "PT300 ULTRA C/50 (FUNDO)",
-     "marca": "ULTRA",
-     "preco": 12.9,
-     "img": "produtos/3536.jpg"
-    },
-    {
-     "cod": 5821,
-     "nome": "PT300 ULTRA C/50 (TAMPA)",
-     "marca": "ULTRA",
-     "preco": 11.9,
-     "img": "produtos/5821.jpg"
-    },
-    {
-     "cod": 3989,
-     "nome": "PT500 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/3989.jpg"
-    },
-    {
-     "cod": 4129,
-     "nome": "PT500 COPOBRAS C/100 (TAMPA)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/4129.jpg"
-    },
-    {
-     "cod": 5005,
-     "nome": "PT500 ISOBRAS C/100 (TAMPA)",
-     "marca": "ISOBRAS",
-     "preco": 17.0,
-     "img": "produtos/5005.jpg"
-    },
-    {
-     "cod": 4734,
-     "nome": "PT500 TOTAL C/50 (FUNDO)",
-     "marca": "TOTAPLAST",
-     "preco": 18.9,
-     "img": "produtos/4734.jpg"
-    },
-    {
-     "cod": 4733,
-     "nome": "PT500 TOTAL C/50 (TAMPA)",
-     "marca": "TOTAPLAST",
-     "preco": 11.9,
-     "img": "produtos/4733.jpg"
-    },
-    {
-     "cod": 13885,
-     "nome": "TH201-3D/PT090 TOTALPLAST C/10",
-     "marca": "TOTALPLAST",
-     "preco": 16.9,
-     "img": "produtos/13885.jpg"
     }
    ]
   },
@@ -18066,6 +17842,62 @@
      "img": "produtos/5987.jpg"
     },
     {
+     "cod": 4037,
+     "nome": "FRANGUEIRA ISOPOR H5 C/50",
+     "marca": "ULTRA",
+     "preco": 69.9,
+     "img": "produtos/4037.jpg"
+    },
+    {
+     "cod": 3924,
+     "nome": "HAMBURGUEIRA CH101 C/100",
+     "marca": "COPOPLAST",
+     "preco": 62.9,
+     "img": "produtos/3924.jpg"
+    },
+    {
+     "cod": 3947,
+     "nome": "HAMBURGUEIRA H1 C/100",
+     "marca": "",
+     "preco": 25.9,
+     "img": "produtos/3947.jpg"
+    },
+    {
+     "cod": 3731,
+     "nome": "HAMBURGUEIRA H2 C/100",
+     "marca": "",
+     "preco": 31.9,
+     "img": "produtos/3731.jpg"
+    },
+    {
+     "cod": 1569,
+     "nome": "HAMBURGUEIRA H3 C/100",
+     "marca": "COPOPLAST",
+     "preco": 39.9,
+     "img": "produtos/1569.jpg"
+    },
+    {
+     "cod": 5937,
+     "nome": "HAMBURGUEIRA/DOGUEIRA H4 C/100",
+     "marca": "",
+     "preco": 38.9,
+     "img": "produtos/5937.jpg"
+    },
+    {
+     "cod": 2460,
+     "nome": "PORTA MARMITEX FUNDO ISOPOR",
+     "marca": "ISOMAX",
+     "preco": 14.9,
+     "img": "produtos/2460.jpg"
+    },
+    {
+     "cod": 2461,
+     "nome": "PORTA MARMITEX TAMPA ISOPOR",
+     "marca": "ISOMAX",
+     "preco": 8.9,
+     "img": "produtos/2461.jpg"
+    },
+    {
      "cod": 2530,
      "nome": "PRANCHA ISOPOR T-02 C/200",
      "marca": "",
@@ -18078,6 +17910,153 @@
      "marca": "",
      "preco": 77.9,
      "img": "produtos/2531.jpg"
+    },
+    {
+     "cod": 8365,
+     "nome": "PT090 C/50 (FUNDO)",
+     "marca": "ULTRA",
+     "preco": 52.9,
+     "img": "produtos/8365.jpg"
+    },
+    {
+     "cod": 8364,
+     "nome": "PT090 C/50 (TAMPA)",
+     "marca": "ULTRA",
+     "preco": 29.9,
+     "img": "produtos/8364.jpg"
+    },
+    {
+     "cod": 4391,
+     "nome": "PT090 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 85.9,
+     "img": "produtos/4391.jpg"
+    },
+    {
+     "cod": 4390,
+     "nome": "PT090 COPOBRAS C/100 (TAMPA)",
+     "marca": "COPOBRAS",
+     "preco": 79.9,
+     "img": "produtos/4390.jpg"
+    },
+    {
+     "cod": 13600,
+     "nome": "PT090 ISOBRAS C/100 (TAMPA)",
+     "marca": "ISOBRAS",
+     "preco": 43.9,
+     "img": "produtos/13600.jpg"
+    },
+    {
+     "cod": 1867,
+     "nome": "PT100 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/1867.jpg"
+    },
+    {
+     "cod": 6841,
+     "nome": "PT100 COPOPLAST C/100 (FUNDO)",
+     "marca": "COPOPLAST",
+     "preco": 28.9,
+     "img": "produtos/6841.jpg"
+    },
+    {
+     "cod": 2937,
+     "nome": "PT100/PT102/PT104 COPOBRAS C/100 (TAMPA)",
+     "marca": "COPOBRAS",
+     "preco": 22.0,
+     "img": "produtos/2937.jpg"
+    },
+    {
+     "cod": 4146,
+     "nome": "PT100/PT102/PT104 COPOPLAST C/100 (TAMPA)",
+     "marca": "COPOPLAST",
+     "preco": 18.9,
+     "img": "produtos/4146.jpg"
+    },
+    {
+     "cod": 2491,
+     "nome": "PT102 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/2491.jpg"
+    },
+    {
+     "cod": 3887,
+     "nome": "PT102 COPOPLAST C/100 (FUNDO)",
+     "marca": "COPOPLAST",
+     "preco": 21.0,
+     "img": "produtos/3887.jpg"
+    },
+    {
+     "cod": 7352,
+     "nome": "PT104 COPOPLAST C/100 (FUNDO)",
+     "marca": "COPOPLAST",
+     "preco": 35.9,
+     "img": "produtos/7352.jpg"
+    },
+    {
+     "cod": 13985,
+     "nome": "PT104 TOTALPLAST (KIT TAMPA+FUNDO) C/100",
+     "marca": "",
+     "preco": 52.9,
+     "img": "produtos/13985.jpg"
+    },
+    {
+     "cod": 3536,
+     "nome": "PT300 ULTRA C/50 (FUNDO)",
+     "marca": "ULTRA",
+     "preco": 12.9,
+     "img": "produtos/3536.jpg"
+    },
+    {
+     "cod": 5821,
+     "nome": "PT300 ULTRA C/50 (TAMPA)",
+     "marca": "ULTRA",
+     "preco": 11.9,
+     "img": "produtos/5821.jpg"
+    },
+    {
+     "cod": 3989,
+     "nome": "PT500 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/3989.jpg"
+    },
+    {
+     "cod": 4129,
+     "nome": "PT500 COPOBRAS C/100 (TAMPA)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/4129.jpg"
+    },
+    {
+     "cod": 5005,
+     "nome": "PT500 ISOBRAS C/100 (TAMPA)",
+     "marca": "ISOBRAS",
+     "preco": 17.0,
+     "img": "produtos/5005.jpg"
+    },
+    {
+     "cod": 4734,
+     "nome": "PT500 TOTAL C/50 (FUNDO)",
+     "marca": "TOTAPLAST",
+     "preco": 18.9,
+     "img": "produtos/4734.jpg"
+    },
+    {
+     "cod": 4733,
+     "nome": "PT500 TOTAL C/50 (TAMPA)",
+     "marca": "TOTAPLAST",
+     "preco": 11.9,
+     "img": "produtos/4733.jpg"
+    },
+    {
+     "cod": 13885,
+     "nome": "TH201-3D/PT090 TOTALPLAST C/10",
+     "marca": "TOTALPLAST",
+     "preco": 16.9,
+     "img": "produtos/13885.jpg"
     }
    ]
   },
@@ -19506,6 +19485,27 @@
      "marca": "",
      "preco": 62.9,
      "img": "produtos/1343.jpg"
+    },
+    {
+     "cod": 1852,
+     "nome": "MARMITEX 5 MANUAL C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 47.9,
+     "img": "produtos/1852.jpg"
+    },
+    {
+     "cod": 1855,
+     "nome": "MARMITEX 8 MANUAL C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 65.9,
+     "img": "produtos/1855.jpg"
+    },
+    {
+     "cod": 1861,
+     "nome": "MARMITEX 9 MANUAL C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 62.9,
+     "img": "produtos/1861.jpg"
     },
     {
      "cod": 2372,
