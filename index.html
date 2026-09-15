@@ -179,6 +179,7 @@
     }
     .prod h4 { color: var(--azul); font-size: 0.92rem; margin-bottom: 0.2rem; line-height: 1.3; }
     .prod .prod-marca { font-size: 0.78rem; color: #8792a4; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 0.4rem; }
+    .prod .prod-cod { font-size: 0.75rem; color: #6b7687; letter-spacing: 0.3px; margin-bottom: 0.35rem; font-variant-numeric: tabular-nums; }
     .prod .preco { color: var(--vermelho); font-weight: 700; margin-bottom: 0.8rem; font-size: 0.95rem; }
 
     /* Painel de produtos por categoria */
@@ -817,6 +818,11 @@
       return '<div class="prod">' + foto +
              '<h4>' + p.nome + '</h4>' +
              (p.marca ? '<p class="prod-marca">' + p.marca + '</p>' : '') +
+             // O CODIGO DO SANKHYA NA VITRINE. Ele so' aparecia depois, dentro
+             // da mensagem do WhatsApp -- quem monta pedido por codigo tinha de
+             // abrir produto por produto para descobrir. Aqui ele fica junto do
+             // nome, e a busca do topo passa a aceita-lo.
+             '<p class="prod-cod">Código: ' + p.cod + '</p>' +
              '<p class="preco">' + moeda(p.preco) + '</p>' +
              '<a class="btn-mini" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + msg + '">Consultar no WhatsApp</a>' +
              '</div>';
@@ -907,7 +913,11 @@
       // "tinta e lapis de cor" — enquanto os lápis de cor de verdade estão
       // cadastrados como "LAPIS COR ...". Palavras de até duas letras ficam
       // de fora: o "de" não ajuda a achar nada e atrapalha tudo.
-      var palavras = alvo.split(/\s+/).filter(function (w) { return w.length > 2; });
+      var palavras = alvo.split(/\s+/).filter(function (w) {
+        // numero passa mesmo curto: e' codigo de produto, e "552" e' uma
+        // busca legitima. So' as palavrinhas ("de", "da") e' que atrapalham.
+        return w.length > 2 || /^[0-9]+$/.test(w);
+      });
       if (!palavras.length) { palavras = [alvo]; }
 
       var achados = [];
@@ -915,7 +925,10 @@
         var c = CATALOGO[i];
         for (var j = 0; j < c.itens.length; j++) {
           var p = c.itens[j];
-          var texto = semAcento(p.nome + ' ' + (p.marca || '') + ' ' + c.nome);
+          // o codigo entra no texto procurado: com ele na vitrine, o
+          // cliente digita "15640" e espera achar aquele item.
+          var texto = semAcento(p.nome + ' ' + (p.marca || '') + ' ' + c.nome
+                                + ' ' + p.cod);
           var bate = true;
           for (var k = 0; k < palavras.length; k++) {
             if (texto.indexOf(palavras[k]) === -1) { bate = false; break; }
