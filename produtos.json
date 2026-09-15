@@ -12090,202 +12090,6 @@
    "nome": "Plástico",
    "itens": [
     {
-     "cod": 10775,
-     "nome": "AVENTAL ESCOLAR BATMAN",
-     "marca": "DAC",
-     "preco": 39.9,
-     "img": "produtos/10775.jpg"
-    },
-    {
-     "cod": 12399,
-     "nome": "AVENTAL ESCOLAR STITCH (ROSA)",
-     "marca": "LUXCEL",
-     "preco": 47.9,
-     "img": "produtos/12399.jpg"
-    },
-    {
-     "cod": 3728,
-     "nome": "CAPA PRONTA AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
-     "marca": "MAXI PLAST",
-     "preco": 12.5,
-     "img": "produtos/3728.jpg"
-    },
-    {
-     "cod": 667,
-     "nome": "CAPA PRONTA ALIBOM. C/5 (CARTONADO)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/667.jpg"
-    },
-    {
-     "cod": 668,
-     "nome": "CAPA PRONTA BROCH. C/5 (80/60FL)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/668.jpg"
-    },
-    {
-     "cod": 671,
-     "nome": "CAPA PRONTA ESPIRAL  C/5 (SOLTA)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/671.jpg"
-    },
-    {
-     "cod": 672,
-     "nome": "CAPA PRONTA LIVRO C/5 (AJUSTAVEL)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/672.jpg"
-    },
-    {
-     "cod": 7614,
-     "nome": "CONTACT DECORADO-ARABESCO 01",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7614.jpg"
-    },
-    {
-     "cod": 7628,
-     "nome": "CONTACT DECORADO-ARCOS",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7628.jpg"
-    },
-    {
-     "cod": 7631,
-     "nome": "CONTACT DECORADO-AZULEJO ROSA",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7631.jpg"
-    },
-    {
-     "cod": 892,
-     "nome": "CONTACT DECORADO-FLOWER 16",
-     "marca": "PLASTCOVER",
-     "preco": 6.9,
-     "img": "produtos/892.jpg"
-    },
-    {
-     "cod": 7607,
-     "nome": "CONTACT DECORADO-FORMAS 02",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7607.jpg"
-    },
-    {
-     "cod": 7619,
-     "nome": "CONTACT DECORADO-PEDRA 02",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7619.jpg"
-    },
-    {
-     "cod": 7616,
-     "nome": "CONTACT DECORADO-RETRÔ 01",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7616.jpg"
-    },
-    {
-     "cod": 7626,
-     "nome": "CONTACT GLITER-PRATA",
-     "marca": "LEOTACK",
-     "preco": 12.9,
-     "img": "produtos/7626.jpg"
-    },
-    {
-     "cod": 916,
-     "nome": "CONTACT LISO-AMARELO",
-     "marca": "LEOTACK",
-     "preco": 5.9,
-     "img": "produtos/916.jpg"
-    },
-    {
-     "cod": 7636,
-     "nome": "CONTACT LISO-AZUL CLARO",
-     "marca": "LEOTACK",
-     "preco": 5.9,
-     "img": "produtos/7636.jpg"
-    },
-    {
-     "cod": 919,
-     "nome": "CONTACT LISO-BRANCO FOSCO",
-     "marca": "LEOTACK",
-     "preco": 5.9,
-     "img": "produtos/919.jpg"
-    },
-    {
-     "cod": 920,
-     "nome": "CONTACT LISO-LARANJA",
-     "marca": "CONTACT",
-     "preco": 5.9,
-     "img": "produtos/920.jpg"
-    },
-    {
-     "cod": 10000,
-     "nome": "CONTACT LISO-LILAS",
-     "marca": "CON-TACT",
-     "preco": 5.9,
-     "img": "produtos/10000.jpg"
-    },
-    {
-     "cod": 922,
-     "nome": "CONTACT LISO-PRETO FOSCO",
-     "marca": "LEOARTE",
-     "preco": 5.9,
-     "img": "produtos/922.jpg"
-    },
-    {
-     "cod": 6683,
-     "nome": "CONTACT LISO-ROSA CLARO",
-     "marca": "CONTACT",
-     "preco": 5.9,
-     "img": "produtos/6683.jpg"
-    },
-    {
-     "cod": 7294,
-     "nome": "CONTACT LISO-ROXO",
-     "marca": "CONTACT",
-     "preco": 5.9,
-     "img": "produtos/7294.jpg"
-    },
-    {
-     "cod": 923,
-     "nome": "CONTACT LISO-VERDE",
-     "marca": "LEOARTE",
-     "preco": 5.9,
-     "img": "produtos/923.jpg"
-    },
-    {
-     "cod": 924,
-     "nome": "CONTACT LISO-VERMELHO",
-     "marca": "LEOARTE",
-     "preco": 5.9,
-     "img": "produtos/924.jpg"
-    },
-    {
-     "cod": 7622,
-     "nome": "CONTACT MADEIRA-RIPA PRETA",
-     "marca": "LEOTACK",
-     "preco": 15.9,
-     "img": "produtos/7622.jpg"
-    },
-    {
-     "cod": 933,
-     "nome": "CONTACT TRANSPARENTE",
-     "marca": "LEOTACK",
-     "preco": 3.9,
-     "img": "produtos/933.jpg"
-    },
-    {
-     "cod": 10726,
-     "nome": "MINI AVENTAL ESCOLAR LOONEY TUNES",
-     "marca": "DAC",
-     "preco": 17.9,
-     "img": "produtos/10726.jpg"
-    },
-    {
      "cod": 4918,
      "nome": "PLASTICO 4F A4 FINO C/100",
      "marca": "",
@@ -12333,20 +12137,6 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg"
-    },
-    {
-     "cod": 13554,
-     "nome": "ROLO INFANTIL COLORIR ADESIVO-ANIMAIS",
-     "marca": "VMP",
-     "preco": 27.9,
-     "img": "produtos/13554.jpg"
-    },
-    {
-     "cod": 13558,
-     "nome": "ROLO INFANTIL COLORIR ADESIVO-SEREIA",
-     "marca": "VMP",
-     "preco": 27.9,
-     "img": "produtos/13558.jpg"
     },
     {
      "cod": 13540,
@@ -25009,6 +24799,234 @@
      "marca": "GRESPAN",
      "preco": 8.9,
      "img": "produtos/2385.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "contact",
+   "nome": "Contact",
+   "itens": [
+    {
+     "cod": 7614,
+     "nome": "CONTACT DECORADO-ARABESCO 01",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7614.jpg"
+    },
+    {
+     "cod": 7628,
+     "nome": "CONTACT DECORADO-ARCOS",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7628.jpg"
+    },
+    {
+     "cod": 7631,
+     "nome": "CONTACT DECORADO-AZULEJO ROSA",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7631.jpg"
+    },
+    {
+     "cod": 892,
+     "nome": "CONTACT DECORADO-FLOWER 16",
+     "marca": "PLASTCOVER",
+     "preco": 6.9,
+     "img": "produtos/892.jpg"
+    },
+    {
+     "cod": 7607,
+     "nome": "CONTACT DECORADO-FORMAS 02",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7607.jpg"
+    },
+    {
+     "cod": 7619,
+     "nome": "CONTACT DECORADO-PEDRA 02",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7619.jpg"
+    },
+    {
+     "cod": 7616,
+     "nome": "CONTACT DECORADO-RETRÔ 01",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7616.jpg"
+    },
+    {
+     "cod": 7626,
+     "nome": "CONTACT GLITER-PRATA",
+     "marca": "LEOTACK",
+     "preco": 12.9,
+     "img": "produtos/7626.jpg"
+    },
+    {
+     "cod": 916,
+     "nome": "CONTACT LISO-AMARELO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/916.jpg"
+    },
+    {
+     "cod": 7636,
+     "nome": "CONTACT LISO-AZUL CLARO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/7636.jpg"
+    },
+    {
+     "cod": 919,
+     "nome": "CONTACT LISO-BRANCO FOSCO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/919.jpg"
+    },
+    {
+     "cod": 920,
+     "nome": "CONTACT LISO-LARANJA",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/920.jpg"
+    },
+    {
+     "cod": 10000,
+     "nome": "CONTACT LISO-LILAS",
+     "marca": "CON-TACT",
+     "preco": 5.9,
+     "img": "produtos/10000.jpg"
+    },
+    {
+     "cod": 922,
+     "nome": "CONTACT LISO-PRETO FOSCO",
+     "marca": "LEOARTE",
+     "preco": 5.9,
+     "img": "produtos/922.jpg"
+    },
+    {
+     "cod": 6683,
+     "nome": "CONTACT LISO-ROSA CLARO",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/6683.jpg"
+    },
+    {
+     "cod": 7294,
+     "nome": "CONTACT LISO-ROXO",
+     "marca": "CONTACT",
+     "preco": 5.9,
+     "img": "produtos/7294.jpg"
+    },
+    {
+     "cod": 923,
+     "nome": "CONTACT LISO-VERDE",
+     "marca": "LEOARTE",
+     "preco": 5.9,
+     "img": "produtos/923.jpg"
+    },
+    {
+     "cod": 924,
+     "nome": "CONTACT LISO-VERMELHO",
+     "marca": "LEOARTE",
+     "preco": 5.9,
+     "img": "produtos/924.jpg"
+    },
+    {
+     "cod": 7622,
+     "nome": "CONTACT MADEIRA-RIPA PRETA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7622.jpg"
+    },
+    {
+     "cod": 933,
+     "nome": "CONTACT TRANSPARENTE",
+     "marca": "LEOTACK",
+     "preco": 3.9,
+     "img": "produtos/933.jpg"
+    },
+    {
+     "cod": 13554,
+     "nome": "ROLO INFANTIL COLORIR ADESIVO-ANIMAIS",
+     "marca": "VMP",
+     "preco": 27.9,
+     "img": "produtos/13554.jpg"
+    },
+    {
+     "cod": 13558,
+     "nome": "ROLO INFANTIL COLORIR ADESIVO-SEREIA",
+     "marca": "VMP",
+     "preco": 27.9,
+     "img": "produtos/13558.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "capa-pronta",
+   "nome": "Capa Pronta para Caderno",
+   "itens": [
+    {
+     "cod": 3728,
+     "nome": "CAPA PRONTA AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
+     "marca": "MAXI PLAST",
+     "preco": 12.5,
+     "img": "produtos/3728.jpg"
+    },
+    {
+     "cod": 667,
+     "nome": "CAPA PRONTA ALIBOM. C/5 (CARTONADO)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/667.jpg"
+    },
+    {
+     "cod": 668,
+     "nome": "CAPA PRONTA BROCH. C/5 (80/60FL)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/668.jpg"
+    },
+    {
+     "cod": 671,
+     "nome": "CAPA PRONTA ESPIRAL  C/5 (SOLTA)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/671.jpg"
+    },
+    {
+     "cod": 672,
+     "nome": "CAPA PRONTA LIVRO C/5 (AJUSTAVEL)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/672.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "avental",
+   "nome": "Avental Escolar",
+   "itens": [
+    {
+     "cod": 10775,
+     "nome": "AVENTAL ESCOLAR BATMAN",
+     "marca": "DAC",
+     "preco": 39.9,
+     "img": "produtos/10775.jpg"
+    },
+    {
+     "cod": 12399,
+     "nome": "AVENTAL ESCOLAR STITCH (ROSA)",
+     "marca": "LUXCEL",
+     "preco": 47.9,
+     "img": "produtos/12399.jpg"
+    },
+    {
+     "cod": 10726,
+     "nome": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+     "marca": "DAC",
+     "preco": 17.9,
+     "img": "produtos/10726.jpg"
     }
    ]
   }
