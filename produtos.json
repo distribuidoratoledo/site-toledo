@@ -11308,17 +11308,24 @@
     },
     {
      "cod": 2462,
-     "nome": "PORTA MOEDAS MAXCRIL CRISTAL",
+     "nome": "PORTA MOEDAS MAXCRIL",
      "marca": "MAXCRIL",
      "preco": 16.9,
-     "img": "produtos/2462.jpg"
-    },
-    {
-     "cod": 4859,
-     "nome": "PORTA MOEDAS MAXCRIL FUME",
-     "marca": "MAXCRIL",
-     "preco": 16.9,
-     "img": "produtos/4859.jpg"
+     "img": "produtos/2462.jpg",
+     "cores": [
+      {
+       "cod": 2462,
+       "cor": "Cristal",
+       "nome": "PORTA MOEDAS MAXCRIL CRISTAL",
+       "img": "produtos/2462.jpg"
+      },
+      {
+       "cod": 4859,
+       "cor": "Fume",
+       "nome": "PORTA MOEDAS MAXCRIL FUME",
+       "img": "produtos/4859.jpg"
+      }
+     ]
     },
     {
      "cod": 2465,
@@ -11371,17 +11378,24 @@
     },
     {
      "cod": 9198,
-     "nome": "PORTA OBJETO 2 LUG MAXCRIL-CRISTAL",
+     "nome": "PORTA OBJETO 2 LUG MAXCRIL",
      "marca": "MAXCRIL",
      "preco": 14.9,
-     "img": "produtos/9198.jpg"
-    },
-    {
-     "cod": 7220,
-     "nome": "PORTA OBJETO 2 LUG MAXCRIL-FUME",
-     "marca": "MAXCRIL",
-     "preco": 14.9,
-     "img": "produtos/7220.jpg"
+     "img": "produtos/9198.jpg",
+     "cores": [
+      {
+       "cod": 9198,
+       "cor": "Cristal",
+       "nome": "PORTA OBJETO 2 LUG MAXCRIL-CRISTAL",
+       "img": "produtos/9198.jpg"
+      },
+      {
+       "cod": 7220,
+       "cor": "Fume",
+       "nome": "PORTA OBJETO 2 LUG MAXCRIL-FUME",
+       "img": "produtos/7220.jpg"
+      }
+     ]
     },
     {
      "cod": 4861,
@@ -11413,17 +11427,24 @@
     },
     {
      "cod": 2471,
-     "nome": "PORTA OBJETO 3 LUG-CRISTAL",
+     "nome": "PORTA OBJETO 3 LUG",
      "marca": "",
      "preco": 19.9,
-     "img": "produtos/2471.jpg"
-    },
-    {
-     "cod": 7504,
-     "nome": "PORTA OBJETO 3 LUG-FUME",
-     "marca": "",
-     "preco": 19.9,
-     "img": "produtos/7504.jpg"
+     "img": "produtos/2471.jpg",
+     "cores": [
+      {
+       "cod": 2471,
+       "cor": "Cristal",
+       "nome": "PORTA OBJETO 3 LUG-CRISTAL",
+       "img": "produtos/2471.jpg"
+      },
+      {
+       "cod": 7504,
+       "cor": "Fume",
+       "nome": "PORTA OBJETO 3 LUG-FUME",
+       "img": "produtos/7504.jpg"
+      }
+     ]
     },
     {
      "cod": 9144,
@@ -11800,17 +11821,24 @@
     },
     {
      "cod": 4153,
-     "nome": "PASTA CANALETA A4 CRISTAL",
+     "nome": "PASTA CANALETA A4",
      "marca": "",
      "preco": 4.9,
-     "img": "produtos/4153.jpg"
-    },
-    {
-     "cod": 11014,
-     "nome": "PASTA CANALETA A4 FUME",
-     "marca": "POLIBRAS",
-     "preco": 4.9,
-     "img": "produtos/11014.jpg"
+     "img": "produtos/4153.jpg",
+     "cores": [
+      {
+       "cod": 4153,
+       "cor": "Cristal",
+       "nome": "PASTA CANALETA A4 CRISTAL",
+       "img": "produtos/4153.jpg"
+      },
+      {
+       "cod": 11014,
+       "cor": "Fume",
+       "nome": "PASTA CANALETA A4 FUME",
+       "img": "produtos/11014.jpg"
+      }
+     ]
     },
     {
      "cod": 9881,
@@ -11881,6 +11909,12 @@
        "img": "produtos/12929.jpg"
       },
       {
+       "cod": 11339,
+       "cor": "Fume",
+       "nome": "PASTA CATALOGO TRANSP. C/20 (FUME)",
+       "img": "produtos/11339.jpg"
+      },
+      {
        "cod": 11336,
        "cor": "Verde",
        "nome": "PASTA CATALOGO TRANSP. C/20 (VERDE)",
@@ -11893,13 +11927,6 @@
        "img": "produtos/11334.jpg"
       }
      ]
-    },
-    {
-     "cod": 11339,
-     "nome": "PASTA CATALOGO TRANSP. C/20 (FUME)",
-     "marca": "PLASCONY",
-     "preco": 19.9,
-     "img": "produtos/11339.jpg"
     },
     {
      "cod": 12931,
@@ -11942,6 +11969,12 @@
        "img": "produtos/14196.jpg"
       },
       {
+       "cod": 14201,
+       "cor": "Fume",
+       "nome": "PASTA CATALOGO TRANSP. C/50 (FUME)",
+       "img": "produtos/14201.jpg"
+      },
+      {
        "cod": 14198,
        "cor": "Verde",
        "nome": "PASTA CATALOGO TRANSP. C/50 (VERDE)",
@@ -11954,13 +11987,6 @@
        "img": "produtos/14197.jpg"
       }
      ]
-    },
-    {
-     "cod": 14201,
-     "nome": "PASTA CATALOGO TRANSP. C/50 (FUME)",
-     "marca": "PLASCONY",
-     "preco": 35.9,
-     "img": "produtos/14201.jpg"
     },
     {
      "cod": 2212,
@@ -12096,17 +12122,24 @@
     },
     {
      "cod": 2223,
-     "nome": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
+     "nome": "PASTA GRAMPO TRILHO PLAST.",
      "marca": "",
      "preco": 4.9,
-     "img": "produtos/2223.jpg"
-    },
-    {
-     "cod": 2222,
-     "nome": "PASTA GRAMPO TRILHO PLAST. FUME",
-     "marca": "",
-     "preco": 4.9,
-     "img": "produtos/2222.jpg"
+     "img": "produtos/2223.jpg",
+     "cores": [
+      {
+       "cod": 2223,
+       "cor": "Cristal",
+       "nome": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
+       "img": "produtos/2223.jpg"
+      },
+      {
+       "cod": 2222,
+       "cor": "Fume",
+       "nome": "PASTA GRAMPO TRILHO PLAST. FUME",
+       "img": "produtos/2222.jpg"
+      }
+     ]
     },
     {
      "cod": 6799,
@@ -12144,17 +12177,24 @@
     },
     {
      "cod": 4152,
-     "nome": "PASTA L A4 CRISTAL",
+     "nome": "PASTA L A4",
      "marca": "",
      "preco": 2.5,
-     "img": "produtos/4152.jpg"
-    },
-    {
-     "cod": 6798,
-     "nome": "PASTA L A4 FUME",
-     "marca": "",
-     "preco": 2.5,
-     "img": "produtos/6798.jpg"
+     "img": "produtos/4152.jpg",
+     "cores": [
+      {
+       "cod": 4152,
+       "cor": "Cristal",
+       "nome": "PASTA L A4 CRISTAL",
+       "img": "produtos/4152.jpg"
+      },
+      {
+       "cod": 6798,
+       "cor": "Fume",
+       "nome": "PASTA L A4 FUME",
+       "img": "produtos/6798.jpg"
+      }
+     ]
     },
     {
      "cod": 12475,
@@ -12346,17 +12386,24 @@
     },
     {
      "cod": 2231,
-     "nome": "PASTA PP 1CM-CRISTAL",
+     "nome": "PASTA PP 1CM",
      "marca": "",
      "preco": 3.5,
-     "img": "produtos/2231.jpg"
-    },
-    {
-     "cod": 6797,
-     "nome": "PASTA PP 1CM-FUME",
-     "marca": "POLIBRAS",
-     "preco": 3.5,
-     "img": "produtos/6797.jpg"
+     "img": "produtos/2231.jpg",
+     "cores": [
+      {
+       "cod": 2231,
+       "cor": "Cristal",
+       "nome": "PASTA PP 1CM-CRISTAL",
+       "img": "produtos/2231.jpg"
+      },
+      {
+       "cod": 6797,
+       "cor": "Fume",
+       "nome": "PASTA PP 1CM-FUME",
+       "img": "produtos/6797.jpg"
+      }
+     ]
     },
     {
      "cod": 14204,
@@ -12552,17 +12599,24 @@
     },
     {
      "cod": 2260,
-     "nome": "PASTA PP MINI 1CM-CRISTAL",
+     "nome": "PASTA PP MINI 1CM",
      "marca": "POLIBRAS",
      "preco": 3.9,
-     "img": "produtos/2260.jpg"
-    },
-    {
-     "cod": 7167,
-     "nome": "PASTA PP MINI 1CM-FUME",
-     "marca": "POLIBRAS",
-     "preco": 3.9,
-     "img": "produtos/7167.jpg"
+     "img": "produtos/2260.jpg",
+     "cores": [
+      {
+       "cod": 2260,
+       "cor": "Cristal",
+       "nome": "PASTA PP MINI 1CM-CRISTAL",
+       "img": "produtos/2260.jpg"
+      },
+      {
+       "cod": 7167,
+       "cor": "Fume",
+       "nome": "PASTA PP MINI 1CM-FUME",
+       "img": "produtos/7167.jpg"
+      }
+     ]
     },
     {
      "cod": 7166,
@@ -21800,17 +21854,24 @@
     },
     {
      "cod": 225,
-     "nome": "BOBINA 57MM TERM 30M-AMARELA",
+     "nome": "BOBINA 57MM TERM 30M",
      "marca": "PRIMUS",
      "preco": 3.0,
-     "img": "produtos/225.jpg"
-    },
-    {
-     "cod": 6098,
-     "nome": "BOBINA 57MM TERM 30M-BRANCA",
-     "marca": "PRIMUS",
-     "preco": 3.5,
-     "img": "produtos/6098.jpg"
+     "img": "produtos/225.jpg",
+     "cores": [
+      {
+       "cod": 225,
+       "cor": "Amarela",
+       "nome": "BOBINA 57MM TERM 30M-AMARELA",
+       "img": "produtos/225.jpg"
+      },
+      {
+       "cod": 6098,
+       "cor": "Branca",
+       "nome": "BOBINA 57MM TERM 30M-BRANCA",
+       "img": "produtos/6098.jpg"
+      }
+     ]
     },
     {
      "cod": 226,
@@ -23048,18 +23109,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 2942,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "GRESPAN",
-     "preco": 1.0,
-     "img": "produtos/2942.jpg"
-    },
-    {
      "cod": 9218,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "CROMUS",
      "preco": 2.0,
      "img": "produtos/9218.jpg"
+    },
+    {
+     "cod": 2942,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "GRESPAN",
+     "preco": 1.0,
+     "img": "produtos/2942.jpg"
     },
     {
      "cod": 2944,
