@@ -11909,12 +11909,6 @@
        "img": "produtos/12929.jpg"
       },
       {
-       "cod": 11339,
-       "cor": "Fume",
-       "nome": "PASTA CATALOGO TRANSP. C/20 (FUME)",
-       "img": "produtos/11339.jpg"
-      },
-      {
        "cod": 11336,
        "cor": "Verde",
        "nome": "PASTA CATALOGO TRANSP. C/20 (VERDE)",
@@ -11927,6 +11921,13 @@
        "img": "produtos/11334.jpg"
       }
      ]
+    },
+    {
+     "cod": 11339,
+     "nome": "PASTA CATALOGO TRANSP. C/20 (FUME)",
+     "marca": "PLASCONY",
+     "preco": 19.9,
+     "img": "produtos/11339.jpg"
     },
     {
      "cod": 12931,
@@ -11969,12 +11970,6 @@
        "img": "produtos/14196.jpg"
       },
       {
-       "cod": 14201,
-       "cor": "Fume",
-       "nome": "PASTA CATALOGO TRANSP. C/50 (FUME)",
-       "img": "produtos/14201.jpg"
-      },
-      {
        "cod": 14198,
        "cor": "Verde",
        "nome": "PASTA CATALOGO TRANSP. C/50 (VERDE)",
@@ -11987,6 +11982,13 @@
        "img": "produtos/14197.jpg"
       }
      ]
+    },
+    {
+     "cod": 14201,
+     "nome": "PASTA CATALOGO TRANSP. C/50 (FUME)",
+     "marca": "PLASCONY",
+     "preco": 35.9,
+     "img": "produtos/14201.jpg"
     },
     {
      "cod": 2212,
