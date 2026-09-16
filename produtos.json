@@ -6368,7 +6368,7 @@
      "cod": 10652,
      "nome": "PRENDEDOR PAPEL 25MM-BAZZE",
      "marca": "BAZZE",
-     "preco": 0.4,
+     "preco": 0.5,
      "img": "produtos/10652.jpg"
     },
     {
@@ -20343,13 +20343,6 @@
      "img": "produtos/3650.jpg"
     },
     {
-     "cod": 2698,
-     "nome": "SACHE CATCHUP C/144X6GR-MAREIA",
-     "marca": "MAREIA",
-     "preco": 13.9,
-     "img": "produtos/2698.jpg"
-    },
-    {
      "cod": 2699,
      "nome": "SACHE MAIONESE C/144X6GR-MAREIA",
      "marca": "MAREIA",
@@ -23163,18 +23156,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 9218,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "CROMUS",
-     "preco": 2.0,
-     "img": "produtos/9218.jpg"
-    },
-    {
      "cod": 2942,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "GRESPAN",
      "preco": 1.0,
      "img": "produtos/2942.jpg"
+    },
+    {
+     "cod": 9218,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "CROMUS",
+     "preco": 2.0,
+     "img": "produtos/9218.jpg"
     },
     {
      "cod": 2944,
