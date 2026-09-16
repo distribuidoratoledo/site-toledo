@@ -11308,7 +11308,7 @@
     },
     {
      "cod": 2462,
-     "nome": "PORTA MOEDAS MAXCRIL",
+     "nome": "PORTA MOEDAS MAXCRIL TRANSPARENTE",
      "marca": "MAXCRIL",
      "preco": 16.9,
      "img": "produtos/2462.jpg",
@@ -11378,7 +11378,7 @@
     },
     {
      "cod": 9198,
-     "nome": "PORTA OBJETO 2 LUG MAXCRIL",
+     "nome": "PORTA OBJETO 2 LUG MAXCRIL TRANSPARENTE",
      "marca": "MAXCRIL",
      "preco": 14.9,
      "img": "produtos/9198.jpg",
@@ -11427,7 +11427,7 @@
     },
     {
      "cod": 2471,
-     "nome": "PORTA OBJETO 3 LUG",
+     "nome": "PORTA OBJETO 3 LUG TRANSPARENTE",
      "marca": "",
      "preco": 19.9,
      "img": "produtos/2471.jpg",
@@ -11821,7 +11821,7 @@
     },
     {
      "cod": 4153,
-     "nome": "PASTA CANALETA A4",
+     "nome": "PASTA CANALETA A4 TRANSPARENTE",
      "marca": "",
      "preco": 4.9,
      "img": "produtos/4153.jpg",
@@ -12122,7 +12122,7 @@
     },
     {
      "cod": 2223,
-     "nome": "PASTA GRAMPO TRILHO PLAST.",
+     "nome": "PASTA GRAMPO TRILHO PLAST. TRANSPARENTE",
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2223.jpg",
@@ -12177,7 +12177,7 @@
     },
     {
      "cod": 4152,
-     "nome": "PASTA L A4",
+     "nome": "PASTA L A4 TRANSPARENTE",
      "marca": "",
      "preco": 2.5,
      "img": "produtos/4152.jpg",
@@ -12386,7 +12386,7 @@
     },
     {
      "cod": 2231,
-     "nome": "PASTA PP 1CM",
+     "nome": "PASTA PP 1CM TRANSPARENTE",
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
@@ -12599,7 +12599,7 @@
     },
     {
      "cod": 2260,
-     "nome": "PASTA PP MINI 1CM",
+     "nome": "PASTA PP MINI 1CM TRANSPARENTE",
      "marca": "POLIBRAS",
      "preco": 3.9,
      "img": "produtos/2260.jpg",
@@ -23109,18 +23109,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 9218,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "CROMUS",
-     "preco": 2.0,
-     "img": "produtos/9218.jpg"
-    },
-    {
      "cod": 2942,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "GRESPAN",
      "preco": 1.0,
      "img": "produtos/2942.jpg"
+    },
+    {
+     "cod": 9218,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "CROMUS",
+     "preco": 2.0,
+     "img": "produtos/9218.jpg"
     },
     {
      "cod": 2944,
