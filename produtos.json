@@ -2108,6 +2108,13 @@
      "img": "produtos/13161.jpg"
     },
     {
+     "cod": 5704,
+     "nome": "LAPIS ESCREVER TILIBRA-ACADEMIE C/BORRACHA",
+     "marca": "TILIBRA",
+     "preco": 1.5,
+     "img": "produtos/5704.jpg"
+    },
+    {
      "cod": 12732,
      "nome": "LAPIS ESCREVER TRIS COLLECTION TRIO",
      "marca": "TRIS",
@@ -3756,38 +3763,38 @@
     },
     {
      "cod": 5623,
-     "nome": "CADERNO 10X1 160F",
+     "nome": "CADERNO 10X1 160F NEON",
      "marca": "TILIBRA",
      "preco": 54.9,
      "img": "produtos/5623.jpg",
      "cores": [
       {
        "cod": 5623,
-       "cor": "Neon Azul",
+       "cor": "Azul",
        "nome": "CADERNO 10X1 160F-NEON AZUL",
        "img": "produtos/5623.jpg"
       },
       {
        "cod": 5624,
-       "cor": "Neon Branco",
+       "cor": "Branco",
        "nome": "CADERNO 10X1 160F-NEON BRANCO",
        "img": "produtos/5624.jpg"
       },
       {
        "cod": 5626,
-       "cor": "Neon Pink",
+       "cor": "Pink",
        "nome": "CADERNO 10X1 160F-NEON PINK",
        "img": "produtos/5626.jpg"
       },
       {
        "cod": 5627,
-       "cor": "Neon Preto",
+       "cor": "Preto",
        "nome": "CADERNO 10X1 160F-NEON PRETO",
        "img": "produtos/5627.jpg"
       },
       {
        "cod": 5628,
-       "cor": "Neon Roxo",
+       "cor": "Roxo",
        "nome": "CADERNO 10X1 160F-NEON ROXO",
        "img": "produtos/5628.jpg"
       }
@@ -4451,44 +4458,44 @@
     },
     {
      "cod": 5615,
-     "nome": "CADERNO 1X1 80F",
+     "nome": "CADERNO 1X1 80F NEON",
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/5615.jpg",
      "cores": [
       {
        "cod": 5615,
-       "cor": "Neon Azul",
+       "cor": "Azul",
        "nome": "CADERNO 1X1 80F-NEON AZUL",
        "img": "produtos/5615.jpg"
       },
       {
        "cod": 5616,
-       "cor": "Neon Branco",
+       "cor": "Branco",
        "nome": "CADERNO 1X1 80F-NEON BRANCO",
        "img": "produtos/5616.jpg"
       },
       {
        "cod": 5846,
-       "cor": "Neon Laranja",
+       "cor": "Laranja",
        "nome": "CADERNO 1X1 80F-NEON LARANJA",
        "img": "produtos/5846.jpg"
       },
       {
        "cod": 5617,
-       "cor": "Neon Pink",
+       "cor": "Pink",
        "nome": "CADERNO 1X1 80F-NEON PINK",
        "img": "produtos/5617.jpg"
       },
       {
        "cod": 5847,
-       "cor": "Neon Preto",
+       "cor": "Preto",
        "nome": "CADERNO 1X1 80F-NEON PRETO",
        "img": "produtos/5847.jpg"
       },
       {
        "cod": 5618,
-       "cor": "Neon Roxo",
+       "cor": "Roxo",
        "nome": "CADERNO 1X1 80F-NEON ROXO",
        "img": "produtos/5618.jpg"
       }
@@ -10954,30 +10961,31 @@
     },
     {
      "cod": 6197,
-     "nome": "CAIXA ORGANIZADORA POLIBRAS G",
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G PASTEL",
      "marca": "POLIBRAS",
      "preco": 48.9,
      "img": "produtos/6197.jpg",
      "cores": [
       {
        "cod": 6197,
-       "cor": "Lilas Pastel",
+       "cor": "Lilas",
        "nome": "CAIXA ORGANIZADORA POLIBRAS G-LILAS PASTEL",
        "img": "produtos/6197.jpg"
       },
       {
        "cod": 5173,
-       "cor": "Rosa Pastel",
+       "cor": "Rosa",
        "nome": "CAIXA ORGANIZADORA POLIBRAS G-ROSA PASTEL",
        "img": "produtos/5173.jpg"
-      },
-      {
-       "cod": 3259,
-       "cor": "Vermelho",
-       "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
-       "img": "produtos/3259.jpg"
       }
      ]
+    },
+    {
+     "cod": 3259,
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
+     "marca": "POLIBRAS",
+     "preco": 48.9,
+     "img": "produtos/3259.jpg"
     },
     {
      "cod": 13749,
@@ -11121,32 +11129,32 @@
     },
     {
      "cod": 5203,
-     "nome": "KIT PORTA OBJETO 1 LUG C/2",
+     "nome": "KIT PORTA OBJETO 1 LUG C/2 PASTEL",
      "marca": "MAXCRIL",
      "preco": 14.9,
      "img": "produtos/5203.jpg",
      "cores": [
       {
        "cod": 5203,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "KIT PORTA OBJETO 1 LUG C/2-AZUL PASTEL",
        "img": "produtos/5203.jpg"
       },
       {
        "cod": 5204,
-       "cor": "Lilas Pastel",
+       "cor": "Lilas",
        "nome": "KIT PORTA OBJETO 1 LUG C/2-LILAS PASTEL",
        "img": "produtos/5204.jpg"
       },
       {
        "cod": 5205,
-       "cor": "Rosa Pastel",
+       "cor": "Rosa",
        "nome": "KIT PORTA OBJETO 1 LUG C/2-ROSA PASTEL",
        "img": "produtos/5205.jpg"
       },
       {
        "cod": 5206,
-       "cor": "Verde Pastel",
+       "cor": "Verde",
        "nome": "KIT PORTA OBJETO 1 LUG C/2-VERDE PASTEL",
        "img": "produtos/5206.jpg"
       }
@@ -11217,17 +11225,38 @@
     },
     {
      "cod": 11411,
-     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE",
+     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE PASTEL",
      "marca": "MAXCRIL",
      "preco": 112.9,
      "img": "produtos/11411.jpg",
      "cores": [
       {
        "cod": 11411,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "ORGAN. TRIPLO MAXCRIL OFFICE AZUL PASTEL",
        "img": "produtos/11411.jpg"
       },
+      {
+       "cod": 14004,
+       "cor": "Rosa",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE ROSA PASTEL",
+       "img": "produtos/14004.jpg"
+      },
+      {
+       "cod": 14003,
+       "cor": "Verde",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE VERDE PASTEL",
+       "img": "produtos/14003.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 11412,
+     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE",
+     "marca": "MAXCRIL",
+     "preco": 112.9,
+     "img": "produtos/11412.jpg",
+     "cores": [
       {
        "cod": 11412,
        "cor": "Branco",
@@ -11239,18 +11268,6 @@
        "cor": "Preto",
        "nome": "ORGAN. TRIPLO MAXCRIL OFFICE PRETO",
        "img": "produtos/4858.jpg"
-      },
-      {
-       "cod": 14004,
-       "cor": "Rosa Pastel",
-       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE ROSA PASTEL",
-       "img": "produtos/14004.jpg"
-      },
-      {
-       "cod": 14003,
-       "cor": "Verde Pastel",
-       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE VERDE PASTEL",
-       "img": "produtos/14003.jpg"
       }
      ]
     },
@@ -11445,26 +11462,26 @@
     },
     {
      "cod": 4856,
-     "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO)",
+     "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) PASTEL",
      "marca": "MAXCRIL",
      "preco": 19.9,
      "img": "produtos/4856.jpg",
      "cores": [
       {
        "cod": 4856,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) AZUL PASTEL",
        "img": "produtos/4856.jpg"
       },
       {
        "cod": 4857,
-       "cor": "Rosa Pastel",
+       "cor": "Rosa",
        "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) ROSA PASTEL",
        "img": "produtos/4857.jpg"
       },
       {
        "cod": 4854,
-       "cor": "Verde Pastel",
+       "cor": "Verde",
        "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) VERDE PASTEL",
        "img": "produtos/4854.jpg"
       }
@@ -11968,32 +11985,32 @@
     },
     {
      "cod": 10024,
-     "nome": "PASTA ENVELOPE A4",
+     "nome": "PASTA ENVELOPE A4 NEON",
      "marca": "POLIBRAS",
      "preco": 9.9,
      "img": "produtos/10024.jpg",
      "cores": [
       {
        "cod": 10024,
-       "cor": "Amarelo Neon",
+       "cor": "Amarelo",
        "nome": "PASTA ENVELOPE A4-AMARELO NEON",
        "img": "produtos/10024.jpg"
       },
       {
        "cod": 10023,
-       "cor": "Azul Neon",
+       "cor": "Azul",
        "nome": "PASTA ENVELOPE A4-AZUL NEON",
        "img": "produtos/10023.jpg"
       },
       {
        "cod": 10025,
-       "cor": "Lilas Neon",
+       "cor": "Lilas",
        "nome": "PASTA ENVELOPE A4-LILAS NEON",
        "img": "produtos/10025.jpg"
       },
       {
        "cod": 10022,
-       "cor": "Rosa Neon",
+       "cor": "Rosa",
        "nome": "PASTA ENVELOPE A4-ROSA NEON",
        "img": "produtos/10022.jpg"
       }
@@ -12296,32 +12313,32 @@
     },
     {
      "cod": 5176,
-     "nome": "PASTA PP 1CM POLIBRAS",
+     "nome": "PASTA PP 1CM POLIBRAS PASTEL",
      "marca": "POLIBRAS",
      "preco": 5.9,
      "img": "produtos/5176.jpg",
      "cores": [
       {
        "cod": 5176,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "PASTA PP 1CM POLIBRAS-AZUL PASTEL",
        "img": "produtos/5176.jpg"
       },
       {
        "cod": 5177,
-       "cor": "Lilas Pastel",
+       "cor": "Lilas",
        "nome": "PASTA PP 1CM POLIBRAS-LILAS PASTEL",
        "img": "produtos/5177.jpg"
       },
       {
        "cod": 11002,
-       "cor": "Rosa Pastel",
+       "cor": "Rosa",
        "nome": "PASTA PP 1CM POLIBRAS-ROSA PASTEL",
        "img": "produtos/11002.jpg"
       },
       {
        "cod": 11003,
-       "cor": "Verde Pastel",
+       "cor": "Verde",
        "nome": "PASTA PP 1CM POLIBRAS-VERDE PASTEL",
        "img": "produtos/11003.jpg"
       }
@@ -12357,26 +12374,26 @@
     },
     {
      "cod": 10013,
-     "nome": "PASTA PP 2CM POLIBRAS",
+     "nome": "PASTA PP 2CM POLIBRAS NEON",
      "marca": "POLIBRAS",
      "preco": 12.9,
      "img": "produtos/10013.jpg",
      "cores": [
       {
        "cod": 10013,
-       "cor": "Azul Neon",
+       "cor": "Azul",
        "nome": "PASTA PP 2CM POLIBRAS-AZUL NEON",
        "img": "produtos/10013.jpg"
       },
       {
        "cod": 10011,
-       "cor": "Lilas Neon",
+       "cor": "Lilas",
        "nome": "PASTA PP 2CM POLIBRAS-LILAS NEON",
        "img": "produtos/10011.jpg"
       },
       {
        "cod": 10010,
-       "cor": "Rosa Neon",
+       "cor": "Rosa",
        "nome": "PASTA PP 2CM POLIBRAS-ROSA NEON",
        "img": "produtos/10010.jpg"
       }
@@ -12384,32 +12401,32 @@
     },
     {
      "cod": 12542,
-     "nome": "PASTA PP 2CM",
+     "nome": "PASTA PP 2CM PASTEL",
      "marca": "",
      "preco": 10.9,
      "img": "produtos/12542.jpg",
      "cores": [
       {
        "cod": 12542,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "PASTA PP 2CM-AZUL PASTEL",
        "img": "produtos/12542.jpg"
       },
       {
        "cod": 12543,
-       "cor": "Lilas Pastel",
+       "cor": "Lilas",
        "nome": "PASTA PP 2CM-LILAS PASTEL",
        "img": "produtos/12543.jpg"
       },
       {
        "cod": 12541,
-       "cor": "Rosa Pastel",
+       "cor": "Rosa",
        "nome": "PASTA PP 2CM-ROSA PASTEL",
        "img": "produtos/12541.jpg"
       },
       {
        "cod": 13947,
-       "cor": "Verde Pastel",
+       "cor": "Verde",
        "nome": "PASTA PP 2CM-VERDE PASTEL",
        "img": "produtos/13947.jpg"
       }
@@ -12438,26 +12455,26 @@
     },
     {
      "cod": 10020,
-     "nome": "PASTA PP 4CM POLIBRAS",
+     "nome": "PASTA PP 4CM POLIBRAS NEON",
      "marca": "POLIBRAS",
      "preco": 15.9,
      "img": "produtos/10020.jpg",
      "cores": [
       {
        "cod": 10020,
-       "cor": "Amarelo Neon",
+       "cor": "Amarelo",
        "nome": "PASTA PP 4CM POLIBRAS-AMARELO NEON",
        "img": "produtos/10020.jpg"
       },
       {
        "cod": 10021,
-       "cor": "Azul Neon",
+       "cor": "Azul",
        "nome": "PASTA PP 4CM POLIBRAS-AZUL NEON",
        "img": "produtos/10021.jpg"
       },
       {
        "cod": 10018,
-       "cor": "Rosa Neon",
+       "cor": "Rosa",
        "nome": "PASTA PP 4CM POLIBRAS-ROSA NEON",
        "img": "produtos/10018.jpg"
       }
@@ -12563,26 +12580,26 @@
     },
     {
      "cod": 5181,
-     "nome": "PASTA SANFON.12D.A4 (POLIBRAS)",
+     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) PASTEL",
      "marca": "POLIBRAS",
      "preco": 29.9,
      "img": "produtos/5181.jpg",
      "cores": [
       {
        "cod": 5181,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "PASTA SANFON.12D.A4 (POLIBRAS) AZUL PASTEL",
        "img": "produtos/5181.jpg"
       },
       {
        "cod": 5180,
-       "cor": "Lilas Pastel",
+       "cor": "Lilas",
        "nome": "PASTA SANFON.12D.A4 (POLIBRAS) LILAS PASTEL",
        "img": "produtos/5180.jpg"
       },
       {
        "cod": 6308,
-       "cor": "Rosa Pastel",
+       "cor": "Rosa",
        "nome": "PASTA SANFON.12D.A4 (POLIBRAS) ROSA PASTEL",
        "img": "produtos/6308.jpg"
       }
@@ -12646,20 +12663,20 @@
     },
     {
      "cod": 11008,
-     "nome": "PASTA SANFON.5D.A4",
+     "nome": "PASTA SANFON.5D.A4 GLITTER",
      "marca": "POLIBRAS",
      "preco": 26.9,
      "img": "produtos/11008.jpg",
      "cores": [
       {
        "cod": 11008,
-       "cor": "Glitter Ouro",
+       "cor": "Ouro",
        "nome": "PASTA SANFON.5D.A4 GLITTER OURO",
        "img": "produtos/11008.jpg"
       },
       {
        "cod": 11006,
-       "cor": "Glitter Prata",
+       "cor": "Prata",
        "nome": "PASTA SANFON.5D.A4 GLITTER PRATA",
        "img": "produtos/11006.jpg"
       }
@@ -24498,20 +24515,20 @@
     },
     {
      "cod": 5207,
-     "nome": "APONTADOR FABER C/D+BORR",
+     "nome": "APONTADOR FABER C/D+BORR PASTEL",
      "marca": "FABER",
      "preco": 10.9,
      "img": "produtos/5207.jpg",
      "cores": [
       {
        "cod": 5207,
-       "cor": "Azul Pastel",
+       "cor": "Azul",
        "nome": "APONTADOR FABER C/D+BORR-AZUL PASTEL",
        "img": "produtos/5207.jpg"
       },
       {
        "cod": 5209,
-       "cor": "Verde Pastel",
+       "cor": "Verde",
        "nome": "APONTADOR FABER C/D+BORR-VERDE PASTEL",
        "img": "produtos/5209.jpg"
       }
@@ -25641,20 +25658,20 @@
     },
     {
      "cod": 8775,
-     "nome": "MARCA TEXTO STABILO DISPLAY",
+     "nome": "MARCA TEXTO STABILO DISPLAY NEON",
      "marca": "STABILO",
      "preco": 6.9,
      "img": "produtos/8775.jpg",
      "cores": [
       {
        "cod": 8775,
-       "cor": "Amarelo Neon",
+       "cor": "Amarelo",
        "nome": "MARCA TEXTO STABILO DISPLAY-AMARELO NEON",
        "img": "produtos/8775.jpg"
       },
       {
        "cod": 8776,
-       "cor": "Laranja Neon",
+       "cor": "Laranja",
        "nome": "MARCA TEXTO STABILO DISPLAY-LARANJA NEON",
        "img": "produtos/8776.jpg"
       }
