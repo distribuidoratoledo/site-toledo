@@ -7503,6 +7503,13 @@
      "img": "produtos/4847.jpg"
     },
     {
+     "cod": 4338,
+     "nome": "ESCALIMETRO 30CM-CIS",
+     "marca": "CIS",
+     "preco": 42.9,
+     "img": "produtos/4338.jpg"
+    },
+    {
      "cod": 1136,
      "nome": "ESQUADRO 21X45-MAXCRIL",
      "marca": "MAXCRIL",
@@ -10093,6 +10100,13 @@
      "img": "produtos/3056.jpg"
     },
     {
+     "cod": 2954,
+     "nome": "TELA PINTURA 20X30",
+     "marca": "",
+     "preco": 14.9,
+     "img": "produtos/2954.jpg"
+    },
+    {
      "cod": 2955,
      "nome": "TELA PINTURA 30X40",
      "marca": "",
@@ -11530,13 +11544,6 @@
      "img": "produtos/7334.jpg"
     },
     {
-     "cod": 2538,
-     "nome": "PRANCHETA EUCATEX OF. (PREND. METAL) BRC STALO",
-     "marca": "STALO",
-     "preco": 9.9,
-     "img": "produtos/2538.jpg"
-    },
-    {
      "cod": 7644,
      "nome": "RELOGIO PAREDE 20CM REDONDO PRA/PRE",
      "marca": "YANGZI",
@@ -11771,10 +11778,22 @@
        "img": "produtos/2183.jpg"
       },
       {
+       "cod": 2184,
+       "cor": "Azul",
+       "nome": "PASTA ABA ELAST.PAPEL-AZUL",
+       "img": "produtos/2184.jpg"
+      },
+      {
        "cod": 2188,
        "cor": "Preta",
        "nome": "PASTA ABA ELAST.PAPEL-PRETA",
        "img": "produtos/2188.jpg"
+      },
+      {
+       "cod": 2190,
+       "cor": "Verde",
+       "nome": "PASTA ABA ELAST.PAPEL-VERDE",
+       "img": "produtos/2190.jpg"
       },
       {
        "cod": 2191,
@@ -23111,18 +23130,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 2942,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "GRESPAN",
-     "preco": 1.0,
-     "img": "produtos/2942.jpg"
-    },
-    {
      "cod": 9218,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "CROMUS",
      "preco": 2.0,
      "img": "produtos/9218.jpg"
+    },
+    {
+     "cod": 2942,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "GRESPAN",
+     "preco": 1.0,
+     "img": "produtos/2942.jpg"
     },
     {
      "cod": 2944,
