@@ -450,7 +450,7 @@
     },
     {
      "cod": 10288,
-     "nome": "CANETA FABER TRILUX-(FINA",
+     "nome": "CANETA FABER TRILUX-(FINA)",
      "marca": "FABER",
      "preco": 2.9,
      "img": "produtos/10288.jpg",
@@ -716,17 +716,24 @@
     },
     {
      "cod": 8747,
-     "nome": "CANETA JETSTREAM 1.0-AZUL (UNI)",
+     "nome": "CANETA JETSTREAM 1.0 (UNI)",
      "marca": "JETSTREAM",
      "preco": 16.9,
-     "img": "produtos/8747.jpg"
-    },
-    {
-     "cod": 10569,
-     "nome": "CANETA JETSTREAM 1.0-PRETA (UNI)",
-     "marca": "UNIBALL",
-     "preco": 16.9,
-     "img": "produtos/10569.jpg"
+     "img": "produtos/8747.jpg",
+     "cores": [
+      {
+       "cod": 8747,
+       "cor": "Azul",
+       "nome": "CANETA JETSTREAM 1.0-AZUL (UNI)",
+       "img": "produtos/8747.jpg"
+      },
+      {
+       "cod": 10569,
+       "cor": "Preta",
+       "nome": "CANETA JETSTREAM 1.0-PRETA (UNI)",
+       "img": "produtos/10569.jpg"
+      }
+     ]
     },
     {
      "cod": 8749,
@@ -771,24 +778,30 @@
     },
     {
      "cod": 587,
-     "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
+     "nome": "CANETA KILOMETRICA 0.7 (FINA)",
      "marca": "PAPER MATE",
      "preco": 1.8,
-     "img": "produtos/587.jpg"
-    },
-    {
-     "cod": 588,
-     "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
-     "marca": "PAPER MATE",
-     "preco": 1.8,
-     "img": "produtos/588.jpg"
-    },
-    {
-     "cod": 589,
-     "nome": "CANETA KILOMETRICA 0.7-VERMELHA (FINA)",
-     "marca": "PAPER MATE",
-     "preco": 1.8,
-     "img": "produtos/589.jpg"
+     "img": "produtos/587.jpg",
+     "cores": [
+      {
+       "cod": 587,
+       "cor": "Azul",
+       "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
+       "img": "produtos/587.jpg"
+      },
+      {
+       "cod": 588,
+       "cor": "Preta",
+       "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
+       "img": "produtos/588.jpg"
+      },
+      {
+       "cod": 589,
+       "cor": "Vermelha",
+       "nome": "CANETA KILOMETRICA 0.7-VERMELHA (FINA)",
+       "img": "produtos/589.jpg"
+      }
+     ]
     },
     {
      "cod": 586,
@@ -2095,13 +2108,6 @@
      "img": "produtos/13161.jpg"
     },
     {
-     "cod": 13176,
-     "nome": "LAPIS ESCREVER TILIBRA-SEXTAVADO WEST VILL C/BORRACHA",
-     "marca": "TILIBRA",
-     "preco": 2.0,
-     "img": "produtos/13176.jpg"
-    },
-    {
      "cod": 12732,
      "nome": "LAPIS ESCREVER TRIS COLLECTION TRIO",
      "marca": "TRIS",
@@ -2535,73 +2541,81 @@
     },
     {
      "cod": 2346,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
+     "nome": "PINCEL Q.BRC RECAR.PILOT (WBM-7)",
      "marca": "PILOT",
      "preco": 14.9,
-     "img": "produtos/2346.jpg"
+     "img": "produtos/2346.jpg",
+     "cores": [
+      {
+       "cod": 2346,
+       "cor": "Azul",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
+       "img": "produtos/2346.jpg"
+      },
+      {
+       "cod": 2347,
+       "cor": "Preto",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
+       "img": "produtos/2347.jpg"
+      },
+      {
+       "cod": 2348,
+       "cor": "Verde",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBM-7)",
+       "img": "produtos/2348.jpg"
+      },
+      {
+       "cod": 2349,
+       "cor": "Vermelho",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
+       "img": "produtos/2349.jpg"
+      }
+     ]
     },
     {
      "cod": 2350,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
+     "nome": "PINCEL Q.BRC RECAR.PILOT (WBMA-VBM-M)",
      "marca": "PILOT",
      "preco": 19.9,
-     "img": "produtos/2350.jpg"
-    },
-    {
-     "cod": 2351,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-LARANJA (WBMA-VBM-M)",
-     "marca": "PILOT",
-     "preco": 19.9,
-     "img": "produtos/2351.jpg"
-    },
-    {
-     "cod": 2347,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
-     "marca": "PILOT",
-     "preco": 14.9,
-     "img": "produtos/2347.jpg"
-    },
-    {
-     "cod": 2352,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
-     "marca": "PILOT",
-     "preco": 19.9,
-     "img": "produtos/2352.jpg"
-    },
-    {
-     "cod": 2348,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBM-7)",
-     "marca": "PILOT",
-     "preco": 14.9,
-     "img": "produtos/2348.jpg"
-    },
-    {
-     "cod": 2353,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
-     "marca": "PILOT",
-     "preco": 19.9,
-     "img": "produtos/2353.jpg"
-    },
-    {
-     "cod": 2349,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
-     "marca": "PILOT",
-     "preco": 14.9,
-     "img": "produtos/2349.jpg"
-    },
-    {
-     "cod": 2354,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBMA-VBM-M)",
-     "marca": "PILOT",
-     "preco": 19.9,
-     "img": "produtos/2354.jpg"
-    },
-    {
-     "cod": 2355,
-     "nome": "PINCEL Q.BRC RECAR.PILOT-VIOLETA (WBMA-VBM-M)",
-     "marca": "PILOT",
-     "preco": 19.9,
-     "img": "produtos/2355.jpg"
+     "img": "produtos/2350.jpg",
+     "cores": [
+      {
+       "cod": 2350,
+       "cor": "Azul",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
+       "img": "produtos/2350.jpg"
+      },
+      {
+       "cod": 2351,
+       "cor": "Laranja",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-LARANJA (WBMA-VBM-M)",
+       "img": "produtos/2351.jpg"
+      },
+      {
+       "cod": 2352,
+       "cor": "Preto",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
+       "img": "produtos/2352.jpg"
+      },
+      {
+       "cod": 2353,
+       "cor": "Verde",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
+       "img": "produtos/2353.jpg"
+      },
+      {
+       "cod": 2354,
+       "cor": "Vermelho",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBMA-VBM-M)",
+       "img": "produtos/2354.jpg"
+      },
+      {
+       "cod": 2355,
+       "cor": "Violeta",
+       "nome": "PINCEL Q.BRC RECAR.PILOT-VIOLETA (WBMA-VBM-M)",
+       "img": "produtos/2355.jpg"
+      }
+     ]
     },
     {
      "cod": 2360,
@@ -2999,18 +3013,17 @@
     },
     {
      "cod": 3214,
-     "nome": "BORRACHA FABER C/CP NEON-AMARELA",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/3214.jpg"
-    },
-    {
-     "cod": 3215,
      "nome": "BORRACHA FABER C/CP NEON",
      "marca": "FABER",
      "preco": 4.9,
-     "img": "produtos/3215.jpg",
+     "img": "produtos/3214.jpg",
      "cores": [
+      {
+       "cod": 3214,
+       "cor": "Amarela",
+       "nome": "BORRACHA FABER C/CP NEON-AMARELA",
+       "img": "produtos/3214.jpg"
+      },
       {
        "cod": 3215,
        "cor": "Laranja",
@@ -3743,38 +3756,38 @@
     },
     {
      "cod": 5623,
-     "nome": "CADERNO 10X1 160F-NEON",
+     "nome": "CADERNO 10X1 160F",
      "marca": "TILIBRA",
      "preco": 54.9,
      "img": "produtos/5623.jpg",
      "cores": [
       {
        "cod": 5623,
-       "cor": "Azul",
+       "cor": "Neon Azul",
        "nome": "CADERNO 10X1 160F-NEON AZUL",
        "img": "produtos/5623.jpg"
       },
       {
        "cod": 5624,
-       "cor": "Branco",
+       "cor": "Neon Branco",
        "nome": "CADERNO 10X1 160F-NEON BRANCO",
        "img": "produtos/5624.jpg"
       },
       {
        "cod": 5626,
-       "cor": "Pink",
+       "cor": "Neon Pink",
        "nome": "CADERNO 10X1 160F-NEON PINK",
        "img": "produtos/5626.jpg"
       },
       {
        "cod": 5627,
-       "cor": "Preto",
+       "cor": "Neon Preto",
        "nome": "CADERNO 10X1 160F-NEON PRETO",
        "img": "produtos/5627.jpg"
       },
       {
        "cod": 5628,
-       "cor": "Roxo",
+       "cor": "Neon Roxo",
        "nome": "CADERNO 10X1 160F-NEON ROXO",
        "img": "produtos/5628.jpg"
       }
@@ -4006,31 +4019,36 @@
     },
     {
      "cod": 12983,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO AZUL (SMART)",
+     "nome": "CADERNO 1X1 120F-GRAFFIATO (SMART)",
      "marca": "SAO DOMING",
      "preco": 37.9,
-     "img": "produtos/12983.jpg"
-    },
-    {
-     "cod": 13206,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO LILAS (SMART)",
-     "marca": "SD",
-     "preco": 37.9,
-     "img": "produtos/13206.jpg"
-    },
-    {
-     "cod": 13204,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO PRATA (SMART)",
-     "marca": "SD",
-     "preco": 37.9,
-     "img": "produtos/13204.jpg"
-    },
-    {
-     "cod": 13205,
-     "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
-     "marca": "SD",
-     "preco": 37.9,
-     "img": "produtos/13205.jpg"
+     "img": "produtos/12983.jpg",
+     "cores": [
+      {
+       "cod": 12983,
+       "cor": "Azul",
+       "nome": "CADERNO 1X1 120F-GRAFFIATO AZUL (SMART)",
+       "img": "produtos/12983.jpg"
+      },
+      {
+       "cod": 13206,
+       "cor": "Lilas",
+       "nome": "CADERNO 1X1 120F-GRAFFIATO LILAS (SMART)",
+       "img": "produtos/13206.jpg"
+      },
+      {
+       "cod": 13204,
+       "cor": "Prata",
+       "nome": "CADERNO 1X1 120F-GRAFFIATO PRATA (SMART)",
+       "img": "produtos/13204.jpg"
+      },
+      {
+       "cod": 13205,
+       "cor": "Preto",
+       "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
+       "img": "produtos/13205.jpg"
+      }
+     ]
     },
     {
      "cod": 13207,
@@ -4433,44 +4451,44 @@
     },
     {
      "cod": 5615,
-     "nome": "CADERNO 1X1 80F-NEON",
+     "nome": "CADERNO 1X1 80F",
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/5615.jpg",
      "cores": [
       {
        "cod": 5615,
-       "cor": "Azul",
+       "cor": "Neon Azul",
        "nome": "CADERNO 1X1 80F-NEON AZUL",
        "img": "produtos/5615.jpg"
       },
       {
        "cod": 5616,
-       "cor": "Branco",
+       "cor": "Neon Branco",
        "nome": "CADERNO 1X1 80F-NEON BRANCO",
        "img": "produtos/5616.jpg"
       },
       {
        "cod": 5846,
-       "cor": "Laranja",
+       "cor": "Neon Laranja",
        "nome": "CADERNO 1X1 80F-NEON LARANJA",
        "img": "produtos/5846.jpg"
       },
       {
        "cod": 5617,
-       "cor": "Pink",
+       "cor": "Neon Pink",
        "nome": "CADERNO 1X1 80F-NEON PINK",
        "img": "produtos/5617.jpg"
       },
       {
        "cod": 5847,
-       "cor": "Preto",
+       "cor": "Neon Preto",
        "nome": "CADERNO 1X1 80F-NEON PRETO",
        "img": "produtos/5847.jpg"
       },
       {
        "cod": 5618,
-       "cor": "Roxo",
+       "cor": "Neon Roxo",
        "nome": "CADERNO 1X1 80F-NEON ROXO",
        "img": "produtos/5618.jpg"
       }
@@ -5713,7 +5731,7 @@
     },
     {
      "cod": 12411,
-     "nome": "CADERNO DESENHO CD 80F",
+     "nome": "CADERNO DESENHO CD 80F-",
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12411.jpg",
@@ -6962,17 +6980,24 @@
     },
     {
      "cod": 3366,
-     "nome": "DIMENSIONAL BRILLIANT-AMARELO OURO (35ML)",
+     "nome": "DIMENSIONAL BRILLIANT (35ML)",
      "marca": "ACRILEX",
      "preco": 7.9,
-     "img": "produtos/3366.jpg"
-    },
-    {
-     "cod": 3362,
-     "nome": "DIMENSIONAL BRILLIANT-PRETO (35ML)",
-     "marca": "ACRILEX",
-     "preco": 7.9,
-     "img": "produtos/3362.jpg"
+     "img": "produtos/3366.jpg",
+     "cores": [
+      {
+       "cod": 3366,
+       "cor": "Amarelo Ouro",
+       "nome": "DIMENSIONAL BRILLIANT-AMARELO OURO (35ML)",
+       "img": "produtos/3366.jpg"
+      },
+      {
+       "cod": 3362,
+       "cor": "Preto",
+       "nome": "DIMENSIONAL BRILLIANT-PRETO (35ML)",
+       "img": "produtos/3362.jpg"
+      }
+     ]
     },
     {
      "cod": 9819,
@@ -7125,17 +7150,24 @@
     },
     {
      "cod": 6763,
-     "nome": "FITA DEMARCAÇAO 48X14M-VERDE(ADELBRAS)",
+     "nome": "FITA DEMARCACAO 48X14M (ADELBRAS)",
      "marca": "ADELBRAS",
      "preco": 20.9,
-     "img": "produtos/6763.jpg"
-    },
-    {
-     "cod": 6764,
-     "nome": "FITA DEMARCAÇÃO 48X14M-VERMELHA (ADELBRAS)",
-     "marca": "ADELBRAS",
-     "preco": 20.9,
-     "img": "produtos/6764.jpg"
+     "img": "produtos/6763.jpg",
+     "cores": [
+      {
+       "cod": 6763,
+       "cor": "Verde",
+       "nome": "FITA DEMARCAÇAO 48X14M-VERDE(ADELBRAS)",
+       "img": "produtos/6763.jpg"
+      },
+      {
+       "cod": 6764,
+       "cor": "Vermelha",
+       "nome": "FITA DEMARCAÇÃO 48X14M-VERMELHA (ADELBRAS)",
+       "img": "produtos/6764.jpg"
+      }
+     ]
     },
     {
      "cod": 1019,
@@ -8264,7 +8296,7 @@
     },
     {
      "cod": 2018,
-     "nome": "CAMURÇA",
+     "nome": "CAMURCA",
      "marca": "ART FLOC",
      "preco": 1.8,
      "img": "produtos/2018.jpg",
@@ -8397,6 +8429,12 @@
        "img": "produtos/744.jpg"
       },
       {
+       "cod": 4180,
+       "cor": "Lilas / Violeta",
+       "nome": "CARTAO-LILAS/VIOLETA",
+       "img": "produtos/4180.jpg"
+      },
+      {
        "cod": 746,
        "cor": "Marrom",
        "nome": "CARTAO-MARROM",
@@ -8435,26 +8473,18 @@
      ]
     },
     {
-     "cod": 4180,
-     "nome": "CARTAO-LILAS/VIOLETA",
-     "marca": "GRIFFE",
-     "preco": 1.6,
-     "img": "produtos/4180.jpg"
-    },
-    {
      "cod": 2032,
-     "nome": "CARTOLINA-AMARELA",
-     "marca": "GRIFFE",
-     "preco": 1.5,
-     "img": "produtos/2032.jpg"
-    },
-    {
-     "cod": 2033,
      "nome": "CARTOLINA",
      "marca": "GRIFFE",
      "preco": 1.5,
-     "img": "produtos/2033.jpg",
+     "img": "produtos/2032.jpg",
      "cores": [
+      {
+       "cod": 2032,
+       "cor": "Amarela",
+       "nome": "CARTOLINA-AMARELA",
+       "img": "produtos/2032.jpg"
+      },
       {
        "cod": 2033,
        "cor": "Azul",
@@ -8541,6 +8571,12 @@
        "img": "produtos/2051.jpg"
       },
       {
+       "cod": 2054,
+       "cor": "Azul Royal / Azul Escuro",
+       "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "img": "produtos/2054.jpg"
+      },
+      {
        "cod": 2055,
        "cor": "Laranja",
        "nome": "COLORSETE A4 C/50 LARANJA",
@@ -8603,17 +8639,10 @@
      ]
     },
     {
-     "cod": 2054,
-     "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
-     "marca": "GRIFFE",
-     "preco": 15.9,
-     "img": "produtos/2054.jpg"
-    },
-    {
      "cod": 2037,
      "nome": "COLORSETE",
      "marca": "GRIFFE",
-     "preco": 1.2,
+     "preco": 1.3,
      "img": "produtos/2037.jpg",
      "cores": [
       {
@@ -8639,6 +8668,12 @@
        "cor": "Laranja",
        "nome": "COLORSETE-LARANJA",
        "img": "produtos/2041.jpg"
+      },
+      {
+       "cod": 4182,
+       "cor": "Lilas / Violeta",
+       "nome": "COLORSETE-LILAS/VIOLETA",
+       "img": "produtos/4182.jpg"
       },
       {
        "cod": 2043,
@@ -8677,13 +8712,6 @@
        "img": "produtos/2050.jpg"
       }
      ]
-    },
-    {
-     "cod": 4182,
-     "nome": "COLORSETE-LILAS/VIOLETA",
-     "marca": "GRIFFE",
-     "preco": 1.2,
-     "img": "produtos/4182.jpg"
     },
     {
      "cod": 2068,
@@ -9006,6 +9034,13 @@
      "marca": "ASSETE",
      "preco": 26.9,
      "img": "produtos/2067.jpg"
+    },
+    {
+     "cod": 2066,
+     "nome": "PAPEL COUCHE A4 C/50FL BRILHO",
+     "marca": "",
+     "preco": 26.9,
+     "img": "produtos/2066.jpg"
     },
     {
      "cod": 14126,
@@ -9565,10 +9600,22 @@
        "img": "produtos/3020.jpg"
       },
       {
+       "cod": 12685,
+       "cor": "Amarelo Pessego",
+       "nome": "GUACHE 250ML ACRILEX-AMARELO PESSEGO",
+       "img": "produtos/12685.jpg"
+      },
+      {
        "cod": 6269,
        "cor": "Azul Celeste",
        "nome": "GUACHE 250ML ACRILEX-AZUL CELESTE",
        "img": "produtos/6269.jpg"
+      },
+      {
+       "cod": 3021,
+       "cor": "Azul Turquesa",
+       "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
+       "img": "produtos/3021.jpg"
       },
       {
        "cod": 3022,
@@ -9593,6 +9640,12 @@
        "cor": "Lilas",
        "nome": "GUACHE 250ML ACRILEX-LILAS",
        "img": "produtos/11882.jpg"
+      },
+      {
+       "cod": 11881,
+       "cor": "Magenta",
+       "nome": "GUACHE 250ML ACRILEX-MAGENTA",
+       "img": "produtos/11881.jpg"
       },
       {
        "cod": 3024,
@@ -9631,27 +9684,6 @@
        "img": "produtos/3027.jpg"
       }
      ]
-    },
-    {
-     "cod": 12685,
-     "nome": "GUACHE 250ML ACRILEX-AMARELO PESSEGO",
-     "marca": "ACRILEX",
-     "preco": 13.9,
-     "img": "produtos/12685.jpg"
-    },
-    {
-     "cod": 3021,
-     "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
-     "marca": "ACRILEX",
-     "preco": 13.9,
-     "img": "produtos/3021.jpg"
-    },
-    {
-     "cod": 11881,
-     "nome": "GUACHE 250ML ACRILEX-MAGENTA",
-     "marca": "ACRILEX",
-     "preco": 13.9,
-     "img": "produtos/11881.jpg"
     },
     {
      "cod": 5763,
@@ -9982,6 +10014,13 @@
      "marca": "COLORE",
      "preco": 24.9,
      "img": "produtos/4718.jpg"
+    },
+    {
+     "cod": 4716,
+     "nome": "SPRAY MARROM 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4716.jpg"
     },
     {
      "cod": 8786,
@@ -10404,6 +10443,18 @@
        "img": "produtos/3710.jpg"
       },
       {
+       "cod": 3712,
+       "cor": "Azul Marinho",
+       "nome": "TINTA TECIDO 37ML-AZUL MARINHO",
+       "img": "produtos/3712.jpg"
+      },
+      {
+       "cod": 3006,
+       "cor": "Azul Turquesa",
+       "nome": "TINTA TECIDO 37ML-AZUL TURQUESA",
+       "img": "produtos/3006.jpg"
+      },
+      {
        "cod": 3008,
        "cor": "Laranja",
        "nome": "TINTA TECIDO 37ML-LARANJA",
@@ -10447,20 +10498,6 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/5078.jpg"
-    },
-    {
-     "cod": 3712,
-     "nome": "TINTA TECIDO 37ML-AZUL MARINHO",
-     "marca": "ACRILEX",
-     "preco": 6.9,
-     "img": "produtos/3712.jpg"
-    },
-    {
-     "cod": 3006,
-     "nome": "TINTA TECIDO 37ML-AZUL TURQUESA",
-     "marca": "ACRILEX",
-     "preco": 6.9,
-     "img": "produtos/3006.jpg"
     },
     {
      "cod": 14001,
@@ -10917,24 +10954,30 @@
     },
     {
      "cod": 6197,
-     "nome": "CAIXA ORGANIZADORA POLIBRAS G-LILAS PASTEL",
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G",
      "marca": "POLIBRAS",
      "preco": 48.9,
-     "img": "produtos/6197.jpg"
-    },
-    {
-     "cod": 5173,
-     "nome": "CAIXA ORGANIZADORA POLIBRAS G-ROSA PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 48.9,
-     "img": "produtos/5173.jpg"
-    },
-    {
-     "cod": 3259,
-     "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
-     "marca": "POLIBRAS",
-     "preco": 48.9,
-     "img": "produtos/3259.jpg"
+     "img": "produtos/6197.jpg",
+     "cores": [
+      {
+       "cod": 6197,
+       "cor": "Lilas Pastel",
+       "nome": "CAIXA ORGANIZADORA POLIBRAS G-LILAS PASTEL",
+       "img": "produtos/6197.jpg"
+      },
+      {
+       "cod": 5173,
+       "cor": "Rosa Pastel",
+       "nome": "CAIXA ORGANIZADORA POLIBRAS G-ROSA PASTEL",
+       "img": "produtos/5173.jpg"
+      },
+      {
+       "cod": 3259,
+       "cor": "Vermelho",
+       "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
+       "img": "produtos/3259.jpg"
+      }
+     ]
     },
     {
      "cod": 13749,
@@ -10980,17 +11023,24 @@
     },
     {
      "cod": 778,
-     "nome": "CHAVEIRO MAXCRIL BRANCO",
+     "nome": "CHAVEIRO MAXCRIL",
      "marca": "MAXCRIL",
      "preco": 1.0,
-     "img": "produtos/778.jpg"
-    },
-    {
-     "cod": 3309,
-     "nome": "CHAVEIRO MAXCRIL COLORIDO",
-     "marca": "MAXCRIL",
-     "preco": 1.0,
-     "img": "produtos/3309.jpg"
+     "img": "produtos/778.jpg",
+     "cores": [
+      {
+       "cod": 778,
+       "cor": "Branco",
+       "nome": "CHAVEIRO MAXCRIL BRANCO",
+       "img": "produtos/778.jpg"
+      },
+      {
+       "cod": 3309,
+       "cor": "Colorido",
+       "nome": "CHAVEIRO MAXCRIL COLORIDO",
+       "img": "produtos/3309.jpg"
+      }
+     ]
     },
     {
      "cod": 1245,
@@ -11071,31 +11121,36 @@
     },
     {
      "cod": 5203,
-     "nome": "KIT PORTA OBJETO 1 LUG C/2-AZUL PASTEL",
+     "nome": "KIT PORTA OBJETO 1 LUG C/2",
      "marca": "MAXCRIL",
      "preco": 14.9,
-     "img": "produtos/5203.jpg"
-    },
-    {
-     "cod": 5204,
-     "nome": "KIT PORTA OBJETO 1 LUG C/2-LILAS PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 14.9,
-     "img": "produtos/5204.jpg"
-    },
-    {
-     "cod": 5205,
-     "nome": "KIT PORTA OBJETO 1 LUG C/2-ROSA PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 14.9,
-     "img": "produtos/5205.jpg"
-    },
-    {
-     "cod": 5206,
-     "nome": "KIT PORTA OBJETO 1 LUG C/2-VERDE PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 14.9,
-     "img": "produtos/5206.jpg"
+     "img": "produtos/5203.jpg",
+     "cores": [
+      {
+       "cod": 5203,
+       "cor": "Azul Pastel",
+       "nome": "KIT PORTA OBJETO 1 LUG C/2-AZUL PASTEL",
+       "img": "produtos/5203.jpg"
+      },
+      {
+       "cod": 5204,
+       "cor": "Lilas Pastel",
+       "nome": "KIT PORTA OBJETO 1 LUG C/2-LILAS PASTEL",
+       "img": "produtos/5204.jpg"
+      },
+      {
+       "cod": 5205,
+       "cor": "Rosa Pastel",
+       "nome": "KIT PORTA OBJETO 1 LUG C/2-ROSA PASTEL",
+       "img": "produtos/5205.jpg"
+      },
+      {
+       "cod": 5206,
+       "cor": "Verde Pastel",
+       "nome": "KIT PORTA OBJETO 1 LUG C/2-VERDE PASTEL",
+       "img": "produtos/5206.jpg"
+      }
+     ]
     },
     {
      "cod": 6741,
@@ -11162,18 +11217,17 @@
     },
     {
      "cod": 11411,
-     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE AZUL PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 112.9,
-     "img": "produtos/11411.jpg"
-    },
-    {
-     "cod": 11412,
      "nome": "ORGAN. TRIPLO MAXCRIL OFFICE",
      "marca": "MAXCRIL",
      "preco": 112.9,
-     "img": "produtos/11412.jpg",
+     "img": "produtos/11411.jpg",
      "cores": [
+      {
+       "cod": 11411,
+       "cor": "Azul Pastel",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE AZUL PASTEL",
+       "img": "produtos/11411.jpg"
+      },
       {
        "cod": 11412,
        "cor": "Branco",
@@ -11185,22 +11239,20 @@
        "cor": "Preto",
        "nome": "ORGAN. TRIPLO MAXCRIL OFFICE PRETO",
        "img": "produtos/4858.jpg"
+      },
+      {
+       "cod": 14004,
+       "cor": "Rosa Pastel",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE ROSA PASTEL",
+       "img": "produtos/14004.jpg"
+      },
+      {
+       "cod": 14003,
+       "cor": "Verde Pastel",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE VERDE PASTEL",
+       "img": "produtos/14003.jpg"
       }
      ]
-    },
-    {
-     "cod": 14004,
-     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE ROSA PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 112.9,
-     "img": "produtos/14004.jpg"
-    },
-    {
-     "cod": 14003,
-     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE VERDE PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 112.9,
-     "img": "produtos/14003.jpg"
     },
     {
      "cod": 1985,
@@ -11393,24 +11445,30 @@
     },
     {
      "cod": 4856,
-     "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) AZUL PASTEL",
+     "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO)",
      "marca": "MAXCRIL",
      "preco": 19.9,
-     "img": "produtos/4856.jpg"
-    },
-    {
-     "cod": 4857,
-     "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) ROSA PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 19.9,
-     "img": "produtos/4857.jpg"
-    },
-    {
-     "cod": 4854,
-     "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) VERDE PASTEL",
-     "marca": "MAXCRIL",
-     "preco": 19.9,
-     "img": "produtos/4854.jpg"
+     "img": "produtos/4856.jpg",
+     "cores": [
+      {
+       "cod": 4856,
+       "cor": "Azul Pastel",
+       "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) AZUL PASTEL",
+       "img": "produtos/4856.jpg"
+      },
+      {
+       "cod": 4857,
+       "cor": "Rosa Pastel",
+       "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) ROSA PASTEL",
+       "img": "produtos/4857.jpg"
+      },
+      {
+       "cod": 4854,
+       "cor": "Verde Pastel",
+       "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) VERDE PASTEL",
+       "img": "produtos/4854.jpg"
+      }
+     ]
     },
     {
      "cod": 6360,
@@ -11616,18 +11674,17 @@
     },
     {
      "cod": 1803,
-     "nome": "MALETA ESCOLAR 4CM-AMARELA",
-     "marca": "POLIBRAS",
-     "preco": 17.9,
-     "img": "produtos/1803.jpg"
-    },
-    {
-     "cod": 1805,
      "nome": "MALETA ESCOLAR 4CM",
      "marca": "POLIBRAS",
      "preco": 17.9,
-     "img": "produtos/1805.jpg",
+     "img": "produtos/1803.jpg",
      "cores": [
+      {
+       "cod": 1803,
+       "cor": "Amarela",
+       "nome": "MALETA ESCOLAR 4CM-AMARELA",
+       "img": "produtos/1803.jpg"
+      },
       {
        "cod": 1805,
        "cor": "Azul",
@@ -11911,17 +11968,36 @@
     },
     {
      "cod": 10024,
-     "nome": "PASTA ENVELOPE A4-AMARELO NEON",
+     "nome": "PASTA ENVELOPE A4",
      "marca": "POLIBRAS",
      "preco": 9.9,
-     "img": "produtos/10024.jpg"
-    },
-    {
-     "cod": 10023,
-     "nome": "PASTA ENVELOPE A4-AZUL NEON",
-     "marca": "POLIBRAS",
-     "preco": 9.9,
-     "img": "produtos/10023.jpg"
+     "img": "produtos/10024.jpg",
+     "cores": [
+      {
+       "cod": 10024,
+       "cor": "Amarelo Neon",
+       "nome": "PASTA ENVELOPE A4-AMARELO NEON",
+       "img": "produtos/10024.jpg"
+      },
+      {
+       "cod": 10023,
+       "cor": "Azul Neon",
+       "nome": "PASTA ENVELOPE A4-AZUL NEON",
+       "img": "produtos/10023.jpg"
+      },
+      {
+       "cod": 10025,
+       "cor": "Lilas Neon",
+       "nome": "PASTA ENVELOPE A4-LILAS NEON",
+       "img": "produtos/10025.jpg"
+      },
+      {
+       "cod": 10022,
+       "cor": "Rosa Neon",
+       "nome": "PASTA ENVELOPE A4-ROSA NEON",
+       "img": "produtos/10022.jpg"
+      }
+     ]
     },
     {
      "cod": 11746,
@@ -11931,20 +12007,6 @@
      "img": "produtos/11746.jpg"
     },
     {
-     "cod": 10025,
-     "nome": "PASTA ENVELOPE A4-LILAS NEON",
-     "marca": "POLIBRAS",
-     "preco": 9.9,
-     "img": "produtos/10025.jpg"
-    },
-    {
-     "cod": 10022,
-     "nome": "PASTA ENVELOPE A4-ROSA NEON",
-     "marca": "POLIBRAS",
-     "preco": 9.9,
-     "img": "produtos/10022.jpg"
-    },
-    {
      "cod": 14210,
      "nome": "PASTA ENVELOPE A6-ANIMAL PRINT",
      "marca": "PLASCONY",
@@ -11952,12 +12014,18 @@
      "img": "produtos/14210.jpg"
     },
     {
-     "cod": 2219,
+     "cod": 2218,
      "nome": "PASTA GRAMPO TRILHO",
      "marca": "POLYCART",
      "preco": 3.5,
-     "img": "produtos/2219.jpg",
+     "img": "produtos/2218.jpg",
      "cores": [
+      {
+       "cod": 2218,
+       "cor": "Amarela",
+       "nome": "PASTA GRAMPO TRILHO-AMARELA",
+       "img": "produtos/2218.jpg"
+      },
       {
        "cod": 2219,
        "cor": "Azul",
@@ -12024,18 +12092,31 @@
      "img": "produtos/2222.jpg"
     },
     {
-     "cod": 2218,
-     "nome": "PASTA GRAMPO TRILHO-AMARELA",
-     "marca": "POLYCART",
-     "preco": 3.5,
-     "img": "produtos/2218.jpg"
-    },
-    {
      "cod": 6799,
-     "nome": "PASTA L A4 AMARELA",
+     "nome": "PASTA L A4",
      "marca": "",
      "preco": 1.5,
-     "img": "produtos/6799.jpg"
+     "img": "produtos/6799.jpg",
+     "cores": [
+      {
+       "cod": 6799,
+       "cor": "Amarela",
+       "nome": "PASTA L A4 AMARELA",
+       "img": "produtos/6799.jpg"
+      },
+      {
+       "cod": 6801,
+       "cor": "Verde",
+       "nome": "PASTA L A4 VERDE",
+       "img": "produtos/6801.jpg"
+      },
+      {
+       "cod": 6800,
+       "cor": "Vermelha",
+       "nome": "PASTA L A4 VERMELHA",
+       "img": "produtos/6800.jpg"
+      }
+     ]
     },
     {
      "cod": 6802,
@@ -12073,27 +12154,6 @@
      "img": "produtos/12476.jpg"
     },
     {
-     "cod": 6801,
-     "nome": "PASTA L A4",
-     "marca": "",
-     "preco": 1.5,
-     "img": "produtos/6801.jpg",
-     "cores": [
-      {
-       "cod": 6801,
-       "cor": "Verde",
-       "nome": "PASTA L A4 VERDE",
-       "img": "produtos/6801.jpg"
-      },
-      {
-       "cod": 6800,
-       "cor": "Vermelha",
-       "nome": "PASTA L A4 VERMELHA",
-       "img": "produtos/6800.jpg"
-      }
-     ]
-    },
-    {
      "cod": 13989,
      "nome": "PASTA L OF. CRISTAL",
      "marca": "",
@@ -12109,18 +12169,17 @@
     },
     {
      "cod": 6190,
-     "nome": "PASTA POLIONDA 2CM AMARELA",
-     "marca": "POLIBRAS",
-     "preco": 5.9,
-     "img": "produtos/6190.jpg"
-    },
-    {
-     "cod": 6192,
      "nome": "PASTA POLIONDA 2CM",
      "marca": "POLIBRAS",
      "preco": 5.9,
-     "img": "produtos/6192.jpg",
+     "img": "produtos/6190.jpg",
      "cores": [
+      {
+       "cod": 6190,
+       "cor": "Amarela",
+       "nome": "PASTA POLIONDA 2CM AMARELA",
+       "img": "produtos/6190.jpg"
+      },
       {
        "cod": 6192,
        "cor": "Azul",
@@ -12237,31 +12296,36 @@
     },
     {
      "cod": 5176,
-     "nome": "PASTA PP 1CM POLIBRAS-AZUL PASTEL",
+     "nome": "PASTA PP 1CM POLIBRAS",
      "marca": "POLIBRAS",
      "preco": 5.9,
-     "img": "produtos/5176.jpg"
-    },
-    {
-     "cod": 5177,
-     "nome": "PASTA PP 1CM POLIBRAS-LILAS PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 5.9,
-     "img": "produtos/5177.jpg"
-    },
-    {
-     "cod": 11002,
-     "nome": "PASTA PP 1CM POLIBRAS-ROSA PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 5.9,
-     "img": "produtos/11002.jpg"
-    },
-    {
-     "cod": 11003,
-     "nome": "PASTA PP 1CM POLIBRAS-VERDE PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 5.9,
-     "img": "produtos/11003.jpg"
+     "img": "produtos/5176.jpg",
+     "cores": [
+      {
+       "cod": 5176,
+       "cor": "Azul Pastel",
+       "nome": "PASTA PP 1CM POLIBRAS-AZUL PASTEL",
+       "img": "produtos/5176.jpg"
+      },
+      {
+       "cod": 5177,
+       "cor": "Lilas Pastel",
+       "nome": "PASTA PP 1CM POLIBRAS-LILAS PASTEL",
+       "img": "produtos/5177.jpg"
+      },
+      {
+       "cod": 11002,
+       "cor": "Rosa Pastel",
+       "nome": "PASTA PP 1CM POLIBRAS-ROSA PASTEL",
+       "img": "produtos/11002.jpg"
+      },
+      {
+       "cod": 11003,
+       "cor": "Verde Pastel",
+       "nome": "PASTA PP 1CM POLIBRAS-VERDE PASTEL",
+       "img": "produtos/11003.jpg"
+      }
+     ]
     },
     {
      "cod": 2231,
@@ -12293,31 +12357,63 @@
     },
     {
      "cod": 10013,
-     "nome": "PASTA PP 2CM POLIBRAS-AZUL NEON",
+     "nome": "PASTA PP 2CM POLIBRAS",
      "marca": "POLIBRAS",
      "preco": 12.9,
-     "img": "produtos/10013.jpg"
-    },
-    {
-     "cod": 10011,
-     "nome": "PASTA PP 2CM POLIBRAS-LILAS NEON",
-     "marca": "POLIBRAS",
-     "preco": 12.9,
-     "img": "produtos/10011.jpg"
-    },
-    {
-     "cod": 10010,
-     "nome": "PASTA PP 2CM POLIBRAS-ROSA NEON",
-     "marca": "POLIBRAS",
-     "preco": 12.9,
-     "img": "produtos/10010.jpg"
+     "img": "produtos/10013.jpg",
+     "cores": [
+      {
+       "cod": 10013,
+       "cor": "Azul Neon",
+       "nome": "PASTA PP 2CM POLIBRAS-AZUL NEON",
+       "img": "produtos/10013.jpg"
+      },
+      {
+       "cod": 10011,
+       "cor": "Lilas Neon",
+       "nome": "PASTA PP 2CM POLIBRAS-LILAS NEON",
+       "img": "produtos/10011.jpg"
+      },
+      {
+       "cod": 10010,
+       "cor": "Rosa Neon",
+       "nome": "PASTA PP 2CM POLIBRAS-ROSA NEON",
+       "img": "produtos/10010.jpg"
+      }
+     ]
     },
     {
      "cod": 12542,
-     "nome": "PASTA PP 2CM-AZUL PASTEL",
+     "nome": "PASTA PP 2CM",
      "marca": "",
      "preco": 10.9,
-     "img": "produtos/12542.jpg"
+     "img": "produtos/12542.jpg",
+     "cores": [
+      {
+       "cod": 12542,
+       "cor": "Azul Pastel",
+       "nome": "PASTA PP 2CM-AZUL PASTEL",
+       "img": "produtos/12542.jpg"
+      },
+      {
+       "cod": 12543,
+       "cor": "Lilas Pastel",
+       "nome": "PASTA PP 2CM-LILAS PASTEL",
+       "img": "produtos/12543.jpg"
+      },
+      {
+       "cod": 12541,
+       "cor": "Rosa Pastel",
+       "nome": "PASTA PP 2CM-ROSA PASTEL",
+       "img": "produtos/12541.jpg"
+      },
+      {
+       "cod": 13947,
+       "cor": "Verde Pastel",
+       "nome": "PASTA PP 2CM-VERDE PASTEL",
+       "img": "produtos/13947.jpg"
+      }
+     ]
     },
     {
      "cod": 3592,
@@ -12325,27 +12421,6 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/3592.jpg"
-    },
-    {
-     "cod": 12543,
-     "nome": "PASTA PP 2CM-LILAS PASTEL",
-     "marca": "",
-     "preco": 10.9,
-     "img": "produtos/12543.jpg"
-    },
-    {
-     "cod": 12541,
-     "nome": "PASTA PP 2CM-ROSA PASTEL",
-     "marca": "",
-     "preco": 10.9,
-     "img": "produtos/12541.jpg"
-    },
-    {
-     "cod": 13947,
-     "nome": "PASTA PP 2CM-VERDE PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 10.9,
-     "img": "produtos/13947.jpg"
     },
     {
      "cod": 12933,
@@ -12363,17 +12438,30 @@
     },
     {
      "cod": 10020,
-     "nome": "PASTA PP 4CM POLIBRAS-AMARELO NEON",
+     "nome": "PASTA PP 4CM POLIBRAS",
      "marca": "POLIBRAS",
      "preco": 15.9,
-     "img": "produtos/10020.jpg"
-    },
-    {
-     "cod": 10021,
-     "nome": "PASTA PP 4CM POLIBRAS-AZUL NEON",
-     "marca": "POLIBRAS",
-     "preco": 15.9,
-     "img": "produtos/10021.jpg"
+     "img": "produtos/10020.jpg",
+     "cores": [
+      {
+       "cod": 10020,
+       "cor": "Amarelo Neon",
+       "nome": "PASTA PP 4CM POLIBRAS-AMARELO NEON",
+       "img": "produtos/10020.jpg"
+      },
+      {
+       "cod": 10021,
+       "cor": "Azul Neon",
+       "nome": "PASTA PP 4CM POLIBRAS-AZUL NEON",
+       "img": "produtos/10021.jpg"
+      },
+      {
+       "cod": 10018,
+       "cor": "Rosa Neon",
+       "nome": "PASTA PP 4CM POLIBRAS-ROSA NEON",
+       "img": "produtos/10018.jpg"
+      }
+     ]
     },
     {
      "cod": 10019,
@@ -12381,13 +12469,6 @@
      "marca": "POLIBRAS",
      "preco": 15.9,
      "img": "produtos/10019.jpg"
-    },
-    {
-     "cod": 10018,
-     "nome": "PASTA PP 4CM POLIBRAS-ROSA NEON",
-     "marca": "POLIBRAS",
-     "preco": 15.9,
-     "img": "produtos/10018.jpg"
     },
     {
      "cod": 3929,
@@ -12433,10 +12514,24 @@
     },
     {
      "cod": 12926,
-     "nome": "PASTA PP MINI 1CM-AMARELA",
+     "nome": "PASTA PP MINI 1CM",
      "marca": "ACP",
      "preco": 2.9,
-     "img": "produtos/12926.jpg"
+     "img": "produtos/12926.jpg",
+     "cores": [
+      {
+       "cod": 12926,
+       "cor": "Amarela",
+       "nome": "PASTA PP MINI 1CM-AMARELA",
+       "img": "produtos/12926.jpg"
+      },
+      {
+       "cod": 12924,
+       "cor": "Verde",
+       "nome": "PASTA PP MINI 1CM-VERDE",
+       "img": "produtos/12924.jpg"
+      }
+     ]
     },
     {
      "cod": 2260,
@@ -12451,13 +12546,6 @@
      "marca": "POLIBRAS",
      "preco": 3.9,
      "img": "produtos/7167.jpg"
-    },
-    {
-     "cod": 12924,
-     "nome": "PASTA PP MINI 1CM-VERDE",
-     "marca": "ACP",
-     "preco": 2.9,
-     "img": "produtos/12924.jpg"
     },
     {
      "cod": 7166,
@@ -12475,24 +12563,30 @@
     },
     {
      "cod": 5181,
-     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) AZUL PASTEL",
+     "nome": "PASTA SANFON.12D.A4 (POLIBRAS)",
      "marca": "POLIBRAS",
      "preco": 29.9,
-     "img": "produtos/5181.jpg"
-    },
-    {
-     "cod": 5180,
-     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) LILAS PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 29.9,
-     "img": "produtos/5180.jpg"
-    },
-    {
-     "cod": 6308,
-     "nome": "PASTA SANFON.12D.A4 (POLIBRAS) ROSA PASTEL",
-     "marca": "POLIBRAS",
-     "preco": 29.9,
-     "img": "produtos/6308.jpg"
+     "img": "produtos/5181.jpg",
+     "cores": [
+      {
+       "cod": 5181,
+       "cor": "Azul Pastel",
+       "nome": "PASTA SANFON.12D.A4 (POLIBRAS) AZUL PASTEL",
+       "img": "produtos/5181.jpg"
+      },
+      {
+       "cod": 5180,
+       "cor": "Lilas Pastel",
+       "nome": "PASTA SANFON.12D.A4 (POLIBRAS) LILAS PASTEL",
+       "img": "produtos/5180.jpg"
+      },
+      {
+       "cod": 6308,
+       "cor": "Rosa Pastel",
+       "nome": "PASTA SANFON.12D.A4 (POLIBRAS) ROSA PASTEL",
+       "img": "produtos/6308.jpg"
+      }
+     ]
     },
     {
      "cod": 2264,
@@ -12552,20 +12646,20 @@
     },
     {
      "cod": 11008,
-     "nome": "PASTA SANFON.5D.A4 GLITTER",
+     "nome": "PASTA SANFON.5D.A4",
      "marca": "POLIBRAS",
      "preco": 26.9,
      "img": "produtos/11008.jpg",
      "cores": [
       {
        "cod": 11008,
-       "cor": "Ouro",
+       "cor": "Glitter Ouro",
        "nome": "PASTA SANFON.5D.A4 GLITTER OURO",
        "img": "produtos/11008.jpg"
       },
       {
        "cod": 11006,
-       "cor": "Prata",
+       "cor": "Glitter Prata",
        "nome": "PASTA SANFON.5D.A4 GLITTER PRATA",
        "img": "produtos/11006.jpg"
       }
@@ -12760,7 +12854,7 @@
     {
      "cod": 1144,
      "nome": "ESTILETE LARGO PROFISSIONAL",
-     "marca": "THOMPSON",
+     "marca": "",
      "preco": 15.9,
      "img": "produtos/1144.jpg"
     },
@@ -12856,17 +12950,24 @@
     },
     {
      "cod": 12738,
-     "nome": "TESOURA S/P ACRILEX-PRETA (LETRAS)",
+     "nome": "TESOURA S/P ACRILEX (LETRAS)",
      "marca": "ACRILEX",
      "preco": 18.9,
-     "img": "produtos/12738.jpg"
-    },
-    {
-     "cod": 12737,
-     "nome": "TESOURA S/P ACRILEX-ROSA (LETRAS)",
-     "marca": "ACRILEX",
-     "preco": 18.9,
-     "img": "produtos/12737.jpg"
+     "img": "produtos/12738.jpg",
+     "cores": [
+      {
+       "cod": 12738,
+       "cor": "Preta",
+       "nome": "TESOURA S/P ACRILEX-PRETA (LETRAS)",
+       "img": "produtos/12738.jpg"
+      },
+      {
+       "cod": 12737,
+       "cor": "Rosa",
+       "nome": "TESOURA S/P ACRILEX-ROSA (LETRAS)",
+       "img": "produtos/12737.jpg"
+      }
+     ]
     },
     {
      "cod": 14212,
@@ -12992,6 +13093,12 @@
        "img": "produtos/8929.jpg"
       },
       {
+       "cod": 6665,
+       "cor": "Azul Celeste / Royal",
+       "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
+       "img": "produtos/6665.jpg"
+      },
+      {
        "cod": 4829,
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
@@ -13072,13 +13179,6 @@
      ]
     },
     {
-     "cod": 6665,
-     "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
-     "marca": "LEO/DUB",
-     "preco": 3.9,
-     "img": "produtos/6665.jpg"
-    },
-    {
      "cod": 5367,
      "nome": "EVA GLITER-COBRE",
      "marca": "MAKE+",
@@ -13106,10 +13206,22 @@
        "img": "produtos/1228.jpg"
       },
       {
+       "cod": 1230,
+       "cor": "Azul Claro / Bebe",
+       "nome": "EVA LISO-AZUL CLARO/BEBE",
+       "img": "produtos/1230.jpg"
+      },
+      {
        "cod": 1231,
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg"
+      },
+      {
+       "cod": 6669,
+       "cor": "Azul Marinho",
+       "nome": "EVA LISO-AZUL MARINHO",
+       "img": "produtos/6669.jpg"
       },
       {
        "cod": 9161,
@@ -13154,6 +13266,18 @@
        "img": "produtos/1238.jpg"
       },
       {
+       "cod": 1239,
+       "cor": "Rosa Claro / Bebe",
+       "nome": "EVA LISO-ROSA CLARO/BEBE",
+       "img": "produtos/1239.jpg"
+      },
+      {
+       "cod": 1240,
+       "cor": "Rosa Escuro / Pink",
+       "nome": "EVA LISO-ROSA ESCURO/PINK",
+       "img": "produtos/1240.jpg"
+      },
+      {
        "cod": 4648,
        "cor": "Roxo",
        "nome": "EVA LISO-ROXO",
@@ -13172,34 +13296,6 @@
        "img": "produtos/1244.jpg"
       }
      ]
-    },
-    {
-     "cod": 1230,
-     "nome": "EVA LISO-AZUL CLARO/BEBE",
-     "marca": "",
-     "preco": 1.5,
-     "img": "produtos/1230.jpg"
-    },
-    {
-     "cod": 6669,
-     "nome": "EVA LISO-AZUL MARINHO",
-     "marca": "LEO/DUB",
-     "preco": 1.5,
-     "img": "produtos/6669.jpg"
-    },
-    {
-     "cod": 1239,
-     "nome": "EVA LISO-ROSA CLARO/BEBE",
-     "marca": "LEO/DUB",
-     "preco": 1.5,
-     "img": "produtos/1239.jpg"
-    },
-    {
-     "cod": 1240,
-     "nome": "EVA LISO-ROSA ESCURO/PINK",
-     "marca": "",
-     "preco": 1.5,
-     "img": "produtos/1240.jpg"
     },
     {
      "cod": 3057,
@@ -13898,31 +13994,36 @@
     },
     {
      "cod": 13057,
-     "nome": "ESTOJO CIS MOVE 1F-AZUL/ROXO",
+     "nome": "ESTOJO CIS MOVE 1F",
      "marca": "CIS",
      "preco": 17.9,
-     "img": "produtos/13057.jpg"
-    },
-    {
-     "cod": 13058,
-     "nome": "ESTOJO CIS MOVE 1F-CINZA/PRETO",
-     "marca": "CIS",
-     "preco": 17.9,
-     "img": "produtos/13058.jpg"
-    },
-    {
-     "cod": 13046,
-     "nome": "ESTOJO CIS MOVE 1F-ROSA/AMARELO",
-     "marca": "CIS",
-     "preco": 17.9,
-     "img": "produtos/13046.jpg"
-    },
-    {
-     "cod": 13056,
-     "nome": "ESTOJO CIS MOVE 1F-VERDE/AZUL",
-     "marca": "CIS",
-     "preco": 17.9,
-     "img": "produtos/13056.jpg"
+     "img": "produtos/13057.jpg",
+     "cores": [
+      {
+       "cod": 13057,
+       "cor": "Azul / Roxo",
+       "nome": "ESTOJO CIS MOVE 1F-AZUL/ROXO",
+       "img": "produtos/13057.jpg"
+      },
+      {
+       "cod": 13058,
+       "cor": "Cinza / Preto",
+       "nome": "ESTOJO CIS MOVE 1F-CINZA/PRETO",
+       "img": "produtos/13058.jpg"
+      },
+      {
+       "cod": 13046,
+       "cor": "Rosa / Amarelo",
+       "nome": "ESTOJO CIS MOVE 1F-ROSA/AMARELO",
+       "img": "produtos/13046.jpg"
+      },
+      {
+       "cod": 13056,
+       "cor": "Verde / Azul",
+       "nome": "ESTOJO CIS MOVE 1F-VERDE/AZUL",
+       "img": "produtos/13056.jpg"
+      }
+     ]
     },
     {
      "cod": 13375,
@@ -15075,7 +15176,7 @@
     },
     {
      "cod": 660,
-     "nome": "CAPA ENCADERNAÇAO A4 C/10",
+     "nome": "CAPA ENCADERNACAO A4 C/10",
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
@@ -15305,7 +15406,7 @@
    "itens": [
     {
      "cod": 67,
-     "nome": "ARQUIVO MORTO (DUPLO",
+     "nome": "ARQUIVO MORTO (DUPLO)",
      "marca": "",
      "preco": 16.9,
      "img": "produtos/67.jpg",
@@ -15461,13 +15562,6 @@
      "marca": "MINASPEL",
      "preco": 4.5,
      "img": "produtos/213.jpg"
-    },
-    {
-     "cod": 215,
-     "nome": "BLOCO RASCUNHO 12X,5 C/250",
-     "marca": "PAPER MULT",
-     "preco": 4.5,
-     "img": "produtos/215.jpg"
     },
     {
      "cod": 6963,
@@ -15977,17 +16071,24 @@
     },
     {
      "cod": 1465,
-     "nome": "GIZ DELTA C/64 BRANCO",
+     "nome": "GIZ DELTA C/64",
      "marca": "DELTA",
      "preco": 7.9,
-     "img": "produtos/1465.jpg"
-    },
-    {
-     "cod": 6465,
-     "nome": "GIZ DELTA C/64 COLORIDO",
-     "marca": "DELTA",
-     "preco": 7.9,
-     "img": "produtos/6465.jpg"
+     "img": "produtos/1465.jpg",
+     "cores": [
+      {
+       "cod": 1465,
+       "cor": "Branco",
+       "nome": "GIZ DELTA C/64 BRANCO",
+       "img": "produtos/1465.jpg"
+      },
+      {
+       "cod": 6465,
+       "cor": "Colorido",
+       "nome": "GIZ DELTA C/64 COLORIDO",
+       "img": "produtos/6465.jpg"
+      }
+     ]
     },
     {
      "cod": 1469,
@@ -16096,17 +16197,24 @@
     },
     {
      "cod": 3539,
-     "nome": "MASSA POTE ACRILEX 150GR-AMARELO LIMAO",
+     "nome": "MASSA POTE ACRILEX 150GR",
      "marca": "ACRILEX",
      "preco": 9.9,
-     "img": "produtos/3539.jpg"
-    },
-    {
-     "cod": 3545,
-     "nome": "MASSA POTE ACRILEX 150GR-LARANJA",
-     "marca": "ACRILEX",
-     "preco": 9.9,
-     "img": "produtos/3545.jpg"
+     "img": "produtos/3539.jpg",
+     "cores": [
+      {
+       "cod": 3539,
+       "cor": "Amarelo Limao",
+       "nome": "MASSA POTE ACRILEX 150GR-AMARELO LIMAO",
+       "img": "produtos/3539.jpg"
+      },
+      {
+       "cod": 3545,
+       "cor": "Laranja",
+       "nome": "MASSA POTE ACRILEX 150GR-LARANJA",
+       "img": "produtos/3545.jpg"
+      }
+     ]
     },
     {
      "cod": 4468,
@@ -16117,32 +16225,23 @@
     },
     {
      "cod": 11390,
-     "nome": "MASSA POTE ACRILEX 500GR-AMARELO LIMAO",
-     "marca": "ACRILEX",
-     "preco": 18.9,
-     "img": "produtos/11390.jpg"
-    },
-    {
-     "cod": 13781,
-     "nome": "MASSA POTE ACRILEX 500GR-AMARELO PELE",
-     "marca": "ACRILEX",
-     "preco": 18.9,
-     "img": "produtos/13781.jpg"
-    },
-    {
-     "cod": 11391,
-     "nome": "MASSA POTE ACRILEX 500GR-AMARELO PESSEGO",
-     "marca": "ACRILEX",
-     "preco": 18.9,
-     "img": "produtos/11391.jpg"
-    },
-    {
-     "cod": 11392,
      "nome": "MASSA POTE ACRILEX 500GR",
      "marca": "ACRILEX",
      "preco": 18.9,
-     "img": "produtos/11392.jpg",
+     "img": "produtos/11390.jpg",
      "cores": [
+      {
+       "cod": 11390,
+       "cor": "Amarelo Limao",
+       "nome": "MASSA POTE ACRILEX 500GR-AMARELO LIMAO",
+       "img": "produtos/11390.jpg"
+      },
+      {
+       "cod": 11391,
+       "cor": "Amarelo Pessego",
+       "nome": "MASSA POTE ACRILEX 500GR-AMARELO PESSEGO",
+       "img": "produtos/11391.jpg"
+      },
       {
        "cod": 11392,
        "cor": "Azul",
@@ -16174,6 +16273,13 @@
        "img": "produtos/11399.jpg"
       }
      ]
+    },
+    {
+     "cod": 13781,
+     "nome": "MASSA POTE ACRILEX 500GR-AMARELO PELE",
+     "marca": "ACRILEX",
+     "preco": 18.9,
+     "img": "produtos/13781.jpg"
     },
     {
      "cod": 11393,
@@ -16496,12 +16602,6 @@
        "cor": "Verde",
        "nome": "LACRE 16CM C/100-VERDE",
        "img": "produtos/1599.jpg"
-      },
-      {
-       "cod": 1600,
-       "cor": "Vermelho",
-       "nome": "LACRE 16CM C/100-VERMELHO",
-       "img": "produtos/1600.jpg"
       }
      ]
     },
@@ -16998,6 +17098,12 @@
        "img": "produtos/1475.jpg"
       },
       {
+       "cod": 10923,
+       "cor": "Azul Turquesa",
+       "nome": "GLITER 3GR-AZUL TURQUESA",
+       "img": "produtos/10923.jpg"
+      },
+      {
        "cod": 10285,
        "cor": "Branco",
        "nome": "GLITER 3GR-BRANCO",
@@ -17046,13 +17152,6 @@
        "img": "produtos/1484.jpg"
       }
      ]
-    },
-    {
-     "cod": 10923,
-     "nome": "GLITER 3GR-AZUL TURQUESA",
-     "marca": "LANTECOR",
-     "preco": 1.0,
-     "img": "produtos/10923.jpg"
     },
     {
      "cod": 1485,
@@ -17113,7 +17212,7 @@
     },
     {
      "cod": 6350,
-     "nome": "LANTEJOULA Nº6 C/2G",
+     "nome": "LANTEJOULA NO6 C/2G",
      "marca": "APLICOR",
      "preco": 1.5,
      "img": "produtos/6350.jpg",
@@ -17224,7 +17323,7 @@
    "itens": [
     {
      "cod": 6642,
-     "nome": "ALMOFADA CARIMBO Nº3 MASTERPRINT",
+     "nome": "ALMOFADA CARIMBO NO3 MASTERPRINT",
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6642.jpg",
@@ -19026,13 +19125,6 @@
      "img": "produtos/5068.jpg"
     },
     {
-     "cod": 1376,
-     "nome": "FORMA PF642/S642/ECO642 C/300",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/1376.jpg"
-    },
-    {
      "cod": 14015,
      "nome": "FORMA PF742 C/10 (250ML)",
      "marca": "",
@@ -19895,6 +19987,13 @@
      "marca": "PITPRATOS",
      "preco": 3.2,
      "img": "produtos/2541.jpg"
+    },
+    {
+     "cod": 2542,
+     "nome": "PRATO LAMINADO Nº3-23CM",
+     "marca": "PITPRATOS",
+     "preco": 0.6,
+     "img": "produtos/2542.jpg"
     },
     {
      "cod": 2543,
@@ -20964,18 +21063,17 @@
     },
     {
      "cod": 3848,
-     "nome": "SACOLA PH 20X30 C/50-AMARELA",
+     "nome": "SACOLA PH 20X30 C/50",
      "marca": "P. CVS",
      "preco": 18.9,
-     "img": "produtos/3848.jpg"
-    },
-    {
-     "cod": 3669,
-     "nome": "SACOLA PH 20X30 C/50",
-     "marca": "GERSELE",
-     "preco": 18.9,
-     "img": "produtos/3669.jpg",
+     "img": "produtos/3848.jpg",
      "cores": [
+      {
+       "cod": 3848,
+       "cor": "Amarela",
+       "nome": "SACOLA PH 20X30 C/50-AMARELA",
+       "img": "produtos/3848.jpg"
+      },
       {
        "cod": 3669,
        "cor": "Branca",
@@ -21085,18 +21183,17 @@
     },
     {
      "cod": 3671,
-     "nome": "SACOLA PH 30X40 C/50-AMARELA",
+     "nome": "SACOLA PH 30X40 C/50",
      "marca": "P. CVS",
      "preco": 36.9,
-     "img": "produtos/3671.jpg"
-    },
-    {
-     "cod": 3672,
-     "nome": "SACOLA PH 30X40 C/50",
-     "marca": "P.CVS",
-     "preco": 36.9,
-     "img": "produtos/3672.jpg",
+     "img": "produtos/3671.jpg",
      "cores": [
+      {
+       "cod": 3671,
+       "cor": "Amarela",
+       "nome": "SACOLA PH 30X40 C/50-AMARELA",
+       "img": "produtos/3671.jpg"
+      },
       {
        "cod": 3672,
        "cor": "Azul Escuro",
@@ -21700,17 +21797,24 @@
     },
     {
      "cod": 226,
-     "nome": "BOBINA 57MM TERM 80M-AMARELA",
+     "nome": "BOBINA 57MM TERM 80M",
      "marca": "PRIMUS",
      "preco": 8.5,
-     "img": "produtos/226.jpg"
-    },
-    {
-     "cod": 6097,
-     "nome": "BOBINA 57MM TERM 80M-BRANCA",
-     "marca": "PRIMUS",
-     "preco": 8.5,
-     "img": "produtos/6097.jpg"
+     "img": "produtos/226.jpg",
+     "cores": [
+      {
+       "cod": 226,
+       "cor": "Amarela",
+       "nome": "BOBINA 57MM TERM 80M-AMARELA",
+       "img": "produtos/226.jpg"
+      },
+      {
+       "cod": 6097,
+       "cor": "Branca",
+       "nome": "BOBINA 57MM TERM 80M-BRANCA",
+       "img": "produtos/6097.jpg"
+      }
+     ]
     },
     {
      "cod": 3204,
@@ -22500,6 +22604,12 @@
        "img": "produtos/5996.jpg"
       },
       {
+       "cod": 9785,
+       "cor": "Azul Marinho",
+       "nome": "FITA CETIM N1 7MMX10MT-AZUL MARINHO",
+       "img": "produtos/9785.jpg"
+      },
+      {
        "cod": 9062,
        "cor": "Azul Royal",
        "nome": "FITA CETIM N1 7MMX10MT-AZUL ROYAL",
@@ -22524,13 +22634,6 @@
        "img": "produtos/6003.jpg"
       }
      ]
-    },
-    {
-     "cod": 9785,
-     "nome": "FITA CETIM N1 7MMX10MT-AZUL MARINHO",
-     "marca": "PROGRESSO",
-     "preco": 4.9,
-     "img": "produtos/9785.jpg"
     },
     {
      "cod": 13385,
@@ -22641,6 +22744,12 @@
        "img": "produtos/6007.jpg"
       },
       {
+       "cod": 9072,
+       "cor": "Rosa Escuro / Pink",
+       "nome": "FITA CETIM N3 15MMX10MT-ROSA ESCURO/PINK",
+       "img": "produtos/9072.jpg"
+      },
+      {
        "cod": 9786,
        "cor": "Verde Bandeira",
        "nome": "FITA CETIM N3 15MMX10MT-VERDE BANDEIRA",
@@ -22661,13 +22770,6 @@
      ]
     },
     {
-     "cod": 9072,
-     "nome": "FITA CETIM N3 15MMX10MT-ROSA ESCURO/PINK",
-     "marca": "GITEX",
-     "preco": 7.9,
-     "img": "produtos/9072.jpg"
-    },
-    {
      "cod": 4774,
      "nome": "FITILHO 50MT AMARELO CANARIO",
      "marca": "",
@@ -22676,18 +22778,17 @@
     },
     {
      "cod": 1320,
-     "nome": "FITILHO 50MT AZUL ESCURO/ROYAL",
+     "nome": "FITILHO 50MT",
      "marca": "",
      "preco": 3.9,
-     "img": "produtos/1320.jpg"
-    },
-    {
-     "cod": 1321,
-     "nome": "FITILHO 50MT",
-     "marca": "EMFESTA",
-     "preco": 3.9,
-     "img": "produtos/1321.jpg",
+     "img": "produtos/1320.jpg",
      "cores": [
+      {
+       "cod": 1320,
+       "cor": "Azul Escuro / Royal",
+       "nome": "FITILHO 50MT AZUL ESCURO/ROYAL",
+       "img": "produtos/1320.jpg"
+      },
       {
        "cod": 1321,
        "cor": "Branco",
@@ -22705,6 +22806,12 @@
        "cor": "Lilas",
        "nome": "FITILHO 50MT LILAS",
        "img": "produtos/1324.jpg"
+      },
+      {
+       "cod": 4778,
+       "cor": "Ouro / Dourado",
+       "nome": "FITILHO 50MT OURO/DOURADO",
+       "img": "produtos/4778.jpg"
       },
       {
        "cod": 4779,
@@ -22749,13 +22856,6 @@
        "img": "produtos/1332.jpg"
       }
      ]
-    },
-    {
-     "cod": 4778,
-     "nome": "FITILHO 50MT OURO/DOURADO",
-     "marca": "EMFESTA",
-     "preco": 3.9,
-     "img": "produtos/4778.jpg"
     },
     {
      "cod": 6947,
@@ -22815,7 +22915,7 @@
     },
     {
      "cod": 11924,
-     "nome": "LAÇO PRONTO (G",
+     "nome": "LACO PRONTO (G)",
      "marca": "MAKE+",
      "preco": 1.0,
      "img": "produtos/11924.jpg",
@@ -22836,7 +22936,7 @@
     },
     {
      "cod": 11919,
-     "nome": "LAÇO PRONTO (GG",
+     "nome": "LACO PRONTO (GG)",
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
@@ -22857,7 +22957,7 @@
     },
     {
      "cod": 11911,
-     "nome": "LAÇO PRONTO (M",
+     "nome": "LACO PRONTO (M)",
      "marca": "GALA",
      "preco": 0.8,
      "img": "produtos/11911.jpg",
@@ -22922,6 +23022,13 @@
      "marca": "PACKPEL",
      "preco": 2.5,
      "img": "produtos/3664.jpg"
+    },
+    {
+     "cod": 2941,
+     "nome": "TAPETE CESTA 38CM- TRANSP.",
+     "marca": "GRESPAN",
+     "preco": 0.5,
+     "img": "produtos/2941.jpg"
     },
     {
      "cod": 2942,
@@ -24025,17 +24132,24 @@
     },
     {
      "cod": 4325,
-     "nome": "ROLHA PLASTICA C/50 AMARELA",
+     "nome": "ROLHA PLASTICA C/50",
      "marca": "-",
      "preco": 6.9,
-     "img": "produtos/4325.jpg"
-    },
-    {
-     "cod": 2670,
-     "nome": "ROLHA PLASTICA C/50 BRANCA",
-     "marca": "-",
-     "preco": 6.9,
-     "img": "produtos/2670.jpg"
+     "img": "produtos/4325.jpg",
+     "cores": [
+      {
+       "cod": 4325,
+       "cor": "Amarela",
+       "nome": "ROLHA PLASTICA C/50 AMARELA",
+       "img": "produtos/4325.jpg"
+      },
+      {
+       "cod": 2670,
+       "cor": "Branca",
+       "nome": "ROLHA PLASTICA C/50 BRANCA",
+       "img": "produtos/2670.jpg"
+      }
+     ]
     }
    ]
   },
@@ -24080,24 +24194,30 @@
     },
     {
      "cod": 10530,
-     "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/DOURADO (TREND)",
+     "nome": "APONTADOR CIS (1F) C/D+BORR (TREND)",
      "marca": "CIS",
      "preco": 9.9,
-     "img": "produtos/10530.jpg"
-    },
-    {
-     "cod": 10523,
-     "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/PRATA (TREND)",
-     "marca": "CIS",
-     "preco": 9.9,
-     "img": "produtos/10523.jpg"
-    },
-    {
-     "cod": 10650,
-     "nome": "APONTADOR CIS (1F) C/D+BORR-VERDE/DOURADO (TREND)",
-     "marca": "CIS",
-     "preco": 9.9,
-     "img": "produtos/10650.jpg"
+     "img": "produtos/10530.jpg",
+     "cores": [
+      {
+       "cod": 10530,
+       "cor": "Roxo / Dourado",
+       "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/DOURADO (TREND)",
+       "img": "produtos/10530.jpg"
+      },
+      {
+       "cod": 10523,
+       "cor": "Roxo / Prata",
+       "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/PRATA (TREND)",
+       "img": "produtos/10523.jpg"
+      },
+      {
+       "cod": 10650,
+       "cor": "Verde / Dourado",
+       "nome": "APONTADOR CIS (1F) C/D+BORR-VERDE/DOURADO (TREND)",
+       "img": "produtos/10650.jpg"
+      }
+     ]
     },
     {
      "cod": 10614,
@@ -24143,24 +24263,30 @@
     },
     {
      "cod": 10647,
-     "nome": "APONTADOR CIS C/D SPIRO 2F-LARANJA/AZUL",
+     "nome": "APONTADOR CIS C/D SPIRO 2F",
      "marca": "CIS",
      "preco": 12.9,
-     "img": "produtos/10647.jpg"
-    },
-    {
-     "cod": 8158,
-     "nome": "APONTADOR CIS C/D SPIRO 2F-LILAS/ROSA",
-     "marca": "CIS",
-     "preco": 12.9,
-     "img": "produtos/8158.jpg"
-    },
-    {
-     "cod": 8159,
-     "nome": "APONTADOR CIS C/D SPIRO 2F-VERDE/AZUL",
-     "marca": "CIS",
-     "preco": 12.9,
-     "img": "produtos/8159.jpg"
+     "img": "produtos/10647.jpg",
+     "cores": [
+      {
+       "cod": 10647,
+       "cor": "Laranja / Azul",
+       "nome": "APONTADOR CIS C/D SPIRO 2F-LARANJA/AZUL",
+       "img": "produtos/10647.jpg"
+      },
+      {
+       "cod": 8158,
+       "cor": "Lilas / Rosa",
+       "nome": "APONTADOR CIS C/D SPIRO 2F-LILAS/ROSA",
+       "img": "produtos/8158.jpg"
+      },
+      {
+       "cod": 8159,
+       "cor": "Verde / Azul",
+       "nome": "APONTADOR CIS C/D SPIRO 2F-VERDE/AZUL",
+       "img": "produtos/8159.jpg"
+      }
+     ]
     },
     {
      "cod": 4811,
@@ -24372,17 +24498,24 @@
     },
     {
      "cod": 5207,
-     "nome": "APONTADOR FABER C/D+BORR-AZUL PASTEL",
+     "nome": "APONTADOR FABER C/D+BORR",
      "marca": "FABER",
      "preco": 10.9,
-     "img": "produtos/5207.jpg"
-    },
-    {
-     "cod": 5209,
-     "nome": "APONTADOR FABER C/D+BORR-VERDE PASTEL",
-     "marca": "FABER",
-     "preco": 10.9,
-     "img": "produtos/5209.jpg"
+     "img": "produtos/5207.jpg",
+     "cores": [
+      {
+       "cod": 5207,
+       "cor": "Azul Pastel",
+       "nome": "APONTADOR FABER C/D+BORR-AZUL PASTEL",
+       "img": "produtos/5207.jpg"
+      },
+      {
+       "cod": 5209,
+       "cor": "Verde Pastel",
+       "nome": "APONTADOR FABER C/D+BORR-VERDE PASTEL",
+       "img": "produtos/5209.jpg"
+      }
+     ]
     },
     {
      "cod": 3173,
@@ -24834,10 +24967,36 @@
     },
     {
      "cod": 12637,
-     "nome": "APONTADOR TRIS C/D 1F-AZUL (SU263)",
+     "nome": "APONTADOR TRIS C/D 1F (SU263)",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/12637.jpg"
+     "img": "produtos/12637.jpg",
+     "cores": [
+      {
+       "cod": 12637,
+       "cor": "Azul",
+       "nome": "APONTADOR TRIS C/D 1F-AZUL (SU263)",
+       "img": "produtos/12637.jpg"
+      },
+      {
+       "cod": 12639,
+       "cor": "Lilas",
+       "nome": "APONTADOR TRIS C/D 1F-LILAS (SU263)",
+       "img": "produtos/12639.jpg"
+      },
+      {
+       "cod": 12638,
+       "cor": "Rosa",
+       "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
+       "img": "produtos/12638.jpg"
+      },
+      {
+       "cod": 12641,
+       "cor": "Verde",
+       "nome": "APONTADOR TRIS C/D 1F-VERDE (SU263)",
+       "img": "produtos/12641.jpg"
+      }
+     ]
     },
     {
      "cod": 12725,
@@ -24918,7 +25077,7 @@
     },
     {
      "cod": 12729,
-     "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTIÇA",
+     "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTICA",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/12729.jpg",
@@ -24936,13 +25095,6 @@
        "img": "produtos/12728.jpg"
       }
      ]
-    },
-    {
-     "cod": 12639,
-     "nome": "APONTADOR TRIS C/D 1F-LILAS (SU263)",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/12639.jpg"
     },
     {
      "cod": 13380,
@@ -24971,20 +25123,6 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12689.jpg"
-    },
-    {
-     "cod": 12638,
-     "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/12638.jpg"
-    },
-    {
-     "cod": 12641,
-     "nome": "APONTADOR TRIS C/D 1F-VERDE (SU263)",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/12641.jpg"
     },
     {
      "cod": 12718,
@@ -25179,17 +25317,30 @@
     },
     {
      "cod": 13796,
-     "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
+     "nome": "MARCA TEXTO CIS (RETRATIL)",
      "marca": "CIS",
      "preco": 6.9,
-     "img": "produtos/13796.jpg"
-    },
-    {
-     "cod": 13795,
-     "nome": "MARCA TEXTO CIS-ROSA (RETRATIL)",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/13795.jpg"
+     "img": "produtos/13796.jpg",
+     "cores": [
+      {
+       "cod": 13796,
+       "cor": "Amarelo",
+       "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
+       "img": "produtos/13796.jpg"
+      },
+      {
+       "cod": 13795,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO CIS-ROSA (RETRATIL)",
+       "img": "produtos/13795.jpg"
+      },
+      {
+       "cod": 13800,
+       "cor": "Verde",
+       "nome": "MARCA TEXTO CIS-VERDE (RETRATIL)",
+       "img": "produtos/13800.jpg"
+      }
+     ]
     },
     {
      "cod": 1827,
@@ -25197,13 +25348,6 @@
      "marca": "CIS",
      "preco": 3.0,
      "img": "produtos/1827.jpg"
-    },
-    {
-     "cod": 13800,
-     "nome": "MARCA TEXTO CIS-VERDE (RETRATIL)",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/13800.jpg"
     },
     {
      "cod": 12733,
@@ -25497,17 +25641,24 @@
     },
     {
      "cod": 8775,
-     "nome": "MARCA TEXTO STABILO DISPLAY-AMARELO NEON",
+     "nome": "MARCA TEXTO STABILO DISPLAY",
      "marca": "STABILO",
      "preco": 6.9,
-     "img": "produtos/8775.jpg"
-    },
-    {
-     "cod": 8776,
-     "nome": "MARCA TEXTO STABILO DISPLAY-LARANJA NEON",
-     "marca": "STABILO",
-     "preco": 6.9,
-     "img": "produtos/8776.jpg"
+     "img": "produtos/8775.jpg",
+     "cores": [
+      {
+       "cod": 8775,
+       "cor": "Amarelo Neon",
+       "nome": "MARCA TEXTO STABILO DISPLAY-AMARELO NEON",
+       "img": "produtos/8775.jpg"
+      },
+      {
+       "cod": 8776,
+       "cor": "Laranja Neon",
+       "nome": "MARCA TEXTO STABILO DISPLAY-LARANJA NEON",
+       "img": "produtos/8776.jpg"
+      }
+     ]
     },
     {
      "cod": 8763,
