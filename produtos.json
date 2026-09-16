@@ -7506,7 +7506,7 @@
      "cod": 4338,
      "nome": "ESCALIMETRO 30CM-CIS",
      "marca": "CIS",
-     "preco": 42.9,
+     "preco": 44.9,
      "img": "produtos/4338.jpg"
     },
     {
@@ -9123,7 +9123,7 @@
      "cod": 6667,
      "nome": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
      "marca": "GRIFFE",
-     "preco": 12.9,
+     "preco": 13.9,
      "img": "produtos/6667.jpg"
     },
     {
@@ -10917,6 +10917,13 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/9783.jpg"
+    },
+    {
+     "cod": 8726,
+     "nome": "SELO CONVITE VERMELHO 12/13MM C/210",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/8726.jpg"
     }
    ]
   },
@@ -11091,6 +11098,20 @@
      "marca": "MAXCRIL",
      "preco": 46.9,
      "img": "produtos/1013.jpg"
+    },
+    {
+     "cod": 9251,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-20X30 (CINZA)",
+     "marca": "MAXCRIL",
+     "preco": 0.6,
+     "img": "produtos/9251.jpg"
+    },
+    {
+     "cod": 9252,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
+     "marca": "MAXCRIL",
+     "preco": 1.1,
+     "img": "produtos/9252.jpg"
     },
     {
      "cod": 9253,
@@ -12545,15 +12566,14 @@
        "cor": "Rosa",
        "nome": "PASTA PP 4CM POLIBRAS-ROSA NEON",
        "img": "produtos/10018.jpg"
+      },
+      {
+       "cod": 10019,
+       "cor": "Roxo",
+       "nome": "PASTA PP 4CM POLIBRAS-ROXO NEON",
+       "img": "produtos/10019.jpg"
       }
      ]
-    },
-    {
-     "cod": 10019,
-     "nome": "PASTA PP 4CM POLIBRAS-NEON",
-     "marca": "POLIBRAS",
-     "preco": 15.9,
-     "img": "produtos/10019.jpg"
     },
     {
      "cod": 3929,
@@ -12874,6 +12894,13 @@
      "marca": "CROMUS",
      "preco": 29.9,
      "img": "produtos/2741.jpg"
+    },
+    {
+     "cod": 2743,
+     "nome": "SACO ADESIVADO 22X30 C/100",
+     "marca": "VABENE",
+     "preco": 32.9,
+     "img": "produtos/2743.jpg"
     },
     {
      "cod": 2744,
@@ -15295,13 +15322,6 @@
      "img": "produtos/14063.jpg"
     },
     {
-     "cod": 1036,
-     "nome": "ENCADERNACAO",
-     "marca": "SERVICO",
-     "preco": 9.9,
-     "img": "produtos/1036.jpg"
-    },
-    {
      "cod": 1130,
      "nome": "ESPIRAL 07MM P/25F C/100",
      "marca": "",
@@ -15438,7 +15458,7 @@
      "cod": 9036,
      "nome": "OFERTA 300X420MM C/10 (SUPER)",
      "marca": "GRESPAN",
-     "preco": 32.9,
+     "preco": 35.9,
      "img": "produtos/9036.jpg"
     },
     {
@@ -16155,6 +16175,13 @@
    "nome": "Giz e Massa de Modelar",
    "itens": [
     {
+     "cod": 13713,
+     "nome": "ARGILA ESCOLAR-1KG",
+     "marca": "REZENDE",
+     "preco": 13.9,
+     "img": "produtos/13713.jpg"
+    },
+    {
      "cod": 13270,
      "nome": "GIZ CERA MAPED C/6",
      "marca": "MAPED",
@@ -16694,6 +16721,12 @@
        "cor": "Verde",
        "nome": "LACRE 16CM C/100-VERDE",
        "img": "produtos/1599.jpg"
+      },
+      {
+       "cod": 1600,
+       "cor": "Vermelho",
+       "nome": "LACRE 16CM C/100-VERMELHO",
+       "img": "produtos/1600.jpg"
       }
      ]
     },
@@ -24253,6 +24286,776 @@
    ]
   },
   {
+   "slug": "luvas-mascaras",
+   "nome": "Luvas, Máscaras e Toucas",
+   "itens": [
+    {
+     "cod": 1785,
+     "nome": "LUVA DESCARTAVEL C/100",
+     "marca": "",
+     "preco": 1.9,
+     "img": "produtos/1785.jpg"
+    },
+    {
+     "cod": 1786,
+     "nome": "LUVA LATEX-G C/100 COM PO",
+     "marca": "",
+     "preco": 29.9,
+     "img": "produtos/1786.jpg"
+    },
+    {
+     "cod": 9179,
+     "nome": "LUVA LATEX-M C/100 COM PO",
+     "marca": "",
+     "preco": 29.9,
+     "img": "produtos/9179.jpg"
+    },
+    {
+     "cod": 7488,
+     "nome": "LUVA LATEX-P C/100 COM PO",
+     "marca": "",
+     "preco": 29.9,
+     "img": "produtos/7488.jpg"
+    },
+    {
+     "cod": 8292,
+     "nome": "LUVA LIMP (G) AMAR (PAR)",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/8292.jpg"
+    },
+    {
+     "cod": 11792,
+     "nome": "LUVA LIMP (G) PRETO (PAR)",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/11792.jpg"
+    },
+    {
+     "cod": 10986,
+     "nome": "LUVA LIMP (GG) AMAR-(PAR)",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/10986.jpg"
+    },
+    {
+     "cod": 4396,
+     "nome": "LUVA LIMP (M) AMAR-(PAR)",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/4396.jpg"
+    },
+    {
+     "cod": 4551,
+     "nome": "LUVA LIMP (P) AMAR-(PAR)",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/4551.jpg"
+    },
+    {
+     "cod": 8293,
+     "nome": "LUVA NITRILICA-G C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8293.jpg"
+    },
+    {
+     "cod": 10304,
+     "nome": "LUVA NITRILICA-GG C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/10304.jpg"
+    },
+    {
+     "cod": 8294,
+     "nome": "LUVA NITRILICA-M C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8294.jpg"
+    },
+    {
+     "cod": 8295,
+     "nome": "LUVA NITRILICA-P C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8295.jpg"
+    },
+    {
+     "cod": 1801,
+     "nome": "LUVA VINIFLEX-P C/100 VABENE SEM PO",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/1801.jpg"
+    },
+    {
+     "cod": 12279,
+     "nome": "LUVA VINIL-G C/100 SEM PO",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/12279.jpg"
+    },
+    {
+     "cod": 10988,
+     "nome": "LUVA VINIL-GG C/100 SEM PO",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/10988.jpg"
+    },
+    {
+     "cod": 9014,
+     "nome": "LUVA VINIL-M C/100 COM PO",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/9014.jpg"
+    },
+    {
+     "cod": 10989,
+     "nome": "LUVA VINIL-P C/100 SEM PO",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/10989.jpg"
+    },
+    {
+     "cod": 1874,
+     "nome": "MASCARA DESCARTAVEL C/50",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/1874.jpg"
+    },
+    {
+     "cod": 3085,
+     "nome": "TOUCA DESCARTAVEL C/100",
+     "marca": "",
+     "preco": 10.9,
+     "img": "produtos/3085.jpg"
+    },
+    {
+     "cod": 7275,
+     "nome": "TOUCA REDINHA PRETA C/10",
+     "marca": "VABENE",
+     "preco": 9.9,
+     "img": "produtos/7275.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "papel-higienico-toalha",
+   "nome": "Papel Higiênico e Toalha",
+   "itens": [
+    {
+     "cod": 7015,
+     "nome": "PAPEL HIG.(ROLAO) 8X170M-SLIM PAPER",
+     "marca": "SLIM PAPER",
+     "preco": 39.9,
+     "img": "produtos/7015.jpg"
+    },
+    {
+     "cod": 2102,
+     "nome": "PAPEL HIG.(ROLAO) 8X240M-LUXO INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 65.9,
+     "img": "produtos/2102.jpg"
+    },
+    {
+     "cod": 2103,
+     "nome": "PAPEL HIG.(ROLAO) 8X300MT-100% INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 79.9,
+     "img": "produtos/2103.jpg"
+    },
+    {
+     "cod": 2104,
+     "nome": "PAPEL HIG.(ROLAO) 8X300MT-BRANCO INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 72.9,
+     "img": "produtos/2104.jpg"
+    },
+    {
+     "cod": 7016,
+     "nome": "PAPEL HIG.(ROLAO) 8X300MT-NOAH",
+     "marca": "NOAH",
+     "preco": 69.9,
+     "img": "produtos/7016.jpg"
+    },
+    {
+     "cod": 13945,
+     "nome": "PAPEL HIG.12X30MT-TENDERLY (FOLHA DUPLA)",
+     "marca": "TENDERLY",
+     "preco": 31.9,
+     "img": "produtos/13945.jpg"
+    },
+    {
+     "cod": 9017,
+     "nome": "PAPEL HIG.4X30MT-BOB (NEUTRO)",
+     "marca": "BOB",
+     "preco": 5.9,
+     "img": "produtos/9017.jpg"
+    },
+    {
+     "cod": 9018,
+     "nome": "PAPEL HIG.4X30MT-PERSONAL (FOLHA DUPLA)",
+     "marca": "PERSONAL",
+     "preco": 11.9,
+     "img": "produtos/9018.jpg"
+    },
+    {
+     "cod": 2107,
+     "nome": "PAPEL HIG.4X30MT-PREMIUM (ECO)",
+     "marca": "PREMIUM",
+     "preco": 12.9,
+     "img": "produtos/2107.jpg"
+    },
+    {
+     "cod": 13944,
+     "nome": "PAPEL HIG.4X30MT-TENDERLY (FOLHA DUPLA)",
+     "marca": "TENDERLY",
+     "preco": 12.9,
+     "img": "produtos/13944.jpg"
+    },
+    {
+     "cod": 2109,
+     "nome": "PAPEL HIG.CAI CAI C/8.000-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 79.9,
+     "img": "produtos/2109.jpg"
+    },
+    {
+     "cod": 12118,
+     "nome": "PAPEL HIG.CAI CAI C/8.000-NOAH PAPER",
+     "marca": "NOAH PAPER",
+     "preco": 107.9,
+     "img": "produtos/12118.jpg"
+    },
+    {
+     "cod": 2154,
+     "nome": "PAPEL TOALHA (COZINHA) C/2-YURI",
+     "marca": "YURI",
+     "preco": 5.9,
+     "img": "produtos/2154.jpg"
+    },
+    {
+     "cod": 2152,
+     "nome": "PAPEL TOALHA BRC C/1000 100%-INTERFORTY (ROSA)",
+     "marca": "INTERFORTY",
+     "preco": 21.9,
+     "img": "produtos/2152.jpg"
+    },
+    {
+     "cod": 2153,
+     "nome": "PAPEL TOALHA BRC C/1000 LUXO-INTERFORTY(VERMELHO)",
+     "marca": "INTERFORTY",
+     "preco": 19.9,
+     "img": "produtos/2153.jpg"
+    },
+    {
+     "cod": 6529,
+     "nome": "PAPEL TOALHA BRC C/800 COMUM-SLIM PAPER",
+     "marca": "SLIM PAPER",
+     "preco": 14.9,
+     "img": "produtos/6529.jpg"
+    },
+    {
+     "cod": 6679,
+     "nome": "PAPEL TOALHA CREME C/800",
+     "marca": "",
+     "preco": 13.5,
+     "img": "produtos/6679.jpg"
+    },
+    {
+     "cod": 2155,
+     "nome": "TOALHA ROLO 6X200M BRC 100%-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 137.9,
+     "img": "produtos/2155.jpg"
+    },
+    {
+     "cod": 2157,
+     "nome": "TOALHA ROLO 6X200M BRC LUXO-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 119.9,
+     "img": "produtos/2157.jpg"
+    },
+    {
+     "cod": 7484,
+     "nome": "TOALHA ROLO 6X200M BRC-SLIM PAPER/NOAH",
+     "marca": "SLIM/NOAH",
+     "preco": 84.9,
+     "img": "produtos/7484.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "panos-flanelas",
+   "nome": "Panos e Flanelas",
+   "itens": [
+    {
+     "cod": 9521,
+     "nome": "FLANELA AMARELA 28X48CM",
+     "marca": "",
+     "preco": 3.0,
+     "img": "produtos/9521.jpg"
+    },
+    {
+     "cod": 6750,
+     "nome": "FLANELA AMARELA 38X58CM",
+     "marca": "",
+     "preco": 4.9,
+     "img": "produtos/6750.jpg"
+    },
+    {
+     "cod": 9337,
+     "nome": "FLANELA BRANCA 38X58",
+     "marca": "PANO FINO",
+     "preco": 3.9,
+     "img": "produtos/9337.jpg"
+    },
+    {
+     "cod": 14050,
+     "nome": "PANO MULT MICROFIBRA 60X80CM",
+     "marca": "VABENE",
+     "preco": 17.9,
+     "img": "produtos/14050.jpg"
+    },
+    {
+     "cod": 2000,
+     "nome": "PANO PRATO 46X62CM-ENCOPA",
+     "marca": "ENCOPA",
+     "preco": 4.9,
+     "img": "produtos/2000.jpg"
+    },
+    {
+     "cod": 9829,
+     "nome": "PERFEX 50P AZUL (28X50CM)",
+     "marca": "",
+     "preco": 17.9,
+     "img": "produtos/9829.jpg"
+    },
+    {
+     "cod": 6754,
+     "nome": "PERFEX 600P VERDE/AZUL",
+     "marca": "",
+     "preco": 89.9,
+     "img": "produtos/6754.jpg"
+    },
+    {
+     "cod": 9748,
+     "nome": "SACO CHAO ALVEJADO (40X60) 12BT",
+     "marca": "BOM PANO",
+     "preco": 6.9,
+     "img": "produtos/9748.jpg"
+    },
+    {
+     "cod": 10666,
+     "nome": "SACO CHAO ALVEJADO (50X70)",
+     "marca": "",
+     "preco": 5.9,
+     "img": "produtos/10666.jpg"
+    },
+    {
+     "cod": 11659,
+     "nome": "SACO CHAO ALVEJADO (80X55) 18BT",
+     "marca": "PANOFLEX",
+     "preco": 10.9,
+     "img": "produtos/11659.jpg"
+    },
+    {
+     "cod": 3668,
+     "nome": "SACO CHAO CRU (50X80)",
+     "marca": "GAL",
+     "preco": 5.9,
+     "img": "produtos/3668.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "dispensers",
+   "nome": "Dispensers e Saboneteiras",
+   "itens": [
+    {
+     "cod": 11771,
+     "nome": "BISNAGA CONDIMENTOS PLASTICO",
+     "marca": "SANREMO",
+     "preco": 4.9,
+     "img": "produtos/11771.jpg"
+    },
+    {
+     "cod": 1012,
+     "nome": "DISPENSER CAI CAI PREMISSE-BRANCO",
+     "marca": "PREMISSE",
+     "preco": 42.9,
+     "img": "produtos/1012.jpg"
+    },
+    {
+     "cod": 9802,
+     "nome": "MANGUEIRA PARA RESERVATORIO-PREMISSE",
+     "marca": "PREMISSE",
+     "preco": 4.9,
+     "img": "produtos/9802.jpg"
+    },
+    {
+     "cod": 7120,
+     "nome": "PORTA COPO 200ML-ESMALTADO",
+     "marca": "AURIMAR",
+     "preco": 43.9,
+     "img": "produtos/7120.jpg"
+    },
+    {
+     "cod": 2444,
+     "nome": "PORTA COPO 300ML-ESMALTADO",
+     "marca": "AURIMAR",
+     "preco": 29.0,
+     "img": "produtos/2444.jpg"
+    },
+    {
+     "cod": 2446,
+     "nome": "PORTA COPO 50ML-ESMALTADO",
+     "marca": "AURIMAR",
+     "preco": 34.9,
+     "img": "produtos/2446.jpg"
+    },
+    {
+     "cod": 9680,
+     "nome": "PORTA COPO 50ML-ESMALTADO (GLOBO)",
+     "marca": "GLOBO",
+     "preco": 35.9,
+     "img": "produtos/9680.jpg"
+    },
+    {
+     "cod": 9681,
+     "nome": "PORTA COPO 50ML-INOX (GLOBO)",
+     "marca": "GLOBO",
+     "preco": 49.9,
+     "img": "produtos/9681.jpg"
+    },
+    {
+     "cod": 2455,
+     "nome": "PORTA GUARDANAPO DEITADO PLAST. PRETO",
+     "marca": "BERNACSTEI",
+     "preco": 8.5,
+     "img": "produtos/2455.jpg"
+    },
+    {
+     "cod": 9686,
+     "nome": "PORTA GUARDANAPO MESA C/CORTA SACHE",
+     "marca": "GLOBO",
+     "preco": 12.9,
+     "img": "produtos/9686.jpg"
+    },
+    {
+     "cod": 3616,
+     "nome": "PORTA GUARDANAPO TV PLAST. PRETO",
+     "marca": "BERNACSTEI",
+     "preco": 8.5,
+     "img": "produtos/3616.jpg"
+    },
+    {
+     "cod": 11763,
+     "nome": "PORTA-SABAO PLASTICO  1KG",
+     "marca": "SANREMO",
+     "preco": 18.9,
+     "img": "produtos/11763.jpg"
+    },
+    {
+     "cod": 11766,
+     "nome": "PORTA-SABONETE LIQ/ALCOOL GEL 280ML",
+     "marca": "SANREMO",
+     "preco": 8.9,
+     "img": "produtos/11766.jpg"
+    },
+    {
+     "cod": 14216,
+     "nome": "PORTA-SABONETE LIQ/ALCOOL GEL 500ML",
+     "marca": "BELLPLUS",
+     "preco": 5.9,
+     "img": "produtos/14216.jpg"
+    },
+    {
+     "cod": 6345,
+     "nome": "POUPA COPO BELL PLUS",
+     "marca": "BELL PLUS",
+     "preco": 45.9,
+     "img": "produtos/6345.jpg"
+    },
+    {
+     "cod": 2651,
+     "nome": "RESERVATORIO PREMISSE",
+     "marca": "PREMISSE",
+     "preco": 15.9,
+     "img": "produtos/2651.jpg"
+    },
+    {
+     "cod": 11899,
+     "nome": "SABONETEIRA BELL PLUS (C/ESPUMA)",
+     "marca": "BELL PLUS",
+     "preco": 55.9,
+     "img": "produtos/11899.jpg"
+    },
+    {
+     "cod": 2687,
+     "nome": "SABONETEIRA BELL PLUS BRC (C/RES)",
+     "marca": "BELL PLUS",
+     "preco": 49.9,
+     "img": "produtos/2687.jpg"
+    },
+    {
+     "cod": 7650,
+     "nome": "SABONETEIRA PREMISSE COMP. (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 35.9,
+     "img": "produtos/7650.jpg",
+     "cores": [
+      {
+       "cod": 7650,
+       "cor": "Azul",
+       "nome": "SABONETEIRA PREMISSE COMP. AZUL (C/RES)",
+       "img": "produtos/7650.jpg"
+      },
+      {
+       "cod": 2691,
+       "cor": "Verde",
+       "nome": "SABONETEIRA PREMISSE COMP. VERDE (C/RES)",
+       "img": "produtos/2691.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 2688,
+     "nome": "SABONETEIRA PREMISSE COMP. BLACK & WHITE (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 39.9,
+     "img": "produtos/2688.jpg"
+    },
+    {
+     "cod": 9807,
+     "nome": "SABONETEIRA PREMISSE COMP. INVOQ (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 45.9,
+     "img": "produtos/9807.jpg",
+     "cores": [
+      {
+       "cod": 9807,
+       "cor": "Azul",
+       "nome": "SABONETEIRA PREMISSE COMP. INVOQ-AZUL (C/RES)",
+       "img": "produtos/9807.jpg"
+      },
+      {
+       "cod": 9808,
+       "cor": "Fume",
+       "nome": "SABONETEIRA PREMISSE COMP. INVOQ-FUME (C/RES)",
+       "img": "produtos/9808.jpg"
+      },
+      {
+       "cod": 9809,
+       "cor": "Marrom",
+       "nome": "SABONETEIRA PREMISSE COMP. INVOQ-MARROM (C/RES)",
+       "img": "produtos/9809.jpg"
+      },
+      {
+       "cod": 9817,
+       "cor": "Verde",
+       "nome": "SABONETEIRA PREMISSE COMP. INVOQ-VERDE (C/RES)",
+       "img": "produtos/9817.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 2690,
+     "nome": "SABONETEIRA PREMISSE COMP. MARROM (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 39.9,
+     "img": "produtos/2690.jpg"
+    },
+    {
+     "cod": 9805,
+     "nome": "SABONETEIRA PREMISSE INVOQ-PRETA (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 32.9,
+     "img": "produtos/9805.jpg"
+    },
+    {
+     "cod": 7651,
+     "nome": "SUPORTE ROLAO INVOQ PREMISSE",
+     "marca": "PREMISSE",
+     "preco": 75.9,
+     "img": "produtos/7651.jpg"
+    },
+    {
+     "cod": 3072,
+     "nome": "TOALHEIRO BELL PLUS",
+     "marca": "BELL PLUS",
+     "preco": 56.9,
+     "img": "produtos/3072.jpg"
+    },
+    {
+     "cod": 9803,
+     "nome": "TOALHEIRO PREMISSE INVOQ-PRETO",
+     "marca": "PREMISSE",
+     "preco": 75.9,
+     "img": "produtos/9803.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "utensilios-limpeza",
+   "nome": "Utensílios de Limpeza",
+   "itens": [
+    {
+     "cod": 89,
+     "nome": "AVENTAL BRANCO COZINHA",
+     "marca": "ENCOPA",
+     "preco": 21.9,
+     "img": "produtos/89.jpg"
+    },
+    {
+     "cod": 168,
+     "nome": "BALDE PRETO 12L",
+     "marca": "",
+     "preco": 19.9,
+     "img": "produtos/168.jpg"
+    },
+    {
+     "cod": 4608,
+     "nome": "DESENTUPIDOR VASO SANITARIO C/CABO",
+     "marca": "SACRAMENTO",
+     "preco": 15.9,
+     "img": "produtos/4608.jpg"
+    },
+    {
+     "cod": 9233,
+     "nome": "ESCOVA LAVAR ROUPA OVAL (MADEIRA)",
+     "marca": "GUIRADO",
+     "preco": 4.9,
+     "img": "produtos/9233.jpg"
+    },
+    {
+     "cod": 9854,
+     "nome": "ESCOVA LAVAR ROUPA OVAL (PLASTICO)",
+     "marca": "TOQ",
+     "preco": 12.9,
+     "img": "produtos/9854.jpg"
+    },
+    {
+     "cod": 14099,
+     "nome": "ESCOVA SANITARIA C/DEPOSITO ALKLIN",
+     "marca": "ALKLIN",
+     "preco": 19.9,
+     "img": "produtos/14099.jpg"
+    },
+    {
+     "cod": 9232,
+     "nome": "ESCOVA SANITARIA S/DEPOSITO SANITPLUS",
+     "marca": "TOQSANIT",
+     "preco": 6.9,
+     "img": "produtos/9232.jpg"
+    },
+    {
+     "cod": 1111,
+     "nome": "ESPANADOR 65CM PENA",
+     "marca": "SHANGRI-LA",
+     "preco": 36.9,
+     "img": "produtos/1111.jpg"
+    },
+    {
+     "cod": 1133,
+     "nome": "ESPONJA LAVAR VASILHA-BRILHUS",
+     "marca": "BRILHUS",
+     "preco": 1.9,
+     "img": "produtos/1133.jpg"
+    },
+    {
+     "cod": 11787,
+     "nome": "ESPUMA BLOCO PEDREIRO",
+     "marca": "ESPONFLORA",
+     "preco": 3.9,
+     "img": "produtos/11787.jpg"
+    },
+    {
+     "cod": 9514,
+     "nome": "LA DE AÇO C/8 UNIDADES-AÇOBOM",
+     "marca": "AÇOBOM",
+     "preco": 2.9,
+     "img": "produtos/9514.jpg"
+    },
+    {
+     "cod": 11741,
+     "nome": "PA PARA LIXO CABO LONGO",
+     "marca": "TRIAN",
+     "preco": 11.9,
+     "img": "produtos/11741.jpg"
+    },
+    {
+     "cod": 1991,
+     "nome": "PA PARA LIXO PLASTICO",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/1991.jpg"
+    },
+    {
+     "cod": 9093,
+     "nome": "PULVERIZADOR 300ML BOLA (TRANSPARENTE)",
+     "marca": "TIBA",
+     "preco": 7.9,
+     "img": "produtos/9093.jpg"
+    },
+    {
+     "cod": 3542,
+     "nome": "PULVERIZADOR 300ML BOLA LEITOSO",
+     "marca": "GIFO",
+     "preco": 8.9,
+     "img": "produtos/3542.jpg"
+    },
+    {
+     "cod": 3543,
+     "nome": "PULVERIZADOR 500ML BOLA",
+     "marca": "TIBA",
+     "preco": 9.9,
+     "img": "produtos/3543.jpg"
+    },
+    {
+     "cod": 9849,
+     "nome": "RODO 30CM DUPLO-GUIRADO",
+     "marca": "GUIRADO",
+     "preco": 12.9,
+     "img": "produtos/9849.jpg"
+    },
+    {
+     "cod": 13365,
+     "nome": "RODO 60CM ALUMINIO DUPLO-SAO JOSE",
+     "marca": "SAO JOSE",
+     "preco": 61.9,
+     "img": "produtos/13365.jpg"
+    },
+    {
+     "cod": 11800,
+     "nome": "RODO MOP LIMPA AZULEZO",
+     "marca": "LAV+",
+     "preco": 19.9,
+     "img": "produtos/11800.jpg"
+    },
+    {
+     "cod": 9975,
+     "nome": "UMIDIFICADOR DE AR USB LED 7 CORES-LEONORA",
+     "marca": "JOCAR",
+     "preco": 55.9,
+     "img": "produtos/9975.jpg"
+    },
+    {
+     "cod": 13872,
+     "nome": "VASSOURA NYLON 53CM MODELO GARI",
+     "marca": "",
+     "preco": 59.9,
+     "img": "produtos/13872.jpg"
+    },
+    {
+     "cod": 9946,
+     "nome": "VASSOURA PIAÇAVA-FRONTINENSE",
+     "marca": "FRONTINENS",
+     "preco": 26.9,
+     "img": "produtos/9946.jpg"
+    }
+   ]
+  },
+  {
    "slug": "apontador",
    "nome": "Apontador",
    "itens": [
@@ -26079,6 +26882,13 @@
      "marca": "VMP",
      "preco": 27.9,
      "img": "produtos/13554.jpg"
+    },
+    {
+     "cod": 13555,
+     "nome": "ROLO INFANTIL COLORIR ADESIVO-DINO",
+     "marca": "VMP",
+     "preco": 27.9,
+     "img": "produtos/13555.jpg"
     },
     {
      "cod": 13558,
