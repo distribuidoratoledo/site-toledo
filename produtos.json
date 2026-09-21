@@ -155,6 +155,13 @@
      "img": "produtos/6902.jpg"
     },
     {
+     "cod": 10296,
+     "nome": "CANETA BRUSH PEN C/5 FABER-SUPERSOFT NEON",
+     "marca": "FABER",
+     "preco": 39.9,
+     "img": "produtos/10296.jpg"
+    },
+    {
      "cod": 10829,
      "nome": "CANETA CIS 0.7",
      "marca": "CIS",
@@ -680,6 +687,13 @@
      "img": "produtos/10042.jpg"
     },
     {
+     "cod": 574,
+     "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
+     "marca": "MOLIN",
+     "preco": 9.5,
+     "img": "produtos/574.jpg"
+    },
+    {
      "cod": 10568,
      "nome": "CANETA GEL/CONVITE UNIBALL SIGNO",
      "marca": "CIS",
@@ -1021,7 +1035,7 @@
      "cod": 611,
      "nome": "CANETA PILOT GRIP 1.6",
      "marca": "PILOT",
-     "preco": 11.9,
+     "preco": 12.9,
      "img": "produtos/611.jpg",
      "cores": [
       {
@@ -1035,14 +1049,15 @@
        "cor": "Preta",
        "nome": "CANETA PILOT GRIP 1.6-PRETA",
        "img": "produtos/612.jpg"
-      },
-      {
-       "cod": 613,
-       "cor": "Vermelha",
-       "nome": "CANETA PILOT GRIP 1.6-VERMELHA",
-       "img": "produtos/613.jpg"
       }
      ]
+    },
+    {
+     "cod": 613,
+     "nome": "CANETA PILOT GRIP 1.6-VERMELHA",
+     "marca": "PILOT",
+     "preco": 11.9,
+     "img": "produtos/613.jpg"
     },
     {
      "cod": 614,
@@ -1075,7 +1090,7 @@
      "cod": 617,
      "nome": "CANETA PILOT S.GRIP 1.0",
      "marca": "PILOT",
-     "preco": 11.9,
+     "preco": 12.9,
      "img": "produtos/617.jpg",
      "cores": [
       {
@@ -2032,13 +2047,6 @@
      "img": "produtos/7860.jpg"
     },
     {
-     "cod": 13354,
-     "nome": "LAPIS ESCREVER MAPED NEON C/BORRACHA-AMARELO",
-     "marca": "MAPED",
-     "preco": 1.9,
-     "img": "produtos/13354.jpg"
-    },
-    {
      "cod": 12282,
      "nome": "LAPIS ESCREVER MOLIN LOVE BLACK E WHITE C/BORRACHA",
      "marca": "MOLIN",
@@ -2162,13 +2170,6 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1676.jpg"
-    },
-    {
-     "cod": 5835,
-     "nome": "LAPIS FABER 8B (DESENHO)",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/5835.jpg"
     },
     {
      "cod": 5406,
@@ -2315,13 +2316,6 @@
      "marca": "LEO E LEO",
      "preco": 4.9,
      "img": "produtos/7529.jpg"
-    },
-    {
-     "cod": 7527,
-     "nome": "JOGO PINCEL BIG LEO E LEO C/12",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/7527.jpg"
     },
     {
      "cod": 7526,
@@ -2632,13 +2626,6 @@
      "img": "produtos/2360.jpg"
     },
     {
-     "cod": 2429,
-     "nome": "PONTA PINCEL QUADRO BRC C/3",
-     "marca": "PILOT",
-     "preco": 10.9,
-     "img": "produtos/2429.jpg"
-    },
-    {
      "cod": 2624,
      "nome": "REFIL PINCEL Q.BRC PILOT",
      "marca": "PILOT",
@@ -2680,6 +2667,27 @@
        "cor": "Violeta",
        "nome": "REFIL PINCEL Q.BRC PILOT-VIOLETA",
        "img": "produtos/2629.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 3643,
+     "nome": "RETRO 0.4/2.0 JOCAR (PONTA DUPLA)",
+     "marca": "JOCAR",
+     "preco": 3.5,
+     "img": "produtos/3643.jpg",
+     "cores": [
+      {
+       "cod": 3643,
+       "cor": "Azul",
+       "nome": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
+       "img": "produtos/3643.jpg"
+      },
+      {
+       "cod": 9405,
+       "cor": "Preto",
+       "nome": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "img": "produtos/9405.jpg"
       }
      ]
     },
@@ -2780,7 +2788,7 @@
      "cod": 1503,
      "nome": "GRAFITE 0.5 FABER 2B/B C/24",
      "marca": "FABER",
-     "preco": 4.5,
+     "preco": 5.9,
      "img": "produtos/1503.jpg"
     },
     {
@@ -2833,20 +2841,6 @@
      "img": "produtos/4555.jpg"
     },
     {
-     "cod": 10282,
-     "nome": "LAPISEIRA 0.5-FABER GRIP MATIC PASTEL",
-     "marca": "FABER",
-     "preco": 18.9,
-     "img": "produtos/10282.jpg"
-    },
-    {
-     "cod": 1693,
-     "nome": "LAPISEIRA 0.5-FABER POLY SUPER MATIC",
-     "marca": "FABER",
-     "preco": 15.9,
-     "img": "produtos/1693.jpg"
-    },
-    {
      "cod": 1694,
      "nome": "LAPISEIRA 0.5-FABER POLY TRI SHAPE",
      "marca": "FABER",
@@ -2861,13 +2855,6 @@
      "img": "produtos/7037.jpg"
     },
     {
-     "cod": 7564,
-     "nome": "LAPISEIRA 0.5-JOCAR CORES NEON",
-     "marca": "JOCAR",
-     "preco": 2.5,
-     "img": "produtos/7564.jpg"
-    },
-    {
      "cod": 13811,
      "nome": "LAPISEIRA 0.5-JOCAR TUBE CORES",
      "marca": "JOCAR",
@@ -2880,13 +2867,6 @@
      "marca": "PENTEL",
      "preco": 26.9,
      "img": "produtos/9129.jpg"
-    },
-    {
-     "cod": 1698,
-     "nome": "LAPISEIRA 0.5-TILIBRA I-POINT",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/1698.jpg"
     },
     {
      "cod": 5048,
@@ -2917,32 +2897,11 @@
      "img": "produtos/1712.jpg"
     },
     {
-     "cod": 10608,
-     "nome": "LAPISEIRA 0.9-CIS TECNO AMARELA",
-     "marca": "CIS",
-     "preco": 9.9,
-     "img": "produtos/10608.jpg"
-    },
-    {
-     "cod": 5754,
-     "nome": "LAPISEIRA 0.9-TILIBRA I-POINT",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/5754.jpg"
-    },
-    {
      "cod": 12222,
      "nome": "LAPISEIRA 2.0-BRW C/GRAFITE PRATA",
      "marca": "BRW",
      "preco": 8.9,
      "img": "produtos/12222.jpg"
-    },
-    {
-     "cod": 13846,
-     "nome": "LAPISEIRA 2.0-CIS TECNOCIS SPIRO",
-     "marca": "CIS",
-     "preco": 5.9,
-     "img": "produtos/13846.jpg"
     }
    ]
   },
@@ -3052,39 +3011,11 @@
      ]
     },
     {
-     "cod": 282,
-     "nome": "BORRACHA FABER C/CP PASTEL",
-     "marca": "FABER",
-     "preco": 3.9,
-     "img": "produtos/282.jpg",
-     "cores": [
-      {
-       "cod": 282,
-       "cor": "Azul",
-       "nome": "BORRACHA FABER C/CP PASTEL-AZUL",
-       "img": "produtos/282.jpg"
-      },
-      {
-       "cod": 3212,
-       "cor": "Verde",
-       "nome": "BORRACHA FABER C/CP PASTEL-VERDE",
-       "img": "produtos/3212.jpg"
-      }
-     ]
-    },
-    {
      "cod": 283,
      "nome": "BORRACHA FABER C/CP VERMELHA",
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg"
-    },
-    {
-     "cod": 8430,
-     "nome": "BORRACHA FABER SUPER SOFT (PRETA)",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/8430.jpg"
     },
     {
      "cod": 12771,
@@ -3176,13 +3107,6 @@
      "marca": "MERCUR",
      "preco": 3.5,
      "img": "produtos/7919.jpg"
-    },
-    {
-     "cod": 12314,
-     "nome": "BORRACHA MOLIN LOVE PICOLE",
-     "marca": "MOLIN",
-     "preco": 6.9,
-     "img": "produtos/12314.jpg"
     },
     {
      "cod": 12342,
@@ -3522,13 +3446,6 @@
      "marca": "SD",
      "preco": 19.9,
      "img": "produtos/13218.jpg"
-    },
-    {
-     "cod": 8254,
-     "nome": "CADERNO 10X1 160F-BOTANICAL",
-     "marca": "CREDEAL",
-     "preco": 28.9,
-     "img": "produtos/8254.jpg"
     },
     {
      "cod": 12899,
@@ -5114,13 +5031,6 @@
      "img": "produtos/11276.jpg"
     },
     {
-     "cod": 11314,
-     "nome": "CADERNO CD 80F-BLESSED",
-     "marca": "PAULISTA",
-     "preco": 10.9,
-     "img": "produtos/11314.jpg"
-    },
-    {
      "cod": 12796,
      "nome": "CADERNO CD 80F-COLEG. BRANCA DE NEVE",
      "marca": "TILIBRA",
@@ -5598,38 +5508,38 @@
     },
     {
      "cod": 13165,
-     "nome": "CADERNO COLADO PAPEL CARTA 48F-ALICE IN WONDERLAND",
+     "nome": "CADERNO COLADO PAPEL CARTA-ALICE IN WONDERLAND",
      "marca": "SD",
-     "preco": 18.9,
+     "preco": 0.5,
      "img": "produtos/13165.jpg"
     },
     {
      "cod": 12972,
-     "nome": "CADERNO COLADO PAPEL CARTA 48F-MORANGUINHO",
+     "nome": "CADERNO COLADO PAPEL CARTA-MORANGUINHO",
      "marca": "SD",
-     "preco": 18.9,
+     "preco": 0.5,
      "img": "produtos/12972.jpg"
     },
     {
+     "cod": 12758,
+     "nome": "CADERNO COLADO PAPEL CARTA-POOH",
+     "marca": "TILIBRA",
+     "preco": 0.5,
+     "img": "produtos/12758.jpg"
+    },
+    {
      "cod": 13111,
-     "nome": "CADERNO COLADO PAPEL CARTA 48F-PRINCESAS",
+     "nome": "CADERNO COLADO PAPEL CARTA-PRINCESAS",
      "marca": "SD",
-     "preco": 18.9,
+     "preco": 0.5,
      "img": "produtos/13111.jpg"
     },
     {
      "cod": 12970,
-     "nome": "CADERNO COLADO PAPEL CARTA 48F-URSINHOS CARINHOSOS",
+     "nome": "CADERNO COLADO PAPEL CARTA-URSINHOS CARINHOSOS",
      "marca": "SD",
-     "preco": 18.9,
+     "preco": 0.5,
      "img": "produtos/12970.jpg"
-    },
-    {
-     "cod": 12758,
-     "nome": "CADERNO COLADO PAPEL CARTA 50F-POOH",
-     "marca": "TILIBRA",
-     "preco": 17.9,
-     "img": "produtos/12758.jpg"
     },
     {
      "cod": 12904,
@@ -6398,20 +6308,6 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/12234.jpg"
-    },
-    {
-     "cod": 2575,
-     "nome": "PRENDEDOR PAPEL 51MM",
-     "marca": "JOCAR/CIS",
-     "preco": 4.9,
-     "img": "produtos/2575.jpg"
-    },
-    {
-     "cod": 9655,
-     "nome": "PRENDEDOR TIPO PRANCHETA METAL-CAVIA",
-     "marca": "CAVIA",
-     "preco": 6.9,
-     "img": "produtos/9655.jpg"
     }
    ]
   },
@@ -6481,13 +6377,6 @@
      "marca": "MOURE JAR",
      "preco": 21.9,
      "img": "produtos/13845.jpg"
-    },
-    {
-     "cod": 3283,
-     "nome": "CALCULADORA (M) MJ-837B (PILHA) (12 DIG)",
-     "marca": "MOURE JAR",
-     "preco": 25.9,
-     "img": "produtos/3283.jpg"
     },
     {
      "cod": 6914,
@@ -6718,13 +6607,6 @@
      "marca": "ACRILEX",
      "preco": 5.5,
      "img": "produtos/831.jpg"
-    },
-    {
-     "cod": 11624,
-     "nome": "COLA EVA E ISOPOR 40G-MARIPEL",
-     "marca": "MARIPEL",
-     "preco": 4.5,
-     "img": "produtos/11624.jpg"
     },
     {
      "cod": 11625,
@@ -7177,6 +7059,13 @@
      ]
     },
     {
+     "cod": 3434,
+     "nome": "FITA DEMARCAÇAO 48X15M-AZUL (TEKBOND)",
+     "marca": "TEKBOND",
+     "preco": 24.9,
+     "img": "produtos/3434.jpg"
+    },
+    {
      "cod": 1019,
      "nome": "FITA DUPLA FACE 12X30MT",
      "marca": "ADELBRAS",
@@ -7189,6 +7078,13 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg"
+    },
+    {
+     "cod": 6521,
+     "nome": "FITA ISOLANTE PRETA FOXLUX 19X10MT",
+     "marca": "FOXLUX",
+     "preco": 4.9,
+     "img": "produtos/6521.jpg"
     },
     {
      "cod": 11717,
@@ -7279,6 +7175,13 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg"
+    },
+    {
+     "cod": 1519,
+     "nome": "GRAMPEADOR JOCAR 13CM P/25F",
+     "marca": "JOCAR",
+     "preco": 22.9,
+     "img": "produtos/1519.jpg"
     },
     {
      "cod": 1520,
@@ -7629,13 +7532,6 @@
      "img": "produtos/10030.jpg"
     },
     {
-     "cod": 11417,
-     "nome": "REGUA 30CM REFORÇ. VERDE-MAXCRIL",
-     "marca": "MAXCRIL",
-     "preco": 2.9,
-     "img": "produtos/11417.jpg"
-    },
-    {
      "cod": 2642,
      "nome": "REGUA 30CM SIMPLES-MAXCRIL",
      "marca": "MAXCRIL",
@@ -7871,13 +7767,6 @@
    "nome": "Grampo",
    "itens": [
     {
-     "cod": 9449,
-     "nome": "COLCHETE 10 C/72",
-     "marca": "CHAPARRAU",
-     "preco": 16.9,
-     "img": "produtos/9449.jpg"
-    },
-    {
      "cod": 8040,
      "nome": "COLCHETE 13 C/72",
      "marca": "",
@@ -7890,13 +7779,6 @@
      "marca": "CHAPARRAU",
      "preco": 13.9,
      "img": "produtos/874.jpg"
-    },
-    {
-     "cod": 8039,
-     "nome": "COLCHETE 9 C/72",
-     "marca": "CHAPARRAU",
-     "preco": 15.9,
-     "img": "produtos/8039.jpg"
     },
     {
      "cod": 14260,
@@ -7918,13 +7800,6 @@
      "marca": "ACC",
      "preco": 33.9,
      "img": "produtos/1532.jpg"
-    },
-    {
-     "cod": 3476,
-     "nome": "GRAMPO 23/13 C/1000",
-     "marca": "",
-     "preco": 9.9,
-     "img": "produtos/3476.jpg"
     },
     {
      "cod": 10248,
@@ -7962,6 +7837,13 @@
      "img": "produtos/1538.jpg"
     },
     {
+     "cod": 9505,
+     "nome": "GRAMPO 26/6 C/5000-JOCAR (GALVANIZADO)",
+     "marca": "JOCAR",
+     "preco": 4.5,
+     "img": "produtos/9505.jpg"
+    },
+    {
      "cod": 6612,
      "nome": "GRAMPO 26/6 C/5000-MASTERPRINT (GALVANIZADO)",
      "marca": "MASTERPRIN",
@@ -7997,11 +7879,11 @@
      "img": "produtos/12117.jpg"
     },
     {
-     "cod": 1543,
-     "nome": "GRAMPO 9/14-23/13 C/5000-ACC",
+     "cod": 1540,
+     "nome": "GRAMPO 9/10-23/10 C/5000-ACC",
      "marca": "ACC",
-     "preco": 54.9,
-     "img": "produtos/1543.jpg"
+     "preco": 46.9,
+     "img": "produtos/1540.jpg"
     },
     {
      "cod": 1545,
@@ -8225,6 +8107,13 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg"
+    },
+    {
+     "cod": 2604,
+     "nome": "BLOCO RECIBO S/C TILIBRA C/50FL",
+     "marca": "TILIBRA",
+     "preco": 2.5,
+     "img": "produtos/2604.jpg"
     },
     {
      "cod": 4508,
@@ -8801,6 +8690,12 @@
        "img": "produtos/7894.jpg"
       },
       {
+       "cod": 2079,
+       "cor": "Verde Bandeira",
+       "nome": "CREPOM VERDE BANDEIRA",
+       "img": "produtos/2079.jpg"
+      },
+      {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
@@ -9092,13 +8987,6 @@
      "img": "produtos/2099.jpg"
     },
     {
-     "cod": 2100,
-     "nome": "PAPEL FOTO A4-180GR C/50-MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 29.9,
-     "img": "produtos/2100.jpg"
-    },
-    {
      "cod": 4344,
      "nome": "PAPEL FOTO A4-230GR C/20-MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -9160,6 +9048,13 @@
      "marca": "CHAMEX",
      "preco": 28.0,
      "img": "produtos/2130.jpg"
+    },
+    {
+     "cod": 3583,
+     "nome": "PAPEL PARANA N.80 100X80CM",
+     "marca": "SANTECK",
+     "preco": 13.9,
+     "img": "produtos/3583.jpg"
     },
     {
      "cod": 2133,
@@ -9420,13 +9315,6 @@
      "img": "produtos/14006.jpg"
     },
     {
-     "cod": 6700,
-     "nome": "QUADRO BRANCO 1,20X90 (AL) SOUZA",
-     "marca": "SOUZA",
-     "preco": 139.9,
-     "img": "produtos/6700.jpg"
-    },
-    {
      "cod": 2583,
      "nome": "QUADRO BRANCO 100X70 (AL) STALO",
      "marca": "STALO",
@@ -9545,13 +9433,6 @@
      "img": "produtos/5395.jpg"
     },
     {
-     "cod": 3017,
-     "nome": "GUACHE 15ML C/12-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 14.9,
-     "img": "produtos/3017.jpg"
-    },
-    {
      "cod": 12754,
      "nome": "GUACHE 15ML C/12-DACART",
      "marca": "DACART",
@@ -9564,13 +9445,6 @@
      "marca": "MARIPEL",
      "preco": 11.9,
      "img": "produtos/11627.jpg"
-    },
-    {
-     "cod": 7683,
-     "nome": "GUACHE 15ML C/6 NEON-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 16.9,
-     "img": "produtos/7683.jpg"
     },
     {
      "cod": 3018,
@@ -10030,13 +9904,6 @@
      "img": "produtos/4718.jpg"
     },
     {
-     "cod": 4716,
-     "nome": "SPRAY MARROM 400ML",
-     "marca": "COLORE",
-     "preco": 24.9,
-     "img": "produtos/4716.jpg"
-    },
-    {
      "cod": 8786,
      "nome": "SPRAY OURO METALICO 400ML",
      "marca": "COLORE",
@@ -10328,25 +10195,11 @@
      "img": "produtos/9700.jpg"
     },
     {
-     "cod": 2989,
-     "nome": "TINTA P.Q.BRC LITRO RADEX",
+     "cod": 3725,
+     "nome": "TINTA P.Q.BRC LITRO RADEX-VERMELHA",
      "marca": "RADEX",
      "preco": 249.9,
-     "img": "produtos/2989.jpg",
-     "cores": [
-      {
-       "cod": 2989,
-       "cor": "Preta",
-       "nome": "TINTA P.Q.BRC LITRO RADEX-PRETA",
-       "img": "produtos/2989.jpg"
-      },
-      {
-       "cod": 3725,
-       "cor": "Vermelha",
-       "nome": "TINTA P.Q.BRC LITRO RADEX-VERMELHA",
-       "img": "produtos/3725.jpg"
-      }
-     ]
+     "img": "produtos/3725.jpg"
     },
     {
      "cod": 9408,
@@ -10960,18 +10813,18 @@
      "img": "produtos/170.jpg"
     },
     {
+     "cod": 171,
+     "nome": "BANDEJA ACR 3 AND-CRISTAL MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 79.9,
+     "img": "produtos/171.jpg"
+    },
+    {
      "cod": 11715,
      "nome": "BANDEJA ARAMADA 2 AND-PRETA",
      "marca": "BRW",
      "preco": 109.9,
      "img": "produtos/11715.jpg"
-    },
-    {
-     "cod": 3257,
-     "nome": "CAIXA CAMISA POLIBRAS-VERMELHA",
-     "marca": "POLIBRAS",
-     "preco": 32.9,
-     "img": "produtos/3257.jpg"
     },
     {
      "cod": 10723,
@@ -11565,6 +11418,13 @@
      "img": "produtos/7334.jpg"
     },
     {
+     "cod": 4265,
+     "nome": "PRANCHETA EUCATEX OF. MARROM",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/4265.jpg"
+    },
+    {
      "cod": 7644,
      "nome": "RELOGIO PAREDE 20CM REDONDO PRA/PRE",
      "marca": "YANGZI",
@@ -11909,13 +11769,6 @@
      "img": "produtos/6196.jpg"
     },
     {
-     "cod": 6951,
-     "nome": "PASTA CATALOGO PRETA C/30",
-     "marca": "",
-     "preco": 21.9,
-     "img": "produtos/6951.jpg"
-    },
-    {
      "cod": 6195,
      "nome": "PASTA CATALOGO PRETA C/50",
      "marca": "ACP",
@@ -11982,13 +11835,6 @@
      "marca": "PLASCONY",
      "preco": 21.9,
      "img": "produtos/12930.jpg"
-    },
-    {
-     "cod": 14200,
-     "nome": "PASTA CATALOGO TRANSP. C/50",
-     "marca": "PLASCONY",
-     "preco": 35.9,
-     "img": "produtos/14200.jpg"
     },
     {
      "cod": 14199,
@@ -12795,7 +12641,7 @@
      "cod": 2277,
      "nome": "PASTA SUSPENSA C/10 C/PL MARM (0.35)",
      "marca": "",
-     "preco": 57.9,
+     "preco": 61.9,
      "img": "produtos/2277.jpg"
     },
     {
@@ -13407,6 +13253,12 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg"
+      },
+      {
+       "cod": 7675,
+       "cor": "Verde Escuro",
+       "nome": "EVA LISO-VERDE ESCURO",
+       "img": "produtos/7675.jpg"
       },
       {
        "cod": 1244,
@@ -14354,13 +14206,6 @@
      "img": "produtos/8279.jpg"
     },
     {
-     "cod": 13444,
-     "nome": "ESTOJO LUXCEL 1F-UP4YOU PRETO (ET49665UP-PT)",
-     "marca": "LUXCEL",
-     "preco": 73.9,
-     "img": "produtos/13444.jpg"
-    },
-    {
      "cod": 13445,
      "nome": "ESTOJO LUXCEL 1F-UP4YOU ROXO (ET49665UP-RX)",
      "marca": "LUXCEL",
@@ -14436,13 +14281,6 @@
      "marca": "LUXCEL",
      "preco": 69.9,
      "img": "produtos/13428.jpg"
-    },
-    {
-     "cod": 13588,
-     "nome": "ESTOJO LUXCEL 3F-ONE PIECE AZUL (ET49806OP-AZ)",
-     "marca": "LUXCEL",
-     "preco": 69.9,
-     "img": "produtos/13588.jpg"
     },
     {
      "cod": 12422,
@@ -15690,13 +15528,6 @@
      "img": "produtos/11824.jpg"
     },
     {
-     "cod": 218,
-     "nome": "BLOCO RASCUNHO S/PICOTE 77X115 50F",
-     "marca": "ANIMATIVA",
-     "preco": 6.9,
-     "img": "produtos/218.jpg"
-    },
-    {
      "cod": 12244,
      "nome": "MARCADOR PAG BRW (SETA) NEON C/125FL",
      "marca": "BRW",
@@ -16132,13 +15963,6 @@
      "marca": "CULTURAMA",
      "preco": 21.9,
      "img": "produtos/12462.jpg"
-    },
-    {
-     "cod": 12189,
-     "nome": "LIVRO INFANTIL COLORIR-PRINCESAS (365 DESENHOS)",
-     "marca": "CULTURAMA",
-     "preco": 22.9,
-     "img": "produtos/12189.jpg"
     },
     {
      "cod": 13220,
@@ -16842,13 +16666,6 @@
      "img": "produtos/5193.jpg"
     },
     {
-     "cod": 2473,
-     "nome": "PORTA QUADRO HORIZONTAL PEQ. (21X15)",
-     "marca": "ACP",
-     "preco": 3.5,
-     "img": "produtos/2473.jpg"
-    },
-    {
      "cod": 2577,
      "nome": "PRESILHA CRACHA",
      "marca": "",
@@ -16965,13 +16782,6 @@
      "marca": "DAC",
      "preco": 79.9,
      "img": "produtos/12480.jpg"
-    },
-    {
-     "cod": 12482,
-     "nome": "FICHARIO DAC-STITCH 192F",
-     "marca": "DAC",
-     "preco": 169.9,
-     "img": "produtos/12482.jpg"
     },
     {
      "cod": 12479,
@@ -17672,17 +17482,10 @@
      "img": "produtos/943.jpg"
     },
     {
-     "cod": 945,
-     "nome": "COPO 200ML PS C/100-COPOFLEX",
-     "marca": "COPOFLEX",
-     "preco": 4.9,
-     "img": "produtos/945.jpg"
-    },
-    {
      "cod": 944,
      "nome": "COPO 200ML PS C/100-COPOPLAST",
      "marca": "COPOPLAST",
-     "preco": 5.9,
+     "preco": 4.9,
      "img": "produtos/944.jpg"
     },
     {
@@ -17691,6 +17494,13 @@
      "marca": "COPOSUL",
      "preco": 5.5,
      "img": "produtos/9011.jpg"
+    },
+    {
+     "cod": 12141,
+     "nome": "COPO 200ML PS C/100-TEU COPO",
+     "marca": "TEU COPO",
+     "preco": 4.9,
+     "img": "produtos/12141.jpg"
     },
     {
      "cod": 942,
@@ -18112,6 +17922,13 @@
      "img": "produtos/183.jpg"
     },
     {
+     "cod": 9923,
+     "nome": "BOLA ISOPOR 100MM (MACIÇA)",
+     "marca": "ISOMAX",
+     "preco": 5.9,
+     "img": "produtos/9923.jpg"
+    },
+    {
      "cod": 9924,
      "nome": "BOLA ISOPOR 100MM (OCA)",
      "marca": "ISOMAX",
@@ -18273,6 +18090,13 @@
      "img": "produtos/6943.jpg"
     },
     {
+     "cod": 6941,
+     "nome": "CAIXA ISOPOR 12/13 LITROS",
+     "marca": "",
+     "preco": 26.9,
+     "img": "produtos/6941.jpg"
+    },
+    {
      "cod": 6945,
      "nome": "CAIXA ISOPOR 120 LITROS",
      "marca": "ISOMAX",
@@ -18304,7 +18128,7 @@
      "cod": 6942,
      "nome": "CAIXA ISOPOR 26 LITROS",
      "marca": "",
-     "preco": 44.0,
+     "preco": 46.9,
      "img": "produtos/6942.jpg"
     },
     {
@@ -18357,6 +18181,13 @@
      "img": "produtos/6939.jpg"
     },
     {
+     "cod": 7360,
+     "nome": "CAIXA ISOPOR 80 LITROS",
+     "marca": "",
+     "preco": 119.9,
+     "img": "produtos/7360.jpg"
+    },
+    {
      "cod": 7362,
      "nome": "CAIXA ISOPOR VACINA 0,4ML (250GR)",
      "marca": "ISOMAX",
@@ -18397,13 +18228,6 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg"
-    },
-    {
-     "cod": 770,
-     "nome": "CHAPA ISOPOR 20MM (PCT C/12)",
-     "marca": "ISOMAX",
-     "preco": 6.9,
-     "img": "produtos/770.jpg"
     },
     {
      "cod": 772,
@@ -18595,13 +18419,6 @@
      "img": "produtos/1867.jpg"
     },
     {
-     "cod": 6841,
-     "nome": "PT100 COPOPLAST C/100 (FUNDO)",
-     "marca": "COPOPLAST",
-     "preco": 28.9,
-     "img": "produtos/6841.jpg"
-    },
-    {
      "cod": 2937,
      "nome": "PT100/PT102/PT104 COPOBRAS C/100 (TAMPA)",
      "marca": "COPOBRAS",
@@ -18637,13 +18454,6 @@
      "img": "produtos/7352.jpg"
     },
     {
-     "cod": 13985,
-     "nome": "PT104 TOTALPLAST (KIT TAMPA+FUNDO) C/100",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/13985.jpg"
-    },
-    {
      "cod": 3536,
      "nome": "PT300 ULTRA C/50 (FUNDO)",
      "marca": "ULTRA",
@@ -18656,13 +18466,6 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/5821.jpg"
-    },
-    {
-     "cod": 3989,
-     "nome": "PT500 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/3989.jpg"
     },
     {
      "cod": 4129,
@@ -18682,14 +18485,14 @@
      "cod": 4734,
      "nome": "PT500 TOTAL C/50 (FUNDO)",
      "marca": "TOTAPLAST",
-     "preco": 18.9,
+     "preco": 14.9,
      "img": "produtos/4734.jpg"
     },
     {
      "cod": 4733,
      "nome": "PT500 TOTAL C/50 (TAMPA)",
      "marca": "TOTAPLAST",
-     "preco": 11.9,
+     "preco": 9.9,
      "img": "produtos/4733.jpg"
     },
     {
@@ -18748,20 +18551,6 @@
      "img": "produtos/880.jpg"
     },
     {
-     "cod": 11601,
-     "nome": "FACA FORTE C/50",
-     "marca": "",
-     "preco": 7.9,
-     "img": "produtos/11601.jpg"
-    },
-    {
-     "cod": 8466,
-     "nome": "FACA REFEIÇÃO C/50",
-     "marca": "",
-     "preco": 3.9,
-     "img": "produtos/8466.jpg"
-    },
-    {
      "cod": 3466,
      "nome": "GARFINHO PETISCO C/100",
      "marca": "PLASTILAN",
@@ -18800,7 +18589,7 @@
      "cod": 14129,
      "nome": "MEXEDOR CAFE C/500-ULTRA",
      "marca": "ULTRA",
-     "preco": 6.9,
+     "preco": 7.9,
      "img": "produtos/14129.jpg"
     },
     {
@@ -18997,6 +18786,13 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11683.jpg"
+    },
+    {
+     "cod": 11682,
+     "nome": "POTE RETANG. 250ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 16.9,
+     "img": "produtos/11682.jpg"
     },
     {
      "cod": 11691,
@@ -19773,13 +19569,6 @@
      "img": "produtos/481.jpg"
     },
     {
-     "cod": 6987,
-     "nome": "CAIXA SALGADO 40CM C/25",
-     "marca": "ABN",
-     "preco": 87.9,
-     "img": "produtos/6987.jpg"
-    },
-    {
      "cod": 10001,
      "nome": "FORMA PIZZA PAPEL 25 C/25 (ACOPLADA)",
      "marca": "",
@@ -19887,14 +19676,14 @@
      "cod": 13007,
      "nome": "GUARDANAPO SACHE 20X20 C/1000X2",
      "marca": "LIDER",
-     "preco": 89.9,
+     "preco": 69.9,
      "img": "produtos/13007.jpg"
     },
     {
      "cod": 13006,
      "nome": "GUARDANAPO SACHE 20X20 C/500X2",
      "marca": "LIDER",
-     "preco": 46.9,
+     "preco": 35.9,
      "img": "produtos/13006.jpg"
     }
    ]
@@ -20056,13 +19845,6 @@
      "marca": "",
      "preco": 102.9,
      "img": "produtos/1349.jpg"
-    },
-    {
-     "cod": 14192,
-     "nome": "FORMA ALUM D8 (185X275) 1.500ML C/100-PRAVIAGEM",
-     "marca": "PRAVIAGEM",
-     "preco": 177.9,
-     "img": "produtos/14192.jpg"
     },
     {
      "cod": 7818,
@@ -20341,6 +20123,13 @@
      "marca": "",
      "preco": 44.9,
      "img": "produtos/3650.jpg"
+    },
+    {
+     "cod": 2698,
+     "nome": "SACHE CATCHUP C/144X6GR-MAREIA",
+     "marca": "MAREIA",
+     "preco": 13.9,
+     "img": "produtos/2698.jpg"
     },
     {
      "cod": 2699,
@@ -20820,7 +20609,7 @@
      "cod": 2738,
      "nome": "SACO 8X25 C/1000",
      "marca": "KROMASSA",
-     "preco": 24.9,
+     "preco": 17.9,
      "img": "produtos/2738.jpg"
     },
     {
@@ -20913,13 +20702,6 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg"
-    },
-    {
-     "cod": 4947,
-     "nome": "SACO PP 25X35 C/100",
-     "marca": "KROMASA",
-     "preco": 19.9,
-     "img": "produtos/4947.jpg"
     },
     {
      "cod": 4948,
@@ -21545,11 +21327,11 @@
      "img": "produtos/6755.jpg"
     },
     {
-     "cod": 13854,
-     "nome": "BOBINA PICOT. 20X30 C/300-HIPERROLL",
-     "marca": "HIPERROLL",
-     "preco": 11.9,
-     "img": "produtos/13854.jpg"
+     "cod": 14294,
+     "nome": "BOBINA PICOT. 20X30 C/500-EBAO",
+     "marca": "EBAO",
+     "preco": 15.9,
+     "img": "produtos/14294.jpg"
     },
     {
      "cod": 251,
@@ -21592,6 +21374,13 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg"
+    },
+    {
+     "cod": 14295,
+     "nome": "BOBINA PICOT. 35X45 C/500-EBAO",
+     "marca": "EBAO",
+     "preco": 36.9,
+     "img": "produtos/14295.jpg"
     },
     {
      "cod": 6965,
@@ -22059,13 +21848,6 @@
    "nome": "Sacos de Papel e Kraft",
    "itens": [
     {
-     "cod": 7134,
-     "nome": "SACO (ESPETO) TERMICO C/50",
-     "marca": "CHIARA",
-     "preco": 32.9,
-     "img": "produtos/7134.jpg"
-    },
-    {
      "cod": 2703,
      "nome": "SACO (FRANGO) TERMICO C/50",
      "marca": "CHIARA",
@@ -22497,6 +22279,13 @@
      "marca": "SAO ROQUE",
      "preco": 10.9,
      "img": "produtos/5142.jpg"
+    },
+    {
+     "cod": 109,
+     "nome": "BALAO LISO ROSA C/50 Nº6,5",
+     "marca": "IDEATEX",
+     "preco": 7.9,
+     "img": "produtos/109.jpg"
     },
     {
      "cod": 5143,
@@ -23156,18 +22945,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 2942,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "GRESPAN",
-     "preco": 1.0,
-     "img": "produtos/2942.jpg"
-    },
-    {
      "cod": 9218,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "CROMUS",
      "preco": 2.0,
      "img": "produtos/9218.jpg"
+    },
+    {
+     "cod": 2942,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "GRESPAN",
+     "preco": 1.0,
+     "img": "produtos/2942.jpg"
     },
     {
      "cod": 2944,
@@ -23470,20 +23259,6 @@
      "img": "produtos/13583.jpg"
     },
     {
-     "cod": 8075,
-     "nome": "CAIXA PRES. (P) DOURADA (14,5X19X7,5) (FUND MARROM)",
-     "marca": "CRISTINA",
-     "preco": 9.9,
-     "img": "produtos/8075.jpg"
-    },
-    {
-     "cod": 11993,
-     "nome": "CAIXA PRES. (P) DOURADA (14,5X19X7,5) (FUND PRETO)",
-     "marca": "CRISTINA",
-     "preco": 9.9,
-     "img": "produtos/11993.jpg"
-    },
-    {
      "cod": 11989,
      "nome": "CAIXA PRES. (P) FESTA (14,5X19X7,5)",
      "marca": "CRISTINA",
@@ -23768,6 +23543,13 @@
      "marca": "PRIMUS",
      "preco": 31.9,
      "img": "produtos/1166.jpg"
+    },
+    {
+     "cod": 11419,
+     "nome": "ETIQUETA PREÇO (G) 60X40 C/750 UNID",
+     "marca": "MULTIUSO",
+     "preco": 12.9,
+     "img": "produtos/11419.jpg"
     },
     {
      "cod": 6468,
@@ -24402,6 +24184,13 @@
      "img": "produtos/9014.jpg"
     },
     {
+     "cod": 8296,
+     "nome": "LUVA VINIL-M C/100 SEM PO",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/8296.jpg"
+    },
+    {
      "cod": 10989,
      "nome": "LUVA VINIL-P C/100 SEM PO",
      "marca": "",
@@ -24435,6 +24224,13 @@
    "slug": "papel-higienico-toalha",
    "nome": "Papel Higiênico e Toalha",
    "itens": [
+    {
+     "cod": 11852,
+     "nome": "LENCOL MACA 70X50M BRC-100%CELULOSE",
+     "marca": "",
+     "preco": 28.9,
+     "img": "produtos/11852.jpg"
+    },
     {
      "cod": 7015,
      "nome": "PAPEL HIG.(ROLAO) 8X170M-SLIM PAPER",
@@ -24532,13 +24328,6 @@
      "marca": "INTERFORTY",
      "preco": 21.9,
      "img": "produtos/2152.jpg"
-    },
-    {
-     "cod": 2153,
-     "nome": "PAPEL TOALHA BRC C/1000 LUXO-INTERFORTY(VERMELHO)",
-     "marca": "INTERFORTY",
-     "preco": 19.9,
-     "img": "produtos/2153.jpg"
     },
     {
      "cod": 6529,
@@ -24684,13 +24473,6 @@
      "marca": "PREMISSE",
      "preco": 4.9,
      "img": "produtos/9802.jpg"
-    },
-    {
-     "cod": 7120,
-     "nome": "PORTA COPO 200ML-ESMALTADO",
-     "marca": "AURIMAR",
-     "preco": 43.9,
-     "img": "produtos/7120.jpg"
     },
     {
      "cod": 2444,
@@ -25129,32 +24911,11 @@
      "img": "produtos/10514.jpg"
     },
     {
-     "cod": 10518,
-     "nome": "APONTADOR CIS C/D 415 (1F)-AZUL CLARO PASTEL",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/10518.jpg"
-    },
-    {
-     "cod": 10786,
-     "nome": "APONTADOR CIS C/D MINI",
+     "cod": 10788,
+     "nome": "APONTADOR CIS C/D MINI-ROSA",
      "marca": "LEO E LEO",
      "preco": 1.2,
-     "img": "produtos/10786.jpg",
-     "cores": [
-      {
-       "cod": 10786,
-       "cor": "Azul",
-       "nome": "APONTADOR CIS C/D MINI-AZUL",
-       "img": "produtos/10786.jpg"
-      },
-      {
-       "cod": 10788,
-       "cor": "Rosa",
-       "nome": "APONTADOR CIS C/D MINI-ROSA",
-       "img": "produtos/10788.jpg"
-      }
-     ]
+     "img": "produtos/10788.jpg"
     },
     {
      "cod": 10647,
@@ -25189,34 +24950,6 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/4811.jpg"
-    },
-    {
-     "cod": 7093,
-     "nome": "APONTADOR CIS S/D RETANGULAR",
-     "marca": "CIS",
-     "preco": 0.65,
-     "img": "produtos/7093.jpg",
-     "cores": [
-      {
-       "cod": 7093,
-       "cor": "Rosa",
-       "nome": "APONTADOR CIS S/D RETANGULAR-ROSA",
-       "img": "produtos/7093.jpg"
-      },
-      {
-       "cod": 7094,
-       "cor": "Roxo",
-       "nome": "APONTADOR CIS S/D RETANGULAR-ROXO",
-       "img": "produtos/7094.jpg"
-      }
-     ]
-    },
-    {
-     "cod": 11864,
-     "nome": "APONTADOR E BORRACHA BRW C/D XTREME",
-     "marca": "BRW",
-     "preco": 6.9,
-     "img": "produtos/11864.jpg"
     },
     {
      "cod": 13031,
@@ -25302,18 +25035,12 @@
      ]
     },
     {
-     "cod": 3145,
+     "cod": 3146,
      "nome": "APONTADOR FABER C/D TRADIC.NEON",
      "marca": "FABER",
      "preco": 6.5,
-     "img": "produtos/3145.jpg",
+     "img": "produtos/3146.jpg",
      "cores": [
-      {
-       "cod": 3145,
-       "cor": "Amarelo",
-       "nome": "APONTADOR FABER C/D TRADIC.NEON-AMARELO",
-       "img": "produtos/3145.jpg"
-      },
       {
        "cod": 3146,
        "cor": "Laranja",
@@ -25336,25 +25063,11 @@
      "img": "produtos/5216.jpg"
     },
     {
-     "cod": 3154,
-     "nome": "APONTADOR FABER C/D TRIANGULAR",
+     "cod": 3155,
+     "nome": "APONTADOR FABER C/D TRIANGULAR-VERDE",
      "marca": "FABER",
      "preco": 4.5,
-     "img": "produtos/3154.jpg",
-     "cores": [
-      {
-       "cod": 3154,
-       "cor": "Rosa",
-       "nome": "APONTADOR FABER C/D TRIANGULAR-ROSA",
-       "img": "produtos/3154.jpg"
-      },
-      {
-       "cod": 3155,
-       "cor": "Verde",
-       "nome": "APONTADOR FABER C/D TRIANGULAR-VERDE",
-       "img": "produtos/3155.jpg"
-      }
-     ]
+     "img": "produtos/3155.jpg"
     },
     {
      "cod": 53,
@@ -25413,18 +25126,12 @@
      ]
     },
     {
-     "cod": 3173,
+     "cod": 3174,
      "nome": "APONTADOR FABER S/D",
      "marca": "FABER",
      "preco": 1.8,
-     "img": "produtos/3173.jpg",
+     "img": "produtos/3174.jpg",
      "cores": [
-      {
-       "cod": 3173,
-       "cor": "Preto",
-       "nome": "APONTADOR FABER S/D-PRETO",
-       "img": "produtos/3173.jpg"
-      },
       {
        "cod": 3174,
        "cor": "Rosa",
@@ -25468,24 +25175,10 @@
     },
     {
      "cod": 5236,
-     "nome": "APONTADOR LEO C/D BLOCO 40",
+     "nome": "APONTADOR LEO C/D BLOCO 40-ROXO",
      "marca": "LEO E LEO",
      "preco": 0.8,
-     "img": "produtos/5236.jpg",
-     "cores": [
-      {
-       "cod": 5236,
-       "cor": "Roxo",
-       "nome": "APONTADOR LEO C/D BLOCO 40-ROXO",
-       "img": "produtos/5236.jpg"
-      },
-      {
-       "cod": 5237,
-       "cor": "Verde",
-       "nome": "APONTADOR LEO C/D BLOCO 40-VERDE",
-       "img": "produtos/5237.jpg"
-      }
-     ]
+     "img": "produtos/5236.jpg"
     },
     {
      "cod": 7587,
@@ -25538,13 +25231,6 @@
      "marca": "LEO E LEO",
      "preco": 2.5,
      "img": "produtos/4370.jpg"
-    },
-    {
-     "cod": 3163,
-     "nome": "APONTADOR LEO C/D JUMBO-ROSA (CESTINHA)",
-     "marca": "LEO E LEO",
-     "preco": 3.5,
-     "img": "produtos/3163.jpg"
     },
     {
      "cod": 7545,
@@ -25626,27 +25312,6 @@
      "img": "produtos/11562.jpg"
     },
     {
-     "cod": 11583,
-     "nome": "APONTADOR MAPED C/D 1F-CANHOTO",
-     "marca": "MAPED",
-     "preco": 4.9,
-     "img": "produtos/11583.jpg",
-     "cores": [
-      {
-       "cod": 11583,
-       "cor": "Amarelo",
-       "nome": "APONTADOR MAPED C/D 1F-CANHOTO AMARELO",
-       "img": "produtos/11583.jpg"
-      },
-      {
-       "cod": 11584,
-       "cor": "Rosa",
-       "nome": "APONTADOR MAPED C/D 1F-CANHOTO ROSA",
-       "img": "produtos/11584.jpg"
-      }
-     ]
-    },
-    {
      "cod": 13687,
      "nome": "APONTADOR MAPED C/D 1F-KIDY LEARN",
      "marca": "MAPED",
@@ -25687,13 +25352,6 @@
      "marca": "MAPED",
      "preco": 3.9,
      "img": "produtos/7886.jpg"
-    },
-    {
-     "cod": 7960,
-     "nome": "APONTADOR MAPED C/D+BORR 2F-LILAS PASTEL",
-     "marca": "MAPED",
-     "preco": 11.9,
-     "img": "produtos/7960.jpg"
     },
     {
      "cod": 7954,
@@ -25791,13 +25449,6 @@
      "marca": "MOLIN",
      "preco": 19.9,
      "img": "produtos/12317.jpg"
-    },
-    {
-     "cod": 12307,
-     "nome": "APONTADOR MOLIN C/D+BORR 1F-STITCH",
-     "marca": "MOLIN",
-     "preco": 28.9,
-     "img": "produtos/12307.jpg"
     },
     {
      "cod": 13130,
@@ -26122,13 +25773,6 @@
      "img": "produtos/11517.jpg"
     },
     {
-     "cod": 11858,
-     "nome": "MARCA TEXTO BRW APAGAVEL-CORES",
-     "marca": "BRW",
-     "preco": 6.9,
-     "img": "produtos/11858.jpg"
-    },
-    {
      "cod": 12241,
      "nome": "MARCA TEXTO BRW GEL",
      "marca": "BRW",
@@ -26388,13 +26032,6 @@
      ]
     },
     {
-     "cod": 8516,
-     "nome": "MARCA TEXTO LEO E LEO APAGAVEL C/4",
-     "marca": "LEO E LEO",
-     "preco": 19.9,
-     "img": "produtos/8516.jpg"
-    },
-    {
      "cod": 8500,
      "nome": "MARCA TEXTO LUNIX",
      "marca": "TILIBRA",
@@ -26474,12 +26111,6 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg"
-      },
-      {
-       "cod": 6054,
-       "cor": "Verde",
-       "nome": "MARCA TEXTO MASTERPRINT-VERDE",
-       "img": "produtos/6054.jpg"
       },
       {
        "cod": 6637,
@@ -26736,6 +26367,13 @@
      "img": "produtos/7614.jpg"
     },
     {
+     "cod": 7633,
+     "nome": "CONTACT DECORADO-ARABESCO VITRAL",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7633.jpg"
+    },
+    {
      "cod": 7628,
      "nome": "CONTACT DECORADO-ARCOS",
      "marca": "LEOTACK",
@@ -26743,11 +26381,53 @@
      "img": "produtos/7628.jpg"
     },
     {
+     "cod": 7623,
+     "nome": "CONTACT DECORADO-AZULEJO 03",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7623.jpg"
+    },
+    {
      "cod": 7631,
      "nome": "CONTACT DECORADO-AZULEJO ROSA",
      "marca": "LEOTACK",
      "preco": 6.9,
      "img": "produtos/7631.jpg"
+    },
+    {
+     "cod": 7618,
+     "nome": "CONTACT DECORADO-CIMENTO QUEIMADO",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7618.jpg"
+    },
+    {
+     "cod": 6555,
+     "nome": "CONTACT DECORADO-FANTASIA CIRCO",
+     "marca": "LENORA",
+     "preco": 6.9,
+     "img": "produtos/6555.jpg"
+    },
+    {
+     "cod": 7606,
+     "nome": "CONTACT DECORADO-FLORAL 03",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7606.jpg"
+    },
+    {
+     "cod": 7620,
+     "nome": "CONTACT DECORADO-FLORAL 04",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7620.jpg"
+    },
+    {
+     "cod": 7635,
+     "nome": "CONTACT DECORADO-FLORAL 06",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7635.jpg"
     },
     {
      "cod": 892,
@@ -26764,6 +26444,20 @@
      "img": "produtos/7607.jpg"
     },
     {
+     "cod": 7630,
+     "nome": "CONTACT DECORADO-LIRIO",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7630.jpg"
+    },
+    {
+     "cod": 7604,
+     "nome": "CONTACT DECORADO-MANDALA",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7604.jpg"
+    },
+    {
      "cod": 7619,
      "nome": "CONTACT DECORADO-PEDRA 02",
      "marca": "LEOTACK",
@@ -26778,11 +26472,38 @@
      "img": "produtos/7616.jpg"
     },
     {
-     "cod": 7626,
-     "nome": "CONTACT GLITER-PRATA",
+     "cod": 7632,
+     "nome": "CONTACT DECORADO-TROPICAL (FRUTAS)",
+     "marca": "LEOTACK",
+     "preco": 6.9,
+     "img": "produtos/7632.jpg"
+    },
+    {
+     "cod": 7627,
+     "nome": "CONTACT GLITER",
      "marca": "LEOTACK",
      "preco": 12.9,
-     "img": "produtos/7626.jpg"
+     "img": "produtos/7627.jpg",
+     "cores": [
+      {
+       "cod": 7627,
+       "cor": "Dourado",
+       "nome": "CONTACT GLITER-DOURADO",
+       "img": "produtos/7627.jpg"
+      },
+      {
+       "cod": 7626,
+       "cor": "Prata",
+       "nome": "CONTACT GLITER-PRATA",
+       "img": "produtos/7626.jpg"
+      },
+      {
+       "cod": 4938,
+       "cor": "Rosa Claro",
+       "nome": "CONTACT GLITER-ROSA CLARO",
+       "img": "produtos/4938.jpg"
+      }
+     ]
     },
     {
      "cod": 916,
@@ -26856,11 +26577,60 @@
      "img": "produtos/922.jpg"
     },
     {
+     "cod": 6558,
+     "nome": "CONTACT MADEIRA-IMBUIA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/6558.jpg"
+    },
+    {
+     "cod": 926,
+     "nome": "CONTACT MADEIRA-JACARANDA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/926.jpg"
+    },
+    {
+     "cod": 927,
+     "nome": "CONTACT MADEIRA-MOGNO",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/927.jpg"
+    },
+    {
+     "cod": 7612,
+     "nome": "CONTACT MADEIRA-PAU ROSA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7612.jpg"
+    },
+    {
+     "cod": 7613,
+     "nome": "CONTACT MADEIRA-PEROBA ROSA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7613.jpg"
+    },
+    {
      "cod": 7622,
      "nome": "CONTACT MADEIRA-RIPA PRETA",
      "marca": "LEOTACK",
      "preco": 15.9,
      "img": "produtos/7622.jpg"
+    },
+    {
+     "cod": 7615,
+     "nome": "CONTACT MADEIRA-RIPA RUSTICA",
+     "marca": "LEOTACK",
+     "preco": 15.9,
+     "img": "produtos/7615.jpg"
+    },
+    {
+     "cod": 928,
+     "nome": "CONTACT MADEIRA-VINHATICO",
+     "marca": "",
+     "preco": 15.9,
+     "img": "produtos/928.jpg"
     },
     {
      "cod": 933,
@@ -26963,25 +26733,11 @@
  ],
  "destaques": [
   {
-   "cod": 6719,
-   "nome": "MOUSE USB SEM FIO MAXPRINT COD60000139",
-   "marca": "MAXPRINT",
-   "preco": 36.9,
-   "img": "produtos/6719.jpg"
-  },
-  {
    "cod": 1363,
    "nome": "FORMA S20/SP20/ECO20 C/100",
    "marca": "",
    "preco": 69.9,
    "img": "produtos/1363.jpg"
-  },
-  {
-   "cod": 945,
-   "nome": "COPO 200ML PS C/100-COPOFLEX",
-   "marca": "COPOFLEX",
-   "preco": 4.9,
-   "img": "produtos/945.jpg"
   },
   {
    "cod": 2491,
