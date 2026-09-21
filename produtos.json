@@ -24330,6 +24330,20 @@
      "img": "produtos/2152.jpg"
     },
     {
+     "cod": 2153,
+     "nome": "PAPEL TOALHA BRC C/1000 LUXO-INTERFORTY(VERMELHO)",
+     "marca": "INTERFORTY",
+     "preco": 19.9,
+     "img": "produtos/2153.jpg"
+    },
+    {
+     "cod": 2151,
+     "nome": "PAPEL TOALHA BRC C/1000-COMUM INTERFORTY(AZUL)",
+     "marca": "INTERFORTY",
+     "preco": 15.9,
+     "img": "produtos/2151.jpg"
+    },
+    {
      "cod": 6529,
      "nome": "PAPEL TOALHA BRC C/800 COMUM-SLIM PAPER",
      "marca": "SLIM PAPER",
@@ -24356,6 +24370,13 @@
      "marca": "INTERFORTY",
      "preco": 119.9,
      "img": "produtos/2157.jpg"
+    },
+    {
+     "cod": 2156,
+     "nome": "TOALHA ROLO 6X200M BRC-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 102.9,
+     "img": "produtos/2156.jpg"
     },
     {
      "cod": 7484,
