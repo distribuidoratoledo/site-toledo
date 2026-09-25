@@ -22986,18 +22986,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 9218,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "CROMUS",
-     "preco": 2.0,
-     "img": "produtos/9218.jpg"
-    },
-    {
      "cod": 2942,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "GRESPAN",
      "preco": 1.0,
      "img": "produtos/2942.jpg"
+    },
+    {
+     "cod": 9218,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "CROMUS",
+     "preco": 2.0,
+     "img": "produtos/9218.jpg"
     },
     {
      "cod": 2944,
