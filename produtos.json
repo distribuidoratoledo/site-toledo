@@ -930,25 +930,11 @@
      "img": "produtos/598.jpg"
     },
     {
-     "cod": 599,
-     "nome": "CANETA PILOT BP-1",
+     "cod": 601,
+     "nome": "CANETA PILOT BP-1-VERMELHA",
      "marca": "PILOT",
      "preco": 4.9,
-     "img": "produtos/599.jpg",
-     "cores": [
-      {
-       "cod": 599,
-       "cor": "Azul",
-       "nome": "CANETA PILOT BP-1-AZUL",
-       "img": "produtos/599.jpg"
-      },
-      {
-       "cod": 601,
-       "cor": "Vermelha",
-       "nome": "CANETA PILOT BP-1-VERMELHA",
-       "img": "produtos/601.jpg"
-      }
-     ]
+     "img": "produtos/601.jpg"
     },
     {
      "cod": 602,
@@ -2510,12 +2496,6 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
        "img": "produtos/11855.jpg"
-      },
-      {
-       "cod": 11856,
-       "cor": "Vermelho",
-       "nome": "PINCEL Q.BRC RECAR. BRW-VERMELHO",
-       "img": "produtos/11856.jpg"
       }
      ]
     },
@@ -2624,6 +2604,13 @@
      "marca": "SHARPIE",
      "preco": 8.5,
      "img": "produtos/2360.jpg"
+    },
+    {
+     "cod": 2429,
+     "nome": "PONTA PINCEL QUADRO BRC C/3",
+     "marca": "PILOT",
+     "preco": 10.9,
+     "img": "produtos/2429.jpg"
     },
     {
      "cod": 2624,
@@ -2839,13 +2826,6 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4555.jpg"
-    },
-    {
-     "cod": 1694,
-     "nome": "LAPISEIRA 0.5-FABER POLY TRI SHAPE",
-     "marca": "FABER",
-     "preco": 9.9,
-     "img": "produtos/1694.jpg"
     },
     {
      "cod": 7037,
@@ -3209,6 +3189,153 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/13812.jpg"
+    },
+    {
+     "cod": 7110,
+     "nome": "AGENDA 2027 TILIBRA COST. FEMININE 112FLS",
+     "marca": "TILIBRA",
+     "preco": 26.9,
+     "img": "produtos/7110.jpg"
+    },
+    {
+     "cod": 14280,
+     "nome": "AGENDA 2027 TILIBRA COST. MILANO CORES 176F",
+     "marca": "TILIBRA",
+     "preco": 45.9,
+     "img": "produtos/14280.jpg"
+    },
+    {
+     "cod": 14271,
+     "nome": "AGENDA 2027 TILIBRA COST. NAPOLI PRETA 192F",
+     "marca": "TILIBRA",
+     "preco": 68.9,
+     "img": "produtos/14271.jpg"
+    },
+    {
+     "cod": 7114,
+     "nome": "AGENDA 2027 TILIBRA COST. NAPOLI ROSA 176F",
+     "marca": "TILIBRA",
+     "preco": 45.9,
+     "img": "produtos/7114.jpg"
+    },
+    {
+     "cod": 6215,
+     "nome": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/6215.jpg"
+    },
+    {
+     "cod": 14272,
+     "nome": "AGENDA 2027 TILIBRA COST. SONIC 96 FLS",
+     "marca": "TILIBRA",
+     "preco": 28.9,
+     "img": "produtos/14272.jpg"
+    },
+    {
+     "cod": 7929,
+     "nome": "AGENDA 2027 TILIBRA ESP. (FEM) SPOT GRD 200F",
+     "marca": "TILIBRA",
+     "preco": 89.9,
+     "img": "produtos/7929.jpg"
+    },
+    {
+     "cod": 4955,
+     "nome": "AGENDA 2027 TILIBRA ESP. (MASC) SPOT GRD 200F",
+     "marca": "TILIBRA",
+     "preco": 89.9,
+     "img": "produtos/4955.jpg"
+    },
+    {
+     "cod": 14274,
+     "nome": "AGENDA 2027 TILIBRA ESP. AMARENA-176 FLS",
+     "marca": "TILIBRA",
+     "preco": 55.9,
+     "img": "produtos/14274.jpg"
+    },
+    {
+     "cod": 14273,
+     "nome": "AGENDA 2027 TILIBRA ESP. BROWNIE-160 FLS",
+     "marca": "TILIBRA",
+     "preco": 29.9,
+     "img": "produtos/14273.jpg"
+    },
+    {
+     "cod": 14277,
+     "nome": "AGENDA 2027 TILIBRA ESP. LOUVOR-208 FLS",
+     "marca": "TILIBRA",
+     "preco": 51.9,
+     "img": "produtos/14277.jpg"
+    },
+    {
+     "cod": 14279,
+     "nome": "AGENDA 2027 TILIBRA ESP. MOFUSAND-176 FLS",
+     "marca": "TILIBRA",
+     "preco": 59.9,
+     "img": "produtos/14279.jpg"
+    },
+    {
+     "cod": 6039,
+     "nome": "AGENDA 2027 TILIBRA ESP. NAPOLI ROSA 176F",
+     "marca": "TILIBRA",
+     "preco": 45.9,
+     "img": "produtos/6039.jpg"
+    },
+    {
+     "cod": 10984,
+     "nome": "AGENDA 2027 TILIBRA ESP. NEON  176F",
+     "marca": "TILIBRA",
+     "preco": 34.9,
+     "img": "produtos/10984.jpg"
+    },
+    {
+     "cod": 4952,
+     "nome": "AGENDA 2027 TILIBRA ESP. PEPPER PRETA 160F",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/4952.jpg"
+    },
+    {
+     "cod": 14275,
+     "nome": "AGENDA 2027 TILIBRA ESP. PURFECT CATS-160 FLS",
+     "marca": "TILIBRA",
+     "preco": 29.9,
+     "img": "produtos/14275.jpg"
+    },
+    {
+     "cod": 6040,
+     "nome": "AGENDA 2027 TILIBRA ESP. VANILLA 176 FLS",
+     "marca": "TILIBRA",
+     "preco": 99.9,
+     "img": "produtos/6040.jpg"
+    },
+    {
+     "cod": 14278,
+     "nome": "AGENDA 2027 TILIBRA ESP. ZIP COLORS 176F",
+     "marca": "TILIBRA",
+     "preco": 29.9,
+     "img": "produtos/14278.jpg"
+    },
+    {
+     "cod": 4378,
+     "nome": "AGENDA 2027 TILIBRA NAPOLI ESP. PRETA 192F",
+     "marca": "TILIBRA",
+     "preco": 45.9,
+     "img": "produtos/4378.jpg"
+    },
+    {
+     "cod": 4957,
+     "nome": "AGENDA 2027 TILIBRA SPOT (F) ESP. PEQ 200F",
+     "marca": "TILIBRA",
+     "preco": 49.9,
+     "img": "produtos/4957.jpg"
+    },
+    {
+     "cod": 3118,
+     "nome": "AGENDA 2027 TILIBRA SPOT (M) ESP. PEQ 200F",
+     "marca": "TILIBRA",
+     "preco": 49.9,
+     "img": "produtos/3118.jpg"
     },
     {
      "cod": 12512,
@@ -4031,13 +4158,6 @@
      "img": "produtos/5610.jpg"
     },
     {
-     "cod": 10893,
-     "nome": "CADERNO 1X1 80F-CAVERNA ENCANTADA",
-     "marca": "CREDEAL",
-     "preco": 15.9,
-     "img": "produtos/10893.jpg"
-    },
-    {
      "cod": 7745,
      "nome": "CADERNO 1X1 80F-CHARME",
      "marca": "TILIBRA",
@@ -4843,13 +4963,6 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/11504.jpg"
-    },
-    {
-     "cod": 11506,
-     "nome": "CADERNO ATIVIDADE MATEMATICA SUBTRAÇAO 16F",
-     "marca": "TILIBRA",
-     "preco": 15.9,
-     "img": "produtos/11506.jpg"
     },
     {
      "cod": 13065,
@@ -5936,12 +6049,6 @@
        "img": "produtos/9320.jpg"
       },
       {
-       "cod": 9319,
-       "cor": "Azul",
-       "nome": "CADERNO PEQ. CD 96F (AZUL)",
-       "img": "produtos/9319.jpg"
-      },
-      {
        "cod": 12455,
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
@@ -6233,13 +6340,6 @@
      "img": "produtos/790.jpg"
     },
     {
-     "cod": 795,
-     "nome": "CLIPS (PEQ) 6/0 C/50-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/795.jpg"
-    },
-    {
      "cod": 9447,
      "nome": "CLIPS (PEQ) 6/0 GR C/25-TOP",
      "marca": "TOP",
@@ -6330,6 +6430,20 @@
      "img": "produtos/13999.jpg"
     },
     {
+     "cod": 14285,
+     "nome": "CALCULADORA (G) CLA-8805",
+     "marca": "CLASSE",
+     "preco": 26.9,
+     "img": "produtos/14285.jpg"
+    },
+    {
+     "cod": 14286,
+     "nome": "CALCULADORA (G) FCD-8811",
+     "marca": "CLASSE",
+     "preco": 29.9,
+     "img": "produtos/14286.jpg"
+    },
+    {
      "cod": 508,
      "nome": "CALCULADORA (G) MJ-3032A (BAT) (8 DIG)",
      "marca": "MOURE JAR",
@@ -6344,6 +6458,20 @@
      "img": "produtos/509.jpg"
     },
     {
+     "cod": 14284,
+     "nome": "CALCULADORA (M) CCD-9814",
+     "marca": "DOTAD",
+     "preco": 12.9,
+     "img": "produtos/14284.jpg"
+    },
+    {
+     "cod": 9567,
+     "nome": "CALCULADORA (M) CCD-9835",
+     "marca": "DOTAD",
+     "preco": 15.9,
+     "img": "produtos/9567.jpg"
+    },
+    {
      "cod": 10235,
      "nome": "CALCULADORA (M) CIENTIFICA LT-MULTI (PILHA) (12 DIG)",
      "marca": "LETRON",
@@ -6356,6 +6484,13 @@
      "marca": "ECOODA",
      "preco": 40.9,
      "img": "produtos/8405.jpg"
+    },
+    {
+     "cod": 14287,
+     "nome": "CALCULADORA (M) FCD-9805",
+     "marca": "",
+     "preco": 15.9,
+     "img": "produtos/14287.jpg"
     },
     {
      "cod": 12624,
@@ -6747,6 +6882,13 @@
      "marca": "CASCOREZ",
      "preco": 53.9,
      "img": "produtos/823.jpg"
+    },
+    {
+     "cod": 7506,
+     "nome": "COLA LIQUIDA 1000GR-MAKE +",
+     "marca": "MAKE +",
+     "preco": 19.9,
+     "img": "produtos/7506.jpg"
     },
     {
      "cod": 825,
@@ -7330,20 +7472,6 @@
      "img": "produtos/2301.jpg"
     },
     {
-     "cod": 2302,
-     "nome": "PERFURADOR PAPEL 20F JOCAR",
-     "marca": "JOCAR",
-     "preco": 23.9,
-     "img": "produtos/2302.jpg"
-    },
-    {
-     "cod": 6614,
-     "nome": "PERFURADOR PAPEL 20F MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 26.9,
-     "img": "produtos/6614.jpg"
-    },
-    {
      "cod": 7028,
      "nome": "PERFURADOR PAPEL 30F FRAMA",
      "marca": "FRAMA",
@@ -7383,13 +7511,6 @@
      "marca": "CIS",
      "preco": 59.9,
      "img": "produtos/10600.jpg"
-    },
-    {
-     "cod": 13794,
-     "nome": "COMPASSO CIS 410 METAL C/LAPIS",
-     "marca": "CIS",
-     "preco": 18.9,
-     "img": "produtos/13794.jpg"
     },
     {
      "cod": 4846,
@@ -7879,13 +8000,6 @@
      "img": "produtos/12117.jpg"
     },
     {
-     "cod": 1540,
-     "nome": "GRAMPO 9/10-23/10 C/5000-ACC",
-     "marca": "ACC",
-     "preco": 46.9,
-     "img": "produtos/1540.jpg"
-    },
-    {
      "cod": 1545,
      "nome": "GRAMPO TOT C/1000-CHAPARRAU",
      "marca": "CHAPARRAU",
@@ -8065,13 +8179,6 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1982.jpg"
-    },
-    {
-     "cod": 1983,
-     "nome": "BLOCO PROMISSORIA TILIBRA C/50F",
-     "marca": "TILIBRA",
-     "preco": 2.9,
-     "img": "produtos/1983.jpg"
     },
     {
      "cod": 2601,
@@ -8295,18 +8402,12 @@
      "img": "produtos/5083.jpg"
     },
     {
-     "cod": 740,
+     "cod": 741,
      "nome": "CARTAO",
-     "marca": "GRIFFE",
+     "marca": "",
      "preco": 1.6,
-     "img": "produtos/740.jpg",
+     "img": "produtos/741.jpg",
      "cores": [
-      {
-       "cod": 740,
-       "cor": "Amarelo",
-       "nome": "CARTAO-AMARELO",
-       "img": "produtos/740.jpg"
-      },
       {
        "cod": 741,
        "cor": "Azul Claro",
@@ -8694,12 +8795,6 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg"
-      },
-      {
-       "cod": 2081,
-       "cor": "Vermelho",
-       "nome": "CREPOM VERMELHO",
-       "img": "produtos/2081.jpg"
       }
      ]
     },
@@ -8939,17 +9034,10 @@
     },
     {
      "cod": 2067,
-     "nome": "PAPEL COUCHE A4 250G C/30FL BRILHO",
-     "marca": "ASSETE",
-     "preco": 26.9,
+     "nome": "PAPEL COUCHE A4 250G C/50FL BRILHO",
+     "marca": "GRIFFE",
+     "preco": 33.9,
      "img": "produtos/2067.jpg"
-    },
-    {
-     "cod": 2066,
-     "nome": "PAPEL COUCHE A4 C/50FL BRILHO",
-     "marca": "",
-     "preco": 26.9,
-     "img": "produtos/2066.jpg"
     },
     {
      "cod": 14126,
@@ -8985,6 +9073,13 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg"
+    },
+    {
+     "cod": 2100,
+     "nome": "PAPEL FOTO A4-180GR C/50-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 29.9,
+     "img": "produtos/2100.jpg"
     },
     {
      "cod": 4344,
@@ -10792,13 +10887,6 @@
      "img": "produtos/4986.jpg"
     },
     {
-     "cod": 79,
-     "nome": "ARQUIVO ORGAN. P/ PASTAS LARGO (PRETO)",
-     "marca": "",
-     "preco": 99.9,
-     "img": "produtos/79.jpg"
-    },
-    {
      "cod": 6384,
      "nome": "BANDEJA ACR 1 AND-CRISTAL MAXCRIL",
      "marca": "MAXCRIL",
@@ -11537,24 +11625,10 @@
    "itens": [
     {
      "cod": 1808,
-     "nome": "MALETA A3 POLIONDA",
+     "nome": "MALETA A3 POLIONDA-AZUL",
      "marca": "POLIBRAS",
      "preco": 33.9,
-     "img": "produtos/1808.jpg",
-     "cores": [
-      {
-       "cod": 1808,
-       "cor": "Azul",
-       "nome": "MALETA A3 POLIONDA-AZUL",
-       "img": "produtos/1808.jpg"
-      },
-      {
-       "cod": 1809,
-       "cor": "Preta",
-       "nome": "MALETA A3 POLIONDA-PRETA",
-       "img": "produtos/1809.jpg"
-      }
-     ]
+     "img": "produtos/1808.jpg"
     },
     {
      "cod": 1816,
@@ -11685,13 +11759,6 @@
      ]
     },
     {
-     "cod": 14039,
-     "nome": "PASTA AZ  PRETA-POLYCART",
-     "marca": "POLYCART",
-     "preco": 22.9,
-     "img": "produtos/14039.jpg"
-    },
-    {
      "cod": 11947,
      "nome": "PASTA AZ AMARELA-DAC",
      "marca": "DAC",
@@ -11776,13 +11843,6 @@
      "img": "produtos/6195.jpg"
     },
     {
-     "cod": 2208,
-     "nome": "PASTA CATALOGO TRANSP. C/20",
-     "marca": "PLASCONY",
-     "preco": 24.9,
-     "img": "produtos/2208.jpg"
-    },
-    {
      "cod": 14202,
      "nome": "PASTA CATALOGO TRANSP. C/20",
      "marca": "PLASCONY",
@@ -11823,18 +11883,18 @@
      "img": "produtos/11339.jpg"
     },
     {
+     "cod": 2208,
+     "nome": "PASTA CATALOGO TRANSP. C/20 (OFICIO)",
+     "marca": "PLASCONY",
+     "preco": 24.9,
+     "img": "produtos/2208.jpg"
+    },
+    {
      "cod": 12931,
      "nome": "PASTA CATALOGO TRANSP. C/30",
      "marca": "PLASCONY",
      "preco": 21.9,
      "img": "produtos/12931.jpg"
-    },
-    {
-     "cod": 12930,
-     "nome": "PASTA CATALOGO TRANSP. C/30 (FUME)",
-     "marca": "PLASCONY",
-     "preco": 21.9,
-     "img": "produtos/12930.jpg"
     },
     {
      "cod": 14199,
@@ -11870,13 +11930,6 @@
      ]
     },
     {
-     "cod": 14201,
-     "nome": "PASTA CATALOGO TRANSP. C/50 (FUME)",
-     "marca": "PLASCONY",
-     "preco": 35.9,
-     "img": "produtos/14201.jpg"
-    },
-    {
      "cod": 2212,
      "nome": "PASTA CLASSIFICADORA AZUL C/10",
      "marca": "TIMPEL",
@@ -11889,13 +11942,6 @@
      "marca": "TIMPEL",
      "preco": 55.9,
      "img": "produtos/2213.jpg"
-    },
-    {
-     "cod": 3831,
-     "nome": "PASTA COMANDA 8X16,5CM (LUXO)",
-     "marca": "MAXI P.",
-     "preco": 15.9,
-     "img": "produtos/3831.jpg"
     },
     {
      "cod": 10024,
@@ -12682,7 +12728,7 @@
      "cod": 4918,
      "nome": "PLASTICO 4F A4 FINO C/100",
      "marca": "",
-     "preco": 36.9,
+     "preco": 25.9,
      "img": "produtos/4918.jpg"
     },
     {
@@ -12703,8 +12749,15 @@
      "cod": 4920,
      "nome": "PLASTICO 4F A4 MEDIO C/100",
      "marca": "MP",
-     "preco": 39.9,
+     "preco": 32.9,
      "img": "produtos/4920.jpg"
+    },
+    {
+     "cod": 4921,
+     "nome": "PLASTICO 4F OF. FINO C/100",
+     "marca": "DAC",
+     "preco": 29.9,
+     "img": "produtos/4921.jpg"
     },
     {
      "cod": 4922,
@@ -12717,7 +12770,7 @@
      "cod": 4923,
      "nome": "PLASTICO 4F OF. MEDIO C/100",
      "marca": "MP",
-     "preco": 71.9,
+     "preco": 49.9,
      "img": "produtos/4923.jpg"
     },
     {
@@ -12761,20 +12814,6 @@
      "marca": "GALA",
      "preco": 61.9,
      "img": "produtos/9784.jpg"
-    },
-    {
-     "cod": 4872,
-     "nome": "SACO ADESIVADO 6X7 C/100",
-     "marca": "",
-     "preco": 8.9,
-     "img": "produtos/4872.jpg"
-    },
-    {
-     "cod": 3656,
-     "nome": "SACO ADESIVADO 9X13 C/100",
-     "marca": "VABENE",
-     "preco": 15.9,
-     "img": "produtos/3656.jpg"
     }
    ]
   },
@@ -15514,11 +15553,11 @@
      "img": "produtos/213.jpg"
     },
     {
-     "cod": 6963,
-     "nome": "BLOCO RASCUNHO 80X115 80F",
-     "marca": "PAUTA BRC",
-     "preco": 2.9,
-     "img": "produtos/6963.jpg"
+     "cod": 215,
+     "nome": "BLOCO RASCUNHO 12X,5 C/250",
+     "marca": "PAPER MULT",
+     "preco": 4.5,
+     "img": "produtos/215.jpg"
     },
     {
      "cod": 11824,
@@ -15657,13 +15696,6 @@
        "img": "produtos/6622.jpg"
       }
      ]
-    },
-    {
-     "cod": 14037,
-     "nome": "POST-IT 76X76 C/100 AMARELO PASTEL-PIMACO",
-     "marca": "PIMACO",
-     "preco": 5.9,
-     "img": "produtos/14037.jpg"
     },
     {
      "cod": 9396,
@@ -15914,13 +15946,6 @@
      "marca": "VALE DAS L",
      "preco": 7.9,
      "img": "produtos/13557.jpg"
-    },
-    {
-     "cod": 12464,
-     "nome": "LIVRO INFANTIL COLORIR- STITCH (ARTE&COR)",
-     "marca": "CULTURAMA",
-     "preco": 21.9,
-     "img": "produtos/12464.jpg"
     },
     {
      "cod": 13001,
@@ -16631,13 +16656,6 @@
      "img": "produtos/2431.jpg"
     },
     {
-     "cod": 5192,
-     "nome": "PORTA ALVARA PEQ.163X218MM (VERTICAL)",
-     "marca": "",
-     "preco": 6.9,
-     "img": "produtos/5192.jpg"
-    },
-    {
      "cod": 2579,
      "nome": "PORTA DOCUMENTO 15X21",
      "marca": "MAXI P.",
@@ -16657,13 +16675,6 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/2451.jpg"
-    },
-    {
-     "cod": 5193,
-     "nome": "PORTA QUADRO HORIZONTAL GRD (230X335MM)",
-     "marca": "ACP",
-     "preco": 9.9,
-     "img": "produtos/5193.jpg"
     },
     {
      "cod": 2577,
@@ -17222,13 +17233,6 @@
    "slug": "compasso",
    "nome": "Compasso",
    "itens": [
-    {
-     "cod": 4725,
-     "nome": "COMPASSO LEO E LEO METALICO",
-     "marca": "LEO E LEO",
-     "preco": 10.9,
-     "img": "produtos/4725.jpg"
-    },
     {
      "cod": 7555,
      "nome": "COMPASSO LEO E LEO TECNICO PRECISION",
@@ -17841,14 +17845,14 @@
      "cod": 4617,
      "nome": "BANDEJA ISOPOR B2 FUNDA C/100",
      "marca": "",
-     "preco": 25.9,
+     "preco": 18.9,
      "img": "produtos/4617.jpg"
     },
     {
      "cod": 4060,
      "nome": "BANDEJA ISOPOR B2 RASA C/100",
      "marca": "",
-     "preco": 18.9,
+     "preco": 14.9,
      "img": "produtos/4060.jpg"
     },
     {
@@ -17904,7 +17908,7 @@
      "cod": 181,
      "nome": "BANDEJA ISOPOR B5/B16 C/100",
      "marca": "",
-     "preco": 48.9,
+     "preco": 39.9,
      "img": "produtos/181.jpg"
     },
     {
@@ -18286,20 +18290,6 @@
      "img": "produtos/3991.jpg"
     },
     {
-     "cod": 1009,
-     "nome": "DISCO ISOPOR 25CM C/200",
-     "marca": "",
-     "preco": 89.9,
-     "img": "produtos/1009.jpg"
-    },
-    {
-     "cod": 1010,
-     "nome": "DISCO ISOPOR 30CM C/200",
-     "marca": "",
-     "preco": 136.9,
-     "img": "produtos/1010.jpg"
-    },
-    {
      "cod": 5987,
      "nome": "DISCO ISOPOR 35CM C/200",
      "marca": "",
@@ -18317,14 +18307,14 @@
      "cod": 3924,
      "nome": "HAMBURGUEIRA CH101 C/100",
      "marca": "COPOPLAST",
-     "preco": 62.9,
+     "preco": 49.9,
      "img": "produtos/3924.jpg"
     },
     {
      "cod": 3947,
      "nome": "HAMBURGUEIRA H1 C/100",
      "marca": "",
-     "preco": 25.9,
+     "preco": 18.9,
      "img": "produtos/3947.jpg"
     },
     {
@@ -18419,6 +18409,13 @@
      "img": "produtos/1867.jpg"
     },
     {
+     "cod": 6841,
+     "nome": "PT100 COPOPLAST C/100 (FUNDO)",
+     "marca": "COPOPLAST",
+     "preco": 28.9,
+     "img": "produtos/6841.jpg"
+    },
+    {
      "cod": 2937,
      "nome": "PT100/PT102/PT104 COPOBRAS C/100 (TAMPA)",
      "marca": "COPOBRAS",
@@ -18450,8 +18447,15 @@
      "cod": 7352,
      "nome": "PT104 COPOPLAST C/100 (FUNDO)",
      "marca": "COPOPLAST",
-     "preco": 35.9,
+     "preco": 29.9,
      "img": "produtos/7352.jpg"
+    },
+    {
+     "cod": 14323,
+     "nome": "PT104 ISOBRAS (KIT TAMPA+FUNDO) C/100",
+     "marca": "",
+     "preco": 52.9,
+     "img": "produtos/14323.jpg"
     },
     {
      "cod": 3536,
@@ -18466,6 +18470,13 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/5821.jpg"
+    },
+    {
+     "cod": 3989,
+     "nome": "PT500 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/3989.jpg"
     },
     {
      "cod": 4129,
@@ -18549,6 +18560,20 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg"
+    },
+    {
+     "cod": 11601,
+     "nome": "FACA FORTE C/50",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/11601.jpg"
+    },
+    {
+     "cod": 8466,
+     "nome": "FACA REFEIÇÃO C/50",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/8466.jpg"
     },
     {
      "cod": 3466,
@@ -19046,6 +19071,13 @@
      "img": "produtos/5068.jpg"
     },
     {
+     "cod": 1376,
+     "nome": "FORMA PF642/S642/ECO642 C/300",
+     "marca": "",
+     "preco": 52.9,
+     "img": "produtos/1376.jpg"
+    },
+    {
      "cod": 14015,
      "nome": "FORMA PF742 C/10 (250ML)",
      "marca": "",
@@ -19058,13 +19090,6 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1356.jpg"
-    },
-    {
-     "cod": 3902,
-     "nome": "FORMA S100 FRANGO C/100",
-     "marca": "STARPACK",
-     "preco": 232.9,
-     "img": "produtos/3902.jpg"
     },
     {
      "cod": 1361,
@@ -19346,6 +19371,13 @@
      "img": "produtos/2561.jpg"
     },
     {
+     "cod": 2562,
+     "nome": "PRATO PAPELAO 4 C/100 (20CM)",
+     "marca": "PITPRATOS",
+     "preco": 35.9,
+     "img": "produtos/2562.jpg"
+    },
+    {
      "cod": 2563,
      "nome": "PRATO PAPELAO 5 C/100 (23CM)",
      "marca": "PITPRATOS",
@@ -19567,6 +19599,13 @@
      "marca": "ABN",
      "preco": 66.9,
      "img": "produtos/481.jpg"
+    },
+    {
+     "cod": 6987,
+     "nome": "CAIXA SALGADO 40CM C/25",
+     "marca": "ABN",
+     "preco": 87.9,
+     "img": "produtos/6987.jpg"
     },
     {
      "cod": 10001,
@@ -19845,6 +19884,13 @@
      "marca": "",
      "preco": 102.9,
      "img": "produtos/1349.jpg"
+    },
+    {
+     "cod": 14192,
+     "nome": "FORMA ALUM D8 (185X275) 1.500ML C/100-PRAVIAGEM",
+     "marca": "PRAVIAGEM",
+     "preco": 177.9,
+     "img": "produtos/14192.jpg"
     },
     {
      "cod": 7818,
@@ -20704,6 +20750,13 @@
      "img": "produtos/4946.jpg"
     },
     {
+     "cod": 4947,
+     "nome": "SACO PP 25X35 C/100",
+     "marca": "KROMASA",
+     "preco": 19.9,
+     "img": "produtos/4947.jpg"
+    },
+    {
      "cod": 4948,
      "nome": "SACO PP 30X40 C/100",
      "marca": "KROMASA",
@@ -20786,13 +20839,6 @@
      "marca": "ALIPROT",
      "preco": 122.9,
      "img": "produtos/5069.jpg"
-    },
-    {
-     "cod": 4203,
-     "nome": "SACO VACUO 25X35 C/500 (0.8)",
-     "marca": "ALIPROT",
-     "preco": 174.9,
-     "img": "produtos/4203.jpg"
     },
     {
      "cod": 9183,
@@ -21119,12 +21165,6 @@
        "img": "produtos/2857.jpg"
       },
       {
-       "cod": 4326,
-       "cor": "Rosa",
-       "nome": "SACOLA PH 30X40 C/50-ROSA",
-       "img": "produtos/4326.jpg"
-      },
-      {
        "cod": 2858,
        "cor": "Verde Claro",
        "nome": "SACOLA PH 30X40 C/50-VERDE CLARO",
@@ -21239,21 +21279,21 @@
      "cod": 242,
      "nome": "BOBINA ESTIVA 25CM",
      "marca": "CEPELMA",
-     "preco": 32.9,
+     "preco": 28.9,
      "img": "produtos/242.jpg"
     },
     {
      "cod": 243,
      "nome": "BOBINA ESTIVA 40CM",
      "marca": "CEPELMA",
-     "preco": 58.9,
+     "preco": 38.9,
      "img": "produtos/243.jpg"
     },
     {
      "cod": 244,
      "nome": "BOBINA ESTIVA 60CM",
      "marca": "CEPELMA",
-     "preco": 79.9,
+     "preco": 49.9,
      "img": "produtos/244.jpg"
     },
     {
@@ -21269,13 +21309,6 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg"
-    },
-    {
-     "cod": 246,
-     "nome": "BOBINA ESTRELA (M) 35X45 C/400",
-     "marca": "",
-     "preco": 26.9,
-     "img": "produtos/246.jpg"
     },
     {
      "cod": 13857,
@@ -21327,6 +21360,13 @@
      "img": "produtos/6755.jpg"
     },
     {
+     "cod": 13854,
+     "nome": "BOBINA PICOT. 20X30 C/300-HIPERROLL",
+     "marca": "HIPERROLL",
+     "preco": 11.9,
+     "img": "produtos/13854.jpg"
+    },
+    {
      "cod": 14294,
      "nome": "BOBINA PICOT. 20X30 C/500-EBAO",
      "marca": "EBAO",
@@ -21339,6 +21379,13 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg"
+    },
+    {
+     "cod": 13853,
+     "nome": "BOBINA PICOT. 25X35 C/300-HIPERROLL",
+     "marca": "HIPERROLL",
+     "preco": 16.9,
+     "img": "produtos/13853.jpg"
     },
     {
      "cod": 9885,
@@ -21399,7 +21446,7 @@
     {
      "cod": 6966,
      "nome": "BOBINA PICOT. 40X60 C/400-HIP/FLEX/ROLOSAK",
-     "marca": "HIPER ROLL",
+     "marca": "",
      "preco": 49.9,
      "img": "produtos/6966.jpg"
     },
@@ -21465,6 +21512,13 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg"
+    },
+    {
+     "cod": 5547,
+     "nome": "PAPEL KRAFT 60CM/80G C/150MT (BOBINA)",
+     "marca": "MGPAPEL",
+     "preco": 119.9,
+     "img": "produtos/5547.jpg"
     }
    ]
   },
@@ -21876,13 +21930,6 @@
      "img": "produtos/8407.jpg"
     },
     {
-     "cod": 2750,
-     "nome": "SACO BRANCO 500GR C/500 (FD)",
-     "marca": "",
-     "preco": 28.9,
-     "img": "produtos/2750.jpg"
-    },
-    {
      "cod": 7181,
      "nome": "SACO BRANCO 5KG C/500 (FD)",
      "marca": "IEC",
@@ -22044,6 +22091,13 @@
      "img": "produtos/3675.jpg"
     },
     {
+     "cod": 14321,
+     "nome": "SACO SOS DEC. 7,5KG (38X18X10) C/50",
+     "marca": "",
+     "preco": 25.9,
+     "img": "produtos/14321.jpg"
+    },
+    {
      "cod": 7010,
      "nome": "SACO SOS LISO 10KG (32X22X12) C/50",
      "marca": "VINCO",
@@ -22077,13 +22131,6 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/2804.jpg"
-    },
-    {
-     "cod": 11954,
-     "nome": "SACO SOS LISO 7,5KG (32X18X12) C/50",
-     "marca": "",
-     "preco": 25.9,
-     "img": "produtos/11954.jpg"
     },
     {
      "cod": 2805,
@@ -22540,12 +22587,6 @@
        "cor": "Preto",
        "nome": "FITA CETIM N1 7MMX10MT-PRETO",
        "img": "produtos/6000.jpg"
-      },
-      {
-       "cod": 6003,
-       "cor": "Vermelho",
-       "nome": "FITA CETIM N1 7MMX10MT-VERMELHO",
-       "img": "produtos/6003.jpg"
       }
      ]
     },
@@ -23760,13 +23801,6 @@
      "img": "produtos/11739.jpg"
     },
     {
-     "cod": 485,
-     "nome": "CAIXA SUPERMERCADO PRETA (COMUM)",
-     "marca": "MERCOPLAS",
-     "preco": 58.9,
-     "img": "produtos/485.jpg"
-    },
-    {
      "cod": 8992,
      "nome": "CONTAINER 10L (40,5X29X14,5)",
      "marca": "RAINHA",
@@ -23819,7 +23853,7 @@
      "cod": 6658,
      "nome": "CONTAINER 50L (35X41X57) PRETO",
      "marca": "ARQPLAST",
-     "preco": 98.9,
+     "preco": 105.9,
      "img": "produtos/6658.jpg"
     },
     {
@@ -24242,7 +24276,7 @@
      "cod": 2102,
      "nome": "PAPEL HIG.(ROLAO) 8X240M-LUXO INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 65.9,
+     "preco": 69.9,
      "img": "produtos/2102.jpg"
     },
     {
@@ -24256,7 +24290,7 @@
      "cod": 2104,
      "nome": "PAPEL HIG.(ROLAO) 8X300MT-BRANCO INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 72.9,
+     "preco": 89.9,
      "img": "produtos/2104.jpg"
     },
     {
@@ -24279,13 +24313,6 @@
      "marca": "BOB",
      "preco": 5.9,
      "img": "produtos/9017.jpg"
-    },
-    {
-     "cod": 9018,
-     "nome": "PAPEL HIG.4X30MT-PERSONAL (FOLHA DUPLA)",
-     "marca": "PERSONAL",
-     "preco": 11.9,
-     "img": "produtos/9018.jpg"
     },
     {
      "cod": 2107,
@@ -24323,24 +24350,17 @@
      "img": "produtos/2154.jpg"
     },
     {
-     "cod": 2152,
-     "nome": "PAPEL TOALHA BRC C/1000 100%-INTERFORTY (ROSA)",
-     "marca": "INTERFORTY",
-     "preco": 21.9,
-     "img": "produtos/2152.jpg"
-    },
-    {
      "cod": 2153,
      "nome": "PAPEL TOALHA BRC C/1000 LUXO-INTERFORTY(VERMELHO)",
      "marca": "INTERFORTY",
-     "preco": 19.9,
+     "preco": 21.9,
      "img": "produtos/2153.jpg"
     },
     {
      "cod": 2151,
      "nome": "PAPEL TOALHA BRC C/1000-COMUM INTERFORTY(AZUL)",
      "marca": "INTERFORTY",
-     "preco": 15.9,
+     "preco": 16.9,
      "img": "produtos/2151.jpg"
     },
     {
@@ -24356,6 +24376,13 @@
      "marca": "",
      "preco": 13.5,
      "img": "produtos/6679.jpg"
+    },
+    {
+     "cod": 2152,
+     "nome": "TOA BRC C/1000 100%-INTERFORTY (ROSA)",
+     "marca": "INTERFORTY",
+     "preco": 23.9,
+     "img": "produtos/2152.jpg"
     },
     {
      "cod": 2155,
@@ -24375,7 +24402,7 @@
      "cod": 2156,
      "nome": "TOALHA ROLO 6X200M BRC-INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 102.9,
+     "preco": 106.9,
      "img": "produtos/2156.jpg"
     },
     {
@@ -24428,7 +24455,7 @@
     },
     {
      "cod": 9829,
-     "nome": "PERFEX 50P AZUL (28X50CM)",
+     "nome": "PERFEX 50P AZUL/VERDE",
      "marca": "",
      "preco": 17.9,
      "img": "produtos/9829.jpg"
@@ -24564,13 +24591,6 @@
      "marca": "BELLPLUS",
      "preco": 5.9,
      "img": "produtos/14216.jpg"
-    },
-    {
-     "cod": 6345,
-     "nome": "POUPA COPO BELL PLUS",
-     "marca": "BELL PLUS",
-     "preco": 45.9,
-     "img": "produtos/6345.jpg"
     },
     {
      "cod": 2651,
@@ -24829,6 +24849,13 @@
      "img": "produtos/11800.jpg"
     },
     {
+     "cod": 2662,
+     "nome": "RODO PIA SANREMO 15CM",
+     "marca": "SANREMO",
+     "preco": 6.9,
+     "img": "produtos/2662.jpg"
+    },
+    {
      "cod": 9975,
      "nome": "UMIDIFICADOR DE AR USB LED 7 CORES-LEONORA",
      "marca": "JOCAR",
@@ -24902,12 +24929,6 @@
        "cor": "Roxo / Dourado",
        "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/DOURADO (TREND)",
        "img": "produtos/10530.jpg"
-      },
-      {
-       "cod": 10523,
-       "cor": "Roxo / Prata",
-       "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/PRATA (TREND)",
-       "img": "produtos/10523.jpg"
       },
       {
        "cod": 10650,
@@ -25185,12 +25206,6 @@
        "cor": "Laranja",
        "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-LARANJA",
        "img": "produtos/7601.jpg"
-      },
-      {
-       "cod": 7603,
-       "cor": "Rosa",
-       "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-ROSA",
-       "img": "produtos/7603.jpg"
       }
      ]
     },
@@ -25903,11 +25918,25 @@
      ]
     },
     {
-     "cod": 1827,
-     "nome": "MARCA TEXTO CIS-VERDE",
+     "cod": 1826,
+     "nome": "MARCA TEXTO CIS",
      "marca": "CIS",
      "preco": 3.0,
-     "img": "produtos/1827.jpg"
+     "img": "produtos/1826.jpg",
+     "cores": [
+      {
+       "cod": 1826,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO CIS-ROSA",
+       "img": "produtos/1826.jpg"
+      },
+      {
+       "cod": 1827,
+       "cor": "Verde",
+       "nome": "MARCA TEXTO CIS-VERDE",
+       "img": "produtos/1827.jpg"
+      }
+     ]
     },
     {
      "cod": 12733,
@@ -26584,6 +26613,13 @@
      ]
     },
     {
+     "cod": 918,
+     "nome": "CONTACT LISO-BRANCO BRILHO",
+     "marca": "LEOTACK",
+     "preco": 5.9,
+     "img": "produtos/918.jpg"
+    },
+    {
      "cod": 919,
      "nome": "CONTACT LISO-BRANCO FOSCO",
      "marca": "LEOTACK",
@@ -26702,18 +26738,18 @@
      "img": "produtos/667.jpg"
     },
     {
-     "cod": 668,
-     "nome": "CAPA PRONTA BROCH. C/5 (80/60FL)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/668.jpg"
-    },
-    {
      "cod": 671,
      "nome": "CAPA PRONTA ESPIRAL  C/5 (SOLTA)",
      "marca": "MAXI P.",
      "preco": 12.5,
      "img": "produtos/671.jpg"
+    },
+    {
+     "cod": 670,
+     "nome": "CAPA PRONTA ESPIRAL C/5 (JUNTA)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/670.jpg"
     },
     {
      "cod": 672,
@@ -26753,6 +26789,13 @@
   }
  ],
  "destaques": [
+  {
+   "cod": 6719,
+   "nome": "MOUSE USB SEM FIO MAXPRINT COD60000139",
+   "marca": "MAXPRINT",
+   "preco": 36.9,
+   "img": "produtos/6719.jpg"
+  },
   {
    "cod": 1363,
    "nome": "FORMA S20/SP20/ECO20 C/100",
