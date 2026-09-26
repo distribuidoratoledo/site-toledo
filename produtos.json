@@ -1644,18 +1644,12 @@
      "img": "produtos/10477.jpg"
     },
     {
-     "cod": 10631,
+     "cod": 10632,
      "nome": "LAPIS ESCREVER CIS NEON",
      "marca": "CIS",
      "preco": 1.5,
-     "img": "produtos/10631.jpg",
+     "img": "produtos/10632.jpg",
      "cores": [
-      {
-       "cod": 10631,
-       "cor": "Rosa",
-       "nome": "LAPIS ESCREVER CIS NEON-ROSA",
-       "img": "produtos/10631.jpg"
-      },
       {
        "cod": 10632,
        "cor": "Roxo",
@@ -1968,13 +1962,6 @@
      "marca": "LEO E LEO",
      "preco": 1.5,
      "img": "produtos/6355.jpg"
-    },
-    {
-     "cod": 3528,
-     "nome": "LAPIS ESCREVER LEO E LEO-SEXTAVADO (MADEIRA)",
-     "marca": "LEO E LEO",
-     "preco": 0.5,
-     "img": "produtos/3528.jpg"
     },
     {
      "cod": 13310,
@@ -11041,13 +11028,6 @@
      "img": "produtos/1013.jpg"
     },
     {
-     "cod": 9251,
-     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-20X30 (CINZA)",
-     "marca": "MAXCRIL",
-     "preco": 0.6,
-     "img": "produtos/9251.jpg"
-    },
-    {
      "cod": 9252,
      "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
      "marca": "MAXCRIL",
@@ -13816,18 +13796,18 @@
      "img": "produtos/12572.jpg"
     },
     {
-     "cod": 13199,
-     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
-     "marca": "XERYUS",
-     "preco": 375.9,
-     "img": "produtos/13199.jpg"
-    },
-    {
      "cod": 13190,
      "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
      "marca": "XERYUS",
      "preco": 356.9,
      "img": "produtos/13190.jpg"
+    },
+    {
+     "cod": 13199,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 375.9,
+     "img": "produtos/13199.jpg"
     },
     {
      "cod": 13228,
@@ -18551,7 +18531,7 @@
      "cod": 7255,
      "nome": "COLHER REFEIÇÃO C/50",
      "marca": "",
-     "preco": 4.9,
+     "preco": 3.9,
      "img": "produtos/7255.jpg"
     },
     {
@@ -21468,7 +21448,7 @@
      "cod": 6857,
      "nome": "BOLHA 1,20M (ALTURA)",
      "marca": "HM2",
-     "preco": 2.9,
+     "preco": 2.0,
      "img": "produtos/6857.jpg"
     },
     {
@@ -23182,9 +23162,9 @@
    "itens": [
     {
      "cod": 14183,
-     "nome": "BOBINA PRESENTE (PESO 6KG)",
+     "nome": "BOBINA PRESENTE",
      "marca": "GERSELE",
-     "preco": 54.9,
+     "preco": 29.9,
      "img": "produtos/14183.jpg"
     },
     {
@@ -23801,6 +23781,13 @@
      "img": "produtos/11739.jpg"
     },
     {
+     "cod": 485,
+     "nome": "CAIXA SUPERMERCADO PRETA (COMUM)",
+     "marca": "MERCOPLAS",
+     "preco": 69.9,
+     "img": "produtos/485.jpg"
+    },
+    {
      "cod": 8992,
      "nome": "CONTAINER 10L (40,5X29X14,5)",
      "marca": "RAINHA",
@@ -24009,13 +23996,6 @@
      "img": "produtos/1493.jpg"
     },
     {
-     "cod": 1494,
-     "nome": "GOMINHA MAMUTH C/100GR (120 UN)",
-     "marca": "MAMUTH",
-     "preco": 6.9,
-     "img": "produtos/1494.jpg"
-    },
-    {
      "cod": 1495,
      "nome": "GOMINHA MAMUTH C/500GR (600 UN)",
      "marca": "MAMUTH",
@@ -24160,13 +24140,6 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4551.jpg"
-    },
-    {
-     "cod": 8293,
-     "nome": "LUVA NITRILICA-G C/100 PRETA SEM PO",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/8293.jpg"
     },
     {
      "cod": 10304,
@@ -26325,6 +26298,13 @@
      "marca": "GRESPAN",
      "preco": 9.9,
      "img": "produtos/2383.jpg"
+    },
+    {
+     "cod": 14325,
+     "nome": "PLACA SINALIZ-PISO MOLHADO",
+     "marca": "NOBRE",
+     "preco": 84.9,
+     "img": "produtos/14325.jpg"
     },
     {
      "cod": 2393,
