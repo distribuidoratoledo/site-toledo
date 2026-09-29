@@ -396,12 +396,6 @@
        "img": "produtos/564.jpg"
       },
       {
-       "cod": 565,
-       "cor": "Preta",
-       "nome": "CANETA CIS SPIRO-PRETA",
-       "img": "produtos/565.jpg"
-      },
-      {
        "cod": 566,
        "cor": "Rosa",
        "nome": "CANETA CIS SPIRO-ROSA",
@@ -2466,25 +2460,11 @@
      ]
     },
     {
-     "cod": 11857,
-     "nome": "PINCEL Q.BRC RECAR. BRW",
+     "cod": 11855,
+     "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
      "marca": "BRW",
      "preco": 3.9,
-     "img": "produtos/11857.jpg",
-     "cores": [
-      {
-       "cod": 11857,
-       "cor": "Azul",
-       "nome": "PINCEL Q.BRC RECAR. BRW-AZUL",
-       "img": "produtos/11857.jpg"
-      },
-      {
-       "cod": 11855,
-       "cor": "Preto",
-       "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
-       "img": "produtos/11855.jpg"
-      }
-     ]
+     "img": "produtos/11855.jpg"
     },
     {
      "cod": 7731,
@@ -2710,12 +2690,6 @@
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg"
-      },
-      {
-       "cod": 2657,
-       "cor": "Preto",
-       "nome": "RETRO 2.0 PILOT-PRETO",
-       "img": "produtos/2657.jpg"
       },
       {
        "cod": 2658,
@@ -4110,13 +4084,6 @@
      "img": "produtos/12403.jpg"
     },
     {
-     "cod": 8142,
-     "nome": "CADERNO 1X1 80F-BOM D+ FEMININO",
-     "marca": "SD",
-     "preco": 11.9,
-     "img": "produtos/8142.jpg"
-    },
-    {
      "cod": 8149,
      "nome": "CADERNO 1X1 80F-BOM D+ MASCULINO",
      "marca": "SD",
@@ -4290,13 +4257,6 @@
      "marca": "TILIBRA",
      "preco": 26.9,
      "img": "produtos/10469.jpg"
-    },
-    {
-     "cod": 13049,
-     "nome": "CADERNO 1X1 80F-GLIMMER",
-     "marca": "SD",
-     "preco": 31.9,
-     "img": "produtos/13049.jpg"
     },
     {
      "cod": 8402,
@@ -5724,13 +5684,6 @@
      "marca": "SD",
      "preco": 25.9,
      "img": "produtos/12968.jpg"
-    },
-    {
-     "cod": 8816,
-     "nome": "CADERNO DESENHO CD 60F-TURMA DA MONICA",
-     "marca": "S.DOMINGOS",
-     "preco": 23.9,
-     "img": "produtos/8816.jpg"
     },
     {
      "cod": 5890,
@@ -8168,6 +8121,13 @@
      "img": "produtos/1982.jpg"
     },
     {
+     "cod": 1983,
+     "nome": "BLOCO PROMISSORIA TILIBRA C/50F",
+     "marca": "TILIBRA",
+     "preco": 2.9,
+     "img": "produtos/1983.jpg"
+    },
+    {
      "cod": 2601,
      "nome": "BLOCO RECIBO C/C 50F-GRIFFE",
      "marca": "GRIFFE",
@@ -8782,6 +8742,12 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg"
+      },
+      {
+       "cod": 2081,
+       "cor": "Vermelho",
+       "nome": "CREPOM VERMELHO",
+       "img": "produtos/2081.jpg"
       }
      ]
     },
@@ -9296,7 +9262,7 @@
      "cod": 7337,
      "nome": "VERGE 180G C/50 AZUL-USAPEL",
      "marca": "USAPEL",
-     "preco": 21.9,
+     "preco": 22.9,
      "img": "produtos/7337.jpg"
     },
     {
@@ -9324,14 +9290,14 @@
      "cod": 7338,
      "nome": "VERGE 180G C/50 SALMÃO-USAPEL",
      "marca": "USAPEL",
-     "preco": 21.9,
+     "preco": 22.9,
      "img": "produtos/7338.jpg"
     },
     {
      "cod": 7339,
      "nome": "VERGE 180G C/50 VERDE-USAPEL",
      "marca": "USAPEL",
-     "preco": 21.9,
+     "preco": 22.9,
      "img": "produtos/7339.jpg"
     }
    ]
@@ -9508,13 +9474,6 @@
      "img": "produtos/12338.jpg"
     },
     {
-     "cod": 5395,
-     "nome": "GUACHE 15ML ACRILEX C/GLITER C/6",
-     "marca": "ACRILEX",
-     "preco": 7.5,
-     "img": "produtos/5395.jpg"
-    },
-    {
      "cod": 12754,
      "nome": "GUACHE 15ML C/12-DACART",
      "marca": "DACART",
@@ -9527,13 +9486,6 @@
      "marca": "MARIPEL",
      "preco": 11.9,
      "img": "produtos/11627.jpg"
-    },
-    {
-     "cod": 3018,
-     "nome": "GUACHE 15ML C/6-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 7.9,
-     "img": "produtos/3018.jpg"
     },
     {
      "cod": 7581,
@@ -9681,12 +9633,6 @@
        "cor": "Amarelo",
        "nome": "GUACHE 250ML MARIPEL-AMARELO",
        "img": "produtos/10137.jpg"
-      },
-      {
-       "cod": 10129,
-       "cor": "Azul Escuro",
-       "nome": "GUACHE 250ML MARIPEL-AZUL ESCURO",
-       "img": "produtos/10129.jpg"
       },
       {
        "cod": 3033,
@@ -10256,6 +10202,13 @@
      "img": "produtos/9699.jpg"
     },
     {
+     "cod": 9382,
+     "nome": "TINTA P.Q.BRC 500ML PRETA-JOCAR",
+     "marca": "JOCAR",
+     "preco": 89.9,
+     "img": "produtos/9382.jpg"
+    },
+    {
      "cod": 14213,
      "nome": "TINTA P.Q.BRC 500ML RADEX-PRETA",
      "marca": "RADEX",
@@ -10461,13 +10414,6 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/14001.jpg"
-    },
-    {
-     "cod": 3015,
-     "nome": "TINTA TECIDO 37ML-VERDE FOLHA",
-     "marca": "ACRILEX",
-     "preco": 6.9,
-     "img": "produtos/3015.jpg"
     },
     {
      "cod": 3713,
@@ -10698,13 +10644,6 @@
      "marca": "GRESPAN",
      "preco": 18.9,
      "img": "produtos/7431.jpg"
-    },
-    {
-     "cod": 7436,
-     "nome": "ETIQUETA GRESPAN 6182 C/100 (14) GC282",
-     "marca": "GRESPAN",
-     "preco": 65.9,
-     "img": "produtos/7436.jpg"
     },
     {
      "cod": 7442,
@@ -11570,6 +11509,13 @@
      "img": "produtos/2911.jpg"
     },
     {
+     "cod": 7531,
+     "nome": "SUPORTE DUREX GRD JOCAR",
+     "marca": "JOCAR",
+     "preco": 24.9,
+     "img": "produtos/7531.jpg"
+    },
+    {
      "cod": 2912,
      "nome": "SUPORTE DUREX MEDIO JOCAR",
      "marca": "JOCAR",
@@ -11749,7 +11695,7 @@
      "cod": 2197,
      "nome": "PASTA AZ TIGRADA-POLYCART",
      "marca": "POLYCART",
-     "preco": 24.9,
+     "preco": 25.9,
      "img": "produtos/2197.jpg"
     },
     {
@@ -12674,7 +12620,7 @@
      "cod": 2276,
      "nome": "PASTA SUSPENSA C/10 S/PL KRAFT",
      "marca": "TIMPEL",
-     "preco": 37.9,
+     "preco": 45.9,
      "img": "produtos/2276.jpg"
     },
     {
@@ -12766,13 +12712,6 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/13540.jpg"
-    },
-    {
-     "cod": 2741,
-     "nome": "SACO ADESIVADO 15X20 C/100",
-     "marca": "CROMUS",
-     "preco": 29.9,
-     "img": "produtos/2741.jpg"
     },
     {
      "cod": 2743,
@@ -13796,18 +13735,18 @@
      "img": "produtos/12572.jpg"
     },
     {
-     "cod": 13190,
-     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
-     "marca": "XERYUS",
-     "preco": 356.9,
-     "img": "produtos/13190.jpg"
-    },
-    {
      "cod": 13199,
      "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
      "marca": "XERYUS",
      "preco": 375.9,
      "img": "produtos/13199.jpg"
+    },
+    {
+     "cod": 13190,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 356.9,
+     "img": "produtos/13190.jpg"
     },
     {
      "cod": 13228,
@@ -14023,6 +13962,13 @@
      "img": "produtos/13375.jpg"
     },
     {
+     "cod": 8223,
+     "nome": "ESTOJO DAC 1F",
+     "marca": "DAC",
+     "preco": 12.9,
+     "img": "produtos/8223.jpg"
+    },
+    {
      "cod": 8213,
      "nome": "ESTOJO DAC 1F",
      "marca": "DAC",
@@ -14040,12 +13986,6 @@
        "cor": "Lilas",
        "nome": "ESTOJO DAC 1F-LILAS",
        "img": "produtos/8203.jpg"
-      },
-      {
-       "cod": 8223,
-       "cor": "Pink",
-       "nome": "ESTOJO DAC 1F-PINK",
-       "img": "produtos/8223.jpg"
       }
      ]
     },
@@ -15393,6 +15333,12 @@
        "img": "produtos/68.jpg"
       },
       {
+       "cod": 5170,
+       "cor": "Verde",
+       "nome": "ARQUIVO MORTO (DUPLO)-VERDE",
+       "img": "produtos/5170.jpg"
+      },
+      {
        "cod": 5169,
        "cor": "Vermelho",
        "nome": "ARQUIVO MORTO (DUPLO)-VERMELHO",
@@ -15408,17 +15354,29 @@
      "img": "produtos/9227.jpg"
     },
     {
-     "cod": 74,
+     "cod": 73,
      "nome": "ARQUIVO MORTO OFICIO",
      "marca": "",
      "preco": 6.9,
-     "img": "produtos/74.jpg",
+     "img": "produtos/73.jpg",
      "cores": [
+      {
+       "cod": 73,
+       "cor": "Amarelo",
+       "nome": "ARQUIVO MORTO OFICIO-AMARELO",
+       "img": "produtos/73.jpg"
+      },
       {
        "cod": 74,
        "cor": "Azul",
        "nome": "ARQUIVO MORTO OFICIO-AZUL",
        "img": "produtos/74.jpg"
+      },
+      {
+       "cod": 77,
+       "cor": "Verde",
+       "nome": "ARQUIVO MORTO OFICIO-VERDE",
+       "img": "produtos/77.jpg"
       },
       {
        "cod": 5171,
@@ -15755,8 +15713,8 @@
     },
     {
      "cod": 46,
-     "nome": "APLICADOR FIX PIN-KIT",
-     "marca": "KIT",
+     "nome": "APLICADOR FIX PIN",
+     "marca": "",
      "preco": 37.9,
      "img": "produtos/46.jpg"
     },
@@ -15808,6 +15766,13 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg"
+    },
+    {
+     "cod": 11832,
+     "nome": "REFIL COLA QUENTE FINO C/8",
+     "marca": "IBEL",
+     "preco": 7.9,
+     "img": "produtos/11832.jpg"
     },
     {
      "cod": 14261,
@@ -16506,13 +16471,6 @@
      "marca": "PADO",
      "preco": 49.9,
      "img": "produtos/4793.jpg"
-    },
-    {
-     "cod": 4794,
-     "nome": "CADEADO 50MM",
-     "marca": "PADO",
-     "preco": 57.9,
-     "img": "produtos/4794.jpg"
     },
     {
      "cod": 4671,
@@ -17473,13 +17431,6 @@
      "img": "produtos/944.jpg"
     },
     {
-     "cod": 9011,
-     "nome": "COPO 200ML PS C/100-COPOSUL",
-     "marca": "COPOSUL",
-     "preco": 5.5,
-     "img": "produtos/9011.jpg"
-    },
-    {
      "cod": 12141,
      "nome": "COPO 200ML PS C/100-TEU COPO",
      "marca": "TEU COPO",
@@ -17499,13 +17450,6 @@
      "marca": "COPOBRAS",
      "preco": 15.9,
      "img": "produtos/947.jpg"
-    },
-    {
-     "cod": 948,
-     "nome": "COPO 300ML PS C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 9.9,
-     "img": "produtos/948.jpg"
     },
     {
      "cod": 8806,
@@ -17688,13 +17632,6 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg"
-    },
-    {
-     "cod": 7351,
-     "nome": "TAMPA 200/250ML (S/F) C/50-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 6.9,
-     "img": "produtos/7351.jpg"
     },
     {
      "cod": 2934,
@@ -18499,13 +18436,6 @@
    "slug": "talheres",
    "nome": "Talheres e Mexedores",
    "itens": [
-    {
-     "cod": 7659,
-     "nome": "COLHER AÇAI C/50 LONGA ROXA",
-     "marca": "PLAZAPEL",
-     "preco": 13.9,
-     "img": "produtos/7659.jpg"
-    },
     {
      "cod": 8361,
      "nome": "COLHER FORTE C/50 (BRANCA)",
@@ -19831,13 +19761,6 @@
      "img": "produtos/190.jpg"
     },
     {
-     "cod": 1341,
-     "nome": "FORMA ALUM B95/90 (98X127) 220ML C/100-MARMITINHA",
-     "marca": "MARMITINHA",
-     "preco": 49.9,
-     "img": "produtos/1341.jpg"
-    },
-    {
      "cod": 14232,
      "nome": "FORMA ALUM D5 (170X275) 1150ML C/100-PRAVIAGEM",
      "marca": "PRAVIAGEM",
@@ -20003,13 +19926,6 @@
      "marca": "INOVEN",
      "preco": 15.9,
      "img": "produtos/11897.jpg"
-    },
-    {
-     "cod": 3301,
-     "nome": "CANUDO SACHE 5MM C/100",
-     "marca": "",
-     "preco": 6.9,
-     "img": "produtos/3301.jpg"
     },
     {
      "cod": 3932,
@@ -20357,13 +20273,6 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg"
-    },
-    {
-     "cod": 2709,
-     "nome": "SACO 17X35 (0.6) TRANSPARENTE",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/2709.jpg"
     },
     {
      "cod": 3651,
@@ -20765,13 +20674,6 @@
      "img": "produtos/2808.jpg"
     },
     {
-     "cod": 9185,
-     "nome": "SACO VACUO 15X25 C/500 (0.8)",
-     "marca": "PARMA",
-     "preco": 88.9,
-     "img": "produtos/9185.jpg"
-    },
-    {
      "cod": 9182,
      "nome": "SACO VACUO 15X30 C/500 (0.8)",
      "marca": "PARMA",
@@ -20840,13 +20742,6 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/7176.jpg"
-    },
-    {
-     "cod": 7175,
-     "nome": "SACO ZIPLOCK (03) 7X10 C/10",
-     "marca": "",
-     "preco": 2.2,
-     "img": "produtos/7175.jpg"
     },
     {
      "cod": 7172,
@@ -22071,13 +21966,6 @@
      "img": "produtos/3675.jpg"
     },
     {
-     "cod": 14321,
-     "nome": "SACO SOS DEC. 7,5KG (38X18X10) C/50",
-     "marca": "",
-     "preco": 25.9,
-     "img": "produtos/14321.jpg"
-    },
-    {
      "cod": 7010,
      "nome": "SACO SOS LISO 10KG (32X22X12) C/50",
      "marca": "VINCO",
@@ -23175,13 +23063,6 @@
      "img": "produtos/9257.jpg"
     },
     {
-     "cod": 8099,
-     "nome": "CAIXA PRES. (G) DOURADA (25,5X35X7,5)",
-     "marca": "CRISTINA",
-     "preco": 15.9,
-     "img": "produtos/8099.jpg"
-    },
-    {
      "cod": 11996,
      "nome": "CAIXA PRES. (G) FESTA (35X25,5X7,5)",
      "marca": "CRISTINA",
@@ -23698,13 +23579,6 @@
      "img": "produtos/14230.jpg"
     },
     {
-     "cod": 7836,
-     "nome": "LIXEIRA PEDAL 10L PRETA",
-     "marca": "TOYPLAST",
-     "preco": 36.9,
-     "img": "produtos/7836.jpg"
-    },
-    {
      "cod": 13734,
      "nome": "LIXEIRA PEDAL 14L BRANCA",
      "marca": "NITRONPLAS",
@@ -23731,13 +23605,6 @@
      "marca": "TRITEC",
      "preco": 129.9,
      "img": "produtos/1778.jpg"
-    },
-    {
-     "cod": 6895,
-     "nome": "LIXEIRA PEDAL 7L CINZA",
-     "marca": "TOYPLAST",
-     "preco": 37.9,
-     "img": "produtos/6895.jpg"
     },
     {
      "cod": 13995,
@@ -23920,11 +23787,11 @@
      "img": "produtos/1035.jpg"
     },
     {
-     "cod": 14095,
-     "nome": "FITILHO BRANCO (PESO 1,3KG)",
+     "cod": 14329,
+     "nome": "FITILHO BRANCO",
      "marca": "TANQUE NOV",
      "preco": 37.9,
-     "img": "produtos/14095.jpg"
+     "img": "produtos/14329.jpg"
     },
     {
      "cod": 1724,
@@ -24142,20 +24009,6 @@
      "img": "produtos/4551.jpg"
     },
     {
-     "cod": 10304,
-     "nome": "LUVA NITRILICA-GG C/100 PRETA SEM PO",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/10304.jpg"
-    },
-    {
-     "cod": 8294,
-     "nome": "LUVA NITRILICA-M C/100 PRETA SEM PO",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/8294.jpg"
-    },
-    {
      "cod": 8295,
      "nome": "LUVA NITRILICA-P C/100 PRETA SEM PO",
      "marca": "",
@@ -24323,6 +24176,13 @@
      "img": "produtos/2154.jpg"
     },
     {
+     "cod": 2152,
+     "nome": "PAPEL TOALHA BRC C/1000 100%-INTERFORTY (ROSA)",
+     "marca": "INTERFORTY",
+     "preco": 23.9,
+     "img": "produtos/2152.jpg"
+    },
+    {
      "cod": 2153,
      "nome": "PAPEL TOALHA BRC C/1000 LUXO-INTERFORTY(VERMELHO)",
      "marca": "INTERFORTY",
@@ -24349,13 +24209,6 @@
      "marca": "",
      "preco": 13.5,
      "img": "produtos/6679.jpg"
-    },
-    {
-     "cod": 2152,
-     "nome": "TOA BRC C/1000 100%-INTERFORTY (ROSA)",
-     "marca": "INTERFORTY",
-     "preco": 23.9,
-     "img": "produtos/2152.jpg"
     },
     {
      "cod": 2155,
@@ -25747,27 +25600,6 @@
    "nome": "Marca Texto",
    "itens": [
     {
-     "cod": 11868,
-     "nome": "KIT MARCA TEXTO BRW GEL C/4-NEON",
-     "marca": "BRW",
-     "preco": 14.9,
-     "img": "produtos/11868.jpg"
-    },
-    {
-     "cod": 9397,
-     "nome": "KIT MARCA TEXTO JOCAR PASTEL C/6 MINI PICOLE",
-     "marca": "JOCAR",
-     "preco": 16.9,
-     "img": "produtos/9397.jpg"
-    },
-    {
-     "cod": 11569,
-     "nome": "KIT MARCA TEXTO MAPED CUTE PASTEL C/4",
-     "marca": "MAPED",
-     "preco": 18.9,
-     "img": "produtos/11569.jpg"
-    },
-    {
      "cod": 14241,
      "nome": "KIT MARCA TEXTO MAPED TONS PASTEL C/4",
      "marca": "MAPED",
@@ -25801,12 +25633,6 @@
        "img": "produtos/12220.jpg"
       },
       {
-       "cod": 12229,
-       "cor": "Rosa",
-       "nome": "MARCA TEXTO BRW GEL-ROSA",
-       "img": "produtos/12229.jpg"
-      },
-      {
        "cod": 12226,
        "cor": "Verde",
        "nome": "MARCA TEXTO BRW GEL-VERDE",
@@ -25815,46 +25641,11 @@
      ]
     },
     {
-     "cod": 12232,
-     "nome": "MARCA TEXTO BRW-DOUBLE INFINITY C/CHEIRO",
-     "marca": "BRW",
-     "preco": 18.9,
-     "img": "produtos/12232.jpg"
-    },
-    {
-     "cod": 8494,
-     "nome": "MARCA TEXTO CIS LUMINI MINI PASTEL-VERDE",
+     "cod": 13803,
+     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-VERDE",
      "marca": "CIS",
      "preco": 3.9,
-     "img": "produtos/8494.jpg"
-    },
-    {
-     "cod": 13801,
-     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/13801.jpg",
-     "cores": [
-      {
-       "cod": 13801,
-       "cor": "Amarelo",
-       "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-AMARELO",
-       "img": "produtos/13801.jpg"
-      },
-      {
-       "cod": 13803,
-       "cor": "Verde",
-       "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-VERDE",
-       "img": "produtos/13803.jpg"
-      }
-     ]
-    },
-    {
-     "cod": 11405,
-     "nome": "MARCA TEXTO CIS LUMINI PASTEL-CINZA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/11405.jpg"
+     "img": "produtos/13803.jpg"
     },
     {
      "cod": 1825,
@@ -25891,25 +25682,11 @@
      ]
     },
     {
-     "cod": 1826,
-     "nome": "MARCA TEXTO CIS",
+     "cod": 1827,
+     "nome": "MARCA TEXTO CIS-VERDE",
      "marca": "CIS",
      "preco": 3.0,
-     "img": "produtos/1826.jpg",
-     "cores": [
-      {
-       "cod": 1826,
-       "cor": "Rosa",
-       "nome": "MARCA TEXTO CIS-ROSA",
-       "img": "produtos/1826.jpg"
-      },
-      {
-       "cod": 1827,
-       "cor": "Verde",
-       "nome": "MARCA TEXTO CIS-VERDE",
-       "img": "produtos/1827.jpg"
-      }
-     ]
+     "img": "produtos/1827.jpg"
     },
     {
      "cod": 12733,
@@ -25933,20 +25710,6 @@
      "img": "produtos/1847.jpg"
     },
     {
-     "cod": 9132,
-     "nome": "MARCA TEXTO GEL AMARELO-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9132.jpg"
-    },
-    {
-     "cod": 9134,
-     "nome": "MARCA TEXTO GEL LARANJA-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9134.jpg"
-    },
-    {
      "cod": 1848,
      "nome": "MARCA TEXTO GEL ROSA-FABER",
      "marca": "FABER",
@@ -25959,13 +25722,6 @@
      "marca": "FABER",
      "preco": 12.9,
      "img": "produtos/6899.jpg"
-    },
-    {
-     "cod": 9136,
-     "nome": "MARCA TEXTO GEL VERDE-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9136.jpg"
     },
     {
      "cod": 10381,
@@ -25999,12 +25755,6 @@
        "img": "produtos/10382.jpg"
       },
       {
-       "cod": 10383,
-       "cor": "Rosa",
-       "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-ROSA",
-       "img": "produtos/10383.jpg"
-      },
-      {
        "cod": 10384,
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-VERDE",
@@ -26013,67 +25763,11 @@
      ]
     },
     {
-     "cod": 8510,
-     "nome": "MARCA TEXTO JOCAR PASTEL TREND",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/8510.jpg",
-     "cores": [
-      {
-       "cod": 8510,
-       "cor": "Amarelo",
-       "nome": "MARCA TEXTO JOCAR PASTEL TREND-AMARELO",
-       "img": "produtos/8510.jpg"
-      },
-      {
-       "cod": 8512,
-       "cor": "Salmao",
-       "nome": "MARCA TEXTO JOCAR PASTEL TREND-SALMAO",
-       "img": "produtos/8512.jpg"
-      }
-     ]
-    },
-    {
-     "cod": 11981,
-     "nome": "MARCA TEXTO JOCAR",
+     "cod": 13364,
+     "nome": "MARCA TEXTO JOCAR-LARANJA",
      "marca": "JOCAR",
      "preco": 2.0,
-     "img": "produtos/11981.jpg",
-     "cores": [
-      {
-       "cod": 11981,
-       "cor": "Amarelo",
-       "nome": "MARCA TEXTO JOCAR-AMARELO",
-       "img": "produtos/11981.jpg"
-      },
-      {
-       "cod": 13364,
-       "cor": "Laranja",
-       "nome": "MARCA TEXTO JOCAR-LARANJA",
-       "img": "produtos/13364.jpg"
-      }
-     ]
-    },
-    {
-     "cod": 8500,
-     "nome": "MARCA TEXTO LUNIX",
-     "marca": "TILIBRA",
-     "preco": 7.9,
-     "img": "produtos/8500.jpg",
-     "cores": [
-      {
-       "cod": 8500,
-       "cor": "Amarelo",
-       "nome": "MARCA TEXTO LUNIX-AMARELO",
-       "img": "produtos/8500.jpg"
-      },
-      {
-       "cod": 8502,
-       "cor": "Rosa",
-       "nome": "MARCA TEXTO LUNIX-ROSA",
-       "img": "produtos/8502.jpg"
-      }
-     ]
+     "img": "produtos/13364.jpg"
     },
     {
      "cod": 11547,
@@ -26704,13 +26398,6 @@
    "nome": "Capa Pronta para Caderno",
    "itens": [
     {
-     "cod": 3728,
-     "nome": "CAPA PRONTA AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
-     "marca": "MAXI PLAST",
-     "preco": 12.5,
-     "img": "produtos/3728.jpg"
-    },
-    {
      "cod": 667,
      "nome": "CAPA PRONTA ALIBOM. C/5 (CARTONADO)",
      "marca": "MAXI P.",
@@ -26725,18 +26412,25 @@
      "img": "produtos/671.jpg"
     },
     {
-     "cod": 670,
-     "nome": "CAPA PRONTA ESPIRAL C/5 (JUNTA)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/670.jpg"
-    },
-    {
      "cod": 672,
      "nome": "CAPA PRONTA LIVRO C/5 (AJUSTAVEL)",
      "marca": "MAXI P.",
      "preco": 12.5,
      "img": "produtos/672.jpg"
+    },
+    {
+     "cod": 3728,
+     "nome": "PROTETOR CADERNO AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
+     "marca": "MAXI PLAST",
+     "preco": 12.5,
+     "img": "produtos/3728.jpg"
+    },
+    {
+     "cod": 670,
+     "nome": "PROTETOR CADERNO ESPIRAL C/5 (JUNTA)",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/670.jpg"
     }
    ]
   },
