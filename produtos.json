@@ -396,6 +396,12 @@
        "img": "produtos/564.jpg"
       },
       {
+       "cod": 565,
+       "cor": "Preta",
+       "nome": "CANETA CIS SPIRO-PRETA",
+       "img": "produtos/565.jpg"
+      },
+      {
        "cod": 566,
        "cor": "Rosa",
        "nome": "CANETA CIS SPIRO-ROSA",
@@ -6363,13 +6369,6 @@
      "img": "produtos/13998.jpg"
     },
     {
-     "cod": 13999,
-     "nome": "CALCULADORA (G) AL-9835 (PILHA) (8 DIG)",
-     "marca": "ALFACELL",
-     "preco": 24.9,
-     "img": "produtos/13999.jpg"
-    },
-    {
      "cod": 14285,
      "nome": "CALCULADORA (G) CLA-8805",
      "marca": "CLASSE",
@@ -7827,20 +7826,6 @@
    "slug": "grampo",
    "nome": "Grampo",
    "itens": [
-    {
-     "cod": 8040,
-     "nome": "COLCHETE 13 C/72",
-     "marca": "",
-     "preco": 18.9,
-     "img": "produtos/8040.jpg"
-    },
-    {
-     "cod": 874,
-     "nome": "COLCHETE 8 C/72",
-     "marca": "CHAPARRAU",
-     "preco": 13.9,
-     "img": "produtos/874.jpg"
-    },
     {
      "cod": 14260,
      "nome": "GRAMPO 106/6 C/1000-ACC",
@@ -9328,6 +9313,13 @@
      "img": "produtos/43.jpg"
     },
     {
+     "cod": 14309,
+     "nome": "APAGADOR QUADRO C/D-FABER",
+     "marca": "FABER",
+     "preco": 21.9,
+     "img": "produtos/14309.jpg"
+    },
+    {
      "cod": 44,
      "nome": "APAGADOR QUADRO C/D-SOUZA",
      "marca": "SOUZA",
@@ -9748,6 +9740,13 @@
      "marca": "TIGRE",
      "preco": 4.5,
      "img": "produtos/6378.jpg"
+    },
+    {
+     "cod": 10997,
+     "nome": "PINCEL CHATO 12",
+     "marca": "",
+     "preco": 4.9,
+     "img": "produtos/10997.jpg"
     },
     {
      "cod": 10998,
@@ -11070,13 +11069,6 @@
      "img": "produtos/14211.jpg"
     },
     {
-     "cod": 1820,
-     "nome": "MALOTE NYLON 22X30MM HORIZONTAL-(REFORÇ)",
-     "marca": "ACP",
-     "preco": 19.9,
-     "img": "produtos/1820.jpg"
-    },
-    {
      "cod": 1821,
      "nome": "MALOTE NYLON 26X34MM HORIZONTAL-ACP(REFORÇ)",
      "marca": "ACP",
@@ -11502,6 +11494,13 @@
      "img": "produtos/2917.jpg"
     },
     {
+     "cod": 5229,
+     "nome": "SUPORTE DUREX GRD ACRIMET",
+     "marca": "ACRIMET",
+     "preco": 31.9,
+     "img": "produtos/5229.jpg"
+    },
+    {
      "cod": 2911,
      "nome": "SUPORTE DUREX GRD CAVIA",
      "marca": "CAVIA",
@@ -11760,6 +11759,13 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/6196.jpg"
+    },
+    {
+     "cod": 6951,
+     "nome": "PASTA CATALOGO PRETA C/30",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/6951.jpg"
     },
     {
      "cod": 6195,
@@ -12354,13 +12360,6 @@
      "img": "produtos/12933.jpg"
     },
     {
-     "cod": 14209,
-     "nome": "PASTA PP 4CM PLASCONY-PRETO",
-     "marca": "PLASCONY",
-     "preco": 6.9,
-     "img": "produtos/14209.jpg"
-    },
-    {
      "cod": 10020,
      "nome": "PASTA PP 4CM POLIBRAS NEON",
      "marca": "POLIBRAS",
@@ -12679,13 +12678,6 @@
      "img": "produtos/4920.jpg"
     },
     {
-     "cod": 4921,
-     "nome": "PLASTICO 4F OF. FINO C/100",
-     "marca": "DAC",
-     "preco": 29.9,
-     "img": "produtos/4921.jpg"
-    },
-    {
      "cod": 4922,
      "nome": "PLASTICO 4F OF. GROSSO C/100",
      "marca": "MP",
@@ -12714,6 +12706,13 @@
      "img": "produtos/13540.jpg"
     },
     {
+     "cod": 2741,
+     "nome": "SACO ADESIVADO 15X20 C/100",
+     "marca": "CROMUS",
+     "preco": 29.9,
+     "img": "produtos/2741.jpg"
+    },
+    {
      "cod": 2743,
      "nome": "SACO ADESIVADO 22X30 C/100",
      "marca": "VABENE",
@@ -12733,6 +12732,34 @@
      "marca": "GALA",
      "preco": 61.9,
      "img": "produtos/9784.jpg"
+    },
+    {
+     "cod": 4437,
+     "nome": "SACO ADESIVADO 5X7 C/100",
+     "marca": "GALA",
+     "preco": 7.9,
+     "img": "produtos/4437.jpg"
+    },
+    {
+     "cod": 2745,
+     "nome": "SACO ADESIVADO 6,5X9 C/100",
+     "marca": "CROMUS",
+     "preco": 10.5,
+     "img": "produtos/2745.jpg"
+    },
+    {
+     "cod": 4872,
+     "nome": "SACO ADESIVADO 6X7 C/100",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/4872.jpg"
+    },
+    {
+     "cod": 2746,
+     "nome": "SACO ADESIVADO 8X8 C/100",
+     "marca": "",
+     "preco": 11.9,
+     "img": "produtos/2746.jpg"
     }
    ]
   },
@@ -16202,13 +16229,6 @@
      "img": "produtos/11393.jpg"
     },
     {
-     "cod": 11394,
-     "nome": "MASSA POTE ACRILEX 500GR-CHOCOLATE",
-     "marca": "ACRILEX",
-     "preco": 18.9,
-     "img": "produtos/11394.jpg"
-    },
-    {
      "cod": 11397,
      "nome": "MASSA POTE ACRILEX 500GR-ROSA MARAVILHA",
      "marca": "ACRILEX",
@@ -18974,13 +18994,6 @@
      "img": "produtos/5067.jpg"
     },
     {
-     "cod": 5068,
-     "nome": "FORMA GO935 C/10 (BARCA PEQUENA)",
-     "marca": "GALVANOTEK",
-     "preco": 33.9,
-     "img": "produtos/5068.jpg"
-    },
-    {
      "cod": 1376,
      "nome": "FORMA PF642/S642/ECO642 C/300",
      "marca": "",
@@ -19063,13 +19076,6 @@
      "marca": "SANPACK",
      "preco": 59.9,
      "img": "produtos/1365.jpg"
-    },
-    {
-     "cod": 7045,
-     "nome": "FORMA S35/ECO35 (ALTA) C/100-(PRETA)",
-     "marca": "",
-     "preco": 59.9,
-     "img": "produtos/7045.jpg"
     },
     {
      "cod": 1366,
@@ -20464,13 +20470,6 @@
      "img": "produtos/2728.jpg"
     },
     {
-     "cod": 8160,
-     "nome": "SACO 50X70 (0.10) TRANSPARENTE",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/8160.jpg"
-    },
-    {
      "cod": 2732,
      "nome": "SACO 50X70 (0.15) TRANSPARENTE",
      "marca": "",
@@ -20744,6 +20743,13 @@
      "img": "produtos/7176.jpg"
     },
     {
+     "cod": 7175,
+     "nome": "SACO ZIPLOCK (03) 7X10 C/10",
+     "marca": "",
+     "preco": 2.2,
+     "img": "produtos/7175.jpg"
+    },
+    {
      "cod": 7172,
      "nome": "SACO ZIPLOCK (04) 10X14 C/10",
      "marca": "",
@@ -20900,12 +20906,6 @@
        "cor": "Branca",
        "nome": "SACOLA PH 20X30 C/50-BRANCA",
        "img": "produtos/3669.jpg"
-      },
-      {
-       "cod": 2845,
-       "cor": "Dourada",
-       "nome": "SACOLA PH 20X30 C/50-DOURADA",
-       "img": "produtos/2845.jpg"
       },
       {
        "cod": 3670,
@@ -21931,18 +21931,18 @@
      "img": "produtos/2786.jpg"
     },
     {
+     "cod": 13529,
+     "nome": "SACO SOS DEC. 10KG (32X22X12) C/50",
+     "marca": "VINCO",
+     "preco": 26.9,
+     "img": "produtos/13529.jpg"
+    },
+    {
      "cod": 2800,
      "nome": "SACO SOS DEC. 10KG (37X20X10,5) C/100",
      "marca": "CIPAPEL",
      "preco": 51.9,
      "img": "produtos/2800.jpg"
-    },
-    {
-     "cod": 13529,
-     "nome": "SACO SOS DEC. 10KG (37X20X10,5) C/50",
-     "marca": "VINCO",
-     "preco": 26.9,
-     "img": "produtos/13529.jpg"
     },
     {
      "cod": 7012,
@@ -22515,13 +22515,6 @@
        "img": "produtos/13754.jpg"
       }
      ]
-    },
-    {
-     "cod": 13753,
-     "nome": "FITA CETIM N2 10MMX10MT-VERDE FOLHA",
-     "marca": "PROGRESSO",
-     "preco": 5.9,
-     "img": "produtos/13753.jpg"
     },
     {
      "cod": 9067,
@@ -23787,13 +23780,6 @@
      "img": "produtos/1035.jpg"
     },
     {
-     "cod": 14329,
-     "nome": "FITILHO BRANCO",
-     "marca": "TANQUE NOV",
-     "preco": 37.9,
-     "img": "produtos/14329.jpg"
-    },
-    {
      "cod": 1724,
      "nome": "LINHA 100 JARDAS (TUBINHO)",
      "marca": "SETTA",
@@ -23861,6 +23847,13 @@
      "marca": "MAMUTH",
      "preco": 35.9,
      "img": "produtos/1493.jpg"
+    },
+    {
+     "cod": 1494,
+     "nome": "GOMINHA MAMUTH C/100GR (120 UN)",
+     "marca": "MAMUTH",
+     "preco": 6.9,
+     "img": "produtos/1494.jpg"
     },
     {
      "cod": 1495,
@@ -24709,13 +24702,6 @@
    "nome": "Apontador",
    "itens": [
     {
-     "cod": 12650,
-     "nome": "APONTADOR ACRILEX C/D 1F-PRETO (22406)",
-     "marca": "ACRILEX",
-     "preco": 6.9,
-     "img": "produtos/12650.jpg"
-    },
-    {
      "cod": 11862,
      "nome": "APONTADOR BRW S/D 1F (PANDA)",
      "marca": "BRW",
@@ -24841,18 +24827,12 @@
      ]
     },
     {
-     "cod": 8465,
+     "cod": 8464,
      "nome": "APONTADOR FABER C/D ELIPSE",
      "marca": "FABER",
      "preco": 7.9,
-     "img": "produtos/8465.jpg",
+     "img": "produtos/8464.jpg",
      "cores": [
-      {
-       "cod": 8465,
-       "cor": "Cinza",
-       "nome": "APONTADOR FABER C/D ELIPSE-CINZA",
-       "img": "produtos/8465.jpg"
-      },
       {
        "cod": 8464,
        "cor": "Preto",
