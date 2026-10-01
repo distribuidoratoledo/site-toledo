@@ -279,6 +279,13 @@
      "img": "produtos/10588.jpg"
     },
     {
+     "cod": 14296,
+     "nome": "CANETA CIS SPIRO (GRADE)",
+     "marca": "CIS",
+     "preco": 4.5,
+     "img": "produtos/14296.jpg"
+    },
+    {
      "cod": 5300,
      "nome": "CANETA CIS SPIRO GEM-AZUL (CORPO DOURADO)",
      "marca": "CIS",
@@ -376,12 +383,6 @@
        "cor": "Azul Claro",
        "nome": "CANETA CIS SPIRO-AZUL CLARO",
        "img": "produtos/561.jpg"
-      },
-      {
-       "cod": 562,
-       "cor": "Azul Escuro",
-       "nome": "CANETA CIS SPIRO-AZUL ESCURO",
-       "img": "produtos/562.jpg"
       },
       {
        "cod": 563,
@@ -2696,6 +2697,12 @@
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg"
+      },
+      {
+       "cod": 2657,
+       "cor": "Preto",
+       "nome": "RETRO 2.0 PILOT-PRETO",
+       "img": "produtos/2657.jpg"
       },
       {
        "cod": 2658,
@@ -5995,6 +6002,12 @@
        "img": "produtos/9320.jpg"
       },
       {
+       "cod": 9319,
+       "cor": "Azul",
+       "nome": "CADERNO PEQ. CD 96F (AZUL)",
+       "img": "produtos/9319.jpg"
+      },
+      {
        "cod": 12455,
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
@@ -7827,6 +7840,13 @@
    "nome": "Grampo",
    "itens": [
     {
+     "cod": 874,
+     "nome": "COLCHETE 8 C/72",
+     "marca": "CHAPARRAU",
+     "preco": 13.9,
+     "img": "produtos/874.jpg"
+    },
+    {
      "cod": 14260,
      "nome": "GRAMPO 106/6 C/1000-ACC",
      "marca": "ACC",
@@ -9013,13 +9033,6 @@
      "img": "produtos/2099.jpg"
     },
     {
-     "cod": 2100,
-     "nome": "PAPEL FOTO A4-180GR C/50-MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 29.9,
-     "img": "produtos/2100.jpg"
-    },
-    {
      "cod": 4344,
      "nome": "PAPEL FOTO A4-230GR C/20-MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -9265,6 +9278,13 @@
      "img": "produtos/7872.jpg"
     },
     {
+     "cod": 7335,
+     "nome": "VERGE 180G C/50 CREME-USAPEL",
+     "marca": "USAPEL",
+     "preco": 21.9,
+     "img": "produtos/7335.jpg"
+    },
+    {
      "cod": 3962,
      "nome": "VERGE 180G C/50 SALMÃO-FILIPAPER",
      "marca": "FILIPAPER",
@@ -9355,6 +9375,20 @@
      "img": "produtos/14006.jpg"
     },
     {
+     "cod": 6700,
+     "nome": "QUADRO BRANCO 1,20X90 (AL) SOUZA",
+     "marca": "SOUZA",
+     "preco": 139.9,
+     "img": "produtos/6700.jpg"
+    },
+    {
+     "cod": 7667,
+     "nome": "QUADRO BRANCO 100X70 (AL)",
+     "marca": "SOUZA",
+     "preco": 99.9,
+     "img": "produtos/7667.jpg"
+    },
+    {
      "cod": 2583,
      "nome": "QUADRO BRANCO 100X70 (AL) STALO",
      "marca": "STALO",
@@ -9362,11 +9396,32 @@
      "img": "produtos/2583.jpg"
     },
     {
+     "cod": 3996,
+     "nome": "QUADRO BRANCO 60X40 (AL)",
+     "marca": "SOUZA",
+     "preco": 59.9,
+     "img": "produtos/3996.jpg"
+    },
+    {
      "cod": 2584,
      "nome": "QUADRO BRANCO 60X40 (AL) STALO",
      "marca": "STALO",
      "preco": 59.9,
      "img": "produtos/2584.jpg"
+    },
+    {
+     "cod": 2585,
+     "nome": "QUADRO BRANCO 70X50 (AL)",
+     "marca": "SOUZA",
+     "preco": 79.9,
+     "img": "produtos/2585.jpg"
+    },
+    {
+     "cod": 4296,
+     "nome": "QUADRO BRANCO 90X60 (AL)",
+     "marca": "STALO",
+     "preco": 89.9,
+     "img": "produtos/4296.jpg"
     },
     {
      "cod": 6701,
@@ -10918,24 +10973,10 @@
     },
     {
      "cod": 778,
-     "nome": "CHAVEIRO MAXCRIL",
+     "nome": "CHAVEIRO MAXCRIL BRANCO",
      "marca": "MAXCRIL",
      "preco": 1.0,
-     "img": "produtos/778.jpg",
-     "cores": [
-      {
-       "cod": 778,
-       "cor": "Branco",
-       "nome": "CHAVEIRO MAXCRIL BRANCO",
-       "img": "produtos/778.jpg"
-      },
-      {
-       "cod": 3309,
-       "cor": "Colorido",
-       "nome": "CHAVEIRO MAXCRIL COLORIDO",
-       "img": "produtos/3309.jpg"
-      }
-     ]
+     "img": "produtos/778.jpg"
     },
     {
      "cod": 1245,
@@ -11353,13 +11394,6 @@
      "marca": "MAXCRIL",
      "preco": 15.9,
      "img": "produtos/6242.jpg"
-    },
-    {
-     "cod": 2535,
-     "nome": "PRANCHETA ACRILICA OF. (PREND. METAL) CRISTAL",
-     "marca": "",
-     "preco": 27.9,
-     "img": "produtos/2535.jpg"
     },
     {
      "cod": 2534,
@@ -13343,6 +13377,13 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3070.jpg"
+    },
+    {
+     "cod": 14258,
+     "nome": "TNT VERDE LIMAO",
+     "marca": "SANTA FE",
+     "preco": 1.8,
+     "img": "produtos/14258.jpg"
     },
     {
      "cod": 3071,
@@ -15417,7 +15458,7 @@
      "cod": 9226,
      "nome": "ARQUIVO MORTO OFICIO-PAPEL",
      "marca": "",
-     "preco": 5.9,
+     "preco": 3.9,
      "img": "produtos/9226.jpg"
     }
    ]
@@ -15995,13 +16036,6 @@
    "slug": "giz-massa",
    "nome": "Giz e Massa de Modelar",
    "itens": [
-    {
-     "cod": 13713,
-     "nome": "ARGILA ESCOLAR-1KG",
-     "marca": "REZENDE",
-     "preco": 13.9,
-     "img": "produtos/13713.jpg"
-    },
     {
      "cod": 13270,
      "nome": "GIZ CERA MAPED C/6",
@@ -17204,13 +17238,6 @@
      "marca": "MAPED",
      "preco": 49.9,
      "img": "produtos/13315.jpg"
-    },
-    {
-     "cod": 4337,
-     "nome": "GRAFITE 2.0 2B CIS BIG TREE C/6",
-     "marca": "CIS",
-     "preco": 5.9,
-     "img": "produtos/4337.jpg"
     }
    ]
   },
@@ -17472,6 +17499,13 @@
      "img": "produtos/947.jpg"
     },
     {
+     "cod": 948,
+     "nome": "COPO 300ML PS C/100-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 9.9,
+     "img": "produtos/948.jpg"
+    },
+    {
      "cod": 8806,
      "nome": "COPO 400ML PS C/50-COPOPLAST",
      "marca": "COPOPLAST",
@@ -17652,6 +17686,13 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg"
+    },
+    {
+     "cod": 7351,
+     "nome": "TAMPA 200/250ML (S/F) C/50-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 6.9,
+     "img": "produtos/7351.jpg"
     },
     {
      "cod": 2934,
@@ -18349,7 +18390,7 @@
      "cod": 6841,
      "nome": "PT100 COPOPLAST C/100 (FUNDO)",
      "marca": "COPOPLAST",
-     "preco": 28.9,
+     "preco": 20.9,
      "img": "produtos/6841.jpg"
     },
     {
@@ -18407,13 +18448,6 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/5821.jpg"
-    },
-    {
-     "cod": 3989,
-     "nome": "PT500 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/3989.jpg"
     },
     {
      "cod": 4129,
@@ -18748,13 +18782,6 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg"
-    },
-    {
-     "cod": 11691,
-     "nome": "POTE RETANG. 500ML C/24-TOTALPLAST",
-     "marca": "TOTALPLAST",
-     "preco": 21.9,
-     "img": "produtos/11691.jpg"
     },
     {
      "cod": 11690,
@@ -19767,6 +19794,13 @@
      "img": "produtos/190.jpg"
     },
     {
+     "cod": 1341,
+     "nome": "FORMA ALUM B95/90 (98X127) 220ML C/100-MARMITINHA",
+     "marca": "MARMITINHA",
+     "preco": 49.9,
+     "img": "produtos/1341.jpg"
+    },
+    {
      "cod": 14232,
      "nome": "FORMA ALUM D5 (170X275) 1150ML C/100-PRAVIAGEM",
      "marca": "PRAVIAGEM",
@@ -20263,7 +20297,7 @@
      "cod": 2706,
      "nome": "SACO 12X25 C/100 (BAIXA)",
      "marca": "ROMA P.",
-     "preco": 7.9,
+     "preco": 6.9,
      "img": "produtos/2706.jpg"
     },
     {
@@ -21110,13 +21144,6 @@
      "img": "produtos/6825.jpg"
     },
     {
-     "cod": 3964,
-     "nome": "SACOLA VOLTE S. 30X40 (1,940KG)",
-     "marca": "",
-     "preco": 72.9,
-     "img": "produtos/3964.jpg"
-    },
-    {
      "cod": 2877,
      "nome": "SACOLA VOLTE S. 38X48 (3K)",
      "marca": "",
@@ -21838,6 +21865,13 @@
      "marca": "IEC",
      "preco": 104.9,
      "img": "produtos/4292.jpg"
+    },
+    {
+     "cod": 2759,
+     "nome": "SACO KRAFT 1KG C/100 (CAIXA)",
+     "marca": "IEC",
+     "preco": 5.9,
+     "img": "produtos/2759.jpg"
     },
     {
      "cod": 4935,
@@ -22847,18 +22881,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 2942,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "GRESPAN",
-     "preco": 1.0,
-     "img": "produtos/2942.jpg"
-    },
-    {
      "cod": 9218,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "CROMUS",
      "preco": 2.0,
      "img": "produtos/9218.jpg"
+    },
+    {
+     "cod": 2942,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "GRESPAN",
+     "preco": 1.0,
+     "img": "produtos/2942.jpg"
     },
     {
      "cod": 2944,
@@ -23780,6 +23814,13 @@
      "img": "produtos/1035.jpg"
     },
     {
+     "cod": 14329,
+     "nome": "FITILHO BRANCO",
+     "marca": "TANQUE NOV",
+     "preco": 37.9,
+     "img": "produtos/14329.jpg"
+    },
+    {
      "cod": 1724,
      "nome": "LINHA 100 JARDAS (TUBINHO)",
      "marca": "SETTA",
@@ -23792,13 +23833,6 @@
      "marca": "DOURADO",
      "preco": 4.9,
      "img": "produtos/1725.jpg"
-    },
-    {
-     "cod": 7056,
-     "nome": "MESINHA P/ PIZZA C/100-BRANCO",
-     "marca": "GOLDENPLAS",
-     "preco": 12.9,
-     "img": "produtos/7056.jpg"
     },
     {
      "cod": 5194,
@@ -24023,25 +24057,11 @@
      "img": "produtos/12279.jpg"
     },
     {
-     "cod": 10988,
-     "nome": "LUVA VINIL-GG C/100 SEM PO",
-     "marca": "",
-     "preco": 21.9,
-     "img": "produtos/10988.jpg"
-    },
-    {
      "cod": 9014,
      "nome": "LUVA VINIL-M C/100 COM PO",
      "marca": "",
      "preco": 21.9,
      "img": "produtos/9014.jpg"
-    },
-    {
-     "cod": 8296,
-     "nome": "LUVA VINIL-M C/100 SEM PO",
-     "marca": "",
-     "preco": 21.9,
-     "img": "produtos/8296.jpg"
     },
     {
      "cod": 10989,
@@ -24501,11 +24521,39 @@
      "img": "produtos/2690.jpg"
     },
     {
-     "cod": 9805,
-     "nome": "SABONETEIRA PREMISSE INVOQ-PRETA (C/RES)",
+     "cod": 9810,
+     "nome": "SABONETEIRA PREMISSE COMP.-PRETA (C/RES)",
      "marca": "PREMISSE",
-     "preco": 32.9,
-     "img": "produtos/9805.jpg"
+     "preco": 45.9,
+     "img": "produtos/9810.jpg"
+    },
+    {
+     "cod": 9806,
+     "nome": "SABONETEIRA PREMISSE INVOQ (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 52.9,
+     "img": "produtos/9806.jpg",
+     "cores": [
+      {
+       "cod": 9806,
+       "cor": "Branca",
+       "nome": "SABONETEIRA PREMISSE INVOQ-BRANCA (C/RES)",
+       "img": "produtos/9806.jpg"
+      },
+      {
+       "cod": 9805,
+       "cor": "Preta",
+       "nome": "SABONETEIRA PREMISSE INVOQ-PRETA (C/RES)",
+       "img": "produtos/9805.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 9811,
+     "nome": "SABONETEIRA PREMISSE URBAN-BRANCA (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 45.9,
+     "img": "produtos/9811.jpg"
     },
     {
      "cod": 7651,
@@ -24515,6 +24563,20 @@
      "img": "produtos/7651.jpg"
     },
     {
+     "cod": 9812,
+     "nome": "TOALHEIRO AUTOCORTE BRANCO-PREMISSE",
+     "marca": "PREMISSE",
+     "preco": 363.9,
+     "img": "produtos/9812.jpg"
+    },
+    {
+     "cod": 14297,
+     "nome": "TOALHEIRO AUTOCORTE PRETO-PREMISSE",
+     "marca": "PREMISSE",
+     "preco": 363.9,
+     "img": "produtos/14297.jpg"
+    },
+    {
      "cod": 3072,
      "nome": "TOALHEIRO BELL PLUS",
      "marca": "BELL PLUS",
@@ -24522,11 +24584,100 @@
      "img": "produtos/3072.jpg"
     },
     {
-     "cod": 9803,
-     "nome": "TOALHEIRO PREMISSE INVOQ-PRETO",
+     "cod": 3073,
+     "nome": "TOALHEIRO PREMISSE COMP",
      "marca": "PREMISSE",
-     "preco": 75.9,
-     "img": "produtos/9803.jpg"
+     "preco": 53.9,
+     "img": "produtos/3073.jpg",
+     "cores": [
+      {
+       "cod": 3073,
+       "cor": "Azul",
+       "nome": "TOALHEIRO PREMISSE COMP-AZUL",
+       "img": "produtos/3073.jpg"
+      },
+      {
+       "cod": 9813,
+       "cor": "Fume",
+       "nome": "TOALHEIRO PREMISSE COMP-FUME",
+       "img": "produtos/9813.jpg"
+      },
+      {
+       "cod": 3076,
+       "cor": "Marrom",
+       "nome": "TOALHEIRO PREMISSE COMP-MARROM",
+       "img": "produtos/3076.jpg"
+      },
+      {
+       "cod": 3077,
+       "cor": "Verde",
+       "nome": "TOALHEIRO PREMISSE COMP-VERDE",
+       "img": "produtos/3077.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 9801,
+     "nome": "TOALHEIRO PREMISSE COMP",
+     "marca": "PREMISSE",
+     "preco": 46.9,
+     "img": "produtos/9801.jpg",
+     "cores": [
+      {
+       "cod": 9801,
+       "cor": "Branco",
+       "nome": "TOALHEIRO PREMISSE COMP-BRANCO",
+       "img": "produtos/9801.jpg"
+      },
+      {
+       "cod": 9814,
+       "cor": "Preto",
+       "nome": "TOALHEIRO PREMISSE COMP-PRETO",
+       "img": "produtos/9814.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 9804,
+     "nome": "TOALHEIRO PREMISSE COMP. INVOQ",
+     "marca": "PREMISSE",
+     "preco": 61.9,
+     "img": "produtos/9804.jpg",
+     "cores": [
+      {
+       "cod": 9804,
+       "cor": "Branco",
+       "nome": "TOALHEIRO PREMISSE COMP. INVOQ-BRANCO",
+       "img": "produtos/9804.jpg"
+      },
+      {
+       "cod": 14298,
+       "cor": "Preto",
+       "nome": "TOALHEIRO PREMISSE COMP. INVOQ-PRETO",
+       "img": "produtos/14298.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 7649,
+     "nome": "TOALHEIRO PREMISSE INVOQ",
+     "marca": "PREMISSE",
+     "preco": 93.9,
+     "img": "produtos/7649.jpg",
+     "cores": [
+      {
+       "cod": 7649,
+       "cor": "Branco",
+       "nome": "TOALHEIRO PREMISSE INVOQ-BRANCO",
+       "img": "produtos/7649.jpg"
+      },
+      {
+       "cod": 9803,
+       "cor": "Preto",
+       "nome": "TOALHEIRO PREMISSE INVOQ-PRETO",
+       "img": "produtos/9803.jpg"
+      }
+     ]
     }
    ]
   },
@@ -24659,13 +24810,6 @@
      "marca": "SAO JOSE",
      "preco": 61.9,
      "img": "produtos/13365.jpg"
-    },
-    {
-     "cod": 11800,
-     "nome": "RODO MOP LIMPA AZULEZO",
-     "marca": "LAV+",
-     "preco": 19.9,
-     "img": "produtos/11800.jpg"
     },
     {
      "cod": 2662,
