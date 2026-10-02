@@ -279,13 +279,6 @@
      "img": "produtos/10588.jpg"
     },
     {
-     "cod": 14296,
-     "nome": "CANETA CIS SPIRO (GRADE)",
-     "marca": "CIS",
-     "preco": 4.5,
-     "img": "produtos/14296.jpg"
-    },
-    {
      "cod": 5300,
      "nome": "CANETA CIS SPIRO GEM-AZUL (CORPO DOURADO)",
      "marca": "CIS",
@@ -383,6 +376,12 @@
        "cor": "Azul Claro",
        "nome": "CANETA CIS SPIRO-AZUL CLARO",
        "img": "produtos/561.jpg"
+      },
+      {
+       "cod": 562,
+       "cor": "Azul Escuro",
+       "nome": "CANETA CIS SPIRO-AZUL ESCURO",
+       "img": "produtos/562.jpg"
       },
       {
        "cod": 563,
@@ -3312,6 +3311,61 @@
      "img": "produtos/3118.jpg"
     },
     {
+     "cod": 14313,
+     "nome": "AGENDA COMERCIAL ESPIRAL 352FLS",
+     "marca": "LORIGRAF",
+     "preco": 23.9,
+     "img": "produtos/14313.jpg",
+     "cores": [
+      {
+       "cod": 14313,
+       "cor": "Azul",
+       "nome": "AGENDA COMERCIAL ESPIRAL  352FLS AZUL",
+       "img": "produtos/14313.jpg"
+      },
+      {
+       "cod": 14312,
+       "cor": "Preto",
+       "nome": "AGENDA COMERCIAL ESPIRAL  352FLS PRETO",
+       "img": "produtos/14312.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 14315,
+     "nome": "AGENDA EXECUTIVA COURINO 352FLS",
+     "marca": "LORIGRAF",
+     "preco": 31.9,
+     "img": "produtos/14315.jpg",
+     "cores": [
+      {
+       "cod": 14315,
+       "cor": "Azul Escuro",
+       "nome": "AGENDA EXECUTIVA COURINO 352FLS AZUL ESCURO",
+       "img": "produtos/14315.jpg"
+      },
+      {
+       "cod": 14316,
+       "cor": "Grafite",
+       "nome": "AGENDA EXECUTIVA COURINO 352FLS GRAFITE",
+       "img": "produtos/14316.jpg"
+      },
+      {
+       "cod": 14314,
+       "cor": "Preto",
+       "nome": "AGENDA EXECUTIVA COURINO 352FLS PRETO",
+       "img": "produtos/14314.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 14311,
+     "nome": "AGENDA PERMANENTE 388FLS PRETO",
+     "marca": "LORIGRAF",
+     "preco": 23.9,
+     "img": "produtos/14311.jpg"
+    },
+    {
      "cod": 12512,
      "nome": "AGENDA PERMANENTE DAC MARROM 388F",
      "marca": "DAC",
@@ -3414,6 +3468,13 @@
      "marca": "TAMOIO",
      "preco": 4.9,
      "img": "produtos/13533.jpg"
+    },
+    {
+     "cod": 14310,
+     "nome": "CADERNETA ESP. CD 75F + 1 CANETA BAMBU",
+     "marca": "LORIGRAF",
+     "preco": 14.9,
+     "img": "produtos/14310.jpg"
     },
     {
      "cod": 6064,
@@ -11035,13 +11096,6 @@
      "img": "produtos/1117.jpg"
     },
     {
-     "cod": 1266,
-     "nome": "FICHARIO MESA 6X9 PRETO-MAXCRIL",
-     "marca": "MAXCRIL",
-     "preco": 125.9,
-     "img": "produtos/1266.jpg"
-    },
-    {
      "cod": 9848,
      "nome": "GANCHO DE PAREDE GRANDE-COMMAND (BRANCO) C/1",
      "marca": "COMMAND",
@@ -11795,13 +11849,6 @@
      "img": "produtos/6196.jpg"
     },
     {
-     "cod": 6951,
-     "nome": "PASTA CATALOGO PRETA C/30",
-     "marca": "",
-     "preco": 21.9,
-     "img": "produtos/6951.jpg"
-    },
-    {
      "cod": 6195,
      "nome": "PASTA CATALOGO PRETA C/50",
      "marca": "ACP",
@@ -12490,27 +12537,6 @@
      ]
     },
     {
-     "cod": 2260,
-     "nome": "PASTA PP MINI 1CM TRANSPARENTE",
-     "marca": "POLIBRAS",
-     "preco": 3.9,
-     "img": "produtos/2260.jpg",
-     "cores": [
-      {
-       "cod": 2260,
-       "cor": "Cristal",
-       "nome": "PASTA PP MINI 1CM-CRISTAL",
-       "img": "produtos/2260.jpg"
-      },
-      {
-       "cod": 7167,
-       "cor": "Fume",
-       "nome": "PASTA PP MINI 1CM-FUME",
-       "img": "produtos/7167.jpg"
-      }
-     ]
-    },
-    {
      "cod": 7166,
      "nome": "PASTA PP MINI 2CM-CRISTAL",
      "marca": "POLIBRAS",
@@ -12999,12 +13025,6 @@
        "cor": "Roxo",
        "nome": "TESOURA S/P TRAMONTINA-ROXO",
        "img": "produtos/3702.jpg"
-      },
-      {
-       "cod": 3705,
-       "cor": "Vermelha",
-       "nome": "TESOURA S/P TRAMONTINA-VERMELHA",
-       "img": "produtos/3705.jpg"
       }
      ]
     },
@@ -13153,12 +13173,6 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg"
-      },
-      {
-       "cod": 1227,
-       "cor": "Violeta",
-       "nome": "EVA GLITER-VIOLETA",
-       "img": "produtos/1227.jpg"
       }
      ]
     },
@@ -13898,6 +13912,13 @@
      "marca": "LUXCEL",
      "preco": 260.9,
      "img": "produtos/12269.jpg"
+    },
+    {
+     "cod": 1585,
+     "nome": "BOLSA TERMICA (FRENTE) LANCHE/PIZZA",
+     "marca": "PLENITUDE",
+     "preco": 155.0,
+     "img": "produtos/1585.jpg"
     },
     {
      "cod": 5040,
@@ -15041,11 +15062,25 @@
      "img": "produtos/1038.jpg"
     },
     {
+     "cod": 1040,
+     "nome": "ENVELOPE KRAFT 162X229 (SKN 023)",
+     "marca": "SCRITY",
+     "preco": 0.25,
+     "img": "produtos/1040.jpg"
+    },
+    {
      "cod": 1042,
      "nome": "ENVELOPE KRAFT 176X250 (SKN 025)",
      "marca": "SCRITY",
      "preco": 0.3,
      "img": "produtos/1042.jpg"
+    },
+    {
+     "cod": 1045,
+     "nome": "ENVELOPE KRAFT 185X248 (SKN 024)",
+     "marca": "SCRITY",
+     "preco": 0.3,
+     "img": "produtos/1045.jpg"
     },
     {
      "cod": 1049,
@@ -15269,13 +15304,6 @@
      "marca": "",
      "preco": 46.9,
      "img": "produtos/5580.jpg"
-    },
-    {
-     "cod": 14263,
-     "nome": "ESPIRAL 40MM P/350F C/20",
-     "marca": "",
-     "preco": 48.9,
-     "img": "produtos/14263.jpg"
     },
     {
      "cod": 1128,
@@ -15522,13 +15550,6 @@
      "marca": "TAMOIO",
      "preco": 72.9,
      "img": "produtos/9130.jpg"
-    },
-    {
-     "cod": 12803,
-     "nome": "BLOCO LEMBRETE TILIBRA 50F-SNOOPY",
-     "marca": "TILIBRA",
-     "preco": 9.9,
-     "img": "produtos/12803.jpg"
     },
     {
      "cod": 12831,
@@ -15869,20 +15890,6 @@
    "slug": "livros",
    "nome": "Livros",
    "itens": [
-    {
-     "cod": 86,
-     "nome": "ATLAS CORPO HUMANO MAGICO-C.CULTURAL",
-     "marca": "C.CULTURAL",
-     "preco": 6.9,
-     "img": "produtos/86.jpg"
-    },
-    {
-     "cod": 85,
-     "nome": "ATLAS CORPO HUMANO-C.CULTURAL",
-     "marca": "C.CULTURAL",
-     "preco": 3.0,
-     "img": "produtos/85.jpg"
-    },
     {
      "cod": 999,
      "nome": "DICIONARIO ESPANHOL SILVEIRA BUENO",
@@ -17467,7 +17474,7 @@
      "cod": 943,
      "nome": "COPO 200ML PP C/100-COPOBRAS",
      "marca": "COPOBRAS",
-     "preco": 9.9,
+     "preco": 6.9,
      "img": "produtos/943.jpg"
     },
     {
@@ -17495,7 +17502,7 @@
      "cod": 947,
      "nome": "COPO 300ML PP C/100-COPOBRAS",
      "marca": "COPOBRAS",
-     "preco": 15.9,
+     "preco": 11.9,
      "img": "produtos/947.jpg"
     },
     {
@@ -17586,14 +17593,14 @@
      "cod": 953,
      "nome": "COPO LISO 500/550ML C/50-ULTRA",
      "marca": "ULTRA",
-     "preco": 15.9,
+     "preco": 13.9,
      "img": "produtos/953.jpg"
     },
     {
      "cod": 958,
      "nome": "COPO LISO 700/770ML C/25-ULTRA",
      "marca": "ULTRA",
-     "preco": 13.9,
+     "preco": 9.9,
      "img": "produtos/958.jpg"
     },
     {
@@ -18450,6 +18457,13 @@
      "img": "produtos/5821.jpg"
     },
     {
+     "cod": 3989,
+     "nome": "PT500 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/3989.jpg"
+    },
+    {
      "cod": 4129,
      "nome": "PT500 COPOBRAS C/100 (TAMPA)",
      "marca": "COPOBRAS",
@@ -18626,14 +18640,14 @@
      "cod": 2493,
      "nome": "POTE (KIT) 1000ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
-     "preco": 36.9,
+     "preco": 32.9,
      "img": "produtos/2493.jpg"
     },
     {
      "cod": 2495,
      "nome": "POTE (KIT) 140ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
-     "preco": 11.9,
+     "preco": 8.9,
      "img": "produtos/2495.jpg"
     },
     {
@@ -18675,7 +18689,7 @@
      "cod": 2503,
      "nome": "POTE (KIT) 250ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
-     "preco": 16.9,
+     "preco": 12.9,
      "img": "produtos/2503.jpg"
     },
     {
@@ -18689,7 +18703,7 @@
      "cod": 6315,
      "nome": "POTE (KIT) 350ML C/25-RIOPLASTIC (SOBRE TAMPA)",
      "marca": "RIOPLASTIC",
-     "preco": 17.9,
+     "preco": 14.9,
      "img": "produtos/6315.jpg"
     },
     {
@@ -18703,7 +18717,7 @@
      "cod": 2511,
      "nome": "POTE (KIT) 500ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
-     "preco": 27.9,
+     "preco": 18.9,
      "img": "produtos/2511.jpg"
     },
     {
@@ -18782,6 +18796,13 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg"
+    },
+    {
+     "cod": 11691,
+     "nome": "POTE RETANG. 500ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 21.9,
+     "img": "produtos/11691.jpg"
     },
     {
      "cod": 11690,
@@ -19258,13 +19279,6 @@
      "img": "produtos/3898.jpg"
     },
     {
-     "cod": 2553,
-     "nome": "PRATO P-21 RASO C/10",
-     "marca": "",
-     "preco": 3.5,
-     "img": "produtos/2553.jpg"
-    },
-    {
      "cod": 11873,
      "nome": "PRATO P-23 FUNDO C/10",
      "marca": "COPOPLAST",
@@ -19609,14 +19623,14 @@
      "cod": 1551,
      "nome": "GUARDANAPO 14X14 C/1800-BRASIPEL",
      "marca": "BRASIPEL",
-     "preco": 15.9,
+     "preco": 13.9,
      "img": "produtos/1551.jpg"
     },
     {
      "cod": 7935,
      "nome": "GUARDANAPO 14X14 C/1800-SANTPEL",
      "marca": "SANTPEL",
-     "preco": 15.9,
+     "preco": 13.9,
      "img": "produtos/7935.jpg"
     },
     {
@@ -19685,7 +19699,7 @@
      "cod": 31,
      "nome": "ALUMINIO 30X4,0MT",
      "marca": "",
-     "preco": 2.9,
+     "preco": 2.45,
      "img": "produtos/31.jpg"
     },
     {
@@ -20010,13 +20024,6 @@
      "img": "produtos/11674.jpg"
     },
     {
-     "cod": 1113,
-     "nome": "ESPETO DE BAMBU C/50-M. E MOTA",
-     "marca": "M. E MOTA",
-     "preco": 6.9,
-     "img": "produtos/1113.jpg"
-    },
-    {
      "cod": 7108,
      "nome": "ESPETO KNOTTED 15CM C/50",
      "marca": "NATURAL",
@@ -20110,7 +20117,7 @@
      "cod": 2698,
      "nome": "SACHE CATCHUP C/144X6GR-MAREIA",
      "marca": "MAREIA",
-     "preco": 13.9,
+     "preco": 10.9,
      "img": "produtos/2698.jpg"
     },
     {
@@ -20152,7 +20159,7 @@
      "cod": 5909,
      "nome": "SACHE SAL C/1000X0,8GR",
      "marca": "",
-     "preco": 21.9,
+     "preco": 18.9,
      "img": "produtos/5909.jpg"
     }
    ]
@@ -20296,7 +20303,7 @@
     {
      "cod": 2706,
      "nome": "SACO 12X25 C/100 (BAIXA)",
-     "marca": "ROMA P.",
+     "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg"
     },
@@ -20940,6 +20947,12 @@
        "cor": "Branca",
        "nome": "SACOLA PH 20X30 C/50-BRANCA",
        "img": "produtos/3669.jpg"
+      },
+      {
+       "cod": 2845,
+       "cor": "Dourada",
+       "nome": "SACOLA PH 20X30 C/50-DOURADA",
+       "img": "produtos/2845.jpg"
       },
       {
        "cod": 3670,
@@ -21717,7 +21730,7 @@
      "cod": 269,
      "nome": "BOBINA STRECH 50CM",
      "marca": "PACKSEVEN",
-     "preco": 78.9,
+     "preco": 69.9,
      "img": "produtos/269.jpg"
     },
     {
@@ -21804,6 +21817,13 @@
    "nome": "Sacos de Papel e Kraft",
    "itens": [
     {
+     "cod": 7134,
+     "nome": "SACO (ESPETO) TERMICO C/50",
+     "marca": "CHIARA",
+     "preco": 32.9,
+     "img": "produtos/7134.jpg"
+    },
+    {
      "cod": 2703,
      "nome": "SACO (FRANGO) TERMICO C/50",
      "marca": "CHIARA",
@@ -21828,14 +21848,21 @@
      "cod": 8407,
      "nome": "SACO BRANCO 3KG C/500 (FD)",
      "marca": "RIO BRANCO",
-     "preco": 59.9,
+     "preco": 65.9,
      "img": "produtos/8407.jpg"
+    },
+    {
+     "cod": 2750,
+     "nome": "SACO BRANCO 500GR C/500 (FD)",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/2750.jpg"
     },
     {
      "cod": 7181,
      "nome": "SACO BRANCO 5KG C/500 (FD)",
      "marca": "IEC",
-     "preco": 65.9,
+     "preco": 69.9,
      "img": "produtos/7181.jpg"
     },
     {
@@ -21986,6 +22013,20 @@
      "img": "produtos/7012.jpg"
     },
     {
+     "cod": 10455,
+     "nome": "SACO SOS DEC. 25KG (38X31X17,5) C/100",
+     "marca": "DALPAC",
+     "preco": 92.9,
+     "img": "produtos/10455.jpg"
+    },
+    {
+     "cod": 10105,
+     "nome": "SACO SOS DEC. 3KG (25X13X8,5) C/100",
+     "marca": "CIPAPEL",
+     "preco": 26.9,
+     "img": "produtos/10105.jpg"
+    },
+    {
      "cod": 11347,
      "nome": "SACO SOS DEC. 3KG (26X13,5X9,5) C/50",
      "marca": "DIFFATTO",
@@ -22000,6 +22041,13 @@
      "img": "produtos/3675.jpg"
     },
     {
+     "cod": 2802,
+     "nome": "SACO SOS DEC. 7KG (60X46X9,5) C/100",
+     "marca": "",
+     "preco": 46.9,
+     "img": "produtos/2802.jpg"
+    },
+    {
      "cod": 7010,
      "nome": "SACO SOS LISO 10KG (32X22X12) C/50",
      "marca": "VINCO",
@@ -22007,11 +22055,25 @@
      "img": "produtos/7010.jpg"
     },
     {
+     "cod": 3676,
+     "nome": "SACO SOS LISO 10KG C/100",
+     "marca": "CHIARA",
+     "preco": 52.9,
+     "img": "produtos/3676.jpg"
+    },
+    {
      "cod": 7013,
      "nome": "SACO SOS LISO 15KG (37X24X9,5) C/100",
      "marca": "",
      "preco": 60.9,
      "img": "produtos/7013.jpg"
+    },
+    {
+     "cod": 10456,
+     "nome": "SACO SOS LISO 25KG (38X31X17,5) C/100",
+     "marca": "DALPAC",
+     "preco": 92.9,
+     "img": "produtos/10456.jpg"
     },
     {
      "cod": 14255,
@@ -22103,62 +22165,6 @@
    "slug": "festa",
    "nome": "Festa",
    "itens": [
-    {
-     "cod": 151,
-     "nome": "BALAO LETRA E PRATA",
-     "marca": "S.A CORGOS",
-     "preco": 4.9,
-     "img": "produtos/151.jpg"
-    },
-    {
-     "cod": 152,
-     "nome": "BALAO LETRA I PRATA",
-     "marca": "S.A CORGOS",
-     "preco": 4.9,
-     "img": "produtos/152.jpg"
-    },
-    {
-     "cod": 153,
-     "nome": "BALAO LETRA L PRATA",
-     "marca": "S.A CORGOS",
-     "preco": 4.9,
-     "img": "produtos/153.jpg"
-    },
-    {
-     "cod": 114,
-     "nome": "BALAO LETRA N",
-     "marca": "GALA",
-     "preco": 4.9,
-     "img": "produtos/114.jpg",
-     "cores": [
-      {
-       "cod": 114,
-       "cor": "Dourado",
-       "nome": "BALAO LETRA N DOURADO",
-       "img": "produtos/114.jpg"
-      },
-      {
-       "cod": 154,
-       "cor": "Prata",
-       "nome": "BALAO LETRA N PRATA",
-       "img": "produtos/154.jpg"
-      }
-     ]
-    },
-    {
-     "cod": 156,
-     "nome": "BALAO LETRA S PRATA",
-     "marca": "S.A CORGOS",
-     "preco": 4.9,
-     "img": "produtos/156.jpg"
-    },
-    {
-     "cod": 157,
-     "nome": "BALAO LETRA Z PRATA",
-     "marca": "S.A CORGOS",
-     "preco": 4.9,
-     "img": "produtos/157.jpg"
-    },
     {
      "cod": 101,
      "nome": "BALAO LISO AMARELO C/50 Nº6,5",
@@ -22277,20 +22283,6 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/3196.jpg"
-    },
-    {
-     "cod": 135,
-     "nome": "BALAO N3 OURO 100CM-ZW",
-     "marca": "ZW COMERC.",
-     "preco": 19.9,
-     "img": "produtos/135.jpg"
-    },
-    {
-     "cod": 118,
-     "nome": "BALAO N3 OURO 40CM-GALA",
-     "marca": "GALA",
-     "preco": 5.5,
-     "img": "produtos/118.jpg"
     },
     {
      "cod": 128,
@@ -24036,6 +24028,27 @@
      "img": "produtos/4551.jpg"
     },
     {
+     "cod": 8293,
+     "nome": "LUVA NITRILICA-G C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8293.jpg"
+    },
+    {
+     "cod": 10304,
+     "nome": "LUVA NITRILICA-GG C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/10304.jpg"
+    },
+    {
+     "cod": 8294,
+     "nome": "LUVA NITRILICA-M C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8294.jpg"
+    },
+    {
      "cod": 8295,
      "nome": "LUVA NITRILICA-P C/100 PRETA SEM PO",
      "marca": "",
@@ -24050,18 +24063,18 @@
      "img": "produtos/1801.jpg"
     },
     {
-     "cod": 12279,
-     "nome": "LUVA VINIL-G C/100 SEM PO",
-     "marca": "",
-     "preco": 21.9,
-     "img": "produtos/12279.jpg"
-    },
-    {
      "cod": 9014,
      "nome": "LUVA VINIL-M C/100 COM PO",
      "marca": "",
      "preco": 21.9,
      "img": "produtos/9014.jpg"
+    },
+    {
+     "cod": 8296,
+     "nome": "LUVA VINIL-M C/100 SEM PO",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/8296.jpg"
     },
     {
      "cod": 10989,
