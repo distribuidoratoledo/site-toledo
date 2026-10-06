@@ -930,13 +930,6 @@
      "img": "produtos/598.jpg"
     },
     {
-     "cod": 601,
-     "nome": "CANETA PILOT BP-1-VERMELHA",
-     "marca": "PILOT",
-     "preco": 4.9,
-     "img": "produtos/601.jpg"
-    },
-    {
      "cod": 602,
      "nome": "CANETA PILOT COMUM",
      "marca": "PILOT",
@@ -1964,13 +1957,6 @@
      "img": "produtos/6355.jpg"
     },
     {
-     "cod": 13310,
-     "nome": "LAPIS ESCREVER MAPED BLACK'PEPS",
-     "marca": "MAPED",
-     "preco": 1.0,
-     "img": "produtos/13310.jpg"
-    },
-    {
      "cod": 11564,
      "nome": "LAPIS ESCREVER MAPED ENERGY C/BORRACHA",
      "marca": "MAPED",
@@ -2103,13 +2089,6 @@
      "img": "produtos/12732.jpg"
     },
     {
-     "cod": 12717,
-     "nome": "LAPIS ESCREVER TRIS MARIE",
-     "marca": "TRIS",
-     "preco": 2.5,
-     "img": "produtos/12717.jpg"
-    },
-    {
      "cod": 1673,
      "nome": "LAPIS FABER 2B (DESENHO)",
      "marca": "FABER",
@@ -2226,13 +2205,6 @@
      "marca": "FABER",
      "preco": 49.9,
      "img": "produtos/4759.jpg"
-    },
-    {
-     "cod": 13142,
-     "nome": "CANETINHA C/12-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 13.9,
-     "img": "produtos/13142.jpg"
     },
     {
      "cod": 10261,
@@ -3062,13 +3034,6 @@
      "img": "produtos/7919.jpg"
     },
     {
-     "cod": 12342,
-     "nome": "BORRACHA MOLIN SPIDER MAN",
-     "marca": "MOLIN",
-     "preco": 4.9,
-     "img": "produtos/12342.jpg"
-    },
-    {
      "cod": 293,
      "nome": "BORRACHA PONTEIRA",
      "marca": "MERCUR",
@@ -3206,6 +3171,20 @@
      "img": "produtos/14272.jpg"
     },
     {
+     "cod": 14270,
+     "nome": "AGENDA 2027 TILIBRA COST. TORINO CORES 176F",
+     "marca": "TILIBRA",
+     "preco": 53.9,
+     "img": "produtos/14270.jpg"
+    },
+    {
+     "cod": 7930,
+     "nome": "AGENDA 2027 TILIBRA COST. TORINO PRETA 176F",
+     "marca": "TILIBRA",
+     "preco": 53.9,
+     "img": "produtos/7930.jpg"
+    },
+    {
      "cod": 7929,
      "nome": "AGENDA 2027 TILIBRA ESP. (FEM) SPOT GRD 200F",
      "marca": "TILIBRA",
@@ -3320,13 +3299,13 @@
       {
        "cod": 14313,
        "cor": "Azul",
-       "nome": "AGENDA COMERCIAL ESPIRAL  352FLS AZUL",
+       "nome": "AGENDA COMERCIAL ESPIRAL 352FLS AZUL",
        "img": "produtos/14313.jpg"
       },
       {
        "cod": 14312,
        "cor": "Preto",
-       "nome": "AGENDA COMERCIAL ESPIRAL  352FLS PRETO",
+       "nome": "AGENDA COMERCIAL ESPIRAL 352FLS PRETO",
        "img": "produtos/14312.jpg"
       }
      ]
@@ -3346,8 +3325,8 @@
       },
       {
        "cod": 14316,
-       "cor": "Grafite",
-       "nome": "AGENDA EXECUTIVA COURINO 352FLS GRAFITE",
+       "cor": "Cinza",
+       "nome": "AGENDA EXECUTIVA COURINO 352FLS CINZA",
        "img": "produtos/14316.jpg"
       },
       {
@@ -5113,12 +5092,6 @@
        "cor": "Verde",
        "nome": "CADERNO CD 80F TILIBRA (VERDE)",
        "img": "produtos/9988.jpg"
-      },
-      {
-       "cod": 400,
-       "cor": "Vermelho",
-       "nome": "CADERNO CD 80F TILIBRA (VERMELHO)",
-       "img": "produtos/400.jpg"
       }
      ]
     },
@@ -6360,13 +6333,6 @@
      "img": "produtos/790.jpg"
     },
     {
-     "cod": 9447,
-     "nome": "CLIPS (PEQ) 6/0 GR C/25-TOP",
-     "marca": "TOP",
-     "preco": 2.0,
-     "img": "produtos/9447.jpg"
-    },
-    {
      "cod": 797,
      "nome": "CLIPS (PEQ) 8/0 C/25-TOP",
      "marca": "TOP",
@@ -7228,13 +7194,6 @@
      "img": "produtos/1019.jpg"
     },
     {
-     "cod": 1020,
-     "nome": "FITA DUPLA FACE 18X30MT",
-     "marca": "ADELBRAS",
-     "preco": 13.9,
-     "img": "produtos/1020.jpg"
-    },
-    {
      "cod": 6521,
      "nome": "FITA ISOLANTE PRETA FOXLUX 19X10MT",
      "marca": "FOXLUX",
@@ -7254,13 +7213,6 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg"
-    },
-    {
-     "cod": 11807,
-     "nome": "FITA MASSA ACRILICA 19X2MT-ADELBRAS",
-     "marca": "ADELBRAS",
-     "preco": 20.9,
-     "img": "produtos/11807.jpg"
     },
     {
      "cod": 6836,
@@ -7629,13 +7581,6 @@
      "marca": "MAXCRIL",
      "preco": 8.9,
      "img": "produtos/7499.jpg"
-    },
-    {
-     "cod": 10132,
-     "nome": "REGUA 30CM REFORÇ. AZUL PASTEL-WALEU",
-     "marca": "WALEU",
-     "preco": 2.9,
-     "img": "produtos/10132.jpg"
     },
     {
      "cod": 6385,
@@ -8984,13 +8929,6 @@
      "img": "produtos/2015.jpg"
     },
     {
-     "cod": 2016,
-     "nome": "PAPEL A4 C/500 CHAMEX (90GR)",
-     "marca": "CHAMEX",
-     "preco": 55.9,
-     "img": "produtos/2016.jpg"
-    },
-    {
      "cod": 2014,
      "nome": "PAPEL A4 C/500 PAPEX",
      "marca": "PAPEX",
@@ -9057,13 +8995,6 @@
      "marca": "GRIFFE",
      "preco": 33.9,
      "img": "produtos/2067.jpg"
-    },
-    {
-     "cod": 14126,
-     "nome": "PAPEL CRIATIVE PAPER A4 (180G) C/32FL-USAPEL",
-     "marca": "USAPEL",
-     "preco": 22.9,
-     "img": "produtos/14126.jpg"
     },
     {
      "cod": 6495,
@@ -10124,13 +10055,6 @@
      "img": "produtos/2955.jpg"
     },
     {
-     "cod": 12548,
-     "nome": "TELA PINTURA C/6 GUACHE-HOMEM ARANHA",
-     "marca": "DACART",
-     "preco": 28.9,
-     "img": "produtos/12548.jpg"
-    },
-    {
      "cod": 12550,
      "nome": "TELA PINTURA C/6 GUACHE-STITCH",
      "marca": "DACART",
@@ -10294,13 +10218,6 @@
      "marca": "JOCAR",
      "preco": 6.5,
      "img": "produtos/2986.jpg"
-    },
-    {
-     "cod": 2987,
-     "nome": "TINTA P.Q.BRC 20ML VERMELHA-JOCAR",
-     "marca": "JOCAR",
-     "preco": 6.5,
-     "img": "produtos/2987.jpg"
     },
     {
      "cod": 10548,
@@ -12517,24 +12434,17 @@
     },
     {
      "cod": 12926,
-     "nome": "PASTA PP MINI 1CM",
+     "nome": "PASTA PP MINI 1CM-AMARELA",
      "marca": "ACP",
      "preco": 2.9,
-     "img": "produtos/12926.jpg",
-     "cores": [
-      {
-       "cod": 12926,
-       "cor": "Amarela",
-       "nome": "PASTA PP MINI 1CM-AMARELA",
-       "img": "produtos/12926.jpg"
-      },
-      {
-       "cod": 12924,
-       "cor": "Verde",
-       "nome": "PASTA PP MINI 1CM-VERDE",
-       "img": "produtos/12924.jpg"
-      }
-     ]
+     "img": "produtos/12926.jpg"
+    },
+    {
+     "cod": 7167,
+     "nome": "PASTA PP MINI 1CM-FUME",
+     "marca": "POLIBRAS",
+     "preco": 3.9,
+     "img": "produtos/7167.jpg"
     },
     {
      "cod": 7166,
@@ -12576,13 +12486,6 @@
        "img": "produtos/6308.jpg"
       }
      ]
-    },
-    {
-     "cod": 2264,
-     "nome": "PASTA SANFON.12D.A4 TRANSP.",
-     "marca": "POLIBRAS",
-     "preco": 29.9,
-     "img": "produtos/2264.jpg"
     },
     {
      "cod": 2265,
@@ -13719,13 +13622,6 @@
      "img": "produtos/13078.jpg"
     },
     {
-     "cod": 6166,
-     "nome": "MOCHILA CARRINHO MT (G)-BARBIE ROSA",
-     "marca": "MT KIDS",
-     "preco": 199.9,
-     "img": "produtos/6166.jpg"
-    },
-    {
      "cod": 10837,
      "nome": "MOCHILA CARRINHO MT (G)-DIVERTIDAMENTE ROSA",
      "marca": "MT KIDS",
@@ -13817,18 +13713,18 @@
      "img": "produtos/12572.jpg"
     },
     {
-     "cod": 13199,
-     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
-     "marca": "XERYUS",
-     "preco": 375.9,
-     "img": "produtos/13199.jpg"
-    },
-    {
      "cod": 13190,
      "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
      "marca": "XERYUS",
      "preco": 356.9,
      "img": "produtos/13190.jpg"
+    },
+    {
+     "cod": 13199,
+     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
+     "marca": "XERYUS",
+     "preco": 375.9,
+     "img": "produtos/13199.jpg"
     },
     {
      "cod": 13228,
@@ -14098,13 +13994,6 @@
      "marca": "DAC",
      "preco": 12.9,
      "img": "produtos/8216.jpg"
-    },
-    {
-     "cod": 10711,
-     "nome": "ESTOJO DAC 1F-HELLO STICKERS",
-     "marca": "DAC",
-     "preco": 38.9,
-     "img": "produtos/10711.jpg"
     },
     {
      "cod": 8204,
@@ -16745,13 +16634,6 @@
      "img": "produtos/5041.jpg"
     },
     {
-     "cod": 12483,
-     "nome": "FICHARIO DAC REBECCA BONBON 192F",
-     "marca": "DAC",
-     "preco": 69.9,
-     "img": "produtos/12483.jpg"
-    },
-    {
      "cod": 10645,
      "nome": "FICHARIO DAC-ALL BLACK 192F",
      "marca": "DAC",
@@ -17253,18 +17135,12 @@
    "nome": "Carimbo e Almofada",
    "itens": [
     {
-     "cod": 6642,
+     "cod": 6643,
      "nome": "ALMOFADA CARIMBO NO3 MASTERPRINT",
      "marca": "MASTERPRIN",
      "preco": 6.9,
-     "img": "produtos/6642.jpg",
+     "img": "produtos/6643.jpg",
      "cores": [
-      {
-       "cod": 6642,
-       "cor": "Azul",
-       "nome": "ALMOFADA CARIMBO Nº3 MASTERPRINT-AZUL",
-       "img": "produtos/6642.jpg"
-      },
       {
        "cod": 6643,
        "cor": "Preta",
@@ -17644,13 +17520,6 @@
      "marca": "VABENE",
      "preco": 13.9,
      "img": "produtos/9745.jpg"
-    },
-    {
-     "cod": 973,
-     "nome": "COPO VIDRO C/24-NADIR",
-     "marca": "NADIR",
-     "preco": 38.9,
-     "img": "produtos/973.jpg"
     },
     {
      "cod": 974,
@@ -18142,13 +18011,6 @@
      "img": "produtos/6946.jpg"
     },
     {
-     "cod": 8229,
-     "nome": "CAIXA ISOPOR 5 LITROS",
-     "marca": "ISOMAX",
-     "preco": 10.9,
-     "img": "produtos/8229.jpg"
-    },
-    {
      "cod": 7361,
      "nome": "CAIXA ISOPOR 50 LITROS",
      "marca": "",
@@ -18275,11 +18137,25 @@
      "img": "produtos/3991.jpg"
     },
     {
+     "cod": 1010,
+     "nome": "DISCO ISOPOR 30CM C/200",
+     "marca": "",
+     "preco": 136.9,
+     "img": "produtos/1010.jpg"
+    },
+    {
      "cod": 5987,
      "nome": "DISCO ISOPOR 35CM C/200",
      "marca": "",
      "preco": 176.9,
      "img": "produtos/5987.jpg"
+    },
+    {
+     "cod": 1357,
+     "nome": "FRANGUEIRA ISOPOR H5 C/100",
+     "marca": "BOM APETIT",
+     "preco": 126.9,
+     "img": "produtos/1357.jpg"
     },
     {
      "cod": 4037,
@@ -18505,6 +18381,13 @@
    "nome": "Talheres e Mexedores",
    "itens": [
     {
+     "cod": 7659,
+     "nome": "COLHER AÇAI C/50 LONGA ROXA",
+     "marca": "PLAZAPEL",
+     "preco": 13.9,
+     "img": "produtos/7659.jpg"
+    },
+    {
      "cod": 8361,
      "nome": "COLHER FORTE C/50 (BRANCA)",
      "marca": "",
@@ -18524,13 +18407,6 @@
      "marca": "PLASTILANI",
      "preco": 6.9,
      "img": "produtos/9085.jpg"
-    },
-    {
-     "cod": 7255,
-     "nome": "COLHER REFEIÇÃO C/50",
-     "marca": "",
-     "preco": 3.9,
-     "img": "produtos/7255.jpg"
     },
     {
      "cod": 880,
@@ -19061,6 +18937,13 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1356.jpg"
+    },
+    {
+     "cod": 3902,
+     "nome": "FORMA S100 FRANGO C/100",
+     "marca": "STARPACK",
+     "preco": 232.9,
+     "img": "produtos/3902.jpg"
     },
     {
      "cod": 1361,
@@ -19713,7 +19596,7 @@
      "cod": 3151,
      "nome": "ALUMINIO 45X4,0MT",
      "marca": "",
-     "preco": 5.9,
+     "preco": 5.45,
      "img": "produtos/3151.jpg"
     },
     {
@@ -19982,6 +19865,13 @@
      "img": "produtos/11897.jpg"
     },
     {
+     "cod": 3301,
+     "nome": "CANUDO SACHE 5MM C/100",
+     "marca": "",
+     "preco": 6.9,
+     "img": "produtos/3301.jpg"
+    },
+    {
      "cod": 3932,
      "nome": "CANUDO SACHE 6MM (FLEX) C/100",
      "marca": "PLASTSUL",
@@ -20022,6 +19912,13 @@
      "marca": "INOVEN",
      "preco": 4.9,
      "img": "produtos/11674.jpg"
+    },
+    {
+     "cod": 1113,
+     "nome": "ESPETO DE BAMBU C/50-M. E MOTA",
+     "marca": "M. E MOTA",
+     "preco": 6.9,
+     "img": "produtos/1113.jpg"
     },
     {
      "cod": 7108,
@@ -21157,6 +21054,13 @@
      "img": "produtos/6825.jpg"
     },
     {
+     "cod": 3964,
+     "nome": "SACOLA VOLTE S. 30X40 (1,450KG)",
+     "marca": "",
+     "preco": 72.9,
+     "img": "produtos/3964.jpg"
+    },
+    {
      "cod": 2877,
      "nome": "SACOLA VOLTE S. 38X48 (3K)",
      "marca": "",
@@ -21371,13 +21275,6 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg"
-    },
-    {
-     "cod": 4427,
-     "nome": "BOBINA PICOT. 50X70 C/250-ROLLBAG (PESO 3KG)",
-     "marca": "ROLLBAG",
-     "preco": 23.9,
-     "img": "produtos/4427.jpg"
     },
     {
      "cod": 6857,
@@ -22446,18 +22343,12 @@
      "img": "produtos/167.jpg"
     },
     {
-     "cod": 5996,
+     "cod": 9785,
      "nome": "FITA CETIM N1 7MMX10MT",
      "marca": "PROGRESSO",
      "preco": 4.9,
-     "img": "produtos/5996.jpg",
+     "img": "produtos/9785.jpg",
      "cores": [
-      {
-       "cod": 5996,
-       "cor": "Amarelo Ouro",
-       "nome": "FITA CETIM N1 7MMX10MT-AMARELO OURO",
-       "img": "produtos/5996.jpg"
-      },
       {
        "cod": 9785,
        "cor": "Azul Marinho",
@@ -22471,25 +22362,12 @@
        "img": "produtos/9062.jpg"
       },
       {
-       "cod": 9063,
-       "cor": "Branco",
-       "nome": "FITA CETIM N1 7MMX10MT-BRANCO",
-       "img": "produtos/9063.jpg"
-      },
-      {
        "cod": 6000,
        "cor": "Preto",
        "nome": "FITA CETIM N1 7MMX10MT-PRETO",
        "img": "produtos/6000.jpg"
       }
      ]
-    },
-    {
-     "cod": 13385,
-     "nome": "FITA CETIM N1 7MMX10MT-ROSA CHOQUE",
-     "marca": "PROGRESSO",
-     "preco": 4.9,
-     "img": "produtos/13385.jpg"
     },
     {
      "cod": 13750,
@@ -22619,18 +22497,12 @@
      "img": "produtos/4774.jpg"
     },
     {
-     "cod": 1320,
+     "cod": 1321,
      "nome": "FITILHO 50MT",
-     "marca": "",
+     "marca": "EMFESTA",
      "preco": 3.9,
-     "img": "produtos/1320.jpg",
+     "img": "produtos/1321.jpg",
      "cores": [
-      {
-       "cod": 1320,
-       "cor": "Azul Escuro / Royal",
-       "nome": "FITILHO 50MT AZUL ESCURO/ROYAL",
-       "img": "produtos/1320.jpg"
-      },
       {
        "cod": 1321,
        "cor": "Branco",
@@ -22873,18 +22745,18 @@
      "img": "produtos/2941.jpg"
     },
     {
-     "cod": 9218,
-     "nome": "TAPETE CESTA 48CM- BRANCO",
-     "marca": "CROMUS",
-     "preco": 2.0,
-     "img": "produtos/9218.jpg"
-    },
-    {
      "cod": 2942,
      "nome": "TAPETE CESTA 48CM- BRANCO",
      "marca": "GRESPAN",
      "preco": 1.0,
      "img": "produtos/2942.jpg"
+    },
+    {
+     "cod": 9218,
+     "nome": "TAPETE CESTA 48CM- BRANCO",
+     "marca": "CROMUS",
+     "preco": 2.0,
+     "img": "produtos/9218.jpg"
     },
     {
      "cod": 2944,
@@ -23506,13 +23378,6 @@
      "marca": "GRESPAN",
      "preco": 31.9,
      "img": "produtos/3939.jpg"
-    },
-    {
-     "cod": 1207,
-     "nome": "ETIQUETA ZEBRA (TERMICA) 33X21-3 45MT",
-     "marca": "PRIMUS",
-     "preco": 49.9,
-     "img": "produtos/1207.jpg"
     }
    ]
   },
@@ -23882,32 +23747,11 @@
      "img": "produtos/1494.jpg"
     },
     {
-     "cod": 1495,
-     "nome": "GOMINHA MAMUTH C/500GR (600 UN)",
-     "marca": "MAMUTH",
-     "preco": 18.9,
-     "img": "produtos/1495.jpg"
-    },
-    {
      "cod": 1498,
      "nome": "GOMINHA MERCUR C/1200 UN",
      "marca": "MERCUR",
      "preco": 73.9,
      "img": "produtos/1498.jpg"
-    },
-    {
-     "cod": 14029,
-     "nome": "GOMINHA MERCUR C/500 UN",
-     "marca": "MERCUR",
-     "preco": 34.9,
-     "img": "produtos/14029.jpg"
-    },
-    {
-     "cod": 14182,
-     "nome": "GOMINHA PREMIER C/500GR",
-     "marca": "PREMIER",
-     "preco": 18.9,
-     "img": "produtos/14182.jpg"
     },
     {
      "cod": 1823,
@@ -24844,13 +24688,6 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/13872.jpg"
-    },
-    {
-     "cod": 9946,
-     "nome": "VASSOURA PIAÇAVA-FRONTINENSE",
-     "marca": "FRONTINENS",
-     "preco": 26.9,
-     "img": "produtos/9946.jpg"
     }
    ]
   },
@@ -25171,13 +25008,6 @@
        "img": "produtos/7601.jpg"
       }
      ]
-    },
-    {
-     "cod": 5236,
-     "nome": "APONTADOR LEO C/D BLOCO 40-ROXO",
-     "marca": "LEO E LEO",
-     "preco": 0.8,
-     "img": "produtos/5236.jpg"
     },
     {
      "cod": 7587,
