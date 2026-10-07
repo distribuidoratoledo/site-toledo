@@ -1349,13 +1349,6 @@
      "marca": "CIS",
      "preco": 26.9,
      "img": "produtos/10826.jpg"
-    },
-    {
-     "cod": 5325,
-     "nome": "KIT ESCOLAR CIS COLORS-CINZA (4 PÇ)",
-     "marca": "CIS",
-     "preco": 11.9,
-     "img": "produtos/5325.jpg"
     }
    ]
   },
@@ -2750,13 +2743,6 @@
      "marca": "FABER",
      "preco": 5.5,
      "img": "produtos/1509.jpg"
-    },
-    {
-     "cod": 8903,
-     "nome": "KIT LAPISEIRA 0.7-BIC SHIMMERS CORES C/3",
-     "marca": "BIC",
-     "preco": 10.9,
-     "img": "produtos/8903.jpg"
     },
     {
      "cod": 12247,
@@ -7208,13 +7194,6 @@
      "img": "produtos/11717.jpg"
     },
     {
-     "cod": 11806,
-     "nome": "FITA MASSA ACRILICA 12X2MT-ADELBRAS",
-     "marca": "ADELBRAS",
-     "preco": 14.9,
-     "img": "produtos/11806.jpg"
-    },
-    {
      "cod": 6836,
      "nome": "FITA PVC CRISTAL 45X100MT",
      "marca": "",
@@ -7858,13 +7837,6 @@
      "marca": "ACC",
      "preco": 4.9,
      "img": "produtos/14260.jpg"
-    },
-    {
-     "cod": 1530,
-     "nome": "GRAMPO 106/6 C/5000-ACC",
-     "marca": "ACC",
-     "preco": 28.9,
-     "img": "produtos/1530.jpg"
     },
     {
      "cod": 1532,
@@ -10811,25 +10783,11 @@
      "img": "produtos/13373.jpg"
     },
     {
-     "cod": 13743,
-     "nome": "SELO CONVITE VERDE 12/13MM C/210",
-     "marca": "PIM/REFL",
-     "preco": 6.9,
-     "img": "produtos/13743.jpg"
-    },
-    {
      "cod": 9783,
      "nome": "SELO CONVITE VERDE BANDEIRA 15MM C/210",
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/9783.jpg"
-    },
-    {
-     "cod": 8726,
-     "nome": "SELO CONVITE VERMELHO 12/13MM C/210",
-     "marca": "PIM/REFL",
-     "preco": 6.9,
-     "img": "produtos/8726.jpg"
     }
    ]
   },
@@ -15370,13 +15328,6 @@
        "img": "produtos/5171.jpg"
       }
      ]
-    },
-    {
-     "cod": 9226,
-     "nome": "ARQUIVO MORTO OFICIO-PAPEL",
-     "marca": "",
-     "preco": 3.9,
-     "img": "produtos/9226.jpg"
     }
    ]
   },
@@ -17382,13 +17333,6 @@
      "img": "produtos/947.jpg"
     },
     {
-     "cod": 948,
-     "nome": "COPO 300ML PS C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 9.9,
-     "img": "produtos/948.jpg"
-    },
-    {
      "cod": 8806,
      "nome": "COPO 400ML PS C/50-COPOPLAST",
      "marca": "COPOPLAST",
@@ -17562,13 +17506,6 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg"
-    },
-    {
-     "cod": 7351,
-     "nome": "TAMPA 200/250ML (S/F) C/50-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 6.9,
-     "img": "produtos/7351.jpg"
     },
     {
      "cod": 2934,
@@ -17990,13 +17927,6 @@
      "img": "produtos/6942.jpg"
     },
     {
-     "cod": 452,
-     "nome": "CAIXA ISOPOR 3 LITROS",
-     "marca": "",
-     "preco": 7.9,
-     "img": "produtos/452.jpg"
-    },
-    {
      "cod": 7359,
      "nome": "CAIXA ISOPOR 35 LITROS",
      "marca": "",
@@ -18409,6 +18339,13 @@
      "img": "produtos/9085.jpg"
     },
     {
+     "cod": 7255,
+     "nome": "COLHER REFEIÇÃO C/50",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/7255.jpg"
+    },
+    {
      "cod": 880,
      "nome": "COLHER SOBREMESA C/50 (BRANCA)",
      "marca": "",
@@ -18674,13 +18611,6 @@
      "img": "produtos/11682.jpg"
     },
     {
-     "cod": 11691,
-     "nome": "POTE RETANG. 500ML C/24-TOTALPLAST",
-     "marca": "TOTALPLAST",
-     "preco": 21.9,
-     "img": "produtos/11691.jpg"
-    },
-    {
      "cod": 11690,
      "nome": "POTE RETANG. 750ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
@@ -18916,13 +18846,6 @@
      "marca": "GALVANOTEK",
      "preco": 48.9,
      "img": "produtos/5067.jpg"
-    },
-    {
-     "cod": 1376,
-     "nome": "FORMA PF642/S642/ECO642 C/300",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/1376.jpg"
     },
     {
      "cod": 14015,
@@ -19717,13 +19640,6 @@
      "marca": "BOREDA",
      "preco": 105.9,
      "img": "produtos/1348.jpg"
-    },
-    {
-     "cod": 1349,
-     "nome": "FORMA ALUM D7 (132X202) 750ML C/100-MARMITINHA",
-     "marca": "",
-     "preco": 102.9,
-     "img": "produtos/1349.jpg"
     },
     {
      "cod": 14192,
@@ -23733,25 +23649,11 @@
    "nome": "Gominha, Rolha e Embrulho",
    "itens": [
     {
-     "cod": 1493,
-     "nome": "GOMINHA MAMUTH C/1000GR (1200UN)",
-     "marca": "MAMUTH",
-     "preco": 35.9,
-     "img": "produtos/1493.jpg"
-    },
-    {
      "cod": 1494,
      "nome": "GOMINHA MAMUTH C/100GR (120 UN)",
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg"
-    },
-    {
-     "cod": 1498,
-     "nome": "GOMINHA MERCUR C/1200 UN",
-     "marca": "MERCUR",
-     "preco": 73.9,
-     "img": "produtos/1498.jpg"
     },
     {
      "cod": 1823,
@@ -23870,13 +23772,6 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4551.jpg"
-    },
-    {
-     "cod": 8293,
-     "nome": "LUVA NITRILICA-G C/100 PRETA SEM PO",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/8293.jpg"
     },
     {
      "cod": 10304,
