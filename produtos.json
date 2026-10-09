@@ -378,12 +378,6 @@
        "img": "produtos/561.jpg"
       },
       {
-       "cod": 562,
-       "cor": "Azul Escuro",
-       "nome": "CANETA CIS SPIRO-AZUL ESCURO",
-       "img": "produtos/562.jpg"
-      },
-      {
        "cod": 563,
        "cor": "Laranja",
        "nome": "CANETA CIS SPIRO-LARANJA",
@@ -1922,6 +1916,13 @@
      "img": "produtos/10314.jpg"
     },
     {
+     "cod": 4122,
+     "nome": "LAPIS ESCREVER FABER REDONDO",
+     "marca": "FABER",
+     "preco": 1.5,
+     "img": "produtos/4122.jpg"
+    },
+    {
      "cod": 5836,
      "nome": "LAPIS ESCREVER FABER REGUA",
      "marca": "FABER",
@@ -1941,6 +1942,13 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/10270.jpg"
+    },
+    {
+     "cod": 1671,
+     "nome": "LAPIS ESCREVER FABER SEXTAVADO C/BORRACHA",
+     "marca": "FABER",
+     "preco": 1.8,
+     "img": "produtos/1671.jpg"
     },
     {
      "cod": 6355,
@@ -4123,13 +4131,6 @@
      "img": "produtos/12403.jpg"
     },
     {
-     "cod": 8149,
-     "nome": "CADERNO 1X1 80F-BOM D+ MASCULINO",
-     "marca": "SD",
-     "preco": 11.9,
-     "img": "produtos/8149.jpg"
-    },
-    {
      "cod": 6466,
      "nome": "CADERNO 1X1 80F-BORUTO",
      "marca": "SD",
@@ -4149,13 +4150,6 @@
      "marca": "TILIBRA",
      "preco": 29.9,
      "img": "produtos/5610.jpg"
-    },
-    {
-     "cod": 7745,
-     "nome": "CADERNO 1X1 80F-CHARME",
-     "marca": "TILIBRA",
-     "preco": 16.9,
-     "img": "produtos/7745.jpg"
     },
     {
      "cod": 13200,
@@ -6228,13 +6222,6 @@
      "img": "produtos/783.jpg"
     },
     {
-     "cod": 7133,
-     "nome": "CLIPS (GR) 2/0 C/900 (725 UN)-TOP",
-     "marca": "TOP",
-     "preco": 15.9,
-     "img": "produtos/7133.jpg"
-    },
-    {
      "cod": 785,
      "nome": "CLIPS (GR) 3/0 C/355 (440 UN)-TOP",
      "marca": "TOP",
@@ -6345,20 +6332,6 @@
      "marca": "CIS",
      "preco": 1.2,
      "img": "produtos/10604.jpg"
-    },
-    {
-     "cod": 10652,
-     "nome": "PRENDEDOR PAPEL 25MM-BAZZE",
-     "marca": "BAZZE",
-     "preco": 0.5,
-     "img": "produtos/10652.jpg"
-    },
-    {
-     "cod": 2573,
-     "nome": "PRENDEDOR PAPEL 25MM-JOCAR",
-     "marca": "JOCAR",
-     "preco": 0.4,
-     "img": "produtos/2573.jpg"
     },
     {
      "cod": 7554,
@@ -7565,7 +7538,7 @@
      "cod": 6385,
      "nome": "REGUA 30CM REFORÇ. AZUL-MAXCRIL",
      "marca": "MAXCRIL",
-     "preco": 2.9,
+     "preco": 3.9,
      "img": "produtos/6385.jpg"
     },
     {
@@ -7588,6 +7561,13 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/10030.jpg"
+    },
+    {
+     "cod": 6972,
+     "nome": "REGUA 30CM REFORÇ. ROSA-MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 3.9,
+     "img": "produtos/6972.jpg"
     },
     {
      "cod": 2642,
@@ -7797,13 +7777,6 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg"
-    },
-    {
-     "cod": 2618,
-     "nome": "REFIL CORRETIVO FITA MERCUR 6M",
-     "marca": "MERCUR",
-     "preco": 12.9,
-     "img": "produtos/2618.jpg"
     }
    ]
   },
@@ -7970,13 +7943,6 @@
        "img": "produtos/11703.jpg"
       }
      ]
-    },
-    {
-     "cod": 9507,
-     "nome": "GRAMPO/CLIPS (PEQ) N°2 TRUNFO C/50-BACCHI",
-     "marca": "BACCHI",
-     "preco": 12.9,
-     "img": "produtos/9507.jpg"
     }
    ]
   },
@@ -8901,18 +8867,18 @@
      "img": "produtos/2015.jpg"
     },
     {
+     "cod": 2016,
+     "nome": "PAPEL A4 C/500 CHAMEX (90GR)",
+     "marca": "CHAMEX",
+     "preco": 49.9,
+     "img": "produtos/2016.jpg"
+    },
+    {
      "cod": 2014,
      "nome": "PAPEL A4 C/500 PAPEX",
      "marca": "PAPEX",
      "preco": 32.9,
      "img": "produtos/2014.jpg"
-    },
-    {
-     "cod": 9052,
-     "nome": "PAPEL A4 C/500 PRIMUS",
-     "marca": "PRIMUS",
-     "preco": 27.5,
-     "img": "produtos/9052.jpg"
     },
     {
      "cod": 2007,
@@ -9002,13 +8968,6 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg"
-    },
-    {
-     "cod": 2113,
-     "nome": "PAPEL KRAFT 80GR 66X96 (FOLHA)",
-     "marca": "SCRITY",
-     "preco": 1.5,
-     "img": "produtos/2113.jpg"
     },
     {
      "cod": 14085,
@@ -9340,50 +9299,36 @@
     },
     {
      "cod": 6700,
-     "nome": "QUADRO BRANCO 1,20X90 (AL) SOUZA",
-     "marca": "SOUZA",
+     "nome": "QUADRO BRANCO 1,20X90 (AL)",
+     "marca": "SOUZ/STALO",
      "preco": 139.9,
      "img": "produtos/6700.jpg"
     },
     {
      "cod": 7667,
      "nome": "QUADRO BRANCO 100X70 (AL)",
-     "marca": "SOUZA",
+     "marca": "STALO",
      "preco": 99.9,
      "img": "produtos/7667.jpg"
     },
     {
-     "cod": 2583,
-     "nome": "QUADRO BRANCO 100X70 (AL) STALO",
-     "marca": "STALO",
-     "preco": 122.9,
-     "img": "produtos/2583.jpg"
-    },
-    {
      "cod": 3996,
      "nome": "QUADRO BRANCO 60X40 (AL)",
-     "marca": "SOUZA",
+     "marca": "SOUZ/STALO",
      "preco": 59.9,
      "img": "produtos/3996.jpg"
     },
     {
-     "cod": 2584,
-     "nome": "QUADRO BRANCO 60X40 (AL) STALO",
-     "marca": "STALO",
-     "preco": 59.9,
-     "img": "produtos/2584.jpg"
-    },
-    {
      "cod": 2585,
      "nome": "QUADRO BRANCO 70X50 (AL)",
-     "marca": "SOUZA",
+     "marca": "STALO",
      "preco": 79.9,
      "img": "produtos/2585.jpg"
     },
     {
      "cod": 4296,
      "nome": "QUADRO BRANCO 90X60 (AL)",
-     "marca": "STALO",
+     "marca": "SOUZ/STALO",
      "preco": 89.9,
      "img": "produtos/4296.jpg"
     },
@@ -9416,6 +9361,13 @@
      "img": "produtos/2592.jpg"
     },
     {
+     "cod": 14337,
+     "nome": "QUADRO VERDE 100X70",
+     "marca": "SOUZ/STALO",
+     "preco": 52.9,
+     "img": "produtos/14337.jpg"
+    },
+    {
      "cod": 2594,
      "nome": "QUADRO VERDE 60X40",
      "marca": "SOUZA",
@@ -9425,9 +9377,16 @@
     {
      "cod": 2595,
      "nome": "QUADRO VERDE 70X50",
-     "marca": "SOUZA",
+     "marca": "SOUZ/STALO",
      "preco": 41.9,
      "img": "produtos/2595.jpg"
+    },
+    {
+     "cod": 14338,
+     "nome": "QUADRO VERDE 90X60",
+     "marca": "STALO",
+     "preco": 42.9,
+     "img": "produtos/14338.jpg"
     },
     {
      "cod": 4377,
@@ -10741,6 +10700,13 @@
      "img": "produtos/7392.jpg"
     },
     {
+     "cod": 4334,
+     "nome": "SELO CONVITE OURO 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/4334.jpg"
+    },
+    {
      "cod": 2907,
      "nome": "SELO CONVITE OURO 15MM C/210",
      "marca": "GRESPAN",
@@ -10822,6 +10788,13 @@
      "marca": "MAXCRIL",
      "preco": 79.9,
      "img": "produtos/171.jpg"
+    },
+    {
+     "cod": 7502,
+     "nome": "BANDEJA ACR 3 AND-PRETA MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 72.9,
+     "img": "produtos/7502.jpg"
     },
     {
      "cod": 11715,
@@ -10909,10 +10882,24 @@
     },
     {
      "cod": 778,
-     "nome": "CHAVEIRO MAXCRIL BRANCO",
+     "nome": "CHAVEIRO MAXCRIL",
      "marca": "MAXCRIL",
      "preco": 1.0,
-     "img": "produtos/778.jpg"
+     "img": "produtos/778.jpg",
+     "cores": [
+      {
+       "cod": 778,
+       "cor": "Branco",
+       "nome": "CHAVEIRO MAXCRIL BRANCO",
+       "img": "produtos/778.jpg"
+      },
+      {
+       "cod": 3309,
+       "cor": "Colorido",
+       "nome": "CHAVEIRO MAXCRIL COLORIDO",
+       "img": "produtos/3309.jpg"
+      }
+     ]
     },
     {
      "cod": 1245,
@@ -10985,6 +10972,13 @@
      "img": "produtos/11925.jpg"
     },
     {
+     "cod": 1460,
+     "nome": "GAVETEIRO 4 GAVETAS MAXCRIL-FUME",
+     "marca": "MAXCRIL",
+     "preco": 211.9,
+     "img": "produtos/1460.jpg"
+    },
+    {
      "cod": 7209,
      "nome": "GAVETEIRO 4 GAVETAS MAXCRIL-VERDE PASTEL",
      "marca": "MAXCRIL",
@@ -11039,6 +11033,13 @@
      "img": "produtos/14211.jpg"
     },
     {
+     "cod": 1820,
+     "nome": "MALOTE NYLON 22X30MM HORIZONTAL-(REFORÇ)",
+     "marca": "ACP",
+     "preco": 19.9,
+     "img": "produtos/1820.jpg"
+    },
+    {
      "cod": 1821,
      "nome": "MALOTE NYLON 26X34MM HORIZONTAL-ACP(REFORÇ)",
      "marca": "ACP",
@@ -11058,13 +11059,6 @@
      "marca": "ACP",
      "preco": 8.5,
      "img": "produtos/3532.jpg"
-    },
-    {
-     "cod": 1818,
-     "nome": "MALOTE PLASTICO 235X330MM-ACP",
-     "marca": "ACP",
-     "preco": 9.9,
-     "img": "produtos/1818.jpg"
     },
     {
      "cod": 4101,
@@ -11109,16 +11103,23 @@
     },
     {
      "cod": 11412,
-     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE",
+     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE BRANCO",
      "marca": "MAXCRIL",
      "preco": 112.9,
-     "img": "produtos/11412.jpg",
+     "img": "produtos/11412.jpg"
+    },
+    {
+     "cod": 1989,
+     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE",
+     "marca": "MAXCRIL",
+     "preco": 86.9,
+     "img": "produtos/1989.jpg",
      "cores": [
       {
-       "cod": 11412,
-       "cor": "Branco",
-       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE BRANCO",
-       "img": "produtos/11412.jpg"
+       "cod": 1989,
+       "cor": "Fume",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE FUME",
+       "img": "produtos/1989.jpg"
       },
       {
        "cod": 4858,
@@ -11141,6 +11142,13 @@
      "marca": "MAXCRIL",
      "preco": 16.9,
      "img": "produtos/7493.jpg"
+    },
+    {
+     "cod": 2440,
+     "nome": "PORTA CLIPS 1 LUGAR MAXCRIL",
+     "marca": "MAXCRIL",
+     "preco": 6.9,
+     "img": "produtos/2440.jpg"
     },
     {
      "cod": 2439,
@@ -11272,7 +11280,7 @@
      "cod": 9199,
      "nome": "PORTA OBJETO 3 LUG PRETO-MAXCRIL",
      "marca": "MAXCRIL",
-     "preco": 16.9,
+     "preco": 17.9,
      "img": "produtos/9199.jpg"
     },
     {
@@ -11325,6 +11333,13 @@
      "img": "produtos/6242.jpg"
     },
     {
+     "cod": 2535,
+     "nome": "PRANCHETA ACRILICA OF. (PREND. METAL) CRISTAL",
+     "marca": "",
+     "preco": 27.9,
+     "img": "produtos/2535.jpg"
+    },
+    {
      "cod": 2534,
      "nome": "PRANCHETA ACRILICA OF. (PREND. METAL) PRETA",
      "marca": "MAXCRIL",
@@ -11332,18 +11347,12 @@
      "img": "produtos/2534.jpg"
     },
     {
-     "cod": 4856,
+     "cod": 4857,
      "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) PASTEL",
      "marca": "MAXCRIL",
      "preco": 19.9,
-     "img": "produtos/4856.jpg",
+     "img": "produtos/4857.jpg",
      "cores": [
-      {
-       "cod": 4856,
-       "cor": "Azul",
-       "nome": "PRANCHETA ACRILICA OF. (PREND. PLASTICO) AZUL PASTEL",
-       "img": "produtos/4856.jpg"
-      },
       {
        "cod": 4857,
        "cor": "Rosa",
@@ -11366,15 +11375,8 @@
      "img": "produtos/6360.jpg"
     },
     {
-     "cod": 6694,
-     "nome": "PRANCHETA EUCATEX 1/2 OF. (METAL) ACRIMET",
-     "marca": "ACRIMET",
-     "preco": 8.9,
-     "img": "produtos/6694.jpg"
-    },
-    {
      "cod": 7334,
-     "nome": "PRANCHETA EUCATEX 1/2 OF. (METAL) SOUZA",
+     "nome": "PRANCHETA EUCATEX 1/2 OF. (METAL)",
      "marca": "SOUZA",
      "preco": 8.9,
      "img": "produtos/7334.jpg"
@@ -11975,12 +11977,6 @@
        "cor": "Amarela",
        "nome": "PASTA L A4 AMARELA",
        "img": "produtos/6799.jpg"
-      },
-      {
-       "cod": 6801,
-       "cor": "Verde",
-       "nome": "PASTA L A4 VERDE",
-       "img": "produtos/6801.jpg"
       },
       {
        "cod": 6800,
@@ -12655,13 +12651,6 @@
      "img": "produtos/9784.jpg"
     },
     {
-     "cod": 4437,
-     "nome": "SACO ADESIVADO 5X7 C/100",
-     "marca": "GALA",
-     "preco": 7.9,
-     "img": "produtos/4437.jpg"
-    },
-    {
      "cod": 2745,
      "nome": "SACO ADESIVADO 6,5X9 C/100",
      "marca": "CROMUS",
@@ -12902,27 +12891,6 @@
    "slug": "tnt-e-eva",
    "nome": "TNT e EVA",
    "itens": [
-    {
-     "cod": 1209,
-     "nome": "EVA ATOALHADO",
-     "marca": "MAKE+",
-     "preco": 6.5,
-     "img": "produtos/1209.jpg",
-     "cores": [
-      {
-       "cod": 1209,
-       "cor": "Laranja",
-       "nome": "EVA ATOALHADO-LARANJA",
-       "img": "produtos/1209.jpg"
-      },
-      {
-       "cod": 1210,
-       "cor": "Lilas",
-       "nome": "EVA ATOALHADO-LILAS",
-       "img": "produtos/1210.jpg"
-      }
-     ]
-    },
     {
      "cod": 5360,
      "nome": "EVA DECORADO-VAQUINHA",
@@ -14782,13 +14750,6 @@
      "marca": "XERYUS",
      "preco": 119.9,
      "img": "produtos/6483.jpg"
-    },
-    {
-     "cod": 12595,
-     "nome": "LANCHEIRA XERYUS-MINNIE-14230",
-     "marca": "XERYUS",
-     "preco": 83.9,
-     "img": "produtos/12595.jpg"
     },
     {
      "cod": 13255,
@@ -17078,6 +17039,13 @@
      "marca": "MAPED",
      "preco": 49.9,
      "img": "produtos/13315.jpg"
+    },
+    {
+     "cod": 4337,
+     "nome": "GRAFITE 2.0 2B CIS BIG TREE C/6",
+     "marca": "CIS",
+     "preco": 5.9,
+     "img": "produtos/4337.jpg"
     }
    ]
   },
@@ -17326,11 +17294,11 @@
      "img": "produtos/942.jpg"
     },
     {
-     "cod": 947,
-     "nome": "COPO 300ML PP C/100-COPOBRAS",
-     "marca": "COPOBRAS",
-     "preco": 11.9,
-     "img": "produtos/947.jpg"
+     "cod": 948,
+     "nome": "COPO 300ML PS C/100-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 9.9,
+     "img": "produtos/948.jpg"
     },
     {
      "cod": 8806,
@@ -17506,6 +17474,13 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg"
+    },
+    {
+     "cod": 7351,
+     "nome": "TAMPA 200/250ML (S/F) C/50-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 6.9,
+     "img": "produtos/7351.jpg"
     },
     {
      "cod": 2934,
@@ -17969,13 +17944,6 @@
      "img": "produtos/7360.jpg"
     },
     {
-     "cod": 7362,
-     "nome": "CAIXA ISOPOR VACINA 0,4ML (250GR)",
-     "marca": "ISOMAX",
-     "preco": 4.9,
-     "img": "produtos/7362.jpg"
-    },
-    {
      "cod": 7363,
      "nome": "CAIXA ISOPOR VACINA 0,8ML (500GR)",
      "marca": "ISOMAX",
@@ -18065,6 +18033,13 @@
      "marca": "",
      "preco": 62.9,
      "img": "produtos/3991.jpg"
+    },
+    {
+     "cod": 1009,
+     "nome": "DISCO ISOPOR 25CM C/200",
+     "marca": "",
+     "preco": 89.9,
+     "img": "produtos/1009.jpg"
     },
     {
      "cod": 1010,
@@ -18268,13 +18243,6 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg"
-    },
-    {
-     "cod": 4129,
-     "nome": "PT500 COPOBRAS C/100 (TAMPA)",
-     "marca": "COPOBRAS",
-     "preco": 23.9,
-     "img": "produtos/4129.jpg"
     },
     {
      "cod": 5005,
@@ -18537,7 +18505,7 @@
      "cod": 4573,
      "nome": "POTE (KIT) 500ML C/25-ULTRA",
      "marca": "ULTRA",
-     "preco": 26.9,
+     "preco": 18.9,
      "img": "produtos/4573.jpg"
     },
     {
@@ -18609,6 +18577,13 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg"
+    },
+    {
+     "cod": 11691,
+     "nome": "POTE RETANG. 500ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 21.9,
+     "img": "produtos/11691.jpg"
     },
     {
      "cod": 11690,
@@ -18848,6 +18823,13 @@
      "img": "produtos/5067.jpg"
     },
     {
+     "cod": 1376,
+     "nome": "FORMA PF642/S642/ECO642 C/300",
+     "marca": "",
+     "preco": 52.9,
+     "img": "produtos/1376.jpg"
+    },
+    {
      "cod": 14015,
      "nome": "FORMA PF742 C/10 (250ML)",
      "marca": "",
@@ -19055,13 +19037,6 @@
      "marca": "COPOPLAST",
      "preco": 1.2,
      "img": "produtos/10303.jpg"
-    },
-    {
-     "cod": 2550,
-     "nome": "PRATO P-15 FUNDO C/10",
-     "marca": "",
-     "preco": 2.0,
-     "img": "produtos/2550.jpg"
     },
     {
      "cod": 3857,
@@ -19438,20 +19413,6 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg"
-    },
-    {
-     "cod": 3951,
-     "nome": "GUARDANAPO 20X20 C/100-BRASIPEL",
-     "marca": "BRASIPEL",
-     "preco": 2.9,
-     "img": "produtos/3951.jpg"
-    },
-    {
-     "cod": 14268,
-     "nome": "GUARDANAPO 20X20 C/100-LIMPMAX",
-     "marca": "LIMPMAX",
-     "preco": 2.9,
-     "img": "produtos/14268.jpg"
     },
     {
      "cod": 1553,
@@ -20133,6 +20094,13 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg"
+    },
+    {
+     "cod": 2709,
+     "nome": "SACO 17X35 (0.6) TRANSPARENTE",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/2709.jpg"
     },
     {
      "cod": 3651,
@@ -21193,6 +21161,13 @@
      "img": "produtos/255.jpg"
     },
     {
+     "cod": 4427,
+     "nome": "BOBINA PICOT. 50X70 C/250-ROLLBAG (PESO 3KG)",
+     "marca": "ROLLBAG",
+     "preco": 23.9,
+     "img": "produtos/4427.jpg"
+    },
+    {
      "cod": 6857,
      "nome": "BOLHA 1,20M (ALTURA)",
      "marca": "HM2",
@@ -21449,13 +21424,6 @@
    "slug": "bobina-pdv",
    "nome": "Bobina PDV",
    "itens": [
-    {
-     "cod": 222,
-     "nome": "BOBINA 57MM 1V",
-     "marca": "PRIMUS",
-     "preco": 1.8,
-     "img": "produtos/222.jpg"
-    },
     {
      "cod": 5871,
      "nome": "BOBINA 57MM TERM 15M BRANCA",
@@ -22315,12 +22283,6 @@
        "cor": "Prata",
        "nome": "FITA CETIM N2 10MMX10MT-PRATA",
        "img": "produtos/14132.jpg"
-      },
-      {
-       "cod": 14133,
-       "cor": "Preto",
-       "nome": "FITA CETIM N2 10MMX10MT-PRETO",
-       "img": "produtos/14133.jpg"
       },
       {
        "cod": 13752,
@@ -23527,7 +23489,7 @@
     {
      "cod": 6657,
      "nome": "CONTAINER 8L (167X218X330)",
-     "marca": "ERCAPLAST",
+     "marca": "",
      "preco": 38.9,
      "img": "produtos/6657.jpg"
     },
@@ -23656,18 +23618,25 @@
      "img": "produtos/1494.jpg"
     },
     {
+     "cod": 14029,
+     "nome": "GOMINHA MERCUR C/500 UN",
+     "marca": "MERCUR",
+     "preco": 34.9,
+     "img": "produtos/14029.jpg"
+    },
+    {
+     "cod": 14182,
+     "nome": "GOMINHA PREMIER C/500GR",
+     "marca": "PREMIER",
+     "preco": 18.9,
+     "img": "produtos/14182.jpg"
+    },
+    {
      "cod": 1823,
      "nome": "MANTEIGA 30X7,5MT",
      "marca": "",
      "preco": 5.9,
      "img": "produtos/1823.jpg"
-    },
-    {
-     "cod": 6983,
-     "nome": "PAPEL IMPERMEAVEL BRANCO",
-     "marca": "RESMA",
-     "preco": 0.7,
-     "img": "produtos/6983.jpg"
     },
     {
      "cod": 2668,
@@ -23684,25 +23653,11 @@
      "img": "produtos/2669.jpg"
     },
     {
-     "cod": 4325,
-     "nome": "ROLHA PLASTICA C/50",
+     "cod": 2670,
+     "nome": "ROLHA PLASTICA C/50 BRANCA",
      "marca": "-",
      "preco": 6.9,
-     "img": "produtos/4325.jpg",
-     "cores": [
-      {
-       "cod": 4325,
-       "cor": "Amarela",
-       "nome": "ROLHA PLASTICA C/50 AMARELA",
-       "img": "produtos/4325.jpg"
-      },
-      {
-       "cod": 2670,
-       "cor": "Branca",
-       "nome": "ROLHA PLASTICA C/50 BRANCA",
-       "img": "produtos/2670.jpg"
-      }
-     ]
+     "img": "produtos/2670.jpg"
     }
    ]
   },
@@ -23781,13 +23736,6 @@
      "img": "produtos/10304.jpg"
     },
     {
-     "cod": 8294,
-     "nome": "LUVA NITRILICA-M C/100 PRETA SEM PO",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/8294.jpg"
-    },
-    {
      "cod": 8295,
      "nome": "LUVA NITRILICA-P C/100 PRETA SEM PO",
      "marca": "",
@@ -23855,13 +23803,6 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/11852.jpg"
-    },
-    {
-     "cod": 7015,
-     "nome": "PAPEL HIG.(ROLAO) 8X170M-SLIM PAPER",
-     "marca": "SLIM PAPER",
-     "preco": 39.9,
-     "img": "produtos/7015.jpg"
     },
     {
      "cod": 2102,
@@ -25986,13 +25927,6 @@
      "marca": "LEOTACK",
      "preco": 6.9,
      "img": "produtos/7618.jpg"
-    },
-    {
-     "cod": 6555,
-     "nome": "CONTACT DECORADO-FANTASIA CIRCO",
-     "marca": "LENORA",
-     "preco": 6.9,
-     "img": "produtos/6555.jpg"
     },
     {
      "cod": 7606,
