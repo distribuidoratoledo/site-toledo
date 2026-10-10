@@ -2802,6 +2802,13 @@
      "img": "produtos/14237.jpg"
     },
     {
+     "cod": 9158,
+     "nome": "LAPISEIRA 0.7-JOCAR TECNICA AZUL",
+     "marca": "JOCAR",
+     "preco": 7.9,
+     "img": "produtos/9158.jpg"
+    },
+    {
      "cod": 1708,
      "nome": "LAPISEIRA 0.7-PENTEL (P-207) BRANCA",
      "marca": "PENTEL",
@@ -5643,13 +5650,6 @@
      "img": "produtos/12865.jpg"
     },
     {
-     "cod": 12866,
-     "nome": "CADERNO CRIATIVO 1X1 80F-COLEG. WOODLAND (C/BLOCO CORAÇAO)",
-     "marca": "CADERSIL",
-     "preco": 29.9,
-     "img": "produtos/12866.jpg"
-    },
-    {
      "cod": 437,
      "nome": "CADERNO DESENHO 96F-MAXIMA",
      "marca": "MAXIMA",
@@ -6790,7 +6790,7 @@
      "cod": 7841,
      "nome": "COLA ISOPOR 40GR-NEW MAGIC",
      "marca": "NEW MAGIC",
-     "preco": 3.5,
+     "preco": 5.9,
      "img": "produtos/7841.jpg"
     },
     {
@@ -7167,6 +7167,20 @@
      "img": "produtos/11717.jpg"
     },
     {
+     "cod": 11806,
+     "nome": "FITA MASSA ACRILICA 12X2MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 14.9,
+     "img": "produtos/11806.jpg"
+    },
+    {
+     "cod": 11807,
+     "nome": "FITA MASSA ACRILICA 19X2MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 20.9,
+     "img": "produtos/11807.jpg"
+    },
+    {
      "cod": 6836,
      "nome": "FITA PVC CRISTAL 45X100MT",
      "marca": "",
@@ -7339,13 +7353,6 @@
      "marca": "MAPED",
      "preco": 11.9,
      "img": "produtos/14244.jpg"
-    },
-    {
-     "cod": 1528,
-     "nome": "GRAMPEADOR PAREDE THOMPSON",
-     "marca": "THOMPSON",
-     "preco": 69.9,
-     "img": "produtos/1528.jpg"
     }
    ]
   },
@@ -7805,11 +7812,18 @@
      "img": "produtos/874.jpg"
     },
     {
-     "cod": 14260,
-     "nome": "GRAMPO 106/6 C/1000-ACC",
-     "marca": "ACC",
-     "preco": 4.9,
-     "img": "produtos/14260.jpg"
+     "cod": 4050,
+     "nome": "GRAMPO 106/6 C/3500-THOMPSON",
+     "marca": "THOMPSON",
+     "preco": 21.5,
+     "img": "produtos/4050.jpg"
+    },
+    {
+     "cod": 14356,
+     "nome": "GRAMPO 106/8 C/2500-THOMPSON",
+     "marca": "THOMPSON",
+     "preco": 13.9,
+     "img": "produtos/14356.jpg"
     },
     {
      "cod": 1532,
@@ -8881,18 +8895,12 @@
      "img": "produtos/2014.jpg"
     },
     {
-     "cod": 2007,
+     "cod": 3975,
      "nome": "PAPEL A4 COLOR. C/100",
      "marca": "CHAMEQUINH",
      "preco": 10.9,
-     "img": "produtos/2007.jpg",
+     "img": "produtos/3975.jpg",
      "cores": [
-      {
-       "cod": 2007,
-       "cor": "Amarelo",
-       "nome": "PAPEL A4 COLOR. C/100-AMARELO",
-       "img": "produtos/2007.jpg"
-      },
       {
        "cod": 3975,
        "cor": "Azul",
@@ -9364,7 +9372,7 @@
      "cod": 14337,
      "nome": "QUADRO VERDE 100X70",
      "marca": "SOUZ/STALO",
-     "preco": 52.9,
+     "preco": 56.9,
      "img": "produtos/14337.jpg"
     },
     {
@@ -9385,7 +9393,7 @@
      "cod": 14338,
      "nome": "QUADRO VERDE 90X60",
      "marca": "STALO",
-     "preco": 42.9,
+     "preco": 49.9,
      "img": "produtos/14338.jpg"
     },
     {
@@ -9456,13 +9464,6 @@
      "marca": "MARIPEL",
      "preco": 11.9,
      "img": "produtos/11627.jpg"
-    },
-    {
-     "cod": 7581,
-     "nome": "GUACHE 15ML C/6-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 5.9,
-     "img": "produtos/7581.jpg"
     },
     {
      "cod": 11626,
@@ -9633,12 +9634,6 @@
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML MARIPEL-VERDE BANDEIRA",
        "img": "produtos/10128.jpg"
-      },
-      {
-       "cod": 3035,
-       "cor": "Vermelha",
-       "nome": "GUACHE 250ML MARIPEL-VERMELHA",
-       "img": "produtos/3035.jpg"
       }
      ]
     },
@@ -9909,6 +9904,13 @@
      "img": "produtos/4718.jpg"
     },
     {
+     "cod": 4716,
+     "nome": "SPRAY MARROM 400ML",
+     "marca": "COLORE",
+     "preco": 24.9,
+     "img": "produtos/4716.jpg"
+    },
+    {
      "cod": 8786,
      "nome": "SPRAY OURO METALICO 400ML",
      "marca": "COLORE",
@@ -9991,33 +9993,6 @@
      "marca": "DACART",
      "preco": 36.9,
      "img": "produtos/12550.jpg"
-    },
-    {
-     "cod": 2970,
-     "nome": "TINTA ACR.(FOS) 15ML ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 3.8,
-     "img": "produtos/2970.jpg",
-     "cores": [
-      {
-       "cod": 2970,
-       "cor": "Azul",
-       "nome": "TINTA ACR.(FOS) 15ML ACRILEX-AZUL",
-       "img": "produtos/2970.jpg"
-      },
-      {
-       "cod": 2972,
-       "cor": "Preto",
-       "nome": "TINTA ACR.(FOS) 15ML ACRILEX-PRETO",
-       "img": "produtos/2972.jpg"
-      },
-      {
-       "cod": 2973,
-       "cor": "Verde",
-       "nome": "TINTA ACR.(FOS) 15ML ACRILEX-VERDE",
-       "img": "produtos/2973.jpg"
-      }
-     ]
     },
     {
      "cod": 2980,
@@ -11200,13 +11175,6 @@
      "img": "produtos/2465.jpg"
     },
     {
-     "cod": 13579,
-     "nome": "PORTA OBJETO 1 LUG ARAMADO-CINZA/PRATA",
-     "marca": "KIT",
-     "preco": 10.9,
-     "img": "produtos/13579.jpg"
-    },
-    {
      "cod": 13782,
      "nome": "PORTA OBJETO 1 LUG ARAMADO-PRETO (QUADRADO)",
      "marca": "",
@@ -12385,13 +12353,6 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/12935.jpg"
-    },
-    {
-     "cod": 12926,
-     "nome": "PASTA PP MINI 1CM-AMARELA",
-     "marca": "ACP",
-     "preco": 2.9,
-     "img": "produtos/12926.jpg"
     },
     {
      "cod": 7167,
@@ -16335,6 +16296,13 @@
      "img": "produtos/4793.jpg"
     },
     {
+     "cod": 4794,
+     "nome": "CADEADO 50MM",
+     "marca": "PADO",
+     "preco": 63.9,
+     "img": "produtos/4794.jpg"
+    },
+    {
      "cod": 4671,
      "nome": "LACRE 16CM C/100",
      "marca": "TYKHEPLAS",
@@ -16843,12 +16811,6 @@
        "img": "produtos/10923.jpg"
       },
       {
-       "cod": 10285,
-       "cor": "Branco",
-       "nome": "GLITER 3GR-BRANCO",
-       "img": "produtos/10285.jpg"
-      },
-      {
        "cod": 1477,
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
@@ -17280,18 +17242,18 @@
      "img": "produtos/944.jpg"
     },
     {
-     "cod": 12141,
-     "nome": "COPO 200ML PS C/100-TEU COPO",
-     "marca": "TEU COPO",
-     "preco": 4.9,
-     "img": "produtos/12141.jpg"
-    },
-    {
      "cod": 942,
      "nome": "COPO 200ML PS C/100-TOTAL",
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg"
+    },
+    {
+     "cod": 947,
+     "nome": "COPO 300ML PP C/100-COPOBRAS",
+     "marca": "COPOBRAS",
+     "preco": 11.9,
+     "img": "produtos/947.jpg"
     },
     {
      "cod": 948,
@@ -17432,6 +17394,13 @@
      "marca": "VABENE",
      "preco": 13.9,
      "img": "produtos/9745.jpg"
+    },
+    {
+     "cod": 973,
+     "nome": "COPO VIDRO C/24-NADIR",
+     "marca": "NADIR",
+     "preco": 39.9,
+     "img": "produtos/973.jpg"
     },
     {
      "cod": 974,
@@ -17631,7 +17600,7 @@
     {
      "cod": 177,
      "nome": "BANDEJA ISOPOR B3 FUNDA C/100",
-     "marca": "COPOBRAS",
+     "marca": "",
      "preco": 34.9,
      "img": "produtos/177.jpg"
     },
@@ -18245,6 +18214,13 @@
      "img": "produtos/3989.jpg"
     },
     {
+     "cod": 4129,
+     "nome": "PT500 COPOBRAS C/100 (TAMPA)",
+     "marca": "COPOBRAS",
+     "preco": 23.9,
+     "img": "produtos/4129.jpg"
+    },
+    {
      "cod": 5005,
      "nome": "PT500 ISOBRAS C/100 (TAMPA)",
      "marca": "ISOBRAS",
@@ -18262,7 +18238,7 @@
      "cod": 4733,
      "nome": "PT500 TOTAL C/50 (TAMPA)",
      "marca": "TOTAPLAST",
-     "preco": 9.9,
+     "preco": 8.9,
      "img": "produtos/4733.jpg"
     },
     {
@@ -18914,6 +18890,13 @@
      "img": "produtos/1365.jpg"
     },
     {
+     "cod": 7045,
+     "nome": "FORMA S35/ECO35 (ALTA) C/100-(PRETA)",
+     "marca": "",
+     "preco": 59.9,
+     "img": "produtos/7045.jpg"
+    },
+    {
      "cod": 1366,
      "nome": "FORMA S40 C/100",
      "marca": "SANPACK",
@@ -19039,6 +19022,13 @@
      "img": "produtos/10303.jpg"
     },
     {
+     "cod": 2550,
+     "nome": "PRATO P-15 FUNDO C/10",
+     "marca": "",
+     "preco": 2.0,
+     "img": "produtos/2550.jpg"
+    },
+    {
      "cod": 3857,
      "nome": "PRATO P-15 RASO C/10",
      "marca": "",
@@ -19058,6 +19048,13 @@
      "marca": "COPOPLAST",
      "preco": 3.9,
      "img": "produtos/3898.jpg"
+    },
+    {
+     "cod": 2553,
+     "nome": "PRATO P-21 RASO C/10",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/2553.jpg"
     },
     {
      "cod": 11873,
@@ -19197,13 +19194,6 @@
      "marca": "FIDELI PAR",
      "preco": 21.9,
      "img": "produtos/7019.jpg"
-    },
-    {
-     "cod": 7020,
-     "nome": "CAIXA BOLO 30CM C/5 (SEPARADA)",
-     "marca": "ABN",
-     "preco": 28.9,
-     "img": "produtos/7020.jpg"
     },
     {
      "cod": 7021,
@@ -19415,6 +19405,13 @@
      "img": "produtos/7935.jpg"
     },
     {
+     "cod": 3951,
+     "nome": "GUARDANAPO 20X20 C/100-BRASIPEL",
+     "marca": "BRASIPEL",
+     "preco": 2.9,
+     "img": "produtos/3951.jpg"
+    },
+    {
      "cod": 1553,
      "nome": "GUARDANAPO 24X22 C/50-SANTEPEL",
      "marca": "SANTEPEL",
@@ -19487,7 +19484,7 @@
      "cod": 4676,
      "nome": "ALUMINIO 45X65MT",
      "marca": "",
-     "preco": 71.9,
+     "preco": 66.9,
      "img": "produtos/4676.jpg"
     },
     {
@@ -19580,13 +19577,6 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg"
-    },
-    {
-     "cod": 14232,
-     "nome": "FORMA ALUM D5 (170X275) 1150ML C/100-PRAVIAGEM",
-     "marca": "PRAVIAGEM",
-     "preco": 139.9,
-     "img": "produtos/14232.jpg"
     },
     {
      "cod": 1347,
@@ -19724,21 +19714,21 @@
      "cod": 11895,
      "nome": "CANUDO SACHE (PAPEL) 6MMX 19,7CM C/100",
      "marca": "INOVEN",
-     "preco": 12.9,
+     "preco": 5.9,
      "img": "produtos/11895.jpg"
     },
     {
      "cod": 11896,
      "nome": "CANUDO SACHE (PAPEL) 6MMX 26CM C/100",
      "marca": "INOVEN",
-     "preco": 15.9,
+     "preco": 5.9,
      "img": "produtos/11896.jpg"
     },
     {
      "cod": 11897,
      "nome": "CANUDO SACHE (PAPEL) 8MMX 19,7CM C/100",
      "marca": "INOVEN",
-     "preco": 15.9,
+     "preco": 5.9,
      "img": "produtos/11897.jpg"
     },
     {
@@ -19766,7 +19756,7 @@
      "cod": 654,
      "nome": "CANUDO SACHE 8MM C/100",
      "marca": "",
-     "preco": 16.9,
+     "preco": 9.9,
      "img": "produtos/654.jpg"
     },
     {
@@ -20868,6 +20858,12 @@
        "img": "produtos/2857.jpg"
       },
       {
+       "cod": 4326,
+       "cor": "Rosa",
+       "nome": "SACOLA PH 30X40 C/50-ROSA",
+       "img": "produtos/4326.jpg"
+      },
+      {
        "cod": 2858,
        "cor": "Verde Claro",
        "nome": "SACOLA PH 30X40 C/50-VERDE CLARO",
@@ -21424,6 +21420,13 @@
    "slug": "bobina-pdv",
    "nome": "Bobina PDV",
    "itens": [
+    {
+     "cod": 222,
+     "nome": "BOBINA 57MM 1V",
+     "marca": "PRIMUS",
+     "preco": 1.9,
+     "img": "produtos/222.jpg"
+    },
     {
      "cod": 5871,
      "nome": "BOBINA 57MM TERM 15M BRANCA",
@@ -23191,7 +23194,7 @@
      "cod": 1195,
      "nome": "ETIQUETA ETIQUETAD.MX5500 C/10",
      "marca": "",
-     "preco": 22.9,
+     "preco": 24.9,
      "img": "produtos/1195.jpg"
     },
     {
@@ -23256,6 +23259,13 @@
      "marca": "GRESPAN",
      "preco": 31.9,
      "img": "produtos/3939.jpg"
+    },
+    {
+     "cod": 1207,
+     "nome": "ETIQUETA ZEBRA (TERMICA) 33X21-3 40MT",
+     "marca": "PRIMUS",
+     "preco": 59.9,
+     "img": "produtos/1207.jpg"
     }
    ]
   },
@@ -23676,21 +23686,21 @@
      "cod": 1786,
      "nome": "LUVA LATEX-G C/100 COM PO",
      "marca": "",
-     "preco": 29.9,
+     "preco": 27.9,
      "img": "produtos/1786.jpg"
     },
     {
      "cod": 9179,
      "nome": "LUVA LATEX-M C/100 COM PO",
      "marca": "",
-     "preco": 29.9,
+     "preco": 27.9,
      "img": "produtos/9179.jpg"
     },
     {
      "cod": 7488,
      "nome": "LUVA LATEX-P C/100 COM PO",
      "marca": "",
-     "preco": 29.9,
+     "preco": 27.9,
      "img": "produtos/7488.jpg"
     },
     {
@@ -23729,11 +23739,25 @@
      "img": "produtos/4551.jpg"
     },
     {
+     "cod": 8293,
+     "nome": "LUVA NITRILICA-G C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8293.jpg"
+    },
+    {
      "cod": 10304,
      "nome": "LUVA NITRILICA-GG C/100 PRETA SEM PO",
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg"
+    },
+    {
+     "cod": 8294,
+     "nome": "LUVA NITRILICA-M C/100 PRETA SEM PO",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8294.jpg"
     },
     {
      "cod": 8295,
@@ -23750,24 +23774,38 @@
      "img": "produtos/1801.jpg"
     },
     {
+     "cod": 12279,
+     "nome": "LUVA VINIL-G C/100 SEM PO",
+     "marca": "",
+     "preco": 18.9,
+     "img": "produtos/12279.jpg"
+    },
+    {
+     "cod": 10988,
+     "nome": "LUVA VINIL-GG C/100 SEM PO",
+     "marca": "",
+     "preco": 18.9,
+     "img": "produtos/10988.jpg"
+    },
+    {
      "cod": 9014,
      "nome": "LUVA VINIL-M C/100 COM PO",
      "marca": "",
-     "preco": 21.9,
+     "preco": 18.9,
      "img": "produtos/9014.jpg"
     },
     {
      "cod": 8296,
      "nome": "LUVA VINIL-M C/100 SEM PO",
      "marca": "",
-     "preco": 21.9,
+     "preco": 18.9,
      "img": "produtos/8296.jpg"
     },
     {
      "cod": 10989,
      "nome": "LUVA VINIL-P C/100 SEM PO",
      "marca": "",
-     "preco": 21.9,
+     "preco": 18.9,
      "img": "produtos/10989.jpg"
     },
     {
@@ -23873,6 +23911,13 @@
      "marca": "NOAH PAPER",
      "preco": 107.9,
      "img": "produtos/12118.jpg"
+    },
+    {
+     "cod": 14357,
+     "nome": "PAPEL TOALHA (COZINHA) C/2-ELEGANTE",
+     "marca": "SULLEG",
+     "preco": 7.9,
+     "img": "produtos/14357.jpg"
     },
     {
      "cod": 2154,
@@ -24125,6 +24170,13 @@
      "img": "produtos/14216.jpg"
     },
     {
+     "cod": 6345,
+     "nome": "POUPA COPO BELL PLUS",
+     "marca": "BELL PLUS",
+     "preco": 45.9,
+     "img": "produtos/6345.jpg"
+    },
+    {
      "cod": 2651,
      "nome": "RESERVATORIO PREMISSE",
      "marca": "PREMISSE",
@@ -24273,7 +24325,7 @@
      "cod": 3072,
      "nome": "TOALHEIRO BELL PLUS",
      "marca": "BELL PLUS",
-     "preco": 56.9,
+     "preco": 48.9,
      "img": "produtos/3072.jpg"
     },
     {
@@ -25567,10 +25619,30 @@
     },
     {
      "cod": 13364,
-     "nome": "MARCA TEXTO JOCAR-LARANJA",
+     "nome": "MARCA TEXTO JOCAR",
      "marca": "JOCAR",
-     "preco": 2.0,
-     "img": "produtos/13364.jpg"
+     "preco": 2.9,
+     "img": "produtos/13364.jpg",
+     "cores": [
+      {
+       "cod": 13364,
+       "cor": "Laranja",
+       "nome": "MARCA TEXTO JOCAR-LARANJA",
+       "img": "produtos/13364.jpg"
+      },
+      {
+       "cod": 11016,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO JOCAR-ROSA",
+       "img": "produtos/11016.jpg"
+      },
+      {
+       "cod": 14355,
+       "cor": "Verde",
+       "nome": "MARCA TEXTO JOCAR-VERDE",
+       "img": "produtos/14355.jpg"
+      }
+     ]
     },
     {
      "cod": 11547,
