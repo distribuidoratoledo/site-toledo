@@ -378,6 +378,12 @@
        "img": "produtos/561.jpg"
       },
       {
+       "cod": 562,
+       "cor": "Azul Escuro",
+       "nome": "CANETA CIS SPIRO-AZUL ESCURO",
+       "img": "produtos/562.jpg"
+      },
+      {
        "cod": 563,
        "cor": "Laranja",
        "nome": "CANETA CIS SPIRO-LARANJA",
@@ -1503,13 +1509,6 @@
      "marca": "TRIS",
      "preco": 19.9,
      "img": "produtos/12683.jpg"
-    },
-    {
-     "cod": 7706,
-     "nome": "LAPIS 24 CORES-MAPED INFINITY",
-     "marca": "MAPED",
-     "preco": 24.9,
-     "img": "produtos/7706.jpg"
     },
     {
      "cod": 1657,
@@ -4453,13 +4452,6 @@
      "img": "produtos/10927.jpg"
     },
     {
-     "cod": 10928,
-     "nome": "CADERNO 1X1 80F-MORMAII MASCULINO",
-     "marca": "CREDEAL",
-     "preco": 15.9,
-     "img": "produtos/10928.jpg"
-    },
-    {
      "cod": 5928,
      "nome": "CADERNO 1X1 80F-MULHER",
      "marca": "S.DOMINGOS",
@@ -6334,6 +6326,13 @@
      "img": "produtos/10604.jpg"
     },
     {
+     "cod": 10652,
+     "nome": "PRENDEDOR PAPEL 25MM",
+     "marca": "CIS",
+     "preco": 1.5,
+     "img": "produtos/10652.jpg"
+    },
+    {
      "cod": 7554,
      "nome": "PRENDEDOR PAPEL 32MM",
      "marca": "JOCAR",
@@ -6353,6 +6352,13 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/12234.jpg"
+    },
+    {
+     "cod": 2575,
+     "nome": "PRENDEDOR PAPEL 51MM",
+     "marca": "JOCAR/CIS",
+     "preco": 4.9,
+     "img": "produtos/2575.jpg"
     }
    ]
   },
@@ -7784,6 +7790,13 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg"
+    },
+    {
+     "cod": 2618,
+     "nome": "REFIL CORRETIVO FITA MERCUR 6M",
+     "marca": "MERCUR",
+     "preco": 12.9,
+     "img": "produtos/2618.jpg"
     }
    ]
   },
@@ -7804,6 +7817,13 @@
    "slug": "grampo",
    "nome": "Grampo",
    "itens": [
+    {
+     "cod": 14292,
+     "nome": "COLCHETE 12 C/72",
+     "marca": "ACC",
+     "preco": 27.9,
+     "img": "produtos/14292.jpg"
+    },
     {
      "cod": 874,
      "nome": "COLCHETE 8 C/72",
@@ -7908,6 +7928,13 @@
      "marca": "CIS",
      "preco": 18.9,
      "img": "produtos/12117.jpg"
+    },
+    {
+     "cod": 3480,
+     "nome": "GRAMPO 9/10-23/10-24/10 C/5000-CHAPARRAU",
+     "marca": "CHAPARRAU",
+     "preco": 35.9,
+     "img": "produtos/3480.jpg"
     },
     {
      "cod": 1545,
@@ -8895,12 +8922,18 @@
      "img": "produtos/2014.jpg"
     },
     {
-     "cod": 3975,
+     "cod": 2007,
      "nome": "PAPEL A4 COLOR. C/100",
      "marca": "CHAMEQUINH",
      "preco": 10.9,
-     "img": "produtos/3975.jpg",
+     "img": "produtos/2007.jpg",
      "cores": [
+      {
+       "cod": 2007,
+       "cor": "Amarelo",
+       "nome": "PAPEL A4 COLOR. C/100-AMARELO",
+       "img": "produtos/2007.jpg"
+      },
       {
        "cod": 3975,
        "cor": "Azul",
@@ -8976,6 +9009,13 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg"
+    },
+    {
+     "cod": 2113,
+     "nome": "PAPEL KRAFT 80GR 66X96 (FOLHA)",
+     "marca": "SCRITY",
+     "preco": 1.5,
+     "img": "produtos/2113.jpg"
     },
     {
      "cod": 14085,
@@ -11597,10 +11637,28 @@
        "img": "produtos/2184.jpg"
       },
       {
+       "cod": 2185,
+       "cor": "Branca",
+       "nome": "PASTA ABA ELAST.PAPEL-BRANCA",
+       "img": "produtos/2185.jpg"
+      },
+      {
+       "cod": 2187,
+       "cor": "Laranja",
+       "nome": "PASTA ABA ELAST.PAPEL-LARANJA",
+       "img": "produtos/2187.jpg"
+      },
+      {
        "cod": 2188,
        "cor": "Preta",
        "nome": "PASTA ABA ELAST.PAPEL-PRETA",
        "img": "produtos/2188.jpg"
+      },
+      {
+       "cod": 2189,
+       "cor": "Rosa",
+       "nome": "PASTA ABA ELAST.PAPEL-ROSA",
+       "img": "produtos/2189.jpg"
       },
       {
        "cod": 2190,
@@ -12554,6 +12612,13 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/4920.jpg"
+    },
+    {
+     "cod": 4921,
+     "nome": "PLASTICO 4F OF. FINO C/100",
+     "marca": "DAC",
+     "preco": 29.9,
+     "img": "produtos/4921.jpg"
     },
     {
      "cod": 4922,
@@ -16032,6 +16097,13 @@
      "img": "produtos/11393.jpg"
     },
     {
+     "cod": 11394,
+     "nome": "MASSA POTE ACRILEX 500GR-CHOCOLATE",
+     "marca": "ACRILEX",
+     "preco": 18.9,
+     "img": "produtos/11394.jpg"
+    },
+    {
      "cod": 11397,
      "nome": "MASSA POTE ACRILEX 500GR-ROSA MARAVILHA",
      "marca": "ACRILEX",
@@ -16150,11 +16222,46 @@
      "img": "produtos/13718.jpg"
     },
     {
+     "cod": 14361,
+     "nome": "JOGO BRINCANDO COM VOGAIS C/20 PÇ (MADEIRA)",
+     "marca": "AQUARELA B",
+     "preco": 28.9,
+     "img": "produtos/14361.jpg"
+    },
+    {
+     "cod": 14360,
+     "nome": "JOGO MEMORIA BICHOS E FILHOTES C/54 PÇ",
+     "marca": "PAIS E F",
+     "preco": 22.9,
+     "img": "produtos/14360.jpg"
+    },
+    {
+     "cod": 5523,
+     "nome": "JOGO MEMORIA DINOSSAUROS C/40 PÇ",
+     "marca": "PAIS E F",
+     "preco": 22.9,
+     "img": "produtos/5523.jpg"
+    },
+    {
      "cod": 8054,
      "nome": "JOGO MEMORIA PRINCESA C/40 PÇ",
      "marca": "PAIS E F",
-     "preco": 23.9,
+     "preco": 22.9,
      "img": "produtos/8054.jpg"
+    },
+    {
+     "cod": 14363,
+     "nome": "JOGO QUEM É VOCÊ PRINCESAS C/86 PÇ",
+     "marca": "PAIS E F.",
+     "preco": 49.9,
+     "img": "produtos/14363.jpg"
+    },
+    {
+     "cod": 14364,
+     "nome": "JOGO VERDADE OU DESAFIO C/118 PÇ",
+     "marca": "PAIS E F",
+     "preco": 49.9,
+     "img": "produtos/14364.jpg"
     },
     {
      "cod": 1880,
@@ -16162,6 +16269,13 @@
      "marca": "SMMART",
      "preco": 16.9,
      "img": "produtos/1880.jpg"
+    },
+    {
+     "cod": 14362,
+     "nome": "QUEBRA CABEÇA 3 PORQUINHOS C/2X24 PÇ",
+     "marca": "BRINQ.TOIA",
+     "preco": 22.9,
+     "img": "produtos/14362.jpg"
     },
     {
      "cod": 9192,
@@ -17906,13 +18020,6 @@
      "img": "produtos/6939.jpg"
     },
     {
-     "cod": 7360,
-     "nome": "CAIXA ISOPOR 80 LITROS",
-     "marca": "",
-     "preco": 119.9,
-     "img": "produtos/7360.jpg"
-    },
-    {
      "cod": 7363,
      "nome": "CAIXA ISOPOR VACINA 0,8ML (500GR)",
      "marca": "ISOMAX",
@@ -19076,13 +19183,6 @@
      "marca": "COPOPLAST",
      "preco": 5.9,
      "img": "produtos/2556.jpg"
-    },
-    {
-     "cod": 7254,
-     "nome": "PRATO P-26 RASO C/10",
-     "marca": "",
-     "preco": 6.9,
-     "img": "produtos/7254.jpg"
     },
     {
      "cod": 2558,
@@ -22257,18 +22357,12 @@
      ]
     },
     {
-     "cod": 13750,
+     "cod": 13751,
      "nome": "FITA CETIM N2 10MMX10MT",
      "marca": "PROGRESSO",
      "preco": 5.9,
-     "img": "produtos/13750.jpg",
+     "img": "produtos/13751.jpg",
      "cores": [
-      {
-       "cod": 13750,
-       "cor": "Amarelo Ouro",
-       "nome": "FITA CETIM N2 10MMX10MT-AMARELO OURO",
-       "img": "produtos/13750.jpg"
-      },
       {
        "cod": 13751,
        "cor": "Azul Royal",
