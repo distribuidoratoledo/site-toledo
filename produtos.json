@@ -6472,13 +6472,6 @@
      "img": "produtos/13997.jpg"
     },
     {
-     "cod": 14109,
-     "nome": "CALCULADORA (P) BOLSO LT-BASIC (PILHA) (8 DIG)",
-     "marca": "LETRON",
-     "preco": 10.9,
-     "img": "produtos/14109.jpg"
-    },
-    {
      "cod": 11794,
      "nome": "CALCULADORA (P) C/CORDÃO (BAT) (8 DIG)",
      "marca": "LETRON",
@@ -7581,13 +7574,6 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/6972.jpg"
-    },
-    {
-     "cod": 2642,
-     "nome": "REGUA 30CM SIMPLES-MAXCRIL",
-     "marca": "MAXCRIL",
-     "preco": 1.5,
-     "img": "produtos/2642.jpg"
     },
     {
      "cod": 6770,
@@ -9009,13 +8995,6 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg"
-    },
-    {
-     "cod": 2113,
-     "nome": "PAPEL KRAFT 80GR 66X96 (FOLHA)",
-     "marca": "SCRITY",
-     "preco": 1.5,
-     "img": "produtos/2113.jpg"
     },
     {
      "cod": 14085,
@@ -10952,13 +10931,6 @@
      "img": "produtos/9252.jpg"
     },
     {
-     "cod": 9253,
-     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (CINZA)",
-     "marca": "MAXCRIL",
-     "preco": 1.2,
-     "img": "produtos/9253.jpg"
-    },
-    {
      "cod": 9254,
      "nome": "ENVELOPE SEGURANÇA ECOMMERCE-40X50 (CINZA)",
      "marca": "MAXCRIL",
@@ -12413,13 +12385,6 @@
      "img": "produtos/12935.jpg"
     },
     {
-     "cod": 7167,
-     "nome": "PASTA PP MINI 1CM-FUME",
-     "marca": "POLIBRAS",
-     "preco": 3.9,
-     "img": "produtos/7167.jpg"
-    },
-    {
      "cod": 7166,
      "nome": "PASTA PP MINI 2CM-CRISTAL",
      "marca": "POLIBRAS",
@@ -12682,13 +12647,6 @@
      "marca": "CROMUS",
      "preco": 10.5,
      "img": "produtos/2745.jpg"
-    },
-    {
-     "cod": 4872,
-     "nome": "SACO ADESIVADO 6X7 C/100",
-     "marca": "",
-     "preco": 9.9,
-     "img": "produtos/4872.jpg"
     },
     {
      "cod": 2746,
@@ -17356,6 +17314,13 @@
      "img": "produtos/944.jpg"
     },
     {
+     "cod": 12141,
+     "nome": "COPO 200ML PS C/100-TEU COPO",
+     "marca": "TEU COPO",
+     "preco": 4.9,
+     "img": "produtos/12141.jpg"
+    },
+    {
      "cod": 942,
      "nome": "COPO 200ML PS C/100-TOTAL",
      "marca": "TOTALPLAST",
@@ -18013,13 +17978,6 @@
      "img": "produtos/6944.jpg"
     },
     {
-     "cod": 6939,
-     "nome": "CAIXA ISOPOR 8 LITROS",
-     "marca": "",
-     "preco": 16.9,
-     "img": "produtos/6939.jpg"
-    },
-    {
      "cod": 7363,
      "nome": "CAIXA ISOPOR VACINA 0,8ML (500GR)",
      "marca": "ISOMAX",
@@ -18404,20 +18362,6 @@
      "img": "produtos/880.jpg"
     },
     {
-     "cod": 11601,
-     "nome": "FACA FORTE C/50",
-     "marca": "",
-     "preco": 7.9,
-     "img": "produtos/11601.jpg"
-    },
-    {
-     "cod": 8466,
-     "nome": "FACA REFEIÇÃO C/50",
-     "marca": "",
-     "preco": 3.9,
-     "img": "produtos/8466.jpg"
-    },
-    {
      "cod": 3466,
      "nome": "GARFINHO PETISCO C/100",
      "marca": "PLASTILAN",
@@ -18550,13 +18494,6 @@
      "img": "produtos/2499.jpg"
     },
     {
-     "cod": 2503,
-     "nome": "POTE (KIT) 250ML C/24-RIOPLASTIC",
-     "marca": "RIOPLASTIC",
-     "preco": 12.9,
-     "img": "produtos/2503.jpg"
-    },
-    {
      "cod": 11827,
      "nome": "POTE (KIT) 250ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
@@ -18576,13 +18513,6 @@
      "marca": "RIOPLASTIC",
      "preco": 19.9,
      "img": "produtos/2510.jpg"
-    },
-    {
-     "cod": 2511,
-     "nome": "POTE (KIT) 500ML C/24-RIOPLASTIC",
-     "marca": "RIOPLASTIC",
-     "preco": 18.9,
-     "img": "produtos/2511.jpg"
     },
     {
      "cod": 4573,
@@ -19053,13 +18983,6 @@
      "img": "produtos/1374.jpg"
     },
     {
-     "cod": 1375,
-     "nome": "FORMA S641/ECO641 C/300",
-     "marca": "",
-     "preco": 59.9,
-     "img": "produtos/1375.jpg"
-    },
-    {
      "cod": 9164,
      "nome": "FORMA S65 C/50",
      "marca": "SANPACK",
@@ -19169,13 +19092,6 @@
      "marca": "COPOPLAST",
      "preco": 4.9,
      "img": "produtos/11873.jpg"
-    },
-    {
-     "cod": 9246,
-     "nome": "PRATO P-23 ISOPOR C/25",
-     "marca": "",
-     "preco": 14.9,
-     "img": "produtos/9246.jpg"
     },
     {
      "cod": 2556,
@@ -19637,13 +19553,6 @@
      "img": "produtos/185.jpg"
     },
     {
-     "cod": 186,
-     "nome": "BANDEJA LAMINADA N4 (27X33)",
-     "marca": "PITPRATOS",
-     "preco": 2.5,
-     "img": "produtos/186.jpg"
-    },
-    {
      "cod": 187,
      "nome": "BANDEJA LAMINADA N5 (34X40)",
      "marca": "PITPRATOS",
@@ -19726,13 +19635,6 @@
      "marca": "MELLO",
      "preco": 65.9,
      "img": "produtos/1855.jpg"
-    },
-    {
-     "cod": 1861,
-     "nome": "MARMITEX 9 MANUAL C/100-MELLO",
-     "marca": "MELLO",
-     "preco": 62.9,
-     "img": "produtos/1861.jpg"
     },
     {
      "cod": 2372,
@@ -21940,7 +21842,7 @@
     },
     {
      "cod": 3676,
-     "nome": "SACO SOS LISO 10KG C/100",
+     "nome": "SACO SOS LISO 10KG (37X20X10,5) C/100",
      "marca": "CHIARA",
      "preco": 52.9,
      "img": "produtos/3676.jpg"
@@ -23722,6 +23624,13 @@
      "img": "produtos/1494.jpg"
     },
     {
+     "cod": 1498,
+     "nome": "GOMINHA MERCUR C/1200 UN",
+     "marca": "MERCUR",
+     "preco": 73.9,
+     "img": "produtos/1498.jpg"
+    },
+    {
      "cod": 14029,
      "nome": "GOMINHA MERCUR C/500 UN",
      "marca": "MERCUR",
@@ -23741,6 +23650,13 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/1823.jpg"
+    },
+    {
+     "cod": 6983,
+     "nome": "PAPEL IMPERMEAVEL BRANCO",
+     "marca": "RESMA",
+     "preco": 0.7,
+     "img": "produtos/6983.jpg"
     },
     {
      "cod": 2668,
@@ -23873,13 +23789,6 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg"
-    },
-    {
-     "cod": 10988,
-     "nome": "LUVA VINIL-GG C/100 SEM PO",
-     "marca": "",
-     "preco": 18.9,
-     "img": "produtos/10988.jpg"
     },
     {
      "cod": 9014,
@@ -24056,13 +23965,6 @@
      "img": "produtos/6679.jpg"
     },
     {
-     "cod": 2155,
-     "nome": "TOALHA ROLO 6X200M BRC 100%-INTERFORTY",
-     "marca": "INTERFORTY",
-     "preco": 137.9,
-     "img": "produtos/2155.jpg"
-    },
-    {
      "cod": 2157,
      "nome": "TOALHA ROLO 6X200M BRC LUXO-INTERFORTY",
      "marca": "INTERFORTY",
@@ -24090,15 +23992,8 @@
    "nome": "Panos e Flanelas",
    "itens": [
     {
-     "cod": 9521,
-     "nome": "FLANELA AMARELA 28X48CM",
-     "marca": "",
-     "preco": 3.0,
-     "img": "produtos/9521.jpg"
-    },
-    {
      "cod": 6750,
-     "nome": "FLANELA AMARELA 38X58CM",
+     "nome": "FLANELA AMARELA",
      "marca": "",
      "preco": 4.9,
      "img": "produtos/6750.jpg"
@@ -24732,13 +24627,6 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10614.jpg"
-    },
-    {
-     "cod": 10514,
-     "nome": "APONTADOR CIS C/D 352 (2F)-CORES",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/10514.jpg"
     },
     {
      "cod": 10788,
