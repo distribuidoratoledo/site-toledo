@@ -8,7 +8,7 @@
      "cod": 545,
      "nome": "CANETA APAGAVEL PILOT",
      "marca": "PILOT",
-     "preco": 24.9,
+     "preco": 26.9,
      "img": "produtos/545.jpg",
      "cores": [
       {
@@ -2122,6 +2122,13 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1676.jpg"
+    },
+    {
+     "cod": 5835,
+     "nome": "LAPIS FABER 8B (DESENHO)",
+     "marca": "FABER",
+     "preco": 4.9,
+     "img": "produtos/5835.jpg"
     },
     {
      "cod": 5406,
@@ -6458,6 +6465,13 @@
      "img": "produtos/13845.jpg"
     },
     {
+     "cod": 3283,
+     "nome": "CALCULADORA (M) MJ-837B (PILHA) (12 DIG)",
+     "marca": "MOURE JAR",
+     "preco": 25.9,
+     "img": "produtos/3283.jpg"
+    },
+    {
      "cod": 6914,
      "nome": "CALCULADORA (M) MJ-8985A (BAT) (8 DIG)",
      "marca": "MOURE JAR",
@@ -6677,7 +6691,7 @@
      "cod": 831,
      "nome": "COLA EVA E ISOPOR 35GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 5.5,
+     "preco": 5.9,
      "img": "produtos/831.jpg"
     },
     {
@@ -6691,7 +6705,7 @@
      "cod": 832,
      "nome": "COLA EVA E ISOPOR 90GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 11.9,
+     "preco": 12.9,
      "img": "produtos/832.jpg"
     },
     {
@@ -7837,6 +7851,13 @@
      "marca": "ACC",
      "preco": 33.9,
      "img": "produtos/1532.jpg"
+    },
+    {
+     "cod": 14396,
+     "nome": "GRAMPO 23/10 C/5000-BACCHI",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/14396.jpg"
     },
     {
      "cod": 10248,
@@ -10589,6 +10610,20 @@
      "img": "produtos/5746.jpg"
     },
     {
+     "cod": 7481,
+     "nome": "ETIQUETA FIX PIN BRANCA C/1000",
+     "marca": "",
+     "preco": 11.9,
+     "img": "produtos/7481.jpg"
+    },
+    {
+     "cod": 7432,
+     "nome": "ETIQUETA GRESPAN 6180 C/100 (30) GC280",
+     "marca": "GRESPAN",
+     "preco": 66.9,
+     "img": "produtos/7432.jpg"
+    },
+    {
      "cod": 7430,
      "nome": "ETIQUETA GRESPAN 6181 C/100 (20) GC281",
      "marca": "GRESPAN",
@@ -10603,6 +10638,20 @@
      "img": "produtos/7431.jpg"
     },
     {
+     "cod": 7436,
+     "nome": "ETIQUETA GRESPAN 6182 C/100 (14) GC282",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7436.jpg"
+    },
+    {
+     "cod": 7437,
+     "nome": "ETIQUETA GRESPAN 6182 C/25 (14) GC282",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7437.jpg"
+    },
+    {
      "cod": 7442,
      "nome": "ETIQUETA GRESPAN 6184 C/100 (06) GC284",
      "marca": "GRESPAN",
@@ -10615,6 +10664,20 @@
      "marca": "GRESPAN",
      "preco": 18.9,
      "img": "produtos/7443.jpg"
+    },
+    {
+     "cod": 7434,
+     "nome": "ETIQUETA GRESPAN 6185 C/100 (01) GC285",
+     "marca": "GRESPAN",
+     "preco": 65.9,
+     "img": "produtos/7434.jpg"
+    },
+    {
+     "cod": 7435,
+     "nome": "ETIQUETA GRESPAN 6185 C/25 (01) GC285",
+     "marca": "GRESPAN",
+     "preco": 18.9,
+     "img": "produtos/7435.jpg"
     },
     {
      "cod": 7429,
@@ -10763,18 +10826,18 @@
      "img": "produtos/4986.jpg"
     },
     {
+     "cod": 79,
+     "nome": "ARQUIVO ORGAN. P/ PASTAS LARGO (PRETO)",
+     "marca": "",
+     "preco": 99.9,
+     "img": "produtos/79.jpg"
+    },
+    {
      "cod": 6384,
      "nome": "BANDEJA ACR 1 AND-CRISTAL MAXCRIL",
      "marca": "MAXCRIL",
      "preco": 31.9,
      "img": "produtos/6384.jpg"
-    },
-    {
-     "cod": 170,
-     "nome": "BANDEJA ACR 2 AND-CRISTAL MAXCRIL",
-     "marca": "MAXCRIL",
-     "preco": 56.9,
-     "img": "produtos/170.jpg"
     },
     {
      "cod": 171,
@@ -12517,13 +12580,6 @@
      "img": "produtos/2277.jpg"
     },
     {
-     "cod": 2276,
-     "nome": "PASTA SUSPENSA C/10 S/PL KRAFT",
-     "marca": "TIMPEL",
-     "preco": 45.9,
-     "img": "produtos/2276.jpg"
-    },
-    {
      "cod": 2278,
      "nome": "PASTA SUSPENSA PP CRISTAL",
      "marca": "POLIBRAS",
@@ -12631,7 +12687,7 @@
      "cod": 2744,
      "nome": "SACO ADESIVADO 25X35 C/100",
      "marca": "",
-     "preco": 78.9,
+     "preco": 44.9,
      "img": "produtos/2744.jpg"
     },
     {
@@ -12640,6 +12696,13 @@
      "marca": "GALA",
      "preco": 61.9,
      "img": "produtos/9784.jpg"
+    },
+    {
+     "cod": 4437,
+     "nome": "SACO ADESIVADO 5X7 C/100",
+     "marca": "GALA",
+     "preco": 7.9,
+     "img": "produtos/4437.jpg"
     },
     {
      "cod": 2745,
@@ -12654,6 +12717,13 @@
      "marca": "",
      "preco": 11.9,
      "img": "produtos/2746.jpg"
+    },
+    {
+     "cod": 3656,
+     "nome": "SACO ADESIVADO 9X13 C/100",
+     "marca": "VABENE",
+     "preco": 15.9,
+     "img": "produtos/3656.jpg"
     }
    ]
   },
@@ -15372,6 +15442,13 @@
      "img": "produtos/215.jpg"
     },
     {
+     "cod": 6963,
+     "nome": "BLOCO RASCUNHO 80X115 80F",
+     "marca": "",
+     "preco": 2.9,
+     "img": "produtos/6963.jpg"
+    },
+    {
      "cod": 11824,
      "nome": "BLOCO RASCUNHO 86X86 C/700F",
      "marca": "TAMOIO",
@@ -15645,7 +15722,7 @@
      "cod": 11832,
      "nome": "REFIL COLA QUENTE FINO C/8",
      "marca": "IBEL",
-     "preco": 7.9,
+     "preco": 9.9,
      "img": "produtos/11832.jpg"
     },
     {
@@ -15666,7 +15743,7 @@
      "cod": 11831,
      "nome": "REFIL COLA QUENTE GROSSO C/4",
      "marca": "IBEL",
-     "preco": 7.9,
+     "preco": 9.9,
      "img": "produtos/11831.jpg"
     }
    ]
@@ -15828,6 +15905,13 @@
    "slug": "giz-massa",
    "nome": "Giz e Massa de Modelar",
    "itens": [
+    {
+     "cod": 13713,
+     "nome": "ARGILA ESCOLAR-1KG",
+     "marca": "REZENDE",
+     "preco": 13.9,
+     "img": "produtos/13713.jpg"
+    },
     {
      "cod": 13270,
      "nome": "GIZ CERA MAPED C/6",
@@ -17087,6 +17171,13 @@
    "slug": "carimbo-almofada",
    "nome": "Carimbo e Almofada",
    "itens": [
+    {
+     "cod": 14383,
+     "nome": "ALMOFADA CARIMBO Nº3 CARBRINCK-AZUL",
+     "marca": "CARBRINCK",
+     "preco": 7.9,
+     "img": "produtos/14383.jpg"
+    },
     {
      "cod": 6643,
      "nome": "ALMOFADA CARIMBO NO3 MASTERPRINT",
@@ -19431,7 +19522,7 @@
      "cod": 1553,
      "nome": "GUARDANAPO 24X22 C/50-SANTEPEL",
      "marca": "SANTEPEL",
-     "preco": 3.9,
+     "preco": 2.9,
      "img": "produtos/1553.jpg"
     },
     {
@@ -20226,13 +20317,6 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2724.jpg"
-    },
-    {
-     "cod": 2725,
-     "nome": "SACO 30X50 (0.15) TRANSPARENTE",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/2725.jpg"
     },
     {
      "cod": 2726,
@@ -21357,7 +21441,7 @@
      "cod": 2895,
      "nome": "LIXO PRETO 100L C/10 (GR) GERAPLAST",
      "marca": "GERAPLAST",
-     "preco": 15.9,
+     "preco": 12.5,
      "img": "produtos/2895.jpg"
     },
     {
@@ -21385,7 +21469,7 @@
      "cod": 2898,
      "nome": "LIXO PRETO 200L C/10 (GR) GERAPLAST",
      "marca": "GERAPLAST",
-     "preco": 18.9,
+     "preco": 12.5,
      "img": "produtos/2898.jpg"
     },
     {
@@ -23627,7 +23711,7 @@
      "cod": 1498,
      "nome": "GOMINHA MERCUR C/1200 UN",
      "marca": "MERCUR",
-     "preco": 73.9,
+     "preco": 64.9,
      "img": "produtos/1498.jpg"
     },
     {
@@ -23784,13 +23868,6 @@
      "img": "produtos/1801.jpg"
     },
     {
-     "cod": 12279,
-     "nome": "LUVA VINIL-G C/100 SEM PO",
-     "marca": "",
-     "preco": 18.9,
-     "img": "produtos/12279.jpg"
-    },
-    {
      "cod": 9014,
      "nome": "LUVA VINIL-M C/100 COM PO",
      "marca": "",
@@ -23844,6 +23921,13 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/11852.jpg"
+    },
+    {
+     "cod": 7015,
+     "nome": "PAPEL HIG.(ROLAO) 8X170M-SLIM PAPER",
+     "marca": "SLIM PAPER",
+     "preco": 39.9,
+     "img": "produtos/7015.jpg"
     },
     {
      "cod": 2102,
@@ -25115,13 +25199,6 @@
      "img": "produtos/12379.jpg"
     },
     {
-     "cod": 12288,
-     "nome": "APONTADOR MOLIN C/D 2F-LOVE FLOWERS",
-     "marca": "MOLIN",
-     "preco": 15.9,
-     "img": "produtos/12288.jpg"
-    },
-    {
      "cod": 12347,
      "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID",
      "marca": "MOLIN",
@@ -26219,6 +26296,13 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg"
+    },
+    {
+     "cod": 14382,
+     "nome": "CONTACT TRANSPARENTE CON-TACT",
+     "marca": "CON-TACT",
+     "preco": 6.9,
+     "img": "produtos/14382.jpg"
     },
     {
      "cod": 13554,
