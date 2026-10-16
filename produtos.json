@@ -148,13 +148,6 @@
      ]
     },
     {
-     "cod": 6902,
-     "nome": "CANETA BRUSH (CORES BASICAS) C/12-CIS",
-     "marca": "CIS",
-     "preco": 61.9,
-     "img": "produtos/6902.jpg"
-    },
-    {
      "cod": 10296,
      "nome": "CANETA BRUSH PEN C/5 FABER-SUPERSOFT NEON",
      "marca": "FABER",
@@ -5439,6 +5432,39 @@
      "img": "produtos/8104.jpg"
     },
     {
+     "cod": 397,
+     "nome": "CADERNO CD 96F TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 13.9,
+     "img": "produtos/397.jpg",
+     "cores": [
+      {
+       "cod": 397,
+       "cor": "Amarelo",
+       "nome": "CADERNO CD 96F TILIBRA (AMARELO)",
+       "img": "produtos/397.jpg"
+      },
+      {
+       "cod": 398,
+       "cor": "Azul",
+       "nome": "CADERNO CD 96F TILIBRA (AZUL)",
+       "img": "produtos/398.jpg"
+      },
+      {
+       "cod": 399,
+       "cor": "Verde",
+       "nome": "CADERNO CD 96F TILIBRA (VERDE)",
+       "img": "produtos/399.jpg"
+      },
+      {
+       "cod": 9009,
+       "cor": "Vermelho",
+       "nome": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "img": "produtos/9009.jpg"
+      }
+     ]
+    },
+    {
      "cod": 6061,
      "nome": "CADERNO CD 96F-DINOSSAURO",
      "marca": "MAXIMA",
@@ -6831,7 +6857,7 @@
      "cod": 823,
      "nome": "COLA LIQUIDA 1000GR-CASCOREZ",
      "marca": "CASCOREZ",
-     "preco": 53.9,
+     "preco": 58.9,
      "img": "produtos/823.jpg"
     },
     {
@@ -6880,7 +6906,7 @@
      "cod": 818,
      "nome": "COLA LIQUIDA 500GR-CASCOREZ",
      "marca": "CASCOREZ",
-     "preco": 28.9,
+     "preco": 32.9,
      "img": "produtos/818.jpg"
     },
     {
@@ -9381,13 +9407,6 @@
      "img": "produtos/4296.jpg"
     },
     {
-     "cod": 6701,
-     "nome": "QUADRO CORTIÇA 1,20X90-(AL)",
-     "marca": "SOUZA",
-     "preco": 189.9,
-     "img": "produtos/6701.jpg"
-    },
-    {
      "cod": 3769,
      "nome": "QUADRO FELTRO 1,20X90",
      "marca": "SOUZA",
@@ -9490,13 +9509,6 @@
      "marca": "MOLIN",
      "preco": 28.9,
      "img": "produtos/12338.jpg"
-    },
-    {
-     "cod": 12754,
-     "nome": "GUACHE 15ML C/12-DACART",
-     "marca": "DACART",
-     "preco": 14.9,
-     "img": "produtos/12754.jpg"
     },
     {
      "cod": 11627,
@@ -10620,84 +10632,84 @@
      "cod": 7432,
      "nome": "ETIQUETA GRESPAN 6180 C/100 (30) GC280",
      "marca": "GRESPAN",
-     "preco": 66.9,
+     "preco": 74.9,
      "img": "produtos/7432.jpg"
     },
     {
      "cod": 7430,
      "nome": "ETIQUETA GRESPAN 6181 C/100 (20) GC281",
      "marca": "GRESPAN",
-     "preco": 65.9,
+     "preco": 74.9,
      "img": "produtos/7430.jpg"
     },
     {
      "cod": 7431,
      "nome": "ETIQUETA GRESPAN 6181 C/25 (20) GC281",
      "marca": "GRESPAN",
-     "preco": 18.9,
+     "preco": 22.9,
      "img": "produtos/7431.jpg"
     },
     {
      "cod": 7436,
      "nome": "ETIQUETA GRESPAN 6182 C/100 (14) GC282",
      "marca": "GRESPAN",
-     "preco": 65.9,
+     "preco": 74.9,
      "img": "produtos/7436.jpg"
     },
     {
      "cod": 7437,
      "nome": "ETIQUETA GRESPAN 6182 C/25 (14) GC282",
      "marca": "GRESPAN",
-     "preco": 18.9,
+     "preco": 22.9,
      "img": "produtos/7437.jpg"
     },
     {
      "cod": 7442,
      "nome": "ETIQUETA GRESPAN 6184 C/100 (06) GC284",
      "marca": "GRESPAN",
-     "preco": 65.9,
+     "preco": 74.9,
      "img": "produtos/7442.jpg"
     },
     {
      "cod": 7443,
      "nome": "ETIQUETA GRESPAN 6184 C/25 (06) GC284",
      "marca": "GRESPAN",
-     "preco": 18.9,
+     "preco": 22.9,
      "img": "produtos/7443.jpg"
     },
     {
      "cod": 7434,
      "nome": "ETIQUETA GRESPAN 6185 C/100 (01) GC285",
      "marca": "GRESPAN",
-     "preco": 65.9,
+     "preco": 74.9,
      "img": "produtos/7434.jpg"
     },
     {
      "cod": 7435,
      "nome": "ETIQUETA GRESPAN 6185 C/25 (01) GC285",
      "marca": "GRESPAN",
-     "preco": 18.9,
+     "preco": 22.9,
      "img": "produtos/7435.jpg"
     },
     {
      "cod": 7429,
      "nome": "ETIQUETA GRESPAN 6189 C/25 (60) GC289",
      "marca": "GRESPAN",
-     "preco": 18.9,
+     "preco": 22.9,
      "img": "produtos/7429.jpg"
     },
     {
      "cod": 7438,
      "nome": "ETIQUETA GRESPAN A4251 C/100 (65)",
      "marca": "GRESPAN",
-     "preco": 65.9,
+     "preco": 74.9,
      "img": "produtos/7438.jpg"
     },
     {
      "cod": 7439,
      "nome": "ETIQUETA GRESPAN A4251 C/25 (65)",
      "marca": "GRESPAN",
-     "preco": 18.9,
+     "preco": 22.9,
      "img": "produtos/7439.jpg"
     },
     {
@@ -11423,13 +11435,6 @@
      "marca": "SOUZA",
      "preco": 8.9,
      "img": "produtos/7334.jpg"
-    },
-    {
-     "cod": 4265,
-     "nome": "PRANCHETA EUCATEX OF. MARROM",
-     "marca": "",
-     "preco": 9.9,
-     "img": "produtos/4265.jpg"
     },
     {
      "cod": 7644,
@@ -13818,13 +13823,6 @@
      "img": "produtos/12893.jpg"
     },
     {
-     "cod": 12891,
-     "nome": "NECESSAIRE LUXCEL PRETA NC14640",
-     "marca": "LUXCEL",
-     "preco": 113.9,
-     "img": "produtos/12891.jpg"
-    },
-    {
      "cod": 13331,
      "nome": "NECESSAIRE XERYUS- DC PRETO",
      "marca": "XERYUS",
@@ -14903,13 +14901,6 @@
      "img": "produtos/1082.jpg"
     },
     {
-     "cod": 1065,
-     "nome": "ENVELOPE CARTA S/CEP 114X162 (COF 010)",
-     "marca": "SCRITY",
-     "preco": 0.1,
-     "img": "produtos/1065.jpg"
-    },
-    {
      "cod": 1070,
      "nome": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
      "marca": "SCRITY",
@@ -15795,13 +15786,6 @@
      "img": "produtos/6045.jpg"
     },
     {
-     "cod": 13546,
-     "nome": "GIBI DISNEY DIVERSOS",
-     "marca": "CULTURAMA",
-     "preco": 6.9,
-     "img": "produtos/13546.jpg"
-    },
-    {
      "cod": 8061,
      "nome": "GIBI JOAO E MARIA",
      "marca": "BICHO ESPE",
@@ -15920,25 +15904,11 @@
      "img": "produtos/13270.jpg"
     },
     {
-     "cod": 1465,
-     "nome": "GIZ DELTA C/64",
+     "cod": 6465,
+     "nome": "GIZ DELTA C/64 COLORIDO",
      "marca": "DELTA",
      "preco": 7.9,
-     "img": "produtos/1465.jpg",
-     "cores": [
-      {
-       "cod": 1465,
-       "cor": "Branco",
-       "nome": "GIZ DELTA C/64 BRANCO",
-       "img": "produtos/1465.jpg"
-      },
-      {
-       "cod": 6465,
-       "cor": "Colorido",
-       "nome": "GIZ DELTA C/64 COLORIDO",
-       "img": "produtos/6465.jpg"
-      }
-     ]
+     "img": "produtos/6465.jpg"
     },
     {
      "cod": 1469,
@@ -16137,13 +16107,6 @@
      "marca": "ACRILEX",
      "preco": 18.9,
      "img": "produtos/11393.jpg"
-    },
-    {
-     "cod": 11394,
-     "nome": "MASSA POTE ACRILEX 500GR-CHOCOLATE",
-     "marca": "ACRILEX",
-     "preco": 18.9,
-     "img": "produtos/11394.jpg"
     },
     {
      "cod": 11397,
@@ -17405,13 +17368,6 @@
      "img": "produtos/944.jpg"
     },
     {
-     "cod": 12141,
-     "nome": "COPO 200ML PS C/100-TEU COPO",
-     "marca": "TEU COPO",
-     "preco": 4.9,
-     "img": "produtos/12141.jpg"
-    },
-    {
      "cod": 942,
      "nome": "COPO 200ML PS C/100-TOTAL",
      "marca": "TOTALPLAST",
@@ -17426,25 +17382,11 @@
      "img": "produtos/947.jpg"
     },
     {
-     "cod": 948,
-     "nome": "COPO 300ML PS C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 9.9,
-     "img": "produtos/948.jpg"
-    },
-    {
      "cod": 8806,
      "nome": "COPO 400ML PS C/50-COPOPLAST",
      "marca": "COPOPLAST",
      "preco": 10.9,
      "img": "produtos/8806.jpg"
-    },
-    {
-     "cod": 13964,
-     "nome": "COPO 500ML PS C/50-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 13.9,
-     "img": "produtos/13964.jpg"
     },
     {
      "cod": 3342,
@@ -17527,7 +17469,7 @@
      "cod": 6814,
      "nome": "COPO TERMICO 120ML C/20-TOTAL (ISOPOR)",
      "marca": "TOTAL",
-     "preco": 6.9,
+     "preco": 4.9,
      "img": "produtos/6814.jpg"
     },
     {
@@ -17743,7 +17685,7 @@
      "cod": 4618,
      "nome": "BANDEJA ISOPOR B1 RASA C/100",
      "marca": "",
-     "preco": 13.9,
+     "preco": 9.9,
      "img": "produtos/4618.jpg"
     },
     {
@@ -17757,7 +17699,7 @@
      "cod": 4060,
      "nome": "BANDEJA ISOPOR B2 RASA C/100",
      "marca": "",
-     "preco": 14.9,
+     "preco": 12.5,
      "img": "produtos/4060.jpg"
     },
     {
@@ -17771,7 +17713,7 @@
      "cod": 177,
      "nome": "BANDEJA ISOPOR B3 FUNDA C/100",
      "marca": "",
-     "preco": 34.9,
+     "preco": 25.9,
      "img": "produtos/177.jpg"
     },
     {
@@ -17806,7 +17748,7 @@
      "cod": 180,
      "nome": "BANDEJA ISOPOR B4 RASA C/100",
      "marca": "COPOPLAST",
-     "preco": 32.9,
+     "preco": 25.9,
      "img": "produtos/180.jpg"
     },
     {
@@ -18212,21 +18154,21 @@
      "cod": 3731,
      "nome": "HAMBURGUEIRA H2 C/100",
      "marca": "",
-     "preco": 31.9,
+     "preco": 24.9,
      "img": "produtos/3731.jpg"
     },
     {
      "cod": 1569,
      "nome": "HAMBURGUEIRA H3 C/100",
      "marca": "COPOPLAST",
-     "preco": 39.9,
+     "preco": 31.9,
      "img": "produtos/1569.jpg"
     },
     {
      "cod": 5937,
      "nome": "HAMBURGUEIRA/DOGUEIRA H4 C/100",
      "marca": "",
-     "preco": 38.9,
+     "preco": 26.9,
      "img": "produtos/5937.jpg"
     },
     {
@@ -18335,6 +18277,13 @@
      "img": "produtos/3887.jpg"
     },
     {
+     "cod": 2489,
+     "nome": "PT104 COPOBRAS C/100 (FUNDO)",
+     "marca": "COPOBRAS",
+     "preco": 31.9,
+     "img": "produtos/2489.jpg"
+    },
+    {
      "cod": 7352,
      "nome": "PT104 COPOPLAST C/100 (FUNDO)",
      "marca": "COPOPLAST",
@@ -18432,6 +18381,13 @@
      "img": "produtos/11964.jpg"
     },
     {
+     "cod": 881,
+     "nome": "COLHER LITTLE COFFEE C/200 PRAFESTA",
+     "marca": "PRAFESTA",
+     "preco": 10.9,
+     "img": "produtos/881.jpg"
+    },
+    {
      "cod": 9085,
      "nome": "COLHER OVO PASCOA C/20-BRONZE (PLASTILANIA)",
      "marca": "PLASTILANI",
@@ -18479,6 +18435,13 @@
      "marca": "RIOFESTA",
      "preco": 4.9,
      "img": "produtos/4277.jpg"
+    },
+    {
+     "cod": 1881,
+     "nome": "MEXEDOR CAFE C/250",
+     "marca": "PRAFESTA",
+     "preco": 6.9,
+     "img": "produtos/1881.jpg"
     },
     {
      "cod": 10444,
@@ -19436,13 +19399,6 @@
      "img": "produtos/481.jpg"
     },
     {
-     "cod": 6987,
-     "nome": "CAIXA SALGADO 40CM C/25",
-     "marca": "ABN",
-     "preco": 87.9,
-     "img": "produtos/6987.jpg"
-    },
-    {
      "cod": 10001,
      "nome": "FORMA PIZZA PAPEL 25 C/25 (ACOPLADA)",
      "marca": "",
@@ -19517,6 +19473,13 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg"
+    },
+    {
+     "cod": 14268,
+     "nome": "GUARDANAPO 20X20 C/100-LIMPMAX",
+     "marca": "LIMPMAX",
+     "preco": 2.9,
+     "img": "produtos/14268.jpg"
     },
     {
      "cod": 1553,
@@ -20036,7 +19999,7 @@
      "cod": 1450,
      "nome": "GARRAFA 200ML C/100 (FOSCA)",
      "marca": "DECOPLAST",
-     "preco": 79.9,
+     "preco": 72.9,
      "img": "produtos/1450.jpg"
     },
     {
@@ -21122,13 +21085,6 @@
      "marca": "HIPERROLL",
      "preco": 28.9,
      "img": "produtos/13859.jpg"
-    },
-    {
-     "cod": 6826,
-     "nome": "BOBINA ESTRELA (XG) 41X71 C/420",
-     "marca": "",
-     "preco": 76.9,
-     "img": "produtos/6826.jpg"
     },
     {
      "cod": 6937,
@@ -23368,6 +23324,13 @@
      "img": "produtos/4124.jpg"
     },
     {
+     "cod": 14402,
+     "nome": "LIXEIRA BASCUL 30L INOX",
+     "marca": "VIEL",
+     "preco": 389.9,
+     "img": "produtos/14402.jpg"
+    },
+    {
      "cod": 7146,
      "nome": "LIXEIRA BASCUL 40L (COLET SELET) METAL AMAR",
      "marca": "SANREMO",
@@ -23380,6 +23343,13 @@
      "marca": "SANREMO",
      "preco": 115.9,
      "img": "produtos/7147.jpg"
+    },
+    {
+     "cod": 9025,
+     "nome": "LIXEIRA C/TAMPA 10L",
+     "marca": "ARQPLAST",
+     "preco": 39.9,
+     "img": "produtos/9025.jpg"
     },
     {
      "cod": 6890,
@@ -23431,11 +23401,46 @@
      "img": "produtos/14230.jpg"
     },
     {
+     "cod": 4644,
+     "nome": "LIXEIRA PEDAL 100L BRANCA",
+     "marca": "LARPLAST",
+     "preco": 519.9,
+     "img": "produtos/4644.jpg"
+    },
+    {
+     "cod": 7836,
+     "nome": "LIXEIRA PEDAL 10L PRETA",
+     "marca": "TOYPLAST",
+     "preco": 44.9,
+     "img": "produtos/7836.jpg"
+    },
+    {
+     "cod": 14401,
+     "nome": "LIXEIRA PEDAL 12L INOX",
+     "marca": "VIEL",
+     "preco": 119.9,
+     "img": "produtos/14401.jpg"
+    },
+    {
      "cod": 13734,
      "nome": "LIXEIRA PEDAL 14L BRANCA",
      "marca": "NITRONPLAS",
      "preco": 72.9,
      "img": "produtos/13734.jpg"
+    },
+    {
+     "cod": 4681,
+     "nome": "LIXEIRA PEDAL 15L CINZA",
+     "marca": "ANTARES",
+     "preco": 53.9,
+     "img": "produtos/4681.jpg"
+    },
+    {
+     "cod": 7148,
+     "nome": "LIXEIRA PEDAL 20L PRETA",
+     "marca": "ARQPLAST",
+     "preco": 89.9,
+     "img": "produtos/7148.jpg"
     },
     {
      "cod": 1777,
@@ -23452,11 +23457,39 @@
      "img": "produtos/6894.jpg"
     },
     {
+     "cod": 6892,
+     "nome": "LIXEIRA PEDAL 45L PRETA",
+     "marca": "TOYPLAST",
+     "preco": 169.9,
+     "img": "produtos/6892.jpg"
+    },
+    {
      "cod": 1778,
      "nome": "LIXEIRA PEDAL 50L BRANCA",
      "marca": "TRITEC",
      "preco": 129.9,
      "img": "produtos/1778.jpg"
+    },
+    {
+     "cod": 7838,
+     "nome": "LIXEIRA PEDAL 50L PRETA",
+     "marca": "VIENNA",
+     "preco": 222.9,
+     "img": "produtos/7838.jpg"
+    },
+    {
+     "cod": 6889,
+     "nome": "LIXEIRA PEDAL 60L PRETA",
+     "marca": "ANTARES",
+     "preco": 121.9,
+     "img": "produtos/6889.jpg"
+    },
+    {
+     "cod": 11753,
+     "nome": "LIXEIRA PEDAL 7,5L BRANCA",
+     "marca": "ERCAPLAST",
+     "preco": 32.9,
+     "img": "produtos/11753.jpg"
     },
     {
      "cod": 13995,
@@ -23901,13 +23934,6 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg"
-    },
-    {
-     "cod": 7275,
-     "nome": "TOUCA REDINHA PRETA C/10",
-     "marca": "VABENE",
-     "preco": 9.9,
-     "img": "produtos/7275.jpg"
     }
    ]
   },
@@ -23984,13 +24010,6 @@
      "marca": "TENDERLY",
      "preco": 12.9,
      "img": "produtos/13944.jpg"
-    },
-    {
-     "cod": 2109,
-     "nome": "PAPEL HIG.CAI CAI C/8.000-INTERFORTY",
-     "marca": "INTERFORTY",
-     "preco": 79.9,
-     "img": "produtos/2109.jpg"
     },
     {
      "cod": 12118,
