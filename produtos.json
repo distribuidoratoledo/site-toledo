@@ -7804,13 +7804,6 @@
      "img": "produtos/983.jpg"
     },
     {
-     "cod": 13145,
-     "nome": "CORRETIVO FITA 6M-TILIBRA (PURRFECT)",
-     "marca": "TILIBRA",
-     "preco": 12.9,
-     "img": "produtos/13145.jpg"
-    },
-    {
      "cod": 7549,
      "nome": "CORRETIVO PINCEL-JOCAR",
      "marca": "JOCAR",
@@ -17431,6 +17424,13 @@
      "img": "produtos/963.jpg"
     },
     {
+     "cod": 946,
+     "nome": "COPO LISO 300/330ML C/50-COPOZAN",
+     "marca": "COPOZAN",
+     "preco": 7.9,
+     "img": "produtos/946.jpg"
+    },
+    {
      "cod": 6922,
      "nome": "COPO LISO 300/330ML C/50-ULTRA",
      "marca": "ULTRA",
@@ -18137,18 +18137,18 @@
      "img": "produtos/4037.jpg"
     },
     {
-     "cod": 3947,
-     "nome": "HAMB H1 C/100",
-     "marca": "",
-     "preco": 18.9,
-     "img": "produtos/3947.jpg"
-    },
-    {
      "cod": 3924,
      "nome": "HAMBURGUEIRA CH101 C/100",
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg"
+    },
+    {
+     "cod": 3947,
+     "nome": "HAMBURGUEIRA H1 C/100",
+     "marca": "",
+     "preco": 18.9,
+     "img": "produtos/3947.jpg"
     },
     {
      "cod": 3731,
@@ -18544,7 +18544,7 @@
      "cod": 11827,
      "nome": "POTE (KIT) 250ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
-     "preco": 17.9,
+     "preco": 11.9,
      "img": "produtos/11827.jpg"
     },
     {
@@ -19030,6 +19030,13 @@
      "img": "produtos/1374.jpg"
     },
     {
+     "cod": 1375,
+     "nome": "FORMA S641/ECO641 C/300",
+     "marca": "",
+     "preco": 69.9,
+     "img": "produtos/1375.jpg"
+    },
+    {
      "cod": 9164,
      "nome": "FORMA S65 C/50",
      "marca": "SANPACK",
@@ -19139,6 +19146,13 @@
      "marca": "COPOPLAST",
      "preco": 4.9,
      "img": "produtos/11873.jpg"
+    },
+    {
+     "cod": 9246,
+     "nome": "PRATO P-23 ISOPOR C/25",
+     "marca": "",
+     "preco": 14.9,
+     "img": "produtos/9246.jpg"
     },
     {
      "cod": 2556,
@@ -19392,6 +19406,13 @@
      "img": "produtos/481.jpg"
     },
     {
+     "cod": 6987,
+     "nome": "CAIXA SALGADO 40CM C/25",
+     "marca": "ABN",
+     "preco": 87.9,
+     "img": "produtos/6987.jpg"
+    },
+    {
      "cod": 10001,
      "nome": "FORMA PIZZA PAPEL 25 C/25 (ACOPLADA)",
      "marca": "",
@@ -19628,6 +19649,13 @@
      "img": "produtos/1341.jpg"
     },
     {
+     "cod": 1345,
+     "nome": "FORMA ALUM D5 (170X224) 1.100ML C/100-BOREDA",
+     "marca": "BOREDA",
+     "preco": 137.9,
+     "img": "produtos/1345.jpg"
+    },
+    {
      "cod": 1347,
      "nome": "FORMA ALUM D6 (122X162) 500ML C/100-MARMITINHA",
      "marca": "MARMITINHA",
@@ -19675,6 +19703,13 @@
      "marca": "MELLO",
      "preco": 65.9,
      "img": "produtos/1855.jpg"
+    },
+    {
+     "cod": 14128,
+     "nome": "MARMITEX 8 MANUAL C/100-PRAVIAGEM",
+     "marca": "PRAVIAGEM",
+     "preco": 59.9,
+     "img": "produtos/14128.jpg"
     },
     {
      "cod": 2372,
@@ -19902,7 +19937,7 @@
      "cod": 2696,
      "nome": "SACHE AÇUCAR C/336X5GR",
      "marca": "GRILO",
-     "preco": 29.9,
+     "preco": 24.9,
      "img": "produtos/2696.jpg"
     },
     {
@@ -23589,13 +23624,6 @@
      "img": "produtos/9866.jpg"
     },
     {
-     "cod": 9883,
-     "nome": "CONTAINER 80L (63,10X44,10X41,46)",
-     "marca": "SANREMO",
-     "preco": 206.9,
-     "img": "produtos/9883.jpg"
-    },
-    {
      "cod": 6657,
      "nome": "CONTAINER 8L (167X218X330)",
      "marca": "",
@@ -23894,6 +23922,20 @@
      "img": "produtos/1801.jpg"
     },
     {
+     "cod": 12279,
+     "nome": "LUVA VINIL-G C/100 SEM PO",
+     "marca": "",
+     "preco": 18.9,
+     "img": "produtos/12279.jpg"
+    },
+    {
+     "cod": 10988,
+     "nome": "LUVA VINIL-GG C/100 SEM PO",
+     "marca": "",
+     "preco": 18.9,
+     "img": "produtos/10988.jpg"
+    },
+    {
      "cod": 9014,
      "nome": "LUVA VINIL-M C/100 COM PO",
      "marca": "",
@@ -24052,13 +24094,6 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg"
-    },
-    {
-     "cod": 6679,
-     "nome": "PAPEL TOALHA CREME C/800",
-     "marca": "",
-     "preco": 13.5,
-     "img": "produtos/6679.jpg"
     },
     {
      "cod": 2157,
@@ -25558,13 +25593,6 @@
      "marca": "CIS",
      "preco": 3.9,
      "img": "produtos/13803.jpg"
-    },
-    {
-     "cod": 1825,
-     "nome": "MARCA TEXTO CIS-AMARELO",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/1825.jpg"
     },
     {
      "cod": 13796,
