@@ -7392,6 +7392,13 @@
      "marca": "MAPED",
      "preco": 11.9,
      "img": "produtos/14244.jpg"
+    },
+    {
+     "cod": 1528,
+     "nome": "GRAMPEADOR PAREDE THOMPSON",
+     "marca": "THOMPSON",
+     "preco": 69.9,
+     "img": "produtos/1528.jpg"
     }
    ]
   },
@@ -12585,6 +12592,13 @@
      "img": "produtos/2277.jpg"
     },
     {
+     "cod": 2276,
+     "nome": "PASTA SUSPENSA C/10 S/PL KRAFT",
+     "marca": "TIMPEL",
+     "preco": 45.9,
+     "img": "produtos/2276.jpg"
+    },
+    {
      "cod": 2278,
      "nome": "PASTA SUSPENSA PP CRISTAL",
      "marca": "POLIBRAS",
@@ -17361,13 +17375,6 @@
      "img": "produtos/943.jpg"
     },
     {
-     "cod": 944,
-     "nome": "COPO 200ML PS C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 4.9,
-     "img": "produtos/944.jpg"
-    },
-    {
      "cod": 942,
      "nome": "COPO 200ML PS C/100-TOTAL",
      "marca": "TOTALPLAST",
@@ -17962,13 +17969,6 @@
      "img": "produtos/7725.jpg"
     },
     {
-     "cod": 466,
-     "nome": "CAIXA ISOPOR 170 LITROS",
-     "marca": "",
-     "preco": 246.9,
-     "img": "produtos/466.jpg"
-    },
-    {
      "cod": 6940,
      "nome": "CAIXA ISOPOR 21 LITROS",
      "marca": "",
@@ -18137,18 +18137,18 @@
      "img": "produtos/4037.jpg"
     },
     {
+     "cod": 3947,
+     "nome": "HAMB H1 C/100",
+     "marca": "",
+     "preco": 18.9,
+     "img": "produtos/3947.jpg"
+    },
+    {
      "cod": 3924,
      "nome": "HAMBURGUEIRA CH101 C/100",
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg"
-    },
-    {
-     "cod": 3947,
-     "nome": "HAMBURGUEIRA H1 C/100",
-     "marca": "",
-     "preco": 18.9,
-     "img": "produtos/3947.jpg"
     },
     {
      "cod": 3731,
@@ -18240,13 +18240,6 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg"
-    },
-    {
-     "cod": 6841,
-     "nome": "PT100 COPOPLAST C/100 (FUNDO)",
-     "marca": "COPOPLAST",
-     "preco": 20.9,
-     "img": "produtos/6841.jpg"
     },
     {
      "cod": 2937,
@@ -19427,13 +19420,6 @@
      "img": "produtos/4322.jpg"
     },
     {
-     "cod": 6100,
-     "nome": "FORMA PIZZA PAPEL 35 C/25 (ACOPLADA)",
-     "marca": "",
-     "preco": 28.9,
-     "img": "produtos/6100.jpg"
-    },
-    {
      "cod": 5063,
      "nome": "FORMA PIZZA PAPEL 35 C/25 (SEPARADA)",
      "marca": "",
@@ -20282,6 +20268,13 @@
      "img": "produtos/2724.jpg"
     },
     {
+     "cod": 2725,
+     "nome": "SACO 30X50 (0.15) TRANSPARENTE",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/2725.jpg"
+    },
+    {
      "cod": 2726,
      "nome": "SACO 30X50 (0.6) TRANSPARENTE",
      "marca": "MP",
@@ -20581,13 +20574,6 @@
      "marca": "ALIPROT",
      "preco": 122.9,
      "img": "produtos/5069.jpg"
-    },
-    {
-     "cod": 9183,
-     "nome": "SACO VACUO 30X40 C/500 (0.8)",
-     "marca": "PARMA",
-     "preco": 225.9,
-     "img": "produtos/9183.jpg"
     },
     {
      "cod": 7178,
@@ -23651,13 +23637,6 @@
      "img": "produtos/192.jpg"
     },
     {
-     "cod": 193,
-     "nome": "BARBANTE 4/6 C/250GR (200MT)",
-     "marca": "JAF TEXTIL",
-     "preco": 8.9,
-     "img": "produtos/193.jpg"
-    },
-    {
      "cod": 194,
      "nome": "BARBANTE 4/8 C/200GR (150MT)",
      "marca": "JAF TEXTIL",
@@ -23734,11 +23713,25 @@
    "nome": "Gominha, Rolha e Embrulho",
    "itens": [
     {
+     "cod": 1493,
+     "nome": "GOMINHA MAMUTH C/1000GR (1200UN)",
+     "marca": "MAMUTH",
+     "preco": 35.9,
+     "img": "produtos/1493.jpg"
+    },
+    {
      "cod": 1494,
      "nome": "GOMINHA MAMUTH C/100GR (120 UN)",
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg"
+    },
+    {
+     "cod": 1495,
+     "nome": "GOMINHA MAMUTH C/500GR (600 UN)",
+     "marca": "MAMUTH",
+     "preco": 18.9,
+     "img": "produtos/1495.jpg"
     },
     {
      "cod": 1498,
@@ -24075,13 +24068,6 @@
      "img": "produtos/2157.jpg"
     },
     {
-     "cod": 2156,
-     "nome": "TOALHA ROLO 6X200M BRC-INTERFORTY",
-     "marca": "INTERFORTY",
-     "preco": 106.9,
-     "img": "produtos/2156.jpg"
-    },
-    {
      "cod": 7484,
      "nome": "TOALHA ROLO 6X200M BRC-SLIM PAPER/NOAH",
      "marca": "SLIM/NOAH",
@@ -24276,6 +24262,13 @@
      "img": "produtos/2651.jpg"
     },
     {
+     "cod": 9805,
+     "nome": "SABON. PREMISSE INVOQ-PRETA (C/RES)",
+     "marca": "PREMISSE",
+     "preco": 52.9,
+     "img": "produtos/9805.jpg"
+    },
+    {
      "cod": 11899,
      "nome": "SABONETEIRA BELL PLUS (C/ESPUMA)",
      "marca": "BELL PLUS",
@@ -24366,24 +24359,10 @@
     },
     {
      "cod": 9806,
-     "nome": "SABONETEIRA PREMISSE INVOQ (C/RES)",
+     "nome": "SABONETEIRA PREMISSE INVOQ-BRANCA (C/RES)",
      "marca": "PREMISSE",
      "preco": 52.9,
-     "img": "produtos/9806.jpg",
-     "cores": [
-      {
-       "cod": 9806,
-       "cor": "Branca",
-       "nome": "SABONETEIRA PREMISSE INVOQ-BRANCA (C/RES)",
-       "img": "produtos/9806.jpg"
-      },
-      {
-       "cod": 9805,
-       "cor": "Preta",
-       "nome": "SABONETEIRA PREMISSE INVOQ-PRETA (C/RES)",
-       "img": "produtos/9805.jpg"
-      }
-     ]
+     "img": "produtos/9806.jpg"
     },
     {
      "cod": 9811,
@@ -24391,6 +24370,13 @@
      "marca": "PREMISSE",
      "preco": 45.9,
      "img": "produtos/9811.jpg"
+    },
+    {
+     "cod": 2692,
+     "nome": "SABONETEIRA PREMISSE-PRETA DARK",
+     "marca": "PREMISSE",
+     "preco": 19.9,
+     "img": "produtos/2692.jpg"
     },
     {
      "cod": 7651,
@@ -25133,13 +25119,6 @@
      "marca": "MAPED",
      "preco": 8.9,
      "img": "produtos/11538.jpg"
-    },
-    {
-     "cod": 11553,
-     "nome": "APONTADOR MAPED C/D CROC (JOANINHA/BALEIA)",
-     "marca": "MAPED",
-     "preco": 8.9,
-     "img": "produtos/11553.jpg"
     },
     {
      "cod": 11550,
