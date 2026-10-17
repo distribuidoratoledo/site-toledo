@@ -13733,13 +13733,6 @@
      "img": "produtos/12260.jpg"
     },
     {
-     "cod": 13356,
-     "nome": "MOCHILA MALA LUXCEL-STITCH AZUL (MF10533SC-AZ)",
-     "marca": "LUXCEL",
-     "preco": 652.9,
-     "img": "produtos/13356.jpg"
-    },
-    {
      "cod": 13358,
      "nome": "MOCHILA MALA LUXCEL-STITCH ROSA (MF10534SC-RA)",
      "marca": "LUXCEL",
@@ -17347,6 +17340,13 @@
    "nome": "Copos e Tampas",
    "itens": [
     {
+     "cod": 14404,
+     "nome": "COPO 100ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 4.9,
+     "img": "produtos/14404.jpg"
+    },
+    {
      "cod": 938,
      "nome": "COPO 100ML PS C/100-COPOPLAST",
      "marca": "COPOPLAST",
@@ -17361,11 +17361,11 @@
      "img": "produtos/943.jpg"
     },
     {
-     "cod": 12141,
-     "nome": "COPO 200ML PS C/100-TEU COPO",
-     "marca": "TEU COPO",
+     "cod": 14406,
+     "nome": "COPO 200ML PS C/100-COPOJU",
+     "marca": "COPOJU",
      "preco": 4.9,
-     "img": "produtos/12141.jpg"
+     "img": "produtos/14406.jpg"
     },
     {
      "cod": 942,
@@ -17375,11 +17375,32 @@
      "img": "produtos/942.jpg"
     },
     {
+     "cod": 14414,
+     "nome": "COPO 250ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 6.9,
+     "img": "produtos/14414.jpg"
+    },
+    {
      "cod": 947,
      "nome": "COPO 300ML PP C/100-COPOBRAS",
      "marca": "COPOBRAS",
      "preco": 11.9,
      "img": "produtos/947.jpg"
+    },
+    {
+     "cod": 14413,
+     "nome": "COPO 300ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 7.9,
+     "img": "produtos/14413.jpg"
+    },
+    {
+     "cod": 14407,
+     "nome": "COPO 400ML PS C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 8.9,
+     "img": "produtos/14407.jpg"
     },
     {
      "cod": 8806,
@@ -17389,11 +17410,32 @@
      "img": "produtos/8806.jpg"
     },
     {
+     "cod": 14408,
+     "nome": "COPO 500ML PS C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 10.9,
+     "img": "produtos/14408.jpg"
+    },
+    {
+     "cod": 14403,
+     "nome": "COPO 50ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 2.9,
+     "img": "produtos/14403.jpg"
+    },
+    {
      "cod": 3342,
      "nome": "COPO 50ML PS C/100-COPOPLAST",
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg"
+    },
+    {
+     "cod": 14405,
+     "nome": "COPO 80ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 5.9,
+     "img": "produtos/14405.jpg"
     },
     {
      "cod": 960,
@@ -17550,6 +17592,13 @@
      "img": "produtos/3690.jpg"
     },
     {
+     "cod": 14409,
+     "nome": "TAMPA 100ML (S/F) C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 6.9,
+     "img": "produtos/14409.jpg"
+    },
+    {
      "cod": 7278,
      "nome": "TAMPA 100ML (S/F) C/100-COPOPLAST",
      "marca": "COPOPLAST",
@@ -17562,6 +17611,13 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg"
+    },
+    {
+     "cod": 14412,
+     "nome": "TAMPA 200/250ML (S/F) C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 6.9,
+     "img": "produtos/14412.jpg"
     },
     {
      "cod": 7351,
@@ -18583,11 +18639,25 @@
      "img": "produtos/12131.jpg"
     },
     {
+     "cod": 14410,
+     "nome": "POTE 200ML C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 5.9,
+     "img": "produtos/14410.jpg"
+    },
+    {
      "cod": 7343,
      "nome": "POTE 200ML C/50-COPOPLAST",
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/7343.jpg"
+    },
+    {
+     "cod": 14411,
+     "nome": "POTE 250ML C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 6.9,
+     "img": "produtos/14411.jpg"
     },
     {
      "cod": 13873,
@@ -26322,13 +26392,6 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg"
-    },
-    {
-     "cod": 14382,
-     "nome": "CONTACT TRANSPARENTE CON-TACT",
-     "marca": "CON-TACT",
-     "preco": 6.9,
-     "img": "produtos/14382.jpg"
     },
     {
      "cod": 13554,
