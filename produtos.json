@@ -17613,18 +17613,18 @@
      "img": "produtos/2923.jpg"
     },
     {
-     "cod": 14412,
-     "nome": "TAMPA 200/250ML (S/F) C/50-COPOMAIS",
-     "marca": "COPOMAIS",
-     "preco": 6.9,
-     "img": "produtos/14412.jpg"
-    },
-    {
      "cod": 7351,
      "nome": "TAMPA 200/250ML (S/F) C/50-COPOPLAST",
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/7351.jpg"
+    },
+    {
+     "cod": 14412,
+     "nome": "TAMPA 400/500ML (S/F) C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 6.9,
+     "img": "produtos/14412.jpg"
     },
     {
      "cod": 2934,
@@ -21963,13 +21963,6 @@
      "marca": "",
      "preco": 46.9,
      "img": "produtos/2802.jpg"
-    },
-    {
-     "cod": 7010,
-     "nome": "SACO SOS LISO 10KG (32X22X12) C/50",
-     "marca": "VINCO",
-     "preco": 26.9,
-     "img": "produtos/7010.jpg"
     },
     {
      "cod": 3676,
