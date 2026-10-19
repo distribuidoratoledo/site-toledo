@@ -16459,13 +16459,6 @@
      "img": "produtos/986.jpg"
     },
     {
-     "cod": 8902,
-     "nome": "CRACHA HORIZONTAL+PRESILHA",
-     "marca": "DAC",
-     "preco": 2.0,
-     "img": "produtos/8902.jpg"
-    },
-    {
      "cod": 6796,
      "nome": "CRACHA VERTICAL + PRESILHA (10X7CM)",
      "marca": "DAC",
@@ -21923,8 +21916,15 @@
      "img": "produtos/3675.jpg"
     },
     {
+     "cod": 14321,
+     "nome": "SACO SOS DEC. 7,5KG (38X18X10) C/50",
+     "marca": "",
+     "preco": 25.9,
+     "img": "produtos/14321.jpg"
+    },
+    {
      "cod": 2802,
-     "nome": "SACO SOS DEC. 7KG (60X46X9,5) C/100",
+     "nome": "SACO SOS DEC. 7,5KG (60X46X9,5) C/100",
      "marca": "",
      "preco": 46.9,
      "img": "produtos/2802.jpg"
