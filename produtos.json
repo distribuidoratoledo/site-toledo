@@ -15047,13 +15047,6 @@
      "img": "produtos/1130.jpg"
     },
     {
-     "cod": 1131,
-     "nome": "ESPIRAL 09MM P/50F C/100",
-     "marca": "",
-     "preco": 47.9,
-     "img": "produtos/1131.jpg"
-    },
-    {
      "cod": 1119,
      "nome": "ESPIRAL 12MM P/70F C/100",
      "marca": "",
@@ -16120,13 +16113,6 @@
      "marca": "GGB PLAST",
      "preco": 31.9,
      "img": "produtos/13499.jpg"
-    },
-    {
-     "cod": 11366,
-     "nome": "BRINQUEDO PEDAG.BRINCANDO C/NUMEROS C/25PÇ",
-     "marca": "PICAPAU",
-     "preco": 11.9,
-     "img": "produtos/11366.jpg"
     },
     {
      "cod": 8074,
@@ -18067,6 +18053,13 @@
      "img": "produtos/769.jpg"
     },
     {
+     "cod": 770,
+     "nome": "CHAPA ISOPOR 20MM (PCT C/12)",
+     "marca": "ISOMAX",
+     "preco": 6.9,
+     "img": "produtos/770.jpg"
+    },
+    {
      "cod": 772,
      "nome": "CHAPA ISOPOR 30MM (PCT C/8)",
      "marca": "ISOMAX",
@@ -18679,13 +18672,6 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11683.jpg"
-    },
-    {
-     "cod": 11682,
-     "nome": "POTE RETANG. 250ML C/24-TOTALPLAST",
-     "marca": "TOTALPLAST",
-     "preco": 16.9,
-     "img": "produtos/11682.jpg"
     },
     {
      "cod": 11691,
@@ -21185,13 +21171,6 @@
      "img": "produtos/13854.jpg"
     },
     {
-     "cod": 14294,
-     "nome": "BOBINA PICOT. 20X30 C/500-EBAO",
-     "marca": "EBAO",
-     "preco": 15.9,
-     "img": "produtos/14294.jpg"
-    },
-    {
      "cod": 251,
      "nome": "BOBINA PICOT. 20X35 C/700-ROLLBAG (PESO 1,5KG)",
      "marca": "ROLL BAG",
@@ -22359,12 +22338,6 @@
        "cor": "Azul Royal",
        "nome": "FITA CETIM N1 7MMX10MT-AZUL ROYAL",
        "img": "produtos/9062.jpg"
-      },
-      {
-       "cod": 6000,
-       "cor": "Preto",
-       "nome": "FITA CETIM N1 7MMX10MT-PRETO",
-       "img": "produtos/6000.jpg"
       }
      ]
     },
