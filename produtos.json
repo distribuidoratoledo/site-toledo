@@ -10524,13 +10524,6 @@
      "img": "produtos/11958.jpg"
     },
     {
-     "cod": 7404,
-     "nome": "ETIQUETA DELIVERY-C/150 (NÃO VIOLE) PRETA",
-     "marca": "GRESPAN",
-     "preco": 16.9,
-     "img": "produtos/7404.jpg"
-    },
-    {
      "cod": 11959,
      "nome": "ETIQUETA DELIVERY-SEGURANÇA C/1000 (NÃO VIOLE) VERMELHA",
      "marca": "GRESPAN",
@@ -17515,13 +17508,6 @@
      "img": "produtos/3348.jpg"
     },
     {
-     "cod": 9744,
-     "nome": "COPO TERMICO 300ML C/25-VABENE (PAPEL)",
-     "marca": "VABENE",
-     "preco": 19.9,
-     "img": "produtos/9744.jpg"
-    },
-    {
      "cod": 7011,
      "nome": "COPO TERMICO 70ML C/20-TOTAL (ISOPOR)",
      "marca": "TOTALPLAST",
@@ -18435,6 +18421,20 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg"
+    },
+    {
+     "cod": 14417,
+     "nome": "COLHER SOBREMESA C/50 (CRISTAL)",
+     "marca": "STRAWPLAST",
+     "preco": 3.9,
+     "img": "produtos/14417.jpg"
+    },
+    {
+     "cod": 11601,
+     "nome": "FACA FORTE C/50",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/11601.jpg"
     },
     {
      "cod": 3466,
@@ -20009,6 +20009,13 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg"
+    },
+    {
+     "cod": 14415,
+     "nome": "SACHE CATCHUP C/150X5GR-LANCHERO",
+     "marca": "LANCHERO",
+     "preco": 10.9,
+     "img": "produtos/14415.jpg"
     },
     {
      "cod": 2699,
@@ -24011,6 +24018,13 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg"
+    },
+    {
+     "cod": 14416,
+     "nome": "TOUCA DESCARTAVEL C/100 PRETA",
+     "marca": "",
+     "preco": 12.9,
+     "img": "produtos/14416.jpg"
     }
    ]
   },
