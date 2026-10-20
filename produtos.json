@@ -14894,6 +14894,13 @@
      "img": "produtos/1082.jpg"
     },
     {
+     "cod": 1065,
+     "nome": "ENVELOPE CARTA S/CEP 114X162 (COF 010)",
+     "marca": "SCRITY",
+     "preco": 0.1,
+     "img": "produtos/1065.jpg"
+    },
+    {
      "cod": 1070,
      "nome": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
      "marca": "SCRITY",
@@ -15320,6 +15327,13 @@
        "img": "produtos/5171.jpg"
       }
      ]
+    },
+    {
+     "cod": 9226,
+     "nome": "ARQUIVO MORTO OFICIO-PAPEL",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/9226.jpg"
     }
    ]
   },
@@ -19336,6 +19350,13 @@
      "img": "produtos/7019.jpg"
     },
     {
+     "cod": 7020,
+     "nome": "CAIXA BOLO 30CM C/5 (SEPARADA)",
+     "marca": "ABN",
+     "preco": 28.9,
+     "img": "produtos/7020.jpg"
+    },
+    {
      "cod": 7021,
      "nome": "CAIXA BOLO 35CM C/5 (SEPARADA)",
      "marca": "ABN",
@@ -20497,6 +20518,13 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg"
+    },
+    {
+     "cod": 14426,
+     "nome": "SACO 75X95 (0.6) TRANSPARENTE",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/14426.jpg"
     },
     {
      "cod": 2738,
@@ -23308,7 +23336,7 @@
      "cod": 1198,
      "nome": "ETIQUETA ETIQUETAD.OPEN P6 C/10 PRIMUS",
      "marca": "PRIMUS",
-     "preco": 19.9,
+     "preco": 24.9,
      "img": "produtos/1198.jpg"
     },
     {
@@ -23317,6 +23345,13 @@
      "marca": "PRIMUS",
      "preco": 38.9,
      "img": "produtos/1167.jpg"
+    },
+    {
+     "cod": 1166,
+     "nome": "ETIQUETA GONDOLA 105X30X45M-S/COLA",
+     "marca": "PRIMUS",
+     "preco": 31.9,
+     "img": "produtos/1166.jpg"
     },
     {
      "cod": 11419,
