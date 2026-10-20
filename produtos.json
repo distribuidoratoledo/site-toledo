@@ -3049,24 +3049,10 @@
     },
     {
      "cod": 12663,
-     "nome": "BORRACHA TRIS C/CP",
+     "nome": "BORRACHA TRIS C/CP AMARELO",
      "marca": "TRIS",
      "preco": 2.9,
-     "img": "produtos/12663.jpg",
-     "cores": [
-      {
-       "cod": 12663,
-       "cor": "Amarelo",
-       "nome": "BORRACHA TRIS C/CP AMARELO",
-       "img": "produtos/12663.jpg"
-      },
-      {
-       "cod": 12664,
-       "cor": "Azul",
-       "nome": "BORRACHA TRIS C/CP AZUL",
-       "img": "produtos/12664.jpg"
-      }
-     ]
+     "img": "produtos/12663.jpg"
     },
     {
      "cod": 12697,
@@ -15737,6 +15723,13 @@
      "img": "produtos/6045.jpg"
     },
     {
+     "cod": 13546,
+     "nome": "GIBI DISNEY DIVERSOS",
+     "marca": "CULTURAMA",
+     "preco": 6.9,
+     "img": "produtos/13546.jpg"
+    },
+    {
      "cod": 8061,
      "nome": "GIBI JOAO E MARIA",
      "marca": "BICHO ESPE",
@@ -19640,6 +19633,13 @@
      "marca": "PITPRATOS",
      "preco": 1.2,
      "img": "produtos/185.jpg"
+    },
+    {
+     "cod": 186,
+     "nome": "BANDEJA LAMINADA N4 (27X33)",
+     "marca": "PITPRATOS",
+     "preco": 2.5,
+     "img": "produtos/186.jpg"
     },
     {
      "cod": 187,
@@ -23680,6 +23680,13 @@
      "img": "produtos/192.jpg"
     },
     {
+     "cod": 193,
+     "nome": "BARBANTE 4/6 C/250GR (200MT)",
+     "marca": "JAF TEXTIL",
+     "preco": 8.9,
+     "img": "produtos/193.jpg"
+    },
+    {
      "cod": 194,
      "nome": "BARBANTE 4/8 C/200GR (150MT)",
      "marca": "JAF TEXTIL",
@@ -23826,11 +23833,25 @@
      "img": "produtos/2669.jpg"
     },
     {
-     "cod": 2670,
-     "nome": "ROLHA PLASTICA C/50 BRANCA",
+     "cod": 4325,
+     "nome": "ROLHA PLASTICA C/50",
      "marca": "-",
-     "preco": 6.9,
-     "img": "produtos/2670.jpg"
+     "preco": 7.9,
+     "img": "produtos/4325.jpg",
+     "cores": [
+      {
+       "cod": 4325,
+       "cor": "Amarela",
+       "nome": "ROLHA PLASTICA C/50 AMARELA",
+       "img": "produtos/4325.jpg"
+      },
+      {
+       "cod": 2670,
+       "cor": "Branca",
+       "nome": "ROLHA PLASTICA C/50 BRANCA",
+       "img": "produtos/2670.jpg"
+      }
+     ]
     }
    ]
   },
@@ -26264,7 +26285,7 @@
     {
      "cod": 918,
      "nome": "CONTACT LISO-BRANCO BRILHO",
-     "marca": "LEOTACK",
+     "marca": "DAC",
      "preco": 5.9,
      "img": "produtos/918.jpg"
     },
