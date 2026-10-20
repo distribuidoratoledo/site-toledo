@@ -18848,13 +18848,6 @@
      "img": "produtos/1404.jpg"
     },
     {
-     "cod": 1407,
-     "nome": "FORMA G633 C/10 (SALADEIRA)",
-     "marca": "GALVANOTEK",
-     "preco": 33.0,
-     "img": "produtos/1407.jpg"
-    },
-    {
      "cod": 1408,
      "nome": "FORMA G635 C/400",
      "marca": "GALVANOTEK",
@@ -19717,13 +19710,6 @@
      "marca": "PITPRATOS",
      "preco": 1.5,
      "img": "produtos/190.jpg"
-    },
-    {
-     "cod": 1341,
-     "nome": "FORMA ALUM B95/90 (98X127) 220ML C/100-MARMITINHA",
-     "marca": "MARMITINHA",
-     "preco": 49.9,
-     "img": "produtos/1341.jpg"
     },
     {
      "cod": 1345,
@@ -24079,14 +24065,14 @@
      "cod": 2102,
      "nome": "PAPEL HIG.(ROLAO) 8X240M-LUXO INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 69.9,
+     "preco": 79.9,
      "img": "produtos/2102.jpg"
     },
     {
      "cod": 2103,
      "nome": "PAPEL HIG.(ROLAO) 8X300MT-100% INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 79.9,
+     "preco": 89.9,
      "img": "produtos/2103.jpg"
     },
     {
@@ -24135,7 +24121,7 @@
      "cod": 2109,
      "nome": "PAPEL HIG.CAI CAI C/8.000-INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 79.9,
+     "preco": 89.9,
      "img": "produtos/2109.jpg"
     },
     {
@@ -24170,14 +24156,14 @@
      "cod": 2153,
      "nome": "PAPEL TOALHA BRC C/1000 LUXO-INTERFORTY(VERMELHO)",
      "marca": "INTERFORTY",
-     "preco": 21.9,
+     "preco": 24.9,
      "img": "produtos/2153.jpg"
     },
     {
      "cod": 2151,
      "nome": "PAPEL TOALHA BRC C/1000-COMUM INTERFORTY(AZUL)",
      "marca": "INTERFORTY",
-     "preco": 16.9,
+     "preco": 19.9,
      "img": "produtos/2151.jpg"
     },
     {
@@ -24191,21 +24177,21 @@
      "cod": 2155,
      "nome": "TOALHA ROLO 6X200M BRC 100%-INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 137.9,
+     "preco": 139.9,
      "img": "produtos/2155.jpg"
     },
     {
      "cod": 2157,
      "nome": "TOALHA ROLO 6X200M BRC LUXO-INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 119.9,
+     "preco": 129.9,
      "img": "produtos/2157.jpg"
     },
     {
      "cod": 2156,
      "nome": "TOALHA ROLO 6X200M BRC-INTERFORTY",
      "marca": "INTERFORTY",
-     "preco": 106.9,
+     "preco": 119.9,
      "img": "produtos/2156.jpg"
     },
     {
