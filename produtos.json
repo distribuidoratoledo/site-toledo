@@ -7830,6 +7830,13 @@
      "img": "produtos/14292.jpg"
     },
     {
+     "cod": 8039,
+     "nome": "COLCHETE 9 C/72",
+     "marca": "CHAPARRAU",
+     "preco": 15.9,
+     "img": "produtos/8039.jpg"
+    },
+    {
      "cod": 4050,
      "nome": "GRAMPO 106/6 C/3500-THOMPSON",
      "marca": "THOMPSON",
@@ -8184,6 +8191,13 @@
      "marca": "GRIFFE",
      "preco": 2.5,
      "img": "produtos/3096.jpg"
+    },
+    {
+     "cod": 3097,
+     "nome": "BLOCO VALE C/C 50F-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 2.3,
+     "img": "produtos/3097.jpg"
     },
     {
      "cod": 3099,
@@ -9007,6 +9021,13 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg"
+    },
+    {
+     "cod": 2113,
+     "nome": "PAPEL KRAFT 80GR 66X96 (FOLHA)",
+     "marca": "SCRITY",
+     "preco": 1.5,
+     "img": "produtos/2113.jpg"
     },
     {
      "cod": 14085,
@@ -10957,6 +10978,13 @@
      "img": "produtos/1013.jpg"
     },
     {
+     "cod": 9251,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-20X30 (CINZA)",
+     "marca": "MAXCRIL",
+     "preco": 0.6,
+     "img": "produtos/9251.jpg"
+    },
+    {
      "cod": 9252,
      "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
      "marca": "MAXCRIL",
@@ -12626,6 +12654,13 @@
      "img": "produtos/2412.jpg"
     },
     {
+     "cod": 4432,
+     "nome": "SACO ADESIVADO 10X14 C/100",
+     "marca": "GALA",
+     "preco": 18.9,
+     "img": "produtos/4432.jpg"
+    },
+    {
      "cod": 13540,
      "nome": "SACO ADESIVADO 10X25 C/50",
      "marca": "",
@@ -12673,6 +12708,20 @@
      "marca": "CROMUS",
      "preco": 10.5,
      "img": "produtos/2745.jpg"
+    },
+    {
+     "cod": 4872,
+     "nome": "SACO ADESIVADO 6X7 C/100",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/4872.jpg"
+    },
+    {
+     "cod": 2746,
+     "nome": "SACO ADESIVADO 8X8 C/100",
+     "marca": "",
+     "preco": 11.9,
+     "img": "produtos/2746.jpg"
     },
     {
      "cod": 3656,
@@ -22963,13 +23012,6 @@
      "img": "produtos/11992.jpg"
     },
     {
-     "cod": 11988,
-     "nome": "CAIXA PRES. (M) FESTA (26X19X7,5)",
-     "marca": "CRISTINA",
-     "preco": 9.9,
-     "img": "produtos/11988.jpg"
-    },
-    {
      "cod": 3261,
      "nome": "CAIXA PRES. (M) KRAFT C/VISOR (26X19X7,5)",
      "marca": "CROMUS",
@@ -24090,6 +24132,13 @@
      "img": "produtos/13944.jpg"
     },
     {
+     "cod": 2109,
+     "nome": "PAPEL HIG.CAI CAI C/8.000-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 79.9,
+     "img": "produtos/2109.jpg"
+    },
+    {
      "cod": 12118,
      "nome": "PAPEL HIG.CAI CAI C/8.000-NOAH PAPER",
      "marca": "NOAH PAPER",
@@ -24139,11 +24188,25 @@
      "img": "produtos/6529.jpg"
     },
     {
+     "cod": 2155,
+     "nome": "TOALHA ROLO 6X200M BRC 100%-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 137.9,
+     "img": "produtos/2155.jpg"
+    },
+    {
      "cod": 2157,
      "nome": "TOALHA ROLO 6X200M BRC LUXO-INTERFORTY",
      "marca": "INTERFORTY",
      "preco": 119.9,
      "img": "produtos/2157.jpg"
+    },
+    {
+     "cod": 2156,
+     "nome": "TOALHA ROLO 6X200M BRC-INTERFORTY",
+     "marca": "INTERFORTY",
+     "preco": 106.9,
+     "img": "produtos/2156.jpg"
     },
     {
      "cod": 7484,
@@ -25636,6 +25699,13 @@
      "marca": "CIS",
      "preco": 3.9,
      "img": "produtos/13803.jpg"
+    },
+    {
+     "cod": 1825,
+     "nome": "MARCA TEXTO CIS-AMARELO",
+     "marca": "CIS",
+     "preco": 3.9,
+     "img": "produtos/1825.jpg"
     },
     {
      "cod": 13796,
