@@ -20709,6 +20709,13 @@
      "img": "produtos/5069.jpg"
     },
     {
+     "cod": 4203,
+     "nome": "SACO VACUO 25X35 C/500 (0.8)",
+     "marca": "ALIPROT",
+     "preco": 219.9,
+     "img": "produtos/4203.jpg"
+    },
+    {
      "cod": 7178,
      "nome": "SACO ZIPLOCK (01) 4X4 C/10",
      "marca": "",
@@ -24033,13 +24040,6 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/10988.jpg"
-    },
-    {
-     "cod": 9014,
-     "nome": "LUVA VINIL-M C/100 COM PO",
-     "marca": "",
-     "preco": 18.9,
-     "img": "produtos/9014.jpg"
     },
     {
      "cod": 8296,
