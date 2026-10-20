@@ -8927,13 +8927,6 @@
      "img": "produtos/2015.jpg"
     },
     {
-     "cod": 2016,
-     "nome": "PAPEL A4 C/500 CHAMEX (90GR)",
-     "marca": "CHAMEX",
-     "preco": 49.9,
-     "img": "produtos/2016.jpg"
-    },
-    {
      "cod": 2014,
      "nome": "PAPEL A4 C/500 PAPEX",
      "marca": "PAPEX",
@@ -17347,6 +17340,13 @@
      "img": "produtos/14413.jpg"
     },
     {
+     "cod": 948,
+     "nome": "COPO 300ML PS C/100-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 9.9,
+     "img": "produtos/948.jpg"
+    },
+    {
      "cod": 14407,
      "nome": "COPO 400ML PS C/50-COPOMAIS",
      "marca": "COPOMAIS",
@@ -23289,13 +23289,6 @@
      "marca": "PRIMUS",
      "preco": 38.9,
      "img": "produtos/1167.jpg"
-    },
-    {
-     "cod": 1166,
-     "nome": "ETIQUETA GONDOLA 105X30X45M-S/COLA",
-     "marca": "PRIMUS",
-     "preco": 31.9,
-     "img": "produtos/1166.jpg"
     },
     {
      "cod": 11419,
