@@ -6531,13 +6531,6 @@
      "marca": "INK ROLLER",
      "preco": 20.9,
      "img": "produtos/2665.jpg"
-    },
-    {
-     "cod": 2667,
-     "nome": "ROLETE OPEN C8/P6 (OPEN) INK ROLLER",
-     "marca": "INK ROLLER",
-     "preco": 20.9,
-     "img": "produtos/2667.jpg"
     }
    ]
   },
@@ -7370,13 +7363,6 @@
      "marca": "MAKE +",
      "preco": 29.9,
      "img": "produtos/7003.jpg"
-    },
-    {
-     "cod": 7004,
-     "nome": "PERFURADOR EVA 38MM-CIRCULO",
-     "marca": "MAKE +",
-     "preco": 55.5,
-     "img": "produtos/7004.jpg"
     },
     {
      "cod": 2297,
@@ -17375,6 +17361,13 @@
      "img": "produtos/14406.jpg"
     },
     {
+     "cod": 944,
+     "nome": "COPO 200ML PS C/100-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 4.9,
+     "img": "produtos/944.jpg"
+    },
+    {
      "cod": 942,
      "nome": "COPO 200ML PS C/100-TOTAL",
      "marca": "TOTALPLAST",
@@ -18366,6 +18359,13 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3536.jpg"
+    },
+    {
+     "cod": 5821,
+     "nome": "PT300 ULTRA C/50 (TAMPA)",
+     "marca": "ULTRA",
+     "preco": 11.9,
+     "img": "produtos/5821.jpg"
     },
     {
      "cod": 3989,
@@ -19715,7 +19715,7 @@
      "cod": 4394,
      "nome": "BANDEJA LAMINADA N12 (46X62)",
      "marca": "PITPRATOS",
-     "preco": 7.9,
+     "preco": 13.9,
      "img": "produtos/4394.jpg"
     },
     {
@@ -19759,6 +19759,13 @@
      "marca": "PITPRATOS",
      "preco": 1.5,
      "img": "produtos/190.jpg"
+    },
+    {
+     "cod": 1341,
+     "nome": "FORMA ALUM B95/90 (98X127) 220ML C/100-MARMITINHA",
+     "marca": "MARMITINHA",
+     "preco": 49.9,
+     "img": "produtos/1341.jpg"
     },
     {
      "cod": 1345,
@@ -23811,6 +23818,13 @@
      "marca": "DOURADO",
      "preco": 4.9,
      "img": "produtos/1725.jpg"
+    },
+    {
+     "cod": 7056,
+     "nome": "MESINHA P/ PIZZA C/200-BRANCO",
+     "marca": "GOLDENPLAS",
+     "preco": 12.9,
+     "img": "produtos/7056.jpg"
     },
     {
      "cod": 5194,
