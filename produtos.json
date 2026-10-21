@@ -5633,13 +5633,6 @@
      "img": "produtos/12904.jpg"
     },
     {
-     "cod": 12865,
-     "nome": "CADERNO CRIATIVO 1X1 80F-COLEG. WOODLAND",
-     "marca": "CADERSIL",
-     "preco": 29.9,
-     "img": "produtos/12865.jpg"
-    },
-    {
      "cod": 437,
      "nome": "CADERNO DESENHO 96F-MAXIMA",
      "marca": "MAXIMA",
@@ -6531,13 +6524,6 @@
      "marca": "INK ROLLER",
      "preco": 20.9,
      "img": "produtos/2665.jpg"
-    },
-    {
-     "cod": 2667,
-     "nome": "ROLETE OPEN C8/P6 (OPEN) INK ROLLER",
-     "marca": "INK ROLLER",
-     "preco": 20.9,
-     "img": "produtos/2667.jpg"
     }
    ]
   },
@@ -7085,13 +7071,6 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/11652.jpg"
-    },
-    {
-     "cod": 1292,
-     "nome": "FITA CREPE 18X50MT-ADELBRAS",
-     "marca": "ADELBRAS",
-     "preco": 6.9,
-     "img": "produtos/1292.jpg"
     },
     {
      "cod": 1293,
@@ -18021,7 +18000,7 @@
      "cod": 6943,
      "nome": "CAIXA ISOPOR 100 LITROS",
      "marca": "",
-     "preco": 149.9,
+     "preco": 139.9,
      "img": "produtos/6943.jpg"
     },
     {
@@ -18098,14 +18077,14 @@
      "cod": 7361,
      "nome": "CAIXA ISOPOR 50 LITROS",
      "marca": "",
-     "preco": 99.9,
+     "preco": 89.9,
      "img": "produtos/7361.jpg"
     },
     {
      "cod": 6944,
      "nome": "CAIXA ISOPOR 60 LITROS",
      "marca": "",
-     "preco": 105.9,
+     "preco": 95.9,
      "img": "produtos/6944.jpg"
     },
     {
@@ -18540,6 +18519,13 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/11601.jpg"
+    },
+    {
+     "cod": 8466,
+     "nome": "FACA REFEIÇÃO C/50",
+     "marca": "",
+     "preco": 3.9,
+     "img": "produtos/8466.jpg"
     },
     {
      "cod": 3466,
@@ -20805,13 +20791,6 @@
      "marca": "ALIPROT",
      "preco": 122.9,
      "img": "produtos/5069.jpg"
-    },
-    {
-     "cod": 4203,
-     "nome": "SACO VACUO 25X35 C/500 (0.8)",
-     "marca": "ALIPROT",
-     "preco": 219.9,
-     "img": "produtos/4203.jpg"
     },
     {
      "cod": 7178,
