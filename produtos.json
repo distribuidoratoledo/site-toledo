@@ -7970,13 +7970,6 @@
      "img": "produtos/4155.jpg"
     },
     {
-     "cod": 1546,
-     "nome": "GRAMPO TRILHO PLAST ESTENDIDO C/50",
-     "marca": "DELLO",
-     "preco": 39.9,
-     "img": "produtos/1546.jpg"
-    },
-    {
      "cod": 1548,
      "nome": "GRAMPO TRILHO PLAST. DELLO C/50",
      "marca": "DELLO",
@@ -9391,6 +9384,13 @@
      "marca": "SOUZ/STALO",
      "preco": 89.9,
      "img": "produtos/4296.jpg"
+    },
+    {
+     "cod": 6701,
+     "nome": "QUADRO CORTIÇA 1,20X90-(AL)",
+     "marca": "SOUZA",
+     "preco": 189.9,
+     "img": "produtos/6701.jpg"
     },
     {
      "cod": 3769,
@@ -18576,6 +18576,13 @@
      "img": "produtos/2493.jpg"
     },
     {
+     "cod": 11829,
+     "nome": "POTE (KIT) 1000ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 36.9,
+     "img": "produtos/11829.jpg"
+    },
+    {
      "cod": 2495,
      "nome": "POTE (KIT) 140ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
@@ -18616,6 +18623,13 @@
      "marca": "RIOPLASTIC",
      "preco": 15.9,
      "img": "produtos/2499.jpg"
+    },
+    {
+     "cod": 11826,
+     "nome": "POTE (KIT) 200ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 11.9,
+     "img": "produtos/11826.jpg"
     },
     {
      "cod": 11827,
@@ -18721,6 +18735,13 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11683.jpg"
+    },
+    {
+     "cod": 11682,
+     "nome": "POTE RETANG. 250ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 16.9,
+     "img": "produtos/11682.jpg"
     },
     {
      "cod": 11691,
@@ -23444,13 +23465,6 @@
      "img": "produtos/7146.jpg"
     },
     {
-     "cod": 7147,
-     "nome": "LIXEIRA BASCUL 40L (COLET SELET) VIDRO VERDE",
-     "marca": "SANREMO",
-     "preco": 115.9,
-     "img": "produtos/7147.jpg"
-    },
-    {
      "cod": 9025,
      "nome": "LIXEIRA C/TAMPA 10L",
      "marca": "ARQPLAST",
@@ -24075,6 +24089,13 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/14416.jpg"
+    },
+    {
+     "cod": 7275,
+     "nome": "TOUCA REDINHA PRETA C/10",
+     "marca": "VABENE",
+     "preco": 9.9,
+     "img": "produtos/7275.jpg"
     }
    ]
   },
@@ -24184,7 +24205,7 @@
      "cod": 2152,
      "nome": "PAPEL TOALHA BRC C/1000 100%-INTERFORTY (ROSA)",
      "marca": "INTERFORTY",
-     "preco": 23.9,
+     "preco": 29.9,
      "img": "produtos/2152.jpg"
     },
     {
