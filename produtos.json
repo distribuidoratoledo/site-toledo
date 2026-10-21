@@ -6531,6 +6531,13 @@
      "marca": "INK ROLLER",
      "preco": 20.9,
      "img": "produtos/2665.jpg"
+    },
+    {
+     "cod": 2667,
+     "nome": "ROLETE OPEN C8/P6 (OPEN) INK ROLLER",
+     "marca": "INK ROLLER",
+     "preco": 20.9,
+     "img": "produtos/2667.jpg"
     }
    ]
   },
@@ -9994,14 +10001,14 @@
      "cod": 2954,
      "nome": "TELA PINTURA 20X30",
      "marca": "",
-     "preco": 14.9,
+     "preco": 12.9,
      "img": "produtos/2954.jpg"
     },
     {
      "cod": 2955,
      "nome": "TELA PINTURA 30X40",
      "marca": "",
-     "preco": 22.9,
+     "preco": 19.9,
      "img": "produtos/2955.jpg"
     },
     {
@@ -11400,6 +11407,20 @@
      "marca": "SOUZA",
      "preco": 8.9,
      "img": "produtos/7334.jpg"
+    },
+    {
+     "cod": 6179,
+     "nome": "PRANCHETA EUCATEX 1/2 OF. (PREND.METAL) STALO",
+     "marca": "STALO",
+     "preco": 6.9,
+     "img": "produtos/6179.jpg"
+    },
+    {
+     "cod": 4265,
+     "nome": "PRANCHETA EUCATEX OF. MARROM",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/4265.jpg"
     },
     {
      "cod": 7644,
@@ -17518,7 +17539,7 @@
      "cod": 958,
      "nome": "COPO LISO 700/770ML C/25-ULTRA",
      "marca": "ULTRA",
-     "preco": 9.9,
+     "preco": 10.9,
      "img": "produtos/958.jpg"
     },
     {
@@ -18025,6 +18046,13 @@
      "img": "produtos/7725.jpg"
     },
     {
+     "cod": 466,
+     "nome": "CAIXA ISOPOR 170 LITROS",
+     "marca": "",
+     "preco": 246.9,
+     "img": "produtos/466.jpg"
+    },
+    {
      "cod": 6940,
      "nome": "CAIXA ISOPOR 21 LITROS",
      "marca": "",
@@ -18037,6 +18065,13 @@
      "marca": "",
      "preco": 46.9,
      "img": "produtos/6942.jpg"
+    },
+    {
+     "cod": 452,
+     "nome": "CAIXA ISOPOR 3 LITROS",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/452.jpg"
     },
     {
      "cod": 7359,
@@ -18053,6 +18088,13 @@
      "img": "produtos/6946.jpg"
     },
     {
+     "cod": 8229,
+     "nome": "CAIXA ISOPOR 5 LITROS",
+     "marca": "ISOMAX",
+     "preco": 10.9,
+     "img": "produtos/8229.jpg"
+    },
+    {
      "cod": 7361,
      "nome": "CAIXA ISOPOR 50 LITROS",
      "marca": "",
@@ -18065,6 +18107,20 @@
      "marca": "",
      "preco": 105.9,
      "img": "produtos/6944.jpg"
+    },
+    {
+     "cod": 6939,
+     "nome": "CAIXA ISOPOR 8 LITROS",
+     "marca": "",
+     "preco": 16.9,
+     "img": "produtos/6939.jpg"
+    },
+    {
+     "cod": 7360,
+     "nome": "CAIXA ISOPOR 80 LITROS",
+     "marca": "",
+     "preco": 119.9,
+     "img": "produtos/7360.jpg"
     },
     {
      "cod": 7363,
@@ -18135,6 +18191,13 @@
      "marca": "ISOMAX",
      "preco": 16.9,
      "img": "produtos/775.jpg"
+    },
+    {
+     "cod": 776,
+     "nome": "CHAPA ISOPOR 50MM (PCT C/5)",
+     "marca": "ISOMAX",
+     "preco": 17.9,
+     "img": "produtos/776.jpg"
     },
     {
      "cod": 777,
