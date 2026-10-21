@@ -1511,27 +1511,6 @@
      "img": "produtos/1657.jpg"
     },
     {
-     "cod": 1660,
-     "nome": "LAPIS 36CORES-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 32.9,
-     "img": "produtos/1660.jpg"
-    },
-    {
-     "cod": 1661,
-     "nome": "LAPIS 36CORES-FABER",
-     "marca": "FABER",
-     "preco": 85.9,
-     "img": "produtos/1661.jpg"
-    },
-    {
-     "cod": 1662,
-     "nome": "LAPIS 36CORES-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 15.9,
-     "img": "produtos/1662.jpg"
-    },
-    {
      "cod": 1664,
      "nome": "LAPIS 48CORES-FABER",
      "marca": "FABER",
@@ -7844,6 +7823,13 @@
      "img": "produtos/4050.jpg"
     },
     {
+     "cod": 1530,
+     "nome": "GRAMPO 106/6 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 28.9,
+     "img": "produtos/1530.jpg"
+    },
+    {
      "cod": 14356,
      "nome": "GRAMPO 106/8 C/2500-THOMPSON",
      "marca": "THOMPSON",
@@ -8918,6 +8904,13 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg"
+    },
+    {
+     "cod": 2016,
+     "nome": "PAPEL A4 C/500 CHAMEX (90GR)",
+     "marca": "CHAMEX",
+     "preco": 49.9,
+     "img": "produtos/2016.jpg"
     },
     {
      "cod": 2014,
@@ -15911,11 +15904,25 @@
      "img": "produtos/13270.jpg"
     },
     {
-     "cod": 6465,
-     "nome": "GIZ DELTA C/64 COLORIDO",
+     "cod": 1465,
+     "nome": "GIZ DELTA C/64",
      "marca": "DELTA",
      "preco": 7.9,
-     "img": "produtos/6465.jpg"
+     "img": "produtos/1465.jpg",
+     "cores": [
+      {
+       "cod": 1465,
+       "cor": "Branco",
+       "nome": "GIZ DELTA C/64 BRANCO",
+       "img": "produtos/1465.jpg"
+      },
+      {
+       "cod": 6465,
+       "cor": "Colorido",
+       "nome": "GIZ DELTA C/64 COLORIDO",
+       "img": "produtos/6465.jpg"
+      }
+     ]
     },
     {
      "cod": 1469,
@@ -18361,13 +18368,6 @@
      "img": "produtos/3536.jpg"
     },
     {
-     "cod": 5821,
-     "nome": "PT300 ULTRA C/50 (TAMPA)",
-     "marca": "ULTRA",
-     "preco": 11.9,
-     "img": "produtos/5821.jpg"
-    },
-    {
      "cod": 3989,
      "nome": "PT500 COPOBRAS C/100 (FUNDO)",
      "marca": "COPOBRAS",
@@ -19098,6 +19098,13 @@
      "marca": "",
      "preco": 83.9,
      "img": "produtos/1368.jpg"
+    },
+    {
+     "cod": 14427,
+     "nome": "FORMA S50/SANPACK C/50-PRETA",
+     "marca": "",
+     "preco": 89.9,
+     "img": "produtos/14427.jpg"
     },
     {
      "cod": 1371,
