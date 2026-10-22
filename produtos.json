@@ -1511,13 +1511,6 @@
      "img": "produtos/1657.jpg"
     },
     {
-     "cod": 1664,
-     "nome": "LAPIS 48CORES-FABER",
-     "marca": "FABER",
-     "preco": 106.9,
-     "img": "produtos/1664.jpg"
-    },
-    {
      "cod": 4869,
      "nome": "LAPIS 6CORES NEON-MAPED",
      "marca": "MAPED",
@@ -2750,6 +2743,13 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4555.jpg"
+    },
+    {
+     "cod": 7034,
+     "nome": "LAPISEIRA 0.5-COMPACTOR ALUNO (GRADE)",
+     "marca": "COMPACTOR",
+     "preco": 10.9,
+     "img": "produtos/7034.jpg"
     },
     {
      "cod": 7037,
@@ -12833,15 +12833,8 @@
      ]
     },
     {
-     "cod": 12747,
-     "nome": "TESOURA S/P ACRILEX-CORES (BICOLOR)",
-     "marca": "ACRILEX",
-     "preco": 11.9,
-     "img": "produtos/12747.jpg"
-    },
-    {
      "cod": 12746,
-     "nome": "TESOURA S/P ACRILEX-PRETA (BICOLOR)",
+     "nome": "TESOURA S/P ACRILEX-PRETA",
      "marca": "ACRILEX",
      "preco": 11.9,
      "img": "produtos/12746.jpg"
@@ -12922,6 +12915,13 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/2964.jpg"
+    },
+    {
+     "cod": 12747,
+     "nome": "TESOURA S/P-ACRILEX BICOLOR (GRADE)",
+     "marca": "ACRILEX",
+     "preco": 11.9,
+     "img": "produtos/12747.jpg"
     }
    ]
   },
@@ -20770,13 +20770,6 @@
      "marca": "PARMA",
      "preco": 118.9,
      "img": "produtos/4204.jpg"
-    },
-    {
-     "cod": 4205,
-     "nome": "SACO VACUO 20X30 C/500 (0.8)",
-     "marca": "PARMA",
-     "preco": 119.9,
-     "img": "produtos/4205.jpg"
     },
     {
      "cod": 5069,
