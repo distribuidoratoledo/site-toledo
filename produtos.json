@@ -2418,10 +2418,24 @@
     },
     {
      "cod": 11855,
-     "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
+     "nome": "PINCEL Q.BRC RECAR. BRW",
      "marca": "BRW",
      "preco": 3.9,
-     "img": "produtos/11855.jpg"
+     "img": "produtos/11855.jpg",
+     "cores": [
+      {
+       "cod": 11855,
+       "cor": "Preto",
+       "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
+       "img": "produtos/11855.jpg"
+      },
+      {
+       "cod": 11856,
+       "cor": "Vermelho",
+       "nome": "PINCEL Q.BRC RECAR. BRW-VERMELHO",
+       "img": "produtos/11856.jpg"
+      }
+     ]
     },
     {
      "cod": 7731,
@@ -8951,13 +8965,6 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg"
-    },
-    {
-     "cod": 2096,
-     "nome": "PAPEL FOTO A4-(ADESIVO) 130GR C/50-MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 39.9,
-     "img": "produtos/2096.jpg"
     },
     {
      "cod": 11784,
@@ -18207,13 +18214,6 @@
      "img": "produtos/3991.jpg"
     },
     {
-     "cod": 1009,
-     "nome": "DISCO ISOPOR 25CM C/200",
-     "marca": "",
-     "preco": 89.9,
-     "img": "produtos/1009.jpg"
-    },
-    {
      "cod": 1010,
      "nome": "DISCO ISOPOR 30CM C/200",
      "marca": "",
@@ -21189,7 +21189,7 @@
      "cod": 3964,
      "nome": "SACOLA VOLTE S. 30X40 (1,450KG)",
      "marca": "",
-     "preco": 72.9,
+     "preco": 42.9,
      "img": "produtos/3964.jpg"
     },
     {
@@ -21621,7 +21621,7 @@
      "cod": 2898,
      "nome": "LIXO PRETO 200L C/10 (GR) GERAPLAST",
      "marca": "GERAPLAST",
-     "preco": 12.5,
+     "preco": 14.9,
      "img": "produtos/2898.jpg"
     },
     {
