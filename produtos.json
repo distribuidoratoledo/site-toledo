@@ -272,6 +272,13 @@
      "img": "produtos/10588.jpg"
     },
     {
+     "cod": 14436,
+     "nome": "CANETA CIS SPIRO GEL-ROSA",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/14436.jpg"
+    },
+    {
      "cod": 5300,
      "nome": "CANETA CIS SPIRO GEM-AZUL (CORPO DOURADO)",
      "marca": "CIS",
@@ -2745,6 +2752,20 @@
      "img": "produtos/4555.jpg"
     },
     {
+     "cod": 9001,
+     "nome": "LAPISEIRA 0.5-CIS TECNO PRETA",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/9001.jpg"
+    },
+    {
+     "cod": 7034,
+     "nome": "LAPISEIRA 0.5-COMPACTOR ALUNO CORES",
+     "marca": "COMPACTOR",
+     "preco": 10.9,
+     "img": "produtos/7034.jpg"
+    },
+    {
      "cod": 7037,
      "nome": "LAPISEIRA 0.5-JOCAR CORES",
      "marca": "JOCAR",
@@ -2778,6 +2799,20 @@
      "marca": "CIS",
      "preco": 18.9,
      "img": "produtos/14237.jpg"
+    },
+    {
+     "cod": 7038,
+     "nome": "LAPISEIRA 0.7-COMPACTOR ALUNO CORES",
+     "marca": "COMPACTOR",
+     "preco": 10.9,
+     "img": "produtos/7038.jpg"
+    },
+    {
+     "cod": 14437,
+     "nome": "LAPISEIRA 0.7-FABER POLY CORES",
+     "marca": "FABER",
+     "preco": 12.9,
+     "img": "produtos/14437.jpg"
     },
     {
      "cod": 9158,
@@ -6066,6 +6101,13 @@
      "img": "produtos/12446.jpg"
     },
     {
+     "cod": 439,
+     "nome": "CADERNO PEQ. CD ESPIRAL 96F-MAXIMA",
+     "marca": "MAXIMA",
+     "preco": 7.9,
+     "img": "produtos/439.jpg"
+    },
+    {
      "cod": 12381,
      "nome": "CADERNO PEQ. CD ESPIRAL 96F-UAU FEMININO",
      "marca": "PAUTA BRC",
@@ -7073,6 +7115,13 @@
      "img": "produtos/11652.jpg"
     },
     {
+     "cod": 1292,
+     "nome": "FITA CREPE 18X50MT-ADELBRAS",
+     "marca": "ADELBRAS",
+     "preco": 6.9,
+     "img": "produtos/1292.jpg"
+    },
+    {
      "cod": 1293,
      "nome": "FITA CREPE 24X50MT-ADELBRAS",
      "marca": "ADELBRAS",
@@ -7774,11 +7823,25 @@
    "nome": "Grampo",
    "itens": [
     {
+     "cod": 8041,
+     "nome": "COLCHETE 11 C/72",
+     "marca": "CHAPARRAU",
+     "preco": 17.9,
+     "img": "produtos/8041.jpg"
+    },
+    {
      "cod": 14292,
      "nome": "COLCHETE 12 C/72",
      "marca": "CHAPARRAU",
      "preco": 27.9,
      "img": "produtos/14292.jpg"
+    },
+    {
+     "cod": 8040,
+     "nome": "COLCHETE 13 C/72",
+     "marca": "",
+     "preco": 28.9,
+     "img": "produtos/8040.jpg"
     },
     {
      "cod": 8039,
@@ -9354,14 +9417,14 @@
      "cod": 3769,
      "nome": "QUADRO FELTRO 1,20X90",
      "marca": "SOUZA",
-     "preco": 221.9,
+     "preco": 132.9,
      "img": "produtos/3769.jpg"
     },
     {
      "cod": 3767,
      "nome": "QUADRO FELTRO 90X60",
      "marca": "SOUZA",
-     "preco": 105.9,
+     "preco": 79.9,
      "img": "produtos/3767.jpg"
     },
     {
@@ -10876,7 +10939,7 @@
      "cod": 544,
      "nome": "CAMPAINHA METAL BRW",
      "marca": "BRW",
-     "preco": 28.9,
+     "preco": 29.9,
      "img": "produtos/544.jpg"
     },
     {
@@ -26385,12 +26448,6 @@
        "img": "produtos/7636.jpg"
       },
       {
-       "cod": 920,
-       "cor": "Laranja",
-       "nome": "CONTACT LISO-LARANJA",
-       "img": "produtos/920.jpg"
-      },
-      {
        "cod": 10000,
        "cor": "Lilas",
        "nome": "CONTACT LISO-LILAS",
@@ -26435,6 +26492,13 @@
      "marca": "LEOTACK",
      "preco": 5.9,
      "img": "produtos/919.jpg"
+    },
+    {
+     "cod": 920,
+     "nome": "CONTACT LISO-LARANJA",
+     "marca": "CONTACT",
+     "preco": 10.9,
+     "img": "produtos/920.jpg"
     },
     {
      "cod": 922,
