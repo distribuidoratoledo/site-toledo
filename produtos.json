@@ -1887,13 +1887,6 @@
      "img": "produtos/10314.jpg"
     },
     {
-     "cod": 4122,
-     "nome": "LAPIS ESCREVER FABER REDONDO",
-     "marca": "FABER",
-     "preco": 1.5,
-     "img": "produtos/4122.jpg"
-    },
-    {
      "cod": 5836,
      "nome": "LAPIS ESCREVER FABER REGUA",
      "marca": "FABER",
@@ -23681,25 +23674,11 @@
    "nome": "Caixas Organizadoras",
    "itens": [
     {
-     "cod": 13914,
-     "nome": "CAIXA ORGANIZADORA 15L",
+     "cod": 14127,
+     "nome": "CAIXA ORGANIZADORA 15L-CINZA",
      "marca": "JAGUAR",
      "preco": 60.9,
-     "img": "produtos/13914.jpg",
-     "cores": [
-      {
-       "cod": 13914,
-       "cor": "Azul",
-       "nome": "CAIXA ORGANIZADORA 15L-AZUL",
-       "img": "produtos/13914.jpg"
-      },
-      {
-       "cod": 14127,
-       "cor": "Cinza",
-       "nome": "CAIXA ORGANIZADORA 15L-CINZA",
-       "img": "produtos/14127.jpg"
-      }
-     ]
+     "img": "produtos/14127.jpg"
     },
     {
      "cod": 11739,
