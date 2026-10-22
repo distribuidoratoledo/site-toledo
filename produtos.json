@@ -272,13 +272,6 @@
      "img": "produtos/10588.jpg"
     },
     {
-     "cod": 14436,
-     "nome": "CANETA CIS SPIRO GEL-ROSA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/14436.jpg"
-    },
-    {
      "cod": 5300,
      "nome": "CANETA CIS SPIRO GEM-AZUL (CORPO DOURADO)",
      "marca": "CIS",
@@ -2724,13 +2717,6 @@
      "img": "produtos/1507.jpg"
     },
     {
-     "cod": 13809,
-     "nome": "GRAFITE 0.7 PENTEL HB C/12",
-     "marca": "PENTEL",
-     "preco": 5.9,
-     "img": "produtos/13809.jpg"
-    },
-    {
      "cod": 1509,
      "nome": "GRAFITE 0.9 FABER B/2B C/24",
      "marca": "FABER",
@@ -2792,6 +2778,13 @@
      "marca": "CIS",
      "preco": 17.9,
      "img": "produtos/5048.jpg"
+    },
+    {
+     "cod": 14438,
+     "nome": "LAPISEIRA 0.7-CIS TECNO AZUL CLARO METAL.",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/14438.jpg"
     },
     {
      "cod": 14237,
@@ -7136,19 +7129,24 @@
      "img": "produtos/1294.jpg"
     },
     {
-     "cod": 11976,
-     "nome": "FITA DEMARCAÇAO 48X14M-AMARELA(KORETECH)",
-     "marca": "KORETECH",
-     "preco": 19.9,
-     "img": "produtos/11976.jpg"
-    },
-    {
-     "cod": 6763,
+     "cod": 6761,
      "nome": "FITA DEMARCACAO 48X14M (ADELBRAS)",
      "marca": "ADELBRAS",
      "preco": 20.9,
-     "img": "produtos/6763.jpg",
+     "img": "produtos/6761.jpg",
      "cores": [
+      {
+       "cod": 6761,
+       "cor": "Amarela",
+       "nome": "FITA DEMARCAÇAO 48X14M-AMARELA(ADELBRAS)",
+       "img": "produtos/6761.jpg"
+      },
+      {
+       "cod": 6762,
+       "cor": "Azul",
+       "nome": "FITA DEMARCAÇAO 48X14M-AZUL(ADELBRAS)",
+       "img": "produtos/6762.jpg"
+      },
       {
        "cod": 6763,
        "cor": "Verde",
@@ -7164,6 +7162,13 @@
      ]
     },
     {
+     "cod": 11976,
+     "nome": "FITA DEMARCAÇAO 48X14M-AMARELA(KORETECH)",
+     "marca": "KORETECH",
+     "preco": 19.9,
+     "img": "produtos/11976.jpg"
+    },
+    {
      "cod": 3434,
      "nome": "FITA DEMARCAÇAO 48X15M-AZUL (TEKBOND)",
      "marca": "TEKBOND",
@@ -7176,6 +7181,13 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg"
+    },
+    {
+     "cod": 1020,
+     "nome": "FITA DUPLA FACE 18X30MT",
+     "marca": "ADELBRAS",
+     "preco": 13.9,
+     "img": "produtos/1020.jpg"
     },
     {
      "cod": 6521,
@@ -9135,13 +9147,6 @@
      "img": "produtos/7098.jpg"
     },
     {
-     "cod": 2137,
-     "nome": "SEDA BRANCA",
-     "marca": "V.M.P",
-     "preco": 0.4,
-     "img": "produtos/2137.jpg"
-    },
-    {
      "cod": 2139,
      "nome": "SEDA LARANJA",
      "marca": "RIACHO",
@@ -11004,13 +11009,6 @@
      "marca": "MAXCRIL",
      "preco": 0.6,
      "img": "produtos/9251.jpg"
-    },
-    {
-     "cod": 9252,
-     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
-     "marca": "MAXCRIL",
-     "preco": 1.1,
-     "img": "produtos/9252.jpg"
     },
     {
      "cod": 9254,
@@ -13752,13 +13750,6 @@
      "marca": "XERYUS",
      "preco": 324.9,
      "img": "produtos/13228.jpg"
-    },
-    {
-     "cod": 12259,
-     "nome": "MOCHILA MALA LUXCEL-GASH PRETO (MF10518GA-PT)",
-     "marca": "LUXCEL",
-     "preco": 618.9,
-     "img": "produtos/12259.jpg"
     },
     {
      "cod": 12260,
@@ -26011,18 +26002,12 @@
      ]
     },
     {
-     "cod": 6050,
+     "cod": 6051,
      "nome": "MARCA TEXTO MASTERPRINT",
      "marca": "MASTERPRIN",
      "preco": 2.0,
-     "img": "produtos/6050.jpg",
+     "img": "produtos/6051.jpg",
      "cores": [
-      {
-       "cod": 6050,
-       "cor": "Amarelo",
-       "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
-       "img": "produtos/6050.jpg"
-      },
       {
        "cod": 6051,
        "cor": "Azul",
