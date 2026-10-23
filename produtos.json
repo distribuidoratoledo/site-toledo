@@ -2752,6 +2752,13 @@
      "img": "produtos/7034.jpg"
     },
     {
+     "cod": 14442,
+     "nome": "LAPISEIRA 0.5-FABER POLY CLICK VERDE",
+     "marca": "FABER",
+     "preco": 8.9,
+     "img": "produtos/14442.jpg"
+    },
+    {
      "cod": 7037,
      "nome": "LAPISEIRA 0.5-JOCAR CORES",
      "marca": "JOCAR",
@@ -2771,6 +2778,13 @@
      "marca": "PENTEL",
      "preco": 26.9,
      "img": "produtos/9129.jpg"
+    },
+    {
+     "cod": 14222,
+     "nome": "LAPISEIRA 0.7-CIS TECNO AZUL",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/14222.jpg"
     },
     {
      "cod": 5048,
@@ -6212,10 +6226,17 @@
      "img": "produtos/10920.jpg"
     },
     {
+     "cod": 7535,
+     "nome": "ALFINETE MAPA JOCAR C/50 (REDONDO)",
+     "marca": "JOCAR",
+     "preco": 7.9,
+     "img": "produtos/7535.jpg"
+    },
+    {
      "cod": 11810,
      "nome": "ALFINETE MAPA JOCAR C/50 (TACA)",
      "marca": "JOCAR",
-     "preco": 6.9,
+     "preco": 7.9,
      "img": "produtos/11810.jpg"
     },
     {
@@ -11452,7 +11473,7 @@
      "cod": 4265,
      "nome": "PRANCHETA EUCATEX OF. MARROM",
      "marca": "",
-     "preco": 9.9,
+     "preco": 4.9,
      "img": "produtos/4265.jpg"
     },
     {
@@ -16963,6 +16984,12 @@
        "img": "produtos/10923.jpg"
       },
       {
+       "cod": 10285,
+       "cor": "Branco",
+       "nome": "GLITER 3GR-BRANCO",
+       "img": "produtos/10285.jpg"
+      },
+      {
        "cod": 1477,
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
@@ -19222,13 +19249,6 @@
      "marca": "SANPACK",
      "preco": 72.9,
      "img": "produtos/1374.jpg"
-    },
-    {
-     "cod": 1375,
-     "nome": "FORMA S641/ECO641 C/300",
-     "marca": "",
-     "preco": 69.9,
-     "img": "produtos/1375.jpg"
     },
     {
      "cod": 9164,
@@ -21656,13 +21676,6 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg"
-    },
-    {
-     "cod": 2900,
-     "nome": "LIXO PRETO 200L C/100 (M) GERAPLAST",
-     "marca": "GERAPLAST",
-     "preco": 112.9,
-     "img": "produtos/2900.jpg"
     },
     {
      "cod": 2901,
@@ -24312,13 +24325,6 @@
      "img": "produtos/6529.jpg"
     },
     {
-     "cod": 2155,
-     "nome": "TOALHA ROLO 6X200M BRC 100%-INTERFORTY",
-     "marca": "INTERFORTY",
-     "preco": 139.9,
-     "img": "produtos/2155.jpg"
-    },
-    {
      "cod": 2157,
      "nome": "TOALHA ROLO 6X200M BRC LUXO-INTERFORTY",
      "marca": "INTERFORTY",
@@ -26002,12 +26008,18 @@
      ]
     },
     {
-     "cod": 6051,
+     "cod": 6050,
      "nome": "MARCA TEXTO MASTERPRINT",
      "marca": "MASTERPRIN",
      "preco": 2.0,
-     "img": "produtos/6051.jpg",
+     "img": "produtos/6050.jpg",
      "cores": [
+      {
+       "cod": 6050,
+       "cor": "Amarelo",
+       "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "img": "produtos/6050.jpg"
+      },
       {
        "cod": 6051,
        "cor": "Azul",
@@ -26019,6 +26031,12 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg"
+      },
+      {
+       "cod": 6053,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO MASTERPRINT-ROSA",
+       "img": "produtos/6053.jpg"
       },
       {
        "cod": 6637,
