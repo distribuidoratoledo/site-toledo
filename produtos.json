@@ -2720,7 +2720,7 @@
      "cod": 1509,
      "nome": "GRAFITE 0.9 FABER B/2B C/24",
      "marca": "FABER",
-     "preco": 5.5,
+     "preco": 5.9,
      "img": "produtos/1509.jpg"
     },
     {
@@ -6076,7 +6076,7 @@
      "cod": 13719,
      "nome": "CADERNO PEQ. CD 96F ESPIRAL-TILIBRA D+ FEMININO",
      "marca": "TILIBRA",
-     "preco": 14.9,
+     "preco": 15.9,
      "img": "produtos/13719.jpg"
     },
     {
@@ -19188,13 +19188,6 @@
      "img": "produtos/1365.jpg"
     },
     {
-     "cod": 7045,
-     "nome": "FORMA S35/ECO35 (ALTA) C/100-(PRETA)",
-     "marca": "",
-     "preco": 59.9,
-     "img": "produtos/7045.jpg"
-    },
-    {
      "cod": 1366,
      "nome": "FORMA S40 C/100",
      "marca": "SANPACK",
@@ -21676,6 +21669,13 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg"
+    },
+    {
+     "cod": 2900,
+     "nome": "LIXO PRETO 200L C/100 (M) GERAPLAST",
+     "marca": "GERAPLAST",
+     "preco": 112.9,
+     "img": "produtos/2900.jpg"
     },
     {
      "cod": 2901,
