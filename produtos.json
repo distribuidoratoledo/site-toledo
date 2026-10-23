@@ -833,24 +833,31 @@
     },
     {
      "cod": 12296,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE BLACK 1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. BLACK 1.0-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12296.jpg"
     },
     {
      "cod": 12328,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE CRYSTAL ROSE  1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. CRYSTAL ROSE  1.0-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12328.jpg"
     },
     {
      "cod": 12345,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE LOVE PINK 1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. LOVE PINK 1.0-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12345.jpg"
+    },
+    {
+     "cod": 12321,
+     "nome": "CANETA MOLIN CORAÇAO DIAM. POA 1.0-AZUL",
+     "marca": "MOLIN",
+     "preco": 21.9,
+     "img": "produtos/12321.jpg"
     },
     {
      "cod": 12298,
@@ -858,13 +865,6 @@
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12298.jpg"
-    },
-    {
-     "cod": 12321,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE POA 1.0-AZUL",
-     "marca": "MOLIN",
-     "preco": 21.9,
-     "img": "produtos/12321.jpg"
     },
     {
      "cod": 12280,
@@ -1586,27 +1586,6 @@
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10477.jpg"
-    },
-    {
-     "cod": 10632,
-     "nome": "LAPIS ESCREVER CIS NEON",
-     "marca": "CIS",
-     "preco": 1.5,
-     "img": "produtos/10632.jpg",
-     "cores": [
-      {
-       "cod": 10632,
-       "cor": "Roxo",
-       "nome": "LAPIS ESCREVER CIS NEON-ROXO",
-       "img": "produtos/10632.jpg"
-      },
-      {
-       "cod": 10634,
-       "cor": "Verde",
-       "nome": "LAPIS ESCREVER CIS NEON-VERDE",
-       "img": "produtos/10634.jpg"
-      }
-     ]
     },
     {
      "cod": 10560,
@@ -2699,14 +2678,14 @@
      "cod": 1503,
      "nome": "GRAFITE 0.5 FABER 2B/B C/24",
      "marca": "FABER",
-     "preco": 5.9,
+     "preco": 4.9,
      "img": "produtos/1503.jpg"
     },
     {
      "cod": 4463,
      "nome": "GRAFITE 0.7 FABER 2B/HB/B C/24",
      "marca": "FABER",
-     "preco": 5.9,
+     "preco": 4.9,
      "img": "produtos/4463.jpg"
     },
     {
@@ -2720,7 +2699,7 @@
      "cod": 1509,
      "nome": "GRAFITE 0.9 FABER B/2B C/24",
      "marca": "FABER",
-     "preco": 5.9,
+     "preco": 4.9,
      "img": "produtos/1509.jpg"
     },
     {
@@ -4261,13 +4240,6 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/10897.jpg"
-    },
-    {
-     "cod": 10929,
-     "nome": "CADERNO 1X1 80F-EMOJI",
-     "marca": "CREDEAL",
-     "preco": 19.9,
-     "img": "produtos/10929.jpg"
     },
     {
      "cod": 12909,
@@ -6482,13 +6454,6 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg"
-    },
-    {
-     "cod": 12624,
-     "nome": "CALCULADORA (M) LT-NEO (PILHA) (12 DIG)",
-     "marca": "LETRON",
-     "preco": 36.9,
-     "img": "produtos/12624.jpg"
     },
     {
      "cod": 14110,
@@ -9709,12 +9674,6 @@
        "img": "produtos/10135.jpg"
       },
       {
-       "cod": 3573,
-       "cor": "Preta",
-       "nome": "GUACHE 250ML MARIPEL-PRETA",
-       "img": "produtos/3573.jpg"
-      },
-      {
        "cod": 10128,
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML MARIPEL-VERDE BANDEIRA",
@@ -10230,13 +10189,6 @@
      "marca": "JOCAR",
      "preco": 89.9,
      "img": "produtos/9382.jpg"
-    },
-    {
-     "cod": 14213,
-     "nome": "TINTA P.Q.BRC 500ML RADEX-PRETA",
-     "marca": "RADEX",
-     "preco": 76.9,
-     "img": "produtos/14213.jpg"
     },
     {
      "cod": 10550,
@@ -12720,13 +12672,6 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/13540.jpg"
-    },
-    {
-     "cod": 2741,
-     "nome": "SACO ADESIVADO 15X20 C/100",
-     "marca": "CROMUS",
-     "preco": 29.9,
-     "img": "produtos/2741.jpg"
     },
     {
      "cod": 2743,
@@ -17673,13 +17618,6 @@
      "img": "produtos/14409.jpg"
     },
     {
-     "cod": 7278,
-     "nome": "TAMPA 100ML (S/F) C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 5.9,
-     "img": "produtos/7278.jpg"
-    },
-    {
      "cod": 2923,
      "nome": "TAMPA 100ML (S/F) C/100-TOTAL",
      "marca": "TOTALPLAST",
@@ -19111,8 +19049,15 @@
      "img": "produtos/14015.jpg"
     },
     {
+     "cod": 14454,
+     "nome": "FORMA S10 C/100-BIPACK",
+     "marca": "",
+     "preco": 39.9,
+     "img": "produtos/14454.jpg"
+    },
+    {
      "cod": 1356,
-     "nome": "FORMA S10/H10/ECO10 C/100",
+     "nome": "FORMA S10 C/100-ECO",
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1356.jpg"
@@ -19125,18 +19070,32 @@
      "img": "produtos/3902.jpg"
     },
     {
+     "cod": 10971,
+     "nome": "FORMA S13 C/100-BIPACK",
+     "marca": "BIPACK",
+     "preco": 66.9,
+     "img": "produtos/10971.jpg"
+    },
+    {
      "cod": 1361,
-     "nome": "FORMA S13/B13/ECO13 C/100",
-     "marca": "",
+     "nome": "FORMA S13 C/100-SANPACK",
+     "marca": "SANPACK",
      "preco": 66.9,
      "img": "produtos/1361.jpg"
     },
     {
      "cod": 1362,
-     "nome": "FORMA S18/ECO18 C/100",
-     "marca": "",
+     "nome": "FORMA S18 C/100-ECO",
+     "marca": "ECOPLAST",
      "preco": 68.9,
      "img": "produtos/1362.jpg"
+    },
+    {
+     "cod": 1363,
+     "nome": "FORMA S20 C/100-ECO",
+     "marca": "ECO",
+     "preco": 69.9,
+     "img": "produtos/1363.jpg"
     },
     {
      "cod": 14062,
@@ -19146,30 +19105,23 @@
      "img": "produtos/14062.jpg"
     },
     {
-     "cod": 1363,
-     "nome": "FORMA S20/SP20/ECO20 C/100",
-     "marca": "",
-     "preco": 69.9,
-     "img": "produtos/1363.jpg"
-    },
-    {
-     "cod": 7074,
-     "nome": "FORMA S32/BP32/ECO32 (ALTA) C/100 (PRETA)",
-     "marca": "",
-     "preco": 75.9,
-     "img": "produtos/7074.jpg"
-    },
-    {
      "cod": 11999,
-     "nome": "FORMA S32/ECO32 (ALTA) C/100 (BRANCA)",
+     "nome": "FORMA S32 C/100-ECO (ALTA BRANCA)",
      "marca": "",
      "preco": 79.9,
      "img": "produtos/11999.jpg"
     },
     {
+     "cod": 7074,
+     "nome": "FORMA S32 C/100-ECO (PRETA ALTA)",
+     "marca": "ECO",
+     "preco": 75.9,
+     "img": "produtos/7074.jpg"
+    },
+    {
      "cod": 5266,
-     "nome": "FORMA S32/ECO32 C/100-(BRANCA)",
-     "marca": "",
+     "nome": "FORMA S32 C/100-PACKFORM (BRANCA MEDIA)",
+     "marca": "PACKFORM",
      "preco": 69.9,
      "img": "produtos/5266.jpg"
     },
@@ -19182,14 +19134,21 @@
     },
     {
      "cod": 1365,
-     "nome": "FORMA S35 C/100",
+     "nome": "FORMA S35 C/100-SANPACK (PRETA BAIXA)",
      "marca": "SANPACK",
      "preco": 59.9,
      "img": "produtos/1365.jpg"
     },
     {
+     "cod": 7045,
+     "nome": "FORMA S35/ C/100-ECO (PRETA ALTA)",
+     "marca": "",
+     "preco": 59.9,
+     "img": "produtos/7045.jpg"
+    },
+    {
      "cod": 1366,
-     "nome": "FORMA S40 C/100",
+     "nome": "FORMA S40 C/100-SAMPACK (PRETA)",
      "marca": "SANPACK",
      "preco": 131.5,
      "img": "produtos/1366.jpg"
@@ -19216,43 +19175,64 @@
      "img": "produtos/14427.jpg"
     },
     {
-     "cod": 1371,
-     "nome": "FORMA S60 C/50",
+     "cod": 14322,
+     "nome": "FORMA S60 C/50-HIPERPACK (PRETA MEDIA)",
      "marca": "HIPERPACK",
+     "preco": 157.9,
+     "img": "produtos/14322.jpg"
+    },
+    {
+     "cod": 1371,
+     "nome": "FORMA S60 C/50-SAMPACK (PRETA MEDIA)",
+     "marca": "SAMPACK",
      "preco": 157.9,
      "img": "produtos/1371.jpg"
     },
     {
+     "cod": 14461,
+     "nome": "FORMA S63 C/100-HIPERPACK",
+     "marca": "HIPERPACK",
+     "preco": 89.9,
+     "img": "produtos/14461.jpg"
+    },
+    {
      "cod": 1372,
-     "nome": "FORMA S63/H63 C/100",
+     "nome": "FORMA S63/ C/100-SAMPACK",
      "marca": "SANPACK",
      "preco": 89.9,
      "img": "produtos/1372.jpg"
     },
     {
+     "cod": 14458,
+     "nome": "FORMA S630 C/100-ECO",
+     "marca": "ECOPLAST",
+     "preco": 49.9,
+     "img": "produtos/14458.jpg"
+    },
+    {
      "cod": 1373,
-     "nome": "FORMA S630/ECO630 C/100",
+     "nome": "FORMA S630 C/100-SANPACK",
      "marca": "",
      "preco": 49.9,
      "img": "produtos/1373.jpg"
     },
     {
      "cod": 1374,
-     "nome": "FORMA S640 C/300",
+     "nome": "FORMA S640 C/300-SAMPACK",
      "marca": "SANPACK",
      "preco": 72.9,
      "img": "produtos/1374.jpg"
     },
     {
      "cod": 9164,
-     "nome": "FORMA S65 C/50",
+     "nome": "FORMA S65 C/50-SAMPACK",
      "marca": "SANPACK",
      "preco": 119.5,
      "img": "produtos/9164.jpg"
     },
     {
      "cod": 1379,
-     "nome": "FORMA S8/BP8/ECO08 C/100",
+     "nome": "FORMA S8 C/100-ECO",
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1379.jpg"
@@ -19273,7 +19253,7 @@
     },
     {
      "cod": 1385,
-     "nome": "FORMA S96 C/200",
+     "nome": "FORMA S96 C/200-SAMPACK",
      "marca": "SANPACK",
      "preco": 79.9,
      "img": "produtos/1385.jpg"
@@ -19889,13 +19869,6 @@
      "marca": "BOREDA",
      "preco": 105.9,
      "img": "produtos/1348.jpg"
-    },
-    {
-     "cod": 14192,
-     "nome": "FORMA ALUM D8 (185X275) 1.500ML C/100-PRAVIAGEM",
-     "marca": "PRAVIAGEM",
-     "preco": 177.9,
-     "img": "produtos/14192.jpg"
     },
     {
      "cod": 7818,
@@ -23797,13 +23770,6 @@
      "img": "produtos/7348.jpg"
     },
     {
-     "cod": 6658,
-     "nome": "CONTAINER 50L (35X41X57) PRETO",
-     "marca": "ARQPLAST",
-     "preco": 105.9,
-     "img": "produtos/6658.jpg"
-    },
-    {
      "cod": 9866,
      "nome": "CONTAINER 50L (59X38X34)",
      "marca": "",
@@ -23885,13 +23851,6 @@
      "marca": "SETTA",
      "preco": 2.9,
      "img": "produtos/1724.jpg"
-    },
-    {
-     "cod": 1725,
-     "nome": "LINHA NYLON 20MM C/100M",
-     "marca": "DOURADO",
-     "preco": 4.9,
-     "img": "produtos/1725.jpg"
     },
     {
      "cod": 7056,
@@ -26675,8 +26634,8 @@
   },
   {
    "cod": 1363,
-   "nome": "FORMA S20/SP20/ECO20 C/100",
-   "marca": "",
+   "nome": "FORMA S20 C/100-ECO",
+   "marca": "ECO",
    "preco": 69.9,
    "img": "produtos/1363.jpg"
   },
