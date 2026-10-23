@@ -1894,6 +1894,13 @@
      "img": "produtos/6355.jpg"
     },
     {
+     "cod": 13310,
+     "nome": "LAPIS ESCREVER MAPED BLACK'PEPS",
+     "marca": "MAPED",
+     "preco": 1.0,
+     "img": "produtos/13310.jpg"
+    },
+    {
      "cod": 11564,
      "nome": "LAPIS ESCREVER MAPED ENERGY C/BORRACHA",
      "marca": "MAPED",
@@ -6115,13 +6122,6 @@
      "img": "produtos/10148.jpg"
     },
     {
-     "cod": 440,
-     "nome": "CADERNO PEQ. MUSICA 48F-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 11.9,
-     "img": "produtos/440.jpg"
-    },
-    {
      "cod": 12858,
      "nome": "CADERNO PLANNER 10X1 168F-DAYDREAM",
      "marca": "CADERSIL",
@@ -9396,13 +9396,6 @@
      "marca": "SOUZ/STALO",
      "preco": 89.9,
      "img": "produtos/4296.jpg"
-    },
-    {
-     "cod": 6701,
-     "nome": "QUADRO CORTIÇA 1,20X90-(AL)",
-     "marca": "SOUZA",
-     "preco": 189.9,
-     "img": "produtos/6701.jpg"
     },
     {
      "cod": 3769,
