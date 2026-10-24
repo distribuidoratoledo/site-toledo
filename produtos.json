@@ -833,63 +833,63 @@
     },
     {
      "cod": 12296,
-     "nome": "CANETA MOLIN CORAÇAO DIAM. BLACK 1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. BLACK-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12296.jpg"
     },
     {
      "cod": 12328,
-     "nome": "CANETA MOLIN CORAÇAO DIAM. CRYSTAL ROSE  1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. CRYSTAL ROSE-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12328.jpg"
     },
     {
      "cod": 12345,
-     "nome": "CANETA MOLIN CORAÇAO DIAM. LOVE PINK 1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. LOVE PINK-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12345.jpg"
     },
     {
-     "cod": 12321,
-     "nome": "CANETA MOLIN CORAÇAO DIAM. POA 1.0-AZUL",
-     "marca": "MOLIN",
-     "preco": 21.9,
-     "img": "produtos/12321.jpg"
-    },
-    {
      "cod": 12298,
-     "nome": "CANETA MOLIN CORAÇAO DIAMANTE MENTA 1.0-PRETA",
+     "nome": "CANETA MOLIN CORAÇAO DIAM. MENTA-PRETA",
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12298.jpg"
     },
     {
+     "cod": 12321,
+     "nome": "CANETA MOLIN CORAÇAO DIAM. POA-AZUL",
+     "marca": "MOLIN",
+     "preco": 21.9,
+     "img": "produtos/12321.jpg"
+    },
+    {
      "cod": 12280,
-     "nome": "CANETA MOLIN LOVE BLACK E WHITE 1.0-AZUL",
+     "nome": "CANETA MOLIN LOVE BLACK E WHITE-AZUL",
      "marca": "MOLIN",
      "preco": 9.9,
      "img": "produtos/12280.jpg"
     },
     {
      "cod": 12295,
-     "nome": "CANETA MOLIN LOVE CITY 1.0-AZUL",
+     "nome": "CANETA MOLIN LOVE CITY-AZUL",
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/12295.jpg"
     },
     {
      "cod": 12336,
-     "nome": "CANETA MOLIN MINNIE 1.0-AZUL",
+     "nome": "CANETA MOLIN MINNIE-AZUL",
      "marca": "MOLIN",
      "preco": 69.9,
      "img": "produtos/12336.jpg"
     },
     {
      "cod": 12294,
-     "nome": "CANETA MOLIN STITCH 1.0-PRETA",
+     "nome": "CANETA MOLIN STITCH-PRETA",
      "marca": "MOLIN",
      "preco": 28.9,
      "img": "produtos/12294.jpg"
@@ -2870,6 +2870,13 @@
      "img": "produtos/13138.jpg"
     },
     {
+     "cod": 12701,
+     "nome": "BORRACHA CANETA+APONTADOR C/D 1F-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/12701.jpg"
+    },
+    {
      "cod": 284,
      "nome": "BORRACHA FABER C/CP GIGANTE VERM.",
      "marca": "FABER",
@@ -3093,13 +3100,6 @@
        "img": "produtos/12698.jpg"
       }
      ]
-    },
-    {
-     "cod": 12701,
-     "nome": "CANETA BORRACHA+APONTADOR C/D 1F-TRIS CORES",
-     "marca": "TRIS",
-     "preco": 14.9,
-     "img": "produtos/12701.jpg"
     },
     {
      "cod": 7915,
@@ -7225,13 +7225,6 @@
      "img": "produtos/4389.jpg"
     },
     {
-     "cod": 1317,
-     "nome": "FITA ZEBRADA 70X200MT",
-     "marca": "PLASTCOR",
-     "preco": 18.9,
-     "img": "produtos/1317.jpg"
-    },
-    {
      "cod": 9512,
      "nome": "RALO PIA PEQUENO-GARRA",
      "marca": "GARRA",
@@ -9396,6 +9389,13 @@
      "marca": "SOUZ/STALO",
      "preco": 89.9,
      "img": "produtos/4296.jpg"
+    },
+    {
+     "cod": 6701,
+     "nome": "QUADRO CORTIÇA 1,20X90-(AL)",
+     "marca": "SOUZA",
+     "preco": 189.9,
+     "img": "produtos/6701.jpg"
     },
     {
      "cod": 3769,
