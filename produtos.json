@@ -8603,12 +8603,6 @@
        "img": "produtos/4181.jpg"
       },
       {
-       "cod": 2039,
-       "cor": "Azul Escuro",
-       "nome": "COLORSETE-AZUL ESCURO",
-       "img": "produtos/2039.jpg"
-      },
-      {
        "cod": 2041,
        "cor": "Laranja",
        "nome": "COLORSETE-LARANJA",
@@ -9369,13 +9363,6 @@
      "marca": "SOUZ/STALO",
      "preco": 89.9,
      "img": "produtos/4296.jpg"
-    },
-    {
-     "cod": 6701,
-     "nome": "QUADRO CORTIÇA 1,20X90-(AL)",
-     "marca": "SOUZA",
-     "preco": 189.9,
-     "img": "produtos/6701.jpg"
     },
     {
      "cod": 3769,
@@ -21972,13 +21959,6 @@
      "img": "produtos/7012.jpg"
     },
     {
-     "cod": 10455,
-     "nome": "SACO SOS DEC. 25KG (38X31X17,5) C/100",
-     "marca": "DALPAC",
-     "preco": 92.9,
-     "img": "produtos/10455.jpg"
-    },
-    {
      "cod": 10105,
      "nome": "SACO SOS DEC. 3KG (25X13X8,5) C/100",
      "marca": "CIPAPEL",
@@ -22117,6 +22097,13 @@
      "marca": "CROMUS",
      "preco": 9.9,
      "img": "produtos/8079.jpg"
+    },
+    {
+     "cod": 10455,
+     "nome": "SOS DEC. 25KG (38X31X17,5) C/100",
+     "marca": "DALPAC",
+     "preco": 92.9,
+     "img": "produtos/10455.jpg"
     }
    ]
   },
