@@ -4525,13 +4525,6 @@
      "img": "produtos/12764.jpg"
     },
     {
-     "cod": 12413,
-     "nome": "CADERNO 1X1 80F-NERF LIGHT",
-     "marca": "CREDEAL",
-     "preco": 18.9,
-     "img": "produtos/12413.jpg"
-    },
-    {
      "cod": 13209,
      "nome": "CADERNO 1X1 80F-NORDIC",
      "marca": "SD",
@@ -16318,13 +16311,6 @@
    "nome": "Lacre e Cadeado",
    "itens": [
     {
-     "cod": 6962,
-     "nome": "ABRAÇADEIRA BRANCA 200X2,5MM C/100",
-     "marca": "FOXLUX",
-     "preco": 12.9,
-     "img": "produtos/6962.jpg"
-    },
-    {
      "cod": 6961,
      "nome": "ABRAÇADEIRA BRANCA 280X3,5MM C/100",
      "marca": "FOXLUX",
@@ -17864,13 +17850,6 @@
      "img": "produtos/9927.jpg"
     },
     {
-     "cod": 9928,
-     "nome": "BOLA ISOPOR 200MM (OCA)",
-     "marca": "ISOMAX",
-     "preco": 18.9,
-     "img": "produtos/9928.jpg"
-    },
-    {
      "cod": 9909,
      "nome": "BOLA ISOPOR 20MM C/5 (MACIÇA)",
      "marca": "ISOMAX",
@@ -18681,6 +18660,13 @@
      "img": "produtos/6315.jpg"
     },
     {
+     "cod": 11853,
+     "nome": "POTE (KIT) 380ML C/25-COPOZAN",
+     "marca": "COPOZAN",
+     "preco": 13.9,
+     "img": "produtos/11853.jpg"
+    },
+    {
      "cod": 2510,
      "nome": "POTE (KIT) 380ML C/25-RIOPLASTIC (SOBRE TAMPA)",
      "marca": "RIOPLASTIC",
@@ -19135,18 +19121,18 @@
      "img": "produtos/1366.jpg"
     },
     {
+     "cod": 1368,
+     "nome": "FORMA S50 ECO C/50-PRETA",
+     "marca": "",
+     "preco": 83.9,
+     "img": "produtos/1368.jpg"
+    },
+    {
      "cod": 1367,
      "nome": "FORMA S50/APR50/ECO50 (ALTA) C/50",
      "marca": "",
      "preco": 92.9,
      "img": "produtos/1367.jpg"
-    },
-    {
-     "cod": 1368,
-     "nome": "FORMA S50/ECO50 C/50-PRETA",
-     "marca": "",
-     "preco": 83.9,
-     "img": "produtos/1368.jpg"
     },
     {
      "cod": 14427,
