@@ -659,13 +659,6 @@
      "img": "produtos/10039.jpg"
     },
     {
-     "cod": 4826,
-     "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (TRIGEL)",
-     "marca": "CIS",
-     "preco": 6.5,
-     "img": "produtos/4826.jpg"
-    },
-    {
      "cod": 14239,
      "nome": "CANETA GEL/CONVITE 1.0 PENTEL-OURO",
      "marca": "PENTEL",
@@ -15076,13 +15069,6 @@
      "img": "produtos/4925.jpg"
     },
     {
-     "cod": 5576,
-     "nome": "ESPIRAL 20MM P/120F C/80",
-     "marca": "",
-     "preco": 47.9,
-     "img": "produtos/5576.jpg"
-    },
-    {
      "cod": 1123,
      "nome": "ESPIRAL 23MM P/140F C/60",
      "marca": "",
@@ -15432,13 +15418,6 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6626.jpg"
-    },
-    {
-     "cod": 9146,
-     "nome": "POST-IT 38X38 C/4X100 NEON",
-     "marca": "MOURE JAR",
-     "preco": 6.9,
-     "img": "produtos/9146.jpg"
     },
     {
      "cod": 6619,
@@ -17717,13 +17696,6 @@
      "img": "produtos/7462.jpg"
     },
     {
-     "cod": 13923,
-     "nome": "BANDEJA ISOPOR B1 RASA C/10",
-     "marca": "",
-     "preco": 1.9,
-     "img": "produtos/13923.jpg"
-    },
-    {
      "cod": 4618,
      "nome": "BANDEJA ISOPOR B1 RASA C/100",
      "marca": "",
@@ -17745,13 +17717,6 @@
      "img": "produtos/4060.jpg"
     },
     {
-     "cod": 13925,
-     "nome": "BANDEJA ISOPOR B3 FUNDA C/10",
-     "marca": "COPOPLAST",
-     "preco": 3.9,
-     "img": "produtos/13925.jpg"
-    },
-    {
      "cod": 177,
      "nome": "BANDEJA ISOPOR B3 FUNDA C/100",
      "marca": "",
@@ -17759,25 +17724,11 @@
      "img": "produtos/177.jpg"
     },
     {
-     "cod": 14084,
-     "nome": "BANDEJA ISOPOR B3 RASA C/10",
-     "marca": "",
-     "preco": 2.99,
-     "img": "produtos/14084.jpg"
-    },
-    {
      "cod": 3772,
      "nome": "BANDEJA ISOPOR B3 RASA C/100",
      "marca": "",
      "preco": 29.9,
      "img": "produtos/3772.jpg"
-    },
-    {
-     "cod": 14083,
-     "nome": "BANDEJA ISOPOR B4 FUNDA C/10",
-     "marca": "COPOBRAS",
-     "preco": 4.9,
-     "img": "produtos/14083.jpg"
     },
     {
      "cod": 179,
@@ -18828,7 +18779,7 @@
     },
     {
      "cod": 1392,
-     "nome": "FORMA G261 C/10 RASA (1000ML)",
+     "nome": "FORMA G261 C/10 RASA (1000ML)-GALVANOTEK",
      "marca": "GALVANOTEK",
      "preco": 18.0,
      "img": "produtos/1392.jpg"
@@ -19002,13 +18953,6 @@
      "img": "produtos/5067.jpg"
     },
     {
-     "cod": 1376,
-     "nome": "FORMA PF642/S642/ECO642 C/300",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/1376.jpg"
-    },
-    {
      "cod": 14015,
      "nome": "FORMA PF742 C/10 (250ML)",
      "marca": "",
@@ -19073,10 +19017,17 @@
     },
     {
      "cod": 11999,
-     "nome": "FORMA S32 C/100-ECO (ALTA BRANCA)",
+     "nome": "FORMA S32 C/100-ECO (BRANCA ALTA)",
      "marca": "",
      "preco": 79.9,
      "img": "produtos/11999.jpg"
+    },
+    {
+     "cod": 5266,
+     "nome": "FORMA S32 C/100-ECO (BRANCA)",
+     "marca": "PACKFORM",
+     "preco": 69.9,
+     "img": "produtos/5266.jpg"
     },
     {
      "cod": 7074,
@@ -19086,71 +19037,64 @@
      "img": "produtos/7074.jpg"
     },
     {
-     "cod": 5266,
-     "nome": "FORMA S32 C/100-PACKFORM (BRANCA MEDIA)",
-     "marca": "PACKFORM",
-     "preco": 69.9,
-     "img": "produtos/5266.jpg"
-    },
-    {
      "cod": 9820,
-     "nome": "FORMA S32/PF32/ECO32 C/100-(PRETA)",
+     "nome": "FORMA S32 C/100-PACKFORM (PRETA )",
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg"
     },
     {
-     "cod": 1365,
-     "nome": "FORMA S35 C/100-SANPACK (PRETA BAIXA)",
-     "marca": "SANPACK",
-     "preco": 59.9,
-     "img": "produtos/1365.jpg"
-    },
-    {
      "cod": 7045,
-     "nome": "FORMA S35/ C/100-ECO (PRETA ALTA)",
+     "nome": "FORMA S35 C/100-ECO (PRETA ALTA)",
      "marca": "",
      "preco": 59.9,
      "img": "produtos/7045.jpg"
     },
     {
+     "cod": 1365,
+     "nome": "FORMA S35 C/100-SANPACK (PRETA)",
+     "marca": "SANPACK",
+     "preco": 59.9,
+     "img": "produtos/1365.jpg"
+    },
+    {
      "cod": 1366,
-     "nome": "FORMA S40 C/100-SAMPACK (PRETA)",
+     "nome": "FORMA S40 C/100-SANPACK (PRETA)",
      "marca": "SANPACK",
      "preco": 131.5,
      "img": "produtos/1366.jpg"
     },
     {
      "cod": 1368,
-     "nome": "FORMA S50 ECO C/50-PRETA",
+     "nome": "FORMA S50 C/50 ECO-(PRETA )",
      "marca": "",
      "preco": 83.9,
      "img": "produtos/1368.jpg"
     },
     {
-     "cod": 1367,
-     "nome": "FORMA S50/APR50/ECO50 (ALTA) C/50",
-     "marca": "",
-     "preco": 92.9,
-     "img": "produtos/1367.jpg"
-    },
-    {
      "cod": 14427,
-     "nome": "FORMA S50/SANPACK C/50-PRETA",
+     "nome": "FORMA S50 C/50 SANPACK-(PRETA ALTA)",
      "marca": "",
      "preco": 89.9,
      "img": "produtos/14427.jpg"
     },
     {
+     "cod": 1367,
+     "nome": "FORMA S50 C/50-ECO (PRETA ALTA)",
+     "marca": "",
+     "preco": 92.9,
+     "img": "produtos/1367.jpg"
+    },
+    {
      "cod": 14322,
-     "nome": "FORMA S60 C/50-HIPERPACK (PRETA MEDIA)",
+     "nome": "FORMA S60 C/50-HIPERPACK (PRETA)",
      "marca": "HIPERPACK",
      "preco": 157.9,
      "img": "produtos/14322.jpg"
     },
     {
      "cod": 1371,
-     "nome": "FORMA S60 C/50-SAMPACK (PRETA MEDIA)",
+     "nome": "FORMA S60 C/50-SANPACK (PRETA)",
      "marca": "SAMPACK",
      "preco": 157.9,
      "img": "produtos/1371.jpg"
@@ -19164,7 +19108,7 @@
     },
     {
      "cod": 1372,
-     "nome": "FORMA S63/ C/100-SAMPACK",
+     "nome": "FORMA S63 C/100-SANPACK",
      "marca": "SANPACK",
      "preco": 89.9,
      "img": "produtos/1372.jpg"
@@ -19185,14 +19129,21 @@
     },
     {
      "cod": 1374,
-     "nome": "FORMA S640 C/300-SAMPACK",
+     "nome": "FORMA S640 C/300-SANPACK",
      "marca": "SANPACK",
      "preco": 72.9,
      "img": "produtos/1374.jpg"
     },
     {
+     "cod": 1376,
+     "nome": "FORMA S642 C/300-ECO",
+     "marca": "",
+     "preco": 52.9,
+     "img": "produtos/1376.jpg"
+    },
+    {
      "cod": 9164,
-     "nome": "FORMA S65 C/50-SAMPACK",
+     "nome": "FORMA S65 C/50-SANPACK",
      "marca": "SANPACK",
      "preco": 119.5,
      "img": "produtos/9164.jpg"
@@ -19206,21 +19157,21 @@
     },
     {
      "cod": 7082,
-     "nome": "FORMA S905 C/10",
+     "nome": "FORMA S905 C/10-GALVANOTEK",
      "marca": "SANPACK",
      "preco": 3.4,
      "img": "produtos/7082.jpg"
     },
     {
      "cod": 4489,
-     "nome": "FORMA S92 C/10 (750ML)",
+     "nome": "FORMA S92 C/10-GALVANOTEK (750ML)",
      "marca": "",
      "preco": 3.25,
      "img": "produtos/4489.jpg"
     },
     {
      "cod": 1385,
-     "nome": "FORMA S96 C/200-SAMPACK",
+     "nome": "FORMA S96 C/200-SANPACK",
      "marca": "SANPACK",
      "preco": 79.9,
      "img": "produtos/1385.jpg"
