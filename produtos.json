@@ -7441,13 +7441,6 @@
      "img": "produtos/4847.jpg"
     },
     {
-     "cod": 4338,
-     "nome": "ESCALIMETRO 30CM-CIS",
-     "marca": "CIS",
-     "preco": 44.9,
-     "img": "produtos/4338.jpg"
-    },
-    {
      "cod": 1136,
      "nome": "ESQUADRO 21X45-MAXCRIL",
      "marca": "MAXCRIL",
@@ -8556,12 +8549,6 @@
        "cor": "Verde Bandeira",
        "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
        "img": "produtos/2063.jpg"
-      },
-      {
-       "cod": 2064,
-       "cor": "Verde Claro",
-       "nome": "COLORSETE A4 C/50 VERDE CLARO",
-       "img": "produtos/2064.jpg"
       },
       {
        "cod": 2065,
@@ -12827,13 +12814,6 @@
      "marca": "TRAMONTINA",
      "preco": 15.9,
      "img": "produtos/6920.jpg"
-    },
-    {
-     "cod": 3702,
-     "nome": "TESOURA S/P TRAMONTINA-ROXO",
-     "marca": "TRAMONTINA",
-     "preco": 15.9,
-     "img": "produtos/3702.jpg"
     },
     {
      "cod": 2964,
