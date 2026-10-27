@@ -7199,6 +7199,13 @@
      "img": "produtos/4389.jpg"
     },
     {
+     "cod": 1317,
+     "nome": "FITA ZEBRADA 70X200MT",
+     "marca": "PLASTCOR",
+     "preco": 18.9,
+     "img": "produtos/1317.jpg"
+    },
+    {
      "cod": 9512,
      "nome": "RALO PIA PEQUENO-GARRA",
      "marca": "GARRA",
@@ -7363,13 +7370,6 @@
      "marca": "MAKE +",
      "preco": 29.9,
      "img": "produtos/7003.jpg"
-    },
-    {
-     "cod": 2297,
-     "nome": "PERFURADOR PAPEL 1 FURO JOCAR",
-     "marca": "JOCAR",
-     "preco": 12.9,
-     "img": "produtos/2297.jpg"
     },
     {
      "cod": 6617,
@@ -15099,13 +15099,6 @@
      "img": "produtos/7400.jpg"
     },
     {
-     "cod": 13983,
-     "nome": "POLASEAL A3 303X426 (0.5) C/10",
-     "marca": "MASTERPRIN",
-     "preco": 25.9,
-     "img": "produtos/13983.jpg"
-    },
-    {
      "cod": 13982,
      "nome": "POLASEAL A4 220X307 (0.5) C/10",
      "marca": "MASTERPRIN",
@@ -17929,6 +17922,13 @@
      "img": "produtos/6942.jpg"
     },
     {
+     "cod": 452,
+     "nome": "CAIXA ISOPOR 3 LITROS",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/452.jpg"
+    },
+    {
      "cod": 7359,
      "nome": "CAIXA ISOPOR 35 LITROS",
      "marca": "",
@@ -19872,13 +19872,6 @@
      "marca": "INOVEN",
      "preco": 5.9,
      "img": "produtos/11897.jpg"
-    },
-    {
-     "cod": 3301,
-     "nome": "CANUDO SACHE 5MM C/100",
-     "marca": "",
-     "preco": 6.9,
-     "img": "produtos/3301.jpg"
     },
     {
      "cod": 3932,
@@ -24741,6 +24734,13 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/13872.jpg"
+    },
+    {
+     "cod": 14483,
+     "nome": "VASSOURA NYLON MELARE",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/14483.jpg"
     }
    ]
   },
