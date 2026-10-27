@@ -9337,13 +9337,6 @@
      "img": "produtos/6700.jpg"
     },
     {
-     "cod": 7667,
-     "nome": "QUADRO BRANCO 100X70 (AL)",
-     "marca": "STALO",
-     "preco": 99.9,
-     "img": "produtos/7667.jpg"
-    },
-    {
      "cod": 3996,
      "nome": "QUADRO BRANCO 60X40 (AL)",
      "marca": "SOUZ/STALO",
@@ -17551,6 +17544,13 @@
      "img": "produtos/14409.jpg"
     },
     {
+     "cod": 7278,
+     "nome": "TAMPA 100ML (S/F) C/100-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 5.9,
+     "img": "produtos/7278.jpg"
+    },
+    {
      "cod": 2923,
      "nome": "TAMPA 100ML (S/F) C/100-TOTAL",
      "marca": "TOTALPLAST",
@@ -18975,6 +18975,13 @@
      "img": "produtos/10971.jpg"
     },
     {
+     "cod": 14455,
+     "nome": "FORMA S13 C/100-ECO",
+     "marca": "ECOPLAST",
+     "preco": 55.9,
+     "img": "produtos/14455.jpg"
+    },
+    {
      "cod": 1361,
      "nome": "FORMA S13 C/100-SANPACK",
      "marca": "SANPACK",
@@ -19025,7 +19032,7 @@
     },
     {
      "cod": 9820,
-     "nome": "FORMA S32 C/100-PACKFORM (PRETA )",
+     "nome": "FORMA S32 C/100-ECO (PRETA)",
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg"
@@ -19055,7 +19062,7 @@
      "cod": 1368,
      "nome": "FORMA S50 C/50 ECO-(PRETA )",
      "marca": "",
-     "preco": 83.9,
+     "preco": 66.9,
      "img": "produtos/1368.jpg"
     },
     {
@@ -19069,7 +19076,7 @@
      "cod": 1367,
      "nome": "FORMA S50 C/50-ECO (PRETA ALTA)",
      "marca": "",
-     "preco": 92.9,
+     "preco": 69.9,
      "img": "produtos/1367.jpg"
     },
     {
@@ -19120,6 +19127,13 @@
      "marca": "SANPACK",
      "preco": 72.9,
      "img": "produtos/1374.jpg"
+    },
+    {
+     "cod": 1375,
+     "nome": "FORMA S641 C/300-ECO",
+     "marca": "ECOPLAST",
+     "preco": 59.9,
+     "img": "produtos/1375.jpg"
     },
     {
      "cod": 1376,
