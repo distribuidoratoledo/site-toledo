@@ -155,18 +155,12 @@
      "img": "produtos/10296.jpg"
     },
     {
-     "cod": 10829,
+     "cod": 10830,
      "nome": "CANETA CIS 0.7",
      "marca": "CIS",
      "preco": 1.5,
-     "img": "produtos/10829.jpg",
+     "img": "produtos/10830.jpg",
      "cores": [
-      {
-       "cod": 10829,
-       "cor": "Azul",
-       "nome": "CANETA CIS 0.7-AZUL",
-       "img": "produtos/10829.jpg"
-      },
       {
        "cod": 10830,
        "cor": "Preta",
@@ -9226,13 +9220,6 @@
      "img": "produtos/2163.jpg"
     },
     {
-     "cod": 7872,
-     "nome": "VERGE 180G C/50 BRANCO C/TEXT-MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 19.9,
-     "img": "produtos/7872.jpg"
-    },
-    {
      "cod": 7335,
      "nome": "VERGE 180G C/50 CREME-USAPEL",
      "marca": "USAPEL",
@@ -11818,13 +11805,6 @@
      ]
     },
     {
-     "cod": 2212,
-     "nome": "PASTA CLASSIFICADORA AZUL C/10",
-     "marca": "TIMPEL",
-     "preco": 55.9,
-     "img": "produtos/2212.jpg"
-    },
-    {
      "cod": 2213,
      "nome": "PASTA CLASSIFICADORA CINZA C/10",
      "marca": "TIMPEL",
@@ -12752,13 +12732,6 @@
      "img": "produtos/6633.jpg"
     },
     {
-     "cod": 2959,
-     "nome": "TESOURA GRD TRAMONTINA",
-     "marca": "TRAMONTINA",
-     "preco": 24.9,
-     "img": "produtos/2959.jpg"
-    },
-    {
      "cod": 10746,
      "nome": "TESOURA GRD TUUT (19,5CM)",
      "marca": "TUUT",
@@ -12856,25 +12829,11 @@
      "img": "produtos/6920.jpg"
     },
     {
-     "cod": 2963,
-     "nome": "TESOURA S/P TRAMONTINA",
+     "cod": 3702,
+     "nome": "TESOURA S/P TRAMONTINA-ROXO",
      "marca": "TRAMONTINA",
      "preco": 15.9,
-     "img": "produtos/2963.jpg",
-     "cores": [
-      {
-       "cod": 2963,
-       "cor": "Preta",
-       "nome": "TESOURA S/P TRAMONTINA-PRETA",
-       "img": "produtos/2963.jpg"
-      },
-      {
-       "cod": 3702,
-       "cor": "Roxo",
-       "nome": "TESOURA S/P TRAMONTINA-ROXO",
-       "img": "produtos/3702.jpg"
-      }
-     ]
+     "img": "produtos/3702.jpg"
     },
     {
      "cod": 2964,
@@ -17341,6 +17300,13 @@
      "img": "produtos/948.jpg"
     },
     {
+     "cod": 949,
+     "nome": "COPO 300ML PS C/100-TOTAL",
+     "marca": "TOTALPLAST",
+     "preco": 8.9,
+     "img": "produtos/949.jpg"
+    },
+    {
      "cod": 14407,
      "nome": "COPO 400ML PS C/50-COPOMAIS",
      "marca": "COPOMAIS",
@@ -17355,11 +17321,25 @@
      "img": "produtos/8806.jpg"
     },
     {
+     "cod": 952,
+     "nome": "COPO 400ML PS C/50-TOTAL",
+     "marca": "TOTALPLAST",
+     "preco": 9.9,
+     "img": "produtos/952.jpg"
+    },
+    {
      "cod": 14408,
      "nome": "COPO 500ML PS C/50-COPOMAIS",
      "marca": "COPOMAIS",
      "preco": 10.9,
      "img": "produtos/14408.jpg"
+    },
+    {
+     "cod": 954,
+     "nome": "COPO 500ML PS C/50-TOTAL",
+     "marca": "TOTALPLAST",
+     "preco": 11.9,
+     "img": "produtos/954.jpg"
     },
     {
      "cod": 14403,
@@ -17949,13 +17929,6 @@
      "img": "produtos/6942.jpg"
     },
     {
-     "cod": 452,
-     "nome": "CAIXA ISOPOR 3 LITROS",
-     "marca": "",
-     "preco": 7.9,
-     "img": "produtos/452.jpg"
-    },
-    {
      "cod": 7359,
      "nome": "CAIXA ISOPOR 35 LITROS",
      "marca": "",
@@ -17970,13 +17943,6 @@
      "img": "produtos/6946.jpg"
     },
     {
-     "cod": 8229,
-     "nome": "CAIXA ISOPOR 5 LITROS",
-     "marca": "ISOMAX",
-     "preco": 10.9,
-     "img": "produtos/8229.jpg"
-    },
-    {
      "cod": 7361,
      "nome": "CAIXA ISOPOR 50 LITROS",
      "marca": "",
@@ -17989,13 +17955,6 @@
      "marca": "",
      "preco": 95.9,
      "img": "produtos/6944.jpg"
-    },
-    {
-     "cod": 6939,
-     "nome": "CAIXA ISOPOR 8 LITROS",
-     "marca": "",
-     "preco": 16.9,
-     "img": "produtos/6939.jpg"
     },
     {
      "cod": 7360,
