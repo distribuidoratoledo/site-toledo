@@ -12598,7 +12598,7 @@
      "cod": 2740,
      "nome": "SACO ADESIVADO 10X25 C/100",
      "marca": "CROMUS",
-     "preco": 26.9,
+     "preco": 29.9,
      "img": "produtos/2740.jpg"
     },
     {
@@ -12612,7 +12612,7 @@
      "cod": 2741,
      "nome": "SACO ADESIVADO 15X20 C/100",
      "marca": "CROMUS",
-     "preco": 29.9,
+     "preco": 18.9,
      "img": "produtos/2741.jpg"
     },
     {
@@ -12647,7 +12647,7 @@
      "cod": 2745,
      "nome": "SACO ADESIVADO 6,5X9 C/100",
      "marca": "CROMUS",
-     "preco": 10.5,
+     "preco": 11.9,
      "img": "produtos/2745.jpg"
     },
     {
@@ -14730,6 +14730,20 @@
      "img": "produtos/7170.jpg"
     },
     {
+     "cod": 1065,
+     "nome": "ENV. CARTA S/CEP 114X162 (COF 010)",
+     "marca": "",
+     "preco": 0.1,
+     "img": "produtos/1065.jpg"
+    },
+    {
+     "cod": 1098,
+     "nome": "ENV. VISITA BRANCO (COF 050) SCRITY",
+     "marca": "SCRITY",
+     "preco": 0.15,
+     "img": "produtos/1098.jpg"
+    },
+    {
      "cod": 1039,
      "nome": "ENVELOPE BRC 162X229 (SOF 023)",
      "marca": "SCRITY",
@@ -14798,13 +14812,6 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1082.jpg"
-    },
-    {
-     "cod": 1065,
-     "nome": "ENVELOPE CARTA S/CEP 114X162 (COF 010)",
-     "marca": "",
-     "preco": 0.1,
-     "img": "produtos/1065.jpg"
     },
     {
      "cod": 1070,
@@ -14910,13 +14917,6 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1094.jpg"
-    },
-    {
-     "cod": 1098,
-     "nome": "ENVELOPE VISITA BRANCO (COF 050) SCRITY",
-     "marca": "SCRITY",
-     "preco": 0.15,
-     "img": "produtos/1098.jpg"
     },
     {
      "cod": 1095,
