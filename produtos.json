@@ -9011,6 +9011,13 @@
      "img": "produtos/2099.jpg"
     },
     {
+     "cod": 2100,
+     "nome": "PAPEL FOTO A4-180GR C/50-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 29.9,
+     "img": "produtos/2100.jpg"
+    },
+    {
      "cod": 4344,
      "nome": "PAPEL FOTO A4-230GR C/20-MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -9114,6 +9121,13 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/7098.jpg"
+    },
+    {
+     "cod": 2137,
+     "nome": "SEDA BRANCA",
+     "marca": "V.M.P",
+     "preco": 0.4,
+     "img": "produtos/2137.jpg"
     },
     {
      "cod": 2139,
@@ -11189,6 +11203,13 @@
      "img": "produtos/2465.jpg"
     },
     {
+     "cod": 13579,
+     "nome": "PORTA OBJETO 1 LUG ARAMADO-CINZA/PRATA",
+     "marca": "KIT",
+     "preco": 10.9,
+     "img": "produtos/13579.jpg"
+    },
+    {
      "cod": 13782,
      "nome": "PORTA OBJETO 1 LUG ARAMADO-PRETO (QUADRADO)",
      "marca": "",
@@ -12842,6 +12863,20 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg"
+    },
+    {
+     "cod": 6721,
+     "nome": "TESOURA S/P TRAMONTINA (CORES)",
+     "marca": "TRAMONTINA",
+     "preco": 15.9,
+     "img": "produtos/6721.jpg"
+    },
+    {
+     "cod": 2963,
+     "nome": "TESOURA S/P TRAMONTINA-PRETA",
+     "marca": "TRAMONTINA",
+     "preco": 15.9,
+     "img": "produtos/2963.jpg"
     },
     {
      "cod": 2964,
@@ -22366,25 +22401,11 @@
      "img": "produtos/167.jpg"
     },
     {
-     "cod": 9785,
-     "nome": "FITA CETIM N1 7MMX10MT",
+     "cod": 9062,
+     "nome": "FITA CETIM N1 7MMX10MT-AZUL ROYAL",
      "marca": "PROGRESSO",
      "preco": 4.9,
-     "img": "produtos/9785.jpg",
-     "cores": [
-      {
-       "cod": 9785,
-       "cor": "Azul Marinho",
-       "nome": "FITA CETIM N1 7MMX10MT-AZUL MARINHO",
-       "img": "produtos/9785.jpg"
-      },
-      {
-       "cod": 9062,
-       "cor": "Azul Royal",
-       "nome": "FITA CETIM N1 7MMX10MT-AZUL ROYAL",
-       "img": "produtos/9062.jpg"
-      }
-     ]
+     "img": "produtos/9062.jpg"
     },
     {
      "cod": 13751,
