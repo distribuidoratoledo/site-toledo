@@ -7921,11 +7921,25 @@
      "img": "produtos/12117.jpg"
     },
     {
+     "cod": 1541,
+     "nome": "GRAMPO 9/10 C/5000-BACCHI",
+     "marca": "BACCHI",
+     "preco": 34.9,
+     "img": "produtos/1541.jpg"
+    },
+    {
      "cod": 3480,
      "nome": "GRAMPO 9/10-23/10-24/10 C/5000-CHAPARRAU",
      "marca": "CHAPARRAU",
      "preco": 35.9,
      "img": "produtos/3480.jpg"
+    },
+    {
+     "cod": 14484,
+     "nome": "GRAMPO 9/14 C/5000-BACCHI",
+     "marca": "BACCHI",
+     "preco": 42.9,
+     "img": "produtos/14484.jpg"
     },
     {
      "cod": 1545,
@@ -12581,11 +12595,25 @@
      "img": "produtos/4432.jpg"
     },
     {
+     "cod": 2740,
+     "nome": "SACO ADESIVADO 10X25 C/100",
+     "marca": "CROMUS",
+     "preco": 26.9,
+     "img": "produtos/2740.jpg"
+    },
+    {
      "cod": 13540,
      "nome": "SACO ADESIVADO 10X25 C/50",
      "marca": "",
      "preco": 10.9,
      "img": "produtos/13540.jpg"
+    },
+    {
+     "cod": 2741,
+     "nome": "SACO ADESIVADO 15X20 C/100",
+     "marca": "CROMUS",
+     "preco": 29.9,
+     "img": "produtos/2741.jpg"
     },
     {
      "cod": 2743,
@@ -15537,6 +15565,13 @@
      "marca": "WESTERN",
      "preco": 76.9,
      "img": "produtos/2368.jpg"
+    },
+    {
+     "cod": 2369,
+     "nome": "PISTOLA COLA PROFISSIONAL 60W-GRAMP LINE",
+     "marca": "GRAMP LINE",
+     "preco": 99.9,
+     "img": "produtos/2369.jpg"
     },
     {
      "cod": 8937,
