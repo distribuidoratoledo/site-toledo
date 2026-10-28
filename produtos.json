@@ -10584,13 +10584,6 @@
      "img": "produtos/7431.jpg"
     },
     {
-     "cod": 7436,
-     "nome": "ETIQUETA GRESPAN 6182 C/100 (14) GC282",
-     "marca": "GRESPAN",
-     "preco": 74.9,
-     "img": "produtos/7436.jpg"
-    },
-    {
      "cod": 7437,
      "nome": "ETIQUETA GRESPAN 6182 C/25 (14) GC282",
      "marca": "GRESPAN",
@@ -12519,13 +12512,6 @@
      "img": "produtos/2277.jpg"
     },
     {
-     "cod": 2276,
-     "nome": "PASTA SUSPENSA C/10 S/PL KRAFT",
-     "marca": "TIMPEL",
-     "preco": 45.9,
-     "img": "produtos/2276.jpg"
-    },
-    {
      "cod": 2278,
      "nome": "PASTA SUSPENSA PP CRISTAL",
      "marca": "POLIBRAS",
@@ -12856,13 +12842,6 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg"
-    },
-    {
-     "cod": 6920,
-     "nome": "TESOURA S/P TRAMONTINA (CORES)",
-     "marca": "TRAMONTINA",
-     "preco": 15.9,
-     "img": "produtos/6920.jpg"
     },
     {
      "cod": 2964,
@@ -17958,13 +17937,6 @@
      "img": "produtos/6942.jpg"
     },
     {
-     "cod": 452,
-     "nome": "CAIXA ISOPOR 3 LITROS",
-     "marca": "",
-     "preco": 7.9,
-     "img": "produtos/452.jpg"
-    },
-    {
      "cod": 7359,
      "nome": "CAIXA ISOPOR 35 LITROS",
      "marca": "",
@@ -20854,7 +20826,7 @@
      "cod": 2827,
      "nome": "SACOLA BRANCA 50X60 C/100",
      "marca": "",
-     "preco": 9.9,
+     "preco": 12.9,
      "img": "produtos/2827.jpg"
     },
     {
@@ -21298,13 +21270,6 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg"
-    },
-    {
-     "cod": 14295,
-     "nome": "BOBINA PICOT. 35X45 C/500-EBAO",
-     "marca": "EBAO",
-     "preco": 36.9,
-     "img": "produtos/14295.jpg"
     },
     {
      "cod": 6965,
