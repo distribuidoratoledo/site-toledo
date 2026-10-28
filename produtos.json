@@ -1498,6 +1498,20 @@
      "img": "produtos/1657.jpg"
     },
     {
+     "cod": 1659,
+     "nome": "LAPIS 24CORES-MAPED",
+     "marca": "MAPED",
+     "preco": 28.9,
+     "img": "produtos/1659.jpg"
+    },
+    {
+     "cod": 1661,
+     "nome": "LAPIS 36CORES-FABER",
+     "marca": "FABER",
+     "preco": 89.9,
+     "img": "produtos/1661.jpg"
+    },
+    {
      "cod": 4869,
      "nome": "LAPIS 6CORES NEON-MAPED",
      "marca": "MAPED",
@@ -1844,6 +1858,13 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/10314.jpg"
+    },
+    {
+     "cod": 4122,
+     "nome": "LAPIS ESCREVER FABER REDONDO",
+     "marca": "FABER",
+     "preco": 1.5,
+     "img": "produtos/4122.jpg"
     },
     {
      "cod": 5836,
@@ -18084,6 +18105,13 @@
      "img": "produtos/3991.jpg"
     },
     {
+     "cod": 1009,
+     "nome": "DISCO ISOPOR 25CM C/200",
+     "marca": "",
+     "preco": 89.9,
+     "img": "produtos/1009.jpg"
+    },
+    {
      "cod": 1010,
      "nome": "DISCO ISOPOR 30CM C/200",
      "marca": "",
@@ -19736,10 +19764,17 @@
      "img": "produtos/1341.jpg"
     },
     {
+     "cod": 1344,
+     "nome": "FORMA ALUM D5 (170X215) 1.100ML C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 139.9,
+     "img": "produtos/1344.jpg"
+    },
+    {
      "cod": 1345,
      "nome": "FORMA ALUM D5 (170X224) 1.100ML C/100-BOREDA",
      "marca": "BOREDA",
-     "preco": 137.9,
+     "preco": 139.9,
      "img": "produtos/1345.jpg"
     },
     {
@@ -19750,11 +19785,25 @@
      "img": "produtos/1347.jpg"
     },
     {
+     "cod": 14487,
+     "nome": "FORMA ALUM D6 (122X162) 500ML C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 79.9,
+     "img": "produtos/14487.jpg"
+    },
+    {
      "cod": 1348,
      "nome": "FORMA ALUM D7 (131X201) 750ML C/100-BOREDA",
      "marca": "BOREDA",
      "preco": 105.9,
      "img": "produtos/1348.jpg"
+    },
+    {
+     "cod": 1350,
+     "nome": "FORMA ALUM D8 (185X275) 1.500ML C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 204.9,
+     "img": "produtos/1350.jpg"
     },
     {
      "cod": 7818,
@@ -22036,6 +22085,13 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg"
+    },
+    {
+     "cod": 6860,
+     "nome": "SACOLA KRAFT (PP) C/10",
+     "marca": "",
+     "preco": 12.9,
+     "img": "produtos/6860.jpg"
     },
     {
      "cod": 2829,
