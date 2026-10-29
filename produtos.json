@@ -8358,12 +8358,18 @@
      "img": "produtos/5083.jpg"
     },
     {
-     "cod": 741,
+     "cod": 740,
      "nome": "CARTAO",
-     "marca": "",
+     "marca": "GRIFFE",
      "preco": 1.6,
-     "img": "produtos/741.jpg",
+     "img": "produtos/740.jpg",
      "cores": [
+      {
+       "cod": 740,
+       "cor": "Amarelo",
+       "nome": "CARTAO-AMARELO",
+       "img": "produtos/740.jpg"
+      },
       {
        "cod": 741,
        "cor": "Azul Claro",
@@ -8579,6 +8585,12 @@
        "img": "produtos/2063.jpg"
       },
       {
+       "cod": 2064,
+       "cor": "Verde Claro",
+       "nome": "COLORSETE A4 C/50 VERDE CLARO",
+       "img": "produtos/2064.jpg"
+      },
+      {
        "cod": 2065,
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
@@ -8610,6 +8622,12 @@
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg"
+      },
+      {
+       "cod": 2039,
+       "cor": "Azul Escuro",
+       "nome": "COLORSETE-AZUL ESCURO",
+       "img": "produtos/2039.jpg"
       },
       {
        "cod": 2041,
@@ -19952,6 +19970,13 @@
      "img": "produtos/11897.jpg"
     },
     {
+     "cod": 3301,
+     "nome": "CANUDO SACHE 5MM C/100",
+     "marca": "",
+     "preco": 6.9,
+     "img": "produtos/3301.jpg"
+    },
+    {
      "cod": 3932,
      "nome": "CANUDO SACHE 6MM (FLEX) C/100",
      "marca": "PLASTSUL",
@@ -21382,13 +21407,6 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg"
-    },
-    {
-     "cod": 5547,
-     "nome": "PAPEL KRAFT 60CM/80G C/150MT (BOBINA)",
-     "marca": "MGPAPEL",
-     "preco": 119.9,
-     "img": "produtos/5547.jpg"
     }
    ]
   },
