@@ -10933,6 +10933,13 @@
      "img": "produtos/1013.jpg"
     },
     {
+     "cod": 14489,
+     "nome": "ENVELOPE ECOMMERCE-26X36 BRC.",
+     "marca": "MAXCRIL",
+     "preco": 1.2,
+     "img": "produtos/14489.jpg"
+    },
+    {
      "cod": 9251,
      "nome": "ENVELOPE SEGURANÇA ECOMMERCE-20X30 (CINZA)",
      "marca": "MAXCRIL",
@@ -10940,18 +10947,11 @@
      "img": "produtos/9251.jpg"
     },
     {
-     "cod": 9252,
-     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
-     "marca": "MAXCRIL",
-     "preco": 1.2,
-     "img": "produtos/9252.jpg"
-    },
-    {
-     "cod": 9253,
-     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (CINZA)",
+     "cod": 14490,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (BRANCO)",
      "marca": "MAXCRIL",
      "preco": 1.5,
-     "img": "produtos/9253.jpg"
+     "img": "produtos/14490.jpg"
     },
     {
      "cod": 9254,
@@ -24923,13 +24923,6 @@
        "img": "produtos/8463.jpg"
       }
      ]
-    },
-    {
-     "cod": 48,
-     "nome": "APONTADOR FABER C/D JUMBO",
-     "marca": "FABER",
-     "preco": 5.9,
-     "img": "produtos/48.jpg"
     },
     {
      "cod": 8736,
