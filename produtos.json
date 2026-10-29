@@ -3450,13 +3450,6 @@
      "img": "produtos/13533.jpg"
     },
     {
-     "cod": 14310,
-     "nome": "CADERNETA ESP. CD 75F + 1 CANETA BAMBU",
-     "marca": "LORIGRAF",
-     "preco": 14.9,
-     "img": "produtos/14310.jpg"
-    },
-    {
      "cod": 6064,
      "nome": "CADERNETA ESP. MEDIA 48F-PANAMERICA",
      "marca": "PANAMERICA",
@@ -7940,6 +7933,13 @@
      "marca": "BACCHI",
      "preco": 34.9,
      "img": "produtos/1541.jpg"
+    },
+    {
+     "cod": 1540,
+     "nome": "GRAMPO 9/10-23/10 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 46.9,
+     "img": "produtos/1540.jpg"
     },
     {
      "cod": 3480,
