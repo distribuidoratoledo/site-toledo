@@ -6821,13 +6821,6 @@
      "img": "produtos/823.jpg"
     },
     {
-     "cod": 7506,
-     "nome": "COLA LIQUIDA 1000GR-MAKE +",
-     "marca": "MAKE +",
-     "preco": 19.9,
-     "img": "produtos/7506.jpg"
-    },
-    {
      "cod": 825,
      "nome": "COLA LIQUIDA 1000GR-NEW MAGIC",
      "marca": "NEW MAGIC",
@@ -12540,6 +12533,13 @@
      "img": "produtos/2277.jpg"
     },
     {
+     "cod": 2276,
+     "nome": "PASTA SUSPENSA C/10 S/PL KRAFT",
+     "marca": "TIMPEL",
+     "preco": 45.9,
+     "img": "produtos/2276.jpg"
+    },
+    {
      "cod": 2278,
      "nome": "PASTA SUSPENSA PP CRISTAL",
      "marca": "POLIBRAS",
@@ -12780,6 +12780,13 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg"
+    },
+    {
+     "cod": 2959,
+     "nome": "TESOURA GRD TRAMONTINA",
+     "marca": "TRAMONTINA",
+     "preco": 24.9,
+     "img": "produtos/2959.jpg"
     },
     {
      "cod": 10746,
@@ -16265,6 +16272,13 @@
    "nome": "Lacre e Cadeado",
    "itens": [
     {
+     "cod": 6962,
+     "nome": "ABRAÇADEIRA BRANCA 200X2,5MM C/100",
+     "marca": "FOXLUX",
+     "preco": 12.9,
+     "img": "produtos/6962.jpg"
+    },
+    {
      "cod": 6961,
      "nome": "ABRAÇADEIRA BRANCA 280X3,5MM C/100",
      "marca": "FOXLUX",
@@ -18886,13 +18900,6 @@
      "img": "produtos/1415.jpg"
     },
     {
-     "cod": 3957,
-     "nome": "FORMA GA10 C/100",
-     "marca": "GALVANOTEK",
-     "preco": 61.9,
-     "img": "produtos/3957.jpg"
-    },
-    {
      "cod": 5774,
      "nome": "FORMA GA18 C/10",
      "marca": "GALVANOTEK",
@@ -21195,15 +21202,8 @@
      "img": "produtos/244.jpg"
     },
     {
-     "cod": 247,
-     "nome": "BOBINA ESTRELA (G) 38X55 C/280",
-     "marca": "",
-     "preco": 27.9,
-     "img": "produtos/247.jpg"
-    },
-    {
      "cod": 13858,
-     "nome": "BOBINA ESTRELA (G) 38X55 C/500-HIPERROLL",
+     "nome": "BOBINA ESTRELA (G) 38X55 C/250-HIPERROLL",
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg"
@@ -21216,13 +21216,6 @@
      "img": "produtos/13857.jpg"
     },
     {
-     "cod": 245,
-     "nome": "BOBINA ESTRELA (P) 25X40 C/450",
-     "marca": "",
-     "preco": 19.9,
-     "img": "produtos/245.jpg"
-    },
-    {
      "cod": 13856,
      "nome": "BOBINA ESTRELA (P) 25X40 C/500-HIPERROLL",
      "marca": "HIPERROLL",
@@ -21231,7 +21224,7 @@
     },
     {
      "cod": 13859,
-     "nome": "BOBINA ESTRELA (XG) 40X70-HIPERROLL",
+     "nome": "BOBINA ESTRELA (XG) 40X70 C/200-HIPERROLL",
      "marca": "HIPERROLL",
      "preco": 28.9,
      "img": "produtos/13859.jpg"
@@ -24736,6 +24729,13 @@
      "marca": "GIFO",
      "preco": 8.9,
      "img": "produtos/3542.jpg"
+    },
+    {
+     "cod": 3543,
+     "nome": "PULVERIZADOR 500ML BOLA",
+     "marca": "TIBA",
+     "preco": 9.9,
+     "img": "produtos/3543.jpg"
     },
     {
      "cod": 9849,
