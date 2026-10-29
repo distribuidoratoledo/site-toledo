@@ -9032,13 +9032,6 @@
      "img": "produtos/2113.jpg"
     },
     {
-     "cod": 14085,
-     "nome": "PAPEL KRAFT A4 C/50",
-     "marca": "ASSETE",
-     "preco": 18.9,
-     "img": "produtos/14085.jpg"
-    },
-    {
      "cod": 6667,
      "nome": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
      "marca": "GRIFFE",
@@ -10945,6 +10938,20 @@
      "marca": "MAXCRIL",
      "preco": 0.6,
      "img": "produtos/9251.jpg"
+    },
+    {
+     "cod": 9252,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
+     "marca": "MAXCRIL",
+     "preco": 1.2,
+     "img": "produtos/9252.jpg"
+    },
+    {
+     "cod": 9253,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (CINZA)",
+     "marca": "MAXCRIL",
+     "preco": 1.5,
+     "img": "produtos/9253.jpg"
     },
     {
      "cod": 9254,
@@ -15021,13 +15028,6 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/1130.jpg"
-    },
-    {
-     "cod": 1119,
-     "nome": "ESPIRAL 12MM P/70F C/100",
-     "marca": "",
-     "preco": 31.9,
-     "img": "produtos/1119.jpg"
     },
     {
      "cod": 1120,
@@ -21547,7 +21547,7 @@
      "cod": 4314,
      "nome": "LIXO PRETO 100L C/100 (S.FORTE) GERAPLAST",
      "marca": "GERAPLAST",
-     "preco": 109.9,
+     "preco": 96.9,
      "img": "produtos/4314.jpg"
     },
     {
