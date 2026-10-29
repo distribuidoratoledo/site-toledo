@@ -6533,6 +6533,13 @@
      "marca": "INK ROLLER",
      "preco": 20.9,
      "img": "produtos/2665.jpg"
+    },
+    {
+     "cod": 2667,
+     "nome": "ROLETE OPEN C8/P6 (OPEN) INK ROLLER",
+     "marca": "INK ROLLER",
+     "preco": 21.9,
+     "img": "produtos/2667.jpg"
     }
    ]
   },
@@ -24311,6 +24318,13 @@
      "marca": "PREMISSE",
      "preco": 4.9,
      "img": "produtos/9802.jpg"
+    },
+    {
+     "cod": 7120,
+     "nome": "PORTA COPO 200ML-ESMALTADO",
+     "marca": "AURIMAR",
+     "preco": 49.9,
+     "img": "produtos/7120.jpg"
     },
     {
      "cod": 2444,
