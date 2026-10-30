@@ -17299,6 +17299,13 @@
      "img": "produtos/6878.jpg"
     },
     {
+     "cod": 14515,
+     "nome": "ACOPLADO SANDUICHE 30X38 C/200 (ALUMINIZADO)",
+     "marca": "",
+     "preco": 54.9,
+     "img": "produtos/14515.jpg"
+    },
+    {
      "cod": 6936,
      "nome": "ACOPLADO SANDUICHE 30X38 C/400",
      "marca": "",
@@ -20733,7 +20740,7 @@
      "cod": 9185,
      "nome": "SACO VACUO 15X25 C/500 (0.8)",
      "marca": "PARMA",
-     "preco": 88.9,
+     "preco": 69.9,
      "img": "produtos/9185.jpg"
     },
     {
@@ -20777,6 +20784,13 @@
      "marca": "ALIPROT",
      "preco": 122.9,
      "img": "produtos/5069.jpg"
+    },
+    {
+     "cod": 14514,
+     "nome": "SACO VACUO 30X40 C/500 (0.12)",
+     "marca": "",
+     "preco": 289.0,
+     "img": "produtos/14514.jpg"
     },
     {
      "cod": 7178,
