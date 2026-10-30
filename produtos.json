@@ -435,12 +435,25 @@
        "img": "produtos/570.jpg"
       },
       {
+       "cod": 14365,
+       "cor": "Verde",
+       "nome": "CANETA COMPACTOR-VERDE",
+       "img": "produtos/14365.jpg"
+      },
+      {
        "cod": 571,
        "cor": "Vermelha",
        "nome": "CANETA COMPACTOR-VERMELHA",
        "img": "produtos/571.jpg"
       }
      ]
+    },
+    {
+     "cod": 5084,
+     "nome": "CANETA COMPACTOR-ROSA",
+     "marca": "COMPACTOR",
+     "preco": 2.0,
+     "img": "produtos/5084.jpg"
     },
     {
      "cod": 10288,
@@ -1252,6 +1265,13 @@
      "marca": "FABER",
      "preco": 24.9,
      "img": "produtos/12959.jpg"
+    },
+    {
+     "cod": 6775,
+     "nome": "CANETINHA C/12-MIRIM COMPACTOR",
+     "marca": "COMPACTOR",
+     "preco": 11.9,
+     "img": "produtos/6775.jpg"
     },
     {
      "cod": 12306,
@@ -2397,6 +2417,33 @@
      ]
     },
     {
+     "cod": 2330,
+     "nome": "PINCEL COMPACTOR",
+     "marca": "COMPACTOR",
+     "preco": 3.0,
+     "img": "produtos/2330.jpg",
+     "cores": [
+      {
+       "cod": 2330,
+       "cor": "Azul",
+       "nome": "PINCEL COMPACTOR-AZUL",
+       "img": "produtos/2330.jpg"
+      },
+      {
+       "cod": 2331,
+       "cor": "Preto",
+       "nome": "PINCEL COMPACTOR-PRETO",
+       "img": "produtos/2331.jpg"
+      },
+      {
+       "cod": 2333,
+       "cor": "Vermelho",
+       "nome": "PINCEL COMPACTOR-VERMELHO",
+       "img": "produtos/2333.jpg"
+      }
+     ]
+    },
+    {
      "cod": 11855,
      "nome": "PINCEL Q.BRC RECAR. BRW",
      "marca": "BRW",
@@ -2835,6 +2882,13 @@
      "marca": "BRW",
      "preco": 6.9,
      "img": "produtos/1712.jpg"
+    },
+    {
+     "cod": 1713,
+     "nome": "LAPISEIRA 0.9-COMPACTOR ALUNO AMARELA",
+     "marca": "COMPACTOR",
+     "preco": 5.9,
+     "img": "produtos/1713.jpg"
     },
     {
      "cod": 12222,
@@ -9710,13 +9764,6 @@
      "marca": "",
      "preco": 2.6,
      "img": "produtos/10371.jpg"
-    },
-    {
-     "cod": 11000,
-     "nome": "PINCEL CHATO 06",
-     "marca": "",
-     "preco": 3.5,
-     "img": "produtos/11000.jpg"
     },
     {
      "cod": 10999,
@@ -24921,25 +24968,11 @@
      "img": "produtos/4811.jpg"
     },
     {
-     "cod": 13031,
-     "nome": "APONTADOR FABER C/D DINOSSAURO",
+     "cod": 13032,
+     "nome": "APONTADOR FABER C/D DINOSSAURO-VERDE",
      "marca": "FABER",
      "preco": 11.9,
-     "img": "produtos/13031.jpg",
-     "cores": [
-      {
-       "cod": 13031,
-       "cor": "Azul",
-       "nome": "APONTADOR FABER C/D DINOSSAURO-AZUL",
-       "img": "produtos/13031.jpg"
-      },
-      {
-       "cod": 13032,
-       "cor": "Verde",
-       "nome": "APONTADOR FABER C/D DINOSSAURO-VERDE",
-       "img": "produtos/13032.jpg"
-      }
-     ]
+     "img": "produtos/13032.jpg"
     },
     {
      "cod": 8464,
