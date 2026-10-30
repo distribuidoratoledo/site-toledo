@@ -8228,13 +8228,6 @@
      "img": "produtos/7756.jpg"
     },
     {
-     "cod": 680,
-     "nome": "CARTAO PONTO C/100-TILIBRA",
-     "marca": "TILIBRA",
-     "preco": 21.9,
-     "img": "produtos/680.jpg"
-    },
-    {
      "cod": 3589,
      "nome": "PEDIDO OFICIO 1V 50F-GRIFFE",
      "marca": "GRIFFE",
@@ -16474,6 +16467,13 @@
      "img": "produtos/986.jpg"
     },
     {
+     "cod": 8902,
+     "nome": "CRACHA HORIZONTAL+PRESILHA",
+     "marca": "DAC",
+     "preco": 2.0,
+     "img": "produtos/8902.jpg"
+    },
+    {
      "cod": 6796,
      "nome": "CRACHA VERTICAL + PRESILHA (10X7CM)",
      "marca": "DAC",
@@ -17960,13 +17960,6 @@
      "marca": "ISOMAX",
      "preco": 14.9,
      "img": "produtos/9934.jpg"
-    },
-    {
-     "cod": 6943,
-     "nome": "CAIXA ISOPOR 100 LITROS",
-     "marca": "",
-     "preco": 139.9,
-     "img": "produtos/6943.jpg"
     },
     {
      "cod": 6941,
@@ -20737,6 +20730,13 @@
      "img": "produtos/2808.jpg"
     },
     {
+     "cod": 9185,
+     "nome": "SACO VACUO 15X25 C/500 (0.8)",
+     "marca": "PARMA",
+     "preco": 88.9,
+     "img": "produtos/9185.jpg"
+    },
+    {
      "cod": 9182,
      "nome": "SACO VACUO 15X30 C/500 (0.8)",
      "marca": "PARMA",
@@ -21133,6 +21133,12 @@
        "cor": "Prata",
        "nome": "SACOLA PH 40X50 C/50-PRATA",
        "img": "produtos/7753.jpg"
+      },
+      {
+       "cod": 14516,
+       "cor": "Rosa Bebe",
+       "nome": "SACOLA PH 40X50 C/50-ROSA BEBE",
+       "img": "produtos/14516.jpg"
       }
      ]
     },
@@ -23508,13 +23514,6 @@
      "img": "produtos/14230.jpg"
     },
     {
-     "cod": 4644,
-     "nome": "LIXEIRA PEDAL 100L BRANCA",
-     "marca": "LARPLAST",
-     "preco": 519.9,
-     "img": "produtos/4644.jpg"
-    },
-    {
      "cod": 7836,
      "nome": "LIXEIRA PEDAL 10L PRETA",
      "marca": "TOYPLAST",
@@ -24048,13 +24047,6 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg"
-    },
-    {
-     "cod": 14416,
-     "nome": "TOUCA DESCARTAVEL C/100 PRETA",
-     "marca": "",
-     "preco": 12.9,
-     "img": "produtos/14416.jpg"
     },
     {
      "cod": 7275,
