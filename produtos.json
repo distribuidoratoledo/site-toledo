@@ -1270,7 +1270,7 @@
      "cod": 6775,
      "nome": "CANETINHA C/12-MIRIM COMPACTOR",
      "marca": "COMPACTOR",
-     "preco": 11.9,
+     "preco": 12.9,
      "img": "produtos/6775.jpg"
     },
     {
@@ -2252,7 +2252,7 @@
      "cod": 6467,
      "nome": "JOGO PINCEL COMPACTOR C/12",
      "marca": "COMPACTOR",
-     "preco": 28.9,
+     "preco": 29.9,
      "img": "produtos/6467.jpg"
     },
     {
@@ -25699,6 +25699,13 @@
    "slug": "marca-texto",
    "nome": "Marca Texto",
    "itens": [
+    {
+     "cod": 14377,
+     "nome": "KIT MARCA TEXTO COMPACTOR C/4-CORES",
+     "marca": "COMPACTOR",
+     "preco": 17.9,
+     "img": "produtos/14377.jpg"
+    },
     {
      "cod": 14241,
      "nome": "KIT MARCA TEXTO MAPED TONS PASTEL C/4",
