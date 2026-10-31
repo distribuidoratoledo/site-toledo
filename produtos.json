@@ -449,10 +449,17 @@
      ]
     },
     {
+     "cod": 14374,
+     "nome": "CANETA COMPACTOR-AZUL FRUIT-TELLA",
+     "marca": "COMPACTOR",
+     "preco": 1.9,
+     "img": "produtos/14374.jpg"
+    },
+    {
      "cod": 5084,
      "nome": "CANETA COMPACTOR-ROSA",
      "marca": "COMPACTOR",
-     "preco": 2.0,
+     "preco": 1.9,
      "img": "produtos/5084.jpg"
     },
     {
@@ -708,6 +715,13 @@
      ]
     },
     {
+     "cod": 14398,
+     "nome": "CANETA GIZ LIQUIDO COMPACTOR DUAS PONTAS-BRANCO",
+     "marca": "COMPACTOR",
+     "preco": 42.9,
+     "img": "produtos/14398.jpg"
+    },
+    {
      "cod": 8823,
      "nome": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
      "marca": "BRW",
@@ -830,6 +844,20 @@
      "marca": "MAPED",
      "preco": 1.2,
      "img": "produtos/591.jpg"
+    },
+    {
+     "cod": 14379,
+     "nome": "CANETA MICROLINE-C/4 CORES",
+     "marca": "COMPACTOR",
+     "preco": 25.9,
+     "img": "produtos/14379.jpg"
+    },
+    {
+     "cod": 14397,
+     "nome": "CANETA MICROLINE-TONS CLAROS C/4",
+     "marca": "COMPACTOR",
+     "preco": 25.9,
+     "img": "produtos/14397.jpg"
     },
     {
      "cod": 12296,
@@ -1337,6 +1365,13 @@
      "img": "produtos/1577.jpg"
     },
     {
+     "cod": 14370,
+     "nome": "JOGO CANETA COMPACTOR C/8 CORES (JETLUX)",
+     "marca": "COMPACTOR",
+     "preco": 16.9,
+     "img": "produtos/14370.jpg"
+    },
+    {
      "cod": 12687,
      "nome": "JOGO PINCEL TRIS C/8",
      "marca": "TRIS",
@@ -1349,6 +1384,13 @@
      "marca": "CIS",
      "preco": 26.9,
      "img": "produtos/10826.jpg"
+    },
+    {
+     "cod": 14378,
+     "nome": "KIT ESCOLAR COMPACTOR FRUIT-TELLA (3 PÇ)",
+     "marca": "COMPACTOR",
+     "preco": 11.9,
+     "img": "produtos/14378.jpg"
     }
    ]
   },
@@ -2420,7 +2462,7 @@
      "cod": 2330,
      "nome": "PINCEL COMPACTOR",
      "marca": "COMPACTOR",
-     "preco": 3.0,
+     "preco": 3.9,
      "img": "produtos/2330.jpg",
      "cores": [
       {
@@ -2444,6 +2486,13 @@
      ]
     },
     {
+     "cod": 14367,
+     "nome": "PINCEL Q. BRC RECAR. COMPACTOR VERMELHO",
+     "marca": "COMPACTOR",
+     "preco": 10.9,
+     "img": "produtos/14367.jpg"
+    },
+    {
      "cod": 11855,
      "nome": "PINCEL Q.BRC RECAR. BRW",
      "marca": "BRW",
@@ -2461,6 +2510,34 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR. BRW-VERMELHO",
        "img": "produtos/11856.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 14368,
+     "nome": "PINCEL Q.BRC RECAR. COMPA -VERDE",
+     "marca": "COMPACTOR",
+     "preco": 10.9,
+     "img": "produtos/14368.jpg"
+    },
+    {
+     "cod": 14366,
+     "nome": "PINCEL Q.BRC RECAR. COMPACTOR",
+     "marca": "COMPACTOR",
+     "preco": 10.9,
+     "img": "produtos/14366.jpg",
+     "cores": [
+      {
+       "cod": 14366,
+       "cor": "Azul",
+       "nome": "PINCEL Q.BRC RECAR. COMPACTOR-AZUL",
+       "img": "produtos/14366.jpg"
+      },
+      {
+       "cod": 14369,
+       "cor": "Preto",
+       "nome": "PINCEL Q.BRC RECAR. COMPACTOR-PRETO",
+       "img": "produtos/14369.jpg"
       }
      ]
     },
@@ -2789,7 +2866,7 @@
      "cod": 7034,
      "nome": "LAPISEIRA 0.5-COMPACTOR ALUNO CORES",
      "marca": "COMPACTOR",
-     "preco": 10.9,
+     "preco": 8.9,
      "img": "produtos/7034.jpg"
     },
     {
@@ -2852,8 +2929,29 @@
      "cod": 7038,
      "nome": "LAPISEIRA 0.7-COMPACTOR ALUNO CORES",
      "marca": "COMPACTOR",
-     "preco": 10.9,
+     "preco": 8.9,
      "img": "produtos/7038.jpg"
+    },
+    {
+     "cod": 14371,
+     "nome": "LAPISEIRA 0.7-COMPACTOR ALUNO TONS PASTEIS",
+     "marca": "COMPACTOR",
+     "preco": 8.9,
+     "img": "produtos/14371.jpg"
+    },
+    {
+     "cod": 14372,
+     "nome": "LAPISEIRA 0.7-COMPACTOR LOOP CORES",
+     "marca": "COMPACTOR",
+     "preco": 3.9,
+     "img": "produtos/14372.jpg"
+    },
+    {
+     "cod": 14376,
+     "nome": "LAPISEIRA 0.7-COMPACTOR SOFT LINE CORES",
+     "marca": "COMPACTOR",
+     "preco": 9.9,
+     "img": "produtos/14376.jpg"
     },
     {
      "cod": 14437,
@@ -2887,7 +2985,7 @@
      "cod": 1713,
      "nome": "LAPISEIRA 0.9-COMPACTOR ALUNO AMARELA",
      "marca": "COMPACTOR",
-     "preco": 5.9,
+     "preco": 8.9,
      "img": "produtos/1713.jpg"
     },
     {
@@ -4295,13 +4393,6 @@
      "marca": "S.DOMINGOS",
      "preco": 30.9,
      "img": "produtos/5895.jpg"
-    },
-    {
-     "cod": 10897,
-     "nome": "CADERNO 1X1 80F-DUNGEONS & DRAGONS",
-     "marca": "CREDEAL",
-     "preco": 23.9,
-     "img": "produtos/10897.jpg"
     },
     {
      "cod": 12909,
@@ -9766,13 +9857,6 @@
      "img": "produtos/10371.jpg"
     },
     {
-     "cod": 10999,
-     "nome": "PINCEL CHATO 08",
-     "marca": "TIGRE",
-     "preco": 3.9,
-     "img": "produtos/10999.jpg"
-    },
-    {
      "cod": 6378,
      "nome": "PINCEL CHATO 10",
      "marca": "TIGRE",
@@ -12854,13 +12938,6 @@
      "img": "produtos/2959.jpg"
     },
     {
-     "cod": 10746,
-     "nome": "TESOURA GRD TUUT (19,5CM)",
-     "marca": "TUUT",
-     "preco": 12.9,
-     "img": "produtos/10746.jpg"
-    },
-    {
      "cod": 6635,
      "nome": "TESOURA PICOTAR GRD MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -14780,13 +14857,6 @@
      "marca": "XERYUS",
      "preco": 39.9,
      "img": "produtos/11177.jpg"
-    },
-    {
-     "cod": 13274,
-     "nome": "LANCHEIRA XERYUS- REAL MADRID",
-     "marca": "XERYUS",
-     "preco": 93.9,
-     "img": "produtos/13274.jpg"
     },
     {
      "cod": 8528,
@@ -17555,13 +17625,6 @@
      "img": "produtos/3338.jpg"
     },
     {
-     "cod": 11815,
-     "nome": "COPO LISO 500/550ML C/50-COPOZAN",
-     "marca": "COPOZAN",
-     "preco": 15.9,
-     "img": "produtos/11815.jpg"
-    },
-    {
      "cod": 953,
      "nome": "COPO LISO 500/550ML C/50-ULTRA",
      "marca": "ULTRA",
@@ -18217,13 +18280,6 @@
      "marca": "",
      "preco": 176.9,
      "img": "produtos/5987.jpg"
-    },
-    {
-     "cod": 1357,
-     "nome": "FRANGUEIRA ISOPOR H5 C/100",
-     "marca": "BOM APETIT",
-     "preco": 126.9,
-     "img": "produtos/1357.jpg"
     },
     {
      "cod": 4037,
@@ -19215,13 +19271,6 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg"
-    },
-    {
-     "cod": 1376,
-     "nome": "FORMA S642 C/300-ECO",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/1376.jpg"
     },
     {
      "cod": 9164,
@@ -20425,13 +20474,6 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/13027.jpg"
-    },
-    {
-     "cod": 2713,
-     "nome": "SACO 20X45 (0.6) TRANSPARENTE",
-     "marca": "MP",
-     "preco": 32.9,
-     "img": "produtos/2713.jpg"
     },
     {
      "cod": 2714,
@@ -25678,13 +25720,6 @@
        "img": "produtos/12674.jpg"
       }
      ]
-    },
-    {
-     "cod": 12712,
-     "nome": "APONTADOR TRIS S/D 1F-TEDDY MARROM",
-     "marca": "TRIS",
-     "preco": 12.9,
-     "img": "produtos/12712.jpg"
     },
     {
      "cod": 12730,
