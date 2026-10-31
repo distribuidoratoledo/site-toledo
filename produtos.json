@@ -2096,13 +2096,6 @@
      "img": "produtos/5704.jpg"
     },
     {
-     "cod": 12732,
-     "nome": "LAPIS ESCREVER TRIS COLLECTION TRIO",
-     "marca": "TRIS",
-     "preco": 2.0,
-     "img": "produtos/12732.jpg"
-    },
-    {
      "cod": 1673,
      "nome": "LAPIS FABER 2B (DESENHO)",
      "marca": "FABER",
@@ -3030,13 +3023,6 @@
      "img": "produtos/13138.jpg"
     },
     {
-     "cod": 12701,
-     "nome": "BORRACHA CANETA+APONTADOR C/D 1F-TRIS CORES",
-     "marca": "TRIS",
-     "preco": 14.9,
-     "img": "produtos/12701.jpg"
-    },
-    {
      "cod": 284,
      "nome": "BORRACHA FABER C/CP GIGANTE VERM.",
      "marca": "FABER",
@@ -3260,6 +3246,13 @@
        "img": "produtos/12698.jpg"
       }
      ]
+    },
+    {
+     "cod": 12701,
+     "nome": "CANETA BORRACHA+APONTADOR C/D 1F-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/12701.jpg"
     },
     {
      "cod": 7915,
@@ -9027,13 +9020,6 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg"
-    },
-    {
-     "cod": 3580,
-     "nome": "PAPEL 60KG A3 C/20FL-GRIFFE",
-     "marca": "",
-     "preco": 15.0,
-     "img": "produtos/3580.jpg"
     },
     {
      "cod": 6844,
