@@ -2995,6 +2995,13 @@
    "nome": "Borrachas",
    "itens": [
     {
+     "cod": 12701,
+     "nome": "AAPONTADOR TRIS C/D+BORR 1F-ALLBLACK CORES",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/12701.jpg"
+    },
+    {
      "cod": 275,
      "nome": "BORRACHA 20 LEO",
      "marca": "LEO E LEO",
@@ -3246,13 +3253,6 @@
        "img": "produtos/12698.jpg"
       }
      ]
-    },
-    {
-     "cod": 12701,
-     "nome": "CANETA BORRACHA+APONTADOR C/D 1F-TRIS CORES",
-     "marca": "TRIS",
-     "preco": 14.9,
-     "img": "produtos/12701.jpg"
     },
     {
      "cod": 7915,
@@ -10928,6 +10928,13 @@
      "img": "produtos/11715.jpg"
     },
     {
+     "cod": 467,
+     "nome": "CAIXA ORGANIZADORA G-AZUL",
+     "marca": "",
+     "preco": 59.9,
+     "img": "produtos/467.jpg"
+    },
+    {
      "cod": 10723,
      "nome": "CAIXA ORGANIZADORA M C/DIVISORIAS",
      "marca": "NITRON",
@@ -10956,11 +10963,25 @@
      ]
     },
     {
-     "cod": 3259,
-     "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
+     "cod": 4563,
+     "nome": "CAIXA ORGANIZADORA POLIBRAS G",
      "marca": "POLIBRAS",
-     "preco": 48.9,
-     "img": "produtos/3259.jpg"
+     "preco": 59.9,
+     "img": "produtos/4563.jpg",
+     "cores": [
+      {
+       "cod": 4563,
+       "cor": "Preta",
+       "nome": "CAIXA ORGANIZADORA POLIBRAS G-PRETA",
+       "img": "produtos/4563.jpg"
+      },
+      {
+       "cod": 3259,
+       "cor": "Vermelho",
+       "nome": "CAIXA ORGANIZADORA POLIBRAS G-VERMELHO",
+       "img": "produtos/3259.jpg"
+      }
+     ]
     },
     {
      "cod": 13749,
@@ -11576,13 +11597,6 @@
      "img": "produtos/7642.jpg"
     },
     {
-     "cod": 12618,
-     "nome": "RELOGIO PAREDE 25CM REDONDO PRETO/DOURADO",
-     "marca": "PLASHOME",
-     "preco": 30.9,
-     "img": "produtos/12618.jpg"
-    },
-    {
      "cod": 2917,
      "nome": "SUPORTE  FITA PVC-JOCAR",
      "marca": "JOCAR",
@@ -11692,39 +11706,6 @@
      "marca": "DAC",
      "preco": 39.9,
      "img": "produtos/8181.jpg"
-    },
-    {
-     "cod": 1803,
-     "nome": "MALETA ESCOLAR 4CM",
-     "marca": "POLIBRAS",
-     "preco": 17.9,
-     "img": "produtos/1803.jpg",
-     "cores": [
-      {
-       "cod": 1803,
-       "cor": "Amarela",
-       "nome": "MALETA ESCOLAR 4CM-AMARELA",
-       "img": "produtos/1803.jpg"
-      },
-      {
-       "cod": 1805,
-       "cor": "Azul",
-       "nome": "MALETA ESCOLAR 4CM-AZUL",
-       "img": "produtos/1805.jpg"
-      },
-      {
-       "cod": 1806,
-       "cor": "Verde",
-       "nome": "MALETA ESCOLAR 4CM-VERDE",
-       "img": "produtos/1806.jpg"
-      },
-      {
-       "cod": 1807,
-       "cor": "Vermelha",
-       "nome": "MALETA ESCOLAR 4CM-VERMELHA",
-       "img": "produtos/1807.jpg"
-      }
-     ]
     },
     {
      "cod": 14259,
@@ -11859,27 +11840,6 @@
      "marca": "ACP",
      "preco": 65.9,
      "img": "produtos/9882.jpg"
-    },
-    {
-     "cod": 6950,
-     "nome": "PASTA CATALOGO PRETA C/10",
-     "marca": "",
-     "preco": 16.9,
-     "img": "produtos/6950.jpg"
-    },
-    {
-     "cod": 6196,
-     "nome": "PASTA CATALOGO PRETA C/100",
-     "marca": "",
-     "preco": 37.9,
-     "img": "produtos/6196.jpg"
-    },
-    {
-     "cod": 6195,
-     "nome": "PASTA CATALOGO PRETA C/50",
-     "marca": "ACP",
-     "preco": 25.9,
-     "img": "produtos/6195.jpg"
     },
     {
      "cod": 14202,
@@ -12034,6 +11994,12 @@
        "cor": "Amarela",
        "nome": "PASTA GRAMPO TRILHO-AMARELA",
        "img": "produtos/2218.jpg"
+      },
+      {
+       "cod": 2219,
+       "cor": "Azul",
+       "nome": "PASTA GRAMPO TRILHO AZUL",
+       "img": "produtos/2219.jpg"
       },
       {
        "cod": 2220,
@@ -12434,13 +12400,6 @@
      ]
     },
     {
-     "cod": 3592,
-     "nome": "PASTA PP 2CM-CRISTAL",
-     "marca": "",
-     "preco": 5.9,
-     "img": "produtos/3592.jpg"
-    },
-    {
      "cod": 12933,
      "nome": "PASTA PP 4CM PLASCONY-FUME",
      "marca": "PLASCONY",
@@ -12481,13 +12440,6 @@
      ]
     },
     {
-     "cod": 3929,
-     "nome": "PASTA PP 4CM-CRISTAL",
-     "marca": "",
-     "preco": 6.9,
-     "img": "produtos/3929.jpg"
-    },
-    {
      "cod": 14205,
      "nome": "PASTA PP 5CM PLASCONY",
      "marca": "PLASCONY",
@@ -12514,20 +12466,6 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/12934.jpg"
-    },
-    {
-     "cod": 12935,
-     "nome": "PASTA PP 5CM-FUME",
-     "marca": "",
-     "preco": 12.9,
-     "img": "produtos/12935.jpg"
-    },
-    {
-     "cod": 7166,
-     "nome": "PASTA PP MINI 2CM-CRISTAL",
-     "marca": "POLIBRAS",
-     "preco": 4.9,
-     "img": "produtos/7166.jpg"
     },
     {
      "cod": 14203,
@@ -12660,13 +12598,6 @@
      "marca": "TIMPEL",
      "preco": 45.9,
      "img": "produtos/2276.jpg"
-    },
-    {
-     "cod": 2278,
-     "nome": "PASTA SUSPENSA PP CRISTAL",
-     "marca": "POLIBRAS",
-     "preco": 4.9,
-     "img": "produtos/2278.jpg"
     },
     {
      "cod": 2280,
@@ -13009,7 +12940,7 @@
     },
     {
      "cod": 2964,
-     "nome": "TESOURA S/P TRIS CANHOTO",
+     "nome": "TESOURA S/P TRIS CANHOTO (CORES)",
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/2964.jpg"
@@ -21205,12 +21136,6 @@
        "img": "produtos/7750.jpg"
       },
       {
-       "cod": 7753,
-       "cor": "Prata",
-       "nome": "SACOLA PH 40X50 C/50-PRATA",
-       "img": "produtos/7753.jpg"
-      },
-      {
        "cod": 14516,
        "cor": "Rosa Bebe",
        "nome": "SACOLA PH 40X50 C/50-ROSA BEBE",
@@ -21300,13 +21225,6 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg"
-    },
-    {
-     "cod": 243,
-     "nome": "BOBINA ESTIVA 40CM",
-     "marca": "CEPELMA",
-     "preco": 38.9,
-     "img": "produtos/243.jpg"
     },
     {
      "cod": 244,
