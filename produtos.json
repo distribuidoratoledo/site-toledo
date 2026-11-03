@@ -2131,25 +2131,11 @@
      "img": "produtos/1672.jpg"
     },
     {
-     "cod": 3507,
-     "nome": "LAPIS FABER GRIP",
+     "cod": 3508,
+     "nome": "LAPIS FABER GRIP-ROSA",
      "marca": "FABER",
      "preco": 2.0,
-     "img": "produtos/3507.jpg",
-     "cores": [
-      {
-       "cod": 3507,
-       "cor": "Lilas",
-       "nome": "LAPIS FABER GRIP-LILAS",
-       "img": "produtos/3507.jpg"
-      },
-      {
-       "cod": 3508,
-       "cor": "Rosa",
-       "nome": "LAPIS FABER GRIP-ROSA",
-       "img": "produtos/3508.jpg"
-      }
-     ]
+     "img": "produtos/3508.jpg"
     },
     {
      "cod": 5407,
@@ -11181,7 +11167,7 @@
      "cod": 14211,
      "nome": "MALETA C/6 PASTAS SUSP.PRETO-PLASCONY",
      "marca": "PLASCONY",
-     "preco": 42.9,
+     "preco": 47.9,
      "img": "produtos/14211.jpg"
     },
     {
@@ -12124,6 +12110,13 @@
      "img": "produtos/12475.jpg"
     },
     {
+     "cod": 14451,
+     "nome": "PASTA L A4 PLASCONY-CRISTAL",
+     "marca": "",
+     "preco": 1.0,
+     "img": "produtos/14451.jpg"
+    },
+    {
      "cod": 12476,
      "nome": "PASTA L A4 ROSA-DAC",
      "marca": "DAC",
@@ -12136,6 +12129,13 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/13989.jpg"
+    },
+    {
+     "cod": 14441,
+     "nome": "PASTA L TREND COLOR CHERRY",
+     "marca": "",
+     "preco": 6.9,
+     "img": "produtos/14441.jpg"
     },
     {
      "cod": 6744,
@@ -12249,6 +12249,13 @@
      "marca": "DAC",
      "preco": 23.9,
      "img": "produtos/11153.jpg"
+    },
+    {
+     "cod": 6065,
+     "nome": "PASTA PP 1CM PLASCONY-PRETA",
+     "marca": "PLASCONY",
+     "preco": 4.9,
+     "img": "produtos/6065.jpg"
     },
     {
      "cod": 13817,
@@ -12407,6 +12414,47 @@
      "img": "produtos/12933.jpg"
     },
     {
+     "cod": 14449,
+     "nome": "PASTA PP 4CM PLASCONY-LOLIPOP AZUL",
+     "marca": "AZUL",
+     "preco": 9.31,
+     "img": "produtos/14449.jpg"
+    },
+    {
+     "cod": 14450,
+     "nome": "PASTA PP 4CM PLASCONY-LOLIPOP",
+     "marca": "LILAS",
+     "preco": 9.9,
+     "img": "produtos/14450.jpg",
+     "cores": [
+      {
+       "cod": 14450,
+       "cor": "Lilas",
+       "nome": "PASTA PP 4CM PLASCONY-LOLIPOP LILAS",
+       "img": "produtos/14450.jpg"
+      },
+      {
+       "cod": 14448,
+       "cor": "Rosa",
+       "nome": "PASTA PP 4CM PLASCONY-LOLIPOP ROSA",
+       "img": "produtos/14448.jpg"
+      },
+      {
+       "cod": 14447,
+       "cor": "Verde",
+       "nome": "PASTA PP 4CM PLASCONY-LOLIPOP VERDE",
+       "img": "produtos/14447.jpg"
+      }
+     ]
+    },
+    {
+     "cod": 14209,
+     "nome": "PASTA PP 4CM PLASCONY-PRETO",
+     "marca": "PLASCONY",
+     "preco": 6.9,
+     "img": "produtos/14209.jpg"
+    },
+    {
      "cod": 10020,
      "nome": "PASTA PP 4CM POLIBRAS NEON",
      "marca": "POLIBRAS",
@@ -12443,7 +12491,7 @@
      "cod": 14205,
      "nome": "PASTA PP 5CM PLASCONY",
      "marca": "PLASCONY",
-     "preco": 12.9,
+     "preco": 6.9,
      "img": "produtos/14205.jpg",
      "cores": [
       {
@@ -12453,12 +12501,31 @@
        "img": "produtos/14205.jpg"
       },
       {
-       "cod": 14207,
-       "cor": "Prata",
-       "nome": "PASTA PP 5CM PLASCONY-PRATA",
-       "img": "produtos/14207.jpg"
+       "cod": 14444,
+       "cor": "Lilas",
+       "nome": "PASTA PP 5CM PLASCONY-LILAS",
+       "img": "produtos/14444.jpg"
+      },
+      {
+       "cod": 14445,
+       "cor": "Rosa",
+       "nome": "PASTA PP 5CM PLASCONY-ROSA",
+       "img": "produtos/14445.jpg"
+      },
+      {
+       "cod": 14446,
+       "cor": "Verde",
+       "nome": "PASTA PP 5CM PLASCONY-VERDE",
+       "img": "produtos/14446.jpg"
       }
      ]
+    },
+    {
+     "cod": 14207,
+     "nome": "PASTA PP 5CM PLASCONY-PRATA",
+     "marca": "PLASCONY",
+     "preco": 12.9,
+     "img": "produtos/14207.jpg"
     },
     {
      "cod": 12934,
@@ -12514,6 +12581,13 @@
      "marca": "POLIBRAS",
      "preco": 25.9,
      "img": "produtos/2266.jpg"
+    },
+    {
+     "cod": 14453,
+     "nome": "PASTA SANFON.12D.OFICIO PLASCONY TRANSP.",
+     "marca": "PLASCONY",
+     "preco": 26.9,
+     "img": "produtos/14453.jpg"
     },
     {
      "cod": 2267,
@@ -12598,6 +12672,13 @@
      "marca": "TIMPEL",
      "preco": 45.9,
      "img": "produtos/2276.jpg"
+    },
+    {
+     "cod": 14452,
+     "nome": "PASTA SUSPENSA PLASCONY-CRISTAL",
+     "marca": "PLASCONY",
+     "preco": 4.9,
+     "img": "produtos/14452.jpg"
     },
     {
      "cod": 2280,
@@ -13787,13 +13868,6 @@
      "marca": "LUXCEL",
      "preco": 260.9,
      "img": "produtos/12269.jpg"
-    },
-    {
-     "cod": 1585,
-     "nome": "BOLSA TERMICA (FRENTE) LANCHE/PIZZA",
-     "marca": "PLENITUDE",
-     "preco": 155.0,
-     "img": "produtos/1585.jpg"
     },
     {
      "cod": 5040,
@@ -25975,6 +26049,13 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13609.jpg"
+    },
+    {
+     "cod": 11735,
+     "nome": "MARCA TEXTO TRIS FLASH PASTEL",
+     "marca": "TRIS",
+     "preco": 1.5,
+     "img": "produtos/11735.jpg"
     },
     {
      "cod": 7574,
