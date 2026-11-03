@@ -1309,13 +1309,6 @@
      "img": "produtos/12306.jpg"
     },
     {
-     "cod": 5279,
-     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
-     "marca": "TRIS",
-     "preco": 18.9,
-     "img": "produtos/5279.jpg"
-    },
-    {
      "cod": 11542,
      "nome": "CANETINHA C/24 MAPED OCEAN DECORADA",
      "marca": "MAPED",
@@ -1335,13 +1328,6 @@
      "marca": "MAPED",
      "preco": 45.9,
      "img": "produtos/11568.jpg"
-    },
-    {
-     "cod": 12682,
-     "nome": "CANETINHA C/36-TRIS (TONS VIBRANTES)",
-     "marca": "TRIS",
-     "preco": 59.9,
-     "img": "produtos/12682.jpg"
     },
     {
      "cod": 11570,
@@ -1370,13 +1356,6 @@
      "marca": "COMPACTOR",
      "preco": 16.9,
      "img": "produtos/14370.jpg"
-    },
-    {
-     "cod": 12687,
-     "nome": "JOGO PINCEL TRIS C/8",
-     "marca": "TRIS",
-     "preco": 36.9,
-     "img": "produtos/12687.jpg"
     },
     {
      "cod": 10826,
@@ -2221,6 +2200,13 @@
      "img": "produtos/4759.jpg"
     },
     {
+     "cod": 5279,
+     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
+     "marca": "TRIS",
+     "preco": 18.9,
+     "img": "produtos/5279.jpg"
+    },
+    {
      "cod": 10261,
      "nome": "CANETINHA C/24-ACRILEX",
      "marca": "ACRILEX",
@@ -2240,6 +2226,13 @@
      "marca": "TRIS",
      "preco": 35.9,
      "img": "produtos/13379.jpg"
+    },
+    {
+     "cod": 12682,
+     "nome": "CANETINHA C/36-TRIS (TONS VIBRANTES)",
+     "marca": "TRIS",
+     "preco": 59.9,
+     "img": "produtos/12682.jpg"
     },
     {
      "cod": 10260,
@@ -2296,6 +2289,13 @@
      "marca": "COMPACTOR",
      "preco": 15.9,
      "img": "produtos/1582.jpg"
+    },
+    {
+     "cod": 12687,
+     "nome": "JOGO PINCEL TRIS C/8-MEGA FRUITS",
+     "marca": "TRIS",
+     "preco": 36.9,
+     "img": "produtos/12687.jpg"
     },
     {
      "cod": 2343,
@@ -7138,13 +7138,6 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg"
-    },
-    {
-     "cod": 1032,
-     "nome": "DUREX 24X50MT",
-     "marca": "",
-     "preco": 3.0,
-     "img": "produtos/1032.jpg"
     },
     {
      "cod": 1021,
@@ -12041,12 +12034,6 @@
        "cor": "Amarela",
        "nome": "PASTA GRAMPO TRILHO-AMARELA",
        "img": "produtos/2218.jpg"
-      },
-      {
-       "cod": 2219,
-       "cor": "Azul",
-       "nome": "PASTA GRAMPO TRILHO AZUL",
-       "img": "produtos/2219.jpg"
       },
       {
        "cod": 2220,
@@ -17267,14 +17254,14 @@
     },
     {
      "cod": 9492,
-     "nome": "CARIMBO ESCOLAR TRIS-BARBIE",
+     "nome": "CARIMBO ESCOLAR TRIS-BARBIE CORES",
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/9492.jpg"
     },
     {
      "cod": 9498,
-     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS",
+     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS CORES",
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/9498.jpg"
