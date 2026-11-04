@@ -233,7 +233,8 @@
 
   <script>
   (function () {
-    // Endereço que grava quem acessou (painel da Toledo no Lovable). Vazio = guarda no aparelho e envia quando existir.
+    // Endereço que grava quem acessou (App da Web do Google, planilha "Listas Escolares 2027 - Acessos").
+    // Vazio = guarda no aparelho e envia quando existir.
     var LISTAS_ENDPOINT = '';
     var WHATS = '5531985113106';
     var CHAVE_CAD = 'toledo_listas_cadastro';
@@ -259,9 +260,10 @@
     // ---------- registro de acesso ----------
     function enviar(reg) {
       if (!LISTAS_ENDPOINT) return Promise.reject();
-      // text/plain evita a pré-verificação de CORS; o servidor lê o corpo como JSON
-      return fetch(LISTAS_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=UTF-8' }, body: JSON.stringify(reg), keepalive: true })
-        .then(function (r) { if (!r.ok) throw new Error(r.status); });
+      // no-cors + text/plain: o Google redireciona a resposta e o navegador não deixa lê-la;
+      // só falha de rede volta para a fila do aparelho
+      return fetch(LISTAS_ENDPOINT, { method: 'POST', mode: 'no-cors', headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+                                      body: JSON.stringify(reg), keepalive: true });
     }
     function registrar(escola, lista) {
       var c = ler(CHAVE_CAD) || {};
