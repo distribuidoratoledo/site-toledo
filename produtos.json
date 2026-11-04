@@ -9189,13 +9189,6 @@
      "img": "produtos/2130.jpg"
     },
     {
-     "cod": 3583,
-     "nome": "PAPEL PARANA N.80 100X80CM",
-     "marca": "SANTECK",
-     "preco": 13.9,
-     "img": "produtos/3583.jpg"
-    },
-    {
      "cod": 2133,
      "nome": "PAPEL SCRAPBOOK A4 C/10",
      "marca": "MINASPEL",
@@ -9482,13 +9475,6 @@
      "img": "produtos/2585.jpg"
     },
     {
-     "cod": 4296,
-     "nome": "QUADRO BRANCO 90X60 (AL)",
-     "marca": "SOUZ/STALO",
-     "preco": 89.9,
-     "img": "produtos/4296.jpg"
-    },
-    {
      "cod": 3769,
      "nome": "QUADRO FELTRO 1,20X90",
      "marca": "SOUZA",
@@ -9727,18 +9713,12 @@
      "img": "produtos/3029.jpg"
     },
     {
-     "cod": 10137,
+     "cod": 3033,
      "nome": "GUACHE 250ML MARIPEL",
      "marca": "MARIPEL",
      "preco": 6.9,
-     "img": "produtos/10137.jpg",
+     "img": "produtos/3033.jpg",
      "cores": [
-      {
-       "cod": 10137,
-       "cor": "Amarelo",
-       "nome": "GUACHE 250ML MARIPEL-AMARELO",
-       "img": "produtos/10137.jpg"
-      },
       {
        "cod": 3033,
        "cor": "Branca",
@@ -23463,6 +23443,13 @@
      "marca": "SANREMO",
      "preco": 82.9,
      "img": "produtos/11762.jpg"
+    },
+    {
+     "cod": 4124,
+     "nome": "CESTO TELADO 10 LT",
+     "marca": "ARQPLAST",
+     "preco": 10.9,
+     "img": "produtos/4124.jpg"
     },
     {
      "cod": 14402,
