@@ -435,12 +435,6 @@
        "img": "produtos/570.jpg"
       },
       {
-       "cod": 14365,
-       "cor": "Verde",
-       "nome": "CANETA COMPACTOR-VERDE",
-       "img": "produtos/14365.jpg"
-      },
-      {
        "cod": 571,
        "cor": "Vermelha",
        "nome": "CANETA COMPACTOR-VERMELHA",
@@ -12113,7 +12107,7 @@
      "cod": 14451,
      "nome": "PASTA L A4 PLASCONY-CRISTAL",
      "marca": "",
-     "preco": 1.0,
+     "preco": 2.5,
      "img": "produtos/14451.jpg"
     },
     {
@@ -13018,13 +13012,6 @@
      "marca": "TRAMONTINA",
      "preco": 15.9,
      "img": "produtos/2963.jpg"
-    },
-    {
-     "cod": 2964,
-     "nome": "TESOURA S/P TRIS CANHOTO (CORES)",
-     "marca": "TRIS",
-     "preco": 12.9,
-     "img": "produtos/2964.jpg"
     },
     {
      "cod": 12747,
@@ -17266,7 +17253,7 @@
     },
     {
      "cod": 9498,
-     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS CORES",
+     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS",
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/9498.jpg"
@@ -22653,12 +22640,6 @@
        "cor": "Verde Escuro",
        "nome": "FITILHO 50MT VERDE ESCURO",
        "img": "produtos/1331.jpg"
-      },
-      {
-       "cod": 1332,
-       "cor": "Vermelho",
-       "nome": "FITILHO 50MT VERMELHO",
-       "img": "produtos/1332.jpg"
       }
      ]
     },
@@ -23482,13 +23463,6 @@
      "marca": "SANREMO",
      "preco": 82.9,
      "img": "produtos/11762.jpg"
-    },
-    {
-     "cod": 4124,
-     "nome": "CESTO TELADO 10 LT",
-     "marca": "ARQPLAST",
-     "preco": 10.9,
-     "img": "produtos/4124.jpg"
     },
     {
      "cod": 14402,
@@ -26028,13 +26002,6 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13609.jpg"
-    },
-    {
-     "cod": 11735,
-     "nome": "MARCA TEXTO TRIS FLASH PASTEL",
-     "marca": "TRIS",
-     "preco": 1.5,
-     "img": "produtos/11735.jpg"
     },
     {
      "cod": 7574,
