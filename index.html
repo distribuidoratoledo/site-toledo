@@ -267,6 +267,9 @@
     .car-topo { display: flex; align-items: center; justify-content: space-between; padding: 16px 20px;
       border-bottom: 1px solid #e6ebf2; }
     .car-topo h3 { margin: 0; color: var(--azul); font-size: 1.15rem; }
+    .car-hora { display: block; font-size: .8rem; font-weight: 600; color: #6b7687; margin-top: 2px;
+      font-variant-numeric: tabular-nums; }
+    .car-hora small { font-weight: 400; font-size: .72rem; }
     .car-topo button { border: 0; background: none; font-size: 1.6rem; line-height: 1; color: #8792a4; cursor: pointer; }
     .car-teste { background: #fff4d6; color: #7a5a00; font-size: .76rem; padding: 7px 20px; border-bottom: 1px solid #f0dfa8; }
     .car-teste[hidden] { display: none; }
@@ -287,18 +290,54 @@
     .car-nota { font-size: .76rem; color: #6b7687; line-height: 1.45; margin: 4px 0 8px; }
     .car-form h4 { font-size: .74rem; text-transform: uppercase; letter-spacing: .7px; color: #6b7687; margin: 18px 0 8px; }
     .car-form label { display: block; font-size: .8rem; color: #38445a; margin-bottom: 10px; }
-    .car-form input[type=text], .car-form input[type=tel], .car-form textarea {
+    .car-form input[type=text], .car-form input[type=tel], .car-form textarea, .car-form select {
       display: block; width: 100%; margin-top: 4px; padding: 9px 11px; border: 1px solid #d6dde8;
       border-radius: 8px; font: inherit; font-size: .9rem; color: #1d2940; box-sizing: border-box; }
-    .car-form input:focus, .car-form textarea:focus { outline: 2px solid #8fb4e8; border-color: #8fb4e8; }
+    .car-form input:focus, .car-form textarea:focus, .car-form select:focus { outline: 2px solid #8fb4e8; border-color: #8fb4e8; }
     .car-form .dupla { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
     .car-form .opc { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
     .car-form .opc label { margin: 0; flex: 1; min-width: 110px; border: 1px solid #d6dde8; border-radius: 9px;
       padding: 9px 11px; cursor: pointer; display: flex; gap: 8px; align-items: center; }
     .car-form .opc input:checked + span { font-weight: 700; color: var(--azul); }
+    .car-nota.aviso { color: #7a5a00; background: #fff4d6; padding: 6px 9px; border-radius: 7px; }
+    .car-form input[type=email] { display: block; width: 100%; margin-top: 4px; padding: 9px 11px; border: 1px solid #d6dde8;
+      border-radius: 8px; font: inherit; font-size: .9rem; color: #1d2940; box-sizing: border-box; }
     .car-form .erro { color: #b0394d; font-size: .82rem; margin: 6px 0 0; font-weight: 600; }
     .car-rodape { border-top: 1px solid #e6ebf2; padding: 14px 20px 18px; }
     .car-rodape:empty { display: none; }
+    .car-frete { display: flex; justify-content: space-between; font-size: .88rem; color: #38445a;
+      margin-bottom: 10px; font-variant-numeric: tabular-nums; }
+    .car-urgente { display: flex; gap: 10px; align-items: flex-start; border: 1px solid #f0c36d; background: #fff8e8;
+      border-radius: 9px; padding: 10px 12px; margin: 2px 0 10px; cursor: pointer; font-size: .86rem; color: #5a4300; }
+    .car-urgente input { margin-top: 3px; }
+    .car-urgente.fechada { background: #f3f5f8; border-color: #dfe4ec; color: #6b7687; cursor: default; }
+    .car-urgente.fechada small { color: #7b879b; }
+    .car-urgente small { display: block; color: #7a6320; font-size: .76rem; }
+    .car-pix { background: #e9f7ef; border: 1px solid #a8dcc0; color: #12633f; border-radius: 10px;
+      padding: 10px 12px; margin: 2px 0 10px; font-size: .88rem; line-height: 1.5; }
+    .car-pix b { font-variant-numeric: tabular-nums; }
+    .car-pix span { color: #3b6b55; font-size: .78rem; }
+    .car-pagto-destaque { background: #fff5f6; border: 2px solid var(--vermelho); color: var(--vermelho);
+      border-radius: 10px; padding: 10px 12px; margin: 4px 0 10px; font-weight: 800; font-size: 1rem;
+      letter-spacing: .4px; text-align: center; }
+    .car-pagto-destaque span { display: block; color: #6b3440; font-weight: 500; font-size: .78rem;
+      letter-spacing: 0; margin-top: 2px; }
+    .car-enviado { text-align: center; padding: 26px 6px 10px; }
+    .car-enviado .tic { width: 54px; height: 54px; margin: 0 auto 12px; border-radius: 50%; background: #e9f7ef;
+      color: #12633f; font-size: 1.8rem; line-height: 54px; font-weight: 800; }
+    .car-enviado h4 { color: var(--azul); font-size: 1.15rem; margin-bottom: 6px; }
+    .car-enviado p { font-size: .9rem; margin-bottom: 12px; }
+    .car-enviado .car-pix { text-align: left; }
+    .bt-comprovante { display: block; background: #25d366; color: #fff; text-decoration: none; font-weight: 800;
+      padding: 13px; border-radius: 10px; margin: 12px 0 8px; }
+    .bt-comprovante:hover { background: #1eb455; }
+    .bt-copiar, .bt-voltar, .bt-limpar { display: block; width: 100%; font: inherit; font-size: .88rem;
+      padding: 10px; border-radius: 9px; margin-top: 8px; cursor: pointer; background: #fff;
+      border: 1px solid #d6dde8; color: #38445a; }
+    .bt-copiar:hover, .bt-voltar:hover, .bt-limpar:hover { border-color: var(--azul); color: var(--azul); }
+    .bt-limpar { color: #b0394d; }
+    .car-pagto-rodape { text-align: center; font-weight: 800; color: var(--vermelho); font-size: .86rem;
+      text-transform: uppercase; letter-spacing: .5px; margin-bottom: 8px; }
     .car-enviar { width: 100%; border: 0; border-radius: 10px; background: #25d366; color: #fff;
       font: inherit; font-weight: 800; font-size: 1rem; padding: 14px; cursor: pointer; }
     .car-enviar:hover { background: #1eb455; }
@@ -747,6 +786,7 @@
       <a href="#inicio">Início</a>
       <a href="#destaques">Destaques</a>
       <a href="#produtos">Produtos</a>
+      <a href="listas.html">Listas Escolares 2027</a>
       <a href="#sobre">Sobre</a>
       <a href="#contato">Contato</a>
     </nav>
@@ -1124,13 +1164,164 @@
        dele poder comprar pelo site" -- Adriana, 15/09/2026. Com
        COMPRA_LIBERADA = false o botão nem é desenhado; ligar é trocar uma
        palavra. */
-    var COMPRA_LIBERADA = false;
+    var COMPRA_LIBERADA = true;   // liberado 04/11/2026: "deixamos o carrinho pronto mas desativado, quero deixar tudo funcionando"
     // NA PREVIA LOCAL A LOJA APARECE; NO AR, NAO. A Adriana testa a compra
     // inteira aqui na maquina e nenhum cliente consegue comprar antes de ela
     // liberar: no endereco publicado so' COMPRA_LIBERADA liga a loja.
     var PREVIA_LOCAL = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
     var LOJA_ATIVA = COMPRA_LIBERADA || PREVIA_LOCAL;
     var CARRINHO = [];
+    /* TAXA DE ENTREGA. "Nao teremos valor minimo. Porem, para compras abaixo
+       de 50 reais, cobramos taxa de entrega. Eu irei te enviar a lista com os
+       bairros e o valor" -- Adriana, 16/09/2026. De R$ 50 para cima a entrega
+       nao cobra taxa; abaixo, cobra a taxa do bairro. Bairro fora da lista
+       nao trava o pedido: a taxa e' combinada no WhatsApp. */
+    var ENTREGA_GRATIS_A_PARTIR = 50;
+    // Demais bairros de Sete Lagoas (fora da lista abaixo): R$ 12,00 -- Adriana,
+    // 16/09/2026. Os 50 bairros da lista somam 86% dos pedidos de Sete Lagoas
+    // nos ultimos 12 meses; cada bairro de fora tem menos de 0,5%.
+    // Outra cidade continua "a combinar no WhatsApp".
+    var TAXA_DEMAIS_BAIRROS = 12;
+    var CIDADE_ENTREGA = 'sete lagoas';
+    /* PAGAMENTO NO ATO DA ENTREGA (ou da retirada). "O cliente escolhe:
+       pix / cartao debito / cartao credito / convenio empresa / dinheiro.
+       Cartao parcelado ate' 10x, parcela minima 50,00" -- Adriana, 16/09/2026.
+       Nada e' cobrado no site. */
+    var PARCELAS_MAX = 10, PARCELA_MINIMA = 50;
+    /* PRAZO ESTIMADO DE ENTREGA -- "quero inserir e deixar em aberto pra
+       decidirmos" (Adriana, 17/09/2026). Enquanto estiver vazio, o carrinho e
+       a mensagem dizem "a confirmar pela equipe". Preencher com o texto final,
+       por exemplo 'ate 2 dias uteis'. */
+    var PRAZO_ENTREGA = '';
+    /* ENTREGA URGENTE -- "deixar a opcao de acelerar entrega, acrescentamos
+       R$ 10,00 a mais na entrega, assim acionamos o aplicativo de entrega"
+       (Adriana, 16/09/2026). Soma na taxa mesmo quando a entrega normal e'
+       gratis. Prazo em aberto, como o da entrega normal (exemplo dela:
+       normal ate' 4 horas, urgente ate' 2 horas). */
+    var URGENTE_VALOR = 20;
+    /* ENTREGA RAPIDA: SO' PIX, na chave da empresa 3 (Adriana, 17/09/2026).
+       A chave fica aqui para trocar num lugar so'. */
+    var URGENTE_SO_PIX = true;
+    /* JANELA DA ENTREGA RAPIDA: pedidos das 8h as 18h, entrega em ate' 2
+       horas (Adriana, 17/09/2026). Como as 2 horas tem de caber dentro do
+       expediente, a opcao so' aparece ate' as 16h; depois disso o cliente ve'
+       o horario em que ela volta. O relogio e' o do aparelho do cliente. */
+    var URGENTE_ABRE = 8, URGENTE_FECHA = 18, URGENTE_HORAS = 2;
+    var TESTE_JANELA_LIVRE = true;
+    /* HORA OFICIAL DO SITE = HORA DE BRASILIA, e nao a do aparelho.
+       "Seguimos o horario do site, insira um relogio la', baseado horario
+       Brasilia" -- Adriana, 17/09/2026. O relogio do celular do cliente pode
+       estar errado ou em outro fuso, e a janela da entrega rapida (8h-16h)
+       abriria na hora errada.
+       De onde vem a hora: do cabecalho Date da resposta do proprio servidor,
+       lido na abertura da pagina. Guardamos a DIFERENCA entre o servidor e o
+       aparelho e aplicamos em toda conta de hora. Depois disso o fuso de
+       Sao Paulo entra pelo Intl, que respeita horario de verao se voltar. */
+    var FUSO = 'America/Sao_Paulo';
+    var ajusteMs = 0;
+
+    function agoraBR() {
+      var d = new Date(Date.now() + ajusteMs);
+      // remonta a data nas partes de Sao Paulo, para getHours() ser de la'
+      var p = {};
+      new Intl.DateTimeFormat('pt-BR', {
+        timeZone: FUSO, year: 'numeric', month: '2-digit', day: '2-digit',
+        hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false
+      }).formatToParts(d).forEach(function (x) { p[x.type] = x.value; });
+      return new Date(+p.year, +p.month - 1, +p.day, +p.hour % 24, +p.minute, +p.second);
+    }
+
+    function sincronizarHora() {
+      return fetch(location.pathname + '?h=' + Date.now(), { method: 'HEAD', cache: 'no-store' })
+        .then(function (r) {
+          var d = r.headers.get('date');
+          if (d) { ajusteMs = new Date(d).getTime() - Date.now(); }
+        })
+        .catch(function () {})
+        .then(function () { pintarRelogio(); });
+    }
+
+    function pintarRelogio() {
+      var el = document.getElementById('relogio-br');
+      if (!el) { return; }
+      var d = agoraBR();
+      var z = function (n) { return (n < 10 ? '0' : '') + n; };
+      el.textContent = z(d.getHours()) + ':' + z(d.getMinutes());
+      el.title = 'Horário de Brasília — é por ele que valem os prazos do site';
+      if (!document.getElementById('car-fundo').hidden) { pintarPainel(true); }
+    }
+    var CHAVE_PIX = '47.519.850/0001-64';
+    var CHAVE_PIX_TITULAR = 'Distribuidora Simões e Santos Ltda';
+    /* VENDEDORA DO PEDIDO -- pelo HORARIO, nao por contador.
+       "Pode fazer a opcao 2" (Adriana, 17/09/2026): o nome tem de sair no
+       WhatsApp junto do pedido, e o site nao tem onde guardar de quem e' a
+       vez -- cada cliente usa o proprio navegador. Entao a escolha vem do
+       minuto do envio, que da' a mesma sequencia do rodizio e divide o dia
+       de forma parelha, sem depender de estado nenhum.
+       Rodizio exato (sem repetir nem pular) entra quando a area restrita
+       existir: ela guarda a vez e o site pergunta antes de abrir o Zap. */
+    var VENDEDORAS = ['Taynara', 'Bruna', 'Jucilene', 'Larissa', 'Fran'];
+    var PRAZO_URGENTE = 'at\u00e9 2 horas';
+    var PRAZO_RETIRADA = '';
+    var PAGAMENTOS = [
+      ['PIX', 'PIX'], ['Débito', 'Cartão de débito'], ['Crédito', 'Cartão de crédito'],
+      ['Convênio', 'Convênio empresa'], ['Dinheiro', 'Dinheiro']
+    ];
+    // Taxas definidas pela Adriana em 16/09/2026: R$ 5 so' Centro e Boa Vista,
+    // R$ 8 os bairros vizinhos, R$ 10 e R$ 15 os mais distantes. Bairro fora
+    // desta lista: taxa a combinar no WhatsApp.
+    var TAXAS_ENTREGA = {
+      'Boa Vista': 5.00,
+      'Centro': 5.00,
+      'Emília': 8.00,
+      'Nossa Senhora das Graças': 8.00,
+      'Planalto': 8.00,
+      'Progresso': 8.00,
+      'Santa Helena': 8.00,
+      'São Pedro': 8.00,
+      'Aeroporto Industrial': 10.00,
+      'Braz Filizola': 10.00,
+      'Canaã': 10.00,
+      'Catarina': 10.00,
+      'Chácara do Paiva': 10.00,
+      'Dante Lanza': 10.00,
+      'Distrito Industrial': 10.00,
+      'Esperança': 10.00,
+      'Henrique Nery': 10.00,
+      'Indústrias': 10.00,
+      'Interlagos I': 10.00,
+      'Jardim Arizona': 10.00,
+      'Jardim Cambui': 10.00,
+      'Jardim Europa': 10.00,
+      'Jardim Primavera I': 10.00,
+      'Jardim Primavera II': 10.00,
+      'Luxemburgo': 10.00,
+      'Manoa': 10.00,
+      'Montreal': 10.00,
+      'New York': 10.00,
+      'Nossa Senhora do Carmo': 10.00,
+      'Nossa Senhora do Carmo II': 10.00,
+      'Nova Cidade': 10.00,
+      'Piedade': 10.00,
+      'Recanto do Cedro': 10.00,
+      'Santa Felicidade': 10.00,
+      'Santa Luzia': 10.00,
+      'Santo Antônio': 10.00,
+      'São Dimas': 10.00,
+      'São Geraldo': 10.00,
+      'Vale das Palmeiras': 10.00,
+      'Vapabuçu': 10.00,
+      'Bela Vista I': 15.00,
+      'Belo Vale': 15.00,
+      'Cidade de Deus': 15.00,
+      'Eldorado': 15.00,
+      'Iporanga': 15.00,
+      'JK': 15.00,
+      'São João': 15.00,
+      'São Vicente': 15.00,
+      'Universitário': 15.00,
+      'Verde Vale': 15.00
+    };
     var ICONE_ZAP = '<svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3z"/></svg>';
     var janAtual = null, janCor = 0;
 
@@ -1240,6 +1431,99 @@
       return CARRINHO.reduce(function (s, x) { return s + itemDoCodigo(x.cod).preco * x.qtd; }, 0);
     }
 
+    function freteDoPedido() {
+      // null = ainda nao da' para calcular (retirada, sem bairro, bairro fora da lista)
+      if (DADOS.entrega !== 'entrega') { return { valor: 0, texto: '' }; }
+      if (totalCarrinho() >= ENTREGA_GRATIS_A_PARTIR) {
+        return { valor: 0, texto: 'Grátis (compra a partir de ' + moeda(ENTREGA_GRATIS_A_PARTIR) + ')' };
+      }
+      // o bairro vem do CEP; compara sem acento e sem maiuscula com a lista
+      var b = semAcentoMin(DADOS.bairro);
+      if (!b) { return { valor: null, texto: 'Informe o CEP' }; }
+      for (var nome in TAXAS_ENTREGA) {
+        if (semAcentoMin(nome) === b) { return { valor: TAXAS_ENTREGA[nome], texto: moeda(TAXAS_ENTREGA[nome]) }; }
+      }
+      if (semAcentoMin(DADOS.cidade) === CIDADE_ENTREGA) {
+        return { valor: TAXA_DEMAIS_BAIRROS, texto: moeda(TAXA_DEMAIS_BAIRROS) };
+      }
+      return { valor: null, texto: 'A combinar no WhatsApp' };
+    }
+
+    function urgente() { return DADOS.entrega === 'entrega' && DADOS.urgente === 'S' && janelaRapida().aberta; }
+
+    /* A janela e o relogio da entrega rapida: se esta' aberta, ate' que horas
+       o pedido chega, e quanto tempo falta para fechar. */
+    function janelaRapida(agora) {
+      var d = agora || agoraBR();
+      var h = d.getHours() + d.getMinutes() / 60;
+      var ultimo = URGENTE_FECHA - URGENTE_HORAS;          // 16h
+      var aberta = h >= URGENTE_ABRE && h < ultimo;
+      // SO' NA PREVIA LOCAL: janela liberada para ela testar fora do horario
+      // (17/09/2026). No ar continua valendo 8h-16h. Tirar quando o teste
+      // terminar.
+      if (PREVIA_LOCAL && TESTE_JANELA_LIVRE) { aberta = true; }
+      var chega = new Date(d.getTime() + URGENTE_HORAS * 3600000);
+      var fechaEm = Math.max(0, Math.round((ultimo - h) * 60));   // minutos
+      return {
+        aberta: aberta,
+        chega: hhmm(chega),
+        fechaEm: fechaEm,
+        abre: URGENTE_ABRE + 'h',
+        ultimo: ultimo + 'h'
+      };
+    }
+
+    function hhmm(d) {
+      var z = function (n) { return (n < 10 ? '0' : '') + n; };
+      return z(d.getHours()) + 'h' + z(d.getMinutes());
+    }
+
+    function tempoFalta(min) {
+      if (min >= 60) {
+        var hs = Math.floor(min / 60), mn = min % 60;
+        return hs + 'h' + (mn ? (mn < 10 ? '0' : '') + mn : '');
+      }
+      return min + ' min';
+    }
+
+    /* Entrega rapida paga so' por PIX: a escolha das outras formas some da
+       tela e o pedido sai como PIX, mesmo que o cliente tivesse marcado
+       cartao antes de pedir a urgencia. */
+    function ajustarPagamentoUrgente() {
+      if (URGENTE_SO_PIX && urgente() && DADOS.pagto !== 'PIX') {
+        DADOS.pagto = 'PIX';
+        DADOS.parcelas = '';
+        salvarDados();
+      }
+    }
+
+    function totalFinal() {
+      var fr = freteDoPedido();
+      return totalCarrinho() + (fr.valor || 0) + (urgente() ? URGENTE_VALOR : 0);
+    }
+
+    function parcelasPossiveis() {
+      return Math.max(1, Math.min(PARCELAS_MAX, Math.floor(totalFinal() / PARCELA_MINIMA)));
+    }
+
+    function parcelasEscolhidas() {
+      var p = parseInt(DADOS.parcelas, 10) || 1;
+      return Math.min(p, parcelasPossiveis());
+    }
+
+    function textoPagamento() {
+      if (DADOS.pagto === 'Crédito') {
+        var n = parcelasEscolhidas();
+        return 'Cartão de crédito ' + (n > 1 ? n + 'x de ' + moeda(totalFinal() / n) + ' sem juros' : 'à vista');
+      }
+      if (DADOS.pagto === 'Convênio') { return 'Convênio empresa (' + (DADOS.convenio || '').trim() + ')'; }
+      if (DADOS.pagto === 'Dinheiro') {
+        return 'Dinheiro' + ((DADOS.troco || '').trim() ? ' (troco para ' + DADOS.troco.trim() + ')' : '');
+      }
+      if (DADOS.pagto === 'Débito') { return 'Cartão de débito'; }
+      return DADOS.pagto || '';
+    }
+
     function pintarCarrinho() {
       var b = document.getElementById('car-botao');
       if (!b) { return; }
@@ -1280,7 +1564,9 @@
     function guardarDado(el) {
       DADOS[el.name] = el.value;
       try { localStorage.setItem('carrinho-dados', JSON.stringify(DADOS)); } catch (e) {}
-      if (el.name === 'entrega') { pintarPainel(); }
+      if (el.name === 'pessoa') { DADOS.docAviso = ''; DADOS.situacao = ''; buscaCnpj = ''; }
+      if (['entrega', 'pagto', 'parcelas', 'pessoa'].indexOf(el.name) >= 0) { pintarPainel(); }
+      else if (el.name === 'bairro') { pintarRodape(); }
     }
     function esc(t) {
       return String(t == null ? '' : t).replace(/[&<>"]/g, function (c) {
@@ -1296,8 +1582,164 @@
         + (DADOS[nome] === valor ? ' checked' : '') + ' onchange="guardarDado(this)"><span>' + rotulo + '</span></label>';
     }
 
-    function pintarPainel() {
+    /* CADASTRO DO CLIENTE. Os pedidos do site vao entrar no Sankhya e, se o
+       cliente nao existir, ele e' cadastrado automaticamente. "Os campos
+       citados e o e-mail devem estar obrigatorios no site, senao o cliente
+       pula o processo" -- Adriana, 17/09/2026. Por isso tudo aqui e'
+       obrigatorio, o CPF/CNPJ e' conferido pelo digito, o endereco vem do
+       CEP (ViaCEP) e a empresa vem da Receita (BrasilAPI). */
+    function soDigitos(t) { return String(t || '').replace(/\D/g, ''); }
+
+    function cpfValido(c) {
+      c = soDigitos(c);
+      if (c.length !== 11 || /^(\d)\1+$/.test(c)) { return false; }
+      for (var t = 9; t < 11; t++) {
+        var s = 0;
+        for (var i = 0; i < t; i++) { s += +c[i] * (t + 1 - i); }
+        if (((s * 10) % 11) % 10 !== +c[t]) { return false; }
+      }
+      return true;
+    }
+
+    function cnpjValido(c) {
+      c = soDigitos(c);
+      if (c.length !== 14 || /^(\d)\1+$/.test(c)) { return false; }
+      function dv(n) {
+        var pesos = n === 12 ? [5,4,3,2,9,8,7,6,5,4,3,2] : [6,5,4,3,2,9,8,7,6,5,4,3,2], s = 0;
+        for (var i = 0; i < n; i++) { s += +c[i] * pesos[i]; }
+        var r = s % 11;
+        return r < 2 ? 0 : 11 - r;
+      }
+      return dv(12) === +c[12] && dv(13) === +c[13];
+    }
+
+    function emailValido(e) { return /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(String(e || '').trim()); }
+
+    function semAcentoMin(t) {
+      return String(t || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+    }
+
+    var buscaCep = '', buscaCnpj = '';
+    function aoDigitarCep(el) {
+      var cep = soDigitos(el.value);
+      if (cep.length !== 8 || cep === buscaCep) { return; }
+      buscaCep = cep;
+      DADOS.cepAviso = 'Buscando endere\u00e7o...';
+      pintarPainel(true);
+      fetch('https://viacep.com.br/ws/' + cep + '/json/').then(function (r) { return r.json(); }).then(function (j) {
+        if (j.erro) { DADOS.cepAviso = 'CEP n\u00e3o encontrado. Confira o n\u00famero.'; }
+        else {
+          DADOS.rua = j.logradouro || DADOS.rua || '';
+          DADOS.bairro = j.bairro || DADOS.bairro || '';
+          DADOS.cidade = j.localidade || '';
+          DADOS.uf = j.uf || '';
+          DADOS.cepAviso = '';
+        }
+      }).catch(function () {
+        DADOS.cepAviso = 'N\u00e3o foi poss\u00edvel buscar o CEP agora. Preencha o endere\u00e7o.';
+      }).then(function () { salvarDados(); pintarPainel(true); focar('numero'); });
+    }
+
+    function aoDigitarDoc(el) {
+      var d = soDigitos(el.value);
+      if (DADOS.pessoa !== 'J' || d.length !== 14 || d === buscaCnpj || !cnpjValido(d)) { return; }
+      buscaCnpj = d;
+      DADOS.docAviso = 'Consultando CNPJ na Receita...';
+      pintarPainel(true);
+      fetch('https://brasilapi.com.br/api/cnpj/v1/' + d).then(function (r) {
+        if (!r.ok) { throw new Error(r.status); }
+        return r.json();
+      }).then(function (j) {
+        DADOS.situacao = j.descricao_situacao_cadastral || '';
+        if (DADOS.situacao && DADOS.situacao.toUpperCase() !== 'ATIVA') {
+          DADOS.docAviso = 'Este CNPJ est\u00e1 com situa\u00e7\u00e3o "' + DADOS.situacao + '" na Receita. Fale com a gente pelo WhatsApp.';
+        } else {
+          DADOS.nome = j.razao_social || DADOS.nome;
+          DADOS.fantasia = j.nome_fantasia || '';
+          if (j.cep) {
+            DADOS.cep = String(j.cep).replace(/^(\d{5})(\d{3})$/, '$1-$2');
+            DADOS.rua = [j.descricao_tipo_de_logradouro, j.logradouro].filter(Boolean).join(' ');
+            DADOS.numero = j.numero || DADOS.numero;
+            DADOS.complemento = j.complemento || DADOS.complemento;
+            DADOS.bairro = j.bairro || '';
+            DADOS.cidade = j.municipio ? j.municipio.toLowerCase().replace(/(^|\s)(\S)/g, function (m, e, l) { return e + l.toUpperCase(); }) : '';
+            DADOS.uf = j.uf || '';
+            buscaCep = soDigitos(j.cep);
+          }
+          DADOS.docAviso = 'Dados da Receita preenchidos. Confira abaixo.';
+        }
+      }).catch(function () {
+        DADOS.docAviso = 'N\u00e3o foi poss\u00edvel consultar a Receita agora. Preencha os dados.';
+      }).then(function () { salvarDados(); pintarPainel(true); focar('ie'); });
+    }
+
+    function salvarDados() { try { localStorage.setItem('carrinho-dados', JSON.stringify(DADOS)); } catch (e) {} }
+    function focar(nome) {
+      var el = document.querySelector('#car-corpo [name="' + nome + '"]');
+      if (el && !el.value) { el.focus(); }
+    }
+
+    function campoAviso(chave) {
+      return DADOS[chave] ? '<p class="car-nota aviso">' + esc(DADOS[chave]) + '</p>' : '';
+    }
+
+    function blocoCadastro() {
+      var pj = DADOS.pessoa === 'J';
+      return '<h4>Seus dados</h4>'
+        + '<div class="opc">' + opcao('pessoa', 'F', 'Pessoa f\u00edsica (CPF)') + opcao('pessoa', 'J', 'Empresa (CNPJ)') + '</div>'
+        + (!DADOS.pessoa ? '' :
+          campo('doc', pj ? 'CNPJ *' : 'CPF *', 'text', ' inputmode="numeric" onblur="aoDigitarDoc(this)" onkeyup="aoDigitarDoc(this)"')
+          + campoAviso('docAviso')
+          + campo('nome', pj ? 'Raz\u00e3o social *' : 'Nome completo *')
+          + (pj ? '<div class="dupla">' + campo('ie', 'Inscri\u00e7\u00e3o estadual *', 'text', ' placeholder="N\u00famero ou ISENTO"')
+                + campo('fantasia', 'Nome fantasia') + '</div>' : '')
+          + '<div class="dupla">' + campo('fone', 'WhatsApp com DDD *', 'tel', ' placeholder="(31) 9 0000-0000"')
+          + campo('email', 'E-mail *', 'email', ' placeholder="nome@email.com"') + '</div>'
+          + '<h4>Endere\u00e7o</h4>'
+          + '<div class="dupla">' + campo('cep', 'CEP *', 'text', ' inputmode="numeric" placeholder="00000-000" onkeyup="aoDigitarCep(this)"')
+          + campo('numero', 'N\u00famero *') + '</div>'
+          + campoAviso('cepAviso')
+          + campo('rua', 'Rua *')
+          + '<div class="dupla">' + campo('complemento', 'Complemento') + campo('bairro', 'Bairro *') + '</div>'
+          + '<div class="dupla">' + campo('cidade', 'Cidade *') + campo('uf', 'UF *', 'text', ' maxlength="2"') + '</div>'
+          + '<p class="car-nota">Usamos esses dados para emitir a nota fiscal e fazer a entrega.</p>');
+    }
+
+    function faltaCadastro() {
+      var f = [], pj = DADOS.pessoa === 'J';
+      if (!DADOS.pessoa) { return ['pessoa f\u00edsica ou empresa']; }
+      if (pj ? !cnpjValido(DADOS.doc) : !cpfValido(DADOS.doc)) { f.push(pj ? 'CNPJ v\u00e1lido' : 'CPF v\u00e1lido'); }
+      if (pj && DADOS.situacao && DADOS.situacao.toUpperCase() !== 'ATIVA') { f.push('CNPJ ativo na Receita'); }
+      if (!(DADOS.nome || '').trim()) { f.push(pj ? 'raz\u00e3o social' : 'nome completo'); }
+      if (pj && !(DADOS.ie || '').trim()) { f.push('inscri\u00e7\u00e3o estadual (ou ISENTO)'); }
+      if (soDigitos(DADOS.fone).length < 10) { f.push('WhatsApp com DDD'); }
+      if (!emailValido(DADOS.email)) { f.push('e-mail v\u00e1lido'); }
+      if (soDigitos(DADOS.cep).length !== 8) { f.push('CEP'); }
+      if (!(DADOS.numero || '').trim()) { f.push('n\u00famero'); }
+      if (!(DADOS.rua || '').trim()) { f.push('rua'); }
+      if (!(DADOS.bairro || '').trim()) { f.push('bairro'); }
+      if (!(DADOS.cidade || '').trim() || !(DADOS.uf || '').trim()) { f.push('cidade e UF'); }
+      return f;
+    }
+
+    function detalhePagamento() {
+      if (DADOS.pagto === 'Crédito') {
+        var max = parcelasPossiveis(), esc_ = parcelasEscolhidas(), tf = totalFinal(), op = '';
+        for (var n = 1; n <= max; n++) {
+          op += '<option value="' + n + '"' + (n === esc_ ? ' selected' : '') + '>'
+            + (n === 1 ? '\u00c0 vista ' + moeda(tf) : n + 'x de ' + moeda(tf / n) + ' sem juros') + '</option>';
+        }
+        return '<label>Parcelas<select name="parcelas" onchange="guardarDado(this)">' + op + '</select></label>'
+          + '<p class="car-nota">At\u00e9 ' + PARCELAS_MAX + 'x sem juros, parcela m\u00ednima de ' + moeda(PARCELA_MINIMA) + '.</p>';
+      }
+      if (DADOS.pagto === 'Conv\u00eanio') { return campo('convenio', 'Empresa do conv\u00eanio *'); }
+      if (DADOS.pagto === 'Dinheiro') { return campo('troco', 'Troco para quanto? (opcional)', 'text', ' placeholder="Ex.: R$ 100,00"'); }
+      return '';
+    }
+
+    function pintarPainel(manterFoco) {
       var corpo = document.getElementById('car-corpo');
+      var ativo = manterFoco && document.activeElement && document.activeElement.name;
       var rodape = document.getElementById('car-rodape');
       if (!CARRINHO.length) {
         corpo.innerHTML = '<div class="car-vazio"><p><b>Seu carrinho est\u00e1 vazio.</b></p>'
@@ -1320,55 +1762,187 @@
           + '</div>';
       }).join('');
       var entrega = DADOS.entrega === 'entrega';
+      ajustarPagamentoUrgente();
       corpo.innerHTML = linhas
         + '<div class="car-sub"><span>Total dos produtos</span><b>' + moeda(totalCarrinho()) + '</b></div>'
-        + '<p class="car-nota">Pre\u00e7os do site. Estoque, frete e pagamento s\u00e3o confirmados pela Toledo no WhatsApp antes de fechar o pedido.</p>'
+        + (totalCarrinho() < ENTREGA_GRATIS_A_PARTIR
+            ? '<p class="car-nota">Entrega sem taxa a partir de ' + moeda(ENTREGA_GRATIS_A_PARTIR) + '. Faltam ' + moeda(ENTREGA_GRATIS_A_PARTIR - totalCarrinho()) + '.</p>'
+            : '<p class="car-nota">Entrega sem taxa nesta compra.</p>')
+        + '<p class="car-nota">Pre\u00e7os do site. Estoque, frete e pagamento s\u00e3o confirmados pela Toledo no WhatsApp antes de fechar o pedido. <a href="politicas.html" target="_blank" rel="noopener">Entregas, trocas e privacidade</a></p>'
         + '<div class="car-form">'
-        + '<h4>Seus dados</h4>'
-        + campo('nome', 'Nome ou raz\u00e3o social *')
-        + '<div class="dupla">' + campo('fone', 'WhatsApp com DDD *', 'tel', ' placeholder="(31) 9 0000-0000"')
-        + campo('doc', 'CPF ou CNPJ') + '</div>'
+        + blocoCadastro()
         + '<h4>Como receber</h4>'
-        + '<div class="opc">' + opcao('entrega', 'retirar', 'Retirar na loja') + opcao('entrega', 'entrega', 'Entrega') + '</div>'
-        + (entrega
-            ? campo('endereco', 'Endere\u00e7o e n\u00famero *') + '<div class="dupla">' + campo('bairro', 'Bairro *') + campo('cidade', 'Cidade *') + '</div>'
-            : (DADOS.entrega === 'retirar' ? '<p class="car-nota">Rua S\u00e3o Paulo, 67 - Boa Vista, Sete Lagoas/MG</p>' : ''))
+        + '<div class="opc">' + opcao('entrega', 'retirar', 'Retirar na loja') + opcao('entrega', 'entrega', 'Entrega no endere\u00e7o acima') + '</div>'
+        + (DADOS.entrega === 'retirar' ? '<p class="car-nota">Rua S\u00e3o Paulo, 67 - Boa Vista, Sete Lagoas/MG</p>' : '')
+        + (DADOS.entrega === 'entrega'
+            ? (janelaRapida().aberta
+                ? '<label class="car-urgente"><input type="checkbox" ' + (DADOS.urgente === 'S' ? 'checked ' : '')
+                  + 'onchange="DADOS.urgente = this.checked ? \'S\' : \'\'; salvarDados(); pintarPainel(true)">'
+                  + '<span><b>\u26a1 Entrega r\u00e1pida + ' + moeda(URGENTE_VALOR) + '</b>'
+                  + '<small>Separamos o pedido, a vendedora libera o pagamento por PIX e a entrega sai por aplicativo em '
+                  + '<b>at\u00e9 2 horas a partir do pagamento confirmado</b>.'
+                  + '<br>Pedidos das ' + janelaRapida().abre + ' \u00e0s ' + janelaRapida().ultimo
+                  + ' \u00b7 dispon\u00edvel por mais <b>' + tempoFalta(janelaRapida().fechaEm) + '</b> hoje.</small></span></label>'
+                : '<div class="car-urgente fechada"><span><b>\u26a1 Entrega r\u00e1pida indispon\u00edvel agora</b>'
+                  + '<small>Pedidos das ' + janelaRapida().abre + ' \u00e0s ' + janelaRapida().ultimo
+                  + ', com entrega em at\u00e9 2 horas, at\u00e9 as ' + URGENTE_FECHA + 'h.</small></span></div>')
+            : '')
         + '<h4>Pagamento</h4>'
-        + '<div class="opc">' + opcao('pagto', 'PIX', 'PIX') + opcao('pagto', 'Cart\u00e3o', 'Cart\u00e3o at\u00e9 10x') + opcao('pagto', 'Dinheiro', 'Dinheiro') + '</div>'
+        + (urgente() ? '' : '<div class="car-pagto-destaque">PAGAMENTO NO ATO DA ' + (DADOS.entrega === 'retirar' ? 'RETIRADA' : 'ENTREGA') + '<span>Nada \u00e9 cobrado no site. Voc\u00ea paga quando receber o pedido.</span></div>')
+        + (urgente()
+            ? '<div class="car-pix">Na entrega r\u00e1pida o pagamento \u00e9 <b>somente por PIX</b>, e acontece '
+              + '<b>depois da separa\u00e7\u00e3o</b>: a vendedora confere os itens e <b>avisa no WhatsApp quando o pagamento '
+              + 'estiver liberado</b>.<br>Chave PIX (CNPJ): <b>' + CHAVE_PIX + '</b><br><span>' + CHAVE_PIX_TITULAR + '</span>'
+              + '<br><span>O prazo de at\u00e9 2 horas come\u00e7a a contar da confirma\u00e7\u00e3o do pagamento.</span></div>'
+            : '<div class="opc">' + PAGAMENTOS.map(function (p) { return opcao('pagto', p[0], p[1]); }).join('') + '</div>'
+              + detalhePagamento())
         + '<label>Observa\u00e7\u00f5es<textarea name="obs" rows="2" oninput="guardarDado(this)">' + esc(DADOS.obs) + '</textarea></label>'
         + '<p class="erro" id="car-erro"></p>'
         + '</div>';
       corpo.scrollTop = rolagem;
-      rodape.innerHTML = '<button class="car-enviar" type="button" onclick="enviarPedido()">Enviar pedido pelo WhatsApp \u00b7 ' + moeda(totalCarrinho()) + '</button>';
+      if (ativo) {
+        var el = corpo.querySelector('[name="' + ativo + '"]');
+        if (el && el.type !== 'radio') { el.focus(); try { el.setSelectionRange(el.value.length, el.value.length); } catch (e) {} }
+      }
+      pintarRodape();
+    }
+
+    function textoPrazo() {
+      if (urgente()) { return 'at\u00e9 2 horas ap\u00f3s o pagamento'; }
+      var p = DADOS.entrega === 'retirar' ? PRAZO_RETIRADA : PRAZO_ENTREGA;
+      return p || 'a confirmar pela equipe';
+    }
+
+    /* NUMERO DO PEDIDO DO SITE. O numero do Sankhya so' existe depois que o
+       pedido e' gravado la', e a mensagem sai do celular do cliente antes
+       disso. Este codigo nasce no clique de enviar, vai em destaque no topo
+       da mensagem e e' gravado na observacao do pedido no Sankhya -- e' por
+       ele que a equipe acha o pedido. */
+    function vendedoraDoMinuto(d) {
+      d = d || agoraBR();
+      var minutos = Math.floor(d.getTime() / 60000);
+      return VENDEDORAS[minutos % VENDEDORAS.length];
+    }
+
+    function novoNumeroPedido() {
+      var d = agoraBR(), z = function (n) { return (n < 10 ? '0' : '') + n; };
+      var sufixo = Math.random().toString(36).slice(2, 5).toUpperCase();
+      return 'S' + String(d.getFullYear()).slice(2) + z(d.getMonth() + 1) + z(d.getDate())
+        + '-' + z(d.getHours()) + z(d.getMinutes()) + '-' + sufixo;
+    }
+
+    /* PEDIDO ENVIADO. O cliente acabou de abrir o WhatsApp com o pedido, e
+       aqui ele ve' o que falta: na entrega rapida, pagar o PIX e mandar o
+       comprovante -- com um botao que abre a conversa da loja ja' com o
+       numero do pedido escrito, para ele so' anexar a imagem. "Talvez criar
+       botao no site que direcione o cliente ao zap pra enviar o comprovante"
+       -- Adriana, 17/09/2026. */
+    function mostrarEnviado(pixAntecipado) {
+      var num = DADOS.numeroPedido || '';
+      var msg = encodeURIComponent('Comprovante do PIX do pedido ' + num + ' (vou anexar aqui).');
+      var corpo = document.getElementById('car-corpo');
+      corpo.innerHTML = '<div class="car-enviado">'
+        + '<div class="tic">\u2713</div>'
+        + '<h4>Pedido enviado!</h4>'
+        + '<p>N\u00famero do pedido: <b>' + esc(num) + '</b><br>Vendedora: <b>' + esc(DADOS.vendedora || '') + '</b></p>'
+        + (pixAntecipado
+            ? '<div class="car-pix"><b>Aguarde o aviso da vendedora.</b> Vamos separar o seu pedido e conferir os itens. '
+              + 'Quando estiver tudo certo, ela libera o pagamento no WhatsApp.'
+              + '<br>Valor previsto: <b>' + moeda(totalFinal()) + '</b> \u00b7 PIX na chave CNPJ <b>' + CHAVE_PIX + '</b>'
+              + '<br><span>' + CHAVE_PIX_TITULAR + '</span>'
+              + '<br><span>Depois do pagamento confirmado, a entrega sai em at\u00e9 2 horas.</span></div>'
+              + '<a class="bt-comprovante" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + msg + '">'
+              + '\ud83d\udcce J\u00e1 paguei \u2014 enviar comprovante</a>'
+              + '<button class="bt-copiar" type="button" onclick="copiarChavePix(this)">Copiar chave PIX</button>'
+            : '<p class="car-nota">Se o WhatsApp n\u00e3o abrir, chame a loja no '
+              + '<a target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '">(31) 9 8511-3106</a>'
+              + ' e informe o n\u00famero do pedido.</p>')
+        + '<button class="bt-voltar" type="button" onclick="pintarPainel()">Voltar ao carrinho</button>'
+        + '<button class="bt-limpar" type="button" onclick="limparCarrinho()">Limpar carrinho</button>'
+        + '</div>';
+      document.getElementById('car-rodape').innerHTML = '';
+      corpo.scrollTop = 0;
+    }
+
+    function copiarChavePix(bt) {
+      var texto = CHAVE_PIX.replace(/\D/g, '');
+      var ok = function () { bt.textContent = 'Chave copiada!'; setTimeout(function () { bt.textContent = 'Copiar chave PIX'; }, 2500); };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(texto).then(ok, function () { bt.textContent = CHAVE_PIX; });
+      } else {
+        bt.textContent = CHAVE_PIX;
+      }
+    }
+
+    function limparCarrinho() {
+      CARRINHO = [];
+      salvarCarrinho();
+      pintarPainel();
+    }
+
+    function pintarRodape() {
+      var rodape = document.getElementById('car-rodape');
+      if (!CARRINHO.length) { rodape.innerHTML = ''; return; }
+      var fr = freteDoPedido();
+      var final = totalFinal();
+      rodape.innerHTML = (DADOS.entrega === 'entrega'
+          ? '<div class="car-frete"><span>Taxa de entrega</span><b>' + fr.texto + '</b></div>'
+          : '')
+        + (urgente() ? '<div class="car-frete"><span>Entrega rápida</span><b>+ ' + moeda(URGENTE_VALOR) + '</b></div>' : '')
+        + '<div class="car-frete"><span>Prazo estimado de ' + (DADOS.entrega === 'retirar' ? 'retirada' : 'entrega') + '</span><b>' + textoPrazo() + '</b></div>'
+        + (urgente() ? '<div class="car-pagto-rodape">Entrega r\u00e1pida: pagamento por PIX</div>'
+                     : '<div class="car-pagto-rodape">Pagamento no ato da ' + (DADOS.entrega === 'retirar' ? 'retirada' : 'entrega') + '</div>')
+        + '<button class="car-enviar" type="button" onclick="enviarPedido()">Enviar pedido pelo WhatsApp \u00b7 ' + moeda(final) + '</button>';
     }
 
     function montarPedido() {
-      var t = ['*PEDIDO PELO SITE - Toledo Distribuidora*', ''];
+      var t = ['*PEDIDO PELO SITE - Toledo Distribuidora*', '',
+               '\ud83d\udd16 *N\u00ba DO PEDIDO: ' + (DADOS.numeroPedido || '') + '*',
+               '\ud83d\udc64 *VENDEDORA: ' + (DADOS.vendedora || '') + '*', ''];
       CARRINHO.forEach(function (x) {
         var i = itemDoCodigo(x.cod);
         t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd));
       });
-      t.push('', '*Total dos produtos: ' + moeda(totalCarrinho()) + '*', '');
-      t.push('Cliente: ' + DADOS.nome.trim());
-      t.push('WhatsApp: ' + DADOS.fone.trim());
-      if ((DADOS.doc || '').trim()) { t.push('CPF/CNPJ: ' + DADOS.doc.trim()); }
-      t.push(DADOS.entrega === 'entrega'
-        ? 'Entrega: ' + DADOS.endereco.trim() + ' - ' + DADOS.bairro.trim() + ' - ' + DADOS.cidade.trim()
-        : 'Retirar na loja');
-      t.push('Pagamento: ' + DADOS.pagto);
+      t.push('', 'Total dos produtos: ' + moeda(totalCarrinho()));
+      if (DADOS.entrega === 'entrega') {
+        var fr = freteDoPedido();
+        t.push('Taxa de entrega: ' + fr.texto);
+        if (urgente()) {
+          t.push('\u26a1 *ENTREGA R\u00c1PIDA: + ' + moeda(URGENTE_VALOR) + '*');
+          t.push('\u23f1\ufe0f *PRAZO: at\u00e9 2 horas ap\u00f3s a confirma\u00e7\u00e3o do pagamento* (pedido feito ' + hhmm(agoraBR()) + ')');
+        }
+        t.push('*Total: ' + moeda(totalFinal()) + (fr.valor === null ? ' + entrega a combinar' : '') + '*');
+      } else {
+        t.push('*Total: ' + moeda(totalCarrinho()) + '*');
+      }
+      t.push('');
+      var pj = DADOS.pessoa === 'J';
+      t.push('Cliente: ' + DADOS.nome.trim() + (pj && (DADOS.fantasia || '').trim() ? ' (' + DADOS.fantasia.trim() + ')' : ''));
+      t.push((pj ? 'CNPJ: ' : 'CPF: ') + DADOS.doc.trim() + (pj ? ' - IE: ' + DADOS.ie.trim() : ''));
+      t.push('WhatsApp: ' + DADOS.fone.trim() + ' - E-mail: ' + DADOS.email.trim());
+      t.push('Endere\u00e7o: ' + DADOS.rua.trim() + ', ' + DADOS.numero.trim()
+        + ((DADOS.complemento || '').trim() ? ' - ' + DADOS.complemento.trim() : '')
+        + ' - ' + DADOS.bairro.trim() + ' - ' + DADOS.cidade.trim() + '/' + DADOS.uf.trim().toUpperCase()
+        + ' - CEP ' + DADOS.cep.trim());
+      t.push(DADOS.entrega === 'entrega' ? 'Receber: entrega no endere\u00e7o' : 'Receber: retirar na loja');
+      t.push('Prazo estimado de ' + (DADOS.entrega === 'retirar' ? 'retirada' : 'entrega') + ': ' + textoPrazo());
+      if (urgente() && URGENTE_SO_PIX) {
+        t.push('Pagamento: PIX (entrega r\u00e1pida) - chave CNPJ ' + CHAVE_PIX);
+        t.push('Aguardo a separa\u00e7\u00e3o e o aviso da vendedora para pagar.');
+      } else {
+        t.push('Pagamento na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + ': ' + textoPagamento());
+      }
       if ((DADOS.obs || '').trim()) { t.push('Obs.: ' + DADOS.obs.trim()); }
       return t.join('\n');
     }
 
     function enviarPedido() {
       var falta = [];
-      if (!(DADOS.nome || '').trim()) { falta.push('nome'); }
-      if ((DADOS.fone || '').replace(/\D/g, '').length < 10) { falta.push('WhatsApp com DDD'); }
+      falta = falta.concat(faltaCadastro());
       if (!DADOS.entrega) { falta.push('retirar ou entrega'); }
-      if (DADOS.entrega === 'entrega' && !((DADOS.endereco || '').trim() && (DADOS.bairro || '').trim() && (DADOS.cidade || '').trim())) {
-        falta.push('endere\u00e7o completo');
-      }
+      if (urgente() && URGENTE_SO_PIX) { DADOS.pagto = 'PIX'; }
       if (!DADOS.pagto) { falta.push('forma de pagamento'); }
+      if (DADOS.pagto === 'Convênio' && !(DADOS.convenio || '').trim()) { falta.push('empresa do convênio'); }
       var erro = document.getElementById('car-erro');
       if (falta.length) {
         erro.textContent = 'Falta preencher: ' + falta.join(', ') + '.';
@@ -1376,7 +1950,11 @@
         return;
       }
       erro.textContent = '';
+      DADOS.numeroPedido = novoNumeroPedido();
+      DADOS.vendedora = vendedoraDoMinuto();
+      var pixAntecipado = urgente() && URGENTE_SO_PIX;
       window.open('https://wa.me/' + WHATS + '?text=' + encodeURIComponent(montarPedido()), '_blank', 'noopener');
+      mostrarEnviado(pixAntecipado);
     }
 
     // ESPERA A PAGINA INTEIRA. A janela do produto e o carrinho ficam no fim
@@ -1388,6 +1966,8 @@
       CARRINHO = CARRINHO.filter(function (x) { return x && itemDoCodigo(x.cod) && x.qtd > 0; })
                          .map(function (x) { return { cod: x.cod, qtd: parseInt(x.qtd, 10) || 1 }; });
       pintarCarrinho();
+      sincronizarHora();
+      setInterval(pintarRelogio, 30000);
       document.addEventListener('keydown', function (ev) {
         if (ev.key === 'Escape') { fecharCarrinho(); }
       });
@@ -1563,7 +2143,7 @@
 <div class="car-aviso" id="car-aviso" role="status" hidden></div>
 <div class="car-fundo" id="car-fundo" hidden>
   <aside class="car-painel" role="dialog" aria-modal="true" aria-label="Carrinho">
-    <div class="car-topo"><h3>Seu carrinho</h3><button type="button" onclick="fecharCarrinho()" aria-label="Fechar">&times;</button></div>
+    <div class="car-topo"><h3>Seu carrinho <span class="car-hora">⏰ <span id="relogio-br">--:--</span> <small>horário de Brasília</small></span></h3><button type="button" onclick="fecharCarrinho()" aria-label="Fechar">&times;</button></div>
     <div class="car-teste" id="car-teste">Pr&eacute;via interna: a compra ainda n&atilde;o est&aacute; liberada para os clientes.</div>
     <div class="car-corpo" id="car-corpo"></div>
     <div class="car-rodape" id="car-rodape"></div>

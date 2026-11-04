@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Listas Escolares 2027 | Toledo Distribuidora de Papéis — Sete Lagoas/MG</title>
+  <meta name="description" content="Listas escolares 2027 orçadas pela Toledo Distribuidora: escolha a escola e o ano do seu filho e veja a lista completa com preços.">
+  <meta property="og:title" content="Listas Escolares 2027 — Toledo Distribuidora">
+  <meta property="og:description" content="Escolha a escola e o ano e veja a lista de material escolar 2027 com preços.">
+  <meta property="og:type" content="website">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap');
+    :root {
+      --vermelho: #e01e3c;
+      --azul: #1a2f52;
+      --cor-clara: #f5f7fa;
+      --cor-texto: #3a4557;
+      --borda: #d5dbe4;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      color: var(--cor-texto);
+      line-height: 1.6;
+      background: var(--cor-clara);
+    }
+
+    /* Cabeçalho e menu (igual ao index.html) */
+    header {
+      background: #fff;
+      padding: 0.4rem 1.5rem;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+    }
+    header img.logo { height: 60px; }
+    nav a {
+      color: var(--azul);
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+    nav a:hover, nav a.ativo { color: var(--vermelho); }
+
+    /* Faixa do título */
+    .faixa {
+      background: var(--azul);
+      color: #fff;
+      text-align: center;
+      padding: 2.2rem 1rem 2rem;
+    }
+    .faixa h1 {
+      font-family: 'Montserrat', 'Segoe UI', sans-serif;
+      font-weight: 800;
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      letter-spacing: 0.02em;
+    }
+    .faixa p { color: #cbd5e1; max-width: 620px; margin: 0.4rem auto 0; }
+
+    main { max-width: 980px; margin: 0 auto; padding: 1.8rem 1rem 3rem; }
+
+    .cartao {
+      background: #fff;
+      border: 1px solid #eef1f5;
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    .escolha { display: grid; grid-template-columns: 1fr 1fr auto; gap: 1rem; align-items: end; }
+    label { display: block; font-weight: 600; color: var(--azul); font-size: 0.9rem; margin-bottom: 0.3rem; }
+    select, input[type=text], input[type=tel] {
+      width: 100%;
+      padding: 0.65rem 0.75rem;
+      border: 1px solid var(--borda);
+      border-radius: 6px;
+      font-size: 1rem;
+      background: #fff;
+      color: var(--cor-texto);
+      font-family: inherit;
+    }
+    select:disabled { background: #f0f2f6; }
+    .btn {
+      background: var(--vermelho);
+      color: #fff;
+      border: 0;
+      border-radius: 6px;
+      padding: 0.7rem 1.4rem;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: inherit;
+      white-space: nowrap;
+    }
+    .btn:disabled { background: #b9c1cd; cursor: not-allowed; }
+    .btn.claro { background: #fff; color: var(--azul); border: 1px solid var(--borda); }
+    .aviso { font-size: 0.85rem; color: #6b7686; margin-top: 0.8rem; }
+    .vazio { text-align: center; padding: 2.5rem 1rem; color: #6b7686; }
+
+    /* Lista */
+    #lista { margin-top: 1.5rem; }
+    .lista-topo { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; align-items: flex-start; margin-bottom: 1rem; }
+    .lista-topo h2 { font-family: 'Montserrat', 'Segoe UI', sans-serif; color: var(--azul); font-size: 1.3rem; line-height: 1.3; }
+    .lista-topo .sub { color: #6b7686; font-size: 0.9rem; }
+    .tabela-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.93rem; }
+    th {
+      background: var(--azul);
+      color: #fff;
+      text-align: left;
+      padding: 0.55rem 0.6rem;
+      font-weight: 600;
+      border: 1px solid #2c4470;
+    }
+    td { padding: 0.5rem 0.6rem; border: 1px solid #e3e8ef; vertical-align: top; }
+    tr:nth-child(even) td { background: #fafbfd; }
+    td.num, th.num { text-align: right; white-space: nowrap; }
+    td.cen, th.cen { text-align: center; }
+    .marca { color: #6b7686; font-size: 0.85rem; }
+    .sem-preco { color: #9aa3b1; font-style: italic; }
+    tr.secao td { background: #e8edf3 !important; font-weight: 700; color: var(--azul); }
+    tr.total td { background: #fff4f6 !important; font-weight: 800; color: var(--azul); font-size: 1.05rem; }
+    .obs { margin-top: 1rem; font-size: 0.9rem; }
+    .obs li { margin-left: 1.2rem; }
+    .acoes { display: flex; gap: 0.8rem; flex-wrap: wrap; margin-top: 1.3rem; }
+    .btn-whats {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      background: #25d366; color: #fff; padding: 0.75rem 1.5rem;
+      border-radius: 30px; text-decoration: none; font-weight: 700;
+    }
+    .btn-whats svg { width: 20px; height: 20px; fill: #fff; }
+    .rodape-lista { font-size: 0.82rem; color: #6b7686; margin-top: 1rem; }
+
+    /* Cadastro para ver a lista */
+    .fundo {
+      position: fixed; inset: 0; background: rgba(15, 25, 45, 0.55);
+      display: flex; align-items: center; justify-content: center; padding: 1rem; z-index: 50;
+    }
+    .fundo[hidden] { display: none; }
+    .janela { background: #fff; border-radius: 12px; max-width: 430px; width: 100%; padding: 1.6rem; box-shadow: 0 10px 40px rgba(0,0,0,0.25); }
+    .janela h3 { font-family: 'Montserrat', 'Segoe UI', sans-serif; color: var(--azul); font-size: 1.2rem; margin-bottom: 0.3rem; }
+    .janela p { font-size: 0.92rem; margin-bottom: 1rem; }
+    .janela .campo { margin-bottom: 0.9rem; }
+    .janela .erro { color: var(--vermelho); font-size: 0.85rem; min-height: 1.2em; }
+    .janela .botoes { display: flex; gap: 0.6rem; justify-content: flex-end; margin-top: 0.4rem; }
+    .janela .lgpd { font-size: 0.78rem; color: #6b7686; margin-top: 0.9rem; }
+
+    footer { background: var(--azul); color: #cbd5e1; text-align: center; padding: 2rem; font-size: 0.9rem; }
+
+    @media (max-width: 720px) {
+      .escolha { grid-template-columns: 1fr; }
+      header { justify-content: center; }
+      nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.1rem 0.65rem; }
+      nav a { margin: 0; padding: 0.35rem 0; }
+      th.marca-col, td.marca-col { display: none; }
+    }
+    @media print {
+      header, .faixa, #escolha, .acoes, footer, .fundo { display: none !important; }
+      body { background: #fff; }
+      main { padding: 0; }
+      .cartao { border: 0; box-shadow: none; padding: 0; }
+      th { background: #fff; color: #000; border: 1px solid #999; }
+      td.marca-col, th.marca-col { display: table-cell !important; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a href="index.html"><img src="logo-toledo.png" alt="Toledo Distribuidora de Papéis" class="logo"></a>
+    <nav>
+      <a href="index.html#inicio">Início</a>
+      <a href="index.html#produtos">Produtos</a>
+      <a href="listas.html" class="ativo">Listas Escolares 2027</a>
+      <a href="index.html#sobre">Sobre</a>
+      <a href="index.html#contato">Contato</a>
+    </nav>
+  </header>
+
+  <div class="faixa">
+    <h1>LISTAS ESCOLARES 2027</h1>
+    <p>Escolha a escola e o ano do seu filho e veja a lista de material completa, já orçada pela Toledo.</p>
+  </div>
+
+  <main>
+    <div class="cartao" id="escolha">
+      <div class="escolha">
+        <div>
+          <label for="escola">Escola</label>
+          <select id="escola"><option value="">Carregando…</option></select>
+        </div>
+        <div>
+          <label for="ano">Ano de matrícula do seu filho em 2027</label>
+          <select id="ano" disabled><option value="">Escolha a escola primeiro</option></select>
+        </div>
+        <button class="btn" id="ver" disabled>Ver lista</button>
+      </div>
+      <p class="aviso" id="aviso-escola">Não achou a escola? Envie a lista pelo WhatsApp (31) 9 8511-3106 que a gente orça para você.</p>
+    </div>
+
+    <div id="lista"></div>
+  </main>
+
+  <div class="fundo" id="cadastro" hidden>
+    <form class="janela" id="form-cadastro" novalidate>
+      <h3>Para ver a lista</h3>
+      <p>Informe seu nome e WhatsApp. É rapidinho e só pedimos uma vez neste aparelho.</p>
+      <div class="campo">
+        <label for="nome">Seu nome</label>
+        <input type="text" id="nome" autocomplete="name" maxlength="80" required>
+      </div>
+      <div class="campo">
+        <label for="fone">WhatsApp com DDD</label>
+        <input type="tel" id="fone" autocomplete="tel" inputmode="numeric" placeholder="(31) 9 0000-0000" maxlength="16" required>
+      </div>
+      <div class="erro" id="erro"></div>
+      <div class="botoes">
+        <button type="button" class="btn claro" id="cancelar">Voltar</button>
+        <button type="submit" class="btn">Ver a lista</button>
+      </div>
+      <p class="lgpd">Usamos seu nome e telefone só para atendimento da Toledo Distribuidora sobre material escolar. Não repassamos seus dados.</p>
+    </form>
+  </div>
+
+  <footer>
+    <p>&copy; <span id="ano-rodape">2026</span> Toledo Distribuidora de Papéis. Todos os direitos reservados.</p>
+  </footer>
+
+  <script>
+  (function () {
+    // Endereço que grava quem acessou (painel da Toledo no Lovable). Vazio = guarda no aparelho e envia quando existir.
+    var LISTAS_ENDPOINT = '';
+    var WHATS = '5531985113106';
+    var CHAVE_CAD = 'toledo_listas_cadastro';
+    var CHAVE_FILA = 'toledo_listas_fila';
+
+    var dados = { escolas: [] };
+    var $ = function (id) { return document.getElementById(id); };
+    var selEscola = $('escola'), selAno = $('ano'), btnVer = $('ver');
+    $('ano-rodape').textContent = new Date().getFullYear();
+
+    function ler(k) { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch (e) { return null; } }
+    function gravar(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+    function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+    function reais(v) { return 'R$ ' + Number(v).toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
+    function soDigitos(s) { return String(s || '').replace(/\D/g, ''); }
+
+    function idAparelho() {
+      var c = ler(CHAVE_CAD) || {};
+      if (!c.aparelho) { c.aparelho = Date.now().toString(36) + Math.random().toString(36).slice(2, 8); gravar(CHAVE_CAD, c); }
+      return c.aparelho;
+    }
+
+    // ---------- registro de acesso ----------
+    function enviar(reg) {
+      if (!LISTAS_ENDPOINT) return Promise.reject();
+      // text/plain evita a pré-verificação de CORS; o servidor lê o corpo como JSON
+      return fetch(LISTAS_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=UTF-8' }, body: JSON.stringify(reg), keepalive: true })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); });
+    }
+    function registrar(escola, lista) {
+      var c = ler(CHAVE_CAD) || {};
+      var reg = { nome: c.nome, telefone: c.telefone, escola: escola.nome, escola_id: escola.id, ano: lista.ano,
+                  lista_id: lista.id, aparelho: idAparelho(), quando: new Date().toISOString(), pagina: location.href.split('#')[0] };
+      enviar(reg).catch(function () {
+        var fila = ler(CHAVE_FILA) || []; fila.push(reg); gravar(CHAVE_FILA, fila.slice(-50));
+      });
+    }
+    function esvaziarFila() {
+      var fila = ler(CHAVE_FILA) || [];
+      if (!fila.length || !LISTAS_ENDPOINT) return;
+      gravar(CHAVE_FILA, []);
+      fila.forEach(function (reg) { enviar(reg).catch(function () { var f = ler(CHAVE_FILA) || []; f.push(reg); gravar(CHAVE_FILA, f); }); });
+    }
+
+    // ---------- escolha ----------
+    function escolhaAtual() {
+      var e = dados.escolas.filter(function (x) { return x.id === selEscola.value; })[0];
+      var l = e && e.listas.filter(function (x) { return x.id === selAno.value; })[0];
+      return { escola: e, lista: l };
+    }
+    function montarEscolas() {
+      var es = dados.escolas.slice().sort(function (a, b) { return a.nome.localeCompare(b.nome, 'pt-BR'); });
+      if (!es.length) {
+        selEscola.innerHTML = '<option value="">Em breve</option>';
+        selEscola.disabled = true;
+        $('lista').innerHTML = '<div class="cartao vazio">As listas de 2027 estão sendo orçadas e aparecem aqui assim que as escolas divulgarem.<br>Já tem a lista em mãos? Envie pelo WhatsApp (31) 9 8511-3106.</div>';
+        return;
+      }
+      selEscola.innerHTML = '<option value="">Escolha a escola</option>' + es.map(function (e) {
+        return '<option value="' + esc(e.id) + '">' + esc(e.nome) + '</option>';
+      }).join('');
+    }
+    selEscola.addEventListener('change', function () {
+      var e = escolhaAtual().escola;
+      $('lista').innerHTML = '';
+      if (!e) { selAno.innerHTML = '<option value="">Escolha a escola primeiro</option>'; selAno.disabled = true; btnVer.disabled = true; return; }
+      selAno.innerHTML = '<option value="">Escolha o ano</option>' + e.listas.map(function (l) {
+        return '<option value="' + esc(l.id) + '">' + esc(l.ano) + '</option>';
+      }).join('');
+      selAno.disabled = false; btnVer.disabled = true;
+      if (e.listas.length === 1) { selAno.value = e.listas[0].id; btnVer.disabled = false; }
+    });
+    selAno.addEventListener('change', function () { btnVer.disabled = !selAno.value; $('lista').innerHTML = ''; });
+
+    btnVer.addEventListener('click', function () {
+      var c = ler(CHAVE_CAD) || {};
+      if (c.nome && c.telefone) mostrar(); else abrirCadastro();
+    });
+
+    // ---------- cadastro ----------
+    var fone = $('fone');
+    fone.addEventListener('input', function () {
+      var d = soDigitos(fone.value).slice(0, 11), s = d;
+      if (d.length > 2) s = '(' + d.slice(0, 2) + ') ' + d.slice(2);
+      if (d.length > 7) s = '(' + d.slice(0, 2) + ') ' + d.slice(2, d.length - 4) + '-' + d.slice(-4);
+      fone.value = s;
+    });
+    function abrirCadastro() { $('erro').textContent = ''; $('cadastro').hidden = false; $('nome').focus(); }
+    $('cancelar').addEventListener('click', function () { $('cadastro').hidden = true; });
+    $('form-cadastro').addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      var nome = $('nome').value.trim().replace(/\s+/g, ' ');
+      var tel = soDigitos(fone.value);
+      if (nome.length < 3 || !/[a-zA-ZÀ-ÿ]/.test(nome)) { $('erro').textContent = 'Digite seu nome.'; return; }
+      if (!(tel.length === 11 && tel[2] === '9') && tel.length !== 10) { $('erro').textContent = 'Digite o WhatsApp com DDD, ex.: (31) 9 8511-3106.'; return; }
+      var c = ler(CHAVE_CAD) || {};
+      c.nome = nome; c.telefone = tel; gravar(CHAVE_CAD, c);
+      $('cadastro').hidden = true;
+      mostrar();
+    });
+
+    // ---------- lista ----------
+    function mostrar() {
+      var a = escolhaAtual();
+      if (!a.lista) return;
+      registrar(a.escola, a.lista);
+      var L = a.lista, total = 0, faltaPreco = false, linhas = '';
+      (L.itens || []).forEach(function (it) {
+        if (it.secao) { linhas += '<tr class="secao"><td colspan="5">' + esc(it.secao) + '</td></tr>'; return; }
+        var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
+        if (p == null) faltaPreco = true; else total += q * p;
+        linhas += '<tr><td>' + esc(it.descricao) + (it.obs ? '<div class="marca">' + esc(it.obs) + '</div>' : '') + '</td>' +
+                  '<td class="cen">' + esc(it.qtd) + (it.unidade ? ' ' + esc(it.unidade) : '') + '</td>' +
+                  '<td class="marca-col marca">' + esc(it.marca || '') + '</td>' +
+                  (p == null ? '<td class="num sem-preco">consultar</td><td class="num sem-preco">—</td>'
+                             : '<td class="num">' + reais(p) + '</td><td class="num">' + reais(q * p) + '</td>') + '</tr>';
+      });
+      var c = ler(CHAVE_CAD) || {};
+      var msg = 'Olá! Sou ' + (c.nome || '') + ' e quero o orçamento da lista escolar 2027 da escola ' + a.escola.nome + ', ' + L.ano +
+                (L.orcamento ? ' (orçamento nº ' + L.orcamento + ')' : '') + '.';
+      $('lista').innerHTML =
+        '<div class="cartao">' +
+          '<div class="lista-topo"><div><h2>' + esc(a.escola.nome) + ' · ' + esc(L.ano) + '</h2>' +
+          '<div class="sub">Lista de material 2027' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
+          (L.atualizado ? ' · preços de ' + esc(L.atualizado) : '') + '</div></div></div>' +
+          '<div class="tabela-wrap"><table><thead><tr><th>Item</th><th class="cen">Qtd</th><th class="marca-col">Marca</th>' +
+          '<th class="num">Preço un.</th><th class="num">Total</th></tr></thead><tbody>' + linhas +
+          '<tr class="total"><td colspan="4">Total da lista' + (faltaPreco ? ' (sem os itens a consultar)' : '') + '</td><td class="num">' + reais(total) + '</td></tr>' +
+          '</tbody></table></div>' +
+          (L.observacoes && L.observacoes.length ? '<ul class="obs">' + L.observacoes.map(function (o) { return '<li>' + esc(o) + '</li>'; }).join('') + '</ul>' : '') +
+          '<div class="acoes">' +
+            '<a class="btn-whats" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '">' +
+            '<svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3z"/></svg>' +
+            'Pedir esta lista pelo WhatsApp</a>' +
+            '<button class="btn claro" onclick="window.print()">Imprimir</button>' +
+          '</div>' +
+          '<p class="rodape-lista">Preços sujeitos a alteração e à disponibilidade de estoque. Marcas indicadas quando a escola não pede uma marca específica; podemos trocar a seu pedido.</p>' +
+        '</div>';
+      $('lista').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    fetch('listas_escolares.json?v=' + Date.now())
+      .then(function (r) { return r.ok ? r.json() : { escolas: [] }; })
+      .catch(function () { return { escolas: [] }; })
+      .then(function (d) { dados = d && d.escolas ? d : { escolas: [] }; montarEscolas(); esvaziarFila(); });
+  })();
+  </script>
+</body>
+</html>
