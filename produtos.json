@@ -1547,6 +1547,13 @@
      "img": "produtos/1661.jpg"
     },
     {
+     "cod": 1662,
+     "nome": "LAPIS 36CORES-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 19.9,
+     "img": "produtos/1662.jpg"
+    },
+    {
      "cod": 4869,
      "nome": "LAPIS 6CORES NEON-MAPED",
      "marca": "MAPED",
@@ -2976,7 +2983,7 @@
    "itens": [
     {
      "cod": 12701,
-     "nome": "AAPONTADOR TRIS C/D+BORR 1F-ALLBLACK CORES",
+     "nome": "APONTADOR TRIS C/D+BORR 1F-ALLBLACK CORES",
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/12701.jpg"
@@ -5091,6 +5098,13 @@
      "img": "produtos/14097.jpg"
     },
     {
+     "cod": 13538,
+     "nome": "CADERNO CALIGRAFIA 40F-FORONI",
+     "marca": "FORONI",
+     "preco": 3.9,
+     "img": "produtos/13538.jpg"
+    },
+    {
      "cod": 11483,
      "nome": "CADERNO CALIGRAFIA 40F-SAPECA FEMININO",
      "marca": "TILIBRA",
@@ -6226,6 +6240,13 @@
      "marca": "JANDAIA",
      "preco": 9.9,
      "img": "produtos/10148.jpg"
+    },
+    {
+     "cod": 440,
+     "nome": "CADERNO PEQ. MUSICA 48F-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 11.9,
+     "img": "produtos/440.jpg"
     },
     {
      "cod": 12858,
@@ -7497,6 +7518,13 @@
      "img": "produtos/7003.jpg"
     },
     {
+     "cod": 2297,
+     "nome": "PERFURADOR PAPEL 1 FURO JOCAR",
+     "marca": "JOCAR",
+     "preco": 12.9,
+     "img": "produtos/2297.jpg"
+    },
+    {
      "cod": 6617,
      "nome": "PERFURADOR PAPEL 1 FURO MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -7637,7 +7665,7 @@
     },
     {
      "cod": 4958,
-     "nome": "REGUA 30CM ALUMINIO-CIS",
+     "nome": "REGUA 30CM ALUMINIO",
      "marca": "CIS",
      "preco": 15.9,
      "img": "produtos/4958.jpg"
@@ -7965,8 +7993,15 @@
      "cod": 14396,
      "nome": "GRAMPO 23/10 C/5000-BACCHI",
      "marca": "",
-     "preco": 32.9,
+     "preco": 36.9,
      "img": "produtos/14396.jpg"
+    },
+    {
+     "cod": 14613,
+     "nome": "GRAMPO 23/13 C/5000-BACCHI",
+     "marca": "",
+     "preco": 39.9,
+     "img": "produtos/14613.jpg"
     },
     {
      "cod": 10248,
@@ -8093,6 +8128,13 @@
      "marca": "JOCAR",
      "preco": 15.9,
      "img": "produtos/4155.jpg"
+    },
+    {
+     "cod": 1546,
+     "nome": "GRAMPO TRILHO PLAST ESTENDIDO C/50",
+     "marca": "DELLO",
+     "preco": 39.9,
+     "img": "produtos/1546.jpg"
     },
     {
      "cod": 1548,
@@ -9187,6 +9229,13 @@
      "marca": "CHAMEX",
      "preco": 28.0,
      "img": "produtos/2130.jpg"
+    },
+    {
+     "cod": 3583,
+     "nome": "PAPEL PARANA N.80 100X80CM",
+     "marca": "SANTECK",
+     "preco": 13.9,
+     "img": "produtos/3583.jpg"
     },
     {
      "cod": 2133,
@@ -10833,11 +10882,25 @@
      "img": "produtos/13373.jpg"
     },
     {
+     "cod": 13743,
+     "nome": "SELO CONVITE VERDE 12/13MM C/210",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/13743.jpg"
+    },
+    {
      "cod": 9783,
      "nome": "SELO CONVITE VERDE BANDEIRA 15MM C/210",
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/9783.jpg"
+    },
+    {
+     "cod": 8726,
+     "nome": "SELO CONVITE VERMELHO 12/13MM C/210",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/8726.jpg"
     }
    ]
   },
@@ -11049,11 +11112,32 @@
      "img": "produtos/9251.jpg"
     },
     {
+     "cod": 9252,
+     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-26X36 (CINZA)",
+     "marca": "MAXCRIL",
+     "preco": 1.2,
+     "img": "produtos/9252.jpg"
+    },
+    {
      "cod": 14490,
-     "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (BRANCO)",
+     "nome": "ENVELOPE SEGURANCA ECOMMERCE-32X40",
      "marca": "MAXCRIL",
      "preco": 1.5,
-     "img": "produtos/14490.jpg"
+     "img": "produtos/14490.jpg",
+     "cores": [
+      {
+       "cod": 14490,
+       "cor": "Branco",
+       "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (BRANCO)",
+       "img": "produtos/14490.jpg"
+      },
+      {
+       "cod": 9253,
+       "cor": "Cinza",
+       "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (CINZA)",
+       "img": "produtos/9253.jpg"
+      }
+     ]
     },
     {
      "cod": 9254,
@@ -11171,6 +11255,13 @@
      "marca": "ACP",
      "preco": 8.5,
      "img": "produtos/3532.jpg"
+    },
+    {
+     "cod": 1818,
+     "nome": "MALOTE PLASTICO 235X330MM-ACP",
+     "marca": "ACP",
+     "preco": 9.9,
+     "img": "produtos/1818.jpg"
     },
     {
      "cod": 4101,
@@ -15117,6 +15208,13 @@
      "img": "produtos/1130.jpg"
     },
     {
+     "cod": 1131,
+     "nome": "ESPIRAL 09MM P/50F C/100",
+     "marca": "",
+     "preco": 47.9,
+     "img": "produtos/1131.jpg"
+    },
+    {
      "cod": 1120,
      "nome": "ESPIRAL 14MM P/85F C/100",
      "marca": "",
@@ -15204,7 +15302,7 @@
      "cod": 2379,
      "nome": "OFERTA 276X200 C/10",
      "marca": "GRESPAN",
-     "preco": 16.9,
+     "preco": 17.9,
      "img": "produtos/2379.jpg"
     },
     {
@@ -15678,7 +15776,7 @@
      "cod": 1333,
      "nome": "FIX PIN 25MM C/5000",
      "marca": "ETIQ PLAST",
-     "preco": 51.9,
+     "preco": 54.9,
      "img": "produtos/1333.jpg"
     },
     {
@@ -17479,13 +17577,6 @@
      "img": "produtos/952.jpg"
     },
     {
-     "cod": 14408,
-     "nome": "COPO 500ML PS C/50-COPOMAIS",
-     "marca": "COPOMAIS",
-     "preco": 10.9,
-     "img": "produtos/14408.jpg"
-    },
-    {
      "cod": 954,
      "nome": "COPO 500ML PS C/50-TOTAL",
      "marca": "TOTALPLAST",
@@ -18379,13 +18470,6 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3536.jpg"
-    },
-    {
-     "cod": 5821,
-     "nome": "PT300 ULTRA C/50 (TAMPA)",
-     "marca": "ULTRA",
-     "preco": 11.9,
-     "img": "produtos/5821.jpg"
     },
     {
      "cod": 3989,
