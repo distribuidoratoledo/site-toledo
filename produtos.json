@@ -2132,11 +2132,25 @@
      "img": "produtos/1672.jpg"
     },
     {
-     "cod": 3508,
-     "nome": "LAPIS FABER GRIP-ROSA",
+     "cod": 3507,
+     "nome": "LAPIS FABER GRIP",
      "marca": "FABER",
      "preco": 2.0,
-     "img": "produtos/3508.jpg"
+     "img": "produtos/3507.jpg",
+     "cores": [
+      {
+       "cod": 3507,
+       "cor": "Lilas",
+       "nome": "LAPIS FABER GRIP-LILAS",
+       "img": "produtos/3507.jpg"
+      },
+      {
+       "cod": 3508,
+       "cor": "Rosa",
+       "nome": "LAPIS FABER GRIP-ROSA",
+       "img": "produtos/3508.jpg"
+      }
+     ]
     },
     {
      "cod": 5407,
@@ -11627,13 +11641,6 @@
      "img": "produtos/4065.jpg"
     },
     {
-     "cod": 13784,
-     "nome": "RELOGIO PAREDE 25CM QUADRADO DIVERSOS",
-     "marca": "LUATEX",
-     "preco": 71.9,
-     "img": "produtos/13784.jpg"
-    },
-    {
      "cod": 12095,
      "nome": "RELOGIO PAREDE 25CM REDONDO BRANCO/DOURADO",
      "marca": "PLASHOME",
@@ -17750,13 +17757,6 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg"
-    },
-    {
-     "cod": 7278,
-     "nome": "TAMPA 100ML (S/F) C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 5.9,
-     "img": "produtos/7278.jpg"
     },
     {
      "cod": 2923,
