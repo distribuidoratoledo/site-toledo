@@ -688,6 +688,27 @@
      "img": "produtos/574.jpg"
     },
     {
+     "cod": 14545,
+     "nome": "CANETA GEL/CONVITE TRIS HOLIC PIXIE BUTTERFLY-CORES",
+     "marca": "TRIS",
+     "preco": 21.9,
+     "img": "produtos/14545.jpg"
+    },
+    {
+     "cod": 14558,
+     "nome": "CANETA GEL/CONVITE TRIS NUVEM",
+     "marca": "TRIS",
+     "preco": 18.9,
+     "img": "produtos/14558.jpg"
+    },
+    {
+     "cod": 14550,
+     "nome": "CANETA GEL/CONVITE TRIS-HOLIC PIXIE CORES",
+     "marca": "TRIS",
+     "preco": 16.9,
+     "img": "produtos/14550.jpg"
+    },
+    {
      "cod": 10568,
      "nome": "CANETA GEL/CONVITE UNIBALL SIGNO",
      "marca": "CIS",
@@ -1364,6 +1385,20 @@
      "marca": "COMPACTOR",
      "preco": 11.9,
      "img": "produtos/14378.jpg"
+    },
+    {
+     "cod": 14566,
+     "nome": "KIT ESCOLAR TRIS-HOT WHEELS (7 PÇ)",
+     "marca": "TRIS",
+     "preco": 39.9,
+     "img": "produtos/14566.jpg"
+    },
+    {
+     "cod": 14567,
+     "nome": "KIT ESCOLAR TRIS-PRINCESAS (7 PÇ)",
+     "marca": "TRIS",
+     "preco": 39.9,
+     "img": "produtos/14567.jpg"
     }
    ]
   },
@@ -2997,6 +3032,27 @@
      "img": "produtos/1708.jpg"
     },
     {
+     "cod": 14555,
+     "nome": "LAPISEIRA 0.7-TRIS COMFY CLASSIC CORES",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/14555.jpg"
+    },
+    {
+     "cod": 14549,
+     "nome": "LAPISEIRA 0.7-TRIS HOLIC PIXIE CORES",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/14549.jpg"
+    },
+    {
+     "cod": 14559,
+     "nome": "LAPISEIRA 0.7-TRIS ICY CORES",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/14559.jpg"
+    },
+    {
      "cod": 1712,
      "nome": "LAPISEIRA 0.9-BRW TECNICA AMARELA",
      "marca": "BRW",
@@ -3289,6 +3345,13 @@
        "img": "produtos/12698.jpg"
       }
      ]
+    },
+    {
+     "cod": 14548,
+     "nome": "BORRACHA TRIS HOLIC PIXIE CORES",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/14548.jpg"
     },
     {
      "cod": 7915,
@@ -6839,6 +6902,13 @@
      "marca": "SCOTCH",
      "preco": 6.9,
      "img": "produtos/3970.jpg"
+    },
+    {
+     "cod": 14604,
+     "nome": "COLA BASTAO 9GR HOLIC PIXIE-TRIS",
+     "marca": "TRIS",
+     "preco": 8.9,
+     "img": "produtos/14604.jpg"
     },
     {
      "cod": 3321,
@@ -26302,6 +26372,13 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg"
+    },
+    {
+     "cod": 14565,
+     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/14565.jpg"
     },
     {
      "cod": 7574,
