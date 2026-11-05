@@ -306,10 +306,15 @@
         if (localStorage.getItem('toledo_listas_previa') === '1') ok = true;
       } catch (e) {}
       if (!ok) document.documentElement.classList.add('em-montagem');
+      else if (!LIBERADA) document.documentElement.classList.add('modo-previa');
     })();
   </script>
   <style>
     .aviso-montagem { display: none; }
+    .faixa-previa { display: none; }
+    .modo-previa .faixa-previa { display: flex; gap: 0.6rem 1.2rem; flex-wrap: wrap; justify-content: center; align-items: center;
+                                 background: #fff4d6; color: #5c4200; font-weight: 700; font-size: 0.9rem; padding: 0.5rem 1rem; border-bottom: 2px solid #ffc83d; }
+    .faixa-previa a { color: var(--vermelho); }
     .em-montagem .aviso-montagem { display: block; text-align: center; padding: 4rem 1rem; }
     .em-montagem .aviso-montagem h1 { color: var(--azul); font-size: 1.8rem; margin-bottom: 0.6rem; }
     .em-montagem .hero, .em-montagem .vantagens-topo, .em-montagem main, .em-montagem .zap-fixo { display: none !important; }
@@ -334,6 +339,7 @@
     <span>📍 Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</span>
   </div>
 
+  <div class="faixa-previa">Modo prévia: só a equipe Toledo vê esta página. <a href="https://claude.ai/artifact/8gHSNz9Q64cputowW3TQRz" target="_blank" rel="noopener">Abrir a aba Ruptura</a> <a href="https://claude.ai/artifact/HQnDBHA5LjhyGD1UDMMJ8G" target="_blank" rel="noopener">Painel Volta às Aulas</a></div>
   <div class="aviso-montagem"><h1>Listas Escolares 2027</h1><p>Em breve! Estamos preparando as listas das escolas de Sete Lagoas.</p><p style="margin-top:1rem"><a class="btn zap" href="https://wa.me/5531985113106" target="_blank" rel="noopener">Fale com a gente no WhatsApp</a></p></div>
   <section class="hero">
     <div class="dentro">
