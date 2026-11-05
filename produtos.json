@@ -2132,6 +2132,20 @@
      "img": "produtos/5704.jpg"
     },
     {
+     "cod": 14561,
+     "nome": "LAPIS ESCREVER TRIS TRIO BLING CORES",
+     "marca": "TRIS",
+     "preco": 2.0,
+     "img": "produtos/14561.jpg"
+    },
+    {
+     "cod": 14560,
+     "nome": "LAPIS ESCREVER TRIS TRIO PASTEL CORES",
+     "marca": "TRIS",
+     "preco": 1.5,
+     "img": "produtos/14560.jpg"
+    },
+    {
      "cod": 1673,
      "nome": "LAPIS FABER 2B (DESENHO)",
      "marca": "FABER",
@@ -3072,6 +3086,13 @@
      "marca": "BRW",
      "preco": 8.9,
      "img": "produtos/12222.jpg"
+    },
+    {
+     "cod": 14605,
+     "nome": "LAPISEIRA 2.0-TRIS COLLEGE TRIO CORES",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/14605.jpg"
     }
    ]
   },
@@ -3115,11 +3136,25 @@
      "img": "produtos/13138.jpg"
     },
     {
+     "cod": 14556,
+     "nome": "BORRACHA C/CP TRIS FIT CORES",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/14556.jpg"
+    },
+    {
      "cod": 14544,
      "nome": "BORRACHA C/CP TRIS FRUITS RETRATIL CORES",
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14544.jpg"
+    },
+    {
+     "cod": 14606,
+     "nome": "BORRACHA C/CP TRIS NECTAR RETRATIL CORES",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/14606.jpg"
     },
     {
      "cod": 284,
@@ -6905,7 +6940,7 @@
     },
     {
      "cod": 14604,
-     "nome": "COLA BASTAO 9GR HOLIC PIXIE-TRIS",
+     "nome": "COLA BASTAO 9GR HOLIC PIXIE-TRIS CORES",
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14604.jpg"
@@ -25769,6 +25804,20 @@
      "img": "produtos/13133.jpg"
     },
     {
+     "cod": 14551,
+     "nome": "APONTADOR TRIS C/D 1F SU106-CORES",
+     "marca": "TRIS",
+     "preco": 2.9,
+     "img": "produtos/14551.jpg"
+    },
+    {
+     "cod": 14608,
+     "nome": "APONTADOR TRIS C/D 1F SU263-CORES",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/14608.jpg"
+    },
+    {
      "cod": 12637,
      "nome": "APONTADOR TRIS C/D 1F (SU263)",
      "marca": "TRIS",
@@ -25987,6 +26036,13 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14552.jpg"
+    },
+    {
+     "cod": 14609,
+     "nome": "APONTADOR TRIS C/D+BORR 2F-PLAYER CORES",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/14609.jpg"
     },
     {
      "cod": 12730,
