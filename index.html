@@ -1081,7 +1081,7 @@
       var msg = encodeURIComponent('Olá! Gostaria de informações sobre: ' + p.nome + ' (cód. ' + p.cod + ')');
       var foto = p.img
         ? '<img src="' + p.img + '" alt="' + p.nome + '" loading="lazy">'
-        : '<div class="sem-foto">sem foto</div>';
+        : '<div class="sem-foto">Sem foto</div>';
       // A FOTO ABRE A JANELA. Pedido dela: "quando clicar na imagem abri
       // grande o produto e seus derivados com opção de escolher a cor".
       foto = '<div class="foto-cx" onclick="abrirProduto(' + p.cod + ')">' + foto
@@ -1442,7 +1442,7 @@
       var msg = encodeURIComponent('Olá! Gostaria de informações sobre: ' + atual.nome + ' (cód. ' + atual.cod + ')');
       document.getElementById('jan-foto').innerHTML = atual.img
         ? '<img src="' + atual.img + '" alt="' + atual.nome + '">'
-        : '<div class="sem-foto">sem foto</div>';
+        : '<div class="sem-foto">Sem foto</div>';
       var cores = '';
       if (p.cores) {
         cores = '<div class="jan-cores"><b>Escolha a cor</b><div class="opcoes">'

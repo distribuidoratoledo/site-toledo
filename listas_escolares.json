@@ -25,7 +25,7 @@
        "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
        "marca": "ACRILEX",
        "preco": 7.9,
-       "obs": "a escola pede caixa com 15 unidades; a nossa caixa tem 12",
+       "obs": "A escola pede caixa com 15 unidades; a nossa caixa tem 12",
        "foto": "listas/fotos/1877.jpg"
       },
       {
@@ -58,7 +58,7 @@
        "descricao": "1 copo com tampa",
        "qtd": 1,
        "status": "em_breve",
-       "obs": "em breve na loja"
+       "obs": "Em breve na loja"
       },
       {
        "descricao": "1 toalha de mão",
@@ -112,5 +112,5 @@
    ]
   }
  ],
- "atualizado": "04/11/2026 21:47"
+ "atualizado": "04/11/2026 22:27"
 }

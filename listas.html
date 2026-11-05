@@ -286,10 +286,10 @@
   </section>
 
   <div class="vantagens-topo">
-    <div class="vant"><span class="ic" style="background:#e3f6ea">🚚</span><div><b>Entrega grátis</b><span class="t">acima de R$ 50 em Sete Lagoas, ou retire na loja</span></div></div>
-    <div class="vant"><span class="ic" style="background:#fff4d6">💵</span><div><b>10% de desconto</b><span class="t">no dinheiro, PIX ou débito</span></div></div>
-    <div class="vant"><span class="ic" style="background:#e6efff">💳</span><div><b>Até 10x sem juros</b><span class="t">no cartão, parcela mínima de R$ 50,00</span></div></div>
-    <div class="vant"><span class="ic" style="background:#fdecef">🎒</span><div><b>Lista completa</b><span class="t">a gente separa tudo num lugar só</span></div></div>
+    <div class="vant"><span class="ic" style="background:#e3f6ea">🚚</span><div><b>Entrega grátis</b><span class="t">Acima de R$ 50 em Sete Lagoas, ou retire na loja</span></div></div>
+    <div class="vant"><span class="ic" style="background:#fff4d6">💵</span><div><b>10% de desconto</b><span class="t">No dinheiro, PIX ou débito</span></div></div>
+    <div class="vant"><span class="ic" style="background:#e6efff">💳</span><div><b>Até 10x sem juros</b><span class="t">No cartão, parcela mínima de R$ 50,00</span></div></div>
+    <div class="vant"><span class="ic" style="background:#fdecef">🎒</span><div><b>Lista completa</b><span class="t">A gente separa tudo num lugar só</span></div></div>
   </div>
 
   <main>
@@ -496,16 +496,16 @@
         if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
         else if (it.opcional) opcionais += q * p; else total += q * p;
         n++;
-        var tag = it.opcional ? '<span class="tag op">opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">em breve</span>'
-                : it.status === 'nao_temos' ? '<span class="tag nao">não disponível</span>' : '';
+        var tag = it.opcional ? '<span class="tag op">Opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">Em breve</span>'
+                : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : '';
         var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
         html += '<div class="item"><div class="foto">' + foto + '</div>' +
           '<div><div class="nome">' + esc(it.descricao) + tag + '</div>' +
-          (it.produto ? '<div class="prod">' + (it.cod ? '<span class="cod">cód. ' + esc(it.cod) + '</span>' : '') + esc(titulo(it.produto)) +
+          (it.produto ? '<div class="prod">' + (it.cod ? '<span class="cod">Cód. ' + esc(it.cod) + '</span>' : '') + esc(titulo(it.produto)) +
                         (it.marca ? ' · <b>' + esc(titulo(it.marca)) + '</b>' : '') + '</div>' : '') +
           (it.obs ? '<div class="obs">' + esc(it.obs) + '</div>' : '') + '</div>' +
-          '<div class="qtd"><b>' + esc(it.qtd) + '</b>' + (q === 1 ? 'unidade' : 'unidades') + '</div>' +
-          '<div class="preco">' + (p == null ? '<span class="sem">' + (it.status === 'nao_temos' ? '—' : 'em breve') + '</span>'
+          '<div class="qtd"><b>' + esc(it.qtd) + '</b>' + (q === 1 ? 'Unidade' : 'Unidades') + '</div>' +
+          '<div class="preco">' + (p == null ? '<span class="sem">' + (it.status === 'nao_temos' ? '—' : 'Em breve') + '</span>'
                                              : '<b>' + reais(q * p) + '</b>' + (q > 1 ? '<span>' + reais(p) + ' cada</span>' : '')) + '</div></div>';
       });
       var c = ler(CHAVE_CAD) || {};
@@ -524,7 +524,7 @@
             '<div class="sub">' + n + ' itens' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
             (dados.atualizado ? '<br>Preços de ' + esc(dados.atualizado) : '') + '</div></div>' +
             '<div class="resumo"><div class="rot">Total da lista</div><div class="valor">' + reais(total) + '</div>' +
-            (opcionais ? '<div class="rot">com opcionais: ' + reais(total + opcionais) + '</div>' : '') + '</div></div>' +
+            (opcionais ? '<div class="rot">Com opcionais: ' + reais(total + opcionais) + '</div>' : '') + '</div></div>' +
           '<div class="barra-acoes">' +
             '<a class="btn zap" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '">' + ICONE_ZAP + 'Pedir pelo WhatsApp</a>' +
             '<button class="btn azul" id="b-pdf" type="button">⬇ Baixar PDF</button>' +
