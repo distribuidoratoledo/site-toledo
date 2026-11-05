@@ -176,6 +176,20 @@
     .pdf-modo .barra-acoes, .pdf-modo .rodape-tela { display: none !important; }
     .pdf-modo { box-shadow: none !important; border: 0 !important; }
 
+    /* Botão de WhatsApp fixo na tela (Adriana, 04/11/2026) */
+    .zap-fixo { position: fixed; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 40;
+                display: flex; align-items: center; gap: 0.6rem; text-decoration: none; }
+    .zap-fixo .balao { background: #fff; color: var(--azul); border-radius: 12px; padding: 0.6rem 0.85rem; font-size: 0.88rem; line-height: 1.3;
+                       max-width: 250px; box-shadow: 0 6px 22px rgba(0,0,0,0.18); border: 1px solid #e3e8ef; }
+    .zap-fixo .balao b { color: #157a3c; }
+    .zap-fixo .bola { width: 60px; height: 60px; border-radius: 50%; background: var(--verde); display: grid; place-items: center; flex: none;
+                      box-shadow: 0 6px 20px rgba(37,211,102,0.45); animation: pulso 2.4s infinite; }
+    .zap-fixo .bola svg { width: 32px; height: 32px; fill: #fff; }
+    @keyframes pulso { 0%, 100% { box-shadow: 0 0 0 0 rgba(37,211,102,0.5); } 60% { box-shadow: 0 0 0 14px rgba(37,211,102,0); } }
+    @media (prefers-reduced-motion: reduce) { .zap-fixo .bola { animation: none; } }
+    @media (max-width: 520px) { .zap-fixo .balao { max-width: 200px; font-size: 0.8rem; } }
+    footer { padding-bottom: 6rem !important; }
+
     footer { background: var(--azul); color: #cbd5e1; text-align: center; padding: 2rem 1rem; font-size: 0.9rem; margin-top: 2.5rem; }
     footer b { color: #fff; }
 
@@ -196,7 +210,7 @@
       .hero::after { display: none; }
     }
     @media print {
-      header, .faixa-contato, .hero, .escolha, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela { display: none !important; }
+      header, .faixa-contato, .hero, .escolha, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela, .zap-fixo { display: none !important; }
       body { background: #fff; }
       main { margin: 0; padding: 0; max-width: none; }
       #lista { margin: 0; }
@@ -288,6 +302,12 @@
       </div>
     </section>
   </main>
+
+  <a class="zap-fixo" id="zap-fixo" target="_blank" rel="noopener"
+     href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20receber%20a%20lista%20escolar%202027%20completa%20em%20casa.">
+    <span class="balao">Para receber a <b>lista completa em casa sem taxa de entrega</b>, clique aqui</span>
+    <span class="bola"><svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3z"/></svg></span>
+  </a>
 
   <div class="fundo" id="cadastro" hidden>
     <form class="janela" id="form-cadastro" novalidate>
@@ -479,6 +499,8 @@
             L.observacoes.map(function (o) { return '<li>' + esc(o) + '</li>'; }).join('') + '</ul></div>' : '') +
           '<p class="rodape-lista">Preços sujeitos a alteração e à disponibilidade de estoque. Indicamos marcas quando a escola não pede uma específica; trocamos a seu pedido.</p>' +
         '</div>';
+      // com uma lista aberta, o botão fixo já leva escola, ano e orçamento na mensagem
+      $('zap-fixo').href = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg + ' Quero receber a lista completa em casa, sem taxa de entrega.');
       $('b-imp').addEventListener('click', function () { window.print(); });
       $('b-pdf').addEventListener('click', baixarPdf);
       $('lista').scrollIntoView({ behavior: 'smooth', block: 'start' });
