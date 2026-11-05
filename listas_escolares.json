@@ -5,6 +5,931 @@
    "nome": "Centro Educacional CEME",
    "listas": [
     {
+     "id": "ceme-ano1",
+     "ano": "1º Ano",
+     "orcamento": 658358,
+     "itens": [
+      {
+       "descricao": "4 cadernos brochurão com pauta de 96 folhas",
+       "qtd": 4,
+       "cod": 14097,
+       "produto": "CADERNO BROCH. C/P 96F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 9.9,
+       "foto": "listas/fotos/14097.jpg"
+      },
+      {
+       "descricao": "4 cadernos brochurão com pauta de 48 folhas",
+       "qtd": 4,
+       "cod": 370,
+       "produto": "CADERNO BROCH. C/P 60F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 6.9,
+       "obs": "Provisório: caderno brochura de 60 folhas até chegar o de 48.",
+       "foto": "listas/fotos/370.jpg"
+      },
+      {
+       "descricao": "1 caderno de desenho para arte",
+       "qtd": 1,
+       "cod": 12411,
+       "produto": "CADERNO DESENHO CD 80F-(AZUL)",
+       "marca": "CREDEAL",
+       "preco": 14.9,
+       "foto": "listas/fotos/12411.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor com até 24 cores",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "2 lápis pretos",
+       "qtd": 2,
+       "cod": 7860,
+       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+       "marca": "MAPED",
+       "preco": 1.5,
+       "foto": "listas/fotos/7860.jpg"
+      },
+      {
+       "descricao": "1 borracha",
+       "qtd": 1,
+       "cod": 279,
+       "produto": "BORRACHA MERCUR 60",
+       "marca": "MERCUR",
+       "preco": 0.9,
+       "foto": "listas/fotos/279.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta",
+       "qtd": 1,
+       "cod": 6281,
+       "produto": "TESOURA S/P ACRILEX BORBOLETA",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/6281.jpg"
+      },
+      {
+       "descricao": "1 régua rígida de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito de boa qualidade",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "foto": "listas/fotos/7547.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis",
+       "qtd": 1,
+       "cod": 8225,
+       "produto": "ESTOJO DAC 1F-PRETO",
+       "marca": "DAC",
+       "preco": 12.9,
+       "foto": "listas/fotos/8225.jpg"
+      },
+      {
+       "descricao": "1 cola líquida",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 cola bastão",
+       "qtd": 1,
+       "cod": 808,
+       "produto": "COLA BASTAO 10GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 1.3,
+       "foto": "listas/fotos/808.jpg"
+      },
+      {
+       "descricao": "1 revistinha em quadrinhos",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 estojo de pincel atômico com 6 cores",
+       "qtd": 1,
+       "cod": 1582,
+       "produto": "JOGO PINCEL COMPACTOR C/6",
+       "marca": "COMPACTOR",
+       "preco": 15.9,
+       "foto": "listas/fotos/1582.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      }
+     ],
+     "observacoes": [
+      "Os cadernos não podem ser espiral; podem ser encapados de qualquer cor e com plástico transparente.",
+      "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
+      "Os materiais devem ser repostos quando acabarem.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
+     "id": "ceme-ano2",
+     "ano": "2º Ano",
+     "orcamento": 658359,
+     "itens": [
+      {
+       "descricao": "7 cadernos brochurão com pauta de 96 folhas",
+       "qtd": 7,
+       "cod": 14097,
+       "produto": "CADERNO BROCH. C/P 96F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 9.9,
+       "foto": "listas/fotos/14097.jpg"
+      },
+      {
+       "descricao": "3 cadernos brochurão com pauta de 48 folhas",
+       "qtd": 3,
+       "cod": 370,
+       "produto": "CADERNO BROCH. C/P 60F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 6.9,
+       "obs": "Provisório: caderno brochura de 60 folhas até chegar o de 48.",
+       "foto": "listas/fotos/370.jpg"
+      },
+      {
+       "descricao": "1 caderno de desenho para arte",
+       "qtd": 1,
+       "cod": 12411,
+       "produto": "CADERNO DESENHO CD 80F-(AZUL)",
+       "marca": "CREDEAL",
+       "preco": 14.9,
+       "foto": "listas/fotos/12411.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor com até 24 cores",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "2 lápis pretos",
+       "qtd": 2,
+       "cod": 7860,
+       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+       "marca": "MAPED",
+       "preco": 1.5,
+       "foto": "listas/fotos/7860.jpg"
+      },
+      {
+       "descricao": "1 borracha",
+       "qtd": 1,
+       "cod": 279,
+       "produto": "BORRACHA MERCUR 60",
+       "marca": "MERCUR",
+       "preco": 0.9,
+       "foto": "listas/fotos/279.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta",
+       "qtd": 1,
+       "cod": 6281,
+       "produto": "TESOURA S/P ACRILEX BORBOLETA",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/6281.jpg"
+      },
+      {
+       "descricao": "1 régua rígida de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito de boa qualidade",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "foto": "listas/fotos/7547.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis",
+       "qtd": 1,
+       "cod": 8225,
+       "produto": "ESTOJO DAC 1F-PRETO",
+       "marca": "DAC",
+       "preco": 12.9,
+       "foto": "listas/fotos/8225.jpg"
+      },
+      {
+       "descricao": "1 cola bastão",
+       "qtd": 1,
+       "cod": 808,
+       "produto": "COLA BASTAO 10GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 1.3,
+       "foto": "listas/fotos/808.jpg"
+      },
+      {
+       "descricao": "1 tubo de cola 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 revistinha em quadrinhos nova",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 revista para recortar",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix de produtos. Pedimos a gentileza de adquiri-lo em loja especializada."
+      },
+      {
+       "descricao": "1 pasta fina com elástico",
+       "qtd": 1,
+       "cod": 2184,
+       "produto": "PASTA ABA ELAST.PAPEL-AZUL",
+       "marca": "POLYCART",
+       "preco": 3.9,
+       "foto": "listas/fotos/2184.jpg"
+      },
+      {
+       "descricao": "1 estojo de pincel atômico com 6 cores",
+       "qtd": 1,
+       "cod": 1582,
+       "produto": "JOGO PINCEL COMPACTOR C/6",
+       "marca": "COMPACTOR",
+       "preco": 15.9,
+       "foto": "listas/fotos/1582.jpg"
+      },
+      {
+       "descricao": "1 dicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      }
+     ],
+     "observacoes": [
+      "Os cadernos não podem ser espiral; podem ser encapados de qualquer cor e com plástico transparente.",
+      "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
+      "Os materiais devem ser repostos quando acabarem.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
+     "id": "ceme-ano3",
+     "ano": "3º Ano",
+     "orcamento": 658360,
+     "itens": [
+      {
+       "descricao": "8 cadernos brochurão com pauta de 96 folhas",
+       "qtd": 8,
+       "cod": 14097,
+       "produto": "CADERNO BROCH. C/P 96F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 9.9,
+       "foto": "listas/fotos/14097.jpg"
+      },
+      {
+       "descricao": "4 cadernos brochurão com pauta de 48 folhas",
+       "qtd": 4,
+       "cod": 370,
+       "produto": "CADERNO BROCH. C/P 60F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 6.9,
+       "obs": "Provisório: caderno brochura de 60 folhas até chegar o de 48.",
+       "foto": "listas/fotos/370.jpg"
+      },
+      {
+       "descricao": "1 caderno espiral de desenho grande (48 folhas)",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor com até 24 cores",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "2 lápis pretos",
+       "qtd": 2,
+       "cod": 7860,
+       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+       "marca": "MAPED",
+       "preco": 1.5,
+       "foto": "listas/fotos/7860.jpg"
+      },
+      {
+       "descricao": "1 borracha",
+       "qtd": 1,
+       "cod": 279,
+       "produto": "BORRACHA MERCUR 60",
+       "marca": "MERCUR",
+       "preco": 0.9,
+       "foto": "listas/fotos/279.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta",
+       "qtd": 1,
+       "cod": 6281,
+       "produto": "TESOURA S/P ACRILEX BORBOLETA",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/6281.jpg"
+      },
+      {
+       "descricao": "1 régua rígida de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito de boa qualidade",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "foto": "listas/fotos/7547.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis",
+       "qtd": 1,
+       "cod": 8225,
+       "produto": "ESTOJO DAC 1F-PRETO",
+       "marca": "DAC",
+       "preco": 12.9,
+       "foto": "listas/fotos/8225.jpg"
+      },
+      {
+       "descricao": "1 tubo de cola de 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 revistinha em quadrinhos nova",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 pasta fina com elástico",
+       "qtd": 1,
+       "cod": 2184,
+       "produto": "PASTA ABA ELAST.PAPEL-AZUL",
+       "marca": "POLYCART",
+       "preco": 3.9,
+       "foto": "listas/fotos/2184.jpg"
+      },
+      {
+       "descricao": "1 revista para recortar",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix de produtos. Pedimos a gentileza de adquiri-lo em loja especializada."
+      },
+      {
+       "descricao": "1 estojo de pincel atômico com 6 cores",
+       "qtd": 1,
+       "cod": 1582,
+       "produto": "JOGO PINCEL COMPACTOR C/6",
+       "marca": "COMPACTOR",
+       "preco": 15.9,
+       "foto": "listas/fotos/1582.jpg"
+      },
+      {
+       "descricao": "1 dicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      }
+     ],
+     "observacoes": [
+      "Os cadernos não podem ser espiral; podem ser encapados de qualquer cor e com plástico transparente.",
+      "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
+      "Os materiais devem ser repostos quando acabarem.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
+     "id": "ceme-ano4",
+     "ano": "4º Ano",
+     "orcamento": 658361,
+     "itens": [
+      {
+       "descricao": "6 cadernos brochurão com pauta de 96 folhas",
+       "qtd": 6,
+       "cod": 14097,
+       "produto": "CADERNO BROCH. C/P 96F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 9.9,
+       "foto": "listas/fotos/14097.jpg"
+      },
+      {
+       "descricao": "4 cadernos brochurão com pauta de 48 folhas",
+       "qtd": 4,
+       "cod": 370,
+       "produto": "CADERNO BROCH. C/P 60F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 6.9,
+       "obs": "Provisório: caderno brochura de 60 folhas até chegar o de 48.",
+       "foto": "listas/fotos/370.jpg"
+      },
+      {
+       "descricao": "2 cadernos espiral de desenho grande (48 folhas)",
+       "qtd": 2,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor com até 24 cores",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "2 lápis pretos",
+       "qtd": 2,
+       "cod": 7860,
+       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+       "marca": "MAPED",
+       "preco": 1.5,
+       "foto": "listas/fotos/7860.jpg"
+      },
+      {
+       "descricao": "1 borracha",
+       "qtd": 1,
+       "cod": 279,
+       "produto": "BORRACHA MERCUR 60",
+       "marca": "MERCUR",
+       "preco": 0.9,
+       "foto": "listas/fotos/279.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta",
+       "qtd": 1,
+       "cod": 6281,
+       "produto": "TESOURA S/P ACRILEX BORBOLETA",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/6281.jpg"
+      },
+      {
+       "descricao": "1 régua rígida de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito de boa qualidade",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "foto": "listas/fotos/7547.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis",
+       "qtd": 1,
+       "cod": 8225,
+       "produto": "ESTOJO DAC 1F-PRETO",
+       "marca": "DAC",
+       "preco": 12.9,
+       "foto": "listas/fotos/8225.jpg"
+      },
+      {
+       "descricao": "1 tubo de cola de 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 caneta marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg"
+      },
+      {
+       "descricao": "1 dicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 estojo de pincel atômico com 6 cores",
+       "qtd": 1,
+       "cod": 1582,
+       "produto": "JOGO PINCEL COMPACTOR C/6",
+       "marca": "COMPACTOR",
+       "preco": 15.9,
+       "foto": "listas/fotos/1582.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      }
+     ],
+     "observacoes": [
+      "Os cadernos não podem ser espiral; podem ser encapados de qualquer cor e com plástico transparente.",
+      "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
+      "Os materiais devem ser repostos quando acabarem.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
+     "id": "ceme-ano5",
+     "ano": "5º Ano",
+     "orcamento": 658362,
+     "itens": [
+      {
+       "descricao": "7 cadernos brochurão com pauta de 96 folhas",
+       "qtd": 7,
+       "cod": 14097,
+       "produto": "CADERNO BROCH. C/P 96F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 9.9,
+       "foto": "listas/fotos/14097.jpg"
+      },
+      {
+       "descricao": "4 cadernos brochurão com pauta de 48 folhas",
+       "qtd": 4,
+       "cod": 370,
+       "produto": "CADERNO BROCH. C/P 60F-JANDAIA",
+       "marca": "JANDAIA",
+       "preco": 6.9,
+       "obs": "Provisório: caderno brochura de 60 folhas até chegar o de 48.",
+       "foto": "listas/fotos/370.jpg"
+      },
+      {
+       "descricao": "2 cadernos espiral de desenho grande (48 folhas)",
+       "qtd": 2,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor com até 24 cores",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "2 lápis pretos",
+       "qtd": 2,
+       "cod": 7860,
+       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+       "marca": "MAPED",
+       "preco": 1.5,
+       "foto": "listas/fotos/7860.jpg"
+      },
+      {
+       "descricao": "1 borracha",
+       "qtd": 1,
+       "cod": 279,
+       "produto": "BORRACHA MERCUR 60",
+       "marca": "MERCUR",
+       "preco": 0.9,
+       "foto": "listas/fotos/279.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta",
+       "qtd": 1,
+       "cod": 6281,
+       "produto": "TESOURA S/P ACRILEX BORBOLETA",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/6281.jpg"
+      },
+      {
+       "descricao": "1 régua rígida de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito de boa qualidade",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "foto": "listas/fotos/7547.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis",
+       "qtd": 1,
+       "cod": 8225,
+       "produto": "ESTOJO DAC 1F-PRETO",
+       "marca": "DAC",
+       "preco": 12.9,
+       "foto": "listas/fotos/8225.jpg"
+      },
+      {
+       "descricao": "1 estojo de pincel atômico com 6 cores",
+       "qtd": 1,
+       "cod": 1582,
+       "produto": "JOGO PINCEL COMPACTOR C/6",
+       "marca": "COMPACTOR",
+       "preco": 15.9,
+       "foto": "listas/fotos/1582.jpg"
+      },
+      {
+       "descricao": "1 tubo de cola de 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 caneta marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg"
+      },
+      {
+       "descricao": "1 dicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "Compasso, transferidor, esquadro e calculadora",
+       "qtd": 1,
+       "status": "em_breve",
+       "obs": "Em breve na loja."
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      }
+     ],
+     "observacoes": [
+      "Os cadernos não podem ser espiral; podem ser encapados de qualquer cor e com plástico transparente.",
+      "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
+      "Os materiais devem ser repostos quando acabarem.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
      "id": "ceme-maternal1",
      "ano": "Maternal 1 (1º ano)",
      "orcamento": 658354,
@@ -200,9 +1125,294 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
       "Início das aulas: 02/02/2027 (terça-feira)."
      ]
+    },
+    {
+     "id": "ceme-maternal3",
+     "ano": "Maternal 3 (3º ano)",
+     "orcamento": 658356,
+     "itens": [
+      {
+       "descricao": "1 livrinho educativo (páginas reforçadas)",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 pasta de arquivo sem elástico",
+       "qtd": 1,
+       "cod": 2223,
+       "produto": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
+       "preco": 4.9,
+       "foto": "listas/fotos/2223.jpg"
+      },
+      {
+       "descricao": "1 pasta com alça",
+       "qtd": 1,
+       "cod": 1805,
+       "produto": "MALETA ESCOLAR 4CM-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "foto": "listas/fotos/1805.jpg"
+      },
+      {
+       "descricao": "2 caixas de massinha para modelagem com 15 cores à base de amido",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "A escola pede caixa com 15 unidades; a nossa caixa tem 12.",
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10 (redondo)",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular Faber-Castell",
+       "qtd": 1,
+       "cod": 5227,
+       "produto": "LAPIS 12CORES-FABER+1 APONTADOR (JUMBO)",
+       "marca": "FABER",
+       "preco": 49.9,
+       "foto": "listas/fotos/5227.jpg"
+      },
+      {
+       "descricao": "1 lápis preto de escrever jumbo triangular",
+       "qtd": 1,
+       "cod": 7862,
+       "produto": "LAPIS ESCREVER MAPED JUMBO",
+       "marca": "MAPED",
+       "preco": 2.9,
+       "foto": "listas/fotos/7862.jpg"
+      },
+      {
+       "descricao": "1 jogo pedagógico",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 caixa de giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/1472.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      }
+     ],
+     "observacoes": [
+      "A escola não permite mochila de rodinha na Educação Infantil (Maternal 1 ao 2º período).",
+      "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
+     "id": "ceme-periodo1",
+     "ano": "1º Período (4 anos)",
+     "orcamento": 658357,
+     "itens": [
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular (1º semestre)",
+       "qtd": 1,
+       "cod": 5227,
+       "produto": "LAPIS 12CORES-FABER+1 APONTADOR (JUMBO)",
+       "marca": "FABER",
+       "preco": 49.9,
+       "foto": "listas/fotos/5227.jpg"
+      },
+      {
+       "descricao": "1 lápis preto jumbo triangular",
+       "qtd": 1,
+       "cod": 7862,
+       "produto": "LAPIS ESCREVER MAPED JUMBO",
+       "marca": "MAPED",
+       "preco": 2.9,
+       "foto": "listas/fotos/7862.jpg"
+      },
+      {
+       "descricao": "1 lápis preto comum (2º semestre)",
+       "qtd": 1,
+       "cod": 7860,
+       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
+       "marca": "MAPED",
+       "preco": 1.5,
+       "foto": "listas/fotos/7860.jpg"
+      },
+      {
+       "descricao": "1 borracha",
+       "qtd": 1,
+       "cod": 279,
+       "produto": "BORRACHA MERCUR 60",
+       "marca": "MERCUR",
+       "preco": 0.9,
+       "foto": "listas/fotos/279.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "foto": "listas/fotos/7547.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor comum 24 cores (2º semestre)",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10 (redondo)",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis",
+       "qtd": 1,
+       "cod": 8225,
+       "produto": "ESTOJO DAC 1F-PRETO",
+       "marca": "DAC",
+       "preco": 12.9,
+       "foto": "listas/fotos/8225.jpg"
+      },
+      {
+       "descricao": "1 pasta com alça",
+       "qtd": 1,
+       "cod": 1805,
+       "produto": "MALETA ESCOLAR 4CM-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "foto": "listas/fotos/1805.jpg"
+      },
+      {
+       "descricao": "1 pasta plástico de arquivo",
+       "qtd": 1,
+       "cod": 2223,
+       "produto": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
+       "preco": 4.9,
+       "foto": "listas/fotos/2223.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6281,
+       "produto": "TESOURA S/P ACRILEX BORBOLETA",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/6281.jpg"
+      },
+      {
+       "descricao": "1 livrinho de literatura em caixa alta",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 caixa de massinha para modelagem 15 cores à base de amido",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "A escola pede caixa com 15 unidades; a nossa caixa tem 12.",
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "1 jogo pedagógico",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      }
+     ],
+     "observacoes": [
+      "A escola não permite mochila de rodinha na Educação Infantil (Maternal 1 ao 2º período).",
+      "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
     }
    ]
   }
  ],
- "atualizado": "04/11/2026 22:56"
+ "atualizado": "04/11/2026 23:10"
 }
