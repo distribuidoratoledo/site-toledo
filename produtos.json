@@ -25841,11 +25841,25 @@
      "img": "produtos/1847.jpg"
     },
     {
+     "cod": 9132,
+     "nome": "MARCA TEXTO GEL AMARELO-TRIS TWIST",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/9132.jpg"
+    },
+    {
      "cod": 1848,
      "nome": "MARCA TEXTO GEL ROSA-FABER",
      "marca": "FABER",
      "preco": 12.9,
      "img": "produtos/1848.jpg"
+    },
+    {
+     "cod": 9137,
+     "nome": "MARCA TEXTO GEL ROSA-TRIS TWIST",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/9137.jpg"
     },
     {
      "cod": 6899,
@@ -26073,6 +26087,13 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13609.jpg"
+    },
+    {
+     "cod": 11735,
+     "nome": "MARCA TEXTO TRIS FLASH PASTEL",
+     "marca": "TRIS",
+     "preco": 1.5,
+     "img": "produtos/11735.jpg"
     },
     {
      "cod": 7574,
