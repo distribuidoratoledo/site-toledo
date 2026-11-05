@@ -1638,6 +1638,13 @@
      "img": "produtos/1640.jpg"
     },
     {
+     "cod": 14564,
+     "nome": "LAPIS BORRACHA TRIS (JUMBO) CORES",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/14564.jpg"
+    },
+    {
      "cod": 10594,
      "nome": "LAPIS COR COLORCIS MULTI NEON-CIS",
      "marca": "CIS",
@@ -3394,6 +3401,13 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14548.jpg"
+    },
+    {
+     "cod": 14563,
+     "nome": "BORRACHA TRIS SENSE CORES",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/14563.jpg"
     },
     {
      "cod": 7915,
@@ -25832,39 +25846,6 @@
      "img": "produtos/14608.jpg"
     },
     {
-     "cod": 12637,
-     "nome": "APONTADOR TRIS C/D 1F (SU263)",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/12637.jpg",
-     "cores": [
-      {
-       "cod": 12637,
-       "cor": "Azul",
-       "nome": "APONTADOR TRIS C/D 1F-AZUL (SU263)",
-       "img": "produtos/12637.jpg"
-      },
-      {
-       "cod": 12639,
-       "cor": "Lilas",
-       "nome": "APONTADOR TRIS C/D 1F-LILAS (SU263)",
-       "img": "produtos/12639.jpg"
-      },
-      {
-       "cod": 12638,
-       "cor": "Rosa",
-       "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
-       "img": "produtos/12638.jpg"
-      },
-      {
-       "cod": 12641,
-       "cor": "Verde",
-       "nome": "APONTADOR TRIS C/D 1F-VERDE (SU263)",
-       "img": "produtos/12641.jpg"
-      }
-     ]
-    },
-    {
      "cod": 12725,
      "nome": "APONTADOR TRIS C/D 1F-BATMAN",
      "marca": "TRIS",
@@ -25989,6 +25970,13 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12689.jpg"
+    },
+    {
+     "cod": 14607,
+     "nome": "APONTADOR TRIS C/D 2F SU266-CORES",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/14607.jpg"
     },
     {
      "cod": 12718,
