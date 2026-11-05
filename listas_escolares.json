@@ -108,9 +108,101 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
       "Início das aulas: 02/02/2027 (terça-feira)."
      ]
+    },
+    {
+     "id": "ceme-maternal2",
+     "ano": "Maternal 2 (2º ano)",
+     "orcamento": 658355,
+     "itens": [
+      {
+       "descricao": "1 pote de tinta de 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 12.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/5764.jpg"
+      },
+      {
+       "descricao": "2 caixas de massinha à base de amido",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "A escola pede caixa com 15 unidades; a nossa caixa tem 12.",
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "1 pincel pequeno nº 12 (redondo)",
+       "qtd": 1,
+       "cod": 10997,
+       "produto": "PINCEL CHATO 12",
+       "preco": 4.9,
+       "foto": "listas/fotos/10997.jpg"
+      },
+      {
+       "descricao": "1 lápis de escrever jumbo triangular",
+       "qtd": 1,
+       "cod": 1684,
+       "produto": "LAPIS ESCREVER FABER JUMBO",
+       "marca": "FABER",
+       "preco": 2.9,
+       "foto": "listas/fotos/1684.jpg"
+      },
+      {
+       "descricao": "1 livrinho educativo (páginas reforçadas)",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 jogo de encaixar ou empilhar",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 garrafa de água para a lancheira",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 kit para deixar na escola: roupa de cama, chinelinho e toalha",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix de produtos. Pedimos a gentileza de adquiri-lo em loja especializada."
+      }
+     ],
+     "observacoes": [
+      "Na mochila da criança, os pais devem enviar uma roupa para troca, fraldas, lencinhos, uma calcinha ou cueca e um agasalho leve.",
+      "A escola não permite mochila de rodinha na Educação Infantil (Maternal 1 ao 2º período).",
+      "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
     }
    ]
   }
  ],
- "atualizado": "04/11/2026 22:44"
+ "atualizado": "04/11/2026 22:56"
 }
