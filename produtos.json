@@ -1540,6 +1540,13 @@
      "img": "produtos/1659.jpg"
     },
     {
+     "cod": 12627,
+     "nome": "LAPIS 24CORES-TRIS MEGA SOFT COLOR",
+     "marca": "TRIS",
+     "preco": 24.9,
+     "img": "produtos/12627.jpg"
+    },
+    {
      "cod": 1661,
      "nome": "LAPIS 36CORES-FABER",
      "marca": "FABER",
@@ -1552,6 +1559,13 @@
      "marca": "LEO E LEO",
      "preco": 19.9,
      "img": "produtos/1662.jpg"
+    },
+    {
+     "cod": 12629,
+     "nome": "LAPIS 36CORES-TRIS MEGA SOFT COLOR",
+     "marca": "TRIS",
+     "preco": 48.9,
+     "img": "produtos/12629.jpg"
     },
     {
      "cod": 4869,
@@ -1573,6 +1587,13 @@
      "marca": "FABER",
      "preco": 169.9,
      "img": "produtos/10301.jpg"
+    },
+    {
+     "cod": 12671,
+     "nome": "LAPIS 72CORES-TRIS VIBES NOTURNA",
+     "marca": "TRIS",
+     "preco": 189.9,
+     "img": "produtos/12671.jpg"
     },
     {
      "cod": 1640,
@@ -2290,6 +2311,13 @@
      "marca": "COMPACTOR",
      "preco": 15.9,
      "img": "produtos/1582.jpg"
+    },
+    {
+     "cod": 12688,
+     "nome": "JOGO PINCEL TRIS C/12",
+     "marca": "TRIS",
+     "preco": 39.9,
+     "img": "produtos/12688.jpg"
     },
     {
      "cod": 12687,
@@ -3029,6 +3057,13 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13138.jpg"
+    },
+    {
+     "cod": 14544,
+     "nome": "BORRACHA C/CP TRIS FRUITS RETRATIL CORES",
+     "marca": "TRIS",
+     "preco": 8.9,
+     "img": "produtos/14544.jpg"
     },
     {
      "cod": 284,
@@ -10965,6 +11000,13 @@
      "img": "produtos/11715.jpg"
     },
     {
+     "cod": 3255,
+     "nome": "CAIXA CAMISA POLIBRAS-AZUL",
+     "marca": "POLIBRAS",
+     "preco": 32.9,
+     "img": "produtos/3255.jpg"
+    },
+    {
      "cod": 467,
      "nome": "CAIXA ORGANIZADORA G-AZUL",
      "marca": "",
@@ -11766,6 +11808,39 @@
      "img": "produtos/8181.jpg"
     },
     {
+     "cod": 1803,
+     "nome": "MALETA ESCOLAR 4CM",
+     "marca": "POLIBRAS",
+     "preco": 19.9,
+     "img": "produtos/1803.jpg",
+     "cores": [
+      {
+       "cod": 1803,
+       "cor": "Amarela",
+       "nome": "MALETA ESCOLAR 4CM-AMARELA",
+       "img": "produtos/1803.jpg"
+      },
+      {
+       "cod": 1805,
+       "cor": "Azul",
+       "nome": "MALETA ESCOLAR 4CM-AZUL",
+       "img": "produtos/1805.jpg"
+      },
+      {
+       "cod": 1806,
+       "cor": "Verde",
+       "nome": "MALETA ESCOLAR 4CM-VERDE",
+       "img": "produtos/1806.jpg"
+      },
+      {
+       "cod": 1807,
+       "cor": "Vermelha",
+       "nome": "MALETA ESCOLAR 4CM-VERMELHA",
+       "img": "produtos/1807.jpg"
+      }
+     ]
+    },
+    {
      "cod": 14259,
      "nome": "PASTA 4 ARGOLAS BRANCO-HEMON (PERSONALIZAVEL)",
      "marca": "HEMON",
@@ -11898,6 +11973,34 @@
      "marca": "ACP",
      "preco": 65.9,
      "img": "produtos/9882.jpg"
+    },
+    {
+     "cod": 6950,
+     "nome": "PASTA CATALOGO PRETA C/10",
+     "marca": "",
+     "preco": 16.9,
+     "img": "produtos/6950.jpg"
+    },
+    {
+     "cod": 6196,
+     "nome": "PASTA CATALOGO PRETA C/100",
+     "marca": "",
+     "preco": 37.9,
+     "img": "produtos/6196.jpg"
+    },
+    {
+     "cod": 6951,
+     "nome": "PASTA CATALOGO PRETA C/30",
+     "marca": "",
+     "preco": 21.9,
+     "img": "produtos/6951.jpg"
+    },
+    {
+     "cod": 6195,
+     "nome": "PASTA CATALOGO PRETA C/50",
+     "marca": "ACP",
+     "preco": 25.9,
+     "img": "produtos/6195.jpg"
     },
     {
      "cod": 14202,
@@ -12479,6 +12582,13 @@
      ]
     },
     {
+     "cod": 3592,
+     "nome": "PASTA PP 2CM-CRISTAL",
+     "marca": "",
+     "preco": 5.9,
+     "img": "produtos/3592.jpg"
+    },
+    {
      "cod": 12933,
      "nome": "PASTA PP 4CM PLASCONY-FUME",
      "marca": "PLASCONY",
@@ -12560,6 +12670,13 @@
      ]
     },
     {
+     "cod": 3929,
+     "nome": "PASTA PP 4CM-CRISTAL",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/3929.jpg"
+    },
+    {
      "cod": 14205,
      "nome": "PASTA PP 5CM PLASCONY",
      "marca": "PLASCONY",
@@ -12607,6 +12724,27 @@
      "img": "produtos/12934.jpg"
     },
     {
+     "cod": 12935,
+     "nome": "PASTA PP 5CM-FUME",
+     "marca": "",
+     "preco": 12.9,
+     "img": "produtos/12935.jpg"
+    },
+    {
+     "cod": 2260,
+     "nome": "PASTA PP MINI 1CM-CRISTAL",
+     "marca": "POLIBRAS",
+     "preco": 3.9,
+     "img": "produtos/2260.jpg"
+    },
+    {
+     "cod": 7166,
+     "nome": "PASTA PP MINI 2CM-CRISTAL",
+     "marca": "POLIBRAS",
+     "preco": 4.9,
+     "img": "produtos/7166.jpg"
+    },
+    {
      "cod": 14203,
      "nome": "PASTA SANFON.12D.A4 (PLASCONY) PRETA",
      "marca": "PLASCONY",
@@ -12639,6 +12777,13 @@
        "img": "produtos/6308.jpg"
       }
      ]
+    },
+    {
+     "cod": 2264,
+     "nome": "PASTA SANFON.12D.A4 TRANSP.",
+     "marca": "POLIBRAS",
+     "preco": 29.9,
+     "img": "produtos/2264.jpg"
     },
     {
      "cod": 2265,
@@ -12751,6 +12896,13 @@
      "marca": "PLASCONY",
      "preco": 4.9,
      "img": "produtos/14452.jpg"
+    },
+    {
+     "cod": 2278,
+     "nome": "PASTA SUSPENSA PP CRISTAL",
+     "marca": "POLIBRAS",
+     "preco": 4.9,
+     "img": "produtos/2278.jpg"
     },
     {
      "cod": 2280,
@@ -14107,6 +14259,13 @@
      "img": "produtos/8216.jpg"
     },
     {
+     "cod": 10711,
+     "nome": "ESTOJO DAC 1F-HELLO STICKERS",
+     "marca": "DAC",
+     "preco": 38.9,
+     "img": "produtos/10711.jpg"
+    },
+    {
      "cod": 8204,
      "nome": "ESTOJO DAC 1F-MINNIE (RETRATIL)",
      "marca": "DAC",
@@ -14147,6 +14306,13 @@
      "marca": "DAC",
      "preco": 54.9,
      "img": "produtos/10719.jpg"
+    },
+    {
+     "cod": 12525,
+     "nome": "ESTOJO DAC 2F-SO CUTE DOG",
+     "marca": "DAC",
+     "preco": 55.9,
+     "img": "produtos/12525.jpg"
     },
     {
      "cod": 10808,
@@ -14511,11 +14677,25 @@
      "img": "produtos/5422.jpg"
     },
     {
-     "cod": 10878,
-     "nome": "ESTOJO MT BOX TRANSPARENTE-ROSA",
+     "cod": 13090,
+     "nome": "ESTOJO MT BOX TRANSPARENTE",
      "marca": "MT KIDS",
      "preco": 59.9,
-     "img": "produtos/10878.jpg"
+     "img": "produtos/13090.jpg",
+     "cores": [
+      {
+       "cod": 13090,
+       "cor": "Nude",
+       "nome": "ESTOJO MT BOX TRANSPARENTE-NUDE",
+       "img": "produtos/13090.jpg"
+      },
+      {
+       "cod": 10878,
+       "cor": "Rosa",
+       "nome": "ESTOJO MT BOX TRANSPARENTE-ROSA",
+       "img": "produtos/10878.jpg"
+      }
+     ]
     },
     {
      "cod": 8021,
@@ -14565,6 +14745,13 @@
      "marca": "SESTINI",
      "preco": 89.9,
      "img": "produtos/11072.jpg"
+    },
+    {
+     "cod": 6435,
+     "nome": "ESTOJO SESTINI ORGANIZADOR PAUL FRANK T04 PRETO 075809-01",
+     "marca": "SESTINI",
+     "preco": 85.9,
+     "img": "produtos/6435.jpg"
     },
     {
      "cod": 12605,
@@ -15695,6 +15882,13 @@
      "marca": "JOCAR",
      "preco": 9.9,
      "img": "produtos/9396.jpg"
+    },
+    {
+     "cod": 14547,
+     "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 8.9,
+     "img": "produtos/14547.jpg"
     },
     {
      "cod": 8480,
@@ -25678,6 +25872,13 @@
      "img": "produtos/12648.jpg"
     },
     {
+     "cod": 14553,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-ABACAXI CORES",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/14553.jpg"
+    },
+    {
      "cod": 12676,
      "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC",
      "marca": "TRIS",
@@ -25709,6 +25910,13 @@
        "img": "produtos/12674.jpg"
       }
      ]
+    },
+    {
+     "cod": 14552,
+     "nome": "APONTADOR TRIS C/D+BORR 2F-BUBBLE CORES",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/14552.jpg"
     },
     {
      "cod": 12730,
