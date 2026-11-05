@@ -1421,13 +1421,6 @@
    "nome": "Lápis",
    "itens": [
     {
-     "cod": 12630,
-     "nome": "LAPIS 120CORES-TRIS MEGA SOFT COLOR",
-     "marca": "TRIS",
-     "preco": 159.9,
-     "img": "produtos/12630.jpg"
-    },
-    {
      "cod": 7707,
      "nome": "LAPIS 12CORES+3 DUO-MAPED",
      "marca": "MAPED",
@@ -19832,6 +19825,13 @@
      "img": "produtos/1375.jpg"
     },
     {
+     "cod": 1376,
+     "nome": "FORMA S642 C/300-ECO",
+     "marca": "",
+     "preco": 52.9,
+     "img": "produtos/1376.jpg"
+    },
+    {
      "cod": 9164,
      "nome": "FORMA S65 C/50-SANPACK",
      "marca": "SANPACK",
@@ -20498,6 +20498,13 @@
      "marca": "MELLO",
      "preco": 204.9,
      "img": "produtos/1350.jpg"
+    },
+    {
+     "cod": 14192,
+     "nome": "FORMA ALUM D8 (185X275) 1.500ML C/100-PRAVIAGEM",
+     "marca": "PRAVIAGEM",
+     "preco": 177.9,
+     "img": "produtos/14192.jpg"
     },
     {
      "cod": 7818,
@@ -21880,6 +21887,13 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg"
+    },
+    {
+     "cod": 243,
+     "nome": "BOBINA ESTIVA 40CM",
+     "marca": "CEPELMA",
+     "preco": 38.9,
+     "img": "produtos/243.jpg"
     },
     {
      "cod": 244,
