@@ -8,6 +8,7 @@
   <meta property="og:title" content="Listas Escolares 2027 — Toledo Distribuidora">
   <meta property="og:description" content="Escolha a escola e o ano e veja a lista de material escolar 2027 com preços. Entrega em Sete Lagoas.">
   <meta property="og:type" content="website">
+  <meta name="robots" content="noindex, nofollow">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap');
     :root {
@@ -293,6 +294,26 @@
       .cab-lista, .cab-lista * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     }
   </style>
+  <!-- PÁGINA EM MONTAGEM (Adriana, 04/11/2026: "ainda não pode estar liberada a todos, pois estamos em fabricação").
+       Só abre com ?previa=toledo2027 no endereço (fica lembrado neste aparelho) ou na prévia local.
+       Para liberar: LIBERADA = true. -->
+  <script>
+    (function () {
+      var LIBERADA = false;
+      var ok = LIBERADA || /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+      try {
+        if (/[?&]previa=toledo2027/.test(location.search)) localStorage.setItem('toledo_listas_previa', '1');
+        if (localStorage.getItem('toledo_listas_previa') === '1') ok = true;
+      } catch (e) {}
+      if (!ok) document.documentElement.classList.add('em-montagem');
+    })();
+  </script>
+  <style>
+    .aviso-montagem { display: none; }
+    .em-montagem .aviso-montagem { display: block; text-align: center; padding: 4rem 1rem; }
+    .em-montagem .aviso-montagem h1 { color: var(--azul); font-size: 1.8rem; margin-bottom: 0.6rem; }
+    .em-montagem .hero, .em-montagem .vantagens-topo, .em-montagem main, .em-montagem .zap-fixo { display: none !important; }
+  </style>
 </head>
 <body>
 
@@ -313,6 +334,7 @@
     <span>📍 Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</span>
   </div>
 
+  <div class="aviso-montagem"><h1>Listas Escolares 2027</h1><p>Em breve! Estamos preparando as listas das escolas de Sete Lagoas.</p><p style="margin-top:1rem"><a class="btn zap" href="https://wa.me/5531985113106" target="_blank" rel="noopener">Fale com a gente no WhatsApp</a></p></div>
   <section class="hero">
     <div class="dentro">
       <div>
