@@ -563,7 +563,7 @@
             '<div class="sub">' + n + ' itens' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
             (dados.atualizado ? '<br>Preços de ' + esc(dados.atualizado) : '') + '</div></div>' +
             '<div class="resumo"><div class="rot">Total da lista</div><div class="valor">' + reais(total) + '</div>' +
-            (opcionais ? '<div class="rot">Com opcionais: ' + reais(total + opcionais) + '</div>' : '') + '</div></div>' +
+            '</div></div>' +
           '<div class="barra-acoes">' +
             '<a class="btn zap" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '">' + ICONE_ZAP + 'Pedir pelo WhatsApp</a>' +
             '<button class="btn azul" id="b-pdf" type="button">⬇ Baixar PDF</button>' +
@@ -573,7 +573,6 @@
             '<th>Item da lista / produto</th><th class="c-marca">Marca</th><th class="c-qtd">Qtd</th><th class="c-val">Valor unit.</th><th class="c-val">Total</th></tr></thead>' +
             '<tbody>' + html + '</tbody></table></div>' +
           '<div class="totais"><div class="t1">Total da lista: <b>' + reais(total) + '</b></div>' +
-            (opcionais ? '<div class="t2">Com os itens opcionais: ' + reais(total + opcionais) + '</div>' : '') +
             (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
           pagamento(total) +
           (L.observacoes && L.observacoes.length ? '<div class="obs-escola"><h3>Recados da escola</h3><ul>' +
