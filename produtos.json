@@ -3342,13 +3342,6 @@
      "img": "produtos/3225.jpg"
     },
     {
-     "cod": 12663,
-     "nome": "BORRACHA TRIS C/CP AMARELO",
-     "marca": "TRIS",
-     "preco": 2.9,
-     "img": "produtos/12663.jpg"
-    },
-    {
      "cod": 12697,
      "nome": "BORRACHA TRIS C/CP HOLIC FOGLIA DELICATA",
      "marca": "TRIS",
@@ -3380,6 +3373,20 @@
        "img": "produtos/12698.jpg"
       }
      ]
+    },
+    {
+     "cod": 14590,
+     "nome": "BORRACHA TRIS C/CP PASTEL-CORES",
+     "marca": "TRIS",
+     "preco": 1.9,
+     "img": "produtos/14590.jpg"
+    },
+    {
+     "cod": 14589,
+     "nome": "BORRACHA TRIS C/CP-CORES",
+     "marca": "TRIS",
+     "preco": 1.9,
+     "img": "produtos/14589.jpg"
     },
     {
      "cod": 14548,
@@ -6833,6 +6840,13 @@
    "slug": "cola",
    "nome": "Cola",
    "itens": [
+    {
+     "cod": 14591,
+     "nome": "COLA BASTAO 10GR ASTRO-TRIS",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/14591.jpg"
+    },
     {
      "cod": 805,
      "nome": "COLA BASTAO 10GR-ACRILEX",
@@ -25984,13 +25998,6 @@
      "img": "produtos/12718.jpg"
     },
     {
-     "cod": 12648,
-     "nome": "APONTADOR TRIS C/D 2F-ROXO (SU266)",
-     "marca": "TRIS",
-     "preco": 7.9,
-     "img": "produtos/12648.jpg"
-    },
-    {
      "cod": 14553,
      "nome": "APONTADOR TRIS C/D+BORR 1F-ABACAXI CORES",
      "marca": "TRIS",
@@ -26031,6 +26038,20 @@
      ]
     },
     {
+     "cod": 14554,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-KITTY CORES",
+     "marca": "TRIS",
+     "preco": 11.9,
+     "img": "produtos/14554.jpg"
+    },
+    {
+     "cod": 14568,
+     "nome": "APONTADOR TRIS C/D+BORR 2F-ASTRO CORES",
+     "marca": "TRIS",
+     "preco": 15.9,
+     "img": "produtos/14568.jpg"
+    },
+    {
      "cod": 14552,
      "nome": "APONTADOR TRIS C/D+BORR 2F-BUBBLE CORES",
      "marca": "TRIS",
@@ -26043,6 +26064,13 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14609.jpg"
+    },
+    {
+     "cod": 14610,
+     "nome": "APONTADOR TRIS S/D 1F TEDDY-CORES",
+     "marca": "TRIS",
+     "preco": 12.9,
+     "img": "produtos/14610.jpg"
     },
     {
      "cod": 12730,
