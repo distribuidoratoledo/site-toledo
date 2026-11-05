@@ -302,9 +302,9 @@
   </section>
 
   <div class="vantagens-topo">
-    <div class="vant"><span class="ic" style="background:#e3f6ea">🚚</span><div><b>Entrega grátis</b><span class="t">Em compras acima de R$ 50 em Sete Lagoas.</span></div></div>
+    <div class="vant"><span class="ic" style="background:#e3f6ea">🚚</span><div><b>Entrega grátis</b><span class="t">Em compras acima de R$&nbsp;50 em Sete Lagoas.</span></div></div>
     <div class="vant"><span class="ic" style="background:#fff4d6">💵</span><div><b>10% de desconto</b><span class="t">No pagamento em dinheiro, PIX ou débito.</span></div></div>
-    <div class="vant"><span class="ic" style="background:#e6efff">💳</span><div><b>Até 10x sem juros</b><span class="t">No cartão de crédito, parcela mínima de R$ 50,00.</span></div></div>
+    <div class="vant"><span class="ic" style="background:#e6efff">💳</span><div><b>Até 10x sem juros</b><span class="t">No cartão de crédito, parcela mínima de R$&nbsp;50,00.</span></div></div>
     <div class="vant"><span class="ic" style="background:#fdecef">🏪</span><div><b>Retire na loja</b><span class="t">Deixamos tudo separado para você buscar.</span></div></div>
   </div>
 
@@ -407,7 +407,7 @@
     function ler(k) { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch (e) { return null; } }
     function gravar(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
     function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
-    function reais(v) { return 'R$ ' + Number(v).toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
+    function reais(v) { return 'R$&nbsp;' + Number(v).toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
     function soDigitos(s) { return String(s || '').replace(/\D/g, ''); }
     function titulo(s) { return String(s || '').toLowerCase().replace(/(^|[\s\-\/(])([a-zà-ÿ])/g, function (m, a, b) { return a + b.toUpperCase(); }); }
 
@@ -561,7 +561,7 @@
     }
 
     // Condição de pagamento (Adriana, 04/11/2026): 10% de desconto em dinheiro, PIX ou débito;
-    // cartão de crédito em até 10x, parcela mínima de R$ 50,00
+    // cartão de crédito em até 10x, parcela mínima de R$&nbsp;50,00
     var DESCONTO_VISTA = 0.10, PARCELAS_MAX = 10, PARCELA_MINIMA = 50;
     function pagamento(total) {
       if (!total) return '';
@@ -571,7 +571,7 @@
         '<div class="vista"><h3>💵 Dinheiro, PIX ou débito</h3><div class="v">' + reais(vista) + '</div>' +
           '<p>10% de desconto sobre ' + reais(total) + '</p></div>' +
         '<div class="cartao-cred"><h3>💳 Cartão de crédito</h3><div class="v">' + (n > 1 ? n + 'x de ' + reais(total / n) : reais(total) + ' à vista') + '</div>' +
-          '<p>Até 10x sem juros, parcela mínima de R$ 50,00</p></div></div>';
+          '<p>Até 10x sem juros, parcela mínima de R$&nbsp;50,00</p></div></div>';
     }
 
     function baixarPdf() {

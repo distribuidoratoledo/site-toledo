@@ -1053,7 +1053,7 @@
     function moeda(v) {
       if (!v || v <= 0) { return 'Consulte o preço'; }
       var s = v.toFixed(2).split('.');
-      return 'R$ ' + s[0].replace(/\B(?=(\d{3})+(?!\d))/g, '.') + ',' + s[1];
+      return 'R$ ' + s[0].replace(/\B(?=(\d{3})+(?!\d))/g, '.') + ',' + s[1];   // espaço que não quebra: o valor nunca se separa do cifrão
     }
 
     // Guarda todos os produtos por código, para a janela achar o que abrir
