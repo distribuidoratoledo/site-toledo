@@ -1,1 +1,98 @@
-{"atualizado":"","escolas":[]}
+{
+ "escolas": [
+  {
+   "id": "ceme",
+   "nome": "Centro Educacional CEME",
+   "listas": [
+    {
+     "id": "ceme-maternal1",
+     "ano": "Maternal 1 (1 ano)",
+     "orcamento": 658354,
+     "itens": [
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9
+      },
+      {
+       "descricao": "2 caixas de massinha à base de amido",
+       "qtd": 2,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "a escola pede caixa com 15 unidades; a nossa caixa tem 12"
+      },
+      {
+       "descricao": "1 pincel nº 12",
+       "qtd": 1,
+       "produto": "PINCEL CHATO 12",
+       "preco": 4.9
+      },
+      {
+       "descricao": "1 livrinho educativo (páginas reforçadas)",
+       "qtd": 1,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5
+      },
+      {
+       "descricao": "1 jogo de encaixar ou empilhar",
+       "qtd": 1,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9
+      },
+      {
+       "descricao": "1 copo com tampa",
+       "qtd": 1,
+       "status": "em_breve",
+       "obs": "em breve na loja"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9
+      },
+      {
+       "descricao": "Avental para pintura",
+       "qtd": 1,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "opcional": true
+      },
+      {
+       "descricao": "1 lençol de berço e 1 travesseirinho com fronha",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix de produtos. Pedimos a gentileza de adquiri-lo em loja especializada."
+      },
+      {
+       "descricao": "1 embalagem plástica para guardar a roupa de cama",
+       "qtd": 1,
+       "produto": "SACO PLASTICO TRANSP. GRANDE (CEME)",
+       "preco": 2.0
+      },
+      {
+       "descricao": "Cola colorida (6 cores)",
+       "qtd": 1,
+       "produto": "COLA COLORIDA C/6 ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 15.9
+      }
+     ],
+     "observacoes": [
+      "A escola não permite mochila de rodinha na Educação Infantil (Maternal 1 ao 2º período).",
+      "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    }
+   ]
+  }
+ ],
+ "atualizado": "04/11/2026 21:37"
+}

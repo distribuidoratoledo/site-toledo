@@ -342,15 +342,19 @@
       var a = escolhaAtual();
       if (!a.lista) return;
       registrar(a.escola, a.lista);
-      var L = a.lista, total = 0, faltaPreco = false, linhas = '';
+      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, linhas = '';
       (L.itens || []).forEach(function (it) {
         if (it.secao) { linhas += '<tr class="secao"><td colspan="5">' + esc(it.secao) + '</td></tr>'; return; }
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        if (p == null) faltaPreco = true; else total += q * p;
-        linhas += '<tr><td>' + esc(it.descricao) + (it.obs ? '<div class="marca">' + esc(it.obs) + '</div>' : '') + '</td>' +
+        var semPreco = it.status === 'nao_temos' ? 'não disponível' : it.status === 'em_breve' ? 'em breve' : 'consultar';
+        if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
+        else if (it.opcional) opcionais += q * p; else total += q * p;
+        linhas += '<tr><td>' + esc(it.descricao) + (it.opcional ? ' <span class="marca">(opcional)</span>' : '') +
+                  (it.produto ? '<div class="marca">' + esc(it.produto) + '</div>' : '') +
+                  (it.obs ? '<div class="marca">' + esc(it.obs) + '</div>' : '') + '</td>' +
                   '<td class="cen">' + esc(it.qtd) + (it.unidade ? ' ' + esc(it.unidade) : '') + '</td>' +
                   '<td class="marca-col marca">' + esc(it.marca || '') + '</td>' +
-                  (p == null ? '<td class="num sem-preco">consultar</td><td class="num sem-preco">—</td>'
+                  (p == null ? '<td class="num sem-preco">' + semPreco + '</td><td class="num sem-preco">—</td>'
                              : '<td class="num">' + reais(p) + '</td><td class="num">' + reais(q * p) + '</td>') + '</tr>';
       });
       var c = ler(CHAVE_CAD) || {};
@@ -360,10 +364,11 @@
         '<div class="cartao">' +
           '<div class="lista-topo"><div><h2>' + esc(a.escola.nome) + ' · ' + esc(L.ano) + '</h2>' +
           '<div class="sub">Lista de material 2027' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
-          (L.atualizado ? ' · preços de ' + esc(L.atualizado) : '') + '</div></div></div>' +
+          (dados.atualizado ? ' · preços atualizados em ' + esc(dados.atualizado) : '') + '</div></div></div>' +
           '<div class="tabela-wrap"><table><thead><tr><th>Item</th><th class="cen">Qtd</th><th class="marca-col">Marca</th>' +
           '<th class="num">Preço un.</th><th class="num">Total</th></tr></thead><tbody>' + linhas +
-          '<tr class="total"><td colspan="4">Total da lista' + (faltaPreco ? ' (sem os itens a consultar)' : '') + '</td><td class="num">' + reais(total) + '</td></tr>' +
+          '<tr class="total"><td colspan="4">Total da lista' + (faltaPreco ? ' (sem os itens em breve)' : '') + '</td><td class="num">' + reais(total) + '</td></tr>' +
+          (opcionais ? '<tr><td colspan="4">Total com os itens opcionais</td><td class="num">' + reais(total + opcionais) + '</td></tr>' : '') +
           '</tbody></table></div>' +
           (L.observacoes && L.observacoes.length ? '<ul class="obs">' + L.observacoes.map(function (o) { return '<li>' + esc(o) + '</li>'; }).join('') + '</ul>' : '') +
           '<div class="acoes">' +
