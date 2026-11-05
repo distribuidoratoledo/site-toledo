@@ -596,6 +596,23 @@
       border-top: 4px solid var(--vermelho);
     }
     .sidebar h3 { color: var(--azul); margin-bottom: 0.8rem; font-size: 1.1rem; }
+    /* Filtro por marca */
+    .caixa-marca { margin-top: 1rem; border-top: 1px solid #e0e5ec; padding-top: 0.8rem; }
+    .marca-tit { width: 100%; background: none; border: 0; padding: 0 0 0.6rem; font: inherit; font-weight: 700; font-size: 1.1rem;
+                 color: var(--azul); text-align: left; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
+    .marca-tit::after { content: '▴'; color: var(--vermelho); font-size: 1rem; }
+    .caixa-marca.fechada .marca-tit::after { content: '▾'; }
+    .caixa-marca.fechada .marca-corpo { display: none; }
+    #marca-qtd { font-size: 0.75rem; background: var(--vermelho); color: #fff; border-radius: 20px; padding: 0 0.45rem; margin-left: 0.4rem; margin-right: auto; }
+    #marca-qtd:empty { display: none; }
+    .lista-marca { max-height: 260px; overflow-y: auto; padding-right: 0.3rem; }
+    .lista-marca label { display: flex; align-items: center; gap: 0.55rem; padding: 0.32rem 0.2rem; font-size: 0.92rem; cursor: pointer;
+                         color: var(--cor-texto); border-radius: 5px; }
+    .lista-marca label:hover { background: #e8edf3; }
+    .lista-marca input { width: 17px; height: 17px; margin: 0; accent-color: var(--vermelho); flex: none; }
+    .lista-marca small { margin-left: auto; color: #8a95a6; font-size: 0.78rem; }
+    .marca-limpar { margin-top: 0.6rem; background: none; border: 1px solid #d5dbe4; border-radius: 6px; padding: 0.35rem 0.7rem;
+                    font: inherit; font-size: 0.85rem; color: var(--azul); cursor: pointer; }
     .sidebar input {
       width: 100%;
       padding: 0.5rem 0.7rem;
@@ -932,6 +949,15 @@
         <li class="sub" data-cat="papel-higienico-toalha">Papel Higiênico e Toalha</li>
         <li class="sub" data-cat="utensilios-limpeza">Utensílios de Limpeza</li>
       </ul>
+      <!-- FILTRO POR MARCA (Adriana, 04/11/2026: "ideias para nosso site... filtro por marcas") -->
+      <div class="caixa-marca">
+        <button type="button" class="marca-tit" id="marca-tit">Marca <span id="marca-qtd"></span></button>
+        <div class="marca-corpo">
+          <input type="text" id="busca-marca" placeholder="Pesquisar marca...">
+          <div id="lista-marca" class="lista-marca"></div>
+          <button type="button" class="marca-limpar" id="marca-limpar" hidden>Limpar marcas</button>
+        </div>
+      </div>
     </aside>
 
   <div class="segmentos-topo">
@@ -1077,15 +1103,58 @@
              '</div>';
     }
 
+    // ===== FILTRO POR MARCA (04/11/2026) =====
+    // Lista de marcas com caixinha, como nas lojas grandes. Com uma categoria
+    // aberta, filtra dentro dela e mostra só as marcas que existem nela; sem
+    // categoria, mostra os produtos das marcas escolhidas no catálogo inteiro.
+    var CAT_ATUAL = null, MARCAS_SEL = {};
+    function chaveMarca(m) { return String(m || '').trim().toUpperCase(); }
+    function rotuloMarca(m) { return String(m || '').trim().toLowerCase().replace(/(^|[\s\-\/&.])([a-zà-ÿ])/g, function (x, a, b) { return a + b.toUpperCase(); }); }
+    function itensBase() {
+      if (CAT_ATUAL) return CAT_ATUAL.itens;
+      var todos = [];
+      for (var i = 0; i < CATALOGO.length; i++) todos = todos.concat(CATALOGO[i].itens);
+      return todos;
+    }
+    function marcasEscolhidas() { return Object.keys(MARCAS_SEL).filter(function (k) { return MARCAS_SEL[k]; }); }
+    function pintarMarcas() {
+      var cont = {}, nomes = {};
+      itensBase().forEach(function (p) { var k = chaveMarca(p.marca); if (!k) return; cont[k] = (cont[k] || 0) + 1; nomes[k] = nomes[k] || p.marca; });
+      marcasEscolhidas().forEach(function (k) { if (!cont[k]) { cont[k] = 0; nomes[k] = k; } });
+      var filtro = semAcento(document.getElementById('busca-marca').value);
+      var ks = Object.keys(cont).sort(function (a, b) { return a.localeCompare(b, 'pt-BR'); })
+                 .filter(function (k) { return !filtro || semAcento(k).indexOf(filtro) > -1; });
+      document.getElementById('lista-marca').innerHTML = ks.length ? ks.map(function (k) {
+        return '<label><input type="checkbox" data-marca="' + esc(k) + '"' + (MARCAS_SEL[k] ? ' checked' : '') + '>' +
+               esc(rotuloMarca(nomes[k])) + '<small>' + cont[k] + '</small></label>';
+      }).join('') : '<p style="font-size:0.85rem;color:#8a95a6">Nenhuma marca encontrada.</p>';
+      var n = marcasEscolhidas().length;
+      document.getElementById('marca-qtd').textContent = n ? n : '';
+      document.getElementById('marca-limpar').hidden = !n;
+    }
+    function mostrarFiltrado(rolar) {
+      var sel = marcasEscolhidas();
+      if (!CAT_ATUAL && !sel.length) { gradeInicial(); pintarMarcas(); return; }
+      var lista = itensBase().filter(function (p) { return !sel.length || MARCAS_SEL[chaveMarca(p.marca)]; });
+      var titulo = CAT_ATUAL ? CAT_ATUAL.nome : 'Marcas escolhidas';
+      var sub = lista.length + ' produtos' + (sel.length ? ' · ' + sel.map(rotuloMarca).join(', ') : '') + ' · clique para consultar no WhatsApp';
+      painel.innerHTML = '<h3 class="titulo-cat">' + esc(titulo) + '</h3><p class="sub-cat">' + esc(sub) + '</p>' +
+        (lista.length ? '<div class="grid-produtos">' + lista.map(cardProduto).join('') + '</div>'
+                      : '<p>Nenhum produto destas marcas nesta categoria.</p>');
+      pintarMarcas();
+      if (rolar) document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+    }
+
     function mostrarCategoria(slug, nome) {
       var cat = null;
       for (var i = 0; i < CATALOGO.length; i++) { if (CATALOGO[i].slug === slug) { cat = CATALOGO[i]; break; } }
       if (!cat) {
+        CAT_ATUAL = null;
         painel.innerHTML = '<h3 class="titulo-cat">' + nome + '</h3><p>Em breve os produtos desta categoria aparecerão aqui.</p>';
+        pintarMarcas();
       } else {
-        painel.innerHTML = '<h3 class="titulo-cat">' + cat.nome + '</h3>' +
-          '<p class="sub-cat">' + cat.itens.length + ' produtos · clique para consultar no WhatsApp</p>' +
-          '<div class="grid-produtos">' + cat.itens.map(cardProduto).join('') + '</div>';
+        CAT_ATUAL = cat;
+        mostrarFiltrado(false);
       }
       document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
     }
@@ -1114,7 +1183,8 @@
 
     // Grade inicial: sem categoria escolhida, mostra os mais vendidos de cada uma
     // (evita a tela ficar vazia quando o cliente abre o site)
-    (function gradeInicial() {
+    gradeInicial();
+    function gradeInicial() {
       if (!painel || typeof CATALOGO === 'undefined' || !CATALOGO.length) { return; }
       var iniciais = [];
       for (var i = 0; i < CATALOGO.length; i++) {
@@ -1128,6 +1198,24 @@
       painel.innerHTML = '<h3 class="titulo-cat">Mais vendidos</h3>' +
         '<p class="sub-cat">' + dica + '</p>' +
         '<div class="grid-produtos">' + iniciais.map(cardProduto).join('') + '</div>';
+    }
+
+    // eventos do filtro de marca
+    (function () {
+      var caixa = document.querySelector('.caixa-marca');
+      if (!caixa) return;
+      // no celular a lista de marcas nasce fechada, como a de categorias
+      if (window.matchMedia('(max-width: 640px)').matches) caixa.classList.add('fechada');
+      document.getElementById('marca-tit').addEventListener('click', function () { caixa.classList.toggle('fechada'); });
+      document.getElementById('busca-marca').addEventListener('input', pintarMarcas);
+      document.getElementById('lista-marca').addEventListener('change', function (e) {
+        var k = e.target && e.target.getAttribute('data-marca');
+        if (!k) return;
+        MARCAS_SEL[k] = e.target.checked;
+        mostrarFiltrado(false);
+      });
+      document.getElementById('marca-limpar').addEventListener('click', function () { MARCAS_SEL = {}; mostrarFiltrado(false); });
+      pintarMarcas();
     })();
 
     function filtrar(termo) {
