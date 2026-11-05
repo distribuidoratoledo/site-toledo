@@ -73,7 +73,17 @@
     main { max-width: 1000px; margin: 1.6rem auto 0; padding: 0 1rem 3rem; position: relative; z-index: 2; }
     .cartao { background: #fff; border: 1px solid #edf0f5; border-radius: 14px; padding: 1.6rem; box-shadow: 0 8px 30px rgba(26,47,82,0.10); }
     .escolha { scroll-margin-top: 90px; }
-    .escolha h2 { font-size: 1.25rem; margin-bottom: 1rem; }
+    /* busca da lista em destaque (Adriana, 04/11/2026: "destacar essa parte") */
+    .cartao.escolha { border: 3px solid var(--vermelho); box-shadow: 0 12px 36px rgba(224,30,60,0.18); padding: 1.8rem 1.8rem 1.5rem; position: relative; }
+    .cartao.escolha::before { content: "COMECE AQUI"; position: absolute; top: -14px; left: 24px; background: var(--vermelho); color: #fff;
+                              font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 0.75rem; letter-spacing: 0.12em; padding: 0.3rem 0.8rem; border-radius: 6px; }
+    .escolha h2 { font-size: clamp(1.4rem, 3vw, 1.85rem); margin-bottom: 1.1rem; }
+    .escolha h2::before { content: "🔎 "; }
+    .escolha label { font-size: 0.95rem; }
+    .escolha select { padding: 0.95rem 0.9rem; font-size: 1.05rem; border: 2px solid var(--borda); background: #fbfcfe; }
+    .escolha select:not(:disabled) { border-color: var(--azul); }
+    .escolha #ver { padding: 0.95rem 1.8rem; font-size: 1.1rem; }
+    .escolha .aviso { font-size: 0.95rem; }
     .escolha .linha-campos { display: grid; grid-template-columns: 1fr 1fr auto; gap: 1rem; align-items: end; }
     label { display: block; font-weight: 700; color: var(--azul); font-size: 0.88rem; margin-bottom: 0.3rem; }
     select, input[type=text], input[type=tel] { width: 100%; padding: 0.75rem 0.8rem; border: 1px solid var(--borda); border-radius: 8px; font-size: 1rem;
@@ -328,11 +338,7 @@
         <h2>Toledo Distribuidora de Papéis</h2>
         <p>Papelaria, material escolar, embalagens, descartáveis e produtos de limpeza em Sete Lagoas. Atendemos famílias, escolas e empresas com variedade, preço justo e atendimento de perto.</p>
         <ul class="vantagens">
-          <li><span>🎒</span><div><b>Lista inteira num lugar só</b>, sem rodar a cidade atrás de cada item.</div></li>
           <li><span>🏷️</span><div><b>Marcas de confiança</b> quando a escola não pede uma marca específica, e trocamos se você preferir outra.</div></li>
-          <li><span>🚚</span><div><b>Entrega em Sete Lagoas</b>, grátis acima de R$ 50, ou retirada na loja.</div></li>
-          <li><span>💵</span><div><b>10% de desconto</b> pagando em dinheiro, PIX ou débito.</div></li>
-          <li><span>💳</span><div><b>Cartão de crédito em até 10x sem juros</b>, parcela mínima de R$ 50,00.</div></li>
         </ul>
       </div>
       <div class="cartao">
