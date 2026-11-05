@@ -2834,25 +2834,11 @@
      ]
     },
     {
-     "cod": 3643,
-     "nome": "RETRO 0.4/2.0 JOCAR (PONTA DUPLA)",
+     "cod": 9405,
+     "nome": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
      "marca": "JOCAR",
      "preco": 3.5,
-     "img": "produtos/3643.jpg",
-     "cores": [
-      {
-       "cod": 3643,
-       "cor": "Azul",
-       "nome": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
-       "img": "produtos/3643.jpg"
-      },
-      {
-       "cod": 9405,
-       "cor": "Preto",
-       "nome": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
-       "img": "produtos/9405.jpg"
-      }
-     ]
+     "img": "produtos/9405.jpg"
     },
     {
      "cod": 2652,
