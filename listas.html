@@ -105,6 +105,21 @@
     .resumo { text-align: right; }
     .resumo .valor { font-family: 'Montserrat', sans-serif; font-weight: 800; color: var(--vermelho); font-size: 1.7rem; line-height: 1.1; }
     .resumo .rot { font-size: 0.8rem; color: var(--suave); }
+    /* Cabeçalho do orçamento no mesmo modelo dos painéis: faixa azul com a logo num quadro branco
+       à esquerda, título no centro, selo à direita, e a faixa de informações com filete vermelho */
+    .cab-lista { border-radius: 12px; overflow: hidden; margin-bottom: 1rem; }
+    .cab-lista .topo { background: linear-gradient(180deg, #1b3157 0%, #16294a 100%); color: #fff; display: grid;
+                       grid-template-columns: auto 1fr auto; align-items: center; gap: 1.2rem; padding: 1.2rem 1.4rem; }
+    .cab-lista .logo { background: #fff; border-radius: 12px; padding: 0.7rem 1rem; display: flex; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.18); }
+    .cab-lista .logo img { height: 84px; width: auto; display: block; }
+    .cab-lista .centro { text-align: center; min-width: 0; }
+    .cab-lista .centro small { display: block; font-size: 0.78rem; letter-spacing: 0.12em; color: var(--amarelo); font-weight: 700; font-family: 'Montserrat', sans-serif; }
+    .cab-lista .centro h2 { color: #fff; font-size: clamp(1.4rem, 3.4vw, 2.2rem); font-weight: 800; margin-top: 0.15rem; }
+    .cab-lista .ano { background: var(--vermelho); color: #fff; font-family: 'Montserrat', sans-serif; font-weight: 800;
+                      font-size: clamp(1.05rem, 2.6vw, 1.45rem); border-radius: 10px; padding: 0.5rem 1rem; white-space: nowrap; }
+    .cab-lista .info { background: #0f1f3a; color: #c9d4e8; border-bottom: 3px solid var(--vermelho); font-size: 0.82rem;
+                       display: flex; flex-wrap: wrap; gap: 0.3rem 1.4rem; justify-content: center; padding: 0.55rem 1rem; }
+    .cab-lista .info b { color: #fff; }
     .destaque { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; background: linear-gradient(135deg, var(--azul), var(--azul-2));
                 color: #fff; border-radius: 12px; padding: 1.1rem 1.3rem; margin-bottom: 1rem; border-left: 8px solid var(--vermelho); }
     .destaque .esc-nome { font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: clamp(1.35rem, 3.4vw, 1.9rem); line-height: 1.15; flex: 1 1 260px; }
@@ -215,6 +230,8 @@
       .barra-acoes .btn { flex: 1 1 auto; padding: 0.7rem 0.8rem; font-size: 0.92rem; }
       .resumo { text-align: left; }
       .pagto { grid-template-columns: 1fr; }
+      .cab-lista .topo { grid-template-columns: 1fr; justify-items: center; text-align: center; gap: 0.7rem; }
+      .cab-lista .logo img { height: 64px; }
       .hero .dentro { grid-template-columns: 1fr; }
       .colagem { grid-template-columns: repeat(6, 1fr); gap: 0.4rem; }
       .colagem div, .colagem div:nth-child(odd), .colagem div:nth-child(even) { padding: 0.25rem; border-radius: 8px; transform: none; }
@@ -230,6 +247,7 @@
       .cartao { border: 0; box-shadow: none; padding: 0; }
       .cab-doc { display: block; }
       .item { break-inside: avoid; }
+      .cab-lista, .cab-lista * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     }
   </style>
 </head>
@@ -495,11 +513,13 @@
                 (L.orcamento ? ' (orçamento nº ' + L.orcamento + ')' : '') + '.';
       $('lista').innerHTML =
         '<div class="cartao" id="doc-lista">' +
-          '<div class="cab-doc"><div class="t"><img src="logo-toledo.png" alt="Toledo"><div class="d"><b>Toledo Distribuidora de Papéis</b><br>' +
-            'Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG · CEP 35700-094<br>WhatsApp (31) 9 8511-3106 · (31) 3771-6262 · (31) 3771-9696<br>' +
-            'toledo@toledodistribuidora.com.br · toledodistribuidora.com.br</div></div></div>' +
-          '<div class="destaque"><div class="esc-nome"><small>LISTA DE MATERIAL 2027</small>' + esc(a.escola.nome) + '</div>' +
-            '<div class="esc-ano">' + esc(L.ano) + '</div></div>' +
+          '<div class="cab-lista"><div class="topo">' +
+              '<div class="logo"><img src="logo-toledo.png" alt="Toledo Distribuidora de Papéis"></div>' +
+              '<div class="centro"><small>LISTA DE MATERIAL 2027</small><h2>' + esc(a.escola.nome) + '</h2></div>' +
+              '<div class="ano">' + esc(L.ano) + '</div></div>' +
+            '<div class="info"><span><b>Toledo Distribuidora de Papéis</b></span><span>📍 Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG · CEP 35700-094</span>' +
+              '<span>💬 WhatsApp <b>(31) 9 8511-3106</b></span><span>📞 <b>(31) 3771-6262</b> · <b>(31) 3771-9696</b></span>' +
+              '<span>✉️ toledo@toledodistribuidora.com.br</span></div></div>' +
           '<div class="lista-topo"><div>' +
             '<div class="sub">' + n + ' itens' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
             (dados.atualizado ? '<br>Preços de ' + esc(dados.atualizado) : '') + '</div></div>' +
