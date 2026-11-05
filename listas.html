@@ -4,168 +4,205 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Listas Escolares 2027 | Toledo Distribuidora de Papéis — Sete Lagoas/MG</title>
-  <meta name="description" content="Listas escolares 2027 orçadas pela Toledo Distribuidora: escolha a escola e o ano do seu filho e veja a lista completa com preços.">
+  <meta name="description" content="Listas escolares 2027 orçadas pela Toledo Distribuidora: escolha a escola e o ano do seu filho e veja a lista completa com fotos e preços.">
   <meta property="og:title" content="Listas Escolares 2027 — Toledo Distribuidora">
-  <meta property="og:description" content="Escolha a escola e o ano e veja a lista de material escolar 2027 com preços.">
+  <meta property="og:description" content="Escolha a escola e o ano e veja a lista de material escolar 2027 com preços. Entrega em Sete Lagoas.">
   <meta property="og:type" content="website">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap');
     :root {
       --vermelho: #e01e3c;
+      --vermelho-esc: #b8142e;
       --azul: #1a2f52;
+      --azul-2: #243f6b;
       --cor-clara: #f5f7fa;
       --cor-texto: #3a4557;
-      --borda: #d5dbe4;
+      --suave: #6b7686;
+      --borda: #dde3ec;
+      --verde: #25d366;
+      --amarelo: #ffc83d;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-      color: var(--cor-texto);
-      line-height: 1.6;
-      background: var(--cor-clara);
-    }
+    body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; color: var(--cor-texto); line-height: 1.55; background: var(--cor-clara); }
+    h1, h2, h3 { font-family: 'Montserrat', 'Segoe UI', sans-serif; color: var(--azul); line-height: 1.2; text-wrap: balance; }
+    a { color: inherit; }
 
-    /* Cabeçalho e menu (igual ao index.html) */
-    header {
-      background: #fff;
-      padding: 0.4rem 1.5rem;
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      box-shadow: 0 1px 6px rgba(0,0,0,0.08);
-    }
-    header img.logo { height: 60px; }
-    nav a {
-      color: var(--azul);
-      text-decoration: none;
-      margin-left: 1.5rem;
-      font-size: 0.95rem;
-      font-weight: 600;
-    }
+    /* Cabeçalho (igual ao index.html) */
+    header { background: #fff; padding: 0.4rem 1.5rem; position: sticky; top: 0; z-index: 20; display: flex; justify-content: space-between;
+             align-items: center; flex-wrap: wrap; box-shadow: 0 1px 6px rgba(0,0,0,0.08); }
+    header img.logo { height: 60px; display: block; }
+    nav a { color: var(--azul); text-decoration: none; margin-left: 1.5rem; font-size: 0.95rem; font-weight: 600; }
     nav a:hover, nav a.ativo { color: var(--vermelho); }
 
-    /* Faixa do título */
-    .faixa {
-      background: var(--azul);
-      color: #fff;
-      text-align: center;
-      padding: 2.2rem 1rem 2rem;
-    }
-    .faixa h1 {
-      font-family: 'Montserrat', 'Segoe UI', sans-serif;
-      font-weight: 800;
-      font-size: clamp(1.6rem, 4vw, 2.4rem);
-      letter-spacing: 0.02em;
-    }
-    .faixa p { color: #cbd5e1; max-width: 620px; margin: 0.4rem auto 0; }
+    /* Faixa de contato */
+    .faixa-contato { background: var(--azul); color: #dbe4f1; font-size: 0.86rem; padding: 0.45rem 1rem; display: flex; gap: 0.4rem 1.6rem;
+                     justify-content: center; flex-wrap: wrap; }
+    .faixa-contato a { text-decoration: none; color: #fff; font-weight: 600; }
 
-    main { max-width: 980px; margin: 0 auto; padding: 1.8rem 1rem 3rem; }
+    /* Topo */
+    .hero { position: relative; overflow: hidden; color: #fff; padding: 3rem 1rem 6.5rem;
+            background: radial-gradient(circle at 85% 10%, rgba(224,30,60,0.55), transparent 40%),
+                        radial-gradient(circle at 5% 90%, rgba(255,200,61,0.25), transparent 35%),
+                        linear-gradient(135deg, var(--azul) 0%, var(--azul-2) 100%); }
+    .hero::after { content: "✏️ 📐 🎨 📒 ✂️ 🖍️"; position: absolute; right: -1rem; bottom: 0.6rem; font-size: 2.6rem; opacity: 0.18; letter-spacing: 0.6rem; white-space: nowrap; }
+    .hero .dentro { max-width: 1000px; margin: 0 auto; position: relative; z-index: 1; }
+    .selo { display: inline-block; background: var(--amarelo); color: var(--azul); font-weight: 800; font-size: 0.78rem; letter-spacing: 0.08em;
+            padding: 0.25rem 0.7rem; border-radius: 30px; font-family: 'Montserrat', sans-serif; }
+    .hero h1 { color: #fff; font-size: clamp(2rem, 5vw, 3.1rem); font-weight: 800; margin: 0.7rem 0 0.5rem; letter-spacing: 0.01em; }
+    .hero h1 span { color: var(--amarelo); }
+    .hero p.sub { color: #d5deeb; font-size: 1.08rem; max-width: 600px; }
+    .chips { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem; }
+    .chip { background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.22); border-radius: 30px; padding: 0.4rem 0.9rem; font-size: 0.9rem; }
+    .chip b { color: var(--amarelo); }
 
-    .cartao {
-      background: #fff;
-      border: 1px solid #eef1f5;
-      border-radius: 10px;
-      padding: 1.5rem;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
-    }
-    .escolha { display: grid; grid-template-columns: 1fr 1fr auto; gap: 1rem; align-items: end; }
-    label { display: block; font-weight: 600; color: var(--azul); font-size: 0.9rem; margin-bottom: 0.3rem; }
-    select, input[type=text], input[type=tel] {
-      width: 100%;
-      padding: 0.65rem 0.75rem;
-      border: 1px solid var(--borda);
-      border-radius: 6px;
-      font-size: 1rem;
-      background: #fff;
-      color: var(--cor-texto);
-      font-family: inherit;
-    }
+    main { max-width: 1000px; margin: -4.5rem auto 0; padding: 0 1rem 3rem; position: relative; z-index: 2; }
+    .cartao { background: #fff; border: 1px solid #edf0f5; border-radius: 14px; padding: 1.6rem; box-shadow: 0 8px 30px rgba(26,47,82,0.10); }
+    .escolha h2 { font-size: 1.25rem; margin-bottom: 1rem; }
+    .escolha .linha-campos { display: grid; grid-template-columns: 1fr 1fr auto; gap: 1rem; align-items: end; }
+    label { display: block; font-weight: 700; color: var(--azul); font-size: 0.88rem; margin-bottom: 0.3rem; }
+    select, input[type=text], input[type=tel] { width: 100%; padding: 0.75rem 0.8rem; border: 1px solid var(--borda); border-radius: 8px; font-size: 1rem;
+                                                background: #fff; color: var(--cor-texto); font-family: inherit; }
+    select:focus, input:focus { outline: 2px solid rgba(224,30,60,0.35); border-color: var(--vermelho); }
     select:disabled { background: #f0f2f6; }
-    .btn {
-      background: var(--vermelho);
-      color: #fff;
-      border: 0;
-      border-radius: 6px;
-      padding: 0.7rem 1.4rem;
-      font-size: 1rem;
-      font-weight: 700;
-      cursor: pointer;
-      font-family: inherit;
-      white-space: nowrap;
-    }
+    .btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.45rem; background: var(--vermelho); color: #fff; border: 0;
+           border-radius: 8px; padding: 0.78rem 1.4rem; font-size: 1rem; font-weight: 700; cursor: pointer; font-family: inherit; white-space: nowrap;
+           text-decoration: none; transition: background 0.15s, transform 0.1s; }
+    .btn:hover { background: var(--vermelho-esc); }
+    .btn:active { transform: translateY(1px); }
     .btn:disabled { background: #b9c1cd; cursor: not-allowed; }
+    .btn.azul { background: var(--azul); }
+    .btn.azul:hover { background: var(--azul-2); }
     .btn.claro { background: #fff; color: var(--azul); border: 1px solid var(--borda); }
-    .aviso { font-size: 0.85rem; color: #6b7686; margin-top: 0.8rem; }
-    .vazio { text-align: center; padding: 2.5rem 1rem; color: #6b7686; }
+    .btn.claro:hover { background: #f1f4f9; }
+    .btn.zap { background: var(--verde); }
+    .btn.zap:hover { background: #1fb957; }
+    .btn svg { width: 18px; height: 18px; fill: currentColor; flex: none; }
+    .aviso { font-size: 0.88rem; color: var(--suave); margin-top: 0.9rem; }
+    .aviso a { color: var(--vermelho); font-weight: 700; }
+    .vazio { text-align: center; padding: 2rem 1rem 0.5rem; color: var(--suave); }
+
+    /* Como funciona */
+    .passos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 2rem 0 0; }
+    .passo { background: #fff; border-radius: 12px; padding: 1.2rem; border: 1px solid #edf0f5; }
+    .passo .n { width: 34px; height: 34px; border-radius: 50%; background: var(--vermelho); color: #fff; display: grid; place-items: center;
+                font-weight: 800; font-family: 'Montserrat', sans-serif; margin-bottom: 0.6rem; }
+    .passo h3 { font-size: 1rem; margin-bottom: 0.2rem; }
+    .passo p { font-size: 0.9rem; color: var(--suave); }
 
     /* Lista */
-    #lista { margin-top: 1.5rem; }
-    .lista-topo { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; align-items: flex-start; margin-bottom: 1rem; }
-    .lista-topo h2 { font-family: 'Montserrat', 'Segoe UI', sans-serif; color: var(--azul); font-size: 1.3rem; line-height: 1.3; }
-    .lista-topo .sub { color: #6b7686; font-size: 0.9rem; }
-    .tabela-wrap { overflow-x: auto; }
-    table { width: 100%; border-collapse: collapse; font-size: 0.93rem; }
-    th {
-      background: var(--azul);
-      color: #fff;
-      text-align: left;
-      padding: 0.55rem 0.6rem;
-      font-weight: 600;
-      border: 1px solid #2c4470;
-    }
-    td { padding: 0.5rem 0.6rem; border: 1px solid #e3e8ef; vertical-align: top; }
-    tr:nth-child(even) td { background: #fafbfd; }
-    td.num, th.num { text-align: right; white-space: nowrap; }
-    td.cen, th.cen { text-align: center; }
-    .marca { color: #6b7686; font-size: 0.85rem; }
-    .sem-preco { color: #9aa3b1; font-style: italic; }
-    tr.secao td { background: #e8edf3 !important; font-weight: 700; color: var(--azul); }
-    tr.total td { background: #fff4f6 !important; font-weight: 800; color: var(--azul); font-size: 1.05rem; }
-    .obs { margin-top: 1rem; font-size: 0.9rem; }
-    .obs li { margin-left: 1.2rem; }
-    .acoes { display: flex; gap: 0.8rem; flex-wrap: wrap; margin-top: 1.3rem; }
-    .btn-whats {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      background: #25d366; color: #fff; padding: 0.75rem 1.5rem;
-      border-radius: 30px; text-decoration: none; font-weight: 700;
-    }
-    .btn-whats svg { width: 20px; height: 20px; fill: #fff; }
-    .rodape-lista { font-size: 0.82rem; color: #6b7686; margin-top: 1rem; }
+    #lista { margin-top: 1.8rem; scroll-margin-top: 90px; }
+    .lista-topo { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; align-items: flex-start; }
+    .lista-topo h2 { font-size: 1.45rem; }
+    .lista-topo .sub { color: var(--suave); font-size: 0.9rem; margin-top: 0.2rem; }
+    .resumo { text-align: right; }
+    .resumo .valor { font-family: 'Montserrat', sans-serif; font-weight: 800; color: var(--vermelho); font-size: 1.7rem; line-height: 1.1; }
+    .resumo .rot { font-size: 0.8rem; color: var(--suave); }
+    .destaque { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; background: linear-gradient(135deg, var(--azul), var(--azul-2));
+                color: #fff; border-radius: 12px; padding: 1.1rem 1.3rem; margin-bottom: 1rem; border-left: 8px solid var(--vermelho); }
+    .destaque .esc-nome { font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: clamp(1.35rem, 3.4vw, 1.9rem); line-height: 1.15; flex: 1 1 260px; }
+    .destaque .esc-nome small { display: block; font-size: 0.75rem; letter-spacing: 0.12em; color: var(--amarelo); font-weight: 700; margin-bottom: 0.2rem; }
+    .destaque .esc-ano { background: var(--vermelho); color: #fff; font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: clamp(1.1rem, 3vw, 1.5rem);
+                         border-radius: 10px; padding: 0.45rem 1rem; white-space: nowrap; }
+    .pagto { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; margin-top: 1.2rem; }
+    .pagto > div { border-radius: 10px; padding: 0.9rem 1.1rem; }
+    .pagto .vista { background: #e9f9ef; border: 1px solid #bfe9cf; }
+    .pagto .cartao-cred { background: #eef3fb; border: 1px solid #d3dff2; }
+    .pagto h3 { font-size: 0.95rem; margin-bottom: 0.15rem; }
+    .pagto .v { font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 1.35rem; color: #157a3c; }
+    .pagto .cartao-cred .v { color: var(--azul); }
+    .pagto p { font-size: 0.85rem; color: var(--suave); }
+    .barra-acoes { position: sticky; top: 76px; z-index: 5; display: flex; gap: 0.6rem; flex-wrap: wrap; background: #fff; padding: 0.8rem 0;
+                   margin: 1rem 0 0.4rem; border-bottom: 1px solid #eef1f5; }
+    .itens { display: flex; flex-direction: column; }
+    .item { display: grid; grid-template-columns: 72px 1fr auto auto; gap: 0.9rem; align-items: center; padding: 0.85rem 0.2rem;
+            border-bottom: 1px solid #eef1f5; }
+    .foto { width: 72px; height: 72px; border-radius: 10px; background: #f3f5f9; border: 1px solid #edf0f5; display: grid; place-items: center;
+            overflow: hidden; font-size: 1.6rem; }
+    .foto img { width: 100%; height: 100%; object-fit: contain; background: #fff; }
+    .item .nome { font-weight: 700; color: var(--azul); }
+    .item .prod { font-size: 0.84rem; color: var(--suave); }
+    .item .prod .cod { display: inline-block; background: #eef2f8; color: var(--azul); font-weight: 700; border-radius: 5px; padding: 0 0.35rem; margin-right: 0.3rem; font-size: 0.78rem; }
+    .item .obs { font-size: 0.82rem; color: var(--suave); font-style: italic; }
+    .tag { display: inline-block; font-size: 0.72rem; font-weight: 700; border-radius: 20px; padding: 0.05rem 0.55rem; margin-left: 0.35rem; vertical-align: middle; }
+    .tag.op { background: #fff4d6; color: #8a6100; }
+    .tag.breve { background: #e8f0ff; color: #2954a3; }
+    .tag.nao { background: #f1f2f4; color: #6b7686; }
+    .item .qtd { text-align: center; min-width: 56px; font-size: 0.9rem; color: var(--suave); }
+    .item .qtd b { display: block; font-size: 1.1rem; color: var(--azul); }
+    .item .preco { text-align: right; min-width: 110px; }
+    .item .preco b { display: block; font-size: 1.05rem; color: var(--azul); }
+    .item .preco span { font-size: 0.8rem; color: var(--suave); }
+    .item .preco .sem { color: #9aa3b1; font-style: italic; font-size: 0.9rem; }
+    .totais { margin-top: 1rem; display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
+    .totais .t1 { font-family: 'Montserrat', sans-serif; font-weight: 800; color: var(--azul); font-size: 1.25rem; }
+    .totais .t1 b { color: var(--vermelho); }
+    .totais .t2 { color: var(--suave); font-size: 0.92rem; }
+    .obs-escola { margin-top: 1.2rem; background: #fff8e6; border: 1px solid #ffe3a3; border-radius: 10px; padding: 0.9rem 1.1rem; font-size: 0.9rem; }
+    .obs-escola h3 { font-size: 0.92rem; margin-bottom: 0.3rem; }
+    .obs-escola li { margin-left: 1.1rem; }
+    .rodape-lista { font-size: 0.82rem; color: var(--suave); margin-top: 1rem; }
+
+    /* Sobre a Toledo */
+    .toledo { margin-top: 2.5rem; display: grid; grid-template-columns: 1.2fr 1fr; gap: 1.2rem; }
+    .toledo .cartao { box-shadow: none; }
+    .toledo h2 { font-size: 1.3rem; margin-bottom: 0.6rem; }
+    .toledo p { margin-bottom: 0.7rem; }
+    .vantagens { list-style: none; display: grid; gap: 0.5rem; margin-top: 0.6rem; }
+    .vantagens li { display: flex; gap: 0.6rem; align-items: flex-start; }
+    .vantagens li span { font-size: 1.2rem; line-height: 1.3; }
+    .contato-lista { list-style: none; display: grid; gap: 0.75rem; }
+    .contato-lista li { display: flex; gap: 0.7rem; align-items: flex-start; }
+    .contato-lista .ic { width: 36px; height: 36px; border-radius: 50%; background: #fdecef; color: var(--vermelho); display: grid; place-items: center; flex: none; font-size: 1.05rem; }
+    .contato-lista small { display: block; color: var(--suave); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; }
+    .contato-lista a { text-decoration: none; font-weight: 700; color: var(--azul); }
 
     /* Cadastro para ver a lista */
-    .fundo {
-      position: fixed; inset: 0; background: rgba(15, 25, 45, 0.55);
-      display: flex; align-items: center; justify-content: center; padding: 1rem; z-index: 50;
-    }
+    .fundo { position: fixed; inset: 0; background: rgba(15, 25, 45, 0.6); display: flex; align-items: center; justify-content: center; padding: 1rem; z-index: 50; }
     .fundo[hidden] { display: none; }
-    .janela { background: #fff; border-radius: 12px; max-width: 430px; width: 100%; padding: 1.6rem; box-shadow: 0 10px 40px rgba(0,0,0,0.25); }
-    .janela h3 { font-family: 'Montserrat', 'Segoe UI', sans-serif; color: var(--azul); font-size: 1.2rem; margin-bottom: 0.3rem; }
+    .janela { background: #fff; border-radius: 14px; max-width: 430px; width: 100%; padding: 1.7rem; box-shadow: 0 10px 40px rgba(0,0,0,0.25); }
+    .janela h3 { font-size: 1.25rem; margin-bottom: 0.3rem; }
     .janela p { font-size: 0.92rem; margin-bottom: 1rem; }
     .janela .campo { margin-bottom: 0.9rem; }
     .janela .erro { color: var(--vermelho); font-size: 0.85rem; min-height: 1.2em; }
     .janela .botoes { display: flex; gap: 0.6rem; justify-content: flex-end; margin-top: 0.4rem; }
-    .janela .lgpd { font-size: 0.78rem; color: #6b7686; margin-top: 0.9rem; }
+    .janela .lgpd { font-size: 0.78rem; color: var(--suave); margin-top: 0.9rem; }
 
-    footer { background: var(--azul); color: #cbd5e1; text-align: center; padding: 2rem; font-size: 0.9rem; }
+    /* Cabeçalho que só aparece no PDF / impressão */
+    .cab-doc { display: none; }
+    .cab-doc .t { display: flex; justify-content: space-between; align-items: center; gap: 1rem; border-bottom: 3px solid var(--vermelho); padding-bottom: 0.6rem; margin-bottom: 0.8rem; }
+    .cab-doc img { height: 54px; }
+    .cab-doc .d { text-align: right; font-size: 0.8rem; color: var(--cor-texto); line-height: 1.45; }
+    .pdf-modo .cab-doc { display: block; }
+    .pdf-modo .barra-acoes, .pdf-modo .rodape-tela { display: none !important; }
+    .pdf-modo { box-shadow: none !important; border: 0 !important; }
 
-    @media (max-width: 720px) {
-      .escolha { grid-template-columns: 1fr; }
+    footer { background: var(--azul); color: #cbd5e1; text-align: center; padding: 2rem 1rem; font-size: 0.9rem; margin-top: 2.5rem; }
+    footer b { color: #fff; }
+
+    @media (max-width: 760px) {
       header { justify-content: center; }
       nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.1rem 0.65rem; }
       nav a { margin: 0; padding: 0.35rem 0; }
-      th.marca-col, td.marca-col { display: none; }
+      .escolha .linha-campos, .passos, .toledo { grid-template-columns: 1fr; }
+      .item { grid-template-columns: 60px 1fr auto; }
+      .foto { width: 60px; height: 60px; }
+      .item .qtd { grid-column: 2; text-align: left; min-width: 0; }
+      .item .qtd b { display: inline; font-size: 0.95rem; }
+      .item .preco { grid-column: 3; grid-row: 1 / span 2; min-width: 84px; }
+      .barra-acoes { top: 118px; }
+      .barra-acoes .btn { flex: 1 1 auto; padding: 0.7rem 0.8rem; font-size: 0.92rem; }
+      .resumo { text-align: left; }
+      .pagto { grid-template-columns: 1fr; }
+      .hero::after { display: none; }
     }
     @media print {
-      header, .faixa, #escolha, .acoes, footer, .fundo { display: none !important; }
+      header, .faixa-contato, .hero, .escolha, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela { display: none !important; }
       body { background: #fff; }
-      main { padding: 0; }
+      main { margin: 0; padding: 0; max-width: none; }
+      #lista { margin: 0; }
       .cartao { border: 0; box-shadow: none; padding: 0; }
-      th { background: #fff; color: #000; border: 1px solid #999; }
-      td.marca-col, th.marca-col { display: table-cell !important; }
+      .cab-doc { display: block; }
+      .item { break-inside: avoid; }
     }
   </style>
 </head>
@@ -178,38 +215,84 @@
       <a href="index.html#produtos">Produtos</a>
       <a href="listas.html" class="ativo">Listas Escolares 2027</a>
       <a href="index.html#sobre">Sobre</a>
-      <a href="index.html#contato">Contato</a>
+      <a href="#contato-toledo">Contato</a>
     </nav>
   </header>
 
-  <div class="faixa">
-    <h1>LISTAS ESCOLARES 2027</h1>
-    <p>Escolha a escola e o ano do seu filho e veja a lista de material completa, já orçada pela Toledo.</p>
+  <div class="faixa-contato">
+    <span>📱 WhatsApp <a href="https://wa.me/5531985113106" target="_blank" rel="noopener">(31) 9 8511-3106</a></span>
+    <span>📞 <a href="tel:+553137716262">(31) 3771-6262</a> · <a href="tel:+553137719696">(31) 3771-9696</a></span>
+    <span>📍 Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</span>
   </div>
 
+  <section class="hero">
+    <div class="dentro">
+      <span class="selo">VOLTA ÀS AULAS 2027</span>
+      <h1>Lista escolar <span>pronta</span>, sem sair de casa</h1>
+      <p class="sub">Já orçamos as listas das escolas de Sete Lagoas. Escolha a escola e o ano do seu filho e veja cada item com foto, marca e preço.</p>
+      <div class="chips">
+        <span class="chip">🚚 Entrega <b>grátis</b> acima de R$ 50 em Sete Lagoas</span>
+        <span class="chip">💵 <b>10% de desconto</b> no dinheiro, PIX ou débito</span>
+        <span class="chip">💳 Até <b>10x sem juros</b> no cartão</span>
+        <span class="chip">🏪 Ou retire na loja</span>
+        <span class="chip">📦 Montamos a lista completa</span>
+      </div>
+    </div>
+  </section>
+
   <main>
-    <div class="cartao" id="escolha">
-      <div class="escolha">
+    <div class="cartao escolha" id="escolha">
+      <h2>Encontre a lista do seu filho</h2>
+      <div class="linha-campos">
         <div>
           <label for="escola">Escola</label>
           <select id="escola"><option value="">Carregando…</option></select>
         </div>
         <div>
-          <label for="ano">Ano de matrícula do seu filho em 2027</label>
+          <label for="ano">Ano / série em 2027</label>
           <select id="ano" disabled><option value="">Escolha a escola primeiro</option></select>
         </div>
         <button class="btn" id="ver" disabled>Ver lista</button>
       </div>
-      <p class="aviso" id="aviso-escola">Não achou a escola? Envie a lista pelo WhatsApp (31) 9 8511-3106 que a gente orça para você.</p>
+      <p class="aviso">Não achou a escola? <a href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20o%20or%C3%A7amento%20da%20lista%20escolar%202027%20do%20meu%20filho." target="_blank" rel="noopener">Envie a lista pelo WhatsApp</a> que a gente orça para você.</p>
     </div>
 
     <div id="lista"></div>
+
+    <div class="passos" id="passos">
+      <div class="passo"><div class="n">1</div><h3>Escolha a escola e o ano</h3><p>As listas oficiais de 2027, item por item, como a escola pediu.</p></div>
+      <div class="passo"><div class="n">2</div><h3>Confira fotos e preços</h3><p>Cada item com a foto do produto, a marca e o valor. Baixe em PDF ou imprima.</p></div>
+      <div class="passo"><div class="n">3</div><h3>Peça pelo WhatsApp</h3><p>A gente separa tudo e entrega na sua casa ou deixa pronto para retirar.</p></div>
+    </div>
+
+    <section class="toledo" id="contato-toledo">
+      <div class="cartao">
+        <h2>Toledo Distribuidora de Papéis</h2>
+        <p>Papelaria, material escolar, embalagens, descartáveis e produtos de limpeza em Sete Lagoas. Atendemos famílias, escolas e empresas com variedade, preço justo e atendimento de perto.</p>
+        <ul class="vantagens">
+          <li><span>🎒</span><div><b>Lista inteira num lugar só</b>, sem rodar a cidade atrás de cada item.</div></li>
+          <li><span>🏷️</span><div><b>Marcas de confiança</b> quando a escola não pede uma marca específica, e trocamos se você preferir outra.</div></li>
+          <li><span>🚚</span><div><b>Entrega em Sete Lagoas</b>, grátis acima de R$ 50, ou retirada na loja.</div></li>
+          <li><span>💵</span><div><b>10% de desconto</b> pagando em dinheiro, PIX ou débito.</div></li>
+          <li><span>💳</span><div><b>Cartão de crédito em até 10x sem juros</b>, parcela mínima de R$ 50,00.</div></li>
+        </ul>
+      </div>
+      <div class="cartao">
+        <h2>Fale com a gente</h2>
+        <ul class="contato-lista">
+          <li><span class="ic">💬</span><div><small>WhatsApp</small><a href="https://wa.me/5531985113106" target="_blank" rel="noopener">(31) 9 8511-3106</a></div></li>
+          <li><span class="ic">📞</span><div><small>Telefones</small><a href="tel:+553137716262">(31) 3771-6262</a> · <a href="tel:+553137719696">(31) 3771-9696</a></div></li>
+          <li><span class="ic">✉️</span><div><small>E-mail</small><a href="mailto:toledo@toledodistribuidora.com.br">toledo@toledodistribuidora.com.br</a></div></li>
+          <li><span class="ic">📍</span><div><small>Endereço</small><a href="https://www.google.com/maps/search/?api=1&query=Rua+S%C3%A3o+Paulo%2C+67%2C+Boa+Vista%2C+Sete+Lagoas+MG" target="_blank" rel="noopener">Rua São Paulo, 67 · Boa Vista<br>Sete Lagoas/MG · CEP 35700-094</a></div></li>
+        </ul>
+      </div>
+    </section>
   </main>
 
   <div class="fundo" id="cadastro" hidden>
     <form class="janela" id="form-cadastro" novalidate>
-      <h3>Para ver a lista</h3>
-      <p>Informe seu nome e WhatsApp. É rapidinho e só pedimos uma vez neste aparelho.</p>
+      <h3>Quase lá! 📒</h3>
+      <p>Informe seu nome e WhatsApp para ver a lista. É rapidinho e só pedimos uma vez neste aparelho.</p>
       <div class="campo">
         <label for="nome">Seu nome</label>
         <input type="text" id="nome" autocomplete="name" maxlength="80" required>
@@ -228,9 +311,12 @@
   </div>
 
   <footer>
-    <p>&copy; <span id="ano-rodape">2026</span> Toledo Distribuidora de Papéis. Todos os direitos reservados.</p>
+    <p><b>Toledo Distribuidora de Papéis</b> · Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</p>
+    <p>WhatsApp (31) 9 8511-3106 · (31) 3771-6262 · (31) 3771-9696</p>
+    <p style="margin-top:0.6rem">&copy; <span id="ano-rodape">2026</span> Todos os direitos reservados.</p>
   </footer>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" defer></script>
   <script>
   (function () {
     // Endereço que grava quem acessou (App da Web do Google, planilha "Listas Escolares 2027 - Acessos").
@@ -239,6 +325,7 @@
     var WHATS = '5531985113106';
     var CHAVE_CAD = 'toledo_listas_cadastro';
     var CHAVE_FILA = 'toledo_listas_fila';
+    var ICONE_ZAP = '<svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3z"/></svg>';
 
     var dados = { escolas: [] };
     var $ = function (id) { return document.getElementById(id); };
@@ -250,6 +337,7 @@
     function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
     function reais(v) { return 'R$ ' + Number(v).toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
     function soDigitos(s) { return String(s || '').replace(/\D/g, ''); }
+    function titulo(s) { return String(s || '').toLowerCase().replace(/(^|[\s\-\/(])([a-zà-ÿ])/g, function (m, a, b) { return a + b.toUpperCase(); }); }
 
     function idAparelho() {
       var c = ler(CHAVE_CAD) || {};
@@ -338,48 +426,90 @@
     });
 
     // ---------- lista ----------
+    var atual = null;
     function mostrar() {
       var a = escolhaAtual();
       if (!a.lista) return;
+      atual = a;
       registrar(a.escola, a.lista);
-      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, linhas = '';
+      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, html = '', n = 0;
       (L.itens || []).forEach(function (it) {
-        if (it.secao) { linhas += '<tr class="secao"><td colspan="5">' + esc(it.secao) + '</td></tr>'; return; }
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        var semPreco = it.status === 'nao_temos' ? 'não disponível' : it.status === 'em_breve' ? 'em breve' : 'consultar';
         if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
         else if (it.opcional) opcionais += q * p; else total += q * p;
-        linhas += '<tr><td>' + esc(it.descricao) + (it.opcional ? ' <span class="marca">(opcional)</span>' : '') +
-                  (it.produto ? '<div class="marca">' + esc(it.produto) + '</div>' : '') +
-                  (it.obs ? '<div class="marca">' + esc(it.obs) + '</div>' : '') + '</td>' +
-                  '<td class="cen">' + esc(it.qtd) + (it.unidade ? ' ' + esc(it.unidade) : '') + '</td>' +
-                  '<td class="marca-col marca">' + esc(it.marca || '') + '</td>' +
-                  (p == null ? '<td class="num sem-preco">' + semPreco + '</td><td class="num sem-preco">—</td>'
-                             : '<td class="num">' + reais(p) + '</td><td class="num">' + reais(q * p) + '</td>') + '</tr>';
+        n++;
+        var tag = it.opcional ? '<span class="tag op">opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">em breve</span>'
+                : it.status === 'nao_temos' ? '<span class="tag nao">não disponível</span>' : '';
+        var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
+        html += '<div class="item"><div class="foto">' + foto + '</div>' +
+          '<div><div class="nome">' + esc(it.descricao) + tag + '</div>' +
+          (it.produto ? '<div class="prod">' + (it.cod ? '<span class="cod">cód. ' + esc(it.cod) + '</span>' : '') + esc(titulo(it.produto)) +
+                        (it.marca ? ' · <b>' + esc(titulo(it.marca)) + '</b>' : '') + '</div>' : '') +
+          (it.obs ? '<div class="obs">' + esc(it.obs) + '</div>' : '') + '</div>' +
+          '<div class="qtd"><b>' + esc(it.qtd) + '</b>' + (q === 1 ? 'unidade' : 'unidades') + '</div>' +
+          '<div class="preco">' + (p == null ? '<span class="sem">' + (it.status === 'nao_temos' ? '—' : 'em breve') + '</span>'
+                                             : '<b>' + reais(q * p) + '</b>' + (q > 1 ? '<span>' + reais(p) + ' cada</span>' : '')) + '</div></div>';
       });
       var c = ler(CHAVE_CAD) || {};
-      var msg = 'Olá! Sou ' + (c.nome || '') + ' e quero o orçamento da lista escolar 2027 da escola ' + a.escola.nome + ', ' + L.ano +
+      var msg = 'Olá! Sou ' + (c.nome || '') + ' e quero a lista escolar 2027 da escola ' + a.escola.nome + ', ' + L.ano +
                 (L.orcamento ? ' (orçamento nº ' + L.orcamento + ')' : '') + '.';
       $('lista').innerHTML =
-        '<div class="cartao">' +
-          '<div class="lista-topo"><div><h2>' + esc(a.escola.nome) + ' · ' + esc(L.ano) + '</h2>' +
-          '<div class="sub">Lista de material 2027' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
-          (dados.atualizado ? ' · preços atualizados em ' + esc(dados.atualizado) : '') + '</div></div></div>' +
-          '<div class="tabela-wrap"><table><thead><tr><th>Item</th><th class="cen">Qtd</th><th class="marca-col">Marca</th>' +
-          '<th class="num">Preço un.</th><th class="num">Total</th></tr></thead><tbody>' + linhas +
-          '<tr class="total"><td colspan="4">Total da lista' + (faltaPreco ? ' (sem os itens em breve)' : '') + '</td><td class="num">' + reais(total) + '</td></tr>' +
-          (opcionais ? '<tr><td colspan="4">Total com os itens opcionais</td><td class="num">' + reais(total + opcionais) + '</td></tr>' : '') +
-          '</tbody></table></div>' +
-          (L.observacoes && L.observacoes.length ? '<ul class="obs">' + L.observacoes.map(function (o) { return '<li>' + esc(o) + '</li>'; }).join('') + '</ul>' : '') +
-          '<div class="acoes">' +
-            '<a class="btn-whats" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '">' +
-            '<svg viewBox="0 0 32 32"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.1.6 4.2 1.6 6L4 29l8.2-1.6c1.7.9 3.7 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3z"/></svg>' +
-            'Pedir esta lista pelo WhatsApp</a>' +
-            '<button class="btn claro" onclick="window.print()">Imprimir</button>' +
+        '<div class="cartao" id="doc-lista">' +
+          '<div class="cab-doc"><div class="t"><img src="logo-toledo.png" alt="Toledo"><div class="d"><b>Toledo Distribuidora de Papéis</b><br>' +
+            'Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG · CEP 35700-094<br>WhatsApp (31) 9 8511-3106 · (31) 3771-6262 · (31) 3771-9696<br>' +
+            'toledo@toledodistribuidora.com.br · toledodistribuidora.com.br</div></div></div>' +
+          '<div class="destaque"><div class="esc-nome"><small>LISTA DE MATERIAL 2027</small>' + esc(a.escola.nome) + '</div>' +
+            '<div class="esc-ano">' + esc(L.ano) + '</div></div>' +
+          '<div class="lista-topo"><div>' +
+            '<div class="sub">' + n + ' itens' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
+            (dados.atualizado ? '<br>Preços de ' + esc(dados.atualizado) : '') + '</div></div>' +
+            '<div class="resumo"><div class="rot">Total da lista</div><div class="valor">' + reais(total) + '</div>' +
+            (opcionais ? '<div class="rot">com opcionais: ' + reais(total + opcionais) + '</div>' : '') + '</div></div>' +
+          '<div class="barra-acoes">' +
+            '<a class="btn zap" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '">' + ICONE_ZAP + 'Pedir pelo WhatsApp</a>' +
+            '<button class="btn azul" id="b-pdf" type="button">⬇ Baixar PDF</button>' +
+            '<button class="btn claro" id="b-imp" type="button">🖨 Imprimir</button>' +
           '</div>' +
-          '<p class="rodape-lista">Preços sujeitos a alteração e à disponibilidade de estoque. Marcas indicadas quando a escola não pede uma marca específica; podemos trocar a seu pedido.</p>' +
+          '<div class="itens">' + html + '</div>' +
+          '<div class="totais"><div class="t1">Total da lista: <b>' + reais(total) + '</b></div>' +
+            (opcionais ? '<div class="t2">Com os itens opcionais: ' + reais(total + opcionais) + '</div>' : '') +
+            (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
+          pagamento(total) +
+          (L.observacoes && L.observacoes.length ? '<div class="obs-escola"><h3>Recados da escola</h3><ul>' +
+            L.observacoes.map(function (o) { return '<li>' + esc(o) + '</li>'; }).join('') + '</ul></div>' : '') +
+          '<p class="rodape-lista">Preços sujeitos a alteração e à disponibilidade de estoque. Indicamos marcas quando a escola não pede uma específica; trocamos a seu pedido.</p>' +
         '</div>';
+      $('b-imp').addEventListener('click', function () { window.print(); });
+      $('b-pdf').addEventListener('click', baixarPdf);
       $('lista').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // Condição de pagamento (Adriana, 04/11/2026): 10% de desconto em dinheiro, PIX ou débito;
+    // cartão de crédito em até 10x, parcela mínima de R$ 50,00
+    var DESCONTO_VISTA = 0.10, PARCELAS_MAX = 10, PARCELA_MINIMA = 50;
+    function pagamento(total) {
+      if (!total) return '';
+      var vista = Math.round(total * (1 - DESCONTO_VISTA) * 100) / 100;
+      var n = Math.max(1, Math.min(PARCELAS_MAX, Math.floor(total / PARCELA_MINIMA)));
+      return '<div class="pagto">' +
+        '<div class="vista"><h3>💵 Dinheiro, PIX ou débito</h3><div class="v">' + reais(vista) + '</div>' +
+          '<p>10% de desconto sobre ' + reais(total) + '</p></div>' +
+        '<div class="cartao-cred"><h3>💳 Cartão de crédito</h3><div class="v">' + (n > 1 ? n + 'x de ' + reais(total / n) : reais(total) + ' à vista') + '</div>' +
+          '<p>Até 10x sem juros, parcela mínima de R$ 50,00</p></div></div>';
+    }
+
+    function baixarPdf() {
+      var el = $('doc-lista'), b = $('b-pdf');
+      var nome = ('Lista ' + atual.escola.nome + ' ' + atual.lista.ano).replace(/[^\wÀ-ÿ\- ]+/g, '').replace(/\s+/g, ' ').trim() + '.pdf';
+      if (!window.html2pdf) { window.print(); return; }
+      b.disabled = true; b.textContent = 'Gerando PDF…';
+      el.classList.add('pdf-modo');
+      html2pdf().set({ margin: [10, 10, 12, 10], filename: nome, image: { type: 'jpeg', quality: 0.92 },
+                       html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff' },
+                       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }, pagebreak: { mode: ['css', 'legacy'], avoid: '.item' } })
+        .from(el).save()
+        .then(function () { el.classList.remove('pdf-modo'); b.disabled = false; b.textContent = '⬇ Baixar PDF'; },
+              function () { el.classList.remove('pdf-modo'); b.disabled = false; b.textContent = '⬇ Baixar PDF'; window.print(); });
     }
 
     fetch('listas_escolares.json?v=' + Date.now())

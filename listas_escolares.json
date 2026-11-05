@@ -12,37 +12,47 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
-       "preco": 14.9
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
       },
       {
        "descricao": "2 caixas de massinha à base de amido",
        "qtd": 2,
+       "cod": 1877,
        "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
        "marca": "ACRILEX",
        "preco": 7.9,
-       "obs": "a escola pede caixa com 15 unidades; a nossa caixa tem 12"
+       "obs": "a escola pede caixa com 15 unidades; a nossa caixa tem 12",
+       "foto": "listas/fotos/1877.jpg"
       },
       {
        "descricao": "1 pincel nº 12",
        "qtd": 1,
+       "cod": 10997,
        "produto": "PINCEL CHATO 12",
-       "preco": 4.9
+       "preco": 4.9,
+       "foto": "listas/fotos/10997.jpg"
       },
       {
        "descricao": "1 livrinho educativo (páginas reforçadas)",
        "qtd": 1,
+       "cod": 8852,
        "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
        "marca": "BICHO ESPE",
-       "preco": 1.5
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
       },
       {
        "descricao": "1 jogo de encaixar ou empilhar",
        "qtd": 1,
+       "cod": 6043,
        "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
        "marca": "GGB PLAST",
-       "preco": 11.9
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
       },
       {
        "descricao": "1 copo com tampa",
@@ -53,16 +63,20 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
-       "preco": 8.9
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
       },
       {
        "descricao": "Avental para pintura",
        "qtd": 1,
+       "cod": 10726,
        "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
        "marca": "DAC",
        "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg",
        "opcional": true
       },
       {
@@ -74,15 +88,19 @@
       {
        "descricao": "1 embalagem plástica para guardar a roupa de cama",
        "qtd": 1,
+       "cod": 14614,
        "produto": "SACO PLASTICO TRANSP. GRANDE (CEME)",
-       "preco": 2.0
+       "preco": 2.0,
+       "foto": "listas/fotos/14614.jpg"
       },
       {
        "descricao": "Cola colorida (6 cores)",
        "qtd": 1,
+       "cod": 3322,
        "produto": "COLA COLORIDA C/6 ACRILEX",
        "marca": "ACRILEX",
-       "preco": 15.9
+       "preco": 15.9,
+       "foto": "listas/fotos/3322.jpg"
       }
      ],
      "observacoes": [
@@ -94,5 +112,5 @@
    ]
   }
  ],
- "atualizado": "04/11/2026 21:37"
+ "atualizado": "04/11/2026 21:47"
 }
