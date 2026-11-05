@@ -197,7 +197,7 @@
     .cab-doc .d { text-align: right; font-size: 0.8rem; color: var(--cor-texto); line-height: 1.45; }
     .pdf-modo .cab-doc { display: block; }
     .pdf-modo .barra-acoes, .pdf-modo .rodape-tela { display: none !important; }
-    .pdf-modo { box-shadow: none !important; border: 0 !important; }
+    .pdf-modo { box-shadow: none !important; border: 0 !important; width: 980px; max-width: none; }
 
     /* Botão de WhatsApp fixo na tela (Adriana, 04/11/2026) */
     .zap-fixo { position: fixed; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 40;
@@ -566,12 +566,16 @@
       if (!window.html2pdf) { window.print(); return; }
       b.disabled = true; b.textContent = 'Gerando PDF…';
       el.classList.add('pdf-modo');
+      // O html2canvas desconta a rolagem da página: com a tela rolada até a lista, o PDF saía com metade
+      // da 1ª página em branco (Adriana, 04/11/2026). Volta ao topo durante a captura e depois retorna.
+      var rolagem = window.scrollY;
+      window.scrollTo(0, 0);
       html2pdf().set({ margin: [10, 10, 12, 10], filename: nome, image: { type: 'jpeg', quality: 0.92 },
-                       html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff' },
+                       html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff', scrollX: 0, scrollY: 0, windowWidth: 1100 },
                        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }, pagebreak: { mode: ['css', 'legacy'], avoid: '.item' } })
         .from(el).save()
-        .then(function () { el.classList.remove('pdf-modo'); b.disabled = false; b.textContent = '⬇ Baixar PDF'; },
-              function () { el.classList.remove('pdf-modo'); b.disabled = false; b.textContent = '⬇ Baixar PDF'; window.print(); });
+        .then(function () { el.classList.remove('pdf-modo'); window.scrollTo(0, rolagem); b.disabled = false; b.textContent = '⬇ Baixar PDF'; },
+              function () { el.classList.remove('pdf-modo'); window.scrollTo(0, rolagem); b.disabled = false; b.textContent = '⬇ Baixar PDF'; window.print(); });
     }
 
     fetch('listas_escolares.json?v=' + Date.now())
