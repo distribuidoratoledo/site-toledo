@@ -3370,6 +3370,13 @@
      "img": "produtos/7919.jpg"
     },
     {
+     "cod": 7907,
+     "nome": "BORRACHA MERCUR ZERO",
+     "marca": "MERCUR",
+     "preco": 5.9,
+     "img": "produtos/7907.jpg"
+    },
+    {
      "cod": 293,
      "nome": "BORRACHA PONTEIRA",
      "marca": "MERCUR",
@@ -7198,6 +7205,13 @@
      "img": "produtos/816.jpg"
     },
     {
+     "cod": 7903,
+     "nome": "COLA LIQUIDA 40GR-MERCUR",
+     "marca": "MERCUR",
+     "preco": 2.0,
+     "img": "produtos/7903.jpg"
+    },
+    {
      "cod": 3318,
      "nome": "COLA LIQUIDA 40GR-NEW MAGIC",
      "marca": "NEW MAGIC",
@@ -7238,6 +7252,13 @@
      "marca": "NEW MAGIC",
      "preco": 12.9,
      "img": "produtos/819.jpg"
+    },
+    {
+     "cod": 7904,
+     "nome": "COLA LIQUIDA 90GR-MERCUR",
+     "marca": "MERCUR",
+     "preco": 6.9,
+     "img": "produtos/7904.jpg"
     },
     {
      "cod": 822,
@@ -8081,6 +8102,27 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg"
+    },
+    {
+     "cod": 6716,
+     "nome": "CORRETIVO CANETA 8ML MERCUR",
+     "marca": "MERCUR",
+     "preco": 16.9,
+     "img": "produtos/6716.jpg",
+     "cores": [
+      {
+       "cod": 6716,
+       "cor": "Azul",
+       "nome": "CORRETIVO CANETA 8ML MERCUR (AZUL)",
+       "img": "produtos/6716.jpg"
+      },
+      {
+       "cod": 7906,
+       "cor": "Rosa",
+       "nome": "CORRETIVO CANETA 8ML MERCUR (ROSA)",
+       "img": "produtos/7906.jpg"
+      }
+     ]
     },
     {
      "cod": 978,
