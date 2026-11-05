@@ -15689,6 +15689,13 @@
      "img": "produtos/14063.jpg"
     },
     {
+     "cod": 1036,
+     "nome": "ENCADERNACAO",
+     "marca": "SERVICO",
+     "preco": 9.9,
+     "img": "produtos/1036.jpg"
+    },
+    {
      "cod": 1130,
      "nome": "ESPIRAL 07MM P/25F C/100",
      "marca": "",
