@@ -82,6 +82,9 @@
     .escolha label { font-size: 0.95rem; }
     .escolha select { padding: 0.95rem 0.9rem; font-size: 1.05rem; border: 2px solid var(--borda); background: #fbfcfe; }
     .escolha select:not(:disabled) { border-color: var(--azul); }
+    /* lista suspensa aberta com fundo azul (Adriana, 04/11/2026) */
+    .escolha select option { background: var(--azul); color: #fff; }
+    .escolha select option:checked { background: var(--vermelho); color: #fff; }
     .escolha #ver { padding: 0.95rem 1.8rem; font-size: 1.1rem; }
     .escolha .aviso { font-size: 0.95rem; }
     .escolha .linha-campos { display: grid; grid-template-columns: 1fr 1fr auto; gap: 1rem; align-items: end; }
