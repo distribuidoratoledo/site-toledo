@@ -58,11 +58,11 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
-       "cod": 279,
-       "produto": "BORRACHA MERCUR 60",
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
-       "preco": 0.9,
-       "foto": "listas/fotos/279.jpg"
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
       },
       {
        "descricao": "1 tesourinha sem ponta",
@@ -234,11 +234,11 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
-       "cod": 279,
-       "produto": "BORRACHA MERCUR 60",
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
-       "preco": 0.9,
-       "foto": "listas/fotos/279.jpg"
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
       },
       {
        "descricao": "1 tesourinha sem ponta",
@@ -434,11 +434,11 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
-       "cod": 279,
-       "produto": "BORRACHA MERCUR 60",
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
-       "preco": 0.9,
-       "foto": "listas/fotos/279.jpg"
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
       },
       {
        "descricao": "1 tesourinha sem ponta",
@@ -625,11 +625,11 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
-       "cod": 279,
-       "produto": "BORRACHA MERCUR 60",
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
-       "preco": 0.9,
-       "foto": "listas/fotos/279.jpg"
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
       },
       {
        "descricao": "1 tesourinha sem ponta",
@@ -801,11 +801,11 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
-       "cod": 279,
-       "produto": "BORRACHA MERCUR 60",
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
-       "preco": 0.9,
-       "foto": "listas/fotos/279.jpg"
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
       },
       {
        "descricao": "1 tesourinha sem ponta",
@@ -1281,11 +1281,11 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
-       "cod": 279,
-       "produto": "BORRACHA MERCUR 60",
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
-       "preco": 0.9,
-       "foto": "listas/fotos/279.jpg"
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
       },
       {
        "descricao": "1 apontador com depósito",
@@ -1414,5 +1414,5 @@
    ]
   }
  ],
- "atualizado": "04/11/2026 23:10"
+ "atualizado": "04/11/2026 23:11"
 }
