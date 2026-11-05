@@ -311,6 +311,23 @@
   </script>
   <style>
     .aviso-montagem { display: none; }
+    /* RUPTURA DENTRO DO SITE (05/11/2026: "quero que deixe o card ruptura aqui dentro do site ate finalizarmos o processo,
+       depois transferimos"). So' aparece no modo previa; os dados vem de listas/ruptura.json (copia do banco da aba Ruptura). */
+    .rup { display: none; }
+    .modo-previa .rup { display: block; margin-top: 1.6rem; }
+    .rup h2 { margin: 0 0 0.3rem; }
+    .rup .sub { color: var(--suave); margin: 0 0 0.9rem; font-size: 0.92rem; }
+    .rup .chips { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 0 0 0.8rem; }
+    .rup .chip { border: 1px solid var(--borda); background: #fff; border-radius: 20px; padding: 0.35rem 0.85rem; cursor: pointer;
+                 font: inherit; font-size: 0.88rem; color: var(--azul); }
+    .rup .chip.on { background: var(--azul); color: #fff; border-color: var(--azul); }
+    .rup .chip b { margin-left: 0.3rem; }
+    .rup .st { display: inline-block; border-radius: 20px; padding: 2px 10px; font-size: 0.8rem; font-weight: 700; white-space: nowrap; }
+    .rup .st.aguardando { background: #fdf3d7; color: #8a5a00; }
+    .rup .st.informado { background: #e6efff; color: #1a4fa0; }
+    .rup .st.trocado { background: #e6f4ea; color: #1f7a3d; }
+    .rup td small { display: block; color: var(--suave); font-size: 0.78rem; margin-top: 2px; }
+    .rup .btn.peq { padding: 0.4rem 0.8rem; font-size: 0.85rem; white-space: nowrap; }
     .faixa-previa { display: none; }
     .modo-previa .faixa-previa { display: flex; gap: 0.6rem 1.2rem; flex-wrap: wrap; justify-content: center; align-items: center;
                                  background: #fff4d6; color: #5c4200; font-weight: 700; font-size: 0.9rem; padding: 0.5rem 1rem; border-bottom: 2px solid #ffc83d; }
@@ -339,7 +356,7 @@
     <span>📍 Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</span>
   </div>
 
-  <div class="faixa-previa">Modo prévia: só a equipe Toledo vê esta página. <a href="https://claude.ai/artifact/8gHSNz9Q64cputowW3TQRz" target="_blank" rel="noopener">Abrir a aba Ruptura</a> <a href="https://claude.ai/artifact/HQnDBHA5LjhyGD1UDMMJ8G" target="_blank" rel="noopener">Painel Volta às Aulas</a></div>
+  <div class="faixa-previa">Modo prévia: só a equipe Toledo vê esta página. <a href="#ruptura">Ver a Ruptura</a> <a href="https://claude.ai/artifact/HQnDBHA5LjhyGD1UDMMJ8G" target="_blank" rel="noopener">Painel Volta às Aulas</a></div>
   <div class="aviso-montagem"><h1>Listas Escolares 2027</h1><p>Em breve! Estamos preparando as listas das escolas de Sete Lagoas.</p><p style="margin-top:1rem"><a class="btn zap" href="https://wa.me/5531985113106" target="_blank" rel="noopener">Fale com a gente no WhatsApp</a></p></div>
   <section class="hero">
     <div class="dentro">
@@ -379,6 +396,23 @@
     </div>
 
     <div id="lista"></div>
+
+    <div class="cartao rup" id="ruptura">
+      <h2>Ruptura</h2>
+      <p class="sub" id="rup-sub">Itens das listas marcados como alteração futura. Só a equipe Toledo vê este quadro.</p>
+      <div class="chips" id="rup-chips">
+        <button class="chip on" data-f="todos" type="button">Todos <b id="rq-todos">–</b></button>
+        <button class="chip" data-f="aguardando" type="button">Aguardando compra <b id="rq-aguardando">–</b></button>
+        <button class="chip" data-f="informado" type="button">Código novo informado <b id="rq-informado">–</b></button>
+        <button class="chip" data-f="trocado" type="button">Trocado na lista <b id="rq-trocado">–</b></button>
+      </div>
+      <div class="tab-itens">
+        <table>
+          <thead><tr><th class="c-n">Nº</th><th>Lista</th><th>Item da lista</th><th>Produto hoje no orçamento</th><th>Status</th><th>Código novo</th></tr></thead>
+          <tbody id="rup-corpo"><tr><td colspan="6">Carregando…</td></tr></tbody>
+        </table>
+      </div>
+    </div>
 
     <div class="passos" id="passos">
       <div class="passo"><div class="n">1</div><h3>Escolha a escola e o ano</h3><p>As listas oficiais de 2027, do jeitinho que a escola precisa.</p></div>
@@ -435,6 +469,44 @@
     </form>
   </div>
 
+
+  <script>
+  /* Ruptura no modo previa: le listas/ruptura.json. "Informar novo código" abre a aba Ruptura, onde o código fica gravado. */
+  (function () {
+    if (!document.documentElement.classList.contains('modo-previa')) return;
+    var ROT = { aguardando: 'Aguardando compra', informado: 'Código novo informado', trocado: 'Trocado na lista' };
+    var URL_RUP = 'https://claude.ai/artifact/8gHSNz9Q64cputowW3TQRz';
+    var ITENS = [], F = 'todos', $ = function (i) { return document.getElementById(i); };
+    function esc(t) { return String(t == null ? '' : t).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+    function pintar() {
+      ['aguardando', 'informado', 'trocado'].forEach(function (k) { $('rq-' + k).textContent = ITENS.filter(function (x) { return x.status === k; }).length; });
+      $('rq-todos').textContent = ITENS.length;
+      var L = ITENS.filter(function (x) { return F === 'todos' || x.status === F; });
+      if (!L.length) { $('rup-corpo').innerHTML = '<tr><td colspan="6">Nenhum item com este status.</td></tr>'; return; }
+      $('rup-corpo').innerHTML = L.map(function (x) {
+        var prod = x.codigo_atual ? '<b>' + esc(x.codigo_atual) + '</b> · ' + esc(x.produto_atual || '') : (esc(x.produto_atual) || 'Em breve (ainda sem código)');
+        var novo = x.status === 'trocado' ? '<b>' + esc(x.novo_codigo) + '</b><small>' + esc(x.trocado_em || '') + '</small>'
+          : (x.novo_codigo ? '<b>' + esc(x.novo_codigo) + '</b> ' : '') +
+            '<a class="btn peq" href="' + URL_RUP + '" target="_blank" rel="noopener">' + (x.novo_codigo ? 'Alterar' : 'Informar novo código') + '</a>';
+        return '<tr><td class="c-n">' + esc(x.n) + '</td><td>' + esc(x.ano) + '<small>' + esc(x.escola) + '</small></td>' +
+          '<td>' + esc(x.item) + (x.obs ? '<small>' + esc(x.obs) + '</small>' : '') + '</td><td>' + prod + '</td>' +
+          '<td><span class="st ' + esc(x.status) + '">' + esc(ROT[x.status] || x.status) + '</span></td><td>' + novo + '</td></tr>';
+      }).join('');
+    }
+    document.querySelectorAll('#rup-chips .chip').forEach(function (b) {
+      b.addEventListener('click', function () {
+        F = b.dataset.f;
+        document.querySelectorAll('#rup-chips .chip').forEach(function (c) { c.classList.toggle('on', c === b); });
+        pintar();
+      });
+    });
+    fetch('listas/ruptura.json?v=' + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
+      ITENS = (d.itens || []).sort(function (a, b) { return (a.n || 0) - (b.n || 0); });
+      $('rup-sub').textContent = 'Itens das listas marcados como alteração futura. Só a equipe Toledo vê este quadro. Atualizado em ' + (d.atualizado || '') + '.';
+      pintar();
+    }).catch(function () { $('rup-corpo').innerHTML = '<tr><td colspan="6">Não consegui carregar a Ruptura.</td></tr>'; });
+  })();
+  </script>
   <footer>
     <p><b>Toledo Distribuidora de Papéis</b> · Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</p>
     <p>WhatsApp (31) 9 8511-3106 · (31) 3771-6262 · (31) 3771-9696</p>
