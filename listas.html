@@ -174,6 +174,28 @@
     .item .preco b { display: block; font-size: 1.05rem; color: var(--azul); }
     .item .preco span { font-size: 0.8rem; color: var(--suave); }
     .item .preco .sem { color: #9aa3b1; font-style: italic; font-size: 0.9rem; }
+    /* Itens em tabela com colunas definidas, no mesmo modelo do Portal de Cotação (Adriana, 04/11/2026) */
+    .tab-itens { overflow-x: auto; border: 1px solid var(--borda); border-radius: 10px; margin-top: 0.6rem; }
+    .tab-itens table { width: 100%; border-collapse: collapse; min-width: 760px; font-size: 0.92rem; }
+    .tab-itens th { background: var(--azul); color: #fff; font-weight: 700; text-align: left; padding: 0.6rem 0.65rem;
+                    border-right: 1px solid #2c4470; border-bottom: 3px solid var(--vermelho); white-space: nowrap; }
+    .tab-itens td { padding: 0.55rem 0.65rem; border-bottom: 1px solid #e3e8ef; border-right: 1px solid #e3e8ef; vertical-align: middle; }
+    .tab-itens th:last-child, .tab-itens td:last-child { border-right: 0; }
+    .tab-itens tbody tr:nth-child(even) td { background: #fafbfd; }
+    .tab-itens .c-n { text-align: center; width: 36px; color: var(--suave); font-variant-numeric: tabular-nums; }
+    .tab-itens .c-foto { width: 74px; text-align: center; }
+    .tab-itens .c-foto .foto { width: 60px; height: 60px; margin: 0 auto; }
+    .tab-itens .c-cod { text-align: center; width: 92px; font-weight: 700; color: var(--azul); font-variant-numeric: tabular-nums; }
+    .tab-itens .c-marca { width: 120px; }
+    .tab-itens .c-qtd { text-align: center; width: 54px; font-weight: 700; }
+    .tab-itens .c-val { text-align: right; width: 104px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+    .tab-itens .c-val.tot { font-weight: 700; color: var(--azul); }
+    .tab-itens .c-val.sem { color: #9aa3b1; font-style: italic; }
+    .tab-itens .nome { font-weight: 700; color: var(--azul); }
+    .tab-itens .prod { font-size: 0.82rem; color: var(--suave); }
+    .tab-itens .obs { font-size: 0.8rem; color: var(--suave); font-style: italic; }
+    .pdf-modo .tab-itens { overflow: visible; }
+    .tab-itens tr { break-inside: avoid; }
     .totais { margin-top: 1rem; display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
     .totais .t1 { font-family: 'Montserrat', sans-serif; font-weight: 800; color: var(--azul); font-size: 1.25rem; }
     .totais .t1 b { color: var(--vermelho); }
@@ -513,14 +535,17 @@
         var tag = it.opcional ? '<span class="tag op">Opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">Em breve</span>'
                 : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : '';
         var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
-        html += '<div class="item"><div class="foto">' + foto + '</div>' +
-          '<div><div class="nome">' + esc(it.descricao) + tag + '</div>' +
-          (it.produto ? '<div class="prod">' + (it.cod ? '<span class="cod">Cód. ' + esc(it.cod) + '</span>' : '') + esc(titulo(it.produto)) +
-                        (it.marca ? ' · <b>' + esc(titulo(it.marca)) + '</b>' : '') + '</div>' : '') +
-          (it.obs ? '<div class="obs">' + esc(it.obs) + '</div>' : '') + '</div>' +
-          '<div class="qtd"><b>' + esc(it.qtd) + '</b>' + (q === 1 ? 'Unidade' : 'Unidades') + '</div>' +
-          '<div class="preco">' + (p == null ? '<span class="sem">' + (it.status === 'nao_temos' ? '—' : 'Em breve') + '</span>'
-                                             : '<b>' + reais(q * p) + '</b>' + (q > 1 ? '<span>' + reais(p) + ' cada</span>' : '')) + '</div></div>';
+        var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
+        html += '<tr><td class="c-n">' + n + '</td>' +
+          '<td class="c-foto"><div class="foto">' + foto + '</div></td>' +
+          '<td class="c-cod">' + (it.cod ? esc(it.cod) : '—') + '</td>' +
+          '<td class="c-item"><div class="nome">' + esc(it.descricao) + tag + '</div>' +
+            (it.produto ? '<div class="prod">' + esc(titulo(it.produto)) + '</div>' : '') +
+            (it.obs ? '<div class="obs">' + esc(it.obs) + '</div>' : '') + '</td>' +
+          '<td class="c-marca">' + (it.marca ? esc(titulo(it.marca)) : '—') + '</td>' +
+          '<td class="c-qtd">' + esc(it.qtd) + '</td>' +
+          (p == null ? '<td class="c-val sem">' + semP + '</td><td class="c-val sem">—</td>'
+                     : '<td class="c-val">' + reais(p) + '</td><td class="c-val tot">' + reais(q * p) + '</td>') + '</tr>';
       });
       var c = ler(CHAVE_CAD) || {};
       var msg = 'Olá! Sou ' + (c.nome || '') + ' e quero a lista escolar 2027 da escola ' + a.escola.nome + ', ' + L.ano +
@@ -544,7 +569,9 @@
             '<button class="btn azul" id="b-pdf" type="button">⬇ Baixar PDF</button>' +
             '<button class="btn claro" id="b-imp" type="button">🖨 Imprimir</button>' +
           '</div>' +
-          '<div class="itens">' + html + '</div>' +
+          '<div class="tab-itens"><table><thead><tr><th class="c-n">#</th><th class="c-foto">Foto</th><th class="c-cod">Cód. Sankhya</th>' +
+            '<th>Item da lista / produto</th><th class="c-marca">Marca</th><th class="c-qtd">Qtd</th><th class="c-val">Valor unit.</th><th class="c-val">Total</th></tr></thead>' +
+            '<tbody>' + html + '</tbody></table></div>' +
           '<div class="totais"><div class="t1">Total da lista: <b>' + reais(total) + '</b></div>' +
             (opcionais ? '<div class="t2">Com os itens opcionais: ' + reais(total + opcionais) + '</div>' : '') +
             (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
@@ -586,7 +613,7 @@
       window.scrollTo(0, 0);
       html2pdf().set({ margin: [10, 10, 12, 10], filename: nome, image: { type: 'jpeg', quality: 0.92 },
                        html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff', scrollX: 0, scrollY: 0, windowWidth: 1100 },
-                       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }, pagebreak: { mode: ['css', 'legacy'], avoid: '.item' } })
+                       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }, pagebreak: { mode: ['css', 'legacy'], avoid: 'tr' } })
         .from(el).save()
         .then(function () { el.classList.remove('pdf-modo'); window.scrollTo(0, rolagem); b.disabled = false; b.textContent = '⬇ Baixar PDF'; },
               function () { el.classList.remove('pdf-modo'); window.scrollTo(0, rolagem); b.disabled = false; b.textContent = '⬇ Baixar PDF'; window.print(); });
