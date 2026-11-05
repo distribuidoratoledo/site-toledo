@@ -20027,13 +20027,6 @@
      "img": "produtos/2566.jpg"
     },
     {
-     "cod": 13699,
-     "nome": "PRATO PAPELAO MEDIO 3 (LISTA ESCOLAR)",
-     "marca": "PITPRATOS",
-     "preco": 1.0,
-     "img": "produtos/13699.jpg"
-    },
-    {
      "cod": 13700,
      "nome": "PRATO PAPELAO MEDIO 4 (LISTA ESCOLAR)",
      "marca": "PITPRATOS",
@@ -21905,7 +21898,7 @@
     {
      "cod": 243,
      "nome": "BOBINA ESTIVA 40CM",
-     "marca": "CEPELMA",
+     "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg"
     },
@@ -24509,13 +24502,6 @@
      "marca": "MERCUR",
      "preco": 64.9,
      "img": "produtos/1498.jpg"
-    },
-    {
-     "cod": 14029,
-     "nome": "GOMINHA MERCUR C/500 UN",
-     "marca": "MERCUR",
-     "preco": 34.9,
-     "img": "produtos/14029.jpg"
     },
     {
      "cod": 14182,
