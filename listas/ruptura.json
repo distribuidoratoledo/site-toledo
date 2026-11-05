@@ -294,6 +294,20 @@
    "trocado_em": "04/11/2026 · compasso 4725, transferidor 3087, esquadro 1136, calculadora 14284",
    "orcamento": 658362,
    "id": "ceme-ano5-geometria"
+  },
+  {
+   "n": 22,
+   "escola": "Instituto Educacional Peter Pan",
+   "ano": "6º ao 9º Ano",
+   "item": "Compasso",
+   "codigo_atual": 4725,
+   "produto_atual": "COMPASSO LEO E LEO METALICO",
+   "status": "aguardando",
+   "novo_codigo": null,
+   "obs": "vai vir mais barato",
+   "trocado_em": null,
+   "orcamento": 658825,
+   "id": "peterpan-ano6a9-4725"
   }
  ]
 }
