@@ -688,6 +688,13 @@
      "img": "produtos/574.jpg"
     },
     {
+     "cod": 14597,
+     "nome": "CANETA GEL/CONVITE TRIS HOLIC ALLBLACK-CORES",
+     "marca": "",
+     "preco": 14.9,
+     "img": "produtos/14597.jpg"
+    },
+    {
      "cod": 14545,
      "nome": "CANETA GEL/CONVITE TRIS HOLIC PIXIE BUTTERFLY-CORES",
      "marca": "TRIS",
@@ -700,6 +707,13 @@
      "marca": "TRIS",
      "preco": 18.9,
      "img": "produtos/14558.jpg"
+    },
+    {
+     "cod": 14598,
+     "nome": "CANETA GEL/CONVITE TRIS ZIGZAG-CORES",
+     "marca": "",
+     "preco": 12.9,
+     "img": "produtos/14598.jpg"
     },
     {
      "cod": 14550,
@@ -1554,11 +1568,32 @@
      "img": "produtos/12626.jpg"
     },
     {
+     "cod": 14582,
+     "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR (TONS DE PELE)",
+     "marca": "TRIS",
+     "preco": 13.9,
+     "img": "produtos/14582.jpg"
+    },
+    {
      "cod": 12683,
      "nome": "LAPIS 12CORES-TRIS MEGA SOFT COLOR (TONS PASTEIS)",
      "marca": "TRIS",
      "preco": 19.9,
      "img": "produtos/12683.jpg"
+    },
+    {
+     "cod": 14583,
+     "nome": "LAPIS 12CORES-TRIS VIBES NOTURNA",
+     "marca": "TRIS",
+     "preco": 26.9,
+     "img": "produtos/14583.jpg"
+    },
+    {
+     "cod": 14585,
+     "nome": "LAPIS 12CORES-TRIS+1 APONTADOR (JUMBO)",
+     "marca": "TRIS",
+     "preco": 25.9,
+     "img": "produtos/14585.jpg"
     },
     {
      "cod": 1657,
@@ -1580,6 +1615,13 @@
      "marca": "TRIS",
      "preco": 24.9,
      "img": "produtos/12627.jpg"
+    },
+    {
+     "cod": 14584,
+     "nome": "LAPIS 24CORES-TRIS VIBES NOTURNA",
+     "marca": "TRIS",
+     "preco": 52.9,
+     "img": "produtos/14584.jpg"
     },
     {
      "cod": 1661,
@@ -1627,7 +1669,7 @@
      "cod": 12671,
      "nome": "LAPIS 72CORES-TRIS VIBES NOTURNA",
      "marca": "TRIS",
-     "preco": 189.9,
+     "preco": 207.9,
      "img": "produtos/12671.jpg"
     },
     {
@@ -2372,14 +2414,28 @@
      "cod": 12688,
      "nome": "JOGO PINCEL TRIS C/12",
      "marca": "TRIS",
-     "preco": 39.9,
+     "preco": 41.9,
      "img": "produtos/12688.jpg"
+    },
+    {
+     "cod": 14602,
+     "nome": "JOGO PINCEL TRIS C/12-PATRULHA CANINA",
+     "marca": "TRIS",
+     "preco": 35.9,
+     "img": "produtos/14602.jpg"
+    },
+    {
+     "cod": 14570,
+     "nome": "JOGO PINCEL TRIS C/12-TOY STORY",
+     "marca": "TRIS",
+     "preco": 35.9,
+     "img": "produtos/14570.jpg"
     },
     {
      "cod": 12687,
      "nome": "JOGO PINCEL TRIS C/8-MEGA FRUITS",
      "marca": "TRIS",
-     "preco": 36.9,
+     "preco": 39.9,
      "img": "produtos/12687.jpg"
     },
     {
@@ -7170,6 +7226,20 @@
      "img": "produtos/3318.jpg"
     },
     {
+     "cod": 14601,
+     "nome": "COLA LIQUIDA 40GR-TRIS PATRULHA CANINA",
+     "marca": "TRIS",
+     "preco": 2.9,
+     "img": "produtos/14601.jpg"
+    },
+    {
+     "cod": 14600,
+     "nome": "COLA LIQUIDA 40GR-TRIS TOY STORY",
+     "marca": "TRIS",
+     "preco": 2.9,
+     "img": "produtos/14600.jpg"
+    },
+    {
      "cod": 12625,
      "nome": "COLA LIQUIDA 500GR-ACRILEX",
      "marca": "ACRILEX",
@@ -7825,6 +7895,13 @@
      "img": "produtos/3489.jpg"
     },
     {
+     "cod": 14603,
+     "nome": "REGUA 12CM REFORÇ. TRANSP.-TRIS LINEA CORES",
+     "marca": "TRIS",
+     "preco": 9.9,
+     "img": "produtos/14603.jpg"
+    },
+    {
      "cod": 13121,
      "nome": "REGUA 15CM REFORÇ ROSA CAPYCLUB-TILIBRA",
      "marca": "TILIBRA",
@@ -7837,6 +7914,13 @@
      "marca": "MAXCRIL",
      "preco": 2.9,
      "img": "produtos/7498.jpg"
+    },
+    {
+     "cod": 14593,
+     "nome": "REGUA 15CM REFORÇ. TRANSP.-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 1.9,
+     "img": "produtos/14593.jpg"
     },
     {
      "cod": 2637,
@@ -7858,6 +7942,13 @@
      "marca": "MAXCRIL",
      "preco": 8.9,
      "img": "produtos/7499.jpg"
+    },
+    {
+     "cod": 14592,
+     "nome": "REGUA 30CM FLEXIVEL TRIS-FLOPPY DEGRADE",
+     "marca": "TRIS",
+     "preco": 13.9,
+     "img": "produtos/14592.jpg"
     },
     {
      "cod": 6385,
@@ -7893,6 +7984,13 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/6972.jpg"
+    },
+    {
+     "cod": 14594,
+     "nome": "REGUA 30CM REFORÇ. TRANSP.-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 3.9,
+     "img": "produtos/14594.jpg"
     },
     {
      "cod": 6770,
@@ -11711,6 +11809,13 @@
      "img": "produtos/9144.jpg"
     },
     {
+     "cod": 14595,
+     "nome": "PORTA OBJETO 4 LUGARES TRIS-PLAYSTATION",
+     "marca": "TRIS",
+     "preco": 49.9,
+     "img": "produtos/14595.jpg"
+    },
+    {
      "cod": 2532,
      "nome": "PRANCHETA ACRILICA 1/2 OF (PREND. METAL) CRISTAL",
      "marca": "MAXCRIL",
@@ -13377,6 +13482,34 @@
      "img": "produtos/2963.jpg"
     },
     {
+     "cod": 14611,
+     "nome": "TESOURA S/P TRIS CANHOTO-CORES",
+     "marca": "TRIS",
+     "preco": 7.9,
+     "img": "produtos/14611.jpg"
+    },
+    {
+     "cod": 14596,
+     "nome": "TESOURA S/P TRIS PASTEL-CORES",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/14596.jpg"
+    },
+    {
+     "cod": 14587,
+     "nome": "TESOURA S/P TRIS-CORES",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/14587.jpg"
+    },
+    {
+     "cod": 14588,
+     "nome": "TESOURA S/P TRIS-PRETA",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/14588.jpg"
+    },
+    {
      "cod": 12747,
      "nome": "TESOURA S/P-ACRILEX BICOLOR (GRADE)",
      "marca": "ACRILEX",
@@ -13809,6 +13942,13 @@
      "img": "produtos/8960.jpg"
     },
     {
+     "cod": 13277,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD CINZA (MS50234LD-CZ)",
+     "marca": "LUXCEL",
+     "preco": 154.9,
+     "img": "produtos/13277.jpg"
+    },
+    {
      "cod": 13275,
      "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD PRETO (MS50234LD-PT)",
      "marca": "LUXCEL",
@@ -13816,11 +13956,32 @@
      "img": "produtos/13275.jpg"
     },
     {
+     "cod": 13339,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD PRETO (MS50237LD-PT)",
+     "marca": "LUXCEL",
+     "preco": 209.9,
+     "img": "produtos/13339.jpg"
+    },
+    {
      "cod": 13668,
      "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD VERDE (MS50232LD-VD)",
      "marca": "LUXCEL",
      "preco": 139.9,
      "img": "produtos/13668.jpg"
+    },
+    {
+     "cod": 13670,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD VERDE (MS50233LD-VD)",
+     "marca": "LUXCEL",
+     "preco": 139.9,
+     "img": "produtos/13670.jpg"
+    },
+    {
+     "cod": 13338,
+     "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD VERDE (MS50237LD-VD)",
+     "marca": "LUXCEL",
+     "preco": 209.9,
+     "img": "produtos/13338.jpg"
     },
     {
      "cod": 13269,
@@ -13870,6 +14031,13 @@
      "marca": "LXY",
      "preco": 129.9,
      "img": "produtos/11272.jpg"
+    },
+    {
+     "cod": 10952,
+     "nome": "MOCHILA COSTAS PAULISTA 8100 CORES",
+     "marca": "PHOENIX",
+     "preco": 169.9,
+     "img": "produtos/10952.jpg"
     },
     {
      "cod": 10956,
@@ -14156,6 +14324,13 @@
      "marca": "XERYUS",
      "preco": 324.9,
      "img": "produtos/13228.jpg"
+    },
+    {
+     "cod": 11559,
+     "nome": "MOCHILA COSTAS LUXCEL-MONICA IS41331MN",
+     "marca": "LUXCEL",
+     "preco": 129.9,
+     "img": "produtos/11559.jpg"
     },
     {
      "cod": 12260,
@@ -16017,6 +16192,13 @@
      "img": "produtos/9396.jpg"
     },
     {
+     "cod": 14599,
+     "nome": "POST-IT 76X76 C/30 HOLIC DAILY-TRIS CORES",
+     "marca": "TRIS",
+     "preco": 5.9,
+     "img": "produtos/14599.jpg"
+    },
+    {
      "cod": 14547,
      "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS CORES",
      "marca": "TRIS",
@@ -16350,6 +16532,20 @@
      "img": "produtos/13270.jpg"
     },
     {
+     "cod": 14569,
+     "nome": "GIZ DE CHÃO TRIS-TOY C/5 CORES",
+     "marca": "TRIS",
+     "preco": 22.9,
+     "img": "produtos/14569.jpg"
+    },
+    {
+     "cod": 14576,
+     "nome": "GIZ DE FACIAL TRIS-TOY C/6 CORES",
+     "marca": "TRIS",
+     "preco": 18.9,
+     "img": "produtos/14576.jpg"
+    },
+    {
      "cod": 1465,
      "nome": "GIZ DELTA C/64",
      "marca": "DELTA",
@@ -16453,6 +16649,20 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/12631.jpg"
+    },
+    {
+     "cod": 14577,
+     "nome": "KIT MASSA MODELAR E.V.A TRIS TOY C/12 (RAINBOW)",
+     "marca": "TRIS",
+     "preco": 26.9,
+     "img": "produtos/14577.jpg"
+    },
+    {
+     "cod": 14578,
+     "nome": "KIT MASSA MODELAR TRIS TOY C/24 (123 CONTANDO)",
+     "marca": "TRIS",
+     "preco": 32.9,
+     "img": "produtos/14578.jpg"
     },
     {
      "cod": 1877,
@@ -17657,6 +17867,13 @@
      "img": "produtos/9496.jpg"
     },
     {
+     "cod": 14574,
+     "nome": "CARIMBO ESCOLAR TRIS C/4-TOY STORY",
+     "marca": "TRIS",
+     "preco": 14.9,
+     "img": "produtos/14574.jpg"
+    },
+    {
      "cod": 9492,
      "nome": "CARIMBO ESCOLAR TRIS-BARBIE CORES",
      "marca": "TRIS",
@@ -17664,11 +17881,32 @@
      "img": "produtos/9492.jpg"
     },
     {
-     "cod": 9498,
-     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS",
+     "cod": 14572,
+     "nome": "CARIMBO ESCOLAR TRIS-LEARN CORES",
      "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9498.jpg"
+     "preco": 2.9,
+     "img": "produtos/14572.jpg"
+    },
+    {
+     "cod": 14573,
+     "nome": "CARIMBO ESCOLAR TRIS-PATRULHA CANINA CORES",
+     "marca": "TRIS",
+     "preco": 3.9,
+     "img": "produtos/14573.jpg"
+    },
+    {
+     "cod": 14571,
+     "nome": "CARIMBO ESCOLAR TRIS-PEDAGOGICO CORES",
+     "marca": "TRIS",
+     "preco": 2.9,
+     "img": "produtos/14571.jpg"
+    },
+    {
+     "cod": 14612,
+     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS CORES",
+     "marca": "TRIS",
+     "preco": 3.9,
+     "img": "produtos/14612.jpg"
     }
    ]
   },
@@ -25986,6 +26224,13 @@
      "img": "produtos/12718.jpg"
     },
     {
+     "cod": 14586,
+     "nome": "APONTADOR TRIS C/D 3F-SHAKE CORES",
+     "marca": "TRIS",
+     "preco": 11.9,
+     "img": "produtos/14586.jpg"
+    },
+    {
      "cod": 14553,
      "nome": "APONTADOR TRIS C/D+BORR 1F-ABACAXI CORES",
      "marca": "TRIS",
@@ -26453,6 +26698,13 @@
      "img": "produtos/14565.jpg"
     },
     {
+     "cod": 14562,
+     "nome": "MARCA TEXTO TRIS-HOLIC OVERLAY CORES",
+     "marca": "TRIS",
+     "preco": 8.9,
+     "img": "produtos/14562.jpg"
+    },
+    {
      "cod": 7574,
      "nome": "MARCADOR FINE PLUS C/10-JOCAR (TIPO STABILO)",
      "marca": "JOCAR",
@@ -26898,6 +27150,13 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg"
+    },
+    {
+     "cod": 14579,
+     "nome": "KIT ROLO INFANTIL COLORIR TRIS TOY (9 PÇ)",
+     "marca": "TRIS",
+     "preco": 29.9,
+     "img": "produtos/14579.jpg"
     },
     {
      "cod": 13554,
