@@ -40,23 +40,31 @@
     .faixa-contato a { text-decoration: none; color: #fff; font-weight: 600; }
 
     /* Topo */
-    .hero { position: relative; overflow: hidden; color: #fff; padding: 3rem 1rem 6.5rem;
-            background: radial-gradient(circle at 85% 10%, rgba(224,30,60,0.55), transparent 40%),
-                        radial-gradient(circle at 5% 90%, rgba(255,200,61,0.25), transparent 35%),
-                        linear-gradient(135deg, var(--azul) 0%, var(--azul-2) 100%); }
-    .hero::after { content: "✏️ 📐 🎨 📒 ✂️ 🖍️"; position: absolute; right: -1rem; bottom: 0.6rem; font-size: 2.6rem; opacity: 0.18; letter-spacing: 0.6rem; white-space: nowrap; }
-    .hero .dentro { max-width: 1000px; margin: 0 auto; position: relative; z-index: 1; }
-    .selo { display: inline-block; background: var(--amarelo); color: var(--azul); font-weight: 800; font-size: 0.78rem; letter-spacing: 0.08em;
-            padding: 0.25rem 0.7rem; border-radius: 30px; font-family: 'Montserrat', sans-serif; }
-    .hero h1 { color: #fff; font-size: clamp(2rem, 5vw, 3.1rem); font-weight: 800; margin: 0.7rem 0 0.5rem; letter-spacing: 0.01em; }
+    .hero { position: relative; overflow: hidden; color: #fff; padding: 2.8rem 1rem 5.5rem; background: var(--azul);
+            border-bottom: 6px solid var(--vermelho); }
+    .hero .dentro { max-width: 1000px; margin: 0 auto; display: grid; grid-template-columns: 1.15fr 1fr; gap: 2rem; align-items: center; }
+    .selo { display: inline-block; background: var(--vermelho); color: #fff; font-weight: 800; font-size: 0.8rem; letter-spacing: 0.1em;
+            padding: 0.3rem 0.8rem; border-radius: 6px; font-family: 'Montserrat', sans-serif; }
+    .hero h1 { color: #fff; font-size: clamp(2rem, 4.6vw, 3rem); font-weight: 800; margin: 0.8rem 0 0.6rem; }
     .hero h1 span { color: var(--amarelo); }
-    .hero p.sub { color: #d5deeb; font-size: 1.08rem; max-width: 600px; }
-    .chips { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem; }
-    .chip { background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.22); border-radius: 30px; padding: 0.4rem 0.9rem; font-size: 0.9rem; }
-    .chip b { color: var(--amarelo); }
+    .hero p.sub { color: #d5deeb; font-size: 1.08rem; max-width: 520px; }
+    .hero .cta { margin-top: 1.4rem; display: flex; gap: 0.7rem; flex-wrap: wrap; }
+    .colagem { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem; }
+    .colagem div { background: #fff; border-radius: 14px; aspect-ratio: 1; max-width: 100%; display: grid; place-items: center; padding: 0.6rem;
+                   box-shadow: 0 8px 24px rgba(0,0,0,0.25); }
+    .colagem div:nth-child(odd) { transform: rotate(-3deg); }
+    .colagem div:nth-child(even) { transform: rotate(3deg) translateY(8px); }
+    .colagem img { width: 100%; height: 100%; object-fit: contain; }
+    .vantagens-topo { max-width: 1000px; margin: -3.6rem auto 0; padding: 0 1rem; position: relative; z-index: 3;
+                      display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.8rem; }
+    .vant { background: #fff; border-radius: 12px; padding: 0.9rem 1rem; box-shadow: 0 6px 20px rgba(26,47,82,0.12); display: flex; gap: 0.7rem; align-items: flex-start; }
+    .vant .ic { width: 40px; height: 40px; border-radius: 10px; display: grid; place-items: center; font-size: 1.25rem; flex: none; }
+    .vant b { display: block; color: var(--azul); font-family: 'Montserrat', sans-serif; font-size: 0.95rem; line-height: 1.25; }
+    .vant span.t { font-size: 0.82rem; color: var(--suave); line-height: 1.35; display: block; margin-top: 0.15rem; }
 
-    main { max-width: 1000px; margin: -4.5rem auto 0; padding: 0 1rem 3rem; position: relative; z-index: 2; }
+    main { max-width: 1000px; margin: 1.6rem auto 0; padding: 0 1rem 3rem; position: relative; z-index: 2; }
     .cartao { background: #fff; border: 1px solid #edf0f5; border-radius: 14px; padding: 1.6rem; box-shadow: 0 8px 30px rgba(26,47,82,0.10); }
+    .escolha { scroll-margin-top: 90px; }
     .escolha h2 { font-size: 1.25rem; margin-bottom: 1rem; }
     .escolha .linha-campos { display: grid; grid-template-columns: 1fr 1fr auto; gap: 1rem; align-items: end; }
     label { display: block; font-weight: 700; color: var(--azul); font-size: 0.88rem; margin-bottom: 0.3rem; }
@@ -207,10 +215,15 @@
       .barra-acoes .btn { flex: 1 1 auto; padding: 0.7rem 0.8rem; font-size: 0.92rem; }
       .resumo { text-align: left; }
       .pagto { grid-template-columns: 1fr; }
-      .hero::after { display: none; }
+      .hero .dentro { grid-template-columns: 1fr; }
+      .colagem { grid-template-columns: repeat(6, 1fr); gap: 0.4rem; }
+      .colagem div, .colagem div:nth-child(odd), .colagem div:nth-child(even) { padding: 0.25rem; border-radius: 8px; transform: none; }
+      .vantagens-topo { grid-template-columns: 1fr 1fr; margin-top: -3rem; }
+      .vant { padding: 0.7rem; }
+      .vant .ic { width: 32px; height: 32px; font-size: 1rem; }
     }
     @media print {
-      header, .faixa-contato, .hero, .escolha, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela, .zap-fixo { display: none !important; }
+      header, .faixa-contato, .hero, .vantagens-topo, .escolha, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela, .zap-fixo { display: none !important; }
       body { background: #fff; }
       main { margin: 0; padding: 0; max-width: none; }
       #lista { margin: 0; }
@@ -241,18 +254,25 @@
 
   <section class="hero">
     <div class="dentro">
-      <span class="selo">VOLTA ÀS AULAS 2027</span>
-      <h1>Lista escolar <span>pronta</span>, sem sair de casa</h1>
-      <p class="sub">Já orçamos as listas das escolas de Sete Lagoas. Escolha a escola e o ano do seu filho e veja cada item com foto, marca e preço.</p>
-      <div class="chips">
-        <span class="chip">🚚 Entrega <b>grátis</b> acima de R$ 50 em Sete Lagoas</span>
-        <span class="chip">💵 <b>10% de desconto</b> no dinheiro, PIX ou débito</span>
-        <span class="chip">💳 Até <b>10x sem juros</b> no cartão · parcela mínima de R$ 50,00</span>
-        <span class="chip">🏪 Ou retire na loja</span>
-        <span class="chip">📦 Montamos a lista completa</span>
+      <div>
+        <span class="selo">VOLTA ÀS AULAS 2027</span>
+        <h1>A lista do seu filho <span>pronta</span>, sem sair de casa</h1>
+        <p class="sub">Já orçamos as listas das escolas de Sete Lagoas. Escolha a escola e o ano e veja cada item com foto, marca e preço.</p>
+        <div class="cta">
+          <a class="btn" href="#escolha">Encontrar minha lista</a>
+          <a class="btn zap" href="https://wa.me/5531985113106?text=Ol%C3%A1!%20Quero%20o%20or%C3%A7amento%20da%20lista%20escolar%202027." target="_blank" rel="noopener">Enviar minha lista</a>
+        </div>
       </div>
+      <div class="colagem" aria-hidden="true" id="colagem"></div>
     </div>
   </section>
+
+  <div class="vantagens-topo">
+    <div class="vant"><span class="ic" style="background:#e3f6ea">🚚</span><div><b>Entrega grátis</b><span class="t">acima de R$ 50 em Sete Lagoas, ou retire na loja</span></div></div>
+    <div class="vant"><span class="ic" style="background:#fff4d6">💵</span><div><b>10% de desconto</b><span class="t">no dinheiro, PIX ou débito</span></div></div>
+    <div class="vant"><span class="ic" style="background:#e6efff">💳</span><div><b>Até 10x sem juros</b><span class="t">no cartão, parcela mínima de R$ 50,00</span></div></div>
+    <div class="vant"><span class="ic" style="background:#fdecef">🎒</span><div><b>Lista completa</b><span class="t">a gente separa tudo num lugar só</span></div></div>
+  </div>
 
   <main>
     <div class="cartao escolha" id="escolha">
@@ -537,7 +557,14 @@
     fetch('listas_escolares.json?v=' + Date.now())
       .then(function (r) { return r.ok ? r.json() : { escolas: [] }; })
       .catch(function () { return { escolas: [] }; })
-      .then(function (d) { dados = d && d.escolas ? d : { escolas: [] }; montarEscolas(); esvaziarFila(); });
+      .then(function (d) {
+        dados = d && d.escolas ? d : { escolas: [] }; montarEscolas(); esvaziarFila();
+        // colagem do topo com fotos reais dos produtos das listas
+        var fs = [];
+        dados.escolas.forEach(function (e) { e.listas.forEach(function (l) { (l.itens || []).forEach(function (it) { if (it.foto && fs.indexOf(it.foto) < 0) fs.push(it.foto); }); }); });
+        $('colagem').innerHTML = fs.slice(0, 6).map(function (f) { return '<div><img src="' + esc(f) + '" alt=""></div>'; }).join('');
+        if (!fs.length) $('colagem').hidden = true;
+      });
   })();
   </script>
 </body>
