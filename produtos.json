@@ -9355,7 +9355,7 @@
      "cod": 2014,
      "nome": "PAPEL A4 C/500 PAPEX",
      "marca": "PAPEX",
-     "preco": 32.9,
+     "preco": 26.9,
      "img": "produtos/2014.jpg"
     },
     {
@@ -9899,6 +9899,13 @@
      "marca": "MARIPEL",
      "preco": 11.9,
      "img": "produtos/11627.jpg"
+    },
+    {
+     "cod": 3018,
+     "nome": "GUACHE 15ML C/6-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/3018.jpg"
     },
     {
      "cod": 11626,
@@ -24489,6 +24496,13 @@
      "marca": "MERCUR",
      "preco": 64.9,
      "img": "produtos/1498.jpg"
+    },
+    {
+     "cod": 1499,
+     "nome": "GOMINHA MERCUR C/500 UN",
+     "marca": "MERCUR",
+     "preco": 34.9,
+     "img": "produtos/1499.jpg"
     },
     {
      "cod": 14182,
