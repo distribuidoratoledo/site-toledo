@@ -86,11 +86,11 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
-       "cod": 7547,
-       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
-       "preco": 0.5,
-       "foto": "listas/fotos/7547.jpg"
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
       },
       {
        "descricao": "1 caixa de tinta guache 12 cores",
@@ -263,11 +263,11 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
-       "cod": 7547,
-       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
-       "preco": 0.5,
-       "foto": "listas/fotos/7547.jpg"
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
       },
       {
        "descricao": "1 caixa de tinta guache 12 cores",
@@ -464,11 +464,11 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
-       "cod": 7547,
-       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
-       "preco": 0.5,
-       "foto": "listas/fotos/7547.jpg"
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
       },
       {
        "descricao": "1 caixa de tinta guache 12 cores",
@@ -656,11 +656,11 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
-       "cod": 7547,
-       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
-       "preco": 0.5,
-       "foto": "listas/fotos/7547.jpg"
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
       },
       {
        "descricao": "1 caixa de tinta guache 12 cores",
@@ -833,11 +833,11 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
-       "cod": 7547,
-       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
-       "preco": 0.5,
-       "foto": "listas/fotos/7547.jpg"
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
       },
       {
        "descricao": "1 caixa de tinta guache 12 cores",
@@ -1325,11 +1325,11 @@
       {
        "descricao": "1 apontador com depósito",
        "qtd": 1,
-       "cod": 7547,
-       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
-       "preco": 0.5,
-       "foto": "listas/fotos/7547.jpg"
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
       },
       {
        "descricao": "1 caixa de lápis de cor comum 24 cores (2º semestre)",
@@ -1449,5 +1449,5 @@
    ]
   }
  ],
- "atualizado": "04/11/2026 23:14"
+ "atualizado": "05/11/2026 16:35"
 }
