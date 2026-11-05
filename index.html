@@ -609,7 +609,11 @@
     .lista-marca label { display: flex; align-items: center; gap: 0.55rem; padding: 0.32rem 0.2rem; font-size: 0.92rem; cursor: pointer;
                          color: var(--cor-texto); border-radius: 5px; }
     .lista-marca label:hover { background: #e8edf3; }
-    .lista-marca input { width: 17px; height: 17px; margin: 0; accent-color: var(--vermelho); flex: none; }
+    /* .sidebar input (caixa de busca: largura 100%, padding) pegava também a caixinha e empurrava o nome da marca
+       para fora — por isso o seletor mais forte aqui */
+    .sidebar .lista-marca input[type=checkbox] { width: 17px; height: 17px; padding: 0; margin: 0; border: 0; accent-color: var(--vermelho); flex: none; }
+    .lista-marca label { min-width: 0; }
+    .lista-marca { overflow-x: hidden; }
     .lista-marca small { margin-left: auto; color: #8a95a6; font-size: 0.78rem; }
     .marca-limpar { margin-top: 0.6rem; background: none; border: 1px solid #d5dbe4; border-radius: 6px; padding: 0.35rem 0.7rem;
                     font: inherit; font-size: 0.85rem; color: var(--azul); cursor: pointer; }
