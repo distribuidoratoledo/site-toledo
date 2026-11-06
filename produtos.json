@@ -19029,6 +19029,13 @@
      "img": "produtos/2461.jpg"
     },
     {
+     "cod": 2530,
+     "nome": "PRANCHA ISOPOR T-02 C/200",
+     "marca": "",
+     "preco": 49.9,
+     "img": "produtos/2530.jpg"
+    },
+    {
      "cod": 2531,
      "nome": "PRANCHA ISOPOR T-03 C/200",
      "marca": "",
@@ -20078,7 +20085,7 @@
      "cod": 2558,
      "nome": "PRATO PAPELAO 10 C/100 (35CM)",
      "marca": "PITPRATOS",
-     "preco": 95.9,
+     "preco": 85.9,
      "img": "produtos/2558.jpg"
     },
     {
