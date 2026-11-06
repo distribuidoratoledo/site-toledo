@@ -7649,7 +7649,7 @@
      "cod": 6836,
      "nome": "FITA PVC CRISTAL 45X100MT",
      "marca": "",
-     "preco": 8.9,
+     "preco": 7.9,
      "img": "produtos/6836.jpg"
     },
     {
@@ -25487,6 +25487,13 @@
      "marca": "TRIAN",
      "preco": 11.9,
      "img": "produtos/11741.jpg"
+    },
+    {
+     "cod": 14623,
+     "nome": "PA PARA LIXO COLETORA-BRILHEX",
+     "marca": "BRILHEX",
+     "preco": 31.9,
+     "img": "produtos/14623.jpg"
     },
     {
      "cod": 1991,
