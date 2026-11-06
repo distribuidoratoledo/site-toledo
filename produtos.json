@@ -3328,6 +3328,34 @@
      "img": "produtos/281.jpg"
     },
     {
+     "cod": 14517,
+     "nome": "BORRACHA MERCUR C/CP BIG GRAFIT.",
+     "marca": "MERCUR",
+     "preco": 4.9,
+     "img": "produtos/14517.jpg"
+    },
+    {
+     "cod": 14520,
+     "nome": "BORRACHA MERCUR C/CP BIG TONS PASTEL.",
+     "marca": "MERCUR",
+     "preco": 5.9,
+     "img": "produtos/14520.jpg"
+    },
+    {
+     "cod": 14519,
+     "nome": "BORRACHA MERCUR C/CP-COLOR",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/14519.jpg"
+    },
+    {
+     "cod": 14486,
+     "nome": "BORRACHA MERCUR C/CP-TONS PASTEL",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/14486.jpg"
+    },
+    {
      "cod": 7917,
      "nome": "BORRACHA MERCUR CLEAN VERDE",
      "marca": "MERCUR",
@@ -3340,6 +3368,13 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13077.jpg"
+    },
+    {
+     "cod": 14522,
+     "nome": "BORRACHA MERCUR FUN",
+     "marca": "MERCUR",
+     "preco": 2.9,
+     "img": "produtos/14522.jpg"
     },
     {
      "cod": 3223,
@@ -3457,6 +3492,13 @@
      "marca": "MERCUR",
      "preco": 2.0,
      "img": "produtos/7915.jpg"
+    },
+    {
+     "cod": 14518,
+     "nome": "REFIL CANETA BORRACHA MERCUR C/3",
+     "marca": "MERCUR",
+     "preco": 7.9,
+     "img": "produtos/14518.jpg"
     }
    ]
   },
@@ -6932,6 +6974,13 @@
      "img": "produtos/7689.jpg"
     },
     {
+     "cod": 14524,
+     "nome": "COLA BASTAO 20GR-MERCUR",
+     "marca": "MERCU",
+     "preco": 5.9,
+     "img": "produtos/14524.jpg"
+    },
+    {
      "cod": 811,
      "nome": "COLA BASTAO 20GR-PRITT",
      "marca": "PRITT",
@@ -7208,7 +7257,7 @@
      "cod": 7903,
      "nome": "COLA LIQUIDA 40GR-MERCUR",
      "marca": "MERCUR",
-     "preco": 2.0,
+     "preco": 2.9,
      "img": "produtos/7903.jpg"
     },
     {
@@ -7252,6 +7301,13 @@
      "marca": "NEW MAGIC",
      "preco": 12.9,
      "img": "produtos/819.jpg"
+    },
+    {
+     "cod": 14523,
+     "nome": "COLA LIQUIDA 90GR CORES MAGICA-MERCUR",
+     "marca": "MERCUR",
+     "preco": 5.9,
+     "img": "produtos/14523.jpg"
     },
     {
      "cod": 7904,
@@ -8107,7 +8163,7 @@
      "cod": 6716,
      "nome": "CORRETIVO CANETA 8ML MERCUR",
      "marca": "MERCUR",
-     "preco": 16.9,
+     "preco": 14.9,
      "img": "produtos/6716.jpg",
      "cores": [
       {
@@ -8117,19 +8173,18 @@
        "img": "produtos/6716.jpg"
       },
       {
+       "cod": 978,
+       "cor": "Branca",
+       "nome": "CORRETIVO CANETA 8ML MERCUR (BRANCA)",
+       "img": "produtos/978.jpg"
+      },
+      {
        "cod": 7906,
        "cor": "Rosa",
        "nome": "CORRETIVO CANETA 8ML MERCUR (ROSA)",
        "img": "produtos/7906.jpg"
       }
      ]
-    },
-    {
-     "cod": 978,
-     "nome": "CORRETIVO CANETA 8ML MERCUR (BRANCA)",
-     "marca": "MERCUR",
-     "preco": 17.9,
-     "img": "produtos/978.jpg"
     },
     {
      "cod": 7291,
@@ -26638,6 +26693,13 @@
        "img": "produtos/6637.jpg"
       }
      ]
+    },
+    {
+     "cod": 14526,
+     "nome": "MARCA TEXTO MERCUR-TONS PASTEL",
+     "marca": "MERCUR",
+     "preco": 4.9,
+     "img": "produtos/14526.jpg"
     },
     {
      "cod": 1829,
