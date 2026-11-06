@@ -1447,7 +1447,185 @@
      ]
     }
    ]
+  },
+  {
+   "id": "peterpan",
+   "nome": "Instituto Educacional Peter Pan",
+   "listas": [
+    {
+     "id": "peterpan-ano6a9",
+     "ano": "6º ao 9º Ano",
+     "orcamento": 658825,
+     "itens": [
+      {
+       "descricao": "2 pincéis de ponta grossa para quadro branco recarregável",
+       "qtd": 2,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "2 pacotes de folha A4 (1000 folhas brancas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "2 pacotes de 500 folhas.",
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "1 pincel de líquido azul, preto ou vermelho",
+       "qtd": 1,
+       "cod": 7579,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7579.jpg"
+      },
+      {
+       "descricao": "Cadernos para as matérias (6º ano: um para cada matéria)",
+       "qtd": 7,
+       "cod": 9324,
+       "produto": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/9324.jpg"
+      },
+      {
+       "descricao": "1 pasta preta com 100 folhas de plástico",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 11529,
+       "produto": "LAPIS 12CORES-MAPED STAR",
+       "marca": "MAPED",
+       "preco": 12.9,
+       "foto": "listas/fotos/11529.jpg"
+      },
+      {
+       "descricao": "Régua transparente de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "Compasso",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg"
+      },
+      {
+       "descricao": "Lapiseira 0.7 mm",
+       "qtd": 1,
+       "cod": 14372,
+       "produto": "LAPISEIRA 0.7-COMPACTOR LOOP CORES",
+       "marca": "COMPACTOR",
+       "preco": 3.9,
+       "foto": "listas/fotos/14372.jpg"
+      },
+      {
+       "descricao": "Esquadro de 45°",
+       "qtd": 1,
+       "cod": 1136,
+       "produto": "ESQUADRO 21X45-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1136.jpg"
+      },
+      {
+       "descricao": "Esquadro de 30° e 60°",
+       "qtd": 1,
+       "cod": 1137,
+       "produto": "ESQUADRO 21X60-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1137.jpg"
+      },
+      {
+       "descricao": "Borracha",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "Transferidor de 180° transparente",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg"
+      },
+      {
+       "descricao": "Dicionário com nova ortografia",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 tela 20x30",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 12.9,
+       "obs": "Só para o 6º e o 7º ano.",
+       "foto": "listas/fotos/2954.jpg"
+      },
+      {
+       "descricao": "1 estojo de tinta guache com 6 cores",
+       "qtd": 1,
+       "cod": 3018,
+       "produto": "GUACHE 15ML C/6-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Só para o 6º e o 7º ano.",
+       "foto": "listas/fotos/3018.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "obs": "Só para o 6º e o 7º ano.",
+       "foto": "listas/fotos/6378.jpg"
+      }
+     ],
+     "observacoes": [
+      "6º ano: um caderno para cada matéria; 7º ao 9º ano: um caderno para as matérias ou um para cada, à escolha.",
+      "8º ano: transferidor de 180°, compasso e régua transparente de 30 cm.",
+      "Material de arte (tela 20x30, guache com 6 cores e pincel) só para o 6º e o 7º ano.",
+      "Os livros deverão ser adquiridos novos; não será permitido o uso de livros didáticos xerocados.",
+      "A lista dos livros literários será disponibilizada a partir da 2ª quinzena de fevereiro.",
+      "Não será permitido o uso de estilete."
+     ]
+    }
+   ]
   }
  ],
- "atualizado": "05/11/2026 16:35"
+ "atualizado": "06/11/2026 08:00"
 }
