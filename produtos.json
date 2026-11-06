@@ -2445,12 +2445,6 @@
        "img": "produtos/2343.jpg"
       },
       {
-       "cod": 2344,
-       "cor": "Preto",
-       "nome": "PINCEL ATOM.1100 PILOT-PRETO",
-       "img": "produtos/2344.jpg"
-      },
-      {
        "cod": 3604,
        "cor": "Verde",
        "nome": "PINCEL ATOM.1100 PILOT-VERDE",
@@ -17053,7 +17047,7 @@
      "cod": 10143,
      "nome": "PETECA",
      "marca": "BORAKIBORA",
-     "preco": 11.9,
+     "preco": 17.9,
      "img": "produtos/10143.jpg"
     },
     {
@@ -17095,7 +17089,7 @@
      "cod": 9339,
      "nome": "QUEBRA CABEÇA PRINCESA C/150PÇ",
      "marca": "PAIS E FIL",
-     "preco": 21.9,
+     "preco": 26.9,
      "img": "produtos/9339.jpg"
     },
     {
@@ -22159,13 +22153,6 @@
      "marca": "DIFFATTO",
      "preco": 28.9,
      "img": "produtos/6968.jpg"
-    },
-    {
-     "cod": 253,
-     "nome": "BOBINA PICOT. 30X40 C/700-ROLLBAG (PESO 2,5KG)",
-     "marca": "ROLL BAG",
-     "preco": 23.9,
-     "img": "produtos/253.jpg"
     },
     {
      "cod": 6965,
