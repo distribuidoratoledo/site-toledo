@@ -19698,6 +19698,13 @@
      "img": "produtos/1415.jpg"
     },
     {
+     "cod": 3957,
+     "nome": "FORMA GA10 C/100",
+     "marca": "GALVANOTEK",
+     "preco": 61.9,
+     "img": "produtos/3957.jpg"
+    },
+    {
      "cod": 5774,
      "nome": "FORMA GA18 C/10",
      "marca": "GALVANOTEK",
@@ -19983,6 +19990,13 @@
      "marca": "SANPACK",
      "preco": 79.9,
      "img": "produtos/1385.jpg"
+    },
+    {
+     "cod": 14621,
+     "nome": "FORMINHA 1 DOCE C/TAMPA C/50-PLASTILANIA",
+     "marca": "",
+     "preco": 26.9,
+     "img": "produtos/14621.jpg"
     },
     {
      "cod": 1970,
@@ -21545,11 +21559,32 @@
      "img": "produtos/4204.jpg"
     },
     {
+     "cod": 4205,
+     "nome": "SACO VACUO 20X30 C/500 (0.8)",
+     "marca": "PARMA",
+     "preco": 119.9,
+     "img": "produtos/4205.jpg"
+    },
+    {
      "cod": 5069,
      "nome": "SACO VACUO 20X35 C/500 (0.8)",
      "marca": "ALIPROT",
      "preco": 122.9,
      "img": "produtos/5069.jpg"
+    },
+    {
+     "cod": 14624,
+     "nome": "SACO VACUO 25X30 C/500 (0.8)",
+     "marca": "ALIPROT",
+     "preco": 196.9,
+     "img": "produtos/14624.jpg"
+    },
+    {
+     "cod": 4203,
+     "nome": "SACO VACUO 25X35 C/500 (0.8)",
+     "marca": "ALIPROT",
+     "preco": 219.9,
+     "img": "produtos/4203.jpg"
     },
     {
      "cod": 14514,
