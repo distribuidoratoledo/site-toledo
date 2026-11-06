@@ -16896,6 +16896,13 @@
      "img": "produtos/6107.jpg"
     },
     {
+     "cod": 8912,
+     "nome": "BRINQUEDO PEDAG. CORDA SISAL C/2,5MT",
+     "marca": "OFFSIDE",
+     "preco": 22.9,
+     "img": "produtos/8912.jpg"
+    },
+    {
      "cod": 306,
      "nome": "BRINQUEDO PEDAG. SOLETRAR C/52 PÇ",
      "marca": "COLUNA",
@@ -16917,6 +16924,13 @@
      "img": "produtos/13499.jpg"
     },
     {
+     "cod": 8070,
+     "nome": "BRINQUEDO PEDAG.CAIU PERDEU",
+     "marca": "PAIS&FILHO",
+     "preco": 32.9,
+     "img": "produtos/8070.jpg"
+    },
+    {
      "cod": 8074,
      "nome": "BRINQUEDO PEDAG.DAMAS",
      "marca": "COLUNA",
@@ -16936,6 +16950,13 @@
      "marca": "NIG BRINQ",
      "preco": 45.9,
      "img": "produtos/13501.jpg"
+    },
+    {
+     "cod": 11354,
+     "nome": "BRINQUEDO PEDAG.FUTURO ENGENHEIRO C/24 PÇ",
+     "marca": "COLUNA",
+     "preco": 22.9,
+     "img": "produtos/11354.jpg"
     },
     {
      "cod": 3585,
@@ -17029,6 +17050,13 @@
      "img": "produtos/1880.jpg"
     },
     {
+     "cod": 10143,
+     "nome": "PETECA",
+     "marca": "BORAKIBORA",
+     "preco": 11.9,
+     "img": "produtos/10143.jpg"
+    },
+    {
      "cod": 14362,
      "nome": "QUEBRA CABEÇA 3 PORQUINHOS C/2X24 PÇ",
      "marca": "BRINQ.TOIA",
@@ -17062,6 +17090,13 @@
      "marca": "PAIS&FILHO",
      "preco": 21.9,
      "img": "produtos/10192.jpg"
+    },
+    {
+     "cod": 9339,
+     "nome": "QUEBRA CABEÇA PRINCESA C/150PÇ",
+     "marca": "PAIS E FIL",
+     "preco": 21.9,
+     "img": "produtos/9339.jpg"
     },
     {
      "cod": 13562,
@@ -18943,13 +18978,6 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/1009.jpg"
-    },
-    {
-     "cod": 1010,
-     "nome": "DISCO ISOPOR 30CM C/200",
-     "marca": "",
-     "preco": 136.9,
-     "img": "produtos/1010.jpg"
     },
     {
      "cod": 5987,
