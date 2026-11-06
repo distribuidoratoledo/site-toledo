@@ -11258,13 +11258,6 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/9783.jpg"
-    },
-    {
-     "cod": 8726,
-     "nome": "SELO CONVITE VERMELHO 12/13MM C/210",
-     "marca": "PIM/REFL",
-     "preco": 6.9,
-     "img": "produtos/8726.jpg"
     }
    ]
   },
@@ -26753,7 +26746,7 @@
     },
     {
      "cod": 14526,
-     "nome": "MARCA TEXTO MERCUR-ROSA",
+     "nome": "MARCA TEXTO MERCUR-TONS PASTEL",
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14526.jpg"
