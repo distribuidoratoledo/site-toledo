@@ -13997,13 +13997,6 @@
      "marca": "XERYUS",
      "preco": 149.9,
      "img": "produtos/13235.jpg"
-    },
-    {
-     "cod": 13414,
-     "nome": "MOCHILA COSTAS XERYUS - ESPORTIVA REAL MADRID",
-     "marca": "XERYUS",
-     "preco": 199.9,
-     "img": "produtos/13414.jpg"
     }
    ]
   },
@@ -16277,7 +16270,7 @@
     },
     {
      "cod": 14547,
-     "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS CORES",
+     "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS AZUL",
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14547.jpg"
@@ -18708,6 +18701,13 @@
      "img": "produtos/9912.jpg"
     },
     {
+     "cod": 9913,
+     "nome": "BOLA ISOPOR 40MM C/5 (MACIÇA)",
+     "marca": "ISOMAX",
+     "preco": 6.9,
+     "img": "produtos/9913.jpg"
+    },
+    {
      "cod": 9915,
      "nome": "BOLA ISOPOR 50MM C/5 (MACIÇA)",
      "marca": "ISOMAX",
@@ -18778,6 +18778,13 @@
      "img": "produtos/9934.jpg"
     },
     {
+     "cod": 6943,
+     "nome": "CAIXA ISOPOR 100 LITROS",
+     "marca": "",
+     "preco": 139.9,
+     "img": "produtos/6943.jpg"
+    },
+    {
      "cod": 6941,
      "nome": "CAIXA ISOPOR 12/13 LITROS",
      "marca": "",
@@ -18820,6 +18827,13 @@
      "img": "produtos/6942.jpg"
     },
     {
+     "cod": 452,
+     "nome": "CAIXA ISOPOR 3 LITROS",
+     "marca": "",
+     "preco": 7.9,
+     "img": "produtos/452.jpg"
+    },
+    {
      "cod": 7359,
      "nome": "CAIXA ISOPOR 35 LITROS",
      "marca": "",
@@ -18832,6 +18846,13 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/6946.jpg"
+    },
+    {
+     "cod": 8229,
+     "nome": "CAIXA ISOPOR 5 LITROS",
+     "marca": "ISOMAX",
+     "preco": 10.9,
+     "img": "produtos/8229.jpg"
     },
     {
      "cod": 7361,
@@ -18848,11 +18869,25 @@
      "img": "produtos/6944.jpg"
     },
     {
+     "cod": 6939,
+     "nome": "CAIXA ISOPOR 8 LITROS",
+     "marca": "",
+     "preco": 16.9,
+     "img": "produtos/6939.jpg"
+    },
+    {
      "cod": 7360,
      "nome": "CAIXA ISOPOR 80 LITROS",
      "marca": "",
      "preco": 119.9,
      "img": "produtos/7360.jpg"
+    },
+    {
+     "cod": 7362,
+     "nome": "CAIXA ISOPOR VACINA 0,4ML (250GR)",
+     "marca": "ISOMAX",
+     "preco": 4.9,
+     "img": "produtos/7362.jpg"
     },
     {
      "cod": 7363,
@@ -21683,13 +21718,6 @@
      "marca": "GRESPAN",
      "preco": 2.5,
      "img": "produtos/7486.jpg"
-    },
-    {
-     "cod": 2823,
-     "nome": "SACOLA BRANCA 25X35 C/100",
-     "marca": "",
-     "preco": 3.9,
-     "img": "produtos/2823.jpg"
     },
     {
      "cod": 2824,
