@@ -6929,7 +6929,7 @@
      "cod": 2665,
      "nome": "ROLETE MX5500/M14-INK ROLLER",
      "marca": "INK ROLLER",
-     "preco": 20.9,
+     "preco": 21.9,
      "img": "produtos/2665.jpg"
     },
     {
@@ -23823,6 +23823,13 @@
      "img": "produtos/14183.jpg"
     },
     {
+     "cod": 260,
+     "nome": "BOBINA PRESENTE 40CM-MASCULINA",
+     "marca": "GERSELE",
+     "preco": 29.9,
+     "img": "produtos/260.jpg"
+    },
+    {
      "cod": 9257,
      "nome": "BOBINA PRESENTE 60CM DIVERSAS (METRO)",
      "marca": "GERSELE",
@@ -23835,6 +23842,13 @@
      "marca": "GERSELE",
      "preco": 29.9,
      "img": "produtos/262.jpg"
+    },
+    {
+     "cod": 263,
+     "nome": "BOBINA PRESENTE 60CM-INFANTIL",
+     "marca": "GERSELE",
+     "preco": 29.9,
+     "img": "produtos/263.jpg"
     },
     {
      "cod": 264,
@@ -26895,7 +26909,7 @@
     },
     {
      "cod": 14565,
-     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
+     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE AM/LARANJA",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg"
