@@ -18121,13 +18121,6 @@
    "nome": "Papel Acoplado",
    "itens": [
     {
-     "cod": 4043,
-     "nome": "ACOPLADO FRANGO 50X70 C/5KG",
-     "marca": "RIO BRANCO",
-     "preco": 69.9,
-     "img": "produtos/4043.jpg"
-    },
-    {
      "cod": 9250,
      "nome": "ACOPLADO FRANGO 60X45 C/5KG",
      "marca": "",
@@ -26909,7 +26902,7 @@
     },
     {
      "cod": 14565,
-     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE AM/VERDE",
+     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg"
