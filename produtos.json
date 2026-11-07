@@ -703,7 +703,7 @@
     },
     {
      "cod": 14558,
-     "nome": "CANETA GEL/CONVITE TRIS NUVEM",
+     "nome": "CANETA GEL/CONVITE TRIS NUVEM CORES",
      "marca": "TRIS",
      "preco": 18.9,
      "img": "produtos/14558.jpg"
@@ -22168,6 +22168,13 @@
      "img": "produtos/6968.jpg"
     },
     {
+     "cod": 253,
+     "nome": "BOBINA PICOT. 30X40 C/700-ROLLBAG (PESO 2,5KG)",
+     "marca": "ROLL BAG",
+     "preco": 23.9,
+     "img": "produtos/253.jpg"
+    },
+    {
      "cod": 6965,
      "nome": "BOBINA PICOT. 35X45 C/500-HIP/FLEX",
      "marca": "HIPER ROLL",
@@ -24615,13 +24622,6 @@
      "marca": "SETTA",
      "preco": 2.9,
      "img": "produtos/1724.jpg"
-    },
-    {
-     "cod": 7056,
-     "nome": "MESINHA P/ PIZZA C/200-BRANCO",
-     "marca": "GOLDENPLAS",
-     "preco": 12.9,
-     "img": "produtos/7056.jpg"
     },
     {
      "cod": 5194,
