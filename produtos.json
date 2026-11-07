@@ -2445,6 +2445,12 @@
        "img": "produtos/2343.jpg"
       },
       {
+       "cod": 2344,
+       "cor": "Preto",
+       "nome": "PINCEL ATOM.1100 PILOT-PRETO",
+       "img": "produtos/2344.jpg"
+      },
+      {
        "cod": 3604,
        "cor": "Verde",
        "nome": "PINCEL ATOM.1100 PILOT-VERDE",
@@ -3475,7 +3481,7 @@
     },
     {
      "cod": 14548,
-     "nome": "BORRACHA TRIS HOLIC PIXIE CORES",
+     "nome": "BORRACHA TRIS HOLIC PIXIE ROSA",
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14548.jpg"
@@ -16270,7 +16276,7 @@
     },
     {
      "cod": 14547,
-     "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS AZUL",
+     "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS CORES",
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14547.jpg"
@@ -19054,7 +19060,7 @@
      "cod": 2460,
      "nome": "PORTA MARMITEX FUNDO ISOPOR",
      "marca": "ISOMAX",
-     "preco": 14.9,
+     "preco": 16.9,
      "img": "produtos/2460.jpg"
     },
     {
@@ -22830,6 +22836,13 @@
      "img": "produtos/7012.jpg"
     },
     {
+     "cod": 10455,
+     "nome": "SACO SOS DEC. 25KG (38X31X17,5) C/100",
+     "marca": "DALPAC",
+     "preco": 92.9,
+     "img": "produtos/10455.jpg"
+    },
+    {
      "cod": 10105,
      "nome": "SACO SOS DEC. 3KG (25X13X8,5) C/100",
      "marca": "CIPAPEL",
@@ -22961,13 +22974,6 @@
      "marca": "CROMUS",
      "preco": 9.9,
      "img": "produtos/8079.jpg"
-    },
-    {
-     "cod": 10455,
-     "nome": "SOS DEC. 25KG (38X31X17,5) C/100",
-     "marca": "DALPAC",
-     "preco": 92.9,
-     "img": "produtos/10455.jpg"
     }
    ]
   },
