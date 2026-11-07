@@ -3096,7 +3096,7 @@
     },
     {
      "cod": 14549,
-     "nome": "LAPISEIRA 0.7-TRIS HOLIC PIXIE LILAS",
+     "nome": "LAPISEIRA 0.7-TRIS HOLIC PIXIE CORES",
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg"
@@ -6924,6 +6924,13 @@
      "marca": "INK ROLLER",
      "preco": 20.9,
      "img": "produtos/2666.jpg"
+    },
+    {
+     "cod": 2665,
+     "nome": "ROLETE MX5500/M14-INK ROLLER",
+     "marca": "INK ROLLER",
+     "preco": 20.9,
+     "img": "produtos/2665.jpg"
     },
     {
      "cod": 2667,
@@ -23821,6 +23828,27 @@
      "marca": "GERSELE",
      "preco": 1.5,
      "img": "produtos/9257.jpg"
+    },
+    {
+     "cod": 262,
+     "nome": "BOBINA PRESENTE 60CM-FEMININA",
+     "marca": "GERSELE",
+     "preco": 29.9,
+     "img": "produtos/262.jpg"
+    },
+    {
+     "cod": 264,
+     "nome": "BOBINA PRESENTE 60CM-MASCULINA",
+     "marca": "GERSELE",
+     "preco": 29.9,
+     "img": "produtos/264.jpg"
+    },
+    {
+     "cod": 265,
+     "nome": "BOBINA PRESENTE 60CM-UNISEX",
+     "marca": "GERSELE",
+     "preco": 29.9,
+     "img": "produtos/265.jpg"
     },
     {
      "cod": 11996,
