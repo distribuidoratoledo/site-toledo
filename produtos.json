@@ -3193,7 +3193,7 @@
     },
     {
      "cod": 14606,
-     "nome": "BORRACHA C/CP TRIS NECTAR RETRATIL ROSA",
+     "nome": "BORRACHA C/CP TRIS NECTAR RETRATIL CORES",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14606.jpg"
@@ -7098,13 +7098,6 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/831.jpg"
-    },
-    {
-     "cod": 11625,
-     "nome": "COLA EVA E ISOPOR 80G-MARIPEL",
-     "marca": "MARIPEL",
-     "preco": 8.9,
-     "img": "produtos/11625.jpg"
     },
     {
      "cod": 832,
