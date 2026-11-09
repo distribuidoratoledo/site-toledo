@@ -320,7 +320,7 @@
   </script>
   <style>
     .aviso-montagem { display: none; }
-    .dentro body > header, .dentro .faixa-contato, .dentro body > footer, .dentro .zap-fixo { display: none !important; }
+    .dentro body > header, .dentro .faixa-contato, .dentro body > footer, .dentro .zap-fixo, .dentro .toledo { display: none !important; }
     /* RUPTURA DENTRO DO SITE (05/11/2026: "quero que deixe o card ruptura aqui dentro do site ate finalizarmos o processo,
        depois transferimos"). So' aparece no modo previa; os dados vem de listas/ruptura.json (copia do banco da aba Ruptura). */
     .rup { display: none; }
@@ -555,6 +555,12 @@
     selAno.addEventListener('change', function () { btnVer.disabled = !selAno.value; $('lista').innerHTML = ''; });
 
     btnVer.addEventListener('click', function () {
+      // no card da tela principal, "Ver lista" leva para a pagina das Listas, so' com a lista (09/11/2026: "quero sair da
+      // tela principal e ir para o card listas escolares 2027")
+      if (document.documentElement.classList.contains('dentro') && window.top !== window) {
+        window.top.location.href = 'listas.html?escola=' + encodeURIComponent(selEscola.value) + '&ano=' + encodeURIComponent(selAno.value) + '&abrir=1';
+        return;
+      }
       var c = ler(CHAVE_CAD) || {};
       if (c.nome && c.telefone) mostrar(); else abrirCadastro();
     });
@@ -907,6 +913,11 @@
         var qe = (location.search.match(/[?&]escola=([^&]+)/) || [])[1];
         if (qe && [].some.call(selEscola.options, function (o) { return o.value === decodeURIComponent(qe); })) {
           selEscola.value = decodeURIComponent(qe); selEscola.dispatchEvent(new Event('change'));
+          var qa = (location.search.match(/[?&]ano=([^&]+)/) || [])[1];
+          if (qa && [].some.call(selAno.options, function (o) { return o.value === decodeURIComponent(qa); })) {
+            selAno.value = decodeURIComponent(qa); selAno.dispatchEvent(new Event('change'));
+            if (/[?&]abrir=1/.test(location.search)) btnVer.click();
+          }
         }
         // colagem do topo com fotos reais dos produtos das listas
         var fs = [];
