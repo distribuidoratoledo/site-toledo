@@ -13577,13 +13577,6 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14588.jpg"
-    },
-    {
-     "cod": 12747,
-     "nome": "TESOURA S/P-ACRILEX BICOLOR (GRADE)",
-     "marca": "ACRILEX",
-     "preco": 11.9,
-     "img": "produtos/12747.jpg"
     }
    ]
   },
@@ -26226,14 +26219,14 @@
     },
     {
      "cod": 14551,
-     "nome": "APONTADOR TRIS C/D 1F SU106-CORES",
+     "nome": "APONTADOR TRIS C/D 1F SU106- CORES",
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14551.jpg"
     },
     {
      "cod": 14608,
-     "nome": "APONTADOR TRIS C/D 1F SU263- VERDE",
+     "nome": "APONTADOR TRIS C/D 1F SU263- CORES",
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg"
@@ -26434,7 +26427,7 @@
     },
     {
      "cod": 14568,
-     "nome": "APONTADOR TRIS C/D+BORR 2F-ASTRO CORES",
+     "nome": "APONTADOR TRIS C/D+BORR 2F-ASTRO PRETO",
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/14568.jpg"
