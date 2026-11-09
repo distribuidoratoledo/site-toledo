@@ -796,6 +796,15 @@
             gap: 0.1rem 0.65rem; }
       nav a { margin: 0; padding: 0.35rem 0; }
     }
+    /* Regras do Site por cima da loja, so' no modo de teste (09/11/2026) */
+    nav a.nav-regras { color: var(--vermelho); font-weight: 700; }
+    #regras-fundo { position: fixed; inset: 0; z-index: 3000; background: rgba(16, 24, 40, .55); display: flex;
+      padding: max(12px, env(safe-area-inset-top, 0px)) max(12px, env(safe-area-inset-right, 0px)) max(12px, env(safe-area-inset-bottom, 0px)) max(12px, env(safe-area-inset-left, 0px)); }
+    #regras-fundo[hidden] { display: none; }
+    #regras-fundo .caixa { flex: 1; max-width: 980px; margin: 0 auto; background: #f3f5f9; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
+    #regras-fundo .topo { display: flex; justify-content: space-between; align-items: center; padding: 10px 14px; background: #1a2f52; color: #fff; font-weight: 700; }
+    #regras-fundo .topo button { background: transparent; border: 1px solid rgba(255,255,255,.5); color: #fff; border-radius: 6px; padding: 5px 12px; font: inherit; cursor: pointer; }
+    #regras-fundo iframe { flex: 1; width: 100%; border: 0; background: #f3f5f9; }
   </style>
 </head>
 <body>
@@ -810,6 +819,8 @@
       <!-- Listas Escolares 2027: fora do menu enquanto está em montagem (Adriana, 04/11/2026); voltar com <a href="listas.html">Listas Escolares 2027</a> -->
       <a href="#sobre">Sobre</a>
       <a href="#contato">Contato</a>
+      <!-- Regras do Site: so' no modo de teste (?previa=toledo2027), abre por cima da pagina (Adriana, 09/11/2026) -->
+      <a href="#regras" id="nav-regras" class="nav-regras" hidden>Regras</a>
     </nav>
   </header>
 
@@ -2295,5 +2306,26 @@
     <div class="car-rodape" id="car-rodape"></div>
   </aside>
 </div>
+  <div id="regras-fundo" hidden>
+    <div class="caixa" role="dialog" aria-label="Regras do Site">
+      <div class="topo"><span>Regras do Site</span><button type="button" id="regras-fechar">Fechar</button></div>
+      <iframe id="regras-quadro" title="Regras do Site"></iframe>
+    </div>
+  </div>
+  <script>
+    (function () {
+      var ver = (typeof PREVIA_LINK !== 'undefined' && PREVIA_LINK) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
+      var a = document.getElementById('nav-regras'), f = document.getElementById('regras-fundo'), q = document.getElementById('regras-quadro');
+      if (!ver || !a) return;
+      a.hidden = false;
+      var abrir = function (ev) { if (ev) ev.preventDefault(); if (!q.src) q.src = 'regras.html'; f.hidden = false; };
+      var fechar = function () { f.hidden = true; if (location.hash === '#regras') history.replaceState(null, '', location.pathname + location.search); };
+      a.addEventListener('click', abrir);
+      document.getElementById('regras-fechar').addEventListener('click', fechar);
+      f.addEventListener('click', function (ev) { if (ev.target === f) fechar(); });
+      document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !f.hidden) fechar(); });
+      if (location.hash === '#regras') abrir();
+    })();
+  </script>
 </body>
 </html>
