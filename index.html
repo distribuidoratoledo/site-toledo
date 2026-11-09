@@ -1048,6 +1048,21 @@
     const grupos = document.querySelectorAll('#lista-cat li.grupo');
     const painel = document.getElementById('produtos-main');
     const WHATS = '5531985113106';
+    /* A LOJA TEM DE ESTAR DECIDIDA ANTES DO PRIMEIRO CARD (09/11/2026): os 'Mais vendidos' sao desenhados
+       logo na abertura; com esta decisao la' embaixo, o link de teste abria sem o botao Adicionar. */
+    var COMPRA_LIBERADA = false;  // desligado 09/11/2026 a pedido dela ("retirar urgente o carrinho do site"); liberado antes em 04/11/2026
+    // NA PREVIA LOCAL A LOJA APARECE; NO AR, NAO. A Adriana testa a compra
+    // inteira aqui na maquina e nenhum cliente consegue comprar antes de ela
+    // liberar: no endereco publicado so' COMPRA_LIBERADA liga a loja.
+    var PREVIA_LOCAL = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+    /* LINK DE TESTE NO AR (Adriana, 09/11/2026: "link do meu acesso site que consta o carrinho pra eu testar"):
+       com ?previa=toledo2027 o carrinho aparece so' para quem abriu esse link; fica lembrado na aba. */
+    var PREVIA_LINK = false;
+    try {
+      if (/[?&]previa=toledo2027(&|$)/.test(location.search)) sessionStorage.setItem('toledo_previa_carrinho', '1');
+      PREVIA_LINK = sessionStorage.getItem('toledo_previa_carrinho') === '1';
+    } catch (e) { PREVIA_LINK = /[?&]previa=toledo2027(&|$)/.test(location.search); }
+    var LOJA_ATIVA = COMPRA_LIBERADA || PREVIA_LOCAL || PREVIA_LINK;
 
     // R$ 1.234,56
     function moeda(v) {
@@ -1256,19 +1271,7 @@
        dele poder comprar pelo site" -- Adriana, 15/09/2026. Com
        COMPRA_LIBERADA = false o botão nem é desenhado; ligar é trocar uma
        palavra. */
-    var COMPRA_LIBERADA = false;  // desligado 09/11/2026 a pedido dela ("retirar urgente o carrinho do site"); liberado antes em 04/11/2026
-    // NA PREVIA LOCAL A LOJA APARECE; NO AR, NAO. A Adriana testa a compra
-    // inteira aqui na maquina e nenhum cliente consegue comprar antes de ela
-    // liberar: no endereco publicado so' COMPRA_LIBERADA liga a loja.
-    var PREVIA_LOCAL = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
-    /* LINK DE TESTE NO AR (Adriana, 09/11/2026: "link do meu acesso site que consta o carrinho pra eu testar"):
-       com ?previa=toledo2027 o carrinho aparece so' para quem abriu esse link; fica lembrado na aba. */
-    var PREVIA_LINK = false;
-    try {
-      if (/[?&]previa=toledo2027(&|$)/.test(location.search)) sessionStorage.setItem('toledo_previa_carrinho', '1');
-      PREVIA_LINK = sessionStorage.getItem('toledo_previa_carrinho') === '1';
-    } catch (e) { PREVIA_LINK = /[?&]previa=toledo2027(&|$)/.test(location.search); }
-    var LOJA_ATIVA = COMPRA_LIBERADA || PREVIA_LOCAL || PREVIA_LINK;
+    // (COMPRA_LIBERADA, PREVIA_LOCAL, PREVIA_LINK e LOJA_ATIVA foram para o alto do script: ver perto de WHATS)
     var CARRINHO = [];
     /* TAXA DE ENTREGA. "Nao teremos valor minimo. Porem, para compras abaixo
        de 50 reais, cobramos taxa de entrega. Eu irei te enviar a lista com os
