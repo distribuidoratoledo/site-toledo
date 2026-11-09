@@ -2071,6 +2071,8 @@
       var fr = freteDoPedido();
       return {
         numero: DADOS.numeroPedido, vendedora: DADOS.vendedora, quando: new Date().toISOString(),
+        // enquanto o carrinho nao esta liberado, todo pedido e' TESTE: entra no Sankhya marcado NAO FATURAR (09/11/2026)
+        teste: !COMPRA_LIBERADA,
         cliente: { nome: (DADOS.nome || '').trim(), doc: soDigitos(DADOS.doc), pessoa: DADOS.pessoa === 'J' ? 'J' : 'F',
                    ie: (DADOS.ie || '').trim(), fantasia: (DADOS.fantasia || '').trim(), telefone: soDigitos(DADOS.fone),
                    email: (DADOS.email || '').trim(),
