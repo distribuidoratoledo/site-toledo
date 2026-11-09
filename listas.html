@@ -202,6 +202,11 @@
     .tab-itens th.c-n, .tab-itens th.c-cod, .tab-itens th.c-val { color: #fff; }   /* título visível no fundo azul */
     .tab-itens .nome { font-weight: 700; color: var(--azul); }
     .tab-itens .prod { font-size: 0.82rem; color: var(--suave); }
+    /* SALDO NO ITEM (Adriana, 09/11/2026): saldo de estoque em cada item; saldo baixo = amarelo + "Confirmar saldo com a vendedora" */
+    .tab-itens .saldo { font-size: 0.8rem; color: var(--suave); margin-top: 2px; }
+    .tab-itens tr.saldo-baixo td { background: #fff3b8 !important; }
+    .tab-itens .saldo-aviso { display: inline-block; margin-top: 4px; background: #ffe27a; color: #5c4400; font-weight: 700;
+      font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; }
     .tab-itens .obs { font-size: 0.8rem; color: var(--suave); font-style: italic; }
     .pdf-modo .tab-itens { overflow: visible; }
     .tab-itens tr { break-inside: avoid; }
@@ -612,6 +617,9 @@
 
     // ---------- lista ----------
     var atual = null;
+    /* saldo baixo: ate' SALDO_BAIXO unidades, ou menos do que a lista pede (09/11/2026, "saldo baixo, 1, 2, 3...") */
+    var SALDO_BAIXO = 5;
+    function saldoBaixo(it) { return it.saldo != null && (it.saldo <= SALDO_BAIXO || it.saldo < (Number(it.qtd) || 0)); }
     function mostrar() {
       var a = escolhaAtual();
       if (!a.lista) return;
@@ -628,12 +636,15 @@
                 : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : '';
         var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
         var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
-        html += '<tr><td class="c-n">' + n + '</td>' +
+        var temSaldo = it.saldo != null, baixo = temSaldo && saldoBaixo(it);
+        html += '<tr' + (baixo ? ' class="saldo-baixo"' : '') + '><td class="c-n">' + n + '</td>' +
           '<td class="c-foto"><div class="foto">' + foto + '</div></td>' +
           '<td class="c-cod">' + (it.cod ? esc(it.cod) : '—') + '</td>' +
           '<td class="c-item"><div class="nome">' + esc(it.descricao) + tag + '</div>' +
             (it.produto ? '<div class="prod">' + esc(titulo(it.produto)) + '</div>' : '') +
-            (it.obs ? '<div class="obs">' + esc(it.obs) + '</div>' : '') + '</td>' +
+            (it.obs ? '<div class="obs">' + esc(it.obs) + '</div>' : '') +
+            (temSaldo ? '<div class="saldo">Estoque: ' + esc(it.saldo) + '</div>' : '') +
+            (baixo ? '<span class="saldo-aviso">Confirmar saldo com a vendedora</span>' : '') + '</td>' +
           '<td class="c-marca">' + (it.marca ? esc(titulo(it.marca)) : '—') + '</td>' +
           '<td class="c-qtd">' + esc(it.qtd) + '</td>' +
           (p == null ? '<td class="c-val sem">' + semP + '</td><td class="c-val sem">—</td>'
@@ -795,7 +806,9 @@
         doc.setFontSize(FS);
         doc.setFont('helvetica', 'bold'); var l1 = doc.splitTextToSize(String(it.descricao || '') + tag, W.item - 2 * PAD);
         doc.setFont('helvetica', 'normal'); var l2 = it.produto ? doc.splitTextToSize(titulo(it.produto), W.item - 2 * PAD) : [];
-        doc.setFont('helvetica', 'italic'); var l3 = it.obs ? doc.splitTextToSize(String(it.obs), W.item - 2 * PAD) : [];
+        var txtSaldo = it.saldo != null ? 'Estoque: ' + it.saldo + (saldoBaixo(it) ? ' - Confirmar saldo com a vendedora' : '') : '';
+        var txt3 = [it.obs, txtSaldo].filter(Boolean).join('\n');
+        doc.setFont('helvetica', 'italic'); var l3 = txt3 ? doc.splitTextToSize(txt3, W.item - 2 * PAD) : [];
         partes[i] = [l1, l2, l3];
         var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
         return [String(i + 1), '', it.cod ? String(it.cod) : '—', l1.concat(l2, l3).join('\n'), it.marca ? titulo(it.marca) : '—',
@@ -816,6 +829,7 @@
           6: { cellWidth: W.vu, halign: 'right' }, 7: { cellWidth: W.tot, halign: 'right', fontStyle: 'bold', textColor: AZ }
         },
         didParseCell: function (d) {
+          if (d.section === 'body' && saldoBaixo(itens[d.row.index])) { d.cell.styles.fillColor = [255, 246, 204]; }
           var k = d.column.index;
           if (d.section === 'head') { d.cell.styles.halign = (k <= 2 || k === 5) ? 'center' : k >= 6 ? 'right' : 'left'; }
           if (d.section === 'body' && k >= 6 && itens[d.row.index].preco == null) { d.cell.styles.textColor = [154, 163, 177]; d.cell.styles.fontStyle = 'italic'; }

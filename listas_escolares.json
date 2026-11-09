@@ -12,6 +12,7 @@
       {
        "descricao": "4 cadernos brochurão com pauta de 96 folhas",
        "qtd": 4,
+       "saldo": 0,
        "cod": 8885,
        "produto": "CADERNO CD 96F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -22,6 +23,7 @@
       {
        "descricao": "4 cadernos brochurão com pauta de 48 folhas",
        "qtd": 4,
+       "saldo": 0,
        "cod": 12408,
        "produto": "CADERNO CD 48F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -32,6 +34,7 @@
       {
        "descricao": "1 caderno de desenho para arte",
        "qtd": 1,
+       "saldo": 69,
        "cod": 12411,
        "produto": "CADERNO DESENHO CD 80F-(AZUL)",
        "marca": "CREDEAL",
@@ -41,6 +44,7 @@
       {
        "descricao": "1 caixa de lápis de cor com até 24 cores",
        "qtd": 1,
+       "saldo": 5,
        "cod": 1659,
        "produto": "LAPIS 24CORES-MAPED",
        "marca": "MAPED",
@@ -50,6 +54,7 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
+       "saldo": 3,
        "cod": 7860,
        "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
        "marca": "MAPED",
@@ -59,6 +64,7 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -68,6 +74,7 @@
       {
        "descricao": "1 tesourinha sem ponta",
        "qtd": 1,
+       "saldo": 0,
        "cod": 6281,
        "produto": "TESOURA S/P ACRILEX BORBOLETA",
        "marca": "ACRILEX",
@@ -77,6 +84,7 @@
       {
        "descricao": "1 régua rígida de 30 cm",
        "qtd": 1,
+       "saldo": 478,
        "cod": 2641,
        "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
        "marca": "MAXCRIL",
@@ -86,6 +94,7 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
+       "saldo": 36,
        "cod": 7591,
        "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
@@ -95,6 +104,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -104,6 +114,7 @@
       {
        "descricao": "1 pincel número 10",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -113,6 +124,7 @@
       {
        "descricao": "1 bolsinha para guardar os lápis",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8225,
        "produto": "ESTOJO DAC 1F-PRETO",
        "marca": "DAC",
@@ -122,6 +134,7 @@
       {
        "descricao": "1 cola líquida",
        "qtd": 1,
+       "saldo": 341,
        "cod": 822,
        "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
        "marca": "NEW MAGIC",
@@ -131,6 +144,7 @@
       {
        "descricao": "1 cola bastão",
        "qtd": 1,
+       "saldo": 199,
        "cod": 808,
        "produto": "COLA BASTAO 10GR-LEO E LEO",
        "marca": "LEO E LEO",
@@ -140,6 +154,7 @@
       {
        "descricao": "1 revistinha em quadrinhos",
        "qtd": 1,
+       "saldo": 92,
        "cod": 13546,
        "produto": "GIBI DISNEY DIVERSOS",
        "marca": "CULTURAMA",
@@ -149,6 +164,7 @@
       {
        "descricao": "1 estojo de pincel atômico com 6 cores",
        "qtd": 1,
+       "saldo": 150,
        "cod": 1582,
        "produto": "JOGO PINCEL COMPACTOR C/6",
        "marca": "COMPACTOR",
@@ -158,6 +174,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -167,6 +184,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -189,6 +207,7 @@
       {
        "descricao": "7 cadernos brochurão com pauta de 96 folhas",
        "qtd": 7,
+       "saldo": 0,
        "cod": 8885,
        "produto": "CADERNO CD 96F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -199,6 +218,7 @@
       {
        "descricao": "3 cadernos brochurão com pauta de 48 folhas",
        "qtd": 3,
+       "saldo": 0,
        "cod": 12408,
        "produto": "CADERNO CD 48F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -209,6 +229,7 @@
       {
        "descricao": "1 caderno de desenho para arte",
        "qtd": 1,
+       "saldo": 69,
        "cod": 12411,
        "produto": "CADERNO DESENHO CD 80F-(AZUL)",
        "marca": "CREDEAL",
@@ -218,6 +239,7 @@
       {
        "descricao": "1 caixa de lápis de cor com até 24 cores",
        "qtd": 1,
+       "saldo": 5,
        "cod": 1659,
        "produto": "LAPIS 24CORES-MAPED",
        "marca": "MAPED",
@@ -227,6 +249,7 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
+       "saldo": 3,
        "cod": 7860,
        "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
        "marca": "MAPED",
@@ -236,6 +259,7 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -245,6 +269,7 @@
       {
        "descricao": "1 tesourinha sem ponta",
        "qtd": 1,
+       "saldo": 0,
        "cod": 6281,
        "produto": "TESOURA S/P ACRILEX BORBOLETA",
        "marca": "ACRILEX",
@@ -254,6 +279,7 @@
       {
        "descricao": "1 régua rígida de 30 cm",
        "qtd": 1,
+       "saldo": 478,
        "cod": 2641,
        "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
        "marca": "MAXCRIL",
@@ -263,6 +289,7 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
+       "saldo": 36,
        "cod": 7591,
        "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
@@ -272,6 +299,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -281,6 +309,7 @@
       {
        "descricao": "1 pincel número 10",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -290,6 +319,7 @@
       {
        "descricao": "1 bolsinha para guardar os lápis",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8225,
        "produto": "ESTOJO DAC 1F-PRETO",
        "marca": "DAC",
@@ -299,6 +329,7 @@
       {
        "descricao": "1 cola bastão",
        "qtd": 1,
+       "saldo": 199,
        "cod": 808,
        "produto": "COLA BASTAO 10GR-LEO E LEO",
        "marca": "LEO E LEO",
@@ -308,6 +339,7 @@
       {
        "descricao": "1 tubo de cola 90 g",
        "qtd": 1,
+       "saldo": 341,
        "cod": 822,
        "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
        "marca": "NEW MAGIC",
@@ -317,6 +349,7 @@
       {
        "descricao": "1 revistinha em quadrinhos nova",
        "qtd": 1,
+       "saldo": 92,
        "cod": 13546,
        "produto": "GIBI DISNEY DIVERSOS",
        "marca": "CULTURAMA",
@@ -332,6 +365,7 @@
       {
        "descricao": "1 pasta fina com elástico",
        "qtd": 1,
+       "saldo": 25,
        "cod": 2184,
        "produto": "PASTA ABA ELAST.PAPEL-AZUL",
        "marca": "POLYCART",
@@ -341,6 +375,7 @@
       {
        "descricao": "1 estojo de pincel atômico com 6 cores",
        "qtd": 1,
+       "saldo": 150,
        "cod": 1582,
        "produto": "JOGO PINCEL COMPACTOR C/6",
        "marca": "COMPACTOR",
@@ -350,6 +385,7 @@
       {
        "descricao": "1 dicionário",
        "qtd": 1,
+       "saldo": 70,
        "cod": 1001,
        "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
        "marca": "SILVEIRA B",
@@ -359,6 +395,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -368,6 +405,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -390,6 +428,7 @@
       {
        "descricao": "8 cadernos brochurão com pauta de 96 folhas",
        "qtd": 8,
+       "saldo": 0,
        "cod": 8885,
        "produto": "CADERNO CD 96F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -400,6 +439,7 @@
       {
        "descricao": "4 cadernos brochurão com pauta de 48 folhas",
        "qtd": 4,
+       "saldo": 0,
        "cod": 12408,
        "produto": "CADERNO CD 48F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -410,6 +450,7 @@
       {
        "descricao": "1 caderno espiral de desenho grande (48 folhas)",
        "qtd": 1,
+       "saldo": 3,
        "cod": 10911,
        "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
        "marca": "CREDEAL",
@@ -419,6 +460,7 @@
       {
        "descricao": "1 caixa de lápis de cor com até 24 cores",
        "qtd": 1,
+       "saldo": 5,
        "cod": 1659,
        "produto": "LAPIS 24CORES-MAPED",
        "marca": "MAPED",
@@ -428,6 +470,7 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
+       "saldo": 3,
        "cod": 7860,
        "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
        "marca": "MAPED",
@@ -437,6 +480,7 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -446,6 +490,7 @@
       {
        "descricao": "1 tesourinha sem ponta",
        "qtd": 1,
+       "saldo": 0,
        "cod": 6281,
        "produto": "TESOURA S/P ACRILEX BORBOLETA",
        "marca": "ACRILEX",
@@ -455,6 +500,7 @@
       {
        "descricao": "1 régua rígida de 30 cm",
        "qtd": 1,
+       "saldo": 478,
        "cod": 2641,
        "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
        "marca": "MAXCRIL",
@@ -464,6 +510,7 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
+       "saldo": 36,
        "cod": 7591,
        "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
@@ -473,6 +520,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -482,6 +530,7 @@
       {
        "descricao": "1 pincel número 10",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -491,6 +540,7 @@
       {
        "descricao": "1 bolsinha para guardar os lápis",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8225,
        "produto": "ESTOJO DAC 1F-PRETO",
        "marca": "DAC",
@@ -500,6 +550,7 @@
       {
        "descricao": "1 tubo de cola de 90 g",
        "qtd": 1,
+       "saldo": 341,
        "cod": 822,
        "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
        "marca": "NEW MAGIC",
@@ -509,6 +560,7 @@
       {
        "descricao": "1 revistinha em quadrinhos nova",
        "qtd": 1,
+       "saldo": 92,
        "cod": 13546,
        "produto": "GIBI DISNEY DIVERSOS",
        "marca": "CULTURAMA",
@@ -518,6 +570,7 @@
       {
        "descricao": "1 pasta fina com elástico",
        "qtd": 1,
+       "saldo": 25,
        "cod": 2184,
        "produto": "PASTA ABA ELAST.PAPEL-AZUL",
        "marca": "POLYCART",
@@ -533,6 +586,7 @@
       {
        "descricao": "1 estojo de pincel atômico com 6 cores",
        "qtd": 1,
+       "saldo": 150,
        "cod": 1582,
        "produto": "JOGO PINCEL COMPACTOR C/6",
        "marca": "COMPACTOR",
@@ -542,6 +596,7 @@
       {
        "descricao": "1 dicionário",
        "qtd": 1,
+       "saldo": 70,
        "cod": 1001,
        "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
        "marca": "SILVEIRA B",
@@ -551,6 +606,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -560,6 +616,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -582,6 +639,7 @@
       {
        "descricao": "6 cadernos brochurão com pauta de 96 folhas",
        "qtd": 6,
+       "saldo": 0,
        "cod": 8885,
        "produto": "CADERNO CD 96F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -592,6 +650,7 @@
       {
        "descricao": "4 cadernos brochurão com pauta de 48 folhas",
        "qtd": 4,
+       "saldo": 0,
        "cod": 12408,
        "produto": "CADERNO CD 48F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -602,6 +661,7 @@
       {
        "descricao": "2 cadernos espiral de desenho grande (48 folhas)",
        "qtd": 2,
+       "saldo": 3,
        "cod": 10911,
        "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
        "marca": "CREDEAL",
@@ -611,6 +671,7 @@
       {
        "descricao": "1 caixa de lápis de cor com até 24 cores",
        "qtd": 1,
+       "saldo": 5,
        "cod": 1659,
        "produto": "LAPIS 24CORES-MAPED",
        "marca": "MAPED",
@@ -620,6 +681,7 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
+       "saldo": 3,
        "cod": 7860,
        "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
        "marca": "MAPED",
@@ -629,6 +691,7 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -638,6 +701,7 @@
       {
        "descricao": "1 tesourinha sem ponta",
        "qtd": 1,
+       "saldo": 0,
        "cod": 6281,
        "produto": "TESOURA S/P ACRILEX BORBOLETA",
        "marca": "ACRILEX",
@@ -647,6 +711,7 @@
       {
        "descricao": "1 régua rígida de 30 cm",
        "qtd": 1,
+       "saldo": 478,
        "cod": 2641,
        "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
        "marca": "MAXCRIL",
@@ -656,6 +721,7 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
+       "saldo": 36,
        "cod": 7591,
        "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
@@ -665,6 +731,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -674,6 +741,7 @@
       {
        "descricao": "1 pincel número 10",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -683,6 +751,7 @@
       {
        "descricao": "1 bolsinha para guardar os lápis",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8225,
        "produto": "ESTOJO DAC 1F-PRETO",
        "marca": "DAC",
@@ -692,6 +761,7 @@
       {
        "descricao": "1 tubo de cola de 90 g",
        "qtd": 1,
+       "saldo": 341,
        "cod": 822,
        "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
        "marca": "NEW MAGIC",
@@ -701,6 +771,7 @@
       {
        "descricao": "1 caneta marca-texto",
        "qtd": 1,
+       "saldo": 394,
        "cod": 6050,
        "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
        "marca": "MASTERPRIN",
@@ -710,6 +781,7 @@
       {
        "descricao": "1 dicionário",
        "qtd": 1,
+       "saldo": 70,
        "cod": 1001,
        "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
        "marca": "SILVEIRA B",
@@ -719,6 +791,7 @@
       {
        "descricao": "1 estojo de pincel atômico com 6 cores",
        "qtd": 1,
+       "saldo": 150,
        "cod": 1582,
        "produto": "JOGO PINCEL COMPACTOR C/6",
        "marca": "COMPACTOR",
@@ -728,6 +801,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -737,6 +811,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -759,6 +834,7 @@
       {
        "descricao": "7 cadernos brochurão com pauta de 96 folhas",
        "qtd": 7,
+       "saldo": 0,
        "cod": 8885,
        "produto": "CADERNO CD 96F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -769,6 +845,7 @@
       {
        "descricao": "4 cadernos brochurão com pauta de 48 folhas",
        "qtd": 4,
+       "saldo": 0,
        "cod": 12408,
        "produto": "CADERNO CD 48F CREDEAL (AZUL)",
        "marca": "CREDEAL",
@@ -779,6 +856,7 @@
       {
        "descricao": "2 cadernos espiral de desenho grande (48 folhas)",
        "qtd": 2,
+       "saldo": 3,
        "cod": 10911,
        "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
        "marca": "CREDEAL",
@@ -788,6 +866,7 @@
       {
        "descricao": "1 caixa de lápis de cor com até 24 cores",
        "qtd": 1,
+       "saldo": 5,
        "cod": 1659,
        "produto": "LAPIS 24CORES-MAPED",
        "marca": "MAPED",
@@ -797,6 +876,7 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
+       "saldo": 3,
        "cod": 7860,
        "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
        "marca": "MAPED",
@@ -806,6 +886,7 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -815,6 +896,7 @@
       {
        "descricao": "1 tesourinha sem ponta",
        "qtd": 1,
+       "saldo": 0,
        "cod": 6281,
        "produto": "TESOURA S/P ACRILEX BORBOLETA",
        "marca": "ACRILEX",
@@ -824,6 +906,7 @@
       {
        "descricao": "1 régua rígida de 30 cm",
        "qtd": 1,
+       "saldo": 478,
        "cod": 2641,
        "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
        "marca": "MAXCRIL",
@@ -833,6 +916,7 @@
       {
        "descricao": "1 apontador com depósito de boa qualidade",
        "qtd": 1,
+       "saldo": 36,
        "cod": 7591,
        "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
@@ -842,6 +926,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -851,6 +936,7 @@
       {
        "descricao": "1 pincel número 10",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -860,6 +946,7 @@
       {
        "descricao": "1 bolsinha para guardar os lápis",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8225,
        "produto": "ESTOJO DAC 1F-PRETO",
        "marca": "DAC",
@@ -869,6 +956,7 @@
       {
        "descricao": "1 estojo de pincel atômico com 6 cores",
        "qtd": 1,
+       "saldo": 150,
        "cod": 1582,
        "produto": "JOGO PINCEL COMPACTOR C/6",
        "marca": "COMPACTOR",
@@ -878,6 +966,7 @@
       {
        "descricao": "1 tubo de cola de 90 g",
        "qtd": 1,
+       "saldo": 341,
        "cod": 822,
        "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
        "marca": "NEW MAGIC",
@@ -887,6 +976,7 @@
       {
        "descricao": "1 caneta marca-texto",
        "qtd": 1,
+       "saldo": 394,
        "cod": 6050,
        "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
        "marca": "MASTERPRIN",
@@ -896,6 +986,7 @@
       {
        "descricao": "1 dicionário",
        "qtd": 1,
+       "saldo": 70,
        "cod": 1001,
        "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
        "marca": "SILVEIRA B",
@@ -905,6 +996,7 @@
       {
        "descricao": "1 compasso",
        "qtd": 1,
+       "saldo": 0,
        "cod": 4725,
        "produto": "COMPASSO LEO E LEO METALICO",
        "marca": "LEO E LEO",
@@ -914,6 +1006,7 @@
       {
        "descricao": "1 transferidor",
        "qtd": 1,
+       "saldo": 77,
        "cod": 3087,
        "produto": "TRANSFERIDOR 180º-MAXCRIL",
        "marca": "MAXCRIL",
@@ -923,6 +1016,7 @@
       {
        "descricao": "1 esquadro",
        "qtd": 1,
+       "saldo": 63,
        "cod": 1136,
        "produto": "ESQUADRO 21X45-MAXCRIL",
        "marca": "MAXCRIL",
@@ -932,6 +1026,7 @@
       {
        "descricao": "1 calculadora",
        "qtd": 1,
+       "saldo": 44,
        "cod": 14284,
        "produto": "CALCULADORA (M) CCD-9814",
        "marca": "DOTAD",
@@ -941,6 +1036,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -950,6 +1046,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -972,6 +1069,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -981,6 +1079,7 @@
       {
        "descricao": "2 caixas de massinha à base de amido",
        "qtd": 2,
+       "saldo": 145,
        "cod": 1877,
        "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
        "marca": "ACRILEX",
@@ -991,6 +1090,7 @@
       {
        "descricao": "1 pincel nº 12",
        "qtd": 1,
+       "saldo": 186,
        "cod": 10997,
        "produto": "PINCEL CHATO 12",
        "preco": 4.9,
@@ -999,6 +1099,7 @@
       {
        "descricao": "1 livrinho educativo (páginas reforçadas)",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8852,
        "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
        "marca": "BICHO ESPE",
@@ -1008,6 +1109,7 @@
       {
        "descricao": "1 jogo de encaixar ou empilhar",
        "qtd": 1,
+       "saldo": 15,
        "cod": 6043,
        "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
        "marca": "GGB PLAST",
@@ -1023,6 +1125,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -1032,6 +1135,7 @@
       {
        "descricao": "Avental para pintura",
        "qtd": 1,
+       "saldo": 2,
        "cod": 10726,
        "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
        "marca": "DAC",
@@ -1048,6 +1152,7 @@
       {
        "descricao": "1 embalagem plástica para guardar a roupa de cama",
        "qtd": 1,
+       "saldo": 0,
        "cod": 14614,
        "produto": "SACO PLASTICO TRANSP. GRANDE (CEME)",
        "preco": 2.0,
@@ -1056,6 +1161,7 @@
       {
        "descricao": "Cola colorida (6 cores)",
        "qtd": 1,
+       "saldo": 11,
        "cod": 3322,
        "produto": "COLA COLORIDA C/6 ACRILEX",
        "marca": "ACRILEX",
@@ -1077,6 +1183,7 @@
       {
        "descricao": "1 pote de tinta de 250 ml",
        "qtd": 1,
+       "saldo": 0,
        "cod": 5764,
        "produto": "GUACHE 250ML ACRILEX-AZUL",
        "marca": "ACRILEX",
@@ -1087,6 +1194,7 @@
       {
        "descricao": "2 caixas de massinha à base de amido",
        "qtd": 2,
+       "saldo": 145,
        "cod": 1877,
        "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
        "marca": "ACRILEX",
@@ -1097,6 +1205,7 @@
       {
        "descricao": "1 pincel pequeno nº 12 (redondo)",
        "qtd": 1,
+       "saldo": 186,
        "cod": 10997,
        "produto": "PINCEL CHATO 12",
        "preco": 4.9,
@@ -1105,6 +1214,7 @@
       {
        "descricao": "1 lápis de escrever jumbo triangular",
        "qtd": 1,
+       "saldo": 89,
        "cod": 1684,
        "produto": "LAPIS ESCREVER FABER JUMBO",
        "marca": "FABER",
@@ -1114,6 +1224,7 @@
       {
        "descricao": "1 livrinho educativo (páginas reforçadas)",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8852,
        "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
        "marca": "BICHO ESPE",
@@ -1123,6 +1234,7 @@
       {
        "descricao": "1 jogo de encaixar ou empilhar",
        "qtd": 1,
+       "saldo": 15,
        "cod": 6043,
        "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
        "marca": "GGB PLAST",
@@ -1132,6 +1244,7 @@
       {
        "descricao": "1 garrafa de água para a lancheira",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -1141,6 +1254,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -1169,6 +1283,7 @@
       {
        "descricao": "1 livrinho educativo (páginas reforçadas)",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8852,
        "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
        "marca": "BICHO ESPE",
@@ -1178,6 +1293,7 @@
       {
        "descricao": "1 pasta de arquivo sem elástico",
        "qtd": 1,
+       "saldo": 190,
        "cod": 2223,
        "produto": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
        "preco": 4.9,
@@ -1186,6 +1302,7 @@
       {
        "descricao": "1 pasta com alça",
        "qtd": 1,
+       "saldo": 49,
        "cod": 1805,
        "produto": "MALETA ESCOLAR 4CM-AZUL",
        "marca": "POLIBRAS",
@@ -1195,6 +1312,7 @@
       {
        "descricao": "2 caixas de massinha para modelagem com 15 cores à base de amido",
        "qtd": 2,
+       "saldo": 145,
        "cod": 1877,
        "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
        "marca": "ACRILEX",
@@ -1205,6 +1323,7 @@
       {
        "descricao": "1 pincel número 10 (redondo)",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -1214,6 +1333,7 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular Faber-Castell",
        "qtd": 1,
+       "saldo": 0,
        "cod": 5227,
        "produto": "LAPIS 12CORES-FABER+1 APONTADOR (JUMBO)",
        "marca": "FABER",
@@ -1223,6 +1343,7 @@
       {
        "descricao": "1 lápis preto de escrever jumbo triangular",
        "qtd": 1,
+       "saldo": 116,
        "cod": 7862,
        "produto": "LAPIS ESCREVER MAPED JUMBO",
        "marca": "MAPED",
@@ -1232,6 +1353,7 @@
       {
        "descricao": "1 jogo pedagógico",
        "qtd": 1,
+       "saldo": 15,
        "cod": 6043,
        "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
        "marca": "GGB PLAST",
@@ -1241,6 +1363,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -1250,6 +1373,7 @@
       {
        "descricao": "1 caixa de giz de cera",
        "qtd": 1,
+       "saldo": 48,
        "cod": 1472,
        "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
        "marca": "ACRILEX",
@@ -1259,6 +1383,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -1268,6 +1393,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -1289,6 +1415,7 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular (1º semestre)",
        "qtd": 1,
+       "saldo": 0,
        "cod": 5227,
        "produto": "LAPIS 12CORES-FABER+1 APONTADOR (JUMBO)",
        "marca": "FABER",
@@ -1298,6 +1425,7 @@
       {
        "descricao": "1 lápis preto jumbo triangular",
        "qtd": 1,
+       "saldo": 116,
        "cod": 7862,
        "produto": "LAPIS ESCREVER MAPED JUMBO",
        "marca": "MAPED",
@@ -1307,6 +1435,7 @@
       {
        "descricao": "1 lápis preto comum (2º semestre)",
        "qtd": 1,
+       "saldo": 3,
        "cod": 7860,
        "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
        "marca": "MAPED",
@@ -1316,6 +1445,7 @@
       {
        "descricao": "1 borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -1325,6 +1455,7 @@
       {
        "descricao": "1 apontador com depósito",
        "qtd": 1,
+       "saldo": 36,
        "cod": 7591,
        "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "marca": "LEO E LEO",
@@ -1334,6 +1465,7 @@
       {
        "descricao": "1 caixa de lápis de cor comum 24 cores (2º semestre)",
        "qtd": 1,
+       "saldo": 5,
        "cod": 1659,
        "produto": "LAPIS 24CORES-MAPED",
        "marca": "MAPED",
@@ -1343,6 +1475,7 @@
       {
        "descricao": "1 caixa de tinta guache 12 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3017,
        "produto": "GUACHE 15ML C/12-ACRILEX",
        "marca": "ACRILEX",
@@ -1352,6 +1485,7 @@
       {
        "descricao": "1 pincel número 10 (redondo)",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -1361,6 +1495,7 @@
       {
        "descricao": "1 bolsinha para guardar os lápis",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8225,
        "produto": "ESTOJO DAC 1F-PRETO",
        "marca": "DAC",
@@ -1370,6 +1505,7 @@
       {
        "descricao": "1 pasta com alça",
        "qtd": 1,
+       "saldo": 49,
        "cod": 1805,
        "produto": "MALETA ESCOLAR 4CM-AZUL",
        "marca": "POLIBRAS",
@@ -1379,6 +1515,7 @@
       {
        "descricao": "1 pasta plástico de arquivo",
        "qtd": 1,
+       "saldo": 190,
        "cod": 2223,
        "produto": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
        "preco": 4.9,
@@ -1387,6 +1524,7 @@
       {
        "descricao": "1 tesourinha sem ponta de boa qualidade",
        "qtd": 1,
+       "saldo": 0,
        "cod": 6281,
        "produto": "TESOURA S/P ACRILEX BORBOLETA",
        "marca": "ACRILEX",
@@ -1396,6 +1534,7 @@
       {
        "descricao": "1 livrinho de literatura em caixa alta",
        "qtd": 1,
+       "saldo": 0,
        "cod": 8852,
        "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
        "marca": "BICHO ESPE",
@@ -1405,6 +1544,7 @@
       {
        "descricao": "1 caixa de massinha para modelagem 15 cores à base de amido",
        "qtd": 1,
+       "saldo": 145,
        "cod": 1877,
        "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
        "marca": "ACRILEX",
@@ -1415,6 +1555,7 @@
       {
        "descricao": "1 jogo pedagógico",
        "qtd": 1,
+       "saldo": 15,
        "cod": 6043,
        "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
        "marca": "GGB PLAST",
@@ -1424,6 +1565,7 @@
       {
        "descricao": "1 garrafinha para água",
        "qtd": 1,
+       "saldo": 9,
        "cod": 10798,
        "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
        "marca": "MASTERUTIL",
@@ -1433,6 +1575,7 @@
       {
        "descricao": "1 toalha de mão",
        "qtd": 1,
+       "saldo": 45,
        "cod": 8382,
        "produto": "TOALHINHA ESCOLAR",
        "marca": "CLAMATEX",
@@ -1460,6 +1603,7 @@
       {
        "descricao": "2 pincéis de ponta grossa para quadro branco recarregável",
        "qtd": 2,
+       "saldo": 218,
        "cod": 7731,
        "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
        "marca": "MASTERPRIN",
@@ -1469,6 +1613,7 @@
       {
        "descricao": "2 pacotes de folha A4 (1000 folhas brancas)",
        "qtd": 2,
+       "saldo": 780,
        "cod": 2014,
        "produto": "PAPEL A4 C/500 PAPEX",
        "marca": "PAPEX",
@@ -1479,6 +1624,7 @@
       {
        "descricao": "1 pincel de líquido azul, preto ou vermelho",
        "qtd": 1,
+       "saldo": 416,
        "cod": 7579,
        "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
        "marca": "JOCAR",
@@ -1489,6 +1635,7 @@
       {
        "descricao": "Cadernos para as matérias (6º ano: um para cada matéria)",
        "qtd": 7,
+       "saldo": 4,
        "cod": 9324,
        "produto": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
        "marca": "CREDEAL",
@@ -1499,6 +1646,7 @@
       {
        "descricao": "1 pasta preta com 100 folhas de plástico",
        "qtd": 1,
+       "saldo": 260,
        "cod": 6196,
        "produto": "PASTA CATALOGO PRETA C/100",
        "preco": 37.9,
@@ -1507,6 +1655,7 @@
       {
        "descricao": "1 caixa de lápis de cor com no mínimo 12 cores",
        "qtd": 1,
+       "saldo": 103,
        "cod": 11529,
        "produto": "LAPIS 12CORES-MAPED STAR",
        "marca": "MAPED",
@@ -1516,6 +1665,7 @@
       {
        "descricao": "Régua transparente de 30 cm",
        "qtd": 1,
+       "saldo": 478,
        "cod": 2641,
        "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
        "marca": "MAXCRIL",
@@ -1525,6 +1675,7 @@
       {
        "descricao": "Compasso",
        "qtd": 1,
+       "saldo": 0,
        "cod": 4725,
        "produto": "COMPASSO LEO E LEO METALICO",
        "marca": "LEO E LEO",
@@ -1534,6 +1685,7 @@
       {
        "descricao": "Lapiseira 0.7 mm",
        "qtd": 1,
+       "saldo": 70,
        "cod": 14372,
        "produto": "LAPISEIRA 0.7-COMPACTOR LOOP CORES",
        "marca": "COMPACTOR",
@@ -1543,6 +1695,7 @@
       {
        "descricao": "Esquadro de 45°",
        "qtd": 1,
+       "saldo": 63,
        "cod": 1136,
        "produto": "ESQUADRO 21X45-MAXCRIL",
        "marca": "MAXCRIL",
@@ -1552,6 +1705,7 @@
       {
        "descricao": "Esquadro de 30° e 60°",
        "qtd": 1,
+       "saldo": 63,
        "cod": 1137,
        "produto": "ESQUADRO 21X60-MAXCRIL",
        "marca": "MAXCRIL",
@@ -1561,6 +1715,7 @@
       {
        "descricao": "Borracha",
        "qtd": 1,
+       "saldo": 2009,
        "cod": 276,
        "produto": "BORRACHA MERCUR 20",
        "marca": "MERCUR",
@@ -1570,6 +1725,7 @@
       {
        "descricao": "Transferidor de 180° transparente",
        "qtd": 1,
+       "saldo": 77,
        "cod": 3087,
        "produto": "TRANSFERIDOR 180º-MAXCRIL",
        "marca": "MAXCRIL",
@@ -1579,6 +1735,7 @@
       {
        "descricao": "Dicionário com nova ortografia",
        "qtd": 1,
+       "saldo": 70,
        "cod": 1001,
        "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
        "marca": "SILVEIRA B",
@@ -1588,6 +1745,7 @@
       {
        "descricao": "1 tela 20x30",
        "qtd": 1,
+       "saldo": 197,
        "cod": 2954,
        "produto": "TELA PINTURA 20X30",
        "preco": 12.9,
@@ -1597,6 +1755,7 @@
       {
        "descricao": "1 estojo de tinta guache com 6 cores",
        "qtd": 1,
+       "saldo": 0,
        "cod": 3018,
        "produto": "GUACHE 15ML C/6-ACRILEX",
        "marca": "ACRILEX",
@@ -1607,6 +1766,7 @@
       {
        "descricao": "1 pincel para pintura",
        "qtd": 1,
+       "saldo": 183,
        "cod": 6378,
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
@@ -1627,5 +1787,5 @@
    ]
   }
  ],
- "atualizado": "09/11/2026 11:38"
+ "atualizado": "09/11/2026 17:52"
 }
