@@ -799,6 +799,8 @@
     /* Regras do Site por cima da loja, so' no modo de teste (09/11/2026) */
     nav a.nav-regras { color: var(--vermelho); font-weight: 700; }
     nav a[hidden] { display: none; }
+    .em-breve { display: inline-block; background: #fff4d6; color: #8a6100; font: 700 .68rem 'Montserrat', sans-serif; letter-spacing: .04em;
+      text-transform: uppercase; padding: .12rem .45rem; border-radius: 20px; vertical-align: middle; margin-left: .25rem; }
     #regras-fundo { position: fixed; inset: 0; z-index: 3000; background: rgba(16, 24, 40, .55); display: flex;
       padding: max(12px, env(safe-area-inset-top, 0px)) max(12px, env(safe-area-inset-right, 0px)) max(12px, env(safe-area-inset-bottom, 0px)) max(12px, env(safe-area-inset-left, 0px)); }
     #regras-fundo[hidden] { display: none; }
@@ -840,6 +842,8 @@
       font: 700 .85rem 'Montserrat', sans-serif; cursor: pointer; }
     .hl-dentro iframe { display: block; width: 100%; height: 80vh; min-height: 520px; border: 0; background: #fff; }
     .hl-escola.ativa { outline: 3px solid #ffd77a; }
+    .hl-escola.breve { cursor: default; }
+    .hl-escola.breve .ir { background: #fff4d6; color: #8a6100; }
     @media (max-width: 860px) {
       .home-listas { padding: 1.5rem 1rem 1.7rem; }
       .hl-grade { grid-template-columns: minmax(0, 1fr); gap: 1.2rem; }
@@ -860,7 +864,7 @@
       <a href="#sobre">Sobre</a>
       <a href="#contato">Contato</a>
       <!-- Regras do Site: so' no modo de teste (?previa=toledo2027), abre por cima da pagina (Adriana, 09/11/2026) -->
-      <a href="listas.html?previa=toledo2027" id="nav-listas" hidden>Listas Escolares 2027</a>
+      <a href="#home-listas" id="nav-listas">Listas Escolares 2027 <span class="em-breve">Em breve</span></a>
       <a href="#regras" id="nav-regras" class="nav-regras" hidden>Regras</a>
     </nav>
   </header>
@@ -1123,7 +1127,7 @@
     const WHATS = '5531985113106';
     /* A LOJA TEM DE ESTAR DECIDIDA ANTES DO PRIMEIRO CARD (09/11/2026): os 'Mais vendidos' sao desenhados
        logo na abertura; com esta decisao la' embaixo, o link de teste abria sem o botao Adicionar. */
-    var COMPRA_LIBERADA = false;  // desligado 09/11/2026 a pedido dela ("retirar urgente o carrinho do site"); liberado antes em 04/11/2026
+    var COMPRA_LIBERADA = true;   // LIBERADO a todos em 09/11/2026: "quero que libere o carrinho de vendas aos clientes" (desligado 09/11 de manha, liberado antes em 04/11)
     // NA PREVIA LOCAL A LOJA APARECE; NO AR, NAO. A Adriana testa a compra
     // inteira aqui na maquina e nenhum cliente consegue comprar antes de ela
     // liberar: no endereco publicado so' COMPRA_LIBERADA liga a loja.
@@ -1131,10 +1135,17 @@
     /* LINK DE TESTE NO AR (Adriana, 09/11/2026: "link do meu acesso site que consta o carrinho pra eu testar"):
        com ?previa=toledo2027 o carrinho aparece so' para quem abriu esse link; fica lembrado na aba. */
     var PREVIA_LINK = false;
+    /* APARELHO DA EQUIPE (09/11/2026: "acesso unico pra mim e todos ... as regras e ruptura somente eu possa ver").
+       O endereco e' o mesmo para todos. Regras e Listas completas aparecem so' no aparelho que ja' abriu uma vez o
+       link ?previa=toledo2027 (marca guardada no navegador, a mesma das Listas); as Regras ainda pedem a senha. */
+    var EQUIPE = false;
     try {
-      if (/[?&]previa=toledo2027(&|$)/.test(location.search)) sessionStorage.setItem('toledo_previa_carrinho', '1');
+      if (/[?&]previa=toledo2027(&|$)/.test(location.search)) {
+        sessionStorage.setItem('toledo_previa_carrinho', '1'); localStorage.setItem('toledo_listas_previa', '1');
+      }
       PREVIA_LINK = sessionStorage.getItem('toledo_previa_carrinho') === '1';
-    } catch (e) { PREVIA_LINK = /[?&]previa=toledo2027(&|$)/.test(location.search); }
+      EQUIPE = PREVIA_LINK || localStorage.getItem('toledo_listas_previa') === '1' || !!localStorage.getItem('toledo_regras');
+    } catch (e) { PREVIA_LINK = EQUIPE = /[?&]previa=toledo2027(&|$)/.test(location.search); }
     var LOJA_ATIVA = COMPRA_LIBERADA || PREVIA_LOCAL || PREVIA_LINK;
 
     // R$ 1.234,56
@@ -2393,11 +2404,10 @@
   </div>
   <script>
     (function () {
-      var ver = (typeof PREVIA_LINK !== 'undefined' && PREVIA_LINK) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
+      var ver = (typeof EQUIPE !== 'undefined' && EQUIPE) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
       var a = document.getElementById('nav-regras'), f = document.getElementById('regras-fundo'), q = document.getElementById('regras-quadro');
       if (!ver || !a) return;
       a.hidden = false;
-      var li = document.getElementById('nav-listas'); if (li) li.hidden = false;
       var abrir = function (ev) { if (ev) ev.preventDefault(); if (!q.src) q.src = 'regras.html'; f.hidden = false; };
       var fechar = function () { f.hidden = true; if (location.hash === '#regras') history.replaceState(null, '', location.pathname + location.search); };
       a.addEventListener('click', abrir);
@@ -2412,18 +2422,32 @@
        (os clientes continuam vendo os Destaques); liberar = true aqui e LIBERADA = true no listas.html. */
     var LISTAS_NA_HOME = false;
     (function () {
-      var teste = (typeof PREVIA_LINK !== 'undefined' && PREVIA_LINK) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
-      if (!LISTAS_NA_HOME && !teste) return;
+      var teste = (typeof EQUIPE !== 'undefined' && EQUIPE) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
+      /* EM BREVE (09/11/2026): a faixa aparece para todos; enquanto LISTAS_NA_HOME = false, o cliente ve as escolas
+         com "Em breve" e nada abre. No aparelho da equipe, abre normalmente para montar e conferir. */
+      var emBreve = !LISTAS_NA_HOME && !teste;
       var sec = document.getElementById('home-listas'), dest = document.getElementById('destaques');
       var base = 'listas.html' + (LISTAS_NA_HOME ? '?' : '?previa=toledo2027&');
       var esc = function (t) { return String(t == null ? '' : t).replace(/&/g, '&amp;').replace(/</g, '&lt;'); };
       document.getElementById('hl-cta').href = base.replace(/[?&]$/, '');
+      if (emBreve) {
+        document.querySelector('#home-listas .hl-selo').textContent = 'Em breve · Volta às aulas 2027';
+        document.querySelector('#home-listas .hl-texto p').textContent = 'Em breve as listas das escolas com os produtos, as marcas e o preço de hoje. Enquanto isso, mande a lista pelo WhatsApp que a gente orça para você.';
+        var cta = document.getElementById('hl-cta');
+        cta.textContent = 'Enviar a lista pelo WhatsApp';
+        cta.href = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent('Olá! Quero um orçamento da lista escolar 2027.');
+        cta.target = '_blank'; cta.rel = 'noopener';
+      }
       sec.hidden = false;
       if (dest) dest.hidden = true;
       fetch('listas_escolares.json?v=' + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
         var es = (d && d.escolas) || [];
         document.getElementById('hl-escolas').innerHTML = es.map(function (e) {
           var n = (e.listas || []).length;
+          if (emBreve) {
+            return '<div class="hl-escola breve"><span><b>' + esc(e.nome) + '</b><small>' + n + (n === 1 ? ' lista' : ' listas')
+              + ' de material</small></span><span class="ir">Em breve</span></div>';
+          }
           return '<a class="hl-escola" data-escola="' + esc(e.id) + '" data-nome="' + esc(e.nome) + '" href="' + base + 'escola=' + encodeURIComponent(e.id) + '"><span><b>' + esc(e.nome) + '</b><small>'
             + n + (n === 1 ? ' lista' : ' listas') + ' de material</small></span><span class="ir">Ver listas</span></a>';
         }).join('');
@@ -2443,7 +2467,7 @@
           a.addEventListener('click', function (ev) { ev.preventDefault(); abrir(a.href, a.dataset.nome, a); });
         });
       }
-      document.getElementById('hl-cta').addEventListener('click', function (ev) { ev.preventDefault(); abrir(this.href, 'Listas Escolares 2027', null); });
+      if (!emBreve) document.getElementById('hl-cta').addEventListener('click', function (ev) { ev.preventDefault(); abrir(this.href, 'Listas Escolares 2027', null); });
       document.getElementById('hl-fechar').addEventListener('click', function () {
         dentro.hidden = true; quadro.src = 'about:blank';
         [].forEach.call(document.querySelectorAll('.hl-escola'), function (a) { a.classList.remove('ativa'); });
