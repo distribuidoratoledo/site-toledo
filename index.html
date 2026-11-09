@@ -1291,6 +1291,11 @@
        gratis. Prazo em aberto, como o da entrega normal (exemplo dela:
        normal ate' 4 horas, urgente ate' 2 horas). */
     var URGENTE_VALOR = 20;
+    /* ENTREGA RAPIDA RETIRADA em 09/11/2026: "tempo de entrega rapida: retirar, quero apenas que
+       informe que a entrega de material escolar e' realizada no mesmo dia" (Adriana). Com false a opcao
+       nem aparece e o carrinho mostra so' o aviso do mesmo dia. */
+    var ENTREGA_RAPIDA_ATIVA = false;
+    var AVISO_ENTREGA = 'A entrega de material escolar é realizada no mesmo dia.';
     /* ENTREGA RAPIDA: SO' PIX, na chave da empresa 3 (Adriana, 17/09/2026).
        A chave fica aqui para trocar num lugar so'. */
     var URGENTE_SO_PIX = true;
@@ -1342,7 +1347,10 @@
       el.title = 'Horário de Brasília — é por ele que valem os prazos do site';
       if (!document.getElementById('car-fundo').hidden) { pintarPainel(true); }
     }
-    var CHAVE_PIX = '47.519.850/0001-64';
+    /* CHAVE PIX RETIRADA DO SITE em 09/11/2026: o cliente pagou antes de o pedido ser conferido.
+       A chave so' volta a aparecer quando o pedido estiver no Sankhya com a conferencia concluida
+       (AD_CODUSUCONF preenchido, como na Fila de Conferencia) -- ainda nao ligado. */
+    var CHAVE_PIX = '';
     var CHAVE_PIX_TITULAR = 'Distribuidora Simões e Santos Ltda';
     /* VENDEDORA DO PEDIDO -- pelo HORARIO, nao por contador.
        "Pode fazer a opcao 2" (Adriana, 17/09/2026): o nome tem de sair no
@@ -1541,7 +1549,7 @@
       return { valor: null, texto: 'A combinar no WhatsApp' };
     }
 
-    function urgente() { return DADOS.entrega === 'entrega' && DADOS.urgente === 'S' && janelaRapida().aberta; }
+    function urgente() { return ENTREGA_RAPIDA_ATIVA && DADOS.entrega === 'entrega' && DADOS.urgente === 'S' && janelaRapida().aberta; }
 
     /* A janela e o relogio da entrega rapida: se esta' aberta, ate' que horas
        o pedido chega, e quanto tempo falta para fechar. */
@@ -1866,7 +1874,9 @@
         + '<h4>Como receber</h4>'
         + '<div class="opc">' + opcao('entrega', 'retirar', 'Retirar na loja') + opcao('entrega', 'entrega', 'Entrega no endere\u00e7o acima') + '</div>'
         + (DADOS.entrega === 'retirar' ? '<p class="car-nota">Rua S\u00e3o Paulo, 67 - Boa Vista, Sete Lagoas/MG</p>' : '')
-        + (DADOS.entrega === 'entrega'
+        + (DADOS.entrega === 'entrega' && !ENTREGA_RAPIDA_ATIVA
+            ? '<p class="car-nota">📚 ' + AVISO_ENTREGA + '</p>'
+            : DADOS.entrega === 'entrega'
             ? (janelaRapida().aberta
                 ? '<label class="car-urgente"><input type="checkbox" ' + (DADOS.urgente === 'S' ? 'checked ' : '')
                   + 'onchange="DADOS.urgente = this.checked ? \'S\' : \'\'; salvarDados(); pintarPainel(true)">'
