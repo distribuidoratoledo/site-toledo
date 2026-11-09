@@ -1591,8 +1591,8 @@
        "cod": 2954,
        "produto": "TELA PINTURA 20X30",
        "preco": 12.9,
-       "obs": "Só para o 6º e o 7º ano.",
-       "foto": "listas/fotos/2954.jpg"
+       "foto": "listas/fotos/2954.jpg",
+       "parte": "Só 6º e 7º ano"
       },
       {
        "descricao": "1 estojo de tinta guache com 6 cores",
@@ -1601,8 +1601,8 @@
        "produto": "GUACHE 15ML C/6-ACRILEX",
        "marca": "ACRILEX",
        "preco": 7.9,
-       "obs": "Só para o 6º e o 7º ano.",
-       "foto": "listas/fotos/3018.jpg"
+       "foto": "listas/fotos/3018.jpg",
+       "parte": "Só 6º e 7º ano"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -1611,8 +1611,8 @@
        "produto": "PINCEL CHATO 10",
        "marca": "TIGRE",
        "preco": 4.5,
-       "obs": "Só para o 6º e o 7º ano.",
-       "foto": "listas/fotos/6378.jpg"
+       "foto": "listas/fotos/6378.jpg",
+       "parte": "Só 6º e 7º ano"
       }
      ],
      "observacoes": [
@@ -1627,5 +1627,5 @@
    ]
   }
  ],
- "atualizado": "06/11/2026 08:00"
+ "atualizado": "09/11/2026 11:38"
 }
