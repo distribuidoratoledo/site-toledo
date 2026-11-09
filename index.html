@@ -806,6 +806,45 @@
     #regras-fundo .topo { display: flex; justify-content: space-between; align-items: center; padding: 10px 14px; background: #1a2f52; color: #fff; font-weight: 700; }
     #regras-fundo .topo button { background: transparent; border: 1px solid rgba(255,255,255,.5); color: #fff; border-radius: 6px; padding: 5px 12px; font: inherit; cursor: pointer; }
     #regras-fundo iframe { flex: 1; width: 100%; border: 0; background: #f3f5f9; }
+
+    /* ===== LISTAS ESCOLARES NA TELA PRINCIPAL (Adriana, 09/11/2026: "traga as listas escolares para a tela
+       principal, no lugar das imagens que ficam passando... vai ser o nosso principal chamariz de vendas") ===== */
+    .home-listas { background: linear-gradient(135deg, #1a2f52 0%, #27477a 100%); color: #fff; padding: 2rem 2.5rem 2.2rem;
+      box-shadow: inset 0 -3px 0 rgba(0,0,0,0.12); }
+    .home-listas[hidden] { display: none; }
+    .hl-grade { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 2rem; align-items: center; }
+    .hl-selo { display: inline-block; background: var(--vermelho); color: #fff; font: 800 .74rem 'Montserrat', sans-serif;
+      letter-spacing: .08em; text-transform: uppercase; padding: .3rem .7rem; border-radius: 4px; }
+    .hl-texto h2 { color: #fff; font: 800 2.2rem/1.1 'Montserrat', sans-serif; margin: .7rem 0 .6rem; text-align: left; text-wrap: balance; }
+    .hl-texto p { color: #dbe4f1; font-size: 1.05rem; margin: 0 0 1.1rem; max-width: 34rem; }
+    .hl-vant { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.3rem; }
+    .hl-vant span { background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.22); border-radius: 30px;
+      padding: .35rem .8rem; font-size: .9rem; font-weight: 600; }
+    .hl-cta { display: inline-block; background: var(--vermelho); color: #fff; text-decoration: none; font: 700 1rem 'Montserrat', sans-serif;
+      padding: .8rem 1.4rem; border-radius: 8px; box-shadow: 0 4px 14px rgba(224,30,60,.35); }
+    .hl-cta:hover { background: #b8142e; }
+    .hl-escolas { display: grid; gap: .8rem; }
+    .hl-escola { display: flex; align-items: center; justify-content: space-between; gap: 1rem; background: #fff; color: var(--azul);
+      border-radius: 10px; padding: 1rem 1.1rem; text-decoration: none; border-left: 5px solid var(--vermelho); }
+    .hl-escola:hover { box-shadow: 0 6px 18px rgba(0,0,0,.18); }
+    .hl-escola b { display: block; font: 800 1.05rem 'Montserrat', sans-serif; }
+    .hl-escola small { color: #5f6b7d; font-size: .88rem; }
+    .hl-escola .ir { flex: none; background: var(--azul); color: #fff; font: 700 .85rem 'Montserrat', sans-serif; padding: .45rem .8rem; border-radius: 6px; }
+    /* a lista abre DENTRO do card (Adriana, 09/11/2026: "ao clicar voce direciona o acesso pra dentro do card
+       pra nao precisar mexer no restante da tela") */
+    .hl-dentro { max-width: 1200px; margin: 1.2rem auto 0; background: #fff; border-radius: 12px; overflow: hidden; }
+    .hl-dentro[hidden] { display: none; }
+    .hl-dentro .barra { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: .6rem 1rem;
+      background: #f3f5f9; color: var(--azul); font: 700 .95rem 'Montserrat', sans-serif; }
+    .hl-dentro .barra button { background: var(--azul); color: #fff; border: 0; border-radius: 6px; padding: .45rem .9rem;
+      font: 700 .85rem 'Montserrat', sans-serif; cursor: pointer; }
+    .hl-dentro iframe { display: block; width: 100%; height: 80vh; min-height: 520px; border: 0; background: #fff; }
+    .hl-escola.ativa { outline: 3px solid #ffd77a; }
+    @media (max-width: 860px) {
+      .home-listas { padding: 1.5rem 1rem 1.7rem; }
+      .hl-grade { grid-template-columns: minmax(0, 1fr); gap: 1.2rem; }
+      .hl-texto h2 { font-size: 1.7rem; }
+    }
   </style>
 </head>
 <body>
@@ -848,6 +887,27 @@
 
   <!-- ===== Faixa de DESTAQUES — largura total, de ponta a ponta ===== -->
   <div id="inicio">
+    <!-- Listas Escolares no lugar dos Destaques: aparece no modo de teste e, para todos, quando LISTAS_NA_HOME = true -->
+    <section class="home-listas" id="home-listas" hidden>
+      <div class="hl-grade">
+        <div class="hl-texto">
+          <span class="hl-selo">Volta às aulas 2027</span>
+          <h2>Listas Escolares 2027</h2>
+          <p>Escolha a escola e o ano: a lista aparece com os produtos, as marcas e o preço de hoje.</p>
+          <div class="hl-vant">
+            <span>10% de desconto no PIX, dinheiro ou débito</span>
+            <span>Cartão em até 10x</span>
+            <span>Entrega em casa sem taxa</span>
+          </div>
+          <a class="hl-cta" id="hl-cta" href="listas.html">Ver as listas</a>
+        </div>
+        <div class="hl-escolas" id="hl-escolas"></div>
+      </div>
+      <div class="hl-dentro" id="hl-dentro" hidden>
+        <div class="barra"><span id="hl-titulo">Listas Escolares 2027</span><button type="button" id="hl-fechar">Fechar lista</button></div>
+        <iframe id="hl-quadro" title="Listas Escolares 2027"></iframe>
+      </div>
+    </section>
     <div class="faixa-destaques" id="destaques">
       <div class="faixa-topo">
         <h2>Destaques</h2>
@@ -2345,6 +2405,50 @@
       f.addEventListener('click', function (ev) { if (ev.target === f) fechar(); });
       document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !f.hidden) fechar(); });
       if (location.hash === '#regras') abrir();
+    })();
+  </script>
+  <script>
+    /* LISTAS ESCOLARES NA TELA PRINCIPAL (09/11/2026). Com LISTAS_NA_HOME = false so' o modo de teste ve' a faixa
+       (os clientes continuam vendo os Destaques); liberar = true aqui e LIBERADA = true no listas.html. */
+    var LISTAS_NA_HOME = false;
+    (function () {
+      var teste = (typeof PREVIA_LINK !== 'undefined' && PREVIA_LINK) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
+      if (!LISTAS_NA_HOME && !teste) return;
+      var sec = document.getElementById('home-listas'), dest = document.getElementById('destaques');
+      var base = 'listas.html' + (LISTAS_NA_HOME ? '?' : '?previa=toledo2027&');
+      var esc = function (t) { return String(t == null ? '' : t).replace(/&/g, '&amp;').replace(/</g, '&lt;'); };
+      document.getElementById('hl-cta').href = base.replace(/[?&]$/, '');
+      sec.hidden = false;
+      if (dest) dest.hidden = true;
+      fetch('listas_escolares.json?v=' + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
+        var es = (d && d.escolas) || [];
+        document.getElementById('hl-escolas').innerHTML = es.map(function (e) {
+          var n = (e.listas || []).length;
+          return '<a class="hl-escola" data-escola="' + esc(e.id) + '" data-nome="' + esc(e.nome) + '" href="' + base + 'escola=' + encodeURIComponent(e.id) + '"><span><b>' + esc(e.nome) + '</b><small>'
+            + n + (n === 1 ? ' lista' : ' listas') + ' de material</small></span><span class="ir">Ver listas</span></a>';
+        }).join('');
+        ligar();
+      }).catch(function () {});
+      // abre a lista dentro do card, sem sair da tela principal
+      var dentro = document.getElementById('hl-dentro'), quadro = document.getElementById('hl-quadro');
+      function abrir(href, nome, el) {
+        quadro.src = href + (href.indexOf('?') < 0 ? '?' : '&') + 'dentro=1';
+        document.getElementById('hl-titulo').textContent = nome || 'Listas Escolares 2027';
+        dentro.hidden = false;
+        [].forEach.call(document.querySelectorAll('.hl-escola'), function (a) { a.classList.toggle('ativa', a === el); });
+        dentro.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+      function ligar() {
+        [].forEach.call(document.querySelectorAll('.hl-escola'), function (a) {
+          a.addEventListener('click', function (ev) { ev.preventDefault(); abrir(a.href, a.dataset.nome, a); });
+        });
+      }
+      document.getElementById('hl-cta').addEventListener('click', function (ev) { ev.preventDefault(); abrir(this.href, 'Listas Escolares 2027', null); });
+      document.getElementById('hl-fechar').addEventListener('click', function () {
+        dentro.hidden = true; quadro.src = 'about:blank';
+        [].forEach.call(document.querySelectorAll('.hl-escola'), function (a) { a.classList.remove('ativa'); });
+        document.getElementById('home-listas').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
     })();
   </script>
 </body>

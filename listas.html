@@ -170,6 +170,7 @@
     .item .obs { font-size: 0.82rem; color: var(--suave); font-style: italic; }
     .tag { display: inline-block; font-size: 0.72rem; font-weight: 700; border-radius: 20px; padding: 0.05rem 0.55rem; margin-left: 0.35rem; vertical-align: middle; }
     .tag.op { background: #fff4d6; color: #8a6100; }
+    .tag.parte { background: #ece6fb; color: #5b3fa8; }
     .tag.breve { background: #e8f0ff; color: #2954a3; }
     .tag.nao { background: #f1f2f4; color: #6b7686; }
     .item .qtd { text-align: center; min-width: 56px; font-size: 0.9rem; color: var(--suave); }
@@ -205,6 +206,8 @@
     .totais .t1 { font-family: 'Montserrat', sans-serif; font-weight: 800; color: var(--azul); font-size: 1.25rem; }
     .totais .t1 b { color: var(--vermelho); }
     .totais .t2 { color: var(--suave); font-size: 0.92rem; }
+    .totais .t3 { color: var(--azul); font-weight: 600; font-size: 1rem; }
+    .totais .t3 b { color: #5b3fa8; }
     .obs-escola { margin-top: 1.2rem; background: #fff8e6; border: 1px solid #ffe3a3; border-radius: 10px; padding: 0.9rem 1.1rem; font-size: 0.9rem; }
     .obs-escola h3 { font-size: 0.92rem; margin-bottom: 0.3rem; }
     .obs-escola li { margin-left: 1.1rem; }
@@ -306,12 +309,15 @@
         if (/[?&]previa=toledo2027/.test(location.search)) localStorage.setItem('toledo_listas_previa', '1');
         if (localStorage.getItem('toledo_listas_previa') === '1') ok = true;
       } catch (e) {}
+      // aberta DENTRO do card da tela principal (?dentro=1, 09/11/2026): so' a lista, sem cabecalho e rodape repetidos
+      if (/[?&]dentro=1/.test(location.search)) document.documentElement.classList.add('dentro');
       if (!ok) document.documentElement.classList.add('em-montagem');
       else if (!LIBERADA) document.documentElement.classList.add('modo-previa');
     })();
   </script>
   <style>
     .aviso-montagem { display: none; }
+    .dentro body > header, .dentro .faixa-contato, .dentro .hero, .dentro body > footer, .dentro .zap-fixo { display: none !important; }
     /* RUPTURA DENTRO DO SITE (05/11/2026: "quero que deixe o card ruptura aqui dentro do site ate finalizarmos o processo,
        depois transferimos"). So' aparece no modo previa; os dados vem de listas/ruptura.json (copia do banco da aba Ruptura). */
     .rup { display: none; }
@@ -631,13 +637,14 @@
       if (!a.lista) return;
       atual = a;
       registrar(a.escola, a.lista);
-      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, html = '', n = 0;
+      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, html = '', n = 0, partes = {};
       (L.itens || []).forEach(function (it) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
         if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
+        else if (it.parte) partes[it.parte] = (partes[it.parte] || 0) + q * p;
         else if (it.opcional) opcionais += q * p; else total += q * p;
         n++;
-        var tag = it.opcional ? '<span class="tag op">Opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">Em breve</span>'
+        var tag = it.parte ? '<span class="tag parte">' + esc(it.parte) + '</span>' : it.opcional ? '<span class="tag op">Opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">Em breve</span>'
                 : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : '';
         var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
         var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
@@ -678,6 +685,9 @@
             '<th>Item da lista / produto</th><th class="c-marca">Marca</th><th class="c-qtd">Qtd</th><th class="c-val">Valor unit.</th><th class="c-val">Total</th></tr></thead>' +
             '<tbody>' + html + '</tbody></table></div>' +
           '<div class="totais"><div class="t1">Total da lista: <b>' + reais(total) + '</b></div>' +
+            Object.keys(partes).map(function (k) {
+              return '<div class="t3">Material ' + esc(k.charAt(0).toLowerCase() + k.slice(1)) + ': <b>+ ' + reais(partes[k]) + '</b> · total ' + reais(total + partes[k]) + '</div>';
+            }).join('') +
             (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
           pagamento(total) +
           (L.observacoes && L.observacoes.length ? '<div class="obs-escola"><h3>Recados da escola</h3><ul>' +
@@ -748,10 +758,12 @@
       var doc = new window.jspdf.jsPDF({ unit: 'mm', format: 'a4', orientation: 'portrait' });
       var PW = 210, PH = 297, M = 10, LW = PW - 2 * M, AZ = [26, 47, 82], VM = [224, 30, 60], SU = [107, 118, 134], TX = [40, 48, 62];
       var cor = function (c) { doc.setTextColor(c[0], c[1], c[2]); };
-      var total = 0, faltaPreco = false;
+      var total = 0, faltaPreco = false, partesPdf = {};
       itens.forEach(function (it) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; } else if (!it.opcional) total += q * p;
+        if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
+        else if (it.parte) partesPdf[it.parte] = (partesPdf[it.parte] || 0) + q * p;
+        else if (!it.opcional) total += q * p;
       });
 
       // 1) Toledo em destaque: logo grande à esquerda, nossos dados à direita
@@ -799,7 +811,7 @@
       var PAD = 1.8, FS = 7.8, partes = [];
       var corpo = itens.map(function (it, i) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        var tag = it.opcional ? ' (opcional)' : it.status === 'em_breve' ? ' (em breve)' : it.status === 'nao_temos' ? ' (não disponível)' : '';
+        var tag = it.parte ? ' (' + it.parte.charAt(0).toLowerCase() + it.parte.slice(1) + ')' : it.opcional ? ' (opcional)' : it.status === 'em_breve' ? ' (em breve)' : it.status === 'nao_temos' ? ' (não disponível)' : '';
         doc.setFontSize(FS);
         doc.setFont('helvetica', 'bold'); var l1 = doc.splitTextToSize(String(it.descricao || '') + tag, W.item - 2 * PAD);
         doc.setFont('helvetica', 'normal'); var l2 = it.produto ? doc.splitTextToSize(titulo(it.produto), W.item - 2 * PAD) : [];
@@ -860,6 +872,12 @@
       cor(VM); doc.text(tt, M + LW, y + 4, { align: 'right' });
       cor(AZ); doc.text('Total da lista: ', M + LW - tw, y + 4, { align: 'right' });
       y += 6;
+      Object.keys(partesPdf).forEach(function (k) {
+        doc.setFont('helvetica', 'bold'); doc.setFontSize(9.5); cor([91, 63, 168]);
+        doc.text('Material ' + k.charAt(0).toLowerCase() + k.slice(1) + ': + ' + rs(partesPdf[k]) + ' · total ' + rs(total + partesPdf[k]),
+                 M + LW, y + 2.5, { align: 'right' });
+        y += 5;
+      });
       if (faltaPreco) {
         doc.setFont('helvetica', 'normal'); doc.setFontSize(8); cor(SU);
         doc.text('Itens "em breve" entram no total quando chegarem.', M + LW, y + 2, { align: 'right' }); y += 4;
@@ -911,6 +929,11 @@
       .catch(function () { return { escolas: [] }; })
       .then(function (d) {
         dados = d && d.escolas ? d : { escolas: [] }; montarEscolas(); esvaziarFila();
+        // vindo da tela principal com ?escola=<id> (09/11/2026): a escola ja' abre escolhida
+        var qe = (location.search.match(/[?&]escola=([^&]+)/) || [])[1];
+        if (qe && [].some.call(selEscola.options, function (o) { return o.value === decodeURIComponent(qe); })) {
+          selEscola.value = decodeURIComponent(qe); selEscola.dispatchEvent(new Event('change'));
+        }
         // colagem do topo com fotos reais dos produtos das listas
         var fs = [];
         dados.escolas.forEach(function (e) { e.listas.forEach(function (l) { (l.itens || []).forEach(function (it) { if (it.foto && fs.indexOf(it.foto) < 0) fs.push(it.foto); }); }); });
