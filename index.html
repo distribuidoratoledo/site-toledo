@@ -798,6 +798,7 @@
     }
     /* Regras do Site por cima da loja, so' no modo de teste (09/11/2026) */
     nav a.nav-regras { color: var(--vermelho); font-weight: 700; }
+    nav a[hidden] { display: none; }
     #regras-fundo { position: fixed; inset: 0; z-index: 3000; background: rgba(16, 24, 40, .55); display: flex;
       padding: max(12px, env(safe-area-inset-top, 0px)) max(12px, env(safe-area-inset-right, 0px)) max(12px, env(safe-area-inset-bottom, 0px)) max(12px, env(safe-area-inset-left, 0px)); }
     #regras-fundo[hidden] { display: none; }
@@ -820,6 +821,7 @@
       <a href="#sobre">Sobre</a>
       <a href="#contato">Contato</a>
       <!-- Regras do Site: so' no modo de teste (?previa=toledo2027), abre por cima da pagina (Adriana, 09/11/2026) -->
+      <a href="listas.html?previa=toledo2027" id="nav-listas" hidden>Listas Escolares 2027</a>
       <a href="#regras" id="nav-regras" class="nav-regras" hidden>Regras</a>
     </nav>
   </header>
@@ -2335,6 +2337,7 @@
       var a = document.getElementById('nav-regras'), f = document.getElementById('regras-fundo'), q = document.getElementById('regras-quadro');
       if (!ver || !a) return;
       a.hidden = false;
+      var li = document.getElementById('nav-listas'); if (li) li.hidden = false;
       var abrir = function (ev) { if (ev) ev.preventDefault(); if (!q.src) q.src = 'regras.html'; f.hidden = false; };
       var fechar = function () { f.hidden = true; if (location.hash === '#regras') history.replaceState(null, '', location.pathname + location.search); };
       a.addEventListener('click', abrir);
