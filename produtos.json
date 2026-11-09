@@ -10215,6 +10215,20 @@
      "img": "produtos/10371.jpg"
     },
     {
+     "cod": 11000,
+     "nome": "PINCEL CHATO 06",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/11000.jpg"
+    },
+    {
+     "cod": 10999,
+     "nome": "PINCEL CHATO 08",
+     "marca": "TIGRE",
+     "preco": 3.9,
+     "img": "produtos/10999.jpg"
+    },
+    {
      "cod": 6378,
      "nome": "PINCEL CHATO 10",
      "marca": "TIGRE",
@@ -18209,13 +18223,6 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg"
-    },
-    {
-     "cod": 948,
-     "nome": "COPO 300ML PS C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 9.9,
-     "img": "produtos/948.jpg"
     },
     {
      "cod": 949,
