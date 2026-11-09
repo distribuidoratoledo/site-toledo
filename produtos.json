@@ -3570,7 +3570,7 @@
     },
     {
      "cod": 14589,
-     "nome": "BORRACHA TRIS C/CP-CORES",
+     "nome": "BORRACHA TRIS C/CP-AMARELO",
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14589.jpg",
@@ -13713,24 +13713,23 @@
     },
     {
      "cod": 14587,
-     "nome": "TESOURA S/P TRIS",
+     "nome": "TESOURA S/P TRIS-CORES",
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
-     "cores": [
-      {
-       "cod": 14587,
-       "cor": "Azul",
-       "nome": "TESOURA S/P TRIS-AZUL",
-       "img": "produtos/14587.jpg"
-      },
-      {
-       "cod": 14588,
-       "cor": "Preta",
-       "nome": "TESOURA S/P TRIS-PRETA",
-       "img": "produtos/14588.jpg"
-      }
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE"
      ]
+    },
+    {
+     "cod": 14588,
+     "nome": "TESOURA S/P TRIS-PRETA",
+     "marca": "TRIS",
+     "preco": 4.9,
+     "img": "produtos/14588.jpg"
     }
    ]
   },
