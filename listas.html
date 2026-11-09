@@ -74,6 +74,9 @@
     main { max-width: 1000px; margin: 1.6rem auto 0; padding: 0 1rem 3rem; position: relative; z-index: 2; }
     .cartao { background: #fff; border: 1px solid #edf0f5; border-radius: 14px; padding: 1.6rem; box-shadow: 0 8px 30px rgba(26,47,82,0.10); }
     .escolha { scroll-margin-top: 90px; }
+    .aviso-subindo { background: #fff8e6; border: 1px solid #f3dfa6; border-left: 5px solid #e0a800; color: #5c4600; border-radius: 10px;
+      padding: .8rem 1rem; margin: 0 0 1.6rem; font-size: .98rem; }
+    .aviso-subindo b { color: #3d2f00; }
     /* busca da lista em destaque (Adriana, 04/11/2026: "destacar essa parte") */
     .cartao.escolha { border: 3px solid var(--vermelho); box-shadow: 0 12px 36px rgba(224,30,60,0.18); padding: 1.8rem 1.8rem 1.5rem; position: relative; }
     .cartao.escolha::before { content: "COMECE AQUI"; position: absolute; top: -14px; left: 24px; background: var(--vermelho); color: #fff;
@@ -303,7 +306,7 @@
        Para liberar: LIBERADA = true. -->
   <script>
     (function () {
-      var LIBERADA = false;
+      var LIBERADA = true;   // LIBERADA a todos em 09/11/2026 ("pode trazer as listas e deixar liberado")
       var ok = LIBERADA || /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
       try {
         if (/[?&]previa=toledo2027/.test(location.search)) localStorage.setItem('toledo_listas_previa', '1');
@@ -317,7 +320,7 @@
   </script>
   <style>
     .aviso-montagem { display: none; }
-    .dentro body > header, .dentro .faixa-contato, .dentro .hero, .dentro body > footer, .dentro .zap-fixo { display: none !important; }
+    .dentro body > header, .dentro .faixa-contato, .dentro body > footer, .dentro .zap-fixo { display: none !important; }
     /* RUPTURA DENTRO DO SITE (05/11/2026: "quero que deixe o card ruptura aqui dentro do site ate finalizarmos o processo,
        depois transferimos"). So' aparece no modo previa; os dados vem de listas/ruptura.json (copia do banco da aba Ruptura). */
     .rup { display: none; }
@@ -363,7 +366,6 @@
     <span>📍 Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</span>
   </div>
 
-  <div class="faixa-previa">Modo prévia: só a equipe Toledo vê esta página. <a href="#ruptura">Ver a Ruptura</a> <a href="https://claude.ai/artifact/HQnDBHA5LjhyGD1UDMMJ8G" target="_blank" rel="noopener">Painel Volta às Aulas</a></div>
   <div class="aviso-montagem"><h1>Listas Escolares 2027</h1><p>Em breve! Estamos preparando as listas das escolas de Sete Lagoas.</p><p style="margin-top:1rem"><a class="btn zap" href="https://wa.me/5531985113106" target="_blank" rel="noopener">Fale com a gente no WhatsApp</a></p></div>
   <section class="hero">
     <div class="dentro">
@@ -386,6 +388,8 @@
   </div>
 
   <main>
+    <!-- aviso pedido pela Adriana em 09/11/2026: as listas entram aos poucos -->
+    <div class="aviso-subindo"><b>Listas em atualização.</b> Os orçamentos das escolas estão sendo cadastrados aos poucos. Em breve, todas as escolas estarão disponíveis.</div>
     <div class="cartao escolha" id="escolha">
       <h2>Encontre a lista do seu filho</h2>
       <div class="linha-campos">
@@ -404,22 +408,6 @@
 
     <div id="lista"></div>
 
-    <div class="cartao rup" id="ruptura">
-      <h2>Ruptura</h2>
-      <p class="sub" id="rup-sub">Itens das listas marcados como alteração futura. Só a equipe Toledo vê este quadro.</p>
-      <div class="chips" id="rup-chips">
-        <button class="chip on" data-f="todos" type="button">Todos <b id="rq-todos">–</b></button>
-        <button class="chip" data-f="aguardando" type="button">Aguardando compra <b id="rq-aguardando">–</b></button>
-        <button class="chip" data-f="informado" type="button">Código novo informado <b id="rq-informado">–</b></button>
-        <button class="chip" data-f="trocado" type="button">Trocado na lista <b id="rq-trocado">–</b></button>
-      </div>
-      <div class="tab-itens">
-        <table>
-          <thead><tr><th class="c-n">Nº</th><th>Lista</th><th>Item da lista</th><th>Produto hoje no orçamento</th><th>Status</th><th>Código novo</th></tr></thead>
-          <tbody id="rup-corpo"><tr><td colspan="6">Carregando…</td></tr></tbody>
-        </table>
-      </div>
-    </div>
 
     <div class="passos" id="passos">
       <div class="passo"><div class="n">1</div><h3>Escolha a escola e o ano</h3><p>As listas oficiais de 2027, do jeitinho que a escola precisa.</p></div>
@@ -477,43 +465,6 @@
   </div>
 
 
-  <script>
-  /* Ruptura no modo previa: le listas/ruptura.json. "Informar novo código" abre a aba Ruptura, onde o código fica gravado. */
-  (function () {
-    if (!document.documentElement.classList.contains('modo-previa')) return;
-    var ROT = { aguardando: 'Aguardando compra', informado: 'Código novo informado', trocado: 'Trocado na lista' };
-    var URL_RUP = 'https://claude.ai/artifact/8gHSNz9Q64cputowW3TQRz';
-    var ITENS = [], F = 'todos', $ = function (i) { return document.getElementById(i); };
-    function esc(t) { return String(t == null ? '' : t).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
-    function pintar() {
-      ['aguardando', 'informado', 'trocado'].forEach(function (k) { $('rq-' + k).textContent = ITENS.filter(function (x) { return x.status === k; }).length; });
-      $('rq-todos').textContent = ITENS.length;
-      var L = ITENS.filter(function (x) { return F === 'todos' || x.status === F; });
-      if (!L.length) { $('rup-corpo').innerHTML = '<tr><td colspan="6">Nenhum item com este status.</td></tr>'; return; }
-      $('rup-corpo').innerHTML = L.map(function (x) {
-        var prod = x.codigo_atual ? '<b>' + esc(x.codigo_atual) + '</b> · ' + esc(x.produto_atual || '') : (esc(x.produto_atual) || 'Em breve (ainda sem código)');
-        var novo = x.status === 'trocado' ? '<b>' + esc(x.novo_codigo) + '</b><small>' + esc(x.trocado_em || '') + '</small>'
-          : (x.novo_codigo ? '<b>' + esc(x.novo_codigo) + '</b> ' : '') +
-            '<a class="btn peq" href="' + URL_RUP + '" target="_blank" rel="noopener">' + (x.novo_codigo ? 'Alterar' : 'Informar novo código') + '</a>';
-        return '<tr><td class="c-n">' + esc(x.n) + '</td><td>' + esc(x.ano) + '<small>' + esc(x.escola) + '</small></td>' +
-          '<td>' + esc(x.item) + (x.obs ? '<small>' + esc(x.obs) + '</small>' : '') + '</td><td>' + prod + '</td>' +
-          '<td><span class="st ' + esc(x.status) + '">' + esc(ROT[x.status] || x.status) + '</span></td><td>' + novo + '</td></tr>';
-      }).join('');
-    }
-    document.querySelectorAll('#rup-chips .chip').forEach(function (b) {
-      b.addEventListener('click', function () {
-        F = b.dataset.f;
-        document.querySelectorAll('#rup-chips .chip').forEach(function (c) { c.classList.toggle('on', c === b); });
-        pintar();
-      });
-    });
-    fetch('listas/ruptura.json?v=' + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
-      ITENS = (d.itens || []).sort(function (a, b) { return (a.n || 0) - (b.n || 0); });
-      $('rup-sub').textContent = 'Itens das listas marcados como alteração futura. Só a equipe Toledo vê este quadro. Atualizado em ' + (d.atualizado || '') + '.';
-      pintar();
-    }).catch(function () { $('rup-corpo').innerHTML = '<tr><td colspan="6">Não consegui carregar a Ruptura.</td></tr>'; });
-  })();
-  </script>
   <footer>
     <p><b>Toledo Distribuidora de Papéis</b> · Rua São Paulo, 67 · Boa Vista · Sete Lagoas/MG</p>
     <p>WhatsApp (31) 9 8511-3106 · (31) 3771-6262 · (31) 3771-9696</p>
@@ -616,7 +567,30 @@
       if (d.length > 7) s = '(' + d.slice(0, 2) + ') ' + d.slice(2, d.length - 4) + '-' + d.slice(-4);
       fone.value = s;
     });
-    function abrirCadastro() { $('erro').textContent = ''; $('cadastro').hidden = false; $('nome').focus(); }
+    /* levar o pai ao ponto certo: dentro do card da tela principal quem rola e' a pagina de fora (09/11/2026) */
+    function irPara(el, ja) {
+      if (!el) return;
+      if (document.documentElement.classList.contains('dentro') && window.parent !== window) {
+        var y = el.getBoundingClientRect().top + window.scrollY;
+        window.parent.postMessage({ toledoListasIr: y, imediato: !!ja }, '*');
+      } else el.scrollIntoView({ behavior: ja ? 'auto' : 'smooth', block: 'start' });
+    }
+    document.addEventListener('click', function (ev) {
+      var a = ev.target.closest && ev.target.closest('a[href^="#"]');
+      if (!a || !document.documentElement.classList.contains('dentro')) return;
+      var alvo = document.getElementById(a.getAttribute('href').slice(1));
+      if (alvo) { ev.preventDefault(); irPara(alvo); }
+    });
+    function abrirCadastro() {
+      $('erro').textContent = '';
+      // dentro do card da tela principal a janela inteira tem a altura do card: o cadastro abre na altura da escolha
+      if (document.documentElement.classList.contains('dentro')) {
+        $('cadastro').style.alignItems = 'flex-start';
+        $('cadastro').style.paddingTop = Math.max(16, $('escolha').getBoundingClientRect().top) + 'px';
+        irPara($('escolha'), true);
+      }
+      $('cadastro').hidden = false; $('nome').focus({ preventScroll: true });
+    }
     $('cancelar').addEventListener('click', function () { $('cadastro').hidden = true; });
     $('form-cadastro').addEventListener('submit', function (ev) {
       ev.preventDefault();
@@ -698,7 +672,7 @@
       $('zap-fixo').href = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg + ' Quero receber a lista completa em casa, sem taxa de entrega.');
       $('b-imp').addEventListener('click', function () { window.print(); });
       $('b-pdf').addEventListener('click', baixarPdf);
-      $('lista').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      irPara($('lista'));
     }
 
     // Condição de pagamento (Adriana, 04/11/2026): 10% de desconto em dinheiro, PIX ou débito;
@@ -941,6 +915,19 @@
 
       });
   })();
+  </script>
+  <script>
+    /* dentro do card da tela principal: informa a altura para o card crescer junto (sem rolagem dupla) */
+    (function () {
+      if (!document.documentElement.classList.contains('dentro') || window.parent === window) return;
+      var ult = 0;
+      function medir() {
+        var h = Math.ceil(document.documentElement.scrollHeight);
+        if (Math.abs(h - ult) > 2) { ult = h; window.parent.postMessage({ toledoListasAltura: h }, '*'); }
+      }
+      new ResizeObserver(medir).observe(document.body);
+      window.addEventListener('load', medir); setInterval(medir, 1500); medir();
+    })();
   </script>
 </body>
 </html>
