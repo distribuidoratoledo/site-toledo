@@ -3488,7 +3488,7 @@
     },
     {
      "cod": 14563,
-     "nome": "BORRACHA TRIS SENSE AMARELO",
+     "nome": "BORRACHA TRIS SENSE CORES",
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14563.jpg"
@@ -22521,13 +22521,6 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg"
-    },
-    {
-     "cod": 235,
-     "nome": "BOBINA 79MM THEGA 30M (BRANCA)",
-     "marca": "THEGA",
-     "preco": 4.9,
-     "img": "produtos/235.jpg"
     },
     {
      "cod": 236,
