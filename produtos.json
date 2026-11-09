@@ -6688,6 +6688,13 @@
    "nome": "Clips",
    "itens": [
     {
+     "cod": 3993,
+     "nome": "ALFINETE MAPA ACC C/50 SORTIDO",
+     "marca": "ACC",
+     "preco": 11.9,
+     "img": "produtos/3993.jpg"
+    },
+    {
      "cod": 10920,
      "nome": "ALFINETE MAPA BACCHI C/50 SORTIDO",
      "marca": "BACCHI",
@@ -6707,6 +6714,20 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/11810.jpg"
+    },
+    {
+     "cod": 5152,
+     "nome": "ALFINETE SEGURANÇA (25MM) C/25 PRATA",
+     "marca": "ACC",
+     "preco": 8.9,
+     "img": "produtos/5152.jpg"
+    },
+    {
+     "cod": 5155,
+     "nome": "BOTAO MAGNETICO (20MM) C/10",
+     "marca": "ACC",
+     "preco": 18.9,
+     "img": "produtos/5155.jpg"
     },
     {
      "cod": 3314,
@@ -8448,6 +8469,13 @@
      "img": "produtos/8039.jpg"
     },
     {
+     "cod": 5156,
+     "nome": "GRAMPO 106/6 C/2500-ACC",
+     "marca": "ACC",
+     "preco": 16.9,
+     "img": "produtos/5156.jpg"
+    },
+    {
      "cod": 4050,
      "nome": "GRAMPO 106/6 C/3500-THOMPSON",
      "marca": "THOMPSON",
@@ -8460,6 +8488,13 @@
      "marca": "ACC",
      "preco": 28.9,
      "img": "produtos/1530.jpg"
+    },
+    {
+     "cod": 3475,
+     "nome": "GRAMPO 106/8 C/2500-ACC",
+     "marca": "ACC",
+     "preco": 14.9,
+     "img": "produtos/3475.jpg"
     },
     {
      "cod": 14356,
@@ -8593,6 +8628,13 @@
      "marca": "BACCHI",
      "preco": 42.9,
      "img": "produtos/14484.jpg"
+    },
+    {
+     "cod": 1543,
+     "nome": "GRAMPO 9/14-23/13 C/5000-ACC",
+     "marca": "ACC",
+     "preco": 54.9,
+     "img": "produtos/1543.jpg"
     },
     {
      "cod": 1545,
