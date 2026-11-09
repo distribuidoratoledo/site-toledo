@@ -860,7 +860,7 @@
   <div id="inicio">
     <!-- Listas Escolares no lugar dos Destaques: aparece no modo de teste e, para todos, quando LISTAS_NA_HOME = true -->
     <section class="home-listas" id="home-listas" aria-label="Listas Escolares 2027">
-      <iframe id="hl-quadro" title="Listas Escolares 2027" src="listas.html?dentro=1" scrolling="no"></iframe>
+      <iframe id="hl-quadro" title="Listas Escolares 2027" scrolling="no"></iframe>
     </section>
     <div class="faixa-destaques" id="destaques">
       <div class="faixa-topo">
@@ -2374,6 +2374,8 @@
     (function () {
       var dest = document.getElementById('destaques'); if (dest) dest.hidden = true;
       var q = document.getElementById('hl-quadro');
+      // carimbo de tempo: o navegador guardava a versao antiga da pagina de listas dentro do card (09/11/2026)
+      q.src = 'listas.html?dentro=1&v=' + Date.now();
       window.addEventListener('message', function (ev) {
         var h = ev.data && ev.data.toledoListasAltura;
         if (ev.source === q.contentWindow && h > 300) q.style.height = (h + 4) + 'px';
