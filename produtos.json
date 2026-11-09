@@ -699,28 +699,48 @@
      "nome": "CANETA GEL/CONVITE TRIS HOLIC PIXIE BUTTERFLY-CORES",
      "marca": "TRIS",
      "preco": 21.9,
-     "img": "produtos/14545.jpg"
+     "img": "produtos/14545.jpg",
+     "controle": [
+      "BRANCO",
+      "LILAS",
+      "ROSA"
+     ]
     },
     {
      "cod": 14558,
      "nome": "CANETA GEL/CONVITE TRIS NUVEM CORES",
      "marca": "TRIS",
      "preco": 18.9,
-     "img": "produtos/14558.jpg"
+     "img": "produtos/14558.jpg",
+     "controle": [
+      "AZUL",
+      "AZUL CL",
+      "BRANCO"
+     ]
     },
     {
      "cod": 14598,
      "nome": "CANETA GEL/CONVITE TRIS ZIGZAG-CORES",
      "marca": "",
      "preco": 12.9,
-     "img": "produtos/14598.jpg"
+     "img": "produtos/14598.jpg",
+     "controle": [
+      "AZUL",
+      "PRETO"
+     ]
     },
     {
      "cod": 14550,
      "nome": "CANETA GEL/CONVITE TRIS-HOLIC PIXIE CORES",
      "marca": "TRIS",
      "preco": 16.9,
-     "img": "produtos/14550.jpg"
+     "img": "produtos/14550.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 10568,
@@ -1677,7 +1697,12 @@
      "nome": "LAPIS BORRACHA TRIS (JUMBO) ROSA",
      "marca": "TRIS",
      "preco": 4.9,
-     "img": "produtos/14564.jpg"
+     "img": "produtos/14564.jpg",
+     "controle": [
+      "AZUL",
+      "PRETO",
+      "ROSA"
+     ]
     },
     {
      "cod": 10594,
@@ -2178,14 +2203,28 @@
      "nome": "LAPIS ESCREVER TRIS TRIO BLING CORES",
      "marca": "TRIS",
      "preco": 2.0,
-     "img": "produtos/14561.jpg"
+     "img": "produtos/14561.jpg",
+     "controle": [
+      "AZUL",
+      "CINZA",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 14560,
      "nome": "LAPIS ESCREVER TRIS TRIO PASTEL CORES",
      "marca": "TRIS",
      "preco": 1.5,
-     "img": "produtos/14560.jpg"
+     "img": "produtos/14560.jpg",
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "SALMÃO",
+      "VERDE"
+     ]
     },
     {
      "cod": 1673,
@@ -3092,21 +3131,39 @@
      "nome": "LAPISEIRA 0.7-TRIS COMFY CLASSIC CORES",
      "marca": "TRIS",
      "preco": 5.9,
-     "img": "produtos/14555.jpg"
+     "img": "produtos/14555.jpg",
+     "controle": [
+      "AZUL",
+      "CINZA",
+      "PRETO",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14549,
      "nome": "LAPISEIRA 0.7-TRIS HOLIC PIXIE CORES",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/14549.jpg"
+     "img": "produtos/14549.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 14559,
      "nome": "LAPISEIRA 0.7-TRIS ICY CORES",
      "marca": "TRIS",
      "preco": 4.9,
-     "img": "produtos/14559.jpg"
+     "img": "produtos/14559.jpg",
+     "controle": [
+      "AZUL",
+      "PRETO",
+      "ROSA",
+      "ROXO"
+     ]
     },
     {
      "cod": 1712,
@@ -3134,7 +3191,12 @@
      "nome": "LAPISEIRA 2.0-TRIS COLLEGE TRIO CORES",
      "marca": "TRIS",
      "preco": 5.9,
-     "img": "produtos/14605.jpg"
+     "img": "produtos/14605.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO"
+     ]
     }
    ]
   },
@@ -3175,21 +3237,38 @@
      "nome": "BORRACHA C/CP TRIS FIT CORES",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/14556.jpg"
+     "img": "produtos/14556.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 14544,
      "nome": "BORRACHA C/CP TRIS FRUITS RETRATIL CORES",
      "marca": "TRIS",
      "preco": 8.9,
-     "img": "produtos/14544.jpg"
+     "img": "produtos/14544.jpg",
+     "controle": [
+      "LILAS",
+      "ROSA",
+      "SALMÃO",
+      "VERDE"
+     ]
     },
     {
      "cod": 14606,
      "nome": "BORRACHA C/CP TRIS NECTAR RETRATIL CORES",
      "marca": "TRIS",
      "preco": 7.9,
-     "img": "produtos/14606.jpg"
+     "img": "produtos/14606.jpg",
+     "controle": [
+      "LARANJA",
+      "ROSA",
+      "ROXO"
+     ]
     },
     {
      "cod": 284,
@@ -3332,21 +3411,39 @@
      "nome": "BORRACHA MERCUR C/CP BIG TONS PASTEL",
      "marca": "MERCUR",
      "preco": 5.9,
-     "img": "produtos/14520.jpg"
+     "img": "produtos/14520.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 14519,
      "nome": "BORRACHA MERCUR C/CP-COLOR",
      "marca": "MERCUR",
      "preco": 2.9,
-     "img": "produtos/14519.jpg"
+     "img": "produtos/14519.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 14486,
      "nome": "BORRACHA MERCUR C/CP-TONS PASTEL",
      "marca": "MERCUR",
      "preco": 2.9,
-     "img": "produtos/14486.jpg"
+     "img": "produtos/14486.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 7917,
@@ -3463,28 +3560,49 @@
      "nome": "BORRACHA TRIS C/CP PASTEL-CORES",
      "marca": "TRIS",
      "preco": 1.9,
-     "img": "produtos/14590.jpg"
+     "img": "produtos/14590.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ]
     },
     {
      "cod": 14589,
      "nome": "BORRACHA TRIS C/CP-CORES",
      "marca": "TRIS",
      "preco": 1.9,
-     "img": "produtos/14589.jpg"
+     "img": "produtos/14589.jpg",
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14548,
      "nome": "BORRACHA TRIS HOLIC PIXIE CORES",
      "marca": "TRIS",
      "preco": 5.9,
-     "img": "produtos/14548.jpg"
+     "img": "produtos/14548.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA"
+     ]
     },
     {
      "cod": 14563,
      "nome": "BORRACHA TRIS SENSE CORES",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/14563.jpg"
+     "img": "produtos/14563.jpg",
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 7915,
@@ -7062,7 +7180,11 @@
      "nome": "COLA BASTAO 9GR HOLIC PIXIE-TRIS CORES",
      "marca": "TRIS",
      "preco": 8.9,
-     "img": "produtos/14604.jpg"
+     "img": "produtos/14604.jpg",
+     "controle": [
+      "LILAS",
+      "ROSA"
+     ]
     },
     {
      "cod": 3321,
@@ -7955,7 +8077,12 @@
      "nome": "REGUA 12CM REFORÇ. TRANSP.-TRIS LINEA CORES",
      "marca": "TRIS",
      "preco": 9.9,
-     "img": "produtos/14603.jpg"
+     "img": "produtos/14603.jpg",
+     "controle": [
+      "LILAS",
+      "ROSA",
+      "VERDE"
+     ]
     },
     {
      "cod": 13121,
@@ -7976,7 +8103,12 @@
      "nome": "REGUA 15CM REFORÇ. TRANSP.-TRIS CORES",
      "marca": "TRIS",
      "preco": 1.9,
-     "img": "produtos/14593.jpg"
+     "img": "produtos/14593.jpg",
+     "controle": [
+      "AZUL",
+      "CRISTAL",
+      "ROSA"
+     ]
     },
     {
      "cod": 2637,
@@ -8039,7 +8171,12 @@
      "nome": "REGUA 30CM REFORÇ. TRANSP.-TRIS CORES",
      "marca": "TRIS",
      "preco": 3.9,
-     "img": "produtos/14594.jpg"
+     "img": "produtos/14594.jpg",
+     "controle": [
+      "AZUL",
+      "CRISTAL",
+      "ROSA"
+     ]
     },
     {
      "cod": 6770,
@@ -13555,21 +13692,37 @@
      "nome": "TESOURA S/P TRIS CANHOTO-CORES",
      "marca": "TRIS",
      "preco": 7.9,
-     "img": "produtos/14611.jpg"
+     "img": "produtos/14611.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA"
+     ]
     },
     {
      "cod": 14596,
      "nome": "TESOURA S/P TRIS PASTEL-CORES",
      "marca": "TRIS",
      "preco": 5.9,
-     "img": "produtos/14596.jpg"
+     "img": "produtos/14596.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE"
+     ]
     },
     {
      "cod": 14587,
      "nome": "TESOURA S/P TRIS-CORES",
      "marca": "TRIS",
      "preco": 4.9,
-     "img": "produtos/14587.jpg"
+     "img": "produtos/14587.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE"
+     ]
     },
     {
      "cod": 14588,
@@ -16251,14 +16404,28 @@
      "nome": "POST-IT 76X76 C/30 HOLIC DAILY-TRIS CORES",
      "marca": "TRIS",
      "preco": 5.9,
-     "img": "produtos/14599.jpg"
+     "img": "produtos/14599.jpg",
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "LARANJA",
+      "ROSA",
+      "ROXO",
+      "VERDE"
+     ]
     },
     {
      "cod": 14547,
      "nome": "POST-IT 76X76 C/30 HOLIC PIXIE GLITTER-TRIS CORES",
      "marca": "TRIS",
      "preco": 8.9,
-     "img": "produtos/14547.jpg"
+     "img": "produtos/14547.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "ROXO"
+     ]
     },
     {
      "cod": 8480,
@@ -17961,28 +18128,56 @@
      "nome": "CARIMBO ESCOLAR TRIS-LEARN CORES",
      "marca": "TRIS",
      "preco": 2.9,
-     "img": "produtos/14572.jpg"
+     "img": "produtos/14572.jpg",
+     "controle": [
+      "AZUL CL",
+      "AZUL ESC",
+      "LARANJA",
+      "ROXO",
+      "VERDE",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14573,
      "nome": "CARIMBO ESCOLAR TRIS-PATRULHA CANINA CORES",
      "marca": "TRIS",
      "preco": 3.9,
-     "img": "produtos/14573.jpg"
+     "img": "produtos/14573.jpg",
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "ROSA",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14571,
      "nome": "CARIMBO ESCOLAR TRIS-PEDAGOGICO CORES",
      "marca": "TRIS",
      "preco": 2.9,
-     "img": "produtos/14571.jpg"
+     "img": "produtos/14571.jpg",
+     "controle": [
+      "AMARELO",
+      "LARANJA",
+      "ROXO",
+      "VERDE",
+      "VERDE-ÁGUA",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14612,
      "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS CORES",
      "marca": "TRIS",
      "preco": 3.9,
-     "img": "produtos/14612.jpg"
+     "img": "produtos/14612.jpg",
+     "controle": [
+      "AZUL",
+      "PINK",
+      "ROSA",
+      "ROXO"
+     ]
     }
    ]
   },
@@ -26222,14 +26417,26 @@
      "nome": "APONTADOR TRIS C/D 1F SU106- CORES",
      "marca": "TRIS",
      "preco": 2.9,
-     "img": "produtos/14551.jpg"
+     "img": "produtos/14551.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14608,
      "nome": "APONTADOR TRIS C/D 1F SU263- CORES",
      "marca": "TRIS",
      "preco": 4.9,
-     "img": "produtos/14608.jpg"
+     "img": "produtos/14608.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "VERDE"
+     ]
     },
     {
      "cod": 12725,
@@ -26362,7 +26569,13 @@
      "nome": "APONTADOR TRIS C/D 2F SU266- CORES",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/14607.jpg"
+     "img": "produtos/14607.jpg",
+     "controle": [
+      "AZUL",
+      "LARANJA",
+      "ROSA",
+      "ROXO"
+     ]
     },
     {
      "cod": 12718,
@@ -26376,14 +26589,24 @@
      "nome": "APONTADOR TRIS C/D 3F-SHAKE CORES",
      "marca": "TRIS",
      "preco": 11.9,
-     "img": "produtos/14586.jpg"
+     "img": "produtos/14586.jpg",
+     "controle": [
+      "AMARELO",
+      "ROSA",
+      "ROXO",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14553,
      "nome": "APONTADOR TRIS C/D+BORR 1F-ABACAXI CORES",
      "marca": "TRIS",
      "preco": 9.9,
-     "img": "produtos/14553.jpg"
+     "img": "produtos/14553.jpg",
+     "controle": [
+      "AMARELO",
+      "VERDE"
+     ]
     },
     {
      "cod": 12676,
@@ -26423,35 +26646,62 @@
      "nome": "APONTADOR TRIS C/D+BORR 1F-KITTY CORES",
      "marca": "TRIS",
      "preco": 11.9,
-     "img": "produtos/14554.jpg"
+     "img": "produtos/14554.jpg",
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14568,
      "nome": "APONTADOR TRIS C/D+BORR 2F-ASTRO PRETO",
      "marca": "TRIS",
      "preco": 15.9,
-     "img": "produtos/14568.jpg"
+     "img": "produtos/14568.jpg",
+     "controle": [
+      "BRANCO",
+      "CINZA",
+      "PRETO"
+     ]
     },
     {
      "cod": 14552,
      "nome": "APONTADOR TRIS C/D+BORR 2F-BUBBLE CORES",
      "marca": "TRIS",
      "preco": 14.9,
-     "img": "produtos/14552.jpg"
+     "img": "produtos/14552.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14609,
      "nome": "APONTADOR TRIS C/D+BORR 2F-PLAYER CORES",
      "marca": "TRIS",
      "preco": 14.9,
-     "img": "produtos/14609.jpg"
+     "img": "produtos/14609.jpg",
+     "controle": [
+      "AZUL",
+      "PRETO",
+      "VERDE",
+      "VERMELHO"
+     ]
     },
     {
      "cod": 14610,
      "nome": "APONTADOR TRIS S/D 1F TEDDY-CORES",
      "marca": "TRIS",
      "preco": 12.9,
-     "img": "produtos/14610.jpg"
+     "img": "produtos/14610.jpg",
+     "controle": [
+      "MARROM",
+      "ROSA"
+     ]
     },
     {
      "cod": 12730,
@@ -26756,7 +27006,13 @@
      "nome": "MARCA TEXTO MERCUR-TONS PASTEL",
      "marca": "MERCUR",
      "preco": 5.9,
-     "img": "produtos/14526.jpg"
+     "img": "produtos/14526.jpg",
+     "controle": [
+      "AZUL",
+      "LILAS",
+      "ROSA",
+      "VERDE"
+     ]
     },
     {
      "cod": 1829,
@@ -26843,21 +27099,40 @@
      "nome": "MARCA TEXTO TRIS FLASH PASTEL",
      "marca": "TRIS",
      "preco": 1.5,
-     "img": "produtos/11735.jpg"
+     "img": "produtos/11735.jpg",
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "LARANJA",
+      "LILAS",
+      "ROSA",
+      "VERDE"
+     ]
     },
     {
      "cod": 14565,
      "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
      "marca": "TRIS",
      "preco": 7.9,
-     "img": "produtos/14565.jpg"
+     "img": "produtos/14565.jpg",
+     "controle": [
+      "AM/LARANJA",
+      "AM/ROSA",
+      "AM/VERDE"
+     ]
     },
     {
      "cod": 14562,
      "nome": "MARCA TEXTO TRIS-HOLIC OVERLAY CORES",
      "marca": "TRIS",
      "preco": 8.9,
-     "img": "produtos/14562.jpg"
+     "img": "produtos/14562.jpg",
+     "controle": [
+      "AM/AZUL",
+      "LA/ROXO",
+      "RS/CIANO",
+      "VD/ROSA"
+     ]
     },
     {
      "cod": 7574,
