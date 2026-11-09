@@ -1361,6 +1361,10 @@
        A chave so' volta a aparecer quando o pedido estiver no Sankhya com a conferencia concluida
        (AD_CODUSUCONF preenchido, como na Fila de Conferencia) -- ainda nao ligado. */
     var CHAVE_PIX = '';
+    /* PEDIDO NO SANKHYA (09/11/2026): ao enviar, o pedido vai tambem para a fila online (App da Web do Google,
+       automacoes/pedidos_site/pedidos_site_apps_script.gs); a rotina da loja grava no Sankhya e devolve o numero.
+       O mesmo endereco vai no pedido.html (Acompanhar pedido). Vazio = so' o WhatsApp, como antes. */
+    var PEDIDOS_ENDPOINT = '';
     var CHAVE_PIX_TITULAR = 'Distribuidora Simões e Santos Ltda';
     /* VENDEDORA DO PEDIDO -- pelo HORARIO, nao por contador.
        "Pode fazer a opcao 2" (Adriana, 17/09/2026): o nome tem de sair no
@@ -1966,7 +1970,9 @@
               + '<a class="bt-comprovante" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + msg + '">'
               + '\ud83d\udcce J\u00e1 paguei \u2014 enviar comprovante</a>'
               + '<button class="bt-copiar" type="button" onclick="copiarChavePix(this)">Copiar chave PIX</button>'
-            : '<p class="car-nota">Se o WhatsApp n\u00e3o abrir, chame a loja no '
+            : (PEDIDOS_ENDPOINT ? '<p class="car-nota"><a target="_blank" rel="noopener" href="pedido.html?n=' + encodeURIComponent(num) + '"><b>Acompanhar o pedido</b></a>: mostra quando ele estiver conferido'
+                + (DADOS.pagto === 'PIX' ? ' e, s\u00f3 ent\u00e3o, a chave PIX para o pagamento' : '') + '.</p>' : '')
+              + '<p class="car-nota">Se o WhatsApp n\u00e3o abrir, chame a loja no '
               + '<a target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '">(31) 9 8511-3106</a>'
               + ' e informe o n\u00famero do pedido.</p>')
         + '<button class="bt-voltar" type="button" onclick="pintarPainel()">Voltar ao carrinho</button>'
@@ -2048,6 +2054,33 @@
       return t.join('\n');
     }
 
+    /* O pedido no formato que o criar_pedido_site.py le (ver exemplo_pedido.json). Vai em texto puro para o
+       Google aceitar sem pre-verificacao; se falhar, o WhatsApp ja' saiu e a equipe lanca a mao como hoje. */
+    function pedidoParaFila() {
+      var fr = freteDoPedido();
+      return {
+        numero: DADOS.numeroPedido, vendedora: DADOS.vendedora, quando: new Date().toISOString(),
+        cliente: { nome: (DADOS.nome || '').trim(), doc: soDigitos(DADOS.doc), pessoa: DADOS.pessoa === 'J' ? 'J' : 'F',
+                   ie: (DADOS.ie || '').trim(), fantasia: (DADOS.fantasia || '').trim(), telefone: soDigitos(DADOS.fone),
+                   email: (DADOS.email || '').trim(),
+                   endereco: { rua: (DADOS.rua || '').trim(), numero: (DADOS.numero || '').trim(), complemento: (DADOS.complemento || '').trim(),
+                               bairro: (DADOS.bairro || '').trim(), cidade: (DADOS.cidade || '').trim(), uf: (DADOS.uf || '').trim().toUpperCase(),
+                               cep: soDigitos(DADOS.cep) } },
+        entrega: DADOS.entrega, taxa_entrega: fr.valor || 0,
+        pagto: DADOS.pagto, parcelas: DADOS.pagto === 'Cr\u00e9dito' ? parcelasEscolhidas() : 1,
+        pagamento_detalhe: textoPagamento(), obs: (DADOS.obs || '').trim(),
+        itens: CARRINHO.map(function (x) { var i = itemDoCodigo(x.cod); return { cod: i.cod, qtd: x.qtd, preco: i.preco }; }),
+        total: totalFinal()
+      };
+    }
+    function enviarParaFila() {
+      if (!PEDIDOS_ENDPOINT) { return; }
+      try {
+        fetch(PEDIDOS_ENDPOINT, { method: 'POST', body: JSON.stringify(pedidoParaFila()), keepalive: true,
+                                  headers: { 'Content-Type': 'text/plain;charset=utf-8' } }).catch(function () {});
+      } catch (e) {}
+    }
+
     function enviarPedido() {
       var falta = [];
       falta = falta.concat(faltaCadastro());
@@ -2066,6 +2099,7 @@
       DADOS.vendedora = vendedoraDoMinuto();
       var pixAntecipado = urgente() && URGENTE_SO_PIX;
       window.open('https://wa.me/' + WHATS + '?text=' + encodeURIComponent(montarPedido()), '_blank', 'noopener');
+      enviarParaFila();
       mostrarEnviado(pixAntecipado);
     }
 
