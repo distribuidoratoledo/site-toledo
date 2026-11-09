@@ -21342,6 +21342,13 @@
      "img": "produtos/2728.jpg"
     },
     {
+     "cod": 8160,
+     "nome": "SACO 50X70 (0.10) TRANSPARENTE",
+     "marca": "",
+     "preco": 32.9,
+     "img": "produtos/8160.jpg"
+    },
+    {
      "cod": 2732,
      "nome": "SACO 50X70 (0.15) TRANSPARENTE",
      "marca": "",
@@ -22521,6 +22528,13 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg"
+    },
+    {
+     "cod": 235,
+     "nome": "BOBINA 79MM THEGA 30M (BRANCA)",
+     "marca": "THEGA",
+     "preco": 4.9,
+     "img": "produtos/235.jpg"
     },
     {
      "cod": 236,
