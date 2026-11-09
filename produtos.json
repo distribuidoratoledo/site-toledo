@@ -1694,7 +1694,7 @@
     },
     {
      "cod": 14564,
-     "nome": "LAPIS BORRACHA TRIS (JUMBO) ROSA",
+     "nome": "LAPIS BORRACHA TRIS (JUMBO) CORES",
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
@@ -3570,7 +3570,7 @@
     },
     {
      "cod": 14589,
-     "nome": "BORRACHA TRIS C/CP-AZUL",
+     "nome": "BORRACHA TRIS C/CP-CORES",
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14589.jpg",
@@ -13713,23 +13713,24 @@
     },
     {
      "cod": 14587,
-     "nome": "TESOURA S/P TRIS-CORES",
+     "nome": "TESOURA S/P TRIS",
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
-     "controle": [
-      "AZUL",
-      "ROSA",
-      "ROXO",
-      "VERDE"
+     "cores": [
+      {
+       "cod": 14587,
+       "cor": "Azul",
+       "nome": "TESOURA S/P TRIS-AZUL",
+       "img": "produtos/14587.jpg"
+      },
+      {
+       "cod": 14588,
+       "cor": "Preta",
+       "nome": "TESOURA S/P TRIS-PRETA",
+       "img": "produtos/14588.jpg"
+      }
      ]
-    },
-    {
-     "cod": 14588,
-     "nome": "TESOURA S/P TRIS-PRETA",
-     "marca": "TRIS",
-     "preco": 4.9,
-     "img": "produtos/14588.jpg"
     }
    ]
   },
