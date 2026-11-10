@@ -63,7 +63,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC BOLD 1.6-PRETA",
        "img": "produtos/550.jpg",
-       "saldo": 39
+       "saldo": 38
       },
       {
        "cod": 551,
@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1340,
+     "saldo": 1334,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1340
+       "saldo": 1334
       },
       {
        "cod": 553,
@@ -443,7 +443,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 99
+       "saldo": 98
       },
       {
        "cod": 566,
@@ -999,7 +999,7 @@
        "cor": "Preta",
        "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
        "img": "produtos/588.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 589,
@@ -2973,7 +2973,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-PRETO",
        "img": "produtos/2339.jpg",
-       "saldo": 218
+       "saldo": 216
       },
       {
        "cod": 9972,
@@ -3336,7 +3336,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 2652,
@@ -3766,7 +3766,7 @@
      "marca": "LEO E LEO",
      "preco": 0.25,
      "img": "produtos/278.jpg",
-     "saldo": 330
+     "saldo": 327
     },
     {
      "cod": 14556,
@@ -6082,21 +6082,21 @@
      "marca": "MAXIMA",
      "preco": 12.9,
      "img": "produtos/367.jpg",
-     "saldo": 35,
+     "saldo": 36,
      "cores": [
       {
        "cod": 367,
        "cor": "Azul",
        "nome": "CADERNO ALIBOM. CART. 60F-AZUL",
        "img": "produtos/367.jpg",
-       "saldo": 35
+       "saldo": 36
       },
       {
        "cod": 368,
        "cor": "Verde",
        "nome": "CADERNO ALIBOM. CART. 60F-VERDE",
        "img": "produtos/368.jpg",
-       "saldo": 32
+       "saldo": 31
       },
       {
        "cod": 369,
@@ -7764,7 +7764,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/782.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 787,
@@ -8042,7 +8042,7 @@
      "marca": "INK ROLLER",
      "preco": 21.9,
      "img": "produtos/2665.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2667,
@@ -8200,13 +8200,13 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14604.jpg",
-     "saldo": 47,
+     "saldo": 46,
      "controle": [
       "LILAS",
       "ROSA"
      ],
      "saldo_cor": {
-      "LILAS": 23,
+      "LILAS": 22,
       "ROSA": 24
      }
     },
@@ -8638,7 +8638,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4363
+     "saldo": 4350
     },
     {
      "cod": 14619,
@@ -8824,7 +8824,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 6521,
@@ -8934,7 +8934,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 1519,
@@ -10948,7 +10948,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 557
+     "saldo": 554
     },
     {
      "cod": 6844,
@@ -11082,7 +11082,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 67
+     "saldo": 66
     },
     {
      "cod": 11784,
@@ -11098,7 +11098,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 216
+     "saldo": 215
     },
     {
      "cod": 2100,
@@ -11692,7 +11692,7 @@
        "cor": "Amarelo Pessego",
        "nome": "GUACHE 250ML ACRILEX-AMARELO PESSEGO",
        "img": "produtos/12685.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 5764,
@@ -11755,7 +11755,7 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 57
+       "saldo": 56
       },
       {
        "cod": 3025,
@@ -13981,7 +13981,7 @@
      "marca": "ACRIMET",
      "preco": 31.9,
      "img": "produtos/5229.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 2911,
@@ -15616,7 +15616,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 2959,
@@ -15695,13 +15695,6 @@
        "cor": "Azul",
        "nome": "TESOURA S/P ACRILEX-AZUL",
        "img": "produtos/10263.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 10265,
-       "cor": "Preta",
-       "nome": "TESOURA S/P ACRILEX-PRETA",
-       "img": "produtos/10265.jpg",
        "saldo": 1
       },
       {
@@ -15920,7 +15913,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 184
+       "saldo": 176
       },
       {
        "cod": 9160,
@@ -15941,7 +15934,7 @@
        "cor": "Marrom",
        "nome": "EVA GLITER-MARROM",
        "img": "produtos/1219.jpg",
-       "saldo": 23
+       "saldo": 20
       },
       {
        "cod": 1220,
@@ -15976,7 +15969,7 @@
        "cor": "Verde Claro",
        "nome": "EVA GLITER-VERDE CLARO",
        "img": "produtos/5366.jpg",
-       "saldo": 109
+       "saldo": 107
       },
       {
        "cod": 1226,
@@ -15993,7 +15986,7 @@
      "marca": "MAKE+",
      "preco": 3.9,
      "img": "produtos/5367.jpg",
-     "saldo": 11
+     "saldo": 9
     },
     {
      "cod": 1225,
@@ -16001,7 +15994,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 1228,
@@ -16086,7 +16079,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 95
+       "saldo": 94
       },
       {
        "cod": 1239,
@@ -16194,7 +16187,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3064.jpg",
-     "saldo": 133
+     "saldo": 130
     },
     {
      "cod": 3065,
@@ -19030,7 +19023,7 @@
      "marca": "ETIQ PLAST",
      "preco": 54.9,
      "img": "produtos/1333.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 2368,
@@ -19530,7 +19523,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1582
+     "saldo": 1581
     },
     {
      "cod": 3538,
@@ -21157,7 +21150,7 @@
      "marca": "CHIARA",
      "preco": 34.9,
      "img": "produtos/6878.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 14515,
@@ -21227,7 +21220,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 3625
+     "saldo": 3623
     },
     {
      "cod": 14414,
@@ -22289,7 +22282,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 2491,
@@ -22305,7 +22298,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 2489,
@@ -23551,7 +23544,7 @@
      "marca": "ABN",
      "preco": 41.9,
      "img": "produtos/7022.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 7023,
@@ -23671,7 +23664,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 6986,
@@ -25233,7 +25226,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 1010
+     "saldo": 1000
     },
     {
      "cod": 2826,
@@ -25241,7 +25234,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2826.jpg",
-     "saldo": 121
+     "saldo": 111
     },
     {
      "cod": 2827,
@@ -25574,7 +25567,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 11
+     "saldo": 10
     }
    ]
   },
@@ -28827,7 +28820,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 355
+     "saldo": 354
     },
     {
      "cod": 7275,
@@ -28889,7 +28882,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 13945,
@@ -28969,7 +28962,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 522
+     "saldo": 521
     },
     {
      "cod": 2157,
@@ -29740,6 +29733,24 @@
      "saldo_cor": {
       "ROSA": 16,
       "ROXO": 16,
+      "VERDE-ÁGUA": 16
+     }
+    },
+    {
+     "cod": 14630,
+     "nome": "APONTADOR ACRILEX 3F C/D-(22424) CORES",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/14630.jpg",
+     "saldo": 48,
+     "controle": [
+      "AMARELO",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "AMARELO": 16,
+      "ROSA": 16,
       "VERDE-ÁGUA": 16
      }
     },
@@ -31813,7 +31824,7 @@
      "marca": "LEOTACK",
      "preco": 15.9,
      "img": "produtos/7612.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 7613,
