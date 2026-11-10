@@ -2174,8 +2174,16 @@
         return;
       }
       erro.textContent = '';
-      DADOS.numeroPedido = novoNumeroPedido();
-      DADOS.vendedora = vendedoraDoMinuto();
+      /* MESMO PEDIDO ENVIADO DUAS VEZES (10/11/2026: dois cliques geraram 660257 e 660258 iguais): carrinho e dados
+         iguais em ate' 15 minutos mantem o mesmo numero e a mesma vendedora; a fila descarta o repetido. */
+      var assin = JSON.stringify([CARRINHO, soDigitos(DADOS.fone), DADOS.entrega, DADOS.pagto]);
+      var agora = Date.now();
+      if (!(DADOS.numeroPedido && DADOS.assinatura === assin && agora - (DADOS.enviadoEm || 0) < 15 * 60000)) {
+        DADOS.numeroPedido = novoNumeroPedido();
+        DADOS.vendedora = vendedoraDoMinuto();
+      }
+      DADOS.assinatura = assin; DADOS.enviadoEm = agora;
+      try { salvarDados(); } catch (e) {}
       var pixAntecipado = urgente() && URGENTE_SO_PIX;
       window.open('https://wa.me/' + WHATS + '?text=' + encodeURIComponent(montarPedido()), '_blank', 'noopener');
       enviarParaFila();
