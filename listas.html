@@ -166,6 +166,7 @@
             border-bottom: 1px solid #eef1f5; }
     .foto { width: 72px; height: 72px; border-radius: 10px; background: #f3f5f9; border: 1px solid #edf0f5; display: grid; place-items: center;
             overflow: hidden; font-size: 1.6rem; }
+    .foto .sem-foto { color: #b4bcc8; font-size: 1.4rem; font-weight: 700; }
     .foto img { width: 100%; height: 100%; object-fit: contain; background: #fff; }
     .item .nome { font-weight: 700; color: var(--azul); }
     .item .prod { font-size: 0.84rem; color: var(--suave); }
@@ -742,7 +743,7 @@
         n++;
         var tag = it.parte ? '<span class="tag parte">' + esc(it.parte) + '</span>' : it.opcional ? '<span class="tag op">Opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">Em breve</span>'
                 : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : it.status === 'consultar' ? '<span class="tag op">Consulte a vendedora</span>' : '';
-        var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
+        var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' || it.status === 'consultar' ? '<span class="sem-foto">—</span>' : '📦')   /* sem a cama (10/11/2026: "o que significa essa imagem?") */;
         var semP = it.status === 'nao_temos' ? 'Não disponível' : it.status === 'consultar' ? 'Consulte' : 'Em breve';
         var temSaldo = it.saldo != null, baixo = temSaldo && saldoBaixo(it);
         html += '<tr' + (baixo ? ' class="saldo-baixo"' : '') + '><td class="c-n">' + n + '</td>' +
