@@ -3282,7 +3282,7 @@
        "cor": "Preto",
        "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
        "img": "produtos/2626.jpg",
-       "saldo": 3
+       "saldo": 1
       },
       {
        "cod": 2627,
@@ -3296,7 +3296,7 @@
        "cor": "Vermelho",
        "nome": "REFIL PINCEL Q.BRC PILOT-VERMELHO",
        "img": "produtos/2628.jpg",
-       "saldo": 44
+       "saldo": 42
       },
       {
        "cod": 2629,
@@ -10917,7 +10917,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 171
+     "saldo": 169
     },
     {
      "cod": 5082,
@@ -10957,7 +10957,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 598
+     "saldo": 597
     },
     {
      "cod": 2007,
@@ -16874,14 +16874,6 @@
      "saldo": 3
     },
     {
-     "cod": 8223,
-     "nome": "ESTOJO DAC 1F",
-     "marca": "DAC",
-     "preco": 8.9,
-     "img": "produtos/8223.jpg",
-     "saldo": 6
-    },
-    {
      "cod": 8213,
      "nome": "ESTOJO DAC 1F",
      "marca": "DAC",
@@ -18175,7 +18167,7 @@
      "marca": "USA FOLIEN",
      "preco": 10.9,
      "img": "produtos/8715.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 659,
@@ -19419,7 +19411,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1581
+     "saldo": 1578
     },
     {
      "cod": 3538,
@@ -21116,7 +21108,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 3623
+     "saldo": 3598
     },
     {
      "cod": 14414,
@@ -21898,7 +21890,7 @@
      "marca": "ISOMAX",
      "preco": 4.9,
      "img": "produtos/7362.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 7363,
@@ -22296,7 +22288,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1283
+     "saldo": 1279
     },
     {
      "cod": 11964,
@@ -22328,7 +22320,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 732
+     "saldo": 722
     },
     {
      "cod": 880,
@@ -23132,7 +23124,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 1376,
@@ -23218,7 +23210,7 @@
      "marca": "ULTRA",
      "preco": 19.9,
      "img": "produtos/11813.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 10303,
@@ -23242,7 +23234,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 380
+     "saldo": 360
     },
     {
      "cod": 2552,
@@ -23662,7 +23654,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 515
+     "saldo": 512
     },
     {
      "cod": 1553,
@@ -24428,7 +24420,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 223
+     "saldo": 222
     },
     {
      "cod": 2705,
@@ -24460,7 +24452,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 2709,
@@ -24548,7 +24540,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 31
+     "saldo": 29
     },
     {
      "cod": 10060,
@@ -24692,7 +24684,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2732.jpg",
-     "saldo": 110
+     "saldo": 95
     },
     {
      "cod": 2731,
@@ -25431,7 +25423,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 879
+     "saldo": 874
     },
     {
      "cod": 6825,
@@ -25851,7 +25843,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 2906,
@@ -28644,7 +28636,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 8295,
@@ -28708,7 +28700,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 332
+     "saldo": 331
     },
     {
      "cod": 7275,
@@ -31208,7 +31200,7 @@
     },
     {
      "cod": 14565,
-     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
+     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE AM/LARANJA",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
