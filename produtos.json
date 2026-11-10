@@ -422,7 +422,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 147
+       "saldo": 143
       },
       {
        "cod": 563,
@@ -2064,7 +2064,7 @@
        "cor": "Rosa",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROSA",
        "img": "produtos/10561.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 10562,
@@ -7615,6 +7615,14 @@
    "nome": "Clips",
    "itens": [
     {
+     "cod": 14636,
+     "nome": "ALFINETE MAPA ACC C/25 TAÇA",
+     "marca": "ACC",
+     "preco": 9.9,
+     "img": "produtos/14636.jpg",
+     "saldo": 50
+    },
+    {
      "cod": 3993,
      "nome": "ALFINETE MAPA ACC C/50 SORTIDO",
      "marca": "ACC",
@@ -7652,6 +7660,30 @@
      "marca": "ACC",
      "preco": 8.9,
      "img": "produtos/5152.jpg",
+     "saldo": 10
+    },
+    {
+     "cod": 14633,
+     "nome": "ALFINETE SEGURANÇA (30MM) C/25 PRATA",
+     "marca": "ACC",
+     "preco": 8.5,
+     "img": "produtos/14633.jpg",
+     "saldo": 20
+    },
+    {
+     "cod": 14634,
+     "nome": "ALFINETE SEGURANÇA (35MM) C/25 PRATA",
+     "marca": "ACC",
+     "preco": 8.9,
+     "img": "produtos/14634.jpg",
+     "saldo": 20
+    },
+    {
+     "cod": 14635,
+     "nome": "ALFINETE SEGURANÇA (55MM) C/25 PRATA",
+     "marca": "ACC",
+     "preco": 11.9,
+     "img": "produtos/14635.jpg",
      "saldo": 10
     },
     {
@@ -8128,7 +8160,7 @@
      "marca": "LEO E LEO",
      "preco": 3.5,
      "img": "produtos/812.jpg",
-     "saldo": 141
+     "saldo": 140
     },
     {
      "cod": 9047,
@@ -8392,7 +8424,7 @@
      "marca": "CASCOREZ",
      "preco": 58.9,
      "img": "produtos/823.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 825,
@@ -8630,7 +8662,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2085
+     "saldo": 2081
     },
     {
      "cod": 1031,
@@ -8646,7 +8678,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 755
+     "saldo": 754
     },
     {
      "cod": 1021,
@@ -8746,7 +8778,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 367
+     "saldo": 365
     },
     {
      "cod": 1294,
@@ -9350,7 +9382,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 478
+     "saldo": 477
     },
     {
      "cod": 10030,
@@ -10647,7 +10679,7 @@
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 125
+       "saldo": 124
       },
       {
        "cod": 2039,
@@ -10821,7 +10853,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/7736.jpg",
-     "saldo": 78
+     "saldo": 77
     },
     {
      "cod": 2085,
@@ -11012,7 +11044,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 643
+     "saldo": 633
     },
     {
      "cod": 2007,
@@ -11066,7 +11098,7 @@
      "marca": "MAXIMA",
      "preco": 1.0,
      "img": "produtos/2017.jpg",
-     "saldo": 261
+     "saldo": 260
     },
     {
      "cod": 2067,
@@ -13693,7 +13725,7 @@
      "marca": "KIT",
      "preco": 10.9,
      "img": "produtos/13579.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 13782,
@@ -15616,7 +15648,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 119
+     "saldo": 118
     },
     {
      "cod": 2959,
@@ -18177,7 +18209,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 16055
+     "saldo": 16045
     },
     {
      "cod": 1051,
@@ -22050,7 +22082,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/770.jpg",
-     "saldo": 253
+     "saldo": 252
     },
     {
      "cod": 772,
@@ -26065,7 +26097,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1213
+     "saldo": 1157
     },
     {
      "cod": 6646,
@@ -27816,7 +27848,7 @@
      "marca": "GERSELE",
      "preco": 0.3,
      "img": "produtos/2772.jpg",
-     "saldo": 624
+     "saldo": 616
     },
     {
      "cod": 2773,
@@ -29719,6 +29751,22 @@
      }
     },
     {
+     "cod": 14628,
+     "nome": "APONTADOR ACRILEX 2F C/D-(22418) CORES",
+     "marca": "ACRILEX",
+     "preco": 5.9,
+     "img": "produtos/14628.jpg",
+     "saldo": 48,
+     "controle": [
+      "ROSA",
+      "ROXO"
+     ],
+     "saldo_cor": {
+      "ROSA": 24,
+      "ROXO": 24
+     }
+    },
+    {
      "cod": 14629,
      "nome": "APONTADOR ACRILEX 2F C/D-(22419) CORES",
      "marca": "ACRILEX",
@@ -29752,22 +29800,6 @@
       "AMARELO": 16,
       "ROSA": 16,
       "VERDE-ÁGUA": 16
-     }
-    },
-    {
-     "cod": 14628,
-     "nome": "APONTADOR ACRILEX C/D 2F-(22418) CORES",
-     "marca": "ACRILEX",
-     "preco": 5.9,
-     "img": "produtos/14628.jpg",
-     "saldo": 48,
-     "controle": [
-      "ROSA",
-      "ROXO"
-     ],
-     "saldo_cor": {
-      "ROSA": 24,
-      "ROXO": 24
      }
     },
     {
@@ -31906,7 +31938,7 @@
    "itens": [
     {
      "cod": 3728,
-     "nome": "PROTETOR CADERNO AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
+     "nome": "PROTETOR AJUSTAVEL C/5 (CD BROCH)-CAPA PRONTA",
      "marca": "MAXI PLAST",
      "preco": 12.5,
      "img": "produtos/3728.jpg",
@@ -31914,7 +31946,7 @@
     },
     {
      "cod": 670,
-     "nome": "PROTETOR CADERNO ESPIRAL C/5 (JUNTA)-CAPA PRONTA",
+     "nome": "PROTETOR ESPIRAL C/5 (JUNTA)-CAPA PRONTA",
      "marca": "MAXI P.",
      "preco": 12.5,
      "img": "produtos/670.jpg",
