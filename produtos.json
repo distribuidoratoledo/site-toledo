@@ -2973,7 +2973,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-PRETO",
        "img": "produtos/2339.jpg",
-       "saldo": 219
+       "saldo": 218
       },
       {
        "cod": 9972,
@@ -7906,7 +7906,7 @@
      "marca": "DOTAD",
      "preco": 12.9,
      "img": "produtos/14284.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 9567,
@@ -7914,7 +7914,7 @@
      "marca": "DOTAD",
      "preco": 15.9,
      "img": "produtos/9567.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 10235,
@@ -7938,7 +7938,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 14110,
@@ -8738,7 +8738,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 585
+     "saldo": 584
     },
     {
      "cod": 1293,
@@ -10462,7 +10462,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 257
+       "saldo": 256
       },
       {
        "cod": 2035,
@@ -10710,7 +10710,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 138
+       "saldo": 137
       }
      ]
     },
@@ -10811,7 +10811,7 @@
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 8
+       "saldo": 7
       }
      ]
     },
@@ -10988,7 +10988,7 @@
      "marca": "CHAMEQUINH",
      "preco": 9.9,
      "img": "produtos/4502.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 2015,
@@ -11012,7 +11012,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 646
+     "saldo": 645
     },
     {
      "cod": 2007,
@@ -11702,6 +11702,13 @@
        "saldo": 48
       },
       {
+       "cod": 6269,
+       "cor": "Azul Celeste",
+       "nome": "GUACHE 250ML ACRILEX-AZUL CELESTE",
+       "img": "produtos/6269.jpg",
+       "saldo": 65
+      },
+      {
        "cod": 3021,
        "cor": "Azul Turquesa",
        "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
@@ -11716,56 +11723,18 @@
        "saldo": 50
       },
       {
-       "cod": 3023,
-       "cor": "Laranja",
-       "nome": "GUACHE 250ML ACRILEX-LARANJA",
-       "img": "produtos/3023.jpg",
-       "saldo": 65
-      },
-      {
-       "cod": 3024,
-       "cor": "Marrom",
-       "nome": "GUACHE 250ML ACRILEX-MARROM",
-       "img": "produtos/3024.jpg",
-       "saldo": 57
-      },
-      {
-       "cod": 3025,
-       "cor": "Preto",
-       "nome": "GUACHE 250ML ACRILEX-PRETO",
-       "img": "produtos/3025.jpg",
-       "saldo": 60
-      },
-      {
-       "cod": 3028,
-       "cor": "Verde Bandeira",
-       "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
-       "img": "produtos/3028.jpg",
-       "saldo": 61
-      }
-     ]
-    },
-    {
-     "cod": 6269,
-     "nome": "GUACHE 250ML ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 13.9,
-     "img": "produtos/6269.jpg",
-     "saldo": 65,
-     "cores": [
-      {
-       "cod": 6269,
-       "cor": "Azul Celeste",
-       "nome": "GUACHE 250ML ACRILEX-AZUL CELESTE",
-       "img": "produtos/6269.jpg",
-       "saldo": 65
-      },
-      {
        "cod": 12686,
        "cor": "Cinza",
        "nome": "GUACHE 250ML ACRILEX-CINZA",
        "img": "produtos/12686.jpg",
        "saldo": 92
+      },
+      {
+       "cod": 3023,
+       "cor": "Laranja",
+       "nome": "GUACHE 250ML ACRILEX-LARANJA",
+       "img": "produtos/3023.jpg",
+       "saldo": 65
       },
       {
        "cod": 11882,
@@ -11782,11 +11751,32 @@
        "saldo": 113
       },
       {
+       "cod": 3024,
+       "cor": "Marrom",
+       "nome": "GUACHE 250ML ACRILEX-MARROM",
+       "img": "produtos/3024.jpg",
+       "saldo": 57
+      },
+      {
+       "cod": 3025,
+       "cor": "Preto",
+       "nome": "GUACHE 250ML ACRILEX-PRETO",
+       "img": "produtos/3025.jpg",
+       "saldo": 60
+      },
+      {
        "cod": 3026,
        "cor": "Rosa",
        "nome": "GUACHE 250ML ACRILEX-ROSA",
        "img": "produtos/3026.jpg",
        "saldo": 76
+      },
+      {
+       "cod": 3028,
+       "cor": "Verde Bandeira",
+       "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
+       "img": "produtos/3028.jpg",
+       "saldo": 61
       },
       {
        "cod": 12684,
@@ -11808,7 +11798,7 @@
      "cod": 5763,
      "nome": "GUACHE 250ML ACRILEX-VERDE FOLHA",
      "marca": "ACRILEX",
-     "preco": 13.9,
+     "preco": 10.9,
      "img": "produtos/5763.jpg",
      "saldo": 73
     },
@@ -14657,7 +14647,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14451.jpg",
-     "saldo": 200
+     "saldo": 198
     },
     {
      "cod": 12476,
@@ -14756,7 +14746,7 @@
        "cor": "Verde",
        "nome": "PASTA POLIONDA 4CM VERDE",
        "img": "produtos/3869.jpg",
-       "saldo": 49
+       "saldo": 48
       },
       {
        "cod": 3870,
@@ -18440,7 +18430,7 @@
      "marca": "GRESPAN",
      "preco": 7.9,
      "img": "produtos/2377.jpg",
-     "saldo": 18
+     "saldo": 15
     },
     {
      "cod": 2378,
@@ -18488,7 +18478,7 @@
      "marca": "GRESPAN",
      "preco": 16.9,
      "img": "produtos/7400.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 13982,
@@ -19346,7 +19336,7 @@
        "cor": "Colorido",
        "nome": "GIZ DELTA C/64 COLORIDO",
        "img": "produtos/6465.jpg",
-       "saldo": 40
+       "saldo": 39
       }
      ]
     },
@@ -22355,7 +22345,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 151
+     "saldo": 150
     },
     {
      "cod": 4129,
@@ -22363,7 +22353,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 135
+     "saldo": 134
     },
     {
      "cod": 5005,
@@ -25275,7 +25265,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 513
+     "saldo": 512
     },
     {
      "cod": 2838,
@@ -25291,7 +25281,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 455
+     "saldo": 452
     },
     {
      "cod": 2840,
@@ -25552,7 +25542,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 457
+     "saldo": 456
     },
     {
      "cod": 2875,
@@ -25560,7 +25550,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 880
+     "saldo": 879
     },
     {
      "cod": 6825,
@@ -25758,7 +25748,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 319
+     "saldo": 316
     },
     {
      "cod": 6966,
@@ -25774,7 +25764,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 151
+     "saldo": 147
     },
     {
      "cod": 4427,
@@ -26240,7 +26230,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 132
+     "saldo": 131
     },
     {
      "cod": 3427,
@@ -26248,7 +26238,7 @@
      "marca": "DISPAFILM",
      "preco": 98.9,
      "img": "produtos/3427.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 1282,
@@ -27991,7 +27981,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 319
+     "saldo": 307
     },
     {
      "cod": 1155,
@@ -28087,7 +28077,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 523
+     "saldo": 518
     },
     {
      "cod": 6324,
@@ -31767,7 +31757,7 @@
      "marca": "DAC",
      "preco": 5.9,
      "img": "produtos/918.jpg",
-     "saldo": 18
+     "saldo": 14
     },
     {
      "cod": 919,
