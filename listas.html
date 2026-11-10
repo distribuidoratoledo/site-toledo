@@ -326,6 +326,7 @@
   <style>
     .aviso-montagem { display: none; }
     .dentro body > header, .dentro .faixa-contato, .dentro body > footer, .dentro .zap-fixo, .dentro .toledo { display: none !important; }
+    .dentro main { padding-bottom: 0.4rem; }   /* card da tela principal mais junto dos produtos (10/11/2026) */
     /* RUPTURA DENTRO DO SITE (05/11/2026: "quero que deixe o card ruptura aqui dentro do site ate finalizarmos o processo,
        depois transferimos"). So' aparece no modo previa; os dados vem de listas/ruptura.json (copia do banco da aba Ruptura). */
     .rup { display: none; }
@@ -953,7 +954,7 @@
           if (el.tagName === 'SCRIPT' || getComputedStyle(el).display === 'none' || getComputedStyle(el).position === 'fixed') return;
           fim = Math.max(fim, el.getBoundingClientRect().bottom + window.scrollY);
         });
-        var h = Math.ceil(fim + 24);
+        var h = Math.ceil(fim + 14);
         if (Math.abs(h - ult) > 2) { ult = h; window.parent.postMessage({ toledoListasAltura: h }, '*'); }
       }
       new ResizeObserver(medir).observe(document.body);
