@@ -1553,6 +1553,4574 @@
    ]
   },
   {
+   "id": "presbiteriano",
+   "nome": "Colégio Presbiteriano de Sete Lagoas",
+   "listas": [
+    {
+     "id": "presbiteriano-maternal2",
+     "ano": "Maternal II",
+     "orcamento": 660581,
+     "itens": [
+      {
+       "descricao": "Estojo/bolsinha escolar, com o nome do aluno",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno grande capa dura 96 folhas sem pauta",
+       "qtd": 1,
+       "cod": 414,
+       "produto": "CADERNO CD S/P 96F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Caderno capa dura sem pauta 96 folhas Tilibra. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/414.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de Giz de Cera Normal",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubos de cola branca 90g",
+       "qtd": 3,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixas de massa para modelar 12 cores (a base de amido)",
+       "qtd": 4,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor JUMBO",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo de canetinha hidrográfica ponta grossa/JUMBO – 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Livros de literatura infantil com LETRA BASTÃO, adequado para a idade (dar preferência a livros mais resistentes – pode ser usado e em bom estado)",
+       "qtd": 2,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Brinquedo de faz-de-conta – pode ser usado e em bom estado (carrinhos, bonecas, brinquedos para modelar massinhas, ferramentas)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Brinquedo de encaixe",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Instrumento musical de brinquedo (ex. pandeiro, violão, tambor, etc)",
+       "qtd": 1,
+       "cod": 6044,
+       "produto": "FLAUTA",
+       "marca": "PLAST'SAND",
+       "preco": 21.9,
+       "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6044.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Camisa usada do papai ou da mamãe (para proteger o uniforme no momento da pintura)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250ml vermelho",
+       "qtd": 1,
+       "cod": 3029,
+       "produto": "GUACHE 250ML ACRILEX-VERMELHO FOGO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3029.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "100 folhas brancas tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "Pacote com 500 folhas.",
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "100 folhas brancas tamanho A3",
+       "qtd": 1,
+       "cod": 5082,
+       "produto": "PAPEL A3 C/100 CHAMEX (75GR)",
+       "marca": "CHAMEX",
+       "preco": 17.9,
+       "obs": "Papel A3 Chamex, pacote com 100 folhas.",
+       "foto": "listas/fotos/5082.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "50 palitos de picolé com ponta redonda (qualquer cor)",
+       "qtd": 1,
+       "cod": 3882,
+       "produto": "PALITO PICOLE REDONDO C/100",
+       "marca": "RENATA",
+       "preco": 3.9,
+       "obs": "Palito de picolé redondo, pacote com 100.",
+       "foto": "listas/fotos/3882.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de E.V.A com glitter 40x60 azul",
+       "qtd": 2,
+       "cod": 6665,
+       "produto": "EVA GLITER-AZUL CELESTE/ROYAL",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/6665.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de colorset 48x66 azul escuro",
+       "qtd": 1,
+       "cod": 2039,
+       "produto": "COLORSETE-AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2039.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom rosa",
+       "qtd": 1,
+       "cod": 7379,
+       "produto": "CREPOM ROSA CLARO",
+       "preco": 1.9,
+       "foto": "listas/fotos/7379.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote plástico de maionese vazio de 500g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Garrafa pet pequena vazia",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura cor verde (agenda)",
+       "qtd": 1,
+       "cod": 9321,
+       "produto": "CADERNO PEQ. CD 96F (VERDE)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas verde.",
+       "foto": "listas/fotos/9321.jpg",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Garrafinha para água (com o nome da criança)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Fraldas descartáveis para alunos que fazem uso (manter na mochila sempre essa quantidade)",
+       "qtd": 4,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Embalagem de lenços umedecidos (p/ alunos que usam fraldas)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Opções de muda de roupa para troca, caso seja necessário",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Fraldas e lenços umedecidos deverão ser enviados com identificação. Para os alunos que utilizam fraldas, manter a quantidade necessária para as trocas feitas na escola.",
+      "Itens com * precisam de reposição durante o ano."
+     ]
+    },
+    {
+     "id": "presbiteriano-maternal3",
+     "ano": "Maternal III",
+     "orcamento": 660582,
+     "itens": [
+      {
+       "descricao": "Estojo/bolsinha escolar, com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de escrever jumbo",
+       "qtd": 1,
+       "cod": 7862,
+       "produto": "LAPIS ESCREVER MAPED JUMBO",
+       "marca": "MAPED",
+       "preco": 2.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7862.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borracha macia grande",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos sem pauta de capa dura grande 96 folhas “Atividades de Aula” e “Para Casa”",
+       "qtd": 2,
+       "cod": 414,
+       "produto": "CADERNO CD S/P 96F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Caderno capa dura sem pauta 96 folhas Tilibra.",
+       "foto": "listas/fotos/414.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor Jumbo – 12 cores",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de giz de cera – 12 cores",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubos de cola branca 90g",
+       "qtd": 3,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo de canetinha hidrográfica ponta grossa – 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura escolar plástica sem lâmina",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura sem ponta Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixas de massa para modelar 6 cores (à base de amido)",
+       "qtd": 4,
+       "cod": 3538,
+       "produto": "MASSA MODELAR ACRILEX C/6 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Massa de modelar Acrilex com 6 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/3538.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Livros de literatura infantil com LETRA BASTÃO, adequado para a idade (dar preferência a livros mais resistentes – pode ser usado e em bom estado)",
+       "qtd": 2,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo de letras móveis de plástico (alfabeto móvel)",
+       "qtd": 1,
+       "cod": 6107,
+       "produto": "BRINQUEDO PEDAG. BRINC. LETRAS C/62",
+       "marca": "PAIS&FILHO",
+       "preco": 17.9,
+       "obs": "Brincando com as letras, 62 peças.",
+       "foto": "listas/fotos/6107.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico (com nome) para envio de Para Casa",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Avental (para proteger o uniforme no momento de pintura)",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Revista (para recorte – conferir o conteúdo)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Rolinho de espuma para pintura",
+       "qtd": 1,
+       "cod": 6046,
+       "produto": "ROLO PINTURA 4CM",
+       "marca": "TIGRE",
+       "preco": 3.9,
+       "obs": "Rolo de pintura 4 cm.",
+       "foto": "listas/fotos/6046.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caixa de cola colorida lavável (c/ 6 unidades)",
+       "qtd": 1,
+       "cod": 3322,
+       "produto": "COLA COLORIDA C/6 ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 15.9,
+       "foto": "listas/fotos/3322.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Cola colorida com glitter",
+       "qtd": 1,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "50 palitos de picolé com ponta redonda (qualquer cor)",
+       "qtd": 1,
+       "cod": 3882,
+       "produto": "PALITO PICOLE REDONDO C/100",
+       "marca": "RENATA",
+       "preco": 3.9,
+       "obs": "Palito de picolé redondo, pacote com 100.",
+       "foto": "listas/fotos/3882.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "300 folhas brancas tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "Pacote com 500 folhas.",
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) vermelho",
+       "qtd": 1,
+       "cod": 2065,
+       "produto": "COLORSETE A4 C/50 VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2065.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de E.V.A com glitter 40x60 vermelho",
+       "qtd": 2,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom vermelho",
+       "qtd": 1,
+       "cod": 2081,
+       "produto": "CREPOM VERMELHO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2081.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote plástico de maionese vazio de 500g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura cor verde (agenda)",
+       "qtd": 1,
+       "cod": 9321,
+       "produto": "CADERNO PEQ. CD 96F (VERDE)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas verde.",
+       "foto": "listas/fotos/9321.jpg",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Fraldas descartáveis para alunos que fazem uso",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Embalagem de lenços umedecidos (p/ alunos que usam fraldas)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Opções de muda de roupa para troca, caso seja necessário",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ]
+    },
+    {
+     "id": "presbiteriano-periodo1",
+     "ano": "1º Período",
+     "orcamento": 660583,
+     "itens": [
+      {
+       "descricao": "Pastas plásticas (finas), com aba e elástico para envio de “Para Casa” e “Roda Literária”",
+       "qtd": 2,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta de capa dura grande 96 folhas para “Atividades de Aula”",
+       "qtd": 1,
+       "cod": 414,
+       "produto": "CADERNO CD S/P 96F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Caderno capa dura sem pauta 96 folhas Tilibra. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/414.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta capa dura grande 96 folhas para “Para Casa”",
+       "qtd": 1,
+       "cod": 414,
+       "produto": "CADERNO CD S/P 96F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Caderno capa dura sem pauta 96 folhas Tilibra. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/414.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno de desenho para “Artes”",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo/bolsinha escolar marcado com o nome do aluno",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macia grande",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador para lápis com coletor",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor – 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de giz de cera – 12 cores",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubos de cola branca 90g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo de canetinha hidrográfica ponta grossa – 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura escolar plástica (com lâmina)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura sem ponta Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixas de massa para modelar – 12 cores (à base de amido)",
+       "qtd": 5,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pote plástico de maionese vazio de 500g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Balde de jogo de letras móveis de plástico (alfabeto móvel)",
+       "qtd": 1,
+       "cod": 6107,
+       "produto": "BRINQUEDO PEDAG. BRINC. LETRAS C/62",
+       "marca": "PAIS&FILHO",
+       "preco": 17.9,
+       "obs": "Brincando com as letras, 62 peças.",
+       "foto": "listas/fotos/6107.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo de quebra-cabeça e memória",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros com 30 peças.",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lata de massa de tomate vazia c/ tampa para usar como porta lápis na escola (será enfeitada pela professora)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de tinta aquarela escolar 12 cores",
+       "qtd": 1,
+       "cod": 6241,
+       "produto": "AQUARELA ACRILEX C/12 CORES",
+       "marca": "ACRILEX",
+       "preco": 25.9,
+       "obs": "Aquarela Acrilex com 12 cores.",
+       "foto": "listas/fotos/6241.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Rolinho de espuma para pintura",
+       "qtd": 1,
+       "cod": 6046,
+       "produto": "ROLO PINTURA 4CM",
+       "marca": "TIGRE",
+       "preco": 3.9,
+       "obs": "Rolo de pintura 4 cm.",
+       "foto": "listas/fotos/6046.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "50 palitos de picolé com ponta redonda (qualquer cor)",
+       "qtd": 1,
+       "cod": 3882,
+       "produto": "PALITO PICOLE REDONDO C/100",
+       "marca": "RENATA",
+       "preco": 3.9,
+       "obs": "Palito de picolé redondo, pacote com 100.",
+       "foto": "listas/fotos/3882.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha A4 60kg (branca)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) rosa",
+       "qtd": 1,
+       "cod": 2059,
+       "produto": "COLORSETE A4 C/50 ROSA CLARO",
+       "preco": 15.9,
+       "foto": "listas/fotos/2059.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de E.V.A com glitter 40x60 verde",
+       "qtd": 2,
+       "cod": 1225,
+       "produto": "EVA GLITER-VERDE BANDEIRA/GRAMA",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1225.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom verde bandeira",
+       "qtd": 1,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha creative paper",
+       "qtd": 1,
+       "cod": 3340,
+       "produto": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 8.9,
+       "obs": "Papel Criative Paper Griffe com 48 folhas.",
+       "foto": "listas/fotos/3340.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Revistas (para recorte – conferir o conteúdo)",
+       "qtd": 3,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura cor verde (para Agenda)",
+       "qtd": 1,
+       "cod": 9321,
+       "produto": "CADERNO PEQ. CD 96F (VERDE)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas verde.",
+       "foto": "listas/fotos/9321.jpg",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais que devem estar na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "4 anos"
+    },
+    {
+     "id": "presbiteriano-periodo2",
+     "ano": "2º Período",
+     "orcamento": 660584,
+     "itens": [
+      {
+       "descricao": "Pastas plásticas (finas), com aba e elástico para envio de “Para Casa” e “Roda Literária”",
+       "qtd": 2,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos para uso em projetos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta numerada Alibombom (verde) capa dura, 80 folhas (2 para Atividades de Aula e 1 de Para Casa)",
+       "qtd": 3,
+       "cod": 365,
+       "produto": "CADERNO ALIBOM. CD 80F-VERDE",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/365.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno de desenho com 48 folhas sem pauta",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo/bolsinha escolar marcado com o nome do aluno",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Marcador para retroprojetor/CD preto fino",
+       "qtd": 1,
+       "cod": 7579,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar azul.",
+       "foto": "listas/fotos/7579.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macias grande",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador para lápis com coletor",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor – 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de giz de cera – 12 cores",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubos de cola branca 90g",
+       "qtd": 3,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura escolar plástica (com lâmina)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura sem ponta Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixas de massa para modelar – 12 cores (à base de amido)",
+       "qtd": 4,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Brinquedo Pedagógico (sugestão: quebra-cabeça de madeira; blocos lógicos, dominó ou memória de adição e subtração) – pode ser usado e em bom estado",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros com 30 peças.",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Balde de letras móveis de plástico (alfabeto móvel)",
+       "qtd": 1,
+       "cod": 6107,
+       "produto": "BRINQUEDO PEDAG. BRINC. LETRAS C/62",
+       "marca": "PAIS&FILHO",
+       "preco": 17.9,
+       "obs": "Brincando com as letras, 62 peças.",
+       "foto": "listas/fotos/6107.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pote plástico de maionese vazio de 500g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de tinta aquarela escolar 12 cores",
+       "qtd": 1,
+       "cod": 6241,
+       "produto": "AQUARELA ACRILEX C/12 CORES",
+       "marca": "ACRILEX",
+       "preco": 25.9,
+       "obs": "Aquarela Acrilex com 12 cores.",
+       "foto": "listas/fotos/6241.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) marrom",
+       "qtd": 1,
+       "cod": 2057,
+       "produto": "COLORSETE A4 C/50 MARROM",
+       "marca": "MINASPEL",
+       "preco": 15.9,
+       "foto": "listas/fotos/2057.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de E.V.A 40x60 amarelo com glitter",
+       "qtd": 1,
+       "cod": 8929,
+       "produto": "EVA GLITER-AMARELO",
+       "marca": "MAKE+",
+       "preco": 3.9,
+       "foto": "listas/fotos/8929.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de colorset 48x66 branca",
+       "qtd": 3,
+       "cod": 14254,
+       "produto": "COLORSETE-BRANCO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/14254.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom amarelo",
+       "qtd": 1,
+       "cod": 2068,
+       "produto": "CREPOM AMARELO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2068.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Revistas (para recorte – conferir o conteúdo)",
+       "qtd": 3,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura cor verde (para agenda)",
+       "qtd": 1,
+       "cod": 9321,
+       "produto": "CADERNO PEQ. CD 96F (VERDE)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas verde.",
+       "foto": "listas/fotos/9321.jpg",
+       "grupo": "Materiais que devem permanecer na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais que devem permanecer na mochila diariamente",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "5 anos"
+    },
+    {
+     "id": "presbiteriano-ano1",
+     "ano": "1º Ano",
+     "orcamento": 660585,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis pretos",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubo de cola branca grande",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor (mínimo 12 cores)",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de canetinhas (12 cores)",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de giz cera (12 cores)",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta numeradas (123), capa dura, com 80 folhas para: Língua Portuguesa, Inglês, Matemática",
+       "qtd": 3,
+       "cod": 365,
+       "produto": "CADERNO ALIBOM. CD 80F-VERDE",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/365.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta numeradas (123), capa dura (preferencialmente), com 48 ou 60 folhas para: História, Ciências, Geografia",
+       "qtd": 3,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 folhas para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno pequeno de (96 folhas) capa dura (para Agenda)",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Gibis (em bom estado)",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Brinquedo Pedagógico (sugestão: quebra-cabeça de madeira, blocos lógicos, dominó ou memória de adição e subtração) – pode ser usado e em bom estado",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros com 30 peças.",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo de letras móveis de plástico (alfabeto móvel) – trazer dentro de um pote com tampa",
+       "qtd": 1,
+       "cod": 6107,
+       "produto": "BRINQUEDO PEDAG. BRINC. LETRAS C/62",
+       "marca": "PAIS&FILHO",
+       "preco": 17.9,
+       "obs": "Brincando com as letras, 62 peças.",
+       "foto": "listas/fotos/6107.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Material Dourado individual (62 peças), em madeira",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "obs": "Material dourado com 111 peças.",
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pacote de cédulas do real",
+       "qtd": 1,
+       "cod": 13649,
+       "produto": "BRINQUEDO PEDG. DINHEIRINHO C/48",
+       "marca": "GGB BRINQ.",
+       "preco": 5.9,
+       "obs": "Dinheirinho com 48 cédulas.",
+       "foto": "listas/fotos/13649.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixas de massa para modelar – 12 cores (à base de amido)",
+       "qtd": 3,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico para envio de “Para Casa” e “Roda Literária”",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Revistas passatempo para atividades",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 30 plásticos, para arquivar avaliações e trabalhos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de giz de cera (12 cores)",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml azul escuro",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/5764.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 08",
+       "qtd": 1,
+       "cod": 10999,
+       "produto": "PINCEL CHATO 08",
+       "marca": "TIGRE",
+       "preco": 3.9,
+       "foto": "listas/fotos/10999.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 12",
+       "qtd": 1,
+       "cod": 10997,
+       "produto": "PINCEL CHATO 12",
+       "preco": 4.9,
+       "foto": "listas/fotos/10997.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Rolinho de espuma para pintura",
+       "qtd": 1,
+       "cod": 6046,
+       "produto": "ROLO PINTURA 4CM",
+       "marca": "TIGRE",
+       "preco": 3.9,
+       "obs": "Rolo de pintura 4 cm.",
+       "foto": "listas/fotos/6046.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de creative paper (cores florescentes)",
+       "qtd": 1,
+       "cod": 3340,
+       "produto": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 8.9,
+       "obs": "Papel Criative Paper Griffe com 48 folhas.",
+       "foto": "listas/fotos/3340.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de E.V.A com glitter 40x60 prata",
+       "qtd": 1,
+       "cod": 1221,
+       "produto": "EVA GLITER-PRATA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1221.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom verde bandeira",
+       "qtd": 1,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Revista (para recorte – conferir o conteúdo)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "6 anos"
+    },
+    {
+     "id": "presbiteriano-ano2",
+     "ano": "2º Ano",
+     "orcamento": 660586,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis pretos",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de canetinhas (12 cores)",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubo de cola branca grande",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor (mínimo 12 cores)",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de giz de cera (12 cores)",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta permanente, ponta média 2.0mm para aula de Arte",
+       "qtd": 1,
+       "cod": 7579,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar azul.",
+       "foto": "listas/fotos/7579.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta numeradas (123), capa dura, com 80 folhas para: Língua Portuguesa, Inglês, Matemática",
+       "qtd": 3,
+       "cod": 365,
+       "produto": "CADERNO ALIBOM. CD 80F-VERDE",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/365.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta numeradas (123), capa dura (preferencialmente), com 48 ou 60 folhas para: História, Ciências, Geografia",
+       "qtd": 3,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 folhas para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura (para Agenda)",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Revistas passatempo para atividades",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Gibis",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Jogo pedagógico (Sugestão: Dominó ou memória de adição, subtração e multiplicação / Dama, xadrez ou trilha / Quebra-cabeça de até 200 peças)",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros com 30 peças.",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Material Dourado Individual (62 peças), em madeira – pode usar o que já tem do ano anterior",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "obs": "Material dourado com 111 peças.",
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de massa para modelar – 12 cores",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pastas plásticas (finas), com aba e elástico para envio de “Para Casa” e “Roda Literária”",
+       "qtd": 2,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 30 plásticos, para arquivar avaliações e trabalhos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml amarelo",
+       "qtd": 1,
+       "cod": 3020,
+       "produto": "GUACHE 250ML ACRILEX-AMARELO OURO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3020.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Rolinho de espuma para pintura",
+       "qtd": 1,
+       "cod": 6046,
+       "produto": "ROLO PINTURA 4CM",
+       "marca": "TIGRE",
+       "preco": 3.9,
+       "obs": "Rolo de pintura 4 cm.",
+       "foto": "listas/fotos/6046.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) verde escuro",
+       "qtd": 1,
+       "cod": 2063,
+       "produto": "COLORSETE A4 C/50 VERDE BANDEIRA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2063.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de creative paper (cores florescentes)",
+       "qtd": 1,
+       "cod": 3340,
+       "produto": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 8.9,
+       "obs": "Papel Criative Paper Griffe com 48 folhas.",
+       "foto": "listas/fotos/3340.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de E.V.A 40x60 laranja",
+       "qtd": 2,
+       "cod": 1235,
+       "produto": "EVA LISO-LARANJA",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1235.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de colorset 48x66 amarelo",
+       "qtd": 2,
+       "cod": 2037,
+       "produto": "COLORSETE-AMARELO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2037.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de colorset 48x66 laranja",
+       "qtd": 1,
+       "cod": 2041,
+       "produto": "COLORSETE-LARANJA",
+       "preco": 1.3,
+       "foto": "listas/fotos/2041.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom vermelho",
+       "qtd": 1,
+       "cod": 2081,
+       "produto": "CREPOM VERMELHO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2081.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "7 anos"
+    },
+    {
+     "id": "presbiteriano-ano3",
+     "ano": "3º Ano",
+     "orcamento": 660587,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis pretos",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubo de cola branca (grande)",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor (mínimo 12 cores)",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de canetinhas (12 cores)",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta permanente, ponta média 2.0mm para aulas de Arte",
+       "qtd": 1,
+       "cod": 7579,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar azul.",
+       "foto": "listas/fotos/7579.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta marca textos (cor a escolher)",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes brochura capa dura com pauta para: Língua Portuguesa, Matemática e Inglês (96 folhas)",
+       "qtd": 3,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes brochura capa dura com pauta para: Ciências, História e Geografia (48 folhas)",
+       "qtd": 3,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura (agenda)",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 folhas para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário da Língua Portuguesa – com as novas regras ortográficas",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Revistas de palavras cruzadas e desafios, nível fácil",
+       "qtd": 3,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pastas plásticas (fina), com aba e elástico para envio de “Para Casa” e “Roda Literária”",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 30 plásticos, para arquivar avaliações e trabalhos.",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml branco",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Estojo de tinta aquarela escolar 12 cores",
+       "qtd": 1,
+       "cod": 6241,
+       "produto": "AQUARELA ACRILEX C/12 CORES",
+       "marca": "ACRILEX",
+       "preco": 25.9,
+       "obs": "Aquarela Acrilex com 12 cores.",
+       "foto": "listas/fotos/6241.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Rolinho de espuma para pintura",
+       "qtd": 1,
+       "cod": 6046,
+       "produto": "ROLO PINTURA 4CM",
+       "marca": "TIGRE",
+       "preco": 3.9,
+       "obs": "Rolo de pintura 4 cm.",
+       "foto": "listas/fotos/6046.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) preto",
+       "qtd": 1,
+       "cod": 2058,
+       "produto": "COLORSETE A4 C/50 PRETO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2058.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de creative paper (cores florescentes)",
+       "qtd": 1,
+       "cod": 3340,
+       "produto": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 8.9,
+       "obs": "Papel Criative Paper Griffe com 48 folhas.",
+       "foto": "listas/fotos/3340.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de E.V.A 40x60 verde bandeira",
+       "qtd": 1,
+       "cod": 7675,
+       "produto": "EVA LISO-VERDE ESCURO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/7675.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de E.V.A 40x60 verde claro",
+       "qtd": 1,
+       "cod": 4008,
+       "produto": "EVA LISO-VERDE CLARO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/4008.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de colorset 48x66 azul claro",
+       "qtd": 2,
+       "cod": 4181,
+       "produto": "COLORSETE-AZUL CLARO",
+       "preco": 1.3,
+       "foto": "listas/fotos/4181.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom azul escuro",
+       "qtd": 1,
+       "cod": 2070,
+       "produto": "CREPOM AZUL ESCURO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2070.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "8 anos"
+    },
+    {
+     "id": "presbiteriano-ano4",
+     "ano": "4º Ano",
+     "orcamento": 660588,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis pretos",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubo de cola branca grande",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor (mínimo 12 cores)",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de canetinhas (12 cores)",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta permanente, ponta média de 2.0mm para aulas de Arte",
+       "qtd": 1,
+       "cod": 7579,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar azul.",
+       "foto": "listas/fotos/7579.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta marca textos (cor a escolher)",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta, brochura ou capa dura: Língua Portuguesa, Matemática e Inglês (96 folhas)",
+       "qtd": 3,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos grandes com pauta, brochura ou capa dura: Ciências, História e Geografia (48 folhas)",
+       "qtd": 3,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura (para Agenda)",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 folhas para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico (com nome) para envio de Para Casa",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 30 plásticos, para arquivar avaliações e trabalhos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml rosa ou cinza",
+       "qtd": 1,
+       "cod": 3026,
+       "produto": "GUACHE 250ML ACRILEX-ROSA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Rosa (temos também cinza).",
+       "foto": "listas/fotos/3026.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) azul claro",
+       "qtd": 1,
+       "cod": 4763,
+       "produto": "COLORSETE A4 C/50 AZUL CLARO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/4763.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de creative paper (cores florescentes)",
+       "qtd": 1,
+       "cod": 3340,
+       "produto": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 8.9,
+       "obs": "Papel Criative Paper Griffe com 48 folhas.",
+       "foto": "listas/fotos/3340.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de E.V.A 40x60 vermelho ou rosa",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "obs": "Vermelho (temos também rosa).",
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de colorset 48x66 preto",
+       "qtd": 2,
+       "cod": 2044,
+       "produto": "COLORSETE-PRETO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2044.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom laranja",
+       "qtd": 1,
+       "cod": 4715,
+       "produto": "CREPOM LARANJA",
+       "preco": 1.9,
+       "foto": "listas/fotos/4715.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jornal velho/usado",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "9 anos"
+    },
+    {
+     "id": "presbiteriano-ano5",
+     "ano": "5º Ano",
+     "orcamento": 660589,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis pretos",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tubo de cola branca grande",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borrachas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de lápis de cor (mínimo 12 cores)",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Estojo de canetinhas (12 cores)",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Corretivo de fita",
+       "qtd": 1,
+       "cod": 6632,
+       "produto": "CORRETIVO FITA 6M-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 5.9,
+       "foto": "listas/fotos/6632.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta permanente, ponta média 2.0mm para aulas de Arte",
+       "qtd": 1,
+       "cod": 7579,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-AZUL",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar azul.",
+       "foto": "listas/fotos/7579.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta marca textos (cor a escolher)",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada. Precisa de reposição durante o ano.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta preta /azul / vermelha",
+       "qtd": 1,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "obs": "Caneta BIC azul (temos também preta e vermelha).",
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos com pauta, brochura ou capa dura: Língua Portuguesa, Matemática e Inglês (96 folhas)",
+       "qtd": 3,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos com pauta, brochura ou capa dura: Ciências, História e Geografia (48 folhas)",
+       "qtd": 3,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno pequeno de 96 folhas capa dura (para Agenda)",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 folhas para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico para envio de “Para Casa” e “Roda Literária”",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 30 plásticos, para arquivar avaliações e trabalhos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caixa de tinta guache Neon (c/6 unidades)",
+       "qtd": 1,
+       "cod": 7683,
+       "produto": "GUACHE 15ML C/6 NEON-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 16.9,
+       "obs": "Guache Acrilex neon com 6 cores.",
+       "foto": "listas/fotos/7683.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml preto",
+       "qtd": 1,
+       "cod": 3025,
+       "produto": "GUACHE 250ML ACRILEX-PRETO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3025.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pincel nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha A4 60kg (branca)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) verde claro",
+       "qtd": 1,
+       "cod": 2064,
+       "produto": "COLORSETE A4 C/50 VERDE CLARO",
+       "marca": "MINASPEL",
+       "preco": 15.9,
+       "foto": "listas/fotos/2064.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de E.V.A 40x60 branco",
+       "qtd": 2,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folhas de colorset 48x66 vermelho",
+       "qtd": 2,
+       "cod": 2050,
+       "produto": "COLORSETE-VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2050.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Folha de papel crepom branco",
+       "qtd": 1,
+       "cod": 5075,
+       "produto": "CREPOM BRANCO",
+       "preco": 1.9,
+       "foto": "listas/fotos/5075.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jornal velho/usado",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Itens com * precisam de reposição durante o ano."
+     ],
+     "idade": "10 anos"
+    },
+    {
+     "id": "presbiteriano-ano6",
+     "ano": "6º Ano",
+     "orcamento": 660590,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis",
+       "qtd": 1,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borracha",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica azul",
+       "qtd": 1,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica preta",
+       "qtd": 1,
+       "cod": 553,
+       "produto": "CANETA BIC CRISTAL-PRETA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/553.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica vermelha",
+       "qtd": 1,
+       "cod": 554,
+       "produto": "CANETA BIC CRISTAL-VERMELHA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/554.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cola",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Corretivo de fita",
+       "qtd": 1,
+       "cod": 6632,
+       "produto": "CORRETIVO FITA 6M-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 5.9,
+       "foto": "listas/fotos/6632.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos (um para cada disciplina: Língua Portuguesa, Matemática, Ciências, Geografia, História, Língua Inglesa) ou pode optar pelo caderno tipo Universitário (dividido em várias disciplinas), ou o fichário. Isso vai depender da organização de cada família e aluno(a).",
+       "qtd": 6,
+       "cod": 9324,
+       "produto": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno 1 matéria 96 folhas. Temos também o caderno 10 matérias (cód. 10933): consulte a vendedora.",
+       "foto": "listas/fotos/9324.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 fls. para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Agenda 2027 com página diária para registro de tarefas, trabalhos e lembretes.",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper 160 folhas.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário Inglês/Português",
+       "qtd": 1,
+       "cod": 1000,
+       "produto": "DICIONARIO INGLES-DCL",
+       "marca": "DCL",
+       "preco": 14.9,
+       "foto": "listas/fotos/1000.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário da Língua Portuguesa – com as novas regras ortográficas",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico (com nome) para envio de Para Casa",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 100 plásticos, para organização das avaliações",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos, para organização das redações",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Blocos pautados tamanho A4 com 50 folhas para Redação",
+       "qtd": 2,
+       "cod": 212,
+       "produto": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+       "marca": "TAMOIOS",
+       "preco": 14.9,
+       "obs": "Bloco pautado grande com 50 folhas.",
+       "foto": "listas/fotos/212.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 180°",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 360°",
+       "qtd": 1,
+       "cod": 3088,
+       "produto": "TRANSFERIDOR 360º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/3088.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Esquadro de 45°",
+       "qtd": 1,
+       "cod": 1136,
+       "produto": "ESQUADRO 21X45-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1136.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Esquadro de 60°",
+       "qtd": 1,
+       "cod": 1137,
+       "produto": "ESQUADRO 21X60-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1137.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Compasso escolar",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml laranja",
+       "qtd": 1,
+       "cod": 3023,
+       "produto": "GUACHE 250ML ACRILEX-LARANJA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3023.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha A4 60kg (branca)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) azul escuro",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Alguns materiais de Arte deverão ser adquiridos no decorrer do ano letivo à medida que os professores solicitarem."
+     ],
+     "idade": "11 anos"
+    },
+    {
+     "id": "presbiteriano-ano7",
+     "ano": "7º Ano",
+     "orcamento": 660591,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis",
+       "qtd": 1,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borracha",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica azul",
+       "qtd": 1,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica preta",
+       "qtd": 1,
+       "cod": 553,
+       "produto": "CANETA BIC CRISTAL-PRETA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/553.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica vermelha",
+       "qtd": 1,
+       "cod": 554,
+       "produto": "CANETA BIC CRISTAL-VERMELHA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/554.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cola",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Corretivo de fita",
+       "qtd": 1,
+       "cod": 6632,
+       "produto": "CORRETIVO FITA 6M-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 5.9,
+       "foto": "listas/fotos/6632.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos (um para cada disciplina: Língua Portuguesa, Matemática, Ciências, Geografia, História, Língua Inglesa) ou pode optar pelo caderno tipo Universitário (dividido em várias disciplinas), ou o fichário. Isso vai depender da organização de cada família e aluno(a).",
+       "qtd": 6,
+       "cod": 9324,
+       "produto": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno 1 matéria 96 folhas. Temos também o caderno 10 matérias (cód. 10933): consulte a vendedora.",
+       "foto": "listas/fotos/9324.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 fls. para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Agenda 2027 com página diária para registro de tarefas, trabalhos e lembretes.",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper 160 folhas.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário Inglês/Português",
+       "qtd": 1,
+       "cod": 1000,
+       "produto": "DICIONARIO INGLES-DCL",
+       "marca": "DCL",
+       "preco": 14.9,
+       "foto": "listas/fotos/1000.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário da Língua Portuguesa – com as novas regras ortográficas",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico (com nome) para envio de Para Casa",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 100 plásticos, para organização das avaliações",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos, para organização das redações",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Blocos pautados tamanho A4 com 50 folhas para Redação",
+       "qtd": 2,
+       "cod": 212,
+       "produto": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+       "marca": "TAMOIOS",
+       "preco": 14.9,
+       "obs": "Bloco pautado grande com 50 folhas.",
+       "foto": "listas/fotos/212.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 180°",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 360°",
+       "qtd": 1,
+       "cod": 3088,
+       "produto": "TRANSFERIDOR 360º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/3088.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Compasso escolar",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml azul claro",
+       "qtd": 1,
+       "cod": 6269,
+       "produto": "GUACHE 250ML ACRILEX-AZUL CELESTE",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/6269.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha A4 60kg (branca)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) laranja",
+       "qtd": 1,
+       "cod": 2055,
+       "produto": "COLORSETE A4 C/50 LARANJA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2055.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Alguns materiais de Arte deverão ser adquiridos no decorrer do ano letivo à medida que os professores solicitarem."
+     ],
+     "idade": "12 anos"
+    },
+    {
+     "id": "presbiteriano-ano8",
+     "ano": "8º Ano",
+     "orcamento": 660592,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis",
+       "qtd": 1,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borracha",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica azul",
+       "qtd": 1,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica preta",
+       "qtd": 1,
+       "cod": 553,
+       "produto": "CANETA BIC CRISTAL-PRETA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/553.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica vermelha",
+       "qtd": 1,
+       "cod": 554,
+       "produto": "CANETA BIC CRISTAL-VERMELHA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/554.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cola",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Corretivo de fita",
+       "qtd": 1,
+       "cod": 6632,
+       "produto": "CORRETIVO FITA 6M-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 5.9,
+       "foto": "listas/fotos/6632.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos (um para cada disciplina: Língua Portuguesa, Matemática, Ciências, Geografia, História, Língua Inglesa) ou pode optar pelo caderno tipo Universitário (dividido em várias disciplinas), ou o fichário. Isso vai depender da organização de cada família e aluno(a).",
+       "qtd": 6,
+       "cod": 9324,
+       "produto": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno 1 matéria 96 folhas. Temos também o caderno 10 matérias (cód. 10933): consulte a vendedora.",
+       "foto": "listas/fotos/9324.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 fls. para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Agenda 2027 com página diária para registro de tarefas, trabalhos e lembretes.",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper 160 folhas.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário Inglês/Português",
+       "qtd": 1,
+       "cod": 1000,
+       "produto": "DICIONARIO INGLES-DCL",
+       "marca": "DCL",
+       "preco": 14.9,
+       "foto": "listas/fotos/1000.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário da Língua Portuguesa – com as novas regras ortográficas",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico (com nome) para envio de Para Casa",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 100 plásticos, para organização das avaliações",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos, para organização das redações",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Blocos pautados tamanho A4 com 50 folhas para Redação",
+       "qtd": 2,
+       "cod": 212,
+       "produto": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+       "marca": "TAMOIOS",
+       "preco": 14.9,
+       "obs": "Bloco pautado grande com 50 folhas.",
+       "foto": "listas/fotos/212.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 180°",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 360°",
+       "qtd": 1,
+       "cod": 3088,
+       "produto": "TRANSFERIDOR 360º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/3088.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Compasso escolar",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml branco",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha A4 60kg (branca)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) pêssego",
+       "qtd": 1,
+       "cod": 2059,
+       "produto": "COLORSETE A4 C/50 ROSA CLARO",
+       "preco": 15.9,
+       "obs": "Rosa claro (não temos pêssego).",
+       "foto": "listas/fotos/2059.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Alguns materiais de Arte deverão ser adquiridos no decorrer do ano letivo à medida que os professores solicitarem."
+     ],
+     "idade": "13 anos"
+    },
+    {
+     "id": "presbiteriano-ano9",
+     "ano": "9º Ano",
+     "orcamento": 660593,
+     "itens": [
+      {
+       "descricao": "Estojo escolar marcado com o nome do aluno, contendo:",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis",
+       "qtd": 1,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Borracha",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Apontador",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica azul",
+       "qtd": 1,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica preta",
+       "qtd": 1,
+       "cod": 553,
+       "produto": "CANETA BIC CRISTAL-PRETA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/553.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caneta esferográfica vermelha",
+       "qtd": 1,
+       "cod": 554,
+       "produto": "CANETA BIC CRISTAL-VERMELHA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/554.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cola",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Corretivo de fita",
+       "qtd": 1,
+       "cod": 6632,
+       "produto": "CORRETIVO FITA 6M-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 5.9,
+       "foto": "listas/fotos/6632.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Cadernos com 96 folhas (um para cada disciplina: Língua Portuguesa, Matemática, Ciências, Geografia, História, Língua Inglesa, Biologia, Física e Química) ou pode optar pelo caderno tipo Universitário (dividido em várias disciplinas), ou o fichário. Isso vai depender da organização de cada família e aluno(a).",
+       "qtd": 9,
+       "cod": 9324,
+       "produto": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno 1 matéria 96 folhas. Temos também o caderno 10 matérias (cód. 10933): consulte a vendedora.",
+       "foto": "listas/fotos/9324.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Caderno sem pauta 48 fls. para Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "obs": "Caderno de desenho cartonado 48 folhas.",
+       "foto": "listas/fotos/10911.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Agenda 2027 com página diária para registro de tarefas, trabalhos e lembretes.",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper 160 folhas.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário Inglês/Português",
+       "qtd": 1,
+       "cod": 1000,
+       "produto": "DICIONARIO INGLES-DCL",
+       "marca": "DCL",
+       "preco": 14.9,
+       "foto": "listas/fotos/1000.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Dicionário da Língua Portuguesa – com as novas regras ortográficas",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta plástica (fina), com aba e elástico (com nome) para envio de Para Casa",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 100 plásticos, para organização das avaliações",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos, para organização das redações",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Blocos pautados tamanho A4 com 50 folhas para Redação",
+       "qtd": 2,
+       "cod": 212,
+       "produto": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+       "marca": "TAMOIOS",
+       "preco": 14.9,
+       "obs": "Bloco pautado grande com 50 folhas.",
+       "foto": "listas/fotos/212.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 180°",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Transferidor de 360°",
+       "qtd": 1,
+       "cod": 3088,
+       "produto": "TRANSFERIDOR 360º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/3088.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Compasso escolar",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Garrafinha para água (com nome)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Materiais de uso individual"
+      },
+      {
+       "descricao": "Pote de tinta guache de 250 ml branco",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Tela para pintura 20x30 (não serão aceitas telas em tamanhos diferentes)",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de folha A4 60kg (branca)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de 500 folhas de papel branco tamanho A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Pacote de papel colorset A4 170g (50 folhas) pêssego",
+       "qtd": 1,
+       "cod": 2059,
+       "produto": "COLORSETE A4 C/50 ROSA CLARO",
+       "preco": 15.9,
+       "obs": "Rosa claro (não temos pêssego).",
+       "foto": "listas/fotos/2059.jpg",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "Jaleco branco para prática em Laboratório - uso individual para as aulas de Ciências",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais para atividades artísticas"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá estar etiquetado com o nome do aluno.",
+      "Alguns materiais de Arte deverão ser adquiridos no decorrer do ano letivo à medida que os professores solicitarem."
+     ],
+     "idade": "14 anos"
+    }
+   ]
+  },
+  {
    "id": "peterpan",
    "nome": "Instituto Educacional Peter Pan",
    "listas": [
@@ -7150,5 +11718,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 15:31"
+ "atualizado": "10/11/2026 16:24"
 }
