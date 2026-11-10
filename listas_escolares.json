@@ -4407,11 +4407,11 @@
       {
        "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
        "qtd": 1,
-       "cod": 14638,
-       "produto": "COPO INFANTIL ESCOLAR 300ML",
-       "marca": "PLASUTIL",
-       "preco": 8.9,
-       "obs": "Cor de amostra: escolha a cor desejada."
+       "cod": 14645,
+       "produto": "COPO INFANTIL MATERNAL 220ML",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14645.jpg"
       },
       {
        "descricao": "1 guardanapo de pano",
@@ -4875,11 +4875,11 @@
       {
        "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
        "qtd": 1,
-       "cod": 14638,
-       "produto": "COPO INFANTIL ESCOLAR 300ML",
-       "marca": "PLASUTIL",
-       "preco": 8.9,
-       "obs": "Cor de amostra: escolha a cor desejada."
+       "cod": 14645,
+       "produto": "COPO INFANTIL MATERNAL 220ML",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14645.jpg"
       },
       {
        "descricao": "1 guardanapo de pano",
@@ -4977,11 +4977,11 @@
       {
        "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
        "qtd": 1,
-       "cod": 14638,
-       "produto": "COPO INFANTIL ESCOLAR 300ML",
-       "marca": "PLASUTIL",
-       "preco": 8.9,
-       "obs": "Cor de amostra: escolha a cor desejada."
+       "cod": 14645,
+       "produto": "COPO INFANTIL MATERNAL 220ML",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14645.jpg"
       },
       {
        "descricao": "1 guardanapo de pano",
@@ -6166,5 +6166,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 14:52"
+ "atualizado": "10/11/2026 14:53"
 }
