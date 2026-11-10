@@ -581,14 +581,14 @@
        "cor": "Ouro",
        "nome": "CANETA FABER TRILUX-OURO",
        "img": "produtos/4769.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 10291,
        "cor": "Prata",
        "nome": "CANETA FABER TRILUX-PRATA",
        "img": "produtos/10291.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 577,
@@ -1683,14 +1683,6 @@
      "saldo": 26
     },
     {
-     "cod": 7700,
-     "nome": "LAPIS 12CORES-ACRILEX (JUMBO)",
-     "marca": "",
-     "preco": 28.9,
-     "img": "produtos/7700.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 6288,
      "nome": "LAPIS 12CORES-BIC EVOLUTION (JUMBO)",
      "marca": "BIC",
@@ -2725,14 +2717,6 @@
      "saldo": 13
     },
     {
-     "cod": 3801,
-     "nome": "CANETINHA C/12-BIC",
-     "marca": "BIC",
-     "preco": 24.9,
-     "img": "produtos/3801.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 4759,
      "nome": "CANETINHA C/12-FABER (VAI E VEM)",
      "marca": "FABER",
@@ -2928,14 +2912,14 @@
      "marca": "LEO E LEO",
      "preco": 1.5,
      "img": "produtos/11978.jpg",
-     "saldo": 53,
+     "saldo": 52,
      "cores": [
       {
        "cod": 11978,
        "cor": "Azul",
        "nome": "PINCEL ATOM.850 LEO E LEO-AZUL",
        "img": "produtos/11978.jpg",
-       "saldo": 53
+       "saldo": 52
       },
       {
        "cod": 11977,
@@ -2949,7 +2933,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.850 LEO E LEO-VERMELHO",
        "img": "produtos/11979.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -3073,7 +3057,7 @@
        "cor": "Preto",
        "nome": "PINCEL COMPACTOR-PRETO",
        "img": "produtos/2331.jpg",
-       "saldo": 360
+       "saldo": 359
       },
       {
        "cod": 2333,
@@ -3130,14 +3114,14 @@
      "marca": "COMPACTOR",
      "preco": 10.9,
      "img": "produtos/14366.jpg",
-     "saldo": 287,
+     "saldo": 286,
      "cores": [
       {
        "cod": 14366,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR. COMPACTOR-AZUL",
        "img": "produtos/14366.jpg",
-       "saldo": 287
+       "saldo": 286
       },
       {
        "cod": 14369,
@@ -3192,7 +3176,7 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
        "img": "produtos/2347.jpg",
-       "saldo": 22
+       "saldo": 21
       },
       {
        "cod": 2348,
@@ -3206,7 +3190,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
        "img": "produtos/2349.jpg",
-       "saldo": 16
+       "saldo": 15
       }
      ]
     },
@@ -3421,28 +3405,12 @@
    "nome": "Lapiseiras",
    "itens": [
     {
-     "cod": 12274,
-     "nome": "GRAFITE 0.3 HB C/12 BRW",
-     "marca": "BRW",
-     "preco": 1.9,
-     "img": "produtos/12274.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 1501,
      "nome": "GRAFITE 0.3 HB C/12 PENTEL",
      "marca": "",
      "preco": 13.9,
      "img": "produtos/1501.jpg",
      "saldo": 25
-    },
-    {
-     "cod": 1502,
-     "nome": "GRAFITE 0.5 ADECK 2B C/12",
-     "marca": "ADECK",
-     "preco": 0.6,
-     "img": "produtos/1502.jpg",
-     "saldo": 1
     },
     {
      "cod": 1503,
@@ -3725,7 +3693,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 32,
+      "AZUL": 31,
       "ROSA": 32,
       "ROXO": 32
      }
@@ -7631,14 +7599,6 @@
      "saldo": 50
     },
     {
-     "cod": 10920,
-     "nome": "ALFINETE MAPA BACCHI C/50 SORTIDO",
-     "marca": "BACCHI",
-     "preco": 9.9,
-     "img": "produtos/10920.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 7535,
      "nome": "ALFINETE MAPA JOCAR C/50 (REDONDO)",
      "marca": "JOCAR",
@@ -7898,7 +7858,7 @@
      "marca": "ALFACELL",
      "preco": 36.9,
      "img": "produtos/13998.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 14285,
@@ -7907,14 +7867,6 @@
      "preco": 26.9,
      "img": "produtos/14285.jpg",
      "saldo": 26
-    },
-    {
-     "cod": 14286,
-     "nome": "CALCULADORA (G) FCD-8811",
-     "marca": "CLASSE",
-     "preco": 29.9,
-     "img": "produtos/14286.jpg",
-     "saldo": 2
     },
     {
      "cod": 508,
@@ -8953,14 +8905,6 @@
      "saldo": 15
     },
     {
-     "cod": 6598,
-     "nome": "GRAMPEADOR CLASSE 25F (PR3160L)",
-     "marca": "DOTAD",
-     "preco": 24.9,
-     "img": "produtos/6598.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 1518,
      "nome": "GRAMPEADOR JOCAR 11,5CM P/25F",
      "marca": "JOCAR",
@@ -9109,14 +9053,6 @@
      "preco": 29.9,
      "img": "produtos/7003.jpg",
      "saldo": 5
-    },
-    {
-     "cod": 2297,
-     "nome": "PERFURADOR PAPEL 1 FURO JOCAR",
-     "marca": "JOCAR",
-     "preco": 12.9,
-     "img": "produtos/2297.jpg",
-     "saldo": 4
     },
     {
      "cod": 6617,
@@ -9518,7 +9454,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/13808.jpg",
-     "saldo": 4
+     "saldo": 6
     },
     {
      "cod": 6109,
@@ -9714,14 +9650,6 @@
      "preco": 27.9,
      "img": "produtos/14292.jpg",
      "saldo": 13
-    },
-    {
-     "cod": 8040,
-     "nome": "COLCHETE 13 C/72",
-     "marca": "",
-     "preco": 28.9,
-     "img": "produtos/8040.jpg",
-     "saldo": 5
     },
     {
      "cod": 8039,
@@ -10047,7 +9975,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1981.jpg",
-     "saldo": 77
+     "saldo": 73
     },
     {
      "cod": 4320,
@@ -11098,7 +11026,7 @@
      "marca": "MAXIMA",
      "preco": 1.0,
      "img": "produtos/2017.jpg",
-     "saldo": 260
+     "saldo": 259
     },
     {
      "cod": 2067,
@@ -11138,7 +11066,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 228
+     "saldo": 227
     },
     {
      "cod": 4344,
@@ -13163,14 +13091,6 @@
      "saldo": 12
     },
     {
-     "cod": 6384,
-     "nome": "BANDEJA ACR 1 AND-CRISTAL MAXCRIL",
-     "marca": "MAXCRIL",
-     "preco": 31.9,
-     "img": "produtos/6384.jpg",
-     "saldo": 4
-    },
-    {
      "cod": 171,
      "nome": "BANDEJA ACR 3 AND-CRISTAL MAXCRIL",
      "marca": "MAXCRIL",
@@ -14069,14 +13989,6 @@
    "slug": "pasta",
    "nome": "Pasta",
    "itens": [
-    {
-     "cod": 1808,
-     "nome": "MALETA A3 POLIONDA-AZUL",
-     "marca": "POLIBRAS",
-     "preco": 33.9,
-     "img": "produtos/1808.jpg",
-     "saldo": 2
-    },
     {
      "cod": 1816,
      "nome": "MALETA DECORADA AVENGERS",
@@ -15423,14 +15335,6 @@
      "saldo": 26
     },
     {
-     "cod": 2400,
-     "nome": "PLASTICO 4F A4 GROSSO C/5 (LISTA ESCOLAR)",
-     "marca": "DAC",
-     "preco": 5.9,
-     "img": "produtos/2400.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 4920,
      "nome": "PLASTICO 4F A4 MEDIO C/100",
      "marca": "MP",
@@ -15571,16 +15475,7 @@
   {
    "slug": "telefone",
    "nome": "Telefone",
-   "itens": [
-    {
-     "cod": 2957,
-     "nome": "TELEFONE HEADSET C/FONE HST-6000",
-     "marca": "ELGIN",
-     "preco": 239.9,
-     "img": "produtos/2957.jpg",
-     "saldo": 1
-    }
-   ]
+   "itens": []
   },
   {
    "slug": "tesoura",
@@ -15886,7 +15781,7 @@
      "marca": "MAKE+",
      "preco": 5.5,
      "img": "produtos/5360.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 5372,
@@ -16292,20 +16187,12 @@
    "nome": "Mochila Costas Infantil",
    "itens": [
     {
-     "cod": 13678,
-     "nome": "MOCHILA COSTAS CLIO-ALICE PALUCCI AL25089",
-     "marca": "CLIO STYLE",
-     "preco": 236.9,
-     "img": "produtos/13678.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 13378,
      "nome": "MOCHILA COSTAS CLIO-REBECCA BONBON RB26223",
      "marca": "CLIO STYLE",
      "preco": 299.0,
      "img": "produtos/13378.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 12283,
@@ -16346,20 +16233,12 @@
    "nome": "Mochila Costas Adulto",
    "itens": [
     {
-     "cod": 8960,
-     "nome": "MOCHILA CARTEIRO EXECUTIVA LUXCEL-PRETO (EX20078PK-PT)",
-     "marca": "LUXCEL",
-     "preco": 289.9,
-     "img": "produtos/8960.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13277,
      "nome": "MOCHILA COSTAS (G) LUXCEL-LOUD CINZA (MS50234LD-CZ)",
      "marca": "LUXCEL",
      "preco": 154.9,
      "img": "produtos/13277.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13275,
@@ -20894,14 +20773,14 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6643.jpg",
-     "saldo": 17,
+     "saldo": 16,
      "cores": [
       {
        "cod": 6643,
        "cor": "Preta",
        "nome": "ALMOFADA CARIMBO Nº3 MASTERPRINT-PRETA",
        "img": "produtos/6643.jpg",
-       "saldo": 17
+       "saldo": 16
       },
       {
        "cod": 6644,
@@ -22394,7 +22273,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 4733,
@@ -22464,7 +22343,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 738
+     "saldo": 737
     },
     {
      "cod": 880,
@@ -23386,7 +23265,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 383
+     "saldo": 380
     },
     {
      "cod": 2552,
@@ -23672,7 +23551,7 @@
      "marca": "SANTECK",
      "preco": 12.9,
      "img": "produtos/12123.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 12124,
@@ -24876,7 +24755,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2735.jpg",
-     "saldo": 137
+     "saldo": 135
     },
     {
      "cod": 2736,
@@ -25805,7 +25684,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 12094
+     "saldo": 11794
     },
     {
      "cod": 11788,
@@ -28914,7 +28793,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 89
+     "saldo": 87
     },
     {
      "cod": 13945,
@@ -28994,7 +28873,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 518
+     "saldo": 508
     },
     {
      "cod": 2157,
