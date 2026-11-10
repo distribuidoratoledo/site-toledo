@@ -649,6 +649,10 @@
               if (Number(it.cod) === Number(cod) && !it.parte && it.preco != null) v -= (Number(it.qtd) || 0) * Number(it.preco);
             });
           });
+          if (t.so_acrescimo) {   // linha so' com o acrescimo (ex.: arte do 6º e 7º ano), sem total
+            var m = 0; (t.partes || []).forEach(function (k) { m += partes[k] || 0; });
+            return { rotulo: t.rotulo, mais: m, valor: null };
+          }
           (t.partes || []).forEach(function (k) { v += partes[k] || 0; });
           return { rotulo: t.rotulo, valor: v, explica: t.explica || '' };
         });
@@ -717,7 +721,7 @@
             '<tbody>' + html + '</tbody></table></div>' +
           '<div class="totais"><div class="t1">' + esc(L.rotulo_total || 'Total da lista') + ': <b>' + reais(total) + '</b></div>' +
             linhasTotais(L, total, partes).map(function (t) {
-              return '<div class="t3">' + esc(t.rotulo) + ': ' + (t.mais != null ? '<b>+ ' + reais(t.mais) + '</b> · total ' + reais(t.valor)
+              return '<div class="t3">' + esc(t.rotulo) + ': ' + (t.mais != null ? '<b>+ ' + reais(t.mais) + '</b>' + (t.valor != null ? ' · total ' + reais(t.valor) : '')
                 : '<b>' + reais(t.valor) + '</b>' + (t.explica ? ' <small>(' + esc(t.explica) + ')</small>' : '')) + '</div>';
             }).join('') +
             (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
@@ -909,7 +913,7 @@
       y += 6;
       linhasTotais(L, total, partesPdf).forEach(function (t) {
         doc.setFont('helvetica', 'bold'); doc.setFontSize(9.5); cor([91, 63, 168]);
-        doc.text(t.rotulo + ': ' + (t.mais != null ? '+ ' + rs(t.mais) + ' · total ' + rs(t.valor) : rs(t.valor) + (t.explica ? ' (' + t.explica + ')' : '')),
+        doc.text(t.rotulo + ': ' + (t.mais != null ? '+ ' + rs(t.mais) + (t.valor != null ? ' · total ' + rs(t.valor) : '') : rs(t.valor) + (t.explica ? ' (' + t.explica + ')' : '')),
                  M + LW, y + 2.5, { align: 'right' });
         y += 5;
       });
