@@ -1824,8 +1824,11 @@
       {
        "descricao": "Embalagem de lenços umedecidos (p/ alunos que usam fraldas)",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix.",
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
        "grupo": "Materiais que devem estar na mochila diariamente",
        "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
@@ -2172,8 +2175,11 @@
       {
        "descricao": "Embalagem de lenços umedecidos (p/ alunos que usam fraldas)",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix.",
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
        "grupo": "Materiais que devem estar na mochila diariamente",
        "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
@@ -6603,8 +6609,11 @@
       {
        "descricao": "1 embalagem de lenço umedecido",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix.",
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
        "grupo": "Uma mochila de uso diário contendo",
        "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
@@ -7138,8 +7147,11 @@
       {
        "descricao": "1 embalagem de lenço umedecido",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix.",
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
        "grupo": "Uma mochila de uso diário contendo",
        "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
@@ -11733,5 +11745,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 16:41"
+ "atualizado": "10/11/2026 16:46"
 }
