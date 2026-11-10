@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1311,
+     "saldo": 1306,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1311
+       "saldo": 1306
       },
       {
        "cod": 553,
@@ -3278,13 +3278,6 @@
        "saldo": 116
       },
       {
-       "cod": 2626,
-       "cor": "Preto",
-       "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
-       "img": "produtos/2626.jpg",
-       "saldo": 1
-      },
-      {
        "cod": 2627,
        "cor": "Verde",
        "nome": "REFIL PINCEL Q.BRC PILOT-VERDE",
@@ -3373,7 +3366,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 105
+       "saldo": 103
       },
       {
        "cod": 2658,
@@ -8473,7 +8466,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 339
+     "saldo": 338
     },
     {
      "cod": 11926,
@@ -8841,7 +8834,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 423
+     "saldo": 398
     },
     {
      "cod": 1313,
@@ -9598,7 +9591,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 2618,
@@ -9762,7 +9755,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 6612,
@@ -10957,7 +10950,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 597
+     "saldo": 593
     },
     {
      "cod": 2007,
@@ -15790,14 +15783,14 @@
      "marca": "MAKE+",
      "preco": 3.9,
      "img": "produtos/8929.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 8929,
        "cor": "Amarelo",
        "nome": "EVA GLITER-AMARELO",
        "img": "produtos/8929.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 6665,
@@ -15914,14 +15907,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 293,
+     "saldo": 292,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 293
+       "saldo": 292
       },
       {
        "cod": 1230,
@@ -15956,7 +15949,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 148
+       "saldo": 147
       },
       {
        "cod": 1233,
@@ -15970,7 +15963,7 @@
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 331
+       "saldo": 330
       },
       {
        "cod": 1236,
@@ -16005,7 +15998,7 @@
        "cor": "Rosa Escuro / Pink",
        "nome": "EVA LISO-ROSA ESCURO/PINK",
        "img": "produtos/1240.jpg",
-       "saldo": 218
+       "saldo": 216
       },
       {
        "cod": 4648,
@@ -16026,7 +16019,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 358
+       "saldo": 357
       },
       {
        "cod": 1244,
@@ -18943,7 +18936,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 66
+     "saldo": 63
     },
     {
      "cod": 11833,
@@ -21068,7 +21061,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 251
+     "saldo": 248
     },
     {
      "cod": 938,
@@ -21364,7 +21357,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 144
+     "saldo": 141
     },
     {
      "cod": 2923,
@@ -22050,7 +22043,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 3731,
@@ -22162,7 +22155,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 609
+     "saldo": 608
     },
     {
      "cod": 4146,
@@ -22170,7 +22163,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 51
+     "saldo": 48
     },
     {
      "cod": 2491,
@@ -22178,7 +22171,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 514
+     "saldo": 513
     },
     {
      "cod": 3887,
@@ -22186,7 +22179,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 41
+     "saldo": 38
     },
     {
      "cod": 2489,
@@ -22526,7 +22519,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 112
+     "saldo": 111
     },
     {
      "cod": 6315,
@@ -23528,7 +23521,7 @@
      "marca": "SANTECK",
      "preco": 21.9,
      "img": "produtos/12124.jpg",
-     "saldo": 22
+     "saldo": 7
     },
     {
      "cod": 12125,
@@ -24420,7 +24413,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 222
+     "saldo": 219
     },
     {
      "cod": 2705,
@@ -25106,7 +25099,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 1000
+     "saldo": 998
     },
     {
      "cod": 2826,
@@ -25653,7 +25646,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 10694
+     "saldo": 10594
     },
     {
      "cod": 11788,
@@ -28762,7 +28755,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 87
+     "saldo": 85
     },
     {
      "cod": 13945,
@@ -28818,7 +28811,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 291
+     "saldo": 259
     },
     {
      "cod": 2152,
@@ -28842,7 +28835,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 507
+     "saldo": 477
     },
     {
      "cod": 2157,
@@ -30765,14 +30758,14 @@
      "marca": "BRW",
      "preco": 4.9,
      "img": "produtos/12241.jpg",
-     "saldo": 43,
+     "saldo": 41,
      "cores": [
       {
        "cod": 12241,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO BRW GEL-AMARELO",
        "img": "produtos/12241.jpg",
-       "saldo": 43
+       "saldo": 41
       },
       {
        "cod": 12220,
