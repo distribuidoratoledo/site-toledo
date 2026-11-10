@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1324,
+     "saldo": 1323,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1324
+       "saldo": 1323
       },
       {
        "cod": 553,
@@ -1758,7 +1758,7 @@
      "cod": 13745,
      "nome": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
      "marca": "MAPED",
-     "preco": 29.9,
+     "preco": 19.9,
      "img": "produtos/13745.jpg",
      "saldo": 83
     },
@@ -7813,7 +7813,7 @@
      "marca": "JOCAR",
      "preco": 1.9,
      "img": "produtos/7554.jpg",
-     "saldo": 34
+     "saldo": 30
     },
     {
      "cod": 12223,
@@ -7829,7 +7829,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/12234.jpg",
-     "saldo": 74
+     "saldo": 72
     },
     {
      "cod": 2575,
@@ -8715,7 +8715,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 584
+     "saldo": 583
     },
     {
      "cod": 1293,
@@ -8857,7 +8857,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 720
+     "saldo": 718
     },
     {
      "cod": 1317,
@@ -9566,7 +9566,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6632.jpg",
-     "saldo": 86
+     "saldo": 85
     },
     {
      "cod": 983,
@@ -11089,7 +11089,7 @@
      "cod": 11515,
      "nome": "PAPEL MACHE 100G",
      "marca": "ACRILEX",
-     "preco": 29.9,
+     "preco": 24.9,
      "img": "produtos/11515.jpg",
      "saldo": 60
     },
@@ -17945,7 +17945,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 32619
+     "saldo": 31619
     },
     {
      "cod": 1098,
@@ -18081,7 +18081,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 16025
+     "saldo": 16021
     },
     {
      "cod": 1051,
@@ -21858,7 +21858,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/6946.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 8229,
@@ -23694,7 +23694,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 169
+     "saldo": 167
     },
     {
      "cod": 1555,
@@ -25581,7 +25581,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 251,
@@ -27998,7 +27998,7 @@
      "marca": "READY",
      "preco": 2.0,
      "img": "produtos/6851.jpg",
-     "saldo": 151
+     "saldo": 149
     },
     {
      "cod": 3939,
@@ -28416,7 +28416,7 @@
      "marca": "REDINHA",
      "preco": 3.5,
      "img": "produtos/2608.jpg",
-     "saldo": 16
+     "saldo": 14
     },
     {
      "cod": 2609,
@@ -28424,7 +28424,7 @@
      "marca": "REDINHA",
      "preco": 8.9,
      "img": "produtos/2609.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 2610,
@@ -30007,14 +30007,14 @@
      "marca": "LEO E LEO",
      "preco": 1.0,
      "img": "produtos/7587.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 7587,
        "cor": "Azul",
        "nome": "APONTADOR LEO C/D BLOCO 60-AZUL",
        "img": "produtos/7587.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 7588,
@@ -30371,7 +30371,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14551.jpg",
-     "saldo": 72,
+     "saldo": 71,
      "controle": [
       "AZUL",
       "ROSA",
@@ -30379,7 +30379,7 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AZUL": 18,
+      "AZUL": 17,
       "ROSA": 18,
       "ROXO": 18,
       "VERMELHO": 18
