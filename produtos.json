@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1448,
+     "saldo": 1398,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1448
+       "saldo": 1398
       },
       {
        "cod": 553,
@@ -3192,49 +3192,49 @@
      "marca": "PILOT",
      "preco": 19.9,
      "img": "produtos/2350.jpg",
-     "saldo": 120,
+     "saldo": 119,
      "cores": [
       {
        "cod": 2350,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
        "img": "produtos/2350.jpg",
-       "saldo": 120
+       "saldo": 119
       },
       {
        "cod": 2351,
        "cor": "Laranja",
        "nome": "PINCEL Q.BRC RECAR.PILOT-LARANJA (WBMA-VBM-M)",
        "img": "produtos/2351.jpg",
-       "saldo": 109
+       "saldo": 108
       },
       {
        "cod": 2352,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
        "img": "produtos/2352.jpg",
-       "saldo": 110
+       "saldo": 109
       },
       {
        "cod": 2353,
        "cor": "Verde",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
        "img": "produtos/2353.jpg",
-       "saldo": 21
+       "saldo": 20
       },
       {
        "cod": 2354,
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBMA-VBM-M)",
        "img": "produtos/2354.jpg",
-       "saldo": 29
+       "saldo": 28
       },
       {
        "cod": 2355,
        "cor": "Violeta",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VIOLETA (WBMA-VBM-M)",
        "img": "produtos/2355.jpg",
-       "saldo": 72
+       "saldo": 71
       }
      ]
     },
@@ -5410,14 +5410,6 @@
      "saldo": 2
     },
     {
-     "cod": 12833,
-     "nome": "CADERNO 1X1 80F-COLEG. ABA PAI",
-     "marca": "CADERSIL",
-     "preco": 21.9,
-     "img": "produtos/12833.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 12861,
      "nome": "CADERNO 1X1 80F-COLEG. DOUBLE ART",
      "marca": "CADERSIL",
@@ -5464,30 +5456,6 @@
      "preco": 8.9,
      "img": "produtos/9325.jpg",
      "saldo": 8
-    },
-    {
-     "cod": 13211,
-     "nome": "CADERNO 1X1 80F-CRISTO",
-     "marca": "SD",
-     "preco": 19.9,
-     "img": "produtos/13211.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12392,
-     "nome": "CADERNO 1X1 80F-D TALES",
-     "marca": "CREDEAL",
-     "preco": 8.9,
-     "img": "produtos/12392.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 11456,
-     "nome": "CADERNO 1X1 80F-DO IT!",
-     "marca": "TILIBRA",
-     "preco": 16.9,
-     "img": "produtos/11456.jpg",
-     "saldo": 1
     },
     {
      "cod": 5895,
@@ -5562,14 +5530,6 @@
      "saldo": 2
     },
     {
-     "cod": 11457,
-     "nome": "CADERNO 1X1 80F-HUG ME",
-     "marca": "TILIBRA",
-     "preco": 16.9,
-     "img": "produtos/11457.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 12845,
      "nome": "CADERNO 1X1 80F-INFINITY METALIZADO",
      "marca": "CADERSIL",
@@ -5640,14 +5600,6 @@
      "preco": 30.9,
      "img": "produtos/5881.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 12409,
-     "nome": "CADERNO 1X1 80F-MIMO",
-     "marca": "CREDEAL",
-     "preco": 14.9,
-     "img": "produtos/12409.jpg",
-     "saldo": 1
     },
     {
      "cod": 5739,
@@ -5798,14 +5750,6 @@
      "saldo": 6
     },
     {
-     "cod": 12913,
-     "nome": "CADERNO 1X1 80F-PAMPY",
-     "marca": "CADERSIL",
-     "preco": 29.9,
-     "img": "produtos/12913.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 11444,
      "nome": "CADERNO 1X1 80F-PAO DIARIO",
      "marca": "CREDEAL",
@@ -5886,14 +5830,6 @@
      "saldo": 9
     },
     {
-     "cod": 11436,
-     "nome": "CADERNO 1X1 80F-SMILINGUIDO",
-     "marca": "CREDEAL",
-     "preco": 19.9,
-     "img": "produtos/11436.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 7767,
      "nome": "CADERNO 1X1 80F-SOHO CONNECT",
      "marca": "TILIBRA",
@@ -5908,14 +5844,6 @@
      "preco": 21.9,
      "img": "produtos/8895.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 13174,
-     "nome": "CADERNO 1X1 80F-SWEET CHERRY",
-     "marca": "SD",
-     "preco": 31.9,
-     "img": "produtos/13174.jpg",
-     "saldo": 1
     },
     {
      "cod": 10926,
@@ -7039,14 +6967,6 @@
      "preco": 0.5,
      "img": "produtos/12970.jpg",
      "saldo": 80
-    },
-    {
-     "cod": 12904,
-     "nome": "CADERNO CRIATIVO 1X1 100F-COLEG.AUDREY",
-     "marca": "CADERSIL",
-     "preco": 36.9,
-     "img": "produtos/12904.jpg",
-     "saldo": 1
     },
     {
      "cod": 437,
@@ -8687,7 +8607,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4376
+     "saldo": 4363
     },
     {
      "cod": 14619,
@@ -8913,7 +8833,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 428
+     "saldo": 427
     },
     {
      "cod": 1313,
@@ -11021,7 +10941,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 759
+     "saldo": 758
     },
     {
      "cod": 2007,
@@ -11235,7 +11155,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 529
+     "saldo": 429
     },
     {
      "cod": 2139,
@@ -11626,6 +11546,14 @@
      "saldo": 16
     },
     {
+     "cod": 3017,
+     "nome": "GUACHE 15ML C/12-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 14.9,
+     "img": "produtos/3017.jpg",
+     "saldo": 240
+    },
+    {
      "cod": 11627,
      "nome": "GUACHE 15ML C/12-MARIPEL",
      "marca": "MARIPEL",
@@ -11639,7 +11567,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 0
+     "saldo": 156
     },
     {
      "cod": 11626,
@@ -11663,14 +11591,14 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/3020.jpg",
-     "saldo": 7,
+     "saldo": 55,
      "cores": [
       {
        "cod": 3020,
        "cor": "Amarelo Ouro",
        "nome": "GUACHE 250ML ACRILEX-AMARELO OURO",
        "img": "produtos/3020.jpg",
-       "saldo": 7
+       "saldo": 55
       },
       {
        "cod": 12685,
@@ -11684,93 +11612,101 @@
        "cor": "Azul Celeste",
        "nome": "GUACHE 250ML ACRILEX-AZUL CELESTE",
        "img": "produtos/6269.jpg",
-       "saldo": 17
+       "saldo": 65
       },
       {
        "cod": 3021,
        "cor": "Azul Turquesa",
        "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
        "img": "produtos/3021.jpg",
-       "saldo": 15
+       "saldo": 63
       },
       {
        "cod": 3022,
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 2
+       "saldo": 50
       },
       {
        "cod": 12686,
        "cor": "Cinza",
        "nome": "GUACHE 250ML ACRILEX-CINZA",
        "img": "produtos/12686.jpg",
-       "saldo": 44
+       "saldo": 92
       },
       {
        "cod": 3023,
        "cor": "Laranja",
        "nome": "GUACHE 250ML ACRILEX-LARANJA",
        "img": "produtos/3023.jpg",
-       "saldo": 17
+       "saldo": 65
       },
       {
        "cod": 11882,
        "cor": "Lilas",
        "nome": "GUACHE 250ML ACRILEX-LILAS",
        "img": "produtos/11882.jpg",
-       "saldo": 43
+       "saldo": 91
       },
       {
        "cod": 11881,
        "cor": "Magenta",
        "nome": "GUACHE 250ML ACRILEX-MAGENTA",
        "img": "produtos/11881.jpg",
-       "saldo": 65
+       "saldo": 113
       },
       {
        "cod": 3024,
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 9
+       "saldo": 57
       },
       {
        "cod": 3025,
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 12
+       "saldo": 60
       },
       {
        "cod": 3026,
        "cor": "Rosa",
        "nome": "GUACHE 250ML ACRILEX-ROSA",
        "img": "produtos/3026.jpg",
-       "saldo": 29
+       "saldo": 77
       },
       {
        "cod": 3028,
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
        "img": "produtos/3028.jpg",
-       "saldo": 13
+       "saldo": 61
       },
       {
        "cod": 12684,
        "cor": "Vinho",
        "nome": "GUACHE 250ML ACRILEX-VINHO",
        "img": "produtos/12684.jpg",
-       "saldo": 50
+       "saldo": 98
       },
       {
        "cod": 3027,
        "cor": "Violeta",
        "nome": "GUACHE 250ML ACRILEX-VIOLETA",
        "img": "produtos/3027.jpg",
-       "saldo": 28
+       "saldo": 76
       }
      ]
+    },
+    {
+     "cod": 5764,
+     "nome": "GUACHE 250ML ACRILEX-AZUL",
+     "marca": "ACRILEX",
+     "preco": 12.9,
+     "img": "produtos/5764.jpg",
+     "saldo": 48
     },
     {
      "cod": 5763,
@@ -11778,7 +11714,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/5763.jpg",
-     "saldo": 25
+     "saldo": 73
     },
     {
      "cod": 3029,
@@ -11786,7 +11722,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/3029.jpg",
-     "saldo": 7
+     "saldo": 55
     },
     {
      "cod": 3033,
@@ -11969,7 +11905,7 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/2364.jpg",
-     "saldo": 3
+     "saldo": 33
     },
     {
      "cod": 10737,
@@ -13368,7 +13304,7 @@
        "cor": "Cinza",
        "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (CINZA)",
        "img": "produtos/9253.jpg",
-       "saldo": 200
+       "saldo": 190
       }
      ]
     },
@@ -13378,7 +13314,7 @@
      "marca": "MAXCRIL",
      "preco": 1.6,
      "img": "produtos/9254.jpg",
-     "saldo": 80
+     "saldo": 70
     },
     {
      "cod": 1117,
@@ -15657,7 +15593,7 @@
      "marca": "ACRILEX",
      "preco": 11.9,
      "img": "produtos/12746.jpg",
-     "saldo": 24
+     "saldo": 144
     },
     {
      "cod": 12738,
@@ -15844,7 +15780,7 @@
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 136
+       "saldo": 135
       },
       {
        "cod": 1216,
@@ -15921,7 +15857,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 10
+       "saldo": 7
       }
      ]
     },
@@ -15939,7 +15875,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 1228,
@@ -19284,7 +19220,7 @@
      "marca": "ACRILEX",
      "preco": 39.9,
      "img": "produtos/1473.jpg",
-     "saldo": 38
+     "saldo": 98
     },
     {
      "cod": 1474,
@@ -19292,7 +19228,7 @@
      "marca": "ACRILEX",
      "preco": 26.9,
      "img": "produtos/1474.jpg",
-     "saldo": 61
+     "saldo": 91
     },
     {
      "cod": 1472,
@@ -19300,7 +19236,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/1472.jpg",
-     "saldo": 47
+     "saldo": 287
     },
     {
      "cod": 7695,
@@ -19388,7 +19324,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 142
+     "saldo": 1582
     },
     {
      "cod": 3538,
@@ -19396,7 +19332,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/3538.jpg",
-     "saldo": 282
+     "saldo": 762
     },
     {
      "cod": 12731,
@@ -21085,7 +21021,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 3650
+     "saldo": 3625
     },
     {
      "cod": 14414,
@@ -22401,7 +22337,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/9914.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 4278,
@@ -23829,7 +23765,7 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 1344,
@@ -25099,7 +25035,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 1030
+     "saldo": 1010
     },
     {
      "cod": 2826,
@@ -25123,7 +25059,7 @@
      "marca": "PACKFORT",
      "preco": 25.9,
      "img": "produtos/4362.jpg",
-     "saldo": 189
+     "saldo": 179
     },
     {
      "cod": 2837,
@@ -28409,7 +28345,7 @@
      "marca": "THEGA",
      "preco": 15.9,
      "img": "produtos/14135.jpg",
-     "saldo": 80
+     "saldo": 85
     }
    ]
   },
