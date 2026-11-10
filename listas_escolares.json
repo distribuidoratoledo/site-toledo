@@ -50,11 +50,11 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "1 borracha",
@@ -227,11 +227,11 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "1 borracha",
@@ -428,11 +428,11 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "1 borracha",
@@ -620,11 +620,11 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "1 borracha",
@@ -797,11 +797,11 @@
       {
        "descricao": "2 lápis pretos",
        "qtd": 2,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "1 borracha",
@@ -1307,11 +1307,11 @@
       {
        "descricao": "1 lápis preto comum (2º semestre)",
        "qtd": 1,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "1 borracha",
@@ -1732,11 +1732,11 @@
       {
        "descricao": "3 lápis nº 2 preto",
        "qtd": 3,
-       "cod": 7860,
-       "produto": "LAPIS ESCREVER MAPED NAVY C/BORRACHA",
-       "marca": "MAPED",
-       "preco": 1.5,
-       "foto": "listas/fotos/7860.jpg"
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
       },
       {
        "descricao": "2 borrachas brancas",
@@ -2041,5 +2041,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 12:14"
+ "atualizado": "10/11/2026 12:51"
 }
