@@ -3381,7 +3381,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 111
+       "saldo": 108
       },
       {
        "cod": 2658,
@@ -7429,7 +7429,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO PEQ. CD 96F (VERMELHO)",
        "img": "produtos/9322.jpg",
-       "saldo": 29
+       "saldo": 28
       }
      ]
     },
@@ -7487,7 +7487,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 3249,
@@ -8199,7 +8199,7 @@
      "cod": 3321,
      "nome": "COLA COLORIDA C/4 ACRILEX",
      "marca": "ACRILEX",
-     "preco": 8.9,
+     "preco": 9.9,
      "img": "produtos/3321.jpg",
      "saldo": 181
     },
@@ -8263,7 +8263,7 @@
      "cod": 834,
      "nome": "COLA GLITTER AZUL 23GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 3.9,
+     "preco": 4.9,
      "img": "produtos/834.jpg",
      "saldo": 102
     },
@@ -8271,7 +8271,7 @@
      "cod": 835,
      "nome": "COLA GLITTER OURO 23GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 3.9,
+     "preco": 4.9,
      "img": "produtos/835.jpg",
      "saldo": 88
     },
@@ -8279,7 +8279,7 @@
      "cod": 836,
      "nome": "COLA GLITTER PRATA 23GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 3.9,
+     "preco": 4.9,
      "img": "produtos/836.jpg",
      "saldo": 113
     },
@@ -8287,7 +8287,7 @@
      "cod": 7704,
      "nome": "COLA GLITTER VERDE 23GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 3.9,
+     "preco": 4.9,
      "img": "produtos/7704.jpg",
      "saldo": 92
     },
@@ -8295,7 +8295,7 @@
      "cod": 837,
      "nome": "COLA GLITTER VERMELHA 23GR-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 3.9,
+     "preco": 4.9,
      "img": "produtos/837.jpg",
      "saldo": 99
     },
@@ -8849,7 +8849,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 427
+     "saldo": 426
     },
     {
      "cod": 1313,
@@ -8919,7 +8919,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 1519,
@@ -9984,7 +9984,7 @@
      "marca": "TILIBRA",
      "preco": 4.5,
      "img": "produtos/1977.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 1981,
@@ -11602,6 +11602,14 @@
      "saldo": 16
     },
     {
+     "cod": 5395,
+     "nome": "GUACHE 15ML ACRILEX C/GLITER C/6",
+     "marca": "ACRILEX",
+     "preco": 15.9,
+     "img": "produtos/5395.jpg",
+     "saldo": 48
+    },
+    {
      "cod": 3017,
      "nome": "GUACHE 15ML C/12-ACRILEX",
      "marca": "ACRILEX",
@@ -11873,7 +11881,7 @@
      "marca": "",
      "preco": 2.6,
      "img": "produtos/10371.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 11000,
@@ -11913,7 +11921,7 @@
      "marca": "",
      "preco": 5.5,
      "img": "produtos/10998.jpg",
-     "saldo": 184
+     "saldo": 182
     },
     {
      "cod": 10994,
@@ -11929,7 +11937,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10995.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 10996,
@@ -12533,21 +12541,21 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/3709.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 3709,
        "cor": "Amarelo Ouro",
        "nome": "TINTA TECIDO 37ML-AMARELO OURO",
        "img": "produtos/3709.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 3710,
        "cor": "Azul Celeste",
        "nome": "TINTA TECIDO 37ML-AZUL CELESTE",
        "img": "produtos/3710.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 3712,
@@ -12568,7 +12576,7 @@
        "cor": "Lilas",
        "nome": "TINTA TECIDO 37ML-LILAS",
        "img": "produtos/7124.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 3010,
@@ -12582,7 +12590,7 @@
        "cor": "Pink",
        "nome": "TINTA TECIDO 37ML-PINK",
        "img": "produtos/3012.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 3011,
@@ -12596,7 +12604,7 @@
        "cor": "Verde Bandeira",
        "nome": "TINTA TECIDO 37ML-VERDE BANDEIRA",
        "img": "produtos/3014.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -12606,7 +12614,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/5078.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 14001,
@@ -12617,20 +12625,12 @@
      "saldo": 4
     },
     {
-     "cod": 3713,
-     "nome": "TINTA TECIDO 37ML-VERMELHO FOGO",
-     "marca": "ACRILEX",
-     "preco": 6.9,
-     "img": "produtos/3713.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 3016,
      "nome": "TINTA TECIDO 37ML-VIOLETA COBALTO",
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/3016.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 3090,
@@ -15878,7 +15878,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 43
+       "saldo": 42
       },
       {
        "cod": 1221,
@@ -15913,7 +15913,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 7
+       "saldo": 6
       }
      ]
     },
@@ -15931,7 +15931,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 45
+     "saldo": 41
     },
     {
      "cod": 1228,
@@ -18114,7 +18114,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 16075
+     "saldo": 16055
     },
     {
      "cod": 1051,
@@ -18122,7 +18122,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7385
+     "saldo": 7384
     },
     {
      "cod": 1054,
@@ -18360,7 +18360,7 @@
      "marca": "GRESPAN",
      "preco": 7.9,
      "img": "produtos/2377.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 2378,
@@ -18384,7 +18384,7 @@
      "marca": "GRESPAN",
      "preco": 17.9,
      "img": "produtos/2379.jpg",
-     "saldo": 25
+     "saldo": 23
     },
     {
      "cod": 7399,
@@ -19207,6 +19207,14 @@
    "nome": "Giz e Massa de Modelar",
    "itens": [
     {
+     "cod": 14435,
+     "nome": "ARGILA ESCOLAR 200GR ACRILEX",
+     "marca": "REZENDE",
+     "preco": 9.9,
+     "img": "produtos/14435.jpg",
+     "saldo": 48
+    },
+    {
      "cod": 13713,
      "nome": "ARGILA ESCOLAR-1KG",
      "marca": "REZENDE",
@@ -19244,14 +19252,14 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 36,
+     "saldo": 34,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 36
+       "saldo": 34
       },
       {
        "cod": 6465,
@@ -19357,6 +19365,78 @@
      "preco": 9.9,
      "img": "produtos/12631.jpg",
      "saldo": 58
+    },
+    {
+     "cod": 14434,
+     "nome": "KIMELEKA CUBO PETS 150GR ACRILEX-CORES",
+     "marca": "ACRILEX",
+     "preco": 13.9,
+     "img": "produtos/14434.jpg",
+     "saldo": 24,
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE",
+      "VERMELHO"
+     ],
+     "saldo_cor": {
+      "AMARELO": 4,
+      "AZUL": 4,
+      "ROSA": 4,
+      "ROXO": 4,
+      "VERDE": 4,
+      "VERMELHO": 4
+     }
+    },
+    {
+     "cod": 14433,
+     "nome": "KIMELEKA GAMER 150GR ACRILEX-CORES",
+     "marca": "ACRILEX",
+     "preco": 13.9,
+     "img": "produtos/14433.jpg",
+     "saldo": 24,
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "PRETO",
+      "ROXO",
+      "VERDE",
+      "VERMELHO"
+     ],
+     "saldo_cor": {
+      "AMARELO": 4,
+      "AZUL": 4,
+      "PRETO": 4,
+      "ROXO": 4,
+      "VERDE": 4,
+      "VERMELHO": 4
+     }
+    },
+    {
+     "cod": 14432,
+     "nome": "KIMELEKA METALICA 180GR ACRILEX-CORES",
+     "marca": "ACRILEX",
+     "preco": 10.9,
+     "img": "produtos/14432.jpg",
+     "saldo": 24,
+     "controle": [
+      "AZUL",
+      "DOURADO",
+      "PRATA",
+      "ROSA",
+      "ROXO",
+      "VERDE"
+     ],
+     "saldo_cor": {
+      "AZUL": 4,
+      "DOURADO": 4,
+      "PRATA": 4,
+      "ROSA": 4,
+      "ROXO": 4,
+      "VERDE": 4
+     }
     },
     {
      "cod": 14577,
@@ -21061,7 +21141,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 305
+     "saldo": 301
     },
     {
      "cod": 944,
@@ -21507,7 +21587,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 403
+     "saldo": 401
     },
     {
      "cod": 177,
@@ -21523,7 +21603,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/3772.jpg",
-     "saldo": 154
+     "saldo": 153
     },
     {
      "cod": 179,
@@ -22035,7 +22115,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 176
+     "saldo": 175
     },
     {
      "cod": 1569,
@@ -22821,7 +22901,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 600
+     "saldo": 594
     },
     {
      "cod": 1415,
@@ -25013,7 +25093,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/7172.jpg",
-     "saldo": 228
+     "saldo": 218
     },
     {
      "cod": 7177,
@@ -25558,7 +25638,7 @@
      "marca": "HIPERROLL",
      "preco": 16.9,
      "img": "produtos/13853.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 252,
@@ -25876,7 +25956,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 1013
+     "saldo": 1012
     },
     {
      "cod": 2900,
@@ -28811,7 +28891,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 248
+     "saldo": 247
     },
     {
      "cod": 2153,
@@ -28819,7 +28899,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 298
+     "saldo": 297
     },
     {
      "cod": 6529,
@@ -28827,7 +28907,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 527
+     "saldo": 526
     },
     {
      "cod": 2157,
@@ -28905,7 +28985,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 9748,
