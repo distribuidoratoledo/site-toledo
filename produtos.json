@@ -1907,6 +1907,14 @@
      "saldo": 48
     },
     {
+     "cod": 14625,
+     "nome": "LAPIS 48CORES-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 59.9,
+     "img": "produtos/14625.jpg",
+     "saldo": 36
+    },
+    {
      "cod": 12740,
      "nome": "LAPIS 6CORES NEON-ACRILEX",
      "marca": "ACRILEX",
@@ -3122,14 +3130,14 @@
      "marca": "COMPACTOR",
      "preco": 10.9,
      "img": "produtos/14366.jpg",
-     "saldo": 288,
+     "saldo": 287,
      "cores": [
       {
        "cod": 14366,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR. COMPACTOR-AZUL",
        "img": "produtos/14366.jpg",
-       "saldo": 288
+       "saldo": 287
       },
       {
        "cod": 14369,
@@ -3344,6 +3352,13 @@
        "nome": "RETRO 1.0 PILOT-AZUL",
        "img": "produtos/2652.jpg",
        "saldo": 110
+      },
+      {
+       "cod": 2653,
+       "cor": "Preto",
+       "nome": "RETRO 1.0 PILOT-PRETO",
+       "img": "produtos/2653.jpg",
+       "saldo": 1
       },
       {
        "cod": 2654,
@@ -4620,7 +4635,7 @@
      "marca": "TAMOIO",
      "preco": 4.9,
      "img": "produtos/13533.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 6064,
@@ -5883,7 +5898,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/12415.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 12777,
@@ -8137,7 +8152,7 @@
      "marca": "LEO E LEO",
      "preco": 5.5,
      "img": "produtos/813.jpg",
-     "saldo": 149
+     "saldo": 148
     },
     {
      "cod": 11622,
@@ -8631,7 +8646,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 749
+     "saldo": 759
     },
     {
      "cod": 1021,
@@ -9285,8 +9300,16 @@
      "cod": 7500,
      "nome": "REGUA 30CM FLEXIVEL AZUL-ACRILEX",
      "marca": "ACRILEX",
-     "preco": 6.5,
+     "preco": 8.9,
      "img": "produtos/7500.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 2639,
+     "nome": "REGUA 30CM FLEXIVEL ROSA-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/2639.jpg",
      "saldo": 24
     },
     {
@@ -9518,7 +9541,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 359
+     "saldo": 358
     },
     {
      "cod": 12303,
@@ -10989,7 +11012,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 658
+     "saldo": 646
     },
     {
      "cod": 2007,
@@ -11409,7 +11432,7 @@
      "marca": "PILOT",
      "preco": 29.9,
      "img": "produtos/42.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 43,
@@ -11449,7 +11472,7 @@
      "marca": "SOUZA",
      "preco": 99.9,
      "img": "produtos/753.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 3335,
@@ -11473,7 +11496,7 @@
      "marca": "SOUZ/STALO",
      "preco": 139.9,
      "img": "produtos/6700.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 3996,
@@ -11481,7 +11504,7 @@
      "marca": "SOUZ/STALO",
      "preco": 59.9,
      "img": "produtos/3996.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2585,
@@ -15697,7 +15720,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 416
+     "saldo": 415
     },
     {
      "cod": 6721,
@@ -18074,7 +18097,7 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1070.jpg",
-     "saldo": 5566
+     "saldo": 5478
     },
     {
      "cod": 1038,
@@ -18138,7 +18161,7 @@
      "marca": "SCRITY",
      "preco": 0.65,
      "img": "produtos/1056.jpg",
-     "saldo": 5000
+     "saldo": 4990
     },
     {
      "cod": 1058,
@@ -19207,20 +19230,20 @@
    "nome": "Giz e Massa de Modelar",
    "itens": [
     {
-     "cod": 14435,
-     "nome": "ARGILA ESCOLAR 200GR ACRILEX",
-     "marca": "REZENDE",
-     "preco": 9.9,
-     "img": "produtos/14435.jpg",
-     "saldo": 48
-    },
-    {
      "cod": 13713,
      "nome": "ARGILA ESCOLAR-1KG",
      "marca": "REZENDE",
      "preco": 13.9,
      "img": "produtos/13713.jpg",
      "saldo": 94
+    },
+    {
+     "cod": 14435,
+     "nome": "ARGILA ESCOLAR-200GR ACRILEX",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/14435.jpg",
+     "saldo": 48
     },
     {
      "cod": 13270,
@@ -21795,7 +21818,7 @@
      "marca": "ISOMAX",
      "preco": 3.9,
      "img": "produtos/9931.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 9932,
@@ -21803,7 +21826,7 @@
      "marca": "ISOMAX",
      "preco": 8.9,
      "img": "produtos/9932.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 9933,
@@ -21811,7 +21834,7 @@
      "marca": "ISOMAX",
      "preco": 12.9,
      "img": "produtos/9933.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 9934,
@@ -24257,7 +24280,7 @@
      "marca": "GRILO",
      "preco": 24.9,
      "img": "produtos/2696.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 9113,
@@ -24797,7 +24820,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 75
+     "saldo": 69
     },
     {
      "cod": 13863,
@@ -25646,7 +25669,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 108
+     "saldo": 102
     },
     {
      "cod": 13855,
@@ -25686,7 +25709,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 333
+     "saldo": 319
     },
     {
      "cod": 6966,
@@ -25710,7 +25733,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 120
+     "saldo": 102
     },
     {
      "cod": 6857,
@@ -25766,7 +25789,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 544
+     "saldo": 534
     }
    ]
   },
@@ -28907,7 +28930,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 526
+     "saldo": 523
     },
     {
      "cod": 2157,
@@ -29175,7 +29198,7 @@
      "marca": "BELL PLUS",
      "preco": 49.9,
      "img": "produtos/2687.jpg",
-     "saldo": 66
+     "saldo": 65
     },
     {
      "cod": 7650,
@@ -29317,7 +29340,7 @@
      "marca": "BELL PLUS",
      "preco": 48.9,
      "img": "produtos/3072.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 3073,
@@ -29625,6 +29648,78 @@
    "slug": "apontador",
    "nome": "Apontador",
    "itens": [
+    {
+     "cod": 14626,
+     "nome": "APONTADOR ACRILEX 1F C/D-(22406) CORES",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/14626.jpg",
+     "saldo": 48,
+     "controle": [
+      "AZUL",
+      "PINK",
+      "PRETO",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "AZUL": 12,
+      "PINK": 12,
+      "PRETO": 12,
+      "VERDE-ÁGUA": 12
+     }
+    },
+    {
+     "cod": 14627,
+     "nome": "APONTADOR ACRILEX 2F C/D-(22417) CORES",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/14627.jpg",
+     "saldo": 48,
+     "controle": [
+      "LILAS",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "LILAS": 16,
+      "ROSA": 16,
+      "VERDE-ÁGUA": 16
+     }
+    },
+    {
+     "cod": 14629,
+     "nome": "APONTADOR ACRILEX 2F C/D-(22419) CORES",
+     "marca": "ACRILEX",
+     "preco": 9.9,
+     "img": "produtos/14629.jpg",
+     "saldo": 48,
+     "controle": [
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "ROSA": 16,
+      "ROXO": 16,
+      "VERDE-ÁGUA": 16
+     }
+    },
+    {
+     "cod": 14628,
+     "nome": "APONTADOR ACRILEX C/D 2F-(22418) CORES",
+     "marca": "ACRILEX",
+     "preco": 5.9,
+     "img": "produtos/14628.jpg",
+     "saldo": 48,
+     "controle": [
+      "ROSA",
+      "ROXO"
+     ],
+     "saldo_cor": {
+      "ROSA": 24,
+      "ROXO": 24
+     }
+    },
     {
      "cod": 11862,
      "nome": "APONTADOR BRW S/D 1F (PANDA)",
