@@ -1785,8 +1785,11 @@
       {
        "descricao": "1 ábaco",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 3586,
+       "produto": "JOGO ABACOS EDUCATIVOS C/50 BOLAS",
+       "marca": "PAIS E F",
+       "preco": 9.9,
+       "foto": "listas/fotos/3586.jpg"
       },
       {
        "descricao": "5 folhas de papel fotográfico A4",
@@ -1863,7 +1866,7 @@
        "produto": "BRINQUEDO PEDAG. BRINC. LETRAS C/62",
        "marca": "PAIS&FILHO",
        "preco": 17.9,
-       "obs": "Brincando com as letras, 62 peças.",
+       "obs": "Brincando com as letras, 62 peças. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/6107.jpg"
       },
       {
@@ -2321,8 +2324,11 @@
       {
        "descricao": "1 ábaco",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 3586,
+       "produto": "JOGO ABACOS EDUCATIVOS C/50 BOLAS",
+       "marca": "PAIS E F",
+       "preco": 9.9,
+       "foto": "listas/fotos/3586.jpg"
       },
       {
        "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
@@ -2518,72 +2524,72 @@
       {
        "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão grande – Ciências – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – História – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Geografia – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno de desenho sem pauta – Arte",
@@ -2717,7 +2723,7 @@
        "produto": "BRINQUEDO PEDAG.JOGO XADREZ",
        "marca": "PAIS&FILHO",
        "preco": 29.9,
-       "obs": "Jogo de xadrez.",
+       "obs": "Jogo de xadrez. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/3585.jpg"
       },
       {
@@ -2807,8 +2813,12 @@
       {
        "descricao": "1 pacote de colorsete A4 estampado",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas.",
+       "foto": "listas/fotos/2133.jpg"
       },
       {
        "descricao": "1 caixa de material dourado (pequeno)",
@@ -2822,8 +2832,11 @@
       {
        "descricao": "1 ábaco",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 3586,
+       "produto": "JOGO ABACOS EDUCATIVOS C/50 BOLAS",
+       "marca": "PAIS E F",
+       "preco": 9.9,
+       "foto": "listas/fotos/3586.jpg"
       },
       {
        "descricao": "1 pacote de folha 60 kg (120 g)",
@@ -2981,72 +2994,72 @@
       {
        "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão grande – Ciências – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – História – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Geografia – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno de desenho sem pauta – Arte",
@@ -3180,7 +3193,7 @@
        "produto": "BRINQUEDO PEDAG.JOGO XADREZ",
        "marca": "PAIS&FILHO",
        "preco": 29.9,
-       "obs": "Jogo de xadrez.",
+       "obs": "Jogo de xadrez. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/3585.jpg"
       },
       {
@@ -3298,12 +3311,12 @@
       {
        "descricao": "2 pacotes de papel A4 (1000 folhas brancas) Report/Chamex",
        "qtd": 2,
-       "cod": 2015,
-       "produto": "PAPEL A4 C/500 CHAMEX",
-       "marca": "CHAMEX",
-       "preco": 35.9,
-       "obs": "Chamex, pacote com 500 folhas.",
-       "foto": "listas/fotos/2015.jpg"
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "Papel A4 Papex, pacote com 500 folhas.",
+       "foto": "listas/fotos/2014.jpg"
       },
       {
        "descricao": "1 metro de TNT (qualquer cor)",
@@ -3354,8 +3367,12 @@
       {
        "descricao": "1 pacote de colorsete A4 estampado",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas.",
+       "foto": "listas/fotos/2133.jpg"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -3460,72 +3477,72 @@
       {
        "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão grande – Ciências – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – História – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Geografia – 96 folhas",
        "qtd": 1,
-       "cod": 9009,
-       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 96 folhas Tilibra.",
-       "foto": "listas/fotos/9009.jpg"
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg"
       },
       {
        "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
        "qtd": 1,
-       "cod": 9989,
-       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
-       "marca": "TILIBRA",
-       "preco": 13.9,
-       "obs": "Capa dura 80 folhas Tilibra.",
-       "foto": "listas/fotos/9989.jpg"
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Capa dura Credeal 80 folhas.",
+       "foto": "listas/fotos/10906.jpg"
       },
       {
        "descricao": "1 caderno de desenho sem pauta – Arte",
@@ -3695,7 +3712,7 @@
        "produto": "BRINQUEDO PEDAG.JOGO XADREZ",
        "marca": "PAIS&FILHO",
        "preco": 29.9,
-       "obs": "Jogo de xadrez.",
+       "obs": "Jogo de xadrez. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/3585.jpg"
       },
       {
@@ -4058,8 +4075,9 @@
       {
        "descricao": "1 bola",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 14644,
+       "produto": "BRINQUEDO PEDAG. BOLA INFANTIL",
+       "preco": 9.9
       },
       {
        "descricao": "1 pacote pequeno de algodão",
@@ -4137,8 +4155,12 @@
       {
        "descricao": "1 anilina líquida",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 6012,
+       "produto": "ANILINA COMESTIVEL AZUL C/10ML",
+       "marca": "MIX",
+       "preco": 4.5,
+       "obs": "Anilina 10 ml. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6012.jpg"
       },
       {
        "descricao": "1 tubo de cola",
@@ -4512,8 +4534,12 @@
       {
        "descricao": "1 folha de colorsete estampado",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix."
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas.",
+       "foto": "listas/fotos/2133.jpg"
       },
       {
        "descricao": "1 aventalzinho",
@@ -4782,12 +4808,12 @@
       },
       {
        "descricao": "3 blocos encadernados com 50 folhas A3 (180 g)",
-       "qtd": 3,
+       "qtd": 2,
        "cod": 206,
        "produto": "BLOCO DESENHO A3 (180G) C/20-RIDET",
        "marca": "RIDET",
        "preco": 32.9,
-       "obs": "Bloco de desenho A3 180 g com 20 folhas.",
+       "obs": "Bloco de desenho A3 180 g com 20 folhas (2 blocos).",
        "foto": "listas/fotos/206.jpg"
       },
       {
@@ -5018,11 +5044,12 @@
       {
        "descricao": "1 caixa de lápis de cor grosso",
        "qtd": 1,
-       "cod": 7700,
-       "produto": "LAPIS 12CORES-ACRILEX (JUMBO)",
-       "preco": 28.9,
-       "obs": "Lápis de cor jumbo Acrilex com 12 cores.",
-       "foto": "listas/fotos/7700.jpg"
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg"
       },
       {
        "descricao": "1 caixa de lápis de cera – gizão",
@@ -5376,12 +5403,11 @@
       {
        "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
        "qtd": 1,
-       "cod": 10798,
-       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
-       "marca": "MASTERUTIL",
-       "preco": 9.9,
-       "obs": "Cor de amostra: escolha a cor desejada.",
-       "foto": "listas/fotos/10798.jpg"
+       "cod": 14638,
+       "produto": "COPO INFANTIL ESCOLAR 300ML",
+       "marca": "PLASUTIL",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada."
       },
       {
        "descricao": "1 guardanapo de pano",
@@ -5619,13 +5645,12 @@
       },
       {
        "descricao": "2 tubos de cola quente finos",
-       "qtd": 1,
-       "cod": 11832,
-       "produto": "REFIL COLA QUENTE FINO C/8",
-       "marca": "IBEL",
-       "preco": 9.9,
-       "obs": "Pacote com 8 bastões.",
-       "foto": "listas/fotos/11832.jpg"
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
       },
       {
        "descricao": "1 tubo de cola Cascolar",
@@ -6141,5 +6166,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 14:39"
+ "atualizado": "10/11/2026 14:52"
 }
