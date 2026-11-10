@@ -346,7 +346,7 @@
     .prod .preco { color: var(--vermelho); font-weight: 700; margin-bottom: 0.8rem; font-size: 0.95rem; }
     /* SALDO NO PRODUTO (Adriana, 10/11/2026): estoque no cartao e na janela; saldo baixo = amarelo + aviso */
     .prod-saldo { font-size: 0.78rem; color: #6b7686; margin: -0.5rem 0 0.6rem; }
-    .prod.saldo-baixo { background: #fff6cc; border-color: #f0d36b; }
+    /* so' o texto fica amarelo; o cartao continua branco (10/11/2026) */
     .saldo-aviso { display: inline-block; background: #ffe27a; color: #5c4400; font-weight: 700; font-size: 0.74rem;
       padding: 2px 8px; border-radius: 6px; margin: 0 0 0.6rem; }
     .jan-saldo { font-size: 0.85rem; color: #6b7686; margin: 0.2rem 0 0.4rem; }
@@ -1143,7 +1143,7 @@
     function htmlSaldo(n, classe) {
       if (n == null) { return ''; }
       return '<p class="' + classe + '">Estoque: ' + n + '</p>'
-        + (n <= SALDO_BAIXO ? '<span class="saldo-aviso">Confirmar saldo com a vendedora</span>' : '');
+        + (n <= SALDO_BAIXO ? '<span class="saldo-aviso">Consulte o saldo de estoque com a vendedora</span>' : '');
     }
     function cardProduto(p) {
       var msg = encodeURIComponent('Olá! Gostaria de informações sobre: ' + p.nome + ' (cód. ' + p.cod + ')');
