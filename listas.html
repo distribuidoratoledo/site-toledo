@@ -313,7 +313,7 @@
       .vant .ic { width: 32px; height: 32px; font-size: 1rem; }
     }
     @media print {
-      header, .faixa-contato, .hero, .vantagens-topo, .escolha, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela, .zap-fixo { display: none !important; }
+      header, .faixa-contato, .hero, .vantagens-topo, .escolha, .aviso-subindo, .passos, .toledo, footer, .fundo, .barra-acoes, .rodape-tela, .zap-fixo { display: none !important; }
       body { background: #fff; }
       main { margin: 0; padding: 0; max-width: none; }
       #lista { margin: 0; }
@@ -321,6 +321,20 @@
       .cab-doc { display: block; }
       .item { break-inside: avoid; }
       .cab-lista, .cab-lista * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      /* PDF SALVO PELO NAVEGADOR (10/11/2026: a tabela pulava para a outra pagina, a coluna Total saia cortada e o valor
+         total sumia): tabela na largura da folha, sem rolagem, cores impressas, linha inteira na mesma pagina */
+      @page { size: A4; margin: 10mm; }
+      * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .tab-itens { overflow: visible !important; border: 0; }
+      .tab-itens table { min-width: 0 !important; width: 100%; font-size: 8.5pt; table-layout: auto; }
+      .tab-itens th, .tab-itens td { padding: 4px 5px; }
+      .tab-itens thead { display: table-header-group; }
+      .tab-itens tr { break-inside: avoid; page-break-inside: avoid; }
+      .tab-itens .c-foto { width: 46px; }
+      .tab-itens .c-foto .foto { width: 40px; height: 40px; }
+      .lista-topo { display: flex !important; justify-content: space-between; align-items: center; break-after: avoid; }
+      .resumo .valor { color: #e01e3c !important; font-size: 16pt; }
+      .tab-itens, .cartao { break-before: auto !important; page-break-before: auto !important; }
     }
   </style>
   <!-- PÁGINA EM MONTAGEM (Adriana, 04/11/2026: "ainda não pode estar liberada a todos, pois estamos em fabricação").
@@ -784,7 +798,7 @@
         '</div>';
       // com uma lista aberta, o botão fixo já leva escola, ano e orçamento na mensagem
       $('zap-fixo').href = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg + ' Quero receber a lista em casa (entrega sem taxa para compras acima de R$ 50,00).');
-      $('b-imp').addEventListener('click', function () { window.print(); });
+      $('b-imp').addEventListener('click', function () { baixarPdf('imprimir'); });   /* mesmo PDF, 10/11/2026 */
       $('b-pdf').addEventListener('click', baixarPdf);
       irPara($('lista'));
     }
@@ -840,19 +854,22 @@
     }
     function rs(v) { return 'R$ ' + Number(v).toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
 
-    function baixarPdf() {
-      var b = $('b-pdf');
+    function baixarPdf(modo) {
+      var imprimir = modo === 'imprimir';
+      var b = imprimir ? $('b-imp') : $('b-pdf'), rotulo = b.textContent;
+      // a janela abre ja' no clique (senao o navegador bloqueia); o PDF entra nela quando ficar pronto
+      var jan = imprimir ? window.open('', '_blank') : null;
       var nome = ('Lista ' + atual.escola.nome + ' ' + atual.lista.ano).replace(/[^\wÀ-ÿ\- ]+/g, '').replace(/\s+/g, ' ').trim() + '.pdf';
-      if (!window.jspdf || !window.jspdf.jsPDF) { window.print(); return; }
+      if (!window.jspdf || !window.jspdf.jsPDF) { if (jan) jan.close(); window.print(); return; }
       b.disabled = true; b.textContent = 'Gerando PDF…';
-      var fim = function () { b.disabled = false; b.textContent = '⬇ Baixar PDF'; };
+      var fim = function () { b.disabled = false; b.textContent = rotulo; };
       var itens = atual.lista.itens || [];
       Promise.all([imagemDados('logo-toledo.png', true)].concat(itens.map(function (it) { return imagemDados(it.foto); })))
-        .then(function (imgs) { montarPdf(nome, imgs[0], imgs.slice(1)); fim(); })
-        .catch(function (e) { console.error(e); fim(); window.print(); });
+        .then(function (imgs) { montarPdf(nome, imgs[0], imgs.slice(1), jan, imprimir); fim(); })
+        .catch(function (e) { console.error(e); fim(); if (jan) jan.close(); window.print(); });
     }
 
-    function montarPdf(nomeArq, logo, fotos) {
+    function montarPdf(nomeArq, logo, fotos, jan, imprimir) {
       var A = atual.escola, L = atual.lista, itens = L.itens || [];
       var doc = new window.jspdf.jsPDF({ unit: 'mm', format: 'a4', orientation: 'portrait' });
       var PW = 210, PH = 297, M = 10, LW = PW - 2 * M, AZ = [26, 47, 82], VM = [224, 30, 60], SU = [107, 118, 134], TX = [40, 48, 62];
@@ -911,13 +928,15 @@
       var corpo = [];
       itens.forEach(function (it, i) {
         if (it.grupo && it.grupo !== gAnt) {
-          corpo.push([{ content: it.grupo, colSpan: 8, styles: { fillColor: [223, 231, 243], textColor: AZ, fontStyle: 'bold',
-                        fontSize: 8.5, minCellHeight: 7, halign: 'left' } }]);
-          ix.push(-1);
+          var faixa = [{ content: it.grupo, colSpan: 8, styles: { fillColor: [223, 231, 243], textColor: AZ, fontStyle: 'bold',
+                        fontSize: 8.5, minCellHeight: 7, halign: 'left' } }];
+          faixa.__i = -1; corpo.push(faixa);
         }
         gAnt = it.grupo || gAnt;
-        corpo.push(linhaPdf(it, i)); ix.push(i);
+        var lin = linhaPdf(it, i); lin.__i = i; corpo.push(lin);
       });
+      /* indice do item pela linha crua (a faixa do grupo e' -1); mais seguro que contar linhas quando a tabela quebra pagina */
+      function pos(d) { var r = d.row && d.row.raw; return r && r.__i != null ? r.__i : -1; }
       function linhaPdf(it, i) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
         var tag = it.parte ? ' (' + it.parte.charAt(0).toLowerCase() + it.parte.slice(1) + ')' : it.opcional ? ' (opcional)' : it.status === 'em_breve' ? ' (em breve)' : it.status === 'nao_temos' ? ' (não disponível)' : '';
@@ -949,22 +968,22 @@
         didParseCell: function (d) {
           var k = d.column.index;
           if (d.section === 'head') { d.cell.styles.halign = (k <= 2 || k === 5) ? 'center' : k >= 6 ? 'right' : 'left'; }
-          if (d.section === 'body' && ix[d.row.index] < 0) return;
-          var itx = d.section === 'body' ? itens[ix[d.row.index]] : null;
+          if (d.section === 'body' && pos(d) < 0) return;
+          var itx = d.section === 'body' ? itens[pos(d)] : null;
           if (itx && saldoBaixo(itx)) { d.cell.styles.fillColor = [255, 246, 204]; }
           if (itx && k >= 6 && itx.preco == null) { d.cell.styles.textColor = [154, 163, 177]; d.cell.styles.fontStyle = 'italic'; }
         },
-        willDrawCell: function (d) { if (d.section === 'body' && ix[d.row.index] >= 0 && d.column.index === 3) d.cell.text = []; },
+        willDrawCell: function (d) { if (d.section === 'body' && pos(d) >= 0 && d.column.index === 3) d.cell.text = []; },
         didDrawCell: function (d) {
           var c = d.cell;
           if (d.section === 'head') { doc.setFillColor(VM[0], VM[1], VM[2]); doc.rect(c.x, c.y + c.height - 0.8, c.width, 0.8, 'F'); return; }
-          if (d.section !== 'body' || ix[d.row.index] < 0) return;
-          var i = ix[d.row.index];
+          if (d.section !== 'body' || pos(d) < 0) return;
+          var i = pos(d);
           if (d.column.index === 1 && fotos[i]) {
             var s = 13; doc.addImage(fotos[i].d, 'JPEG', c.x + (c.width - s) / 2, c.y + (c.height - s) / 2, s, s);
           }
           if (d.column.index === 3) {
-            var pt = partes[i], lh = FS * 0.3528 * 1.15, n = pt[0].length + pt[1].length + pt[2].length;
+            var pt = partes[i]; if (!pt) return; var lh = FS * 0.3528 * 1.15, n = pt[0].length + pt[1].length + pt[2].length;
             var yy = c.y + (c.height - n * lh) / 2 + lh * 0.78;
             doc.setFontSize(FS);
             doc.setFont('helvetica', 'bold'); cor(AZ);
@@ -1066,7 +1085,13 @@
         doc.text('Toledo Distribuidora de Papéis · WhatsApp (31) 9 8511-3106 · ' + A.nome + ' · ' + (L.ano || ''), M, PH - 7);
         doc.text('Página ' + p + ' de ' + tp, M + LW, PH - 7, { align: 'right' });
       }
-      doc.save(nomeArq);
+      if (imprimir) {
+        doc.autoPrint();
+        var url = doc.output('bloburl');
+        if (jan && !jan.closed) jan.location.href = url; else window.open(url, '_blank');
+      } else {
+        doc.save(nomeArq);
+      }
     }
 
     fetch('listas_escolares.json?v=' + Date.now())
