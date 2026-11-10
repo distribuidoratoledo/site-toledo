@@ -529,21 +529,21 @@
      "marca": "FABER",
      "preco": 2.9,
      "img": "produtos/10288.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "cores": [
       {
        "cod": 10288,
        "cor": "Azul",
        "nome": "CANETA FABER TRILUX-(FINA) AZUL",
        "img": "produtos/10288.jpg",
-       "saldo": 23
+       "saldo": 22
       },
       {
        "cod": 10289,
        "cor": "Preta",
        "nome": "CANETA FABER TRILUX-(FINA) PRETA",
        "img": "produtos/10289.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 10290,
@@ -602,7 +602,7 @@
        "cor": "Vermelha",
        "nome": "CANETA FABER TRILUX-VERMELHA",
        "img": "produtos/578.jpg",
-       "saldo": 25
+       "saldo": 24
       }
      ]
     },
@@ -7677,7 +7677,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 788,
@@ -8849,7 +8849,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1477
+     "saldo": 1472
     },
     {
      "cod": 4389,
@@ -9907,14 +9907,6 @@
      "saldo": 70
     },
     {
-     "cod": 6675,
-     "nome": "BLOCO CARNE GPS TAMOIO",
-     "marca": "TAMOIO",
-     "preco": 6.9,
-     "img": "produtos/6675.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 677,
      "nome": "BLOCO CARNE GPS TILIBRA",
      "marca": "TILIBRA",
@@ -10415,7 +10407,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 256
+       "saldo": 254
       },
       {
        "cod": 2035,
@@ -10600,7 +10592,7 @@
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 124
+       "saldo": 123
       },
       {
        "cod": 2039,
@@ -11840,7 +11832,7 @@
      "marca": "",
      "preco": 2.3,
      "img": "produtos/10991.jpg",
-     "saldo": 155
+     "saldo": 154
     },
     {
      "cod": 10992,
@@ -14544,7 +14536,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/6802.jpg",
-     "saldo": 18
+     "saldo": 13
     },
     {
      "cod": 4152,
@@ -24564,7 +24556,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 10060,
@@ -25915,7 +25907,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 1012
+     "saldo": 1010
     },
     {
      "cod": 2900,
@@ -26023,7 +26015,7 @@
        "cor": "Branca",
        "nome": "BOBINA 57MM TERM 80M-BRANCA",
        "img": "produtos/6097.jpg",
-       "saldo": 156
+       "saldo": 144
       }
      ]
     },
@@ -28360,7 +28352,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/192.jpg",
-     "saldo": 30
+     "saldo": 23
     },
     {
      "cod": 193,
@@ -28470,7 +28462,7 @@
      "marca": "MAMUTH",
      "preco": 18.9,
      "img": "produtos/1495.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 1498,
