@@ -2142,14 +2142,14 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/10065.jpg",
-     "saldo": 8,
+     "saldo": 7,
      "cores": [
       {
        "cod": 10065,
        "cor": "Ouro",
        "nome": "LAPIS ESCREVER FABER GLAM-OURO",
        "img": "produtos/10065.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 10066,
@@ -2205,14 +2205,14 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/10272.jpg",
-     "saldo": 162,
+     "saldo": 161,
      "cores": [
       {
        "cod": 10272,
        "cor": "Cinza",
        "nome": "LAPIS ESCREVER FABER GRIP-CINZA",
        "img": "produtos/10272.jpg",
-       "saldo": 162
+       "saldo": 161
       },
       {
        "cod": 8415,
@@ -2369,7 +2369,7 @@
      "marca": "FABER",
      "preco": 1.9,
      "img": "produtos/14124.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 10270,
@@ -3373,7 +3373,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 108
+       "saldo": 107
       },
       {
        "cod": 2658,
@@ -7101,7 +7101,7 @@
      "marca": "TILIBRA",
      "preco": 27.9,
      "img": "produtos/5669.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 8398,
@@ -8057,7 +8057,7 @@
      "marca": "LEO E LEO",
      "preco": 1.3,
      "img": "produtos/808.jpg",
-     "saldo": 199
+     "saldo": 198
     },
     {
      "cod": 807,
@@ -8841,7 +8841,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 426
+     "saldo": 423
     },
     {
      "cod": 1313,
@@ -8849,7 +8849,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1472
+     "saldo": 1471
     },
     {
      "cod": 4389,
@@ -10016,7 +10016,7 @@
      "marca": "TILIBRA",
      "preco": 8.5,
      "img": "produtos/2288.jpg",
-     "saldo": 26
+     "saldo": 22
     },
     {
      "cod": 1982,
@@ -14832,7 +14832,7 @@
      "marca": "PLASCONY",
      "preco": 7.9,
      "img": "produtos/14204.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 14208,
@@ -15437,7 +15437,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4872.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 2746,
@@ -15825,7 +15825,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 176
+       "saldo": 175
       },
       {
        "cod": 9160,
@@ -15888,7 +15888,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 6
+       "saldo": 1
       }
      ]
     },
@@ -16877,7 +16877,7 @@
      "cod": 8223,
      "nome": "ESTOJO DAC 1F",
      "marca": "DAC",
-     "preco": 12.9,
+     "preco": 8.9,
      "img": "produtos/8223.jpg",
      "saldo": 6
     },
@@ -18631,7 +18631,7 @@
      "marca": "TAMOIO",
      "preco": 20.9,
      "img": "produtos/11824.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 12244,
@@ -18991,7 +18991,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 336
+     "saldo": 335
     }
    ]
   },
@@ -20882,7 +20882,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
-     "saldo": 72,
+     "saldo": 70,
      "controle": [
       "AMARELO",
       "LARANJA",
@@ -20895,9 +20895,9 @@
       "AMARELO": 12,
       "LARANJA": 12,
       "ROXO": 12,
-      "VERDE": 12,
+      "VERDE": 11,
       "VERDE-ÁGUA": 12,
-      "VERMELHO": 12
+      "VERMELHO": 11
      }
     },
     {
@@ -21092,7 +21092,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 459
+     "saldo": 457
     },
     {
      "cod": 14406,
@@ -21100,7 +21100,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 301
+     "saldo": 294
     },
     {
      "cod": 944,
@@ -21188,7 +21188,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 45
+     "saldo": 43
     },
     {
      "cod": 3342,
@@ -21396,7 +21396,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 150
+     "saldo": 145
     },
     {
      "cod": 2934,
@@ -22170,7 +22170,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 614
+     "saldo": 610
     },
     {
      "cod": 4146,
@@ -22186,7 +22186,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 519
+     "saldo": 515
     },
     {
      "cod": 3887,
@@ -22328,7 +22328,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 737
+     "saldo": 732
     },
     {
      "cod": 880,
@@ -22384,7 +22384,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 140
+     "saldo": 136
     },
     {
      "cod": 4277,
@@ -22486,7 +22486,7 @@
      "marca": "RIOPLASTIC",
      "preco": 8.9,
      "img": "produtos/2495.jpg",
-     "saldo": 33
+     "saldo": 25
     },
     {
      "cod": 11825,
@@ -22590,7 +22590,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 142
+     "saldo": 137
     },
     {
      "cod": 7343,
@@ -23036,7 +23036,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 7045,
@@ -23242,7 +23242,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1117
+     "saldo": 1097
     },
     {
      "cod": 3857,
@@ -25953,7 +25953,7 @@
      "marca": "PRIMUS",
      "preco": 1.9,
      "img": "produtos/222.jpg",
-     "saldo": 591
+     "saldo": 561
     },
     {
      "cod": 5871,
@@ -26245,7 +26245,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 727
+     "saldo": 722
     },
     {
      "cod": 2760,
@@ -28400,7 +28400,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 415
+     "saldo": 411
     },
     {
      "cod": 2608,
