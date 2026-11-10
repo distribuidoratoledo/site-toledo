@@ -1557,6 +1557,7 @@
    "nome": "Colégio Presbiteriano de Sete Lagoas",
    "listas": [
     {
+     "original": "listas/originais/presbiteriano-maternal2.pdf",
      "id": "presbiteriano-maternal2",
      "ano": "Maternal II",
      "orcamento": 660581,
@@ -1854,6 +1855,7 @@
      ]
     },
     {
+     "original": "listas/originais/presbiteriano-maternal3.pdf",
      "id": "presbiteriano-maternal3",
      "ano": "Maternal III",
      "orcamento": 660582,
@@ -2199,6 +2201,7 @@
      ]
     },
     {
+     "original": "listas/originais/presbiteriano-periodo1.pdf",
      "id": "presbiteriano-periodo1",
      "ano": "1º Período",
      "orcamento": 660583,
@@ -2560,6 +2563,7 @@
      "idade": "4 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-periodo2.pdf",
      "id": "presbiteriano-periodo2",
      "ano": "2º Período",
      "orcamento": 660584,
@@ -2881,6 +2885,7 @@
      "idade": "5 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano1.pdf",
      "id": "presbiteriano-ano1",
      "ano": "1º Ano",
      "orcamento": 660585,
@@ -3281,6 +3286,7 @@
      "idade": "6 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano2.pdf",
      "id": "presbiteriano-ano2",
      "ano": "2º Ano",
      "orcamento": 660586,
@@ -3671,6 +3677,7 @@
      "idade": "7 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano3.pdf",
      "id": "presbiteriano-ano3",
      "ano": "3º Ano",
      "orcamento": 660587,
@@ -4039,6 +4046,7 @@
      "idade": "8 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano4.pdf",
      "id": "presbiteriano-ano4",
      "ano": "4º Ano",
      "orcamento": 660588,
@@ -4368,6 +4376,7 @@
      "idade": "9 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano5.pdf",
      "id": "presbiteriano-ano5",
      "ano": "5º Ano",
      "orcamento": 660589,
@@ -4715,6 +4724,7 @@
      "idade": "10 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano6.pdf",
      "id": "presbiteriano-ano6",
      "ano": "6º Ano",
      "orcamento": 660590,
@@ -5081,6 +5091,7 @@
      "idade": "11 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano7.pdf",
      "id": "presbiteriano-ano7",
      "ano": "7º Ano",
      "orcamento": 660591,
@@ -5427,6 +5438,7 @@
      "idade": "12 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano8.pdf",
      "id": "presbiteriano-ano8",
      "ano": "8º Ano",
      "orcamento": 660592,
@@ -5773,6 +5785,7 @@
      "idade": "13 anos"
     },
     {
+     "original": "listas/originais/presbiteriano-ano9.pdf",
      "id": "presbiteriano-ano9",
      "ano": "9º Ano",
      "orcamento": 660593,
