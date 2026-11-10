@@ -1543,6 +1543,2285 @@
    "nome": "Instituto Educacional Peter Pan",
    "listas": [
     {
+     "id": "peterpan-ano1",
+     "ano": "1º Ano",
+     "orcamento": 660490,
+     "itens": [
+      {
+       "descricao": "1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "2 caixas de lápis de cor (casa e aula)",
+       "qtd": 2,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "2 lápis nº 2 preto",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "2 borrachas brancas grandes",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Língua Portuguesa – 96 folhas",
+       "qtd": 1,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/366.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Matemática – 96 folhas",
+       "qtd": 1,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/366.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Ciências – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – História/Geografia – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Inglês – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Literatura/Redação – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Para Casa – 96 folhas",
+       "qtd": 1,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/366.jpg"
+      },
+      {
+       "descricao": "1 caderno pequeno ½ para recados",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12449.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola Cascolar 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 minidicionário (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 gizão – caixa de lápis de cera Courton",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg"
+      },
+      {
+       "descricao": "1 caixa de massinha",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "3 tubos de cola quente finos",
+       "qtd": 3,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 pasta com 100 plásticos",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "4 envelopes brancos para carta pessoal",
+       "qtd": 4,
+       "cod": 1070,
+       "produto": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
+       "marca": "SCRITY",
+       "preco": 0.2,
+       "foto": "listas/fotos/1070.jpg"
+      },
+      {
+       "descricao": "1 caixa de material dourado (pequeno)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "foto": "listas/fotos/1880.jpg"
+      },
+      {
+       "descricao": "1 ábaco",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "5 folhas de papel fotográfico A4",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
+       "qtd": 1,
+       "cod": 3018,
+       "produto": "GUACHE 15ML C/6-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/3018.jpg"
+      },
+      {
+       "descricao": "1 gibi",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "2 pacotes de colorsete A4",
+       "qtd": 2,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "1 cola glitter",
+       "qtd": 1,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 jogo pedagógico (ábaco, quebra-cabeça, jogo de palavras, jogo do contrário)",
+       "qtd": 1,
+       "cod": 6107,
+       "produto": "BRINQUEDO PEDAG. BRINC. LETRAS C/62",
+       "marca": "PAIS&FILHO",
+       "preco": 17.9,
+       "obs": "Brincando com as letras, 62 peças.",
+       "foto": "listas/fotos/6107.jpg"
+      },
+      {
+       "descricao": "50 palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg"
+      },
+      {
+       "descricao": "1 pincel de giz líquido (qualquer cor)",
+       "qtd": 1,
+       "cod": 8823,
+       "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
+       "marca": "BRW",
+       "preco": 14.9,
+       "foto": "listas/fotos/8823.jpg"
+      },
+      {
+       "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
+       "qtd": 1,
+       "cod": 10143,
+       "produto": "PETECA",
+       "marca": "BORAKIBORA",
+       "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/10143.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel ofício colorido verde",
+       "qtd": 1,
+       "cod": 6313,
+       "produto": "PAPEL A4 COLOR. C/100-VERDE",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "foto": "listas/fotos/6313.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA",
+       "qtd": 2,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA com glitter",
+       "qtd": 2,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel 60 kg A4 (120 g)",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "2 pacotes de 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "2 metros de TNT (qualquer cor)",
+       "qtd": 2,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "O livro literário será enviado posteriormente pela escola.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
+     "id": "peterpan-ano2",
+     "ano": "2º Ano",
+     "orcamento": 660491,
+     "itens": [
+      {
+       "descricao": "1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "2 lápis nº 2 preto",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "2 borrachas brancas grandes",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Língua Portuguesa – 96 folhas",
+       "qtd": 1,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/366.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Matemática – 96 folhas",
+       "qtd": 1,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/366.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Ciências – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – História/Geografia – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Inglês – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Literatura/Redação – 60 folhas",
+       "qtd": 1,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
+       "foto": "listas/fotos/369.jpg"
+      },
+      {
+       "descricao": "1 caderno Alibombom vermelho – Para Casa – 96 folhas",
+       "qtd": 1,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
+       "foto": "listas/fotos/366.jpg"
+      },
+      {
+       "descricao": "1 caderno pequeno ½ para recados",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12449.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola Cascolar 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 minidicionário (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 gizão – caixa de lápis de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 caixa de massinha",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "1 pasta com 100 plásticos",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola quente finos",
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 6 cores",
+       "qtd": 1,
+       "cod": 1582,
+       "produto": "JOGO PINCEL COMPACTOR C/6",
+       "marca": "COMPACTOR",
+       "preco": 15.9,
+       "foto": "listas/fotos/1582.jpg"
+      },
+      {
+       "descricao": "4 envelopes brancos para carta pessoal",
+       "qtd": 4,
+       "cod": 1070,
+       "produto": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
+       "marca": "SCRITY",
+       "preco": 0.2,
+       "foto": "listas/fotos/1070.jpg"
+      },
+      {
+       "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
+       "qtd": 1,
+       "cod": 3018,
+       "produto": "GUACHE 15ML C/6-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/3018.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 gibi",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel 60 kg A4 (180 g)",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "2 pacotes de 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico A4 (a lista pede 5 folhas em dois lugares)",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "50 palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg"
+      },
+      {
+       "descricao": "1 caixa de material dourado (pequeno)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "foto": "listas/fotos/1880.jpg"
+      },
+      {
+       "descricao": "1 ábaco",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
+       "qtd": 1,
+       "cod": 10143,
+       "produto": "PETECA",
+       "marca": "BORAKIBORA",
+       "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/10143.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel ofício colorido amarelo",
+       "qtd": 1,
+       "cod": 2007,
+       "produto": "PAPEL A4 COLOR. C/100-AMARELO",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "foto": "listas/fotos/2007.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura (segundo)",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA",
+       "qtd": 1,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA com glitter",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "2 metros de TNT (qualquer cor)",
+       "qtd": 2,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "2 pacotes de colorsete A4",
+       "qtd": 2,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "1 pincel de giz líquido (qualquer cor)",
+       "qtd": 1,
+       "cod": 8823,
+       "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
+       "marca": "BRW",
+       "preco": 14.9,
+       "foto": "listas/fotos/8823.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "O livro literário será enviado posteriormente pela escola.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
+     "id": "peterpan-ano3",
+     "ano": "3º Ano",
+     "orcamento": 660492,
+     "itens": [
+      {
+       "descricao": "1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "2 lápis nº 2 preto",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "2 borrachas brancas grandes",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Ciências – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – História – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Geografia – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno de desenho sem pauta – Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 caderno pequeno ½ para recados",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12449.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola Cascolar 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 minidicionário (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "2 colas glitter",
+       "qtd": 2,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "1 pasta com 100 plásticos",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "4 envelopes brancos para carta pessoal",
+       "qtd": 4,
+       "cod": 1070,
+       "produto": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
+       "marca": "SCRITY",
+       "preco": 0.2,
+       "foto": "listas/fotos/1070.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
+       "qtd": 1,
+       "cod": 3018,
+       "produto": "GUACHE 15ML C/6-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/3018.jpg"
+      },
+      {
+       "descricao": "2 gibis",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 revista usada",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 jogo pedagógico (can-can, origami, xadrez, dama...)",
+       "qtd": 1,
+       "cod": 3585,
+       "produto": "BRINQUEDO PEDAG.JOGO XADREZ",
+       "marca": "PAIS&FILHO",
+       "preco": 29.9,
+       "obs": "Jogo de xadrez.",
+       "foto": "listas/fotos/3585.jpg"
+      },
+      {
+       "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
+       "qtd": 1,
+       "cod": 10143,
+       "produto": "PETECA",
+       "marca": "BORAKIBORA",
+       "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/10143.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "5 folhas de papel fotográfico A4",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 pincel de giz líquido (qualquer cor)",
+       "qtd": 1,
+       "cod": 8823,
+       "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
+       "marca": "BRW",
+       "preco": 14.9,
+       "foto": "listas/fotos/8823.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA",
+       "qtd": 1,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA com glitter",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "3 tubos de cola quente finos",
+       "qtd": 3,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4 estampado",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 caixa de material dourado (pequeno)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "foto": "listas/fotos/1880.jpg"
+      },
+      {
+       "descricao": "1 ábaco",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pacote de folha 60 kg (120 g)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel ofício colorido rosa",
+       "qtd": 1,
+       "cod": 6314,
+       "produto": "PAPEL A4 COLOR. C/100-ROSA",
+       "preco": 10.9,
+       "foto": "listas/fotos/6314.jpg"
+      },
+      {
+       "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "2 metros de TNT (qualquer cor)",
+       "qtd": 2,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "O livro literário será enviado posteriormente pela escola.",
+      "A escola sugere que os cadernos brochurão sejam de capa dura.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
+     "id": "peterpan-ano4",
+     "ano": "4º Ano",
+     "orcamento": 660493,
+     "itens": [
+      {
+       "descricao": "1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "1 marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg"
+      },
+      {
+       "descricao": "2 lápis nº 2 preto",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "2 borrachas brancas grandes",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Ciências – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – História – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Geografia – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno de desenho sem pauta – Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 caderno pequeno ½ para recados",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12449.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola Cascolar 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 minidicionário (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "2 colas glitter",
+       "qtd": 2,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "1 pasta com 100 plásticos",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "4 envelopes brancos para carta pessoal",
+       "qtd": 4,
+       "cod": 1070,
+       "produto": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
+       "marca": "SCRITY",
+       "preco": 0.2,
+       "foto": "listas/fotos/1070.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
+       "qtd": 1,
+       "cod": 3018,
+       "produto": "GUACHE 15ML C/6-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/3018.jpg"
+      },
+      {
+       "descricao": "2 gibis",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 revista usada",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 jogo pedagógico (can-can, origami, xadrez, dama...)",
+       "qtd": 1,
+       "cod": 3585,
+       "produto": "BRINQUEDO PEDAG.JOGO XADREZ",
+       "marca": "PAIS&FILHO",
+       "preco": 29.9,
+       "obs": "Jogo de xadrez.",
+       "foto": "listas/fotos/3585.jpg"
+      },
+      {
+       "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
+       "qtd": 1,
+       "cod": 10143,
+       "produto": "PETECA",
+       "marca": "BORAKIBORA",
+       "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/10143.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "5 folhas de papel fotográfico A4",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 pincel de giz líquido (qualquer cor)",
+       "qtd": 1,
+       "cod": 8823,
+       "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
+       "marca": "BRW",
+       "preco": 14.9,
+       "foto": "listas/fotos/8823.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA",
+       "qtd": 1,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA com glitter",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "1 rolinho de lastex",
+       "qtd": 1,
+       "cod": 1716,
+       "produto": "LASTEX C/10M-BRANCO",
+       "marca": "COATS",
+       "preco": 4.0,
+       "obs": "Rolo com 10 metros.",
+       "foto": "listas/fotos/1716.jpg"
+      },
+      {
+       "descricao": "1 folha de papel 60 kg",
+       "qtd": 1,
+       "cod": 6114,
+       "produto": "PAPEL 60KG (66X96)",
+       "preco": 2.5,
+       "obs": "Folha 66 x 96 cm.",
+       "foto": "listas/fotos/6114.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel ofício colorido azul",
+       "qtd": 1,
+       "cod": 3975,
+       "produto": "PAPEL A4 COLOR. C/100-AZUL",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "foto": "listas/fotos/3975.jpg"
+      },
+      {
+       "descricao": "1 caixa de material dourado (pequeno)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "foto": "listas/fotos/1880.jpg"
+      },
+      {
+       "descricao": "2 pacotes de papel A4 (1000 folhas brancas) Report/Chamex",
+       "qtd": 2,
+       "cod": 2015,
+       "produto": "PAPEL A4 C/500 CHAMEX",
+       "marca": "CHAMEX",
+       "preco": 35.9,
+       "obs": "Chamex, pacote com 500 folhas.",
+       "foto": "listas/fotos/2015.jpg"
+      },
+      {
+       "descricao": "1 metro de TNT (qualquer cor)",
+       "qtd": 1,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "50 folhas de papel grosso tamanho A4",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola quente finos",
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4 estampado",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "O livro literário será enviado posteriormente pela escola.",
+      "A escola sugere que os cadernos brochurão sejam de capa dura.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
+     "id": "peterpan-ano5",
+     "ano": "5º Ano",
+     "orcamento": 660494,
+     "itens": [
+      {
+       "descricao": "1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "1 marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg"
+      },
+      {
+       "descricao": "2 lápis nº 2 preto",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "2 borrachas brancas grandes",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão grande – Ciências – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – História – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Geografia – 96 folhas",
+       "qtd": 1,
+       "cod": 9009,
+       "produto": "CADERNO CD 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 96 folhas Tilibra.",
+       "foto": "listas/fotos/9009.jpg"
+      },
+      {
+       "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
+       "qtd": 1,
+       "cod": 9989,
+       "produto": "CADERNO CD 80F TILIBRA (AMARELO)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Capa dura 80 folhas Tilibra.",
+       "foto": "listas/fotos/9989.jpg"
+      },
+      {
+       "descricao": "1 caderno de desenho sem pauta – Arte",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 caderno pequeno ½ para recados",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12449.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola Cascolar 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 régua de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg"
+      },
+      {
+       "descricao": "1 minidicionário (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg"
+      },
+      {
+       "descricao": "1 transferidor 180º",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg"
+      },
+      {
+       "descricao": "1 compasso",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg"
+      },
+      {
+       "descricao": "1 esquadro de 45º",
+       "qtd": 1,
+       "cod": 1136,
+       "produto": "ESQUADRO 21X45-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1136.jpg"
+      },
+      {
+       "descricao": "1 esquadro de 60º",
+       "qtd": 1,
+       "cod": 1137,
+       "produto": "ESQUADRO 21X60-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1137.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "2 colas glitter",
+       "qtd": 2,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "1 pasta com 100 plásticos",
+       "qtd": 1,
+       "cod": 6196,
+       "produto": "PASTA CATALOGO PRETA C/100",
+       "preco": 37.9,
+       "foto": "listas/fotos/6196.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "4 envelopes brancos para carta pessoal",
+       "qtd": 4,
+       "cod": 1070,
+       "produto": "ENVELOPE CARTA S/CEP 114X229 (COF 020)",
+       "marca": "SCRITY",
+       "preco": 0.2,
+       "foto": "listas/fotos/1070.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
+       "qtd": 1,
+       "cod": 3018,
+       "produto": "GUACHE 15ML C/6-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/3018.jpg"
+      },
+      {
+       "descricao": "2 gibis",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 revista usada",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 jogo pedagógico (can-can, origami, xadrez, dama...)",
+       "qtd": 1,
+       "cod": 3585,
+       "produto": "BRINQUEDO PEDAG.JOGO XADREZ",
+       "marca": "PAIS&FILHO",
+       "preco": 29.9,
+       "obs": "Jogo de xadrez.",
+       "foto": "listas/fotos/3585.jpg"
+      },
+      {
+       "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
+       "qtd": 1,
+       "cod": 10143,
+       "produto": "PETECA",
+       "marca": "BORAKIBORA",
+       "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/10143.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "5 folhas de papel fotográfico A4",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 pincel de giz líquido (qualquer cor)",
+       "qtd": 1,
+       "cod": 8823,
+       "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
+       "marca": "BRW",
+       "preco": 14.9,
+       "foto": "listas/fotos/8823.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA",
+       "qtd": 1,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "1 folha de EVA com glitter",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel ofício colorido verde",
+       "qtd": 1,
+       "cod": 6313,
+       "produto": "PAPEL A4 COLOR. C/100-VERDE",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "foto": "listas/fotos/6313.jpg"
+      },
+      {
+       "descricao": "1 tubo de cola quente fino",
+       "qtd": 1,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "O livro literário será enviado posteriormente pela escola.",
+      "A escola sugere que os cadernos brochurão sejam de capa dura.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
      "totais_por_ano": [
       {
        "ano": "6º ano",
@@ -1748,6 +4027,1345 @@
       "Os livros deverão ser adquiridos novos; não será permitido o uso de livros didáticos xerocados.",
       "A lista dos livros literários será disponibilizada a partir da 2ª quinzena de fevereiro.",
       "Não será permitido o uso de estilete."
+     ]
+    },
+    {
+     "id": "peterpan-maternal1",
+     "ano": "Maternal 1",
+     "orcamento": 660487,
+     "itens": [
+      {
+       "descricao": "1 shampoo para cabelo e corpo",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 toalha de banho simples",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 aventalzinho",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg"
+      },
+      {
+       "descricao": "1 bola",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pacote pequeno de algodão",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 jogo pedagógico (potes e peças grandes)",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
+       "qtd": 1,
+       "cod": 6044,
+       "produto": "FLAUTA",
+       "marca": "PLAST'SAND",
+       "preco": 21.9,
+       "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6044.jpg"
+      },
+      {
+       "descricao": "3 caixas de massa de modelar",
+       "qtd": 3,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "3 colas coloridas",
+       "qtd": 3,
+       "cod": 3321,
+       "produto": "COLA COLORIDA C/4 ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Caixa com 4 cores.",
+       "foto": "listas/fotos/3321.jpg"
+      },
+      {
+       "descricao": "50 palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cera – Meu 1º Giz",
+       "qtd": 1,
+       "cod": 1474,
+       "produto": "GIZAO ACRILEX-MEU 1º GIZ C/6",
+       "marca": "ACRILEX",
+       "preco": 26.9,
+       "obs": "Gizão Acrilex Meu 1º Giz com 6 cores.",
+       "foto": "listas/fotos/1474.jpg"
+      },
+      {
+       "descricao": "1 pote de guache de 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/5764.jpg"
+      },
+      {
+       "descricao": "1 anilina líquida",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 tubo de cola",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "1 lastex",
+       "qtd": 1,
+       "cod": 1716,
+       "produto": "LASTEX C/10M-BRANCO",
+       "marca": "COATS",
+       "preco": 4.0,
+       "obs": "Rolo com 10 metros.",
+       "foto": "listas/fotos/1716.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura nº 12",
+       "qtd": 1,
+       "cod": 10997,
+       "produto": "PINCEL CHATO 12",
+       "preco": 4.9,
+       "foto": "listas/fotos/10997.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "1 metro de papel craft",
+       "qtd": 1,
+       "cod": 2112,
+       "produto": "PAPEL KRAFT 1,20MT/80G (BOBINA)",
+       "marca": "MG PAPEL",
+       "preco": 2.0,
+       "foto": "listas/fotos/2112.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1 pacote de folha 60 kg",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4, pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "1 folha de papel crepom",
+       "qtd": 1,
+       "cod": 2069,
+       "produto": "CREPOM AZUL CLARO",
+       "preco": 1.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2069.jpg"
+      },
+      {
+       "descricao": "2 metros de TNT (qualquer cor)",
+       "qtd": 2,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA (cores variadas)",
+       "qtd": 2,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola quente finos",
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 jornal e 1 revista usados",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "2 blocos encadernados com 50 folhas A3 (180 g)",
+       "qtd": 2,
+       "cod": 206,
+       "produto": "BLOCO DESENHO A3 (180G) C/20-RIDET",
+       "marca": "RIDET",
+       "preco": 32.9,
+       "obs": "Bloco de desenho A3 180 g com 20 folhas.",
+       "foto": "listas/fotos/206.jpg"
+      },
+      {
+       "descricao": "10 metros de cordão",
+       "qtd": 1,
+       "cod": 196,
+       "produto": "BARBANTE 4/12 C/250GR (100MT)",
+       "marca": "JAF TEXTIL",
+       "preco": 8.9,
+       "obs": "Barbante 4/12 com 100 metros.",
+       "foto": "listas/fotos/196.jpg"
+      },
+      {
+       "descricao": "2 EVA com glitter",
+       "qtd": 2,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "1 fitilho",
+       "qtd": 1,
+       "cod": 1321,
+       "produto": "FITILHO 50MT BRANCO",
+       "marca": "EMFESTA",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1321.jpg"
+      },
+      {
+       "descricao": "1 pacote de A4 colorido",
+       "qtd": 1,
+       "cod": 2007,
+       "produto": "PAPEL A4 COLOR. C/100-AMARELO",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2007.jpg"
+      },
+      {
+       "descricao": "20 folhas de papel 60 kg branco tamanho A3",
+       "qtd": 1,
+       "cod": 3580,
+       "produto": "PAPEL 60KG A3 C/20FL-GRIFFE",
+       "preco": 15.0,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/3580.jpg"
+      },
+      {
+       "descricao": "200 folhas de papel A4 branco",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "Pacote com 500 folhas.",
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "1 pacote de folha fotográfica com 20 folhas",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "1 pacote de papel machê 25 g",
+       "qtd": 1,
+       "cod": 11515,
+       "produto": "PAPEL MACHE 100G",
+       "marca": "ACRILEX",
+       "preco": 29.9,
+       "obs": "Pacote com 100 g.",
+       "foto": "listas/fotos/11515.jpg"
+      },
+      {
+       "descricao": "1 massinha de argila 100 g",
+       "qtd": 1,
+       "cod": 14435,
+       "produto": "ARGILA ESCOLAR-200GR ACRILEX",
+       "preco": 9.9,
+       "obs": "Argila Acrilex 200 g.",
+       "foto": "listas/fotos/14435.jpg"
+      },
+      {
+       "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 14638,
+       "produto": "COPO INFANTIL ESCOLAR 300ML",
+       "marca": "PLASUTIL",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada."
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 mamadeira (caso a criança faça uso)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 muda de roupa",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 chinelo",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "3 fraldas (caso a criança faça uso)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 embalagem de lenço umedecido",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pomada para assadura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 escova de dente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pasta dental sem flúor",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pente ou escova de cabelo",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
+     "id": "peterpan-maternal2",
+     "ano": "Maternal 2",
+     "orcamento": 660488,
+     "itens": [
+      {
+       "descricao": "1 toalha de banho simples",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "2 tubos de cola quente finos",
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cera jumbo",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg"
+      },
+      {
+       "descricao": "1 folha de colorsete estampado",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 aventalzinho",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg"
+      },
+      {
+       "descricao": "2 colas glitter",
+       "qtd": 2,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "2 rolos de durex colorido",
+       "qtd": 2,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "1 jornal usado",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 jogo educativo (cores, formas, frutas, números, pequeno construtor, encaixe – peças grandes)",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
+       "qtd": 1,
+       "cod": 6044,
+       "produto": "FLAUTA",
+       "marca": "PLAST'SAND",
+       "preco": 21.9,
+       "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6044.jpg"
+      },
+      {
+       "descricao": "5 metros de cordão",
+       "qtd": 1,
+       "cod": 196,
+       "produto": "BARBANTE 4/12 C/250GR (100MT)",
+       "marca": "JAF TEXTIL",
+       "preco": 8.9,
+       "obs": "Barbante 4/12 com 100 metros.",
+       "foto": "listas/fotos/196.jpg"
+      },
+      {
+       "descricao": "1 material (bambolê ou bola)",
+       "qtd": 1,
+       "cod": 6042,
+       "produto": "BRINQUEDO PEDAG.BAMBOLE",
+       "marca": "CARLU",
+       "preco": 5.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6042.jpg"
+      },
+      {
+       "descricao": "3 colas coloridas",
+       "qtd": 3,
+       "cod": 3321,
+       "produto": "COLA COLORIDA C/4 ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Caixa com 4 cores.",
+       "foto": "listas/fotos/3321.jpg"
+      },
+      {
+       "descricao": "50 folhas de papel A4 colorsete",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "1 pote de guache de 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/5764.jpg"
+      },
+      {
+       "descricao": "100 palitos de picolé coloridos",
+       "qtd": 2,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "obs": "2 pacotes com 50.",
+       "foto": "listas/fotos/1999.jpg"
+      },
+      {
+       "descricao": "1 pincel de pintura nº 10",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "1 pacote pequeno de algodão",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "2 folhas de EVA (1 m x 0,50 m)",
+       "qtd": 2,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA com glitter (cores variadas)",
+       "qtd": 2,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "1 folha de papel crepom",
+       "qtd": 1,
+       "cod": 2069,
+       "produto": "CREPOM AZUL CLARO",
+       "preco": 1.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2069.jpg"
+      },
+      {
+       "descricao": "2 metros de papel craft",
+       "qtd": 2,
+       "cod": 2112,
+       "produto": "PAPEL KRAFT 1,20MT/80G (BOBINA)",
+       "marca": "MG PAPEL",
+       "preco": 2.0,
+       "foto": "listas/fotos/2112.jpg"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg"
+      },
+      {
+       "descricao": "1 lastex",
+       "qtd": 1,
+       "cod": 1716,
+       "produto": "LASTEX C/10M-BRANCO",
+       "marca": "COATS",
+       "preco": 4.0,
+       "obs": "Rolo com 10 metros.",
+       "foto": "listas/fotos/1716.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1 fitilho",
+       "qtd": 1,
+       "cod": 1321,
+       "produto": "FITILHO 50MT BRANCO",
+       "marca": "EMFESTA",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1321.jpg"
+      },
+      {
+       "descricao": "4 caixas de massa de modelar",
+       "qtd": 4,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola Cascolar grande",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 revista usada",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "500 folhas de papel A4 branco",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "3 blocos encadernados com 50 folhas A3 (180 g)",
+       "qtd": 3,
+       "cod": 206,
+       "produto": "BLOCO DESENHO A3 (180G) C/20-RIDET",
+       "marca": "RIDET",
+       "preco": 32.9,
+       "obs": "Bloco de desenho A3 180 g com 20 folhas.",
+       "foto": "listas/fotos/206.jpg"
+      },
+      {
+       "descricao": "1 pacote de folha fotográfica com 10 folhas",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "2 metros de TNT",
+       "qtd": 2,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "1 pacote de papel machê 25 g",
+       "qtd": 1,
+       "cod": 11515,
+       "produto": "PAPEL MACHE 100G",
+       "marca": "ACRILEX",
+       "preco": 29.9,
+       "obs": "Pacote com 100 g.",
+       "foto": "listas/fotos/11515.jpg"
+      },
+      {
+       "descricao": "1 massinha de argila 100 g",
+       "qtd": 1,
+       "cod": 14435,
+       "produto": "ARGILA ESCOLAR-200GR ACRILEX",
+       "preco": 9.9,
+       "obs": "Argila Acrilex 200 g.",
+       "foto": "listas/fotos/14435.jpg"
+      },
+      {
+       "descricao": "2 cartolinas brancas",
+       "qtd": 2,
+       "cod": 2034,
+       "produto": "CARTOLINA-BRANCA",
+       "marca": "GRIFFE",
+       "preco": 1.5,
+       "foto": "listas/fotos/2034.jpg"
+      },
+      {
+       "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 14638,
+       "produto": "COPO INFANTIL ESCOLAR 300ML",
+       "marca": "PLASUTIL",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada."
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 mamadeira (caso a criança faça uso)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 muda de roupa",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 chinelo",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "3 fraldas (caso a criança faça uso)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 embalagem de lenço umedecido",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pomada para assadura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 escova de dente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pasta dental sem flúor",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pente ou escova de cabelo",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
+    },
+    {
+     "id": "peterpan-maternal3",
+     "ano": "Maternal 3",
+     "orcamento": 660489,
+     "itens": [
+      {
+       "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 14638,
+       "produto": "COPO INFANTIL ESCOLAR 300ML",
+       "marca": "PLASUTIL",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada."
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 muda de roupa",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 chinelo",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 escova de dente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pasta dental sem flúor",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 lápis de escrever jumbo",
+       "qtd": 1,
+       "cod": 7862,
+       "produto": "LAPIS ESCREVER MAPED JUMBO",
+       "marca": "MAPED",
+       "preco": 2.9,
+       "foto": "listas/fotos/7862.jpg"
+      },
+      {
+       "descricao": "1 pacote de folha fotográfica com 15 folhas",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor grosso",
+       "qtd": 1,
+       "cod": 7700,
+       "produto": "LAPIS 12CORES-ACRILEX (JUMBO)",
+       "preco": 28.9,
+       "obs": "Lápis de cor jumbo Acrilex com 12 cores.",
+       "foto": "listas/fotos/7700.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cera – gizão",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg"
+      },
+      {
+       "descricao": "1 aventalzinho",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg"
+      },
+      {
+       "descricao": "1 rolo de fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg"
+      },
+      {
+       "descricao": "1 rolo de fita adesiva",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "1 jogo pedagógico (boliche, argolas, potes, pequeno construtor, encaixe – peças grandes)",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
+       "qtd": 1,
+       "cod": 6044,
+       "produto": "FLAUTA",
+       "marca": "PLAST'SAND",
+       "preco": 21.9,
+       "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6044.jpg"
+      },
+      {
+       "descricao": "1 material (bambolê, bola)",
+       "qtd": 1,
+       "cod": 6042,
+       "produto": "BRINQUEDO PEDAG.BAMBOLE",
+       "marca": "CARLU",
+       "preco": 5.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6042.jpg"
+      },
+      {
+       "descricao": "1 pote de guache de 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/5764.jpg"
+      },
+      {
+       "descricao": "4 caixas de massa de modelar",
+       "qtd": 4,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 cola glitter",
+       "qtd": 1,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "2 colas coloridas",
+       "qtd": 2,
+       "cod": 3321,
+       "produto": "COLA COLORIDA C/4 ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Caixa com 4 cores.",
+       "foto": "listas/fotos/3321.jpg"
+      },
+      {
+       "descricao": "2 rolos de durex colorido",
+       "qtd": 2,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "50 palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 rolo de lastex",
+       "qtd": 1,
+       "cod": 1716,
+       "produto": "LASTEX C/10M-BRANCO",
+       "marca": "COATS",
+       "preco": 4.0,
+       "obs": "Rolo com 10 metros.",
+       "foto": "listas/fotos/1716.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 folha de papel crepom",
+       "qtd": 1,
+       "cod": 2069,
+       "produto": "CREPOM AZUL CLARO",
+       "preco": 1.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2069.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA coloridas",
+       "qtd": 2,
+       "cod": 1230,
+       "produto": "EVA LISO-AZUL CLARO/BEBE",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1230.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA com glitter",
+       "qtd": 2,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "1 metro de papel craft",
+       "qtd": 1,
+       "cod": 2112,
+       "produto": "PAPEL KRAFT 1,20MT/80G (BOBINA)",
+       "marca": "MG PAPEL",
+       "preco": 2.0,
+       "foto": "listas/fotos/2112.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel ofício colorido rosa",
+       "qtd": 1,
+       "cod": 6314,
+       "produto": "PAPEL A4 COLOR. C/100-ROSA",
+       "preco": 10.9,
+       "foto": "listas/fotos/6314.jpg"
+      },
+      {
+       "descricao": "1 metro de TNT",
+       "qtd": 1,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "500 folhas de papel A4 branco",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola quente finos",
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 caderno sem pauta para Arte (60 folhas)",
+       "qtd": 1,
+       "cod": 10911,
+       "produto": "CADERNO DESENHO CARTONADO 48F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 6.9,
+       "foto": "listas/fotos/10911.jpg"
+      },
+      {
+       "descricao": "1 pasta arquivo fina",
+       "qtd": 1,
+       "cod": 2223,
+       "produto": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
+       "preco": 4.9,
+       "foto": "listas/fotos/2223.jpg"
+      },
+      {
+       "descricao": "10 metros de barbante",
+       "qtd": 1,
+       "cod": 196,
+       "produto": "BARBANTE 4/12 C/250GR (100MT)",
+       "marca": "JAF TEXTIL",
+       "preco": 8.9,
+       "obs": "Barbante 4/12 com 100 metros.",
+       "foto": "listas/fotos/196.jpg"
+      },
+      {
+       "descricao": "1 folha de papel 60 kg",
+       "qtd": 1,
+       "cod": 6114,
+       "produto": "PAPEL 60KG (66X96)",
+       "preco": 2.5,
+       "obs": "Folha 66 x 96 cm.",
+       "foto": "listas/fotos/6114.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel 60 kg A4 (120 g)",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "2 pacotes de 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "1 massinha de argila 100 g",
+       "qtd": 1,
+       "cod": 14435,
+       "produto": "ARGILA ESCOLAR-200GR ACRILEX",
+       "preco": 9.9,
+       "obs": "Argila Acrilex 200 g.",
+       "foto": "listas/fotos/14435.jpg"
+      },
+      {
+       "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
      ]
     },
     {
@@ -2138,9 +5756,390 @@
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
      ]
+    },
+    {
+     "id": "peterpan-periodo2",
+     "ano": "2º Período",
+     "orcamento": 660484,
+     "itens": [
+      {
+       "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
+       "qtd": 1,
+       "cod": 14638,
+       "produto": "COPO INFANTIL ESCOLAR 300ML",
+       "marca": "PLASUTIL",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada."
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 escova de dente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "1 pasta dental sem flúor",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix."
+      },
+      {
+       "descricao": "2 caixas de lápis de cor com 24 cores (casa e aula)",
+       "qtd": 2,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "4 lápis nº 2 preto",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "3 borrachas brancas grandes",
+       "qtd": 3,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "2 cadernos brochurão sem pauta (aula e casa)",
+       "qtd": 2,
+       "cod": 414,
+       "produto": "CADERNO CD S/P 96F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 13.9,
+       "obs": "Caderno capa dura sem pauta 96 folhas Tilibra. Também temos o de 80 folhas (cód. 417, R$ 10,90): consulte a vendedora.",
+       "foto": "listas/fotos/414.jpg"
+      },
+      {
+       "descricao": "1 pacote de folha fotográfica com 10 folhas",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "1 metro de papel craft",
+       "qtd": 1,
+       "cod": 2112,
+       "produto": "PAPEL KRAFT 1,20MT/80G (BOBINA)",
+       "marca": "MG PAPEL",
+       "preco": 2.0,
+       "foto": "listas/fotos/2112.jpg"
+      },
+      {
+       "descricao": "1 cola glitter",
+       "qtd": 1,
+       "cod": 834,
+       "produto": "COLA GLITTER AZUL 23GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/834.jpg"
+      },
+      {
+       "descricao": "1 cola colorida",
+       "qtd": 1,
+       "cod": 3321,
+       "produto": "COLA COLORIDA C/4 ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Caixa com 4 cores.",
+       "foto": "listas/fotos/3321.jpg"
+      },
+      {
+       "descricao": "100 folhas de papel 60 kg A4 (120 g)",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "2 pacotes de 50 folhas.",
+       "foto": "listas/fotos/5973.jpg"
+      },
+      {
+       "descricao": "1 jogo pedagógico (boliche, argolas, potes, pequeno construtor, encaixe – peças grandes)",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
+       "qtd": 1,
+       "cod": 6044,
+       "produto": "FLAUTA",
+       "marca": "PLAST'SAND",
+       "preco": 21.9,
+       "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/6044.jpg"
+      },
+      {
+       "descricao": "1 material (bambolê, bola, peteca, corda, elástico...)",
+       "qtd": 1,
+       "cod": 10143,
+       "produto": "PETECA",
+       "marca": "BORAKIBORA",
+       "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
+       "foto": "listas/fotos/10143.jpg"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
+       "qtd": 1,
+       "cod": 6467,
+       "produto": "JOGO PINCEL COMPACTOR C/12",
+       "marca": "COMPACTOR",
+       "preco": 29.9,
+       "foto": "listas/fotos/6467.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola de 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 gibi",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "50 palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg"
+      },
+      {
+       "descricao": "1 pote de guache de 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/5764.jpg"
+      },
+      {
+       "descricao": "1 pincel para pintura",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 rolo de durex colorido",
+       "qtd": 1,
+       "cod": 1022,
+       "produto": "DUREX COLOR.12X10M-AZUL",
+       "marca": "EUROCEL",
+       "preco": 1.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1022.jpg"
+      },
+      {
+       "descricao": "3 caixas de massa de modelar com 12 unidades",
+       "qtd": 3,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "2 metros de TNT",
+       "qtd": 2,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4206.jpg"
+      },
+      {
+       "descricao": "1 folha de papel 60 kg",
+       "qtd": 1,
+       "cod": 6114,
+       "produto": "PAPEL 60KG (66X96)",
+       "preco": 2.5,
+       "obs": "Folha 66 x 96 cm.",
+       "foto": "listas/fotos/6114.jpg"
+      },
+      {
+       "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
+       "qtd": 1,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "foto": "listas/fotos/7731.jpg"
+      },
+      {
+       "descricao": "1000 folhas de papel A4 branco",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "2 pacotes de 500 folhas.",
+       "foto": "listas/fotos/2014.jpg"
+      },
+      {
+       "descricao": "1 rolo de fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg"
+      },
+      {
+       "descricao": "1 pacote de colorsete A4",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg"
+      },
+      {
+       "descricao": "50 folhas de papel ofício colorido azul",
+       "qtd": 1,
+       "cod": 3975,
+       "produto": "PAPEL A4 COLOR. C/100-AZUL",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/3975.jpg"
+      },
+      {
+       "descricao": "2 folhas de EVA com glitter (cores variadas)",
+       "qtd": 2,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/4829.jpg"
+      },
+      {
+       "descricao": "5 folhas de plastificação A4",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10 folhas.",
+       "foto": "listas/fotos/13982.jpg"
+      },
+      {
+       "descricao": "1 fita adesiva transparente",
+       "qtd": 1,
+       "cod": 1028,
+       "produto": "DUREX 12X10MT-TRANSPARENTE",
+       "preco": 1.0,
+       "foto": "listas/fotos/1028.jpg"
+      },
+      {
+       "descricao": "2 tubos de cola quente finos",
+       "qtd": 2,
+       "cod": 2616,
+       "produto": "REFIL COLA QUENTE FINO",
+       "marca": "CLASSE",
+       "preco": 1.0,
+       "foto": "listas/fotos/2616.jpg"
+      },
+      {
+       "descricao": "1 pacote de folha fotográfica com 15 folhas",
+       "qtd": 1,
+       "cod": 2099,
+       "produto": "PAPEL FOTO A4-180GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/2099.jpg"
+      },
+      {
+       "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
+       "qtd": 1,
+       "cod": 8852,
+       "produto": "LIVRO INFANTIL CLASSICOS-JOAO E MARIA",
+       "marca": "BICHO ESPE",
+       "preco": 1.5,
+       "foto": "listas/fotos/8852.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "Livro didático: listas.livrofacil.net/IPP76226918426.",
+      "Todos os materiais, pertences e uniformes devem ser marcados com o nome do aluno(a).",
+      "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na lancheira diariamente.",
+      "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
+      "Todos os materiais deverão ser entregues até o dia 26/fev."
+     ]
     }
    ]
   }
  ],
- "atualizado": "10/11/2026 14:13"
+ "atualizado": "10/11/2026 14:18"
 }
