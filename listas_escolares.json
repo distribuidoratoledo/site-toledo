@@ -1543,11 +1543,11 @@
       {
        "descricao": "1 caixa de lápis de cor com no mínimo 12 cores",
        "qtd": 1,
-       "cod": 11529,
-       "produto": "LAPIS 12CORES-MAPED STAR",
-       "marca": "MAPED",
-       "preco": 12.9,
-       "foto": "listas/fotos/11529.jpg"
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg"
       },
       {
        "descricao": "Régua transparente de 30 cm",
@@ -2042,5 +2042,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 13:32"
+ "atualizado": "10/11/2026 13:37"
 }
