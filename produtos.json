@@ -3278,6 +3278,13 @@
        "saldo": 116
       },
       {
+       "cod": 2626,
+       "cor": "Preto",
+       "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
+       "img": "produtos/2626.jpg",
+       "saldo": 2
+      },
+      {
        "cod": 2627,
        "cor": "Verde",
        "nome": "REFIL PINCEL Q.BRC PILOT-VERDE",
@@ -3918,7 +3925,7 @@
      "marca": "MERCUR",
      "preco": 0.9,
      "img": "produtos/279.jpg",
-     "saldo": 2334
+     "saldo": 2333
     },
     {
      "cod": 281,
@@ -7448,7 +7455,7 @@
      "marca": "MAXIMA",
      "preco": 7.9,
      "img": "produtos/439.jpg",
-     "saldo": 33
+     "saldo": 25
     },
     {
      "cod": 12381,
@@ -8466,7 +8473,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 338
+     "saldo": 337
     },
     {
      "cod": 11926,
@@ -8600,7 +8607,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2081
+     "saldo": 2073
     },
     {
      "cod": 1031,
@@ -9755,7 +9762,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 6612,
@@ -10400,7 +10407,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 254
+       "saldo": 253
       },
       {
        "cod": 2035,
@@ -10469,7 +10476,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 2051,
@@ -10742,7 +10749,7 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 44
+       "saldo": 43
       },
       {
        "cod": 2081,
@@ -13322,7 +13329,7 @@
      "marca": "MAXCRIL",
      "preco": 1.6,
      "img": "produtos/9254.jpg",
-     "saldo": 70
+     "saldo": 56
     },
     {
      "cod": 1117,
@@ -15701,7 +15708,7 @@
     },
     {
      "cod": 14596,
-     "nome": "TESOURA S/P TRIS PASTEL-CORES",
+     "nome": "TESOURA S/P TRIS PASTEL-ROSA",
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14596.jpg",
@@ -24725,7 +24732,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 69
+     "saldo": 67
     },
     {
      "cod": 13863,
@@ -24805,7 +24812,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/4939.jpg",
-     "saldo": 580
+     "saldo": 579
     },
     {
      "cod": 4940,
@@ -24813,7 +24820,7 @@
      "marca": "KROMASA",
      "preco": 4.9,
      "img": "produtos/4940.jpg",
-     "saldo": 642
+     "saldo": 641
     },
     {
      "cod": 4941,
@@ -24893,7 +24900,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 705
+     "saldo": 695
     },
     {
      "cod": 2808,
@@ -25163,14 +25170,14 @@
      "marca": "P. CVS",
      "preco": 18.9,
      "img": "produtos/3848.jpg",
-     "saldo": 8,
+     "saldo": 7,
      "cores": [
       {
        "cod": 3848,
        "cor": "Amarela",
        "nome": "SACOLA PH 20X30 C/50-AMARELA",
        "img": "produtos/3848.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 3669,
@@ -25302,14 +25309,14 @@
      "marca": "P. CVS",
      "preco": 36.9,
      "img": "produtos/3671.jpg",
-     "saldo": 7,
+     "saldo": 6,
      "cores": [
       {
        "cod": 3671,
        "cor": "Amarela",
        "nome": "SACOLA PH 30X40 C/50-AMARELA",
        "img": "produtos/3671.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 3672,
@@ -25646,7 +25653,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 10594
+     "saldo": 10494
     },
     {
      "cod": 11788,
