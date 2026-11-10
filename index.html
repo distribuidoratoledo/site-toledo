@@ -329,6 +329,9 @@
     .car-enviado { text-align: center; padding: 26px 6px 10px; }
     .car-enviado .tic { width: 54px; height: 54px; margin: 0 auto 12px; border-radius: 50%; background: #e9f7ef;
       color: #12633f; font-size: 1.8rem; line-height: 54px; font-weight: 800; }
+    .car-enviado .tic.falta { background: #ffe27a; color: #3d2f00; font-weight: 800; font-size: 1.5rem; }
+    .car-obrig { background: #ffe27a; color: #3d2f00; border-radius: 10px; padding: 12px 14px; margin: 8px 0 12px;
+      font-size: .92rem; line-height: 1.4; text-align: left; }
     .car-enviado h4 { color: var(--azul); font-size: 1.15rem; margin-bottom: 6px; }
     .car-enviado p { font-size: .9rem; margin-bottom: 12px; }
     .car-enviado .car-pix { text-align: left; }
@@ -2060,8 +2063,15 @@
       var msg = encodeURIComponent('Comprovante do PIX do pedido ' + num + ' (vou anexar aqui).');
       var corpo = document.getElementById('car-corpo');
       corpo.innerHTML = '<div class="car-enviado">'
-        + '<div class="tic">\u2713</div>'
-        + '<h4>Pedido enviado!</h4>'
+        /* PASSO OBRIGATORIO (10/11/2026: "o cliente precisa ter a obrigatoriedade de clicar em enviar pelo zap,
+           assim temos certeza que ele finalizou o pedido"): o site nao consegue apertar Enviar pelo cliente,
+           entao a tela diz com todas as letras que o pedido so' conclui la' e deixa o botao para abrir de novo. */
+        + '<div class="tic falta">1</div>'
+        + '<h4>Falta 1 passo: enviar no WhatsApp</h4>'
+        + '<div class="car-obrig"><b>Seu pedido s\u00f3 \u00e9 conclu\u00eddo quando voc\u00ea apertar ENVIAR no WhatsApp.</b> '
+        + 'A mensagem j\u00e1 est\u00e1 pronta, com os itens e os seus dados. Sem esse envio, a vendedora n\u00e3o confirma o pedido.</div>'
+        + '<a class="bt-comprovante" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(montarPedido()) + '">'
+        + 'Abrir o WhatsApp e enviar o pedido</a>'
         + '<p>N\u00famero do pedido: <b>' + esc(num) + '</b><br>Vendedora: <b>' + esc(DADOS.vendedora || '') + '</b></p>'
         + (pixAntecipado
             ? '<div class="car-pix"><b>Aguarde o aviso da vendedora.</b> Vamos separar o seu pedido e conferir os itens. '
@@ -2074,7 +2084,7 @@
               + '<button class="bt-copiar" type="button" onclick="copiarChavePix(this)">Copiar chave PIX</button>'
             : (PEDIDOS_ENDPOINT ? '<p class="car-nota"><a target="_blank" rel="noopener" href="pedido.html?n=' + encodeURIComponent(num) + '"><b>Acompanhar o pedido</b></a>: mostra quando ele estiver conferido'
                 + (DADOS.pagto === 'PIX' ? ' e, s\u00f3 ent\u00e3o, a chave PIX para o pagamento' : '') + '.</p>' : '')
-              + '<p class="car-nota">Se o WhatsApp n\u00e3o abrir, chame a loja no '
+              + '<p class="car-nota">Se o bot\u00e3o n\u00e3o abrir o WhatsApp, chame a loja no '
               + '<a target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '">(31) 9 8511-3106</a>'
               + ' e informe o n\u00famero do pedido.</p>')
         + '<button class="bt-voltar" type="button" onclick="pintarPainel()">Voltar ao carrinho</button>'
