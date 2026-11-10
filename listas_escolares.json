@@ -1652,8 +1652,12 @@
       {
        "descricao": "Brinquedo de faz-de-conta – pode ser usado e em bom estado (carrinhos, bonecas, brinquedos para modelar massinhas, ferramentas)",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix.",
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Massa de modelar Acrilex com 12 cores.",
+       "foto": "listas/fotos/1877.jpg",
        "grupo": "Materiais de uso individual"
       },
       {
@@ -11733,5 +11737,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 16:25"
+ "atualizado": "10/11/2026 16:39"
 }
