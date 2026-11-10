@@ -216,6 +216,18 @@
     .totais .t2 { color: var(--suave); font-size: 0.92rem; }
     .totais .t3 { color: var(--azul); font-weight: 600; font-size: 1rem; }
     .totais .t3 b { color: #5b3fa8; }
+    .pg-anos { list-style: none; padding: 0; margin: 0.4rem 0 0.5rem; display: grid; gap: 0.3rem; }
+    .pg-anos li { display: flex; justify-content: space-between; gap: 1rem; border-bottom: 1px dashed rgba(26,47,82,.15); padding-bottom: 0.25rem; }
+    .pg-anos li span { font-weight: 700; color: var(--azul); }
+    .pg-anos li b { font-size: 1.1rem; white-space: nowrap; }
+    .por-ano { margin-top: 1rem; border: 1px solid #dde3ec; border-radius: 12px; overflow: hidden; }
+    .por-ano h3 { margin: 0; padding: 0.6rem 1rem; background: var(--azul); color: #fff; font-size: 1rem; }
+    .por-ano table { width: 100%; border-collapse: collapse; }
+    .por-ano th, .por-ano td { padding: 0.6rem 1rem; border-top: 1px solid #e6ebf2; text-align: left; font-size: 0.95rem; }
+    .por-ano th { background: #f3f5f9; color: #5f6b7d; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    .por-ano td.a { font-weight: 800; color: var(--azul); white-space: nowrap; }
+    .por-ano .v { text-align: right; white-space: nowrap; }
+    .por-ano td.v { font-weight: 800; color: var(--vermelho); font-size: 1.1rem; }
     .obs-escola { margin-top: 1.2rem; background: #fff8e6; border: 1px solid #ffe3a3; border-radius: 10px; padding: 0.9rem 1.1rem; font-size: 0.9rem; }
     .obs-escola h3 { font-size: 0.92rem; margin-bottom: 0.3rem; }
     .obs-escola li { margin-left: 1.1rem; }
@@ -640,6 +652,20 @@
     var atual = null;
     /* TOTAIS POR ANO (Peter Pan 6º-9º, 10/11/2026): a lista traz L.totais = [{rotulo, partes[], tira[cod], explica}].
        Cada total = total principal - itens "tira" + as partes daquele ano. Sem L.totais, vale a linha simples por parte. */
+    /* TOTAL POR ANO (10/11/2026: "quero que fique mais padronizado, de facil entendimento"): uma linha por ano,
+       sempre "Ano · O que entra · Total". total do ano = principal - itens "tira" + partes do ano. */
+    function totaisPorAno(L, total, partes) {
+      return (L.totais_por_ano || []).map(function (t) {
+        var v = total;
+        (t.tira || []).forEach(function (cod) {
+          (L.itens || []).forEach(function (it) {
+            if (Number(it.cod) === Number(cod) && !it.parte && it.preco != null) v -= (Number(it.qtd) || 0) * Number(it.preco);
+          });
+        });
+        (t.partes || []).forEach(function (k) { v += partes[k] || 0; });
+        return { ano: t.ano, inclui: t.inclui, valor: v };
+      });
+    }
     function linhasTotais(L, total, partes) {
       if (L.totais && L.totais.length) {
         return L.totais.map(function (t) {
@@ -709,7 +735,7 @@
           '<div class="lista-topo"><div>' +
             '<div class="sub">' + n + ' itens' + (L.orcamento ? ' · orçamento nº ' + esc(L.orcamento) : '') +
             (dados.atualizado ? '<br>Preços de ' + esc(dados.atualizado) : '') + '</div></div>' +
-            '<div class="resumo"><div class="rot">Total da lista</div><div class="valor">' + reais(total) + '</div>' +
+            '<div class="resumo"><div class="rot">' + (L.totais_por_ano ? 'A partir de' : 'Total da lista') + '</div><div class="valor">' + reais(total) + '</div>' +
             '</div></div>' +
           '<div class="barra-acoes">' +
             '<a class="btn zap" target="_blank" rel="noopener" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '">' + ICONE_ZAP + 'Pedir pelo WhatsApp</a>' +
@@ -719,13 +745,17 @@
           '<div class="tab-itens"><table><thead><tr><th class="c-n">#</th><th class="c-foto">Foto</th><th class="c-cod">Cód. Sankhya</th>' +
             '<th>Item da lista / produto</th><th class="c-marca">Marca</th><th class="c-qtd">Qtd</th><th class="c-val">Valor unit.</th><th class="c-val">Total</th></tr></thead>' +
             '<tbody>' + html + '</tbody></table></div>' +
-          '<div class="totais"><div class="t1">' + esc(L.rotulo_total || 'Total da lista') + ': <b>' + reais(total) + '</b></div>' +
-            linhasTotais(L, total, partes).map(function (t) {
+          (L.totais_por_ano ? '<div class="por-ano"><h3>Total por ano</h3><table><thead><tr><th>Ano</th><th>O que entra</th><th class="v">Total</th></tr></thead><tbody>' +
+              totaisPorAno(L, total, partes).map(function (t) {
+                return '<tr><td class="a">' + esc(t.ano) + '</td><td>' + esc(t.inclui) + '</td><td class="v">' + reais(t.valor) + '</td></tr>';
+              }).join('') + '</tbody></table></div><div class="totais">' :
+          '<div class="totais"><div class="t1">' + esc(L.rotulo_total || 'Total da lista') + ': <b>' + reais(total) + '</b></div>') +
+            (L.totais_por_ano ? [] : linhasTotais(L, total, partes)).map(function (t) {
               return '<div class="t3">' + esc(t.rotulo) + ': ' + (t.mais != null ? '<b>+ ' + reais(t.mais) + '</b>' + (t.valor != null ? ' · total ' + reais(t.valor) : '')
                 : '<b>' + reais(t.valor) + '</b>' + (t.explica ? ' <small>(' + esc(t.explica) + ')</small>' : '')) + '</div>';
             }).join('') +
             (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
-          pagamento(total) +
+          pagamento(total, L.totais_por_ano ? totaisPorAno(L, total, partes) : null) +
           (L.observacoes && L.observacoes.length ? '<div class="obs-escola"><h3>Recados da escola</h3><ul>' +
             L.observacoes.map(function (o) { return '<li>' + esc(o) + '</li>'; }).join('') + '</ul></div>' : '') +
           '<p class="rodape-lista">Preços sujeitos a alteração e à disponibilidade de estoque. Indicamos marcas quando a escola não pede uma específica; trocamos a seu pedido.</p>' +
@@ -740,8 +770,19 @@
     // Condição de pagamento (Adriana, 04/11/2026): 10% de desconto em dinheiro, PIX ou débito;
     // cartão de crédito em até 10x, parcela mínima de R$&nbsp;50,00
     var DESCONTO_VISTA = 0.10, PARCELAS_MAX = 10, PARCELA_MINIMA = 50;
-    function pagamento(total) {
+    /* com total por ano (10/11/2026: "como se trata de varias opcoes, deixe todas informadas na aba de desconto a vista
+       e cartao"): cada caixa traz uma linha por ano */
+    function pagamento(total, anos) {
       if (!total) return '';
+      if (anos && anos.length) {
+        var parc = function (v) { var k = Math.max(1, Math.min(PARCELAS_MAX, Math.floor(v / PARCELA_MINIMA))); return k > 1 ? k + 'x de ' + reais(v / k) : reais(v) + ' à vista'; };
+        var lin = function (f) { return '<ul class="pg-anos">' + anos.map(function (t) { return '<li><span>' + esc(t.ano) + '</span><b>' + f(t.valor) + '</b></li>'; }).join('') + '</ul>'; };
+        return '<div class="pagto">' +
+          '<div class="vista"><h3>💵 Dinheiro, PIX ou débito</h3>' + lin(function (v) { return reais(Math.round(v * (1 - DESCONTO_VISTA) * 100) / 100); }) +
+            '<p>10% de desconto sobre o total de cada ano</p></div>' +
+          '<div class="cartao-cred"><h3>💳 Cartão de crédito</h3>' + lin(parc) +
+            '<p>Até 10x sem juros, parcela mínima de R$&nbsp;50,00</p></div></div>';
+      }
       var vista = Math.round(total * (1 - DESCONTO_VISTA) * 100) / 100;
       var n = Math.max(1, Math.min(PARCELAS_MAX, Math.floor(total / PARCELA_MINIMA)));
       return '<div class="pagto">' +
@@ -836,7 +877,7 @@
       doc.setFont('helvetica', 'normal'); doc.setFontSize(7.3); cor(SU);
       doc.text(itens.length + ' itens' + (L.orcamento ? ' · orçamento nº ' + L.orcamento : '') +
                (dados.atualizado ? ' · preços de ' + dados.atualizado : ''), M + 4, y + 13.4);
-      doc.setFontSize(7.5); doc.text('Total da lista', M + LW - 4, y + 5, { align: 'right' });
+      doc.setFontSize(7.5); doc.text(L.totais_por_ano ? 'A partir de' : 'Total da lista', M + LW - 4, y + 5, { align: 'right' });
       doc.setFont('helvetica', 'bold'); doc.setFontSize(14); cor(VM);
       doc.text(rs(total), M + LW - 4, y + 11.6, { align: 'right' });
       y += HE + 4;
@@ -909,9 +950,20 @@
       doc.setFont('helvetica', 'bold'); doc.setFontSize(12);
       var tt = rs(total), tw = doc.getTextWidth(tt);
       cor(VM); doc.text(tt, M + LW, y + 4, { align: 'right' });
-      cor(AZ); doc.text((L.rotulo_total || 'Total da lista') + ': ', M + LW - tw, y + 4, { align: 'right' });
+      cor(AZ); doc.text((L.totais_por_ano ? 'Total da lista (8º e 9º ano)' : (L.rotulo_total || 'Total da lista')) + ': ', M + LW - tw, y + 4, { align: 'right' });
       y += 6;
-      linhasTotais(L, total, partesPdf).forEach(function (t) {
+      if (L.totais_por_ano) {
+        doc.autoTable({
+          startY: y + 1, margin: { left: M, right: M }, tableWidth: LW, theme: 'grid',
+          head: [['Ano', 'O que entra', 'Total']],
+          body: totaisPorAno(L, total, partesPdf).map(function (t) { return [t.ano, t.inclui, rs(t.valor)]; }),
+          styles: { font: 'helvetica', fontSize: 8.5, cellPadding: 1.8, textColor: TX, lineColor: [227, 232, 239], lineWidth: 0.2 },
+          headStyles: { fillColor: AZ, textColor: 255, fontStyle: 'bold' },
+          columnStyles: { 0: { cellWidth: 28, fontStyle: 'bold', textColor: AZ }, 2: { cellWidth: 28, halign: 'right', fontStyle: 'bold', textColor: VM } }
+        });
+        y = doc.lastAutoTable.finalY + 4;
+      }
+      (L.totais_por_ano ? [] : linhasTotais(L, total, partesPdf)).forEach(function (t) {
         doc.setFont('helvetica', 'bold'); doc.setFontSize(9.5); cor([91, 63, 168]);
         doc.text(t.rotulo + ': ' + (t.mais != null ? '+ ' + rs(t.mais) + (t.valor != null ? ' · total ' + rs(t.valor) : '') : rs(t.valor) + (t.explica ? ' (' + t.explica + ')' : '')),
                  M + LW, y + 2.5, { align: 'right' });
@@ -922,7 +974,27 @@
         doc.text('Itens "em breve" entram no total quando chegarem.', M + LW, y + 2, { align: 'right' }); y += 4;
       }
       y += 3;
-      if (total) {
+      var anosPdf = L.totais_por_ano ? totaisPorAno(L, total, partesPdf) : null;
+      if (total && anosPdf) {   // uma linha por ano em cada caixa (10/11/2026)
+        var hb = 12 + anosPdf.length * 5.2;
+        cabe(hb + 4);
+        var bw2 = (LW - 4) / 2, xs2 = [M, M + bw2 + 4];
+        var parcPdf = function (v) { var k = Math.max(1, Math.min(PARCELAS_MAX, Math.floor(v / PARCELA_MINIMA))); return k > 1 ? k + 'x de ' + rs(v / k) : rs(v) + ' à vista'; };
+        [[[233, 249, 239], [191, 233, 207], [21, 122, 60], 'Dinheiro, PIX ou débito', function (v) { return rs(Math.round(v * (1 - DESCONTO_VISTA) * 100) / 100); }, '10% de desconto sobre o total de cada ano'],
+         [[238, 243, 251], [211, 223, 242], AZ, 'Cartão de crédito', parcPdf, 'Até 10x sem juros, parcela mínima de R$ 50,00']]
+          .forEach(function (k, j) {
+            doc.setFillColor(k[0][0], k[0][1], k[0][2]); doc.setDrawColor(k[1][0], k[1][1], k[1][2]); doc.setLineWidth(0.3);
+            doc.roundedRect(xs2[j], y, bw2, hb, 2, 2, 'FD');
+            doc.setFont('helvetica', 'bold'); doc.setFontSize(8.5); cor(AZ); doc.text(k[3], xs2[j] + 4, y + 5.5);
+            anosPdf.forEach(function (t, i) {
+              var yy = y + 11 + i * 5.2;
+              doc.setFont('helvetica', 'bold'); doc.setFontSize(8.5); cor(AZ); doc.text(t.ano, xs2[j] + 4, yy);
+              doc.setFontSize(10); cor(k[2]); doc.text(k[4](t.valor), xs2[j] + bw2 - 4, yy, { align: 'right' });
+            });
+            doc.setFont('helvetica', 'normal'); doc.setFontSize(7); cor(SU); doc.text(k[5], xs2[j] + 4, y + hb - 2);
+          });
+        y += hb + 5;
+      } else if (total) {
         cabe(22);
         var vista = Math.round(total * (1 - DESCONTO_VISTA) * 100) / 100;
         var np = Math.max(1, Math.min(PARCELAS_MAX, Math.floor(total / PARCELA_MINIMA)));

@@ -1453,25 +1453,29 @@
    "nome": "Instituto Educacional Peter Pan",
    "listas": [
     {
-     "rotulo_total": "Total da lista (7º ao 9º ano)",
-     "totais": [
+     "totais_por_ano": [
       {
-       "rotulo": "Material de arte (só 6º e 7º ano)",
-       "partes": [
-        "Só 6º e 7º ano"
-       ],
-       "so_acrescimo": true
-      },
-      {
-       "rotulo": "Total do 6º ano",
+       "ano": "6º ano",
+       "inclui": "Lista + 7 cadernos de 1 matéria (no lugar do caderno de 10 matérias) + material de arte",
        "partes": [
         "Só 6º ano",
         "Só 6º e 7º ano"
        ],
        "tira": [
         10933
-       ],
-       "explica": "com 7 cadernos de 1 matéria no lugar do de 10 matérias e o material de arte"
+       ]
+      },
+      {
+       "ano": "7º ano",
+       "inclui": "Lista + material de arte",
+       "partes": [
+        "Só 6º e 7º ano"
+       ]
+      },
+      {
+       "ano": "8º e 9º ano",
+       "inclui": "Lista",
+       "partes": []
       }
      ],
      "id": "peterpan-ano6a9",
@@ -1659,5 +1663,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 09:00"
+ "atualizado": "10/11/2026 09:31"
 }
