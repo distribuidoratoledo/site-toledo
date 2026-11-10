@@ -2175,7 +2175,10 @@
         pagto: DADOS.pagto, parcelas: DADOS.pagto === 'Cr\u00e9dito' ? parcelasEscolhidas() : 1,
         pagamento_detalhe: textoPagamento(), obs: (DADOS.obs || '').trim(),
         itens: CARRINHO.map(function (x) { var i = itemDoCodigo(x.cod); return { cod: i.cod, qtd: x.qtd, preco: i.preco, cor: i.cor || null }; }),
-        total: totalFinal()
+        total: totalFinal(),
+        /* texto completo do pedido: a loja recebe pela rotina mesmo se o cliente nao apertar Enviar no WhatsApp
+           (10/11/2026, pedido 660392 chegou so' com o numero do Sankhya) */
+        mensagem: montarPedido()
       };
     }
     function enviarParaFila() {
