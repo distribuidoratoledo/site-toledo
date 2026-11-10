@@ -191,6 +191,7 @@
     .tab-itens th:last-child, .tab-itens td:last-child { border-right: 0; }
     .tab-itens tr.grupo td { background: #dfe7f3; color: var(--azul); font-weight: 800; font-size: 0.95rem;
       border-left: 5px solid var(--azul); padding: 0.5rem 0.8rem; }
+    .tab-itens tr.grupo .grupo-aviso { margin-left: 0.9rem; color: var(--vermelho); font-weight: 700; font-size: 0.88rem; }
     .tab-itens tbody tr:nth-child(even) td { background: #fafbfd; }
     .tab-itens .c-n { text-align: center; width: 36px; color: var(--suave); font-variant-numeric: tabular-nums; }
     .tab-itens .c-foto { width: 74px; text-align: center; }
@@ -731,7 +732,8 @@
       (L.itens || []).forEach(function (it) {
         /* GRUPOS DA LISTA ORIGINAL (10/11/2026: "esta' deixando as listas no mesmo layout das listas originais? separando
            os itens como material uso individual"): faixa com o nome do grupo antes dos itens dele */
-        if (it.grupo && it.grupo !== gAnt) html += '<tr class="grupo"><td colspan="8">' + esc(it.grupo) + '</td></tr>';
+        if (it.grupo && it.grupo !== gAnt) html += '<tr class="grupo"><td colspan="8">' + esc(it.grupo) +
+          (it.grupo_aviso ? '<span class="grupo-aviso">' + esc(it.grupo_aviso) + '</span>' : '') + '</td></tr>';
         gAnt = it.grupo || gAnt;
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
         if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
@@ -930,7 +932,7 @@
       var corpo = [];
       itens.forEach(function (it, i) {
         if (it.grupo && it.grupo !== gAnt) {
-          var faixa = [{ content: it.grupo, colSpan: 8, styles: { fillColor: [223, 231, 243], textColor: AZ, fontStyle: 'bold',
+          var faixa = [{ content: it.grupo + (it.grupo_aviso ? '   ·   ' + it.grupo_aviso : ''), colSpan: 8, styles: { fillColor: [223, 231, 243], textColor: AZ, fontStyle: 'bold',
                         fontSize: 8.5, minCellHeight: 7, halign: 'left' } }];
           faixa.__i = -1; corpo.push(faixa);
         }

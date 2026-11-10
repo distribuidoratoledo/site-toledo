@@ -1963,14 +1963,16 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/14645.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 guardanapo de pano",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -1980,70 +1982,80 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 mamadeira (caso a criança faça uso)",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 muda de roupa",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 chinelo",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 fraldas (caso a criança faça uso)",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 embalagem de lenço umedecido",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pomada para assadura",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 escova de dente",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta dental sem flúor",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pente ou escova de cabelo",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -2486,14 +2498,16 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/14645.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 guardanapo de pano",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -2503,70 +2517,80 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 mamadeira (caso a criança faça uso)",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 muda de roupa",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 chinelo",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 fraldas (caso a criança faça uso)",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 embalagem de lenço umedecido",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pomada para assadura",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 escova de dente",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta dental sem flúor",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pente ou escova de cabelo",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -2603,14 +2627,16 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/14645.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 guardanapo de pano",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -2620,35 +2646,40 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 muda de roupa",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 chinelo",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 escova de dente",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta dental sem flúor",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 lápis de escrever jumbo",
@@ -2658,7 +2689,8 @@
        "marca": "MAPED",
        "preco": 2.9,
        "foto": "listas/fotos/7862.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de folha fotográfica com 15 folhas",
@@ -2669,7 +2701,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de lápis de cor grosso",
@@ -2680,7 +2713,8 @@
        "preco": 19.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
        "foto": "listas/fotos/13745.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -2691,7 +2725,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de lápis de cera – gizão",
@@ -2702,7 +2737,8 @@
        "preco": 9.9,
        "obs": "Gizão Acrilex com 12 cores.",
        "foto": "listas/fotos/1472.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 aventalzinho",
@@ -2712,7 +2748,8 @@
        "marca": "DAC",
        "preco": 17.9,
        "foto": "listas/fotos/10726.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de fita crepe",
@@ -2722,7 +2759,8 @@
        "marca": "ADELBRAS",
        "preco": 2.0,
        "foto": "listas/fotos/1291.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de fita adesiva",
@@ -2731,7 +2769,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (boliche, argolas, potes, pequeno construtor, encaixe – peças grandes)",
@@ -2741,7 +2780,8 @@
        "marca": "GGB PLAST",
        "preco": 11.9,
        "foto": "listas/fotos/6043.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
@@ -2752,7 +2792,8 @@
        "preco": 21.9,
        "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
        "foto": "listas/fotos/6044.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (bambolê, bola)",
@@ -2763,7 +2804,8 @@
        "preco": 5.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/6042.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pote de guache de 250 ml",
@@ -2774,7 +2816,8 @@
        "preco": 10.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/5764.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 caixas de massa de modelar",
@@ -2784,7 +2827,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/1877.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -2794,7 +2838,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola",
@@ -2805,7 +2850,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cola glitter",
@@ -2816,7 +2862,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 colas coloridas",
@@ -2827,7 +2874,8 @@
        "preco": 9.9,
        "obs": "Caixa com 4 cores.",
        "foto": "listas/fotos/3321.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 rolos de durex colorido",
@@ -2838,7 +2886,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 palitos de picolé coloridos",
@@ -2848,7 +2897,8 @@
        "marca": "ASSETE",
        "preco": 8.9,
        "foto": "listas/fotos/1999.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -2859,7 +2909,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de lastex",
@@ -2870,7 +2921,8 @@
        "preco": 4.0,
        "obs": "Rolo com 10 metros.",
        "foto": "listas/fotos/1716.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de colorsete A4",
@@ -2881,7 +2933,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -2891,7 +2944,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de papel crepom",
@@ -2901,7 +2955,8 @@
        "preco": 1.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2069.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 folhas de EVA coloridas",
@@ -2911,7 +2966,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1230.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 folhas de EVA com glitter",
@@ -2922,7 +2978,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 metro de papel craft",
@@ -2932,7 +2989,8 @@
        "marca": "MG PAPEL",
        "preco": 2.0,
        "foto": "listas/fotos/2112.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
@@ -2942,7 +3000,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido rosa",
@@ -2951,7 +3010,8 @@
        "produto": "PAPEL A4 COLOR. C/100-ROSA",
        "preco": 10.9,
        "foto": "listas/fotos/6314.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 metro de TNT",
@@ -2961,7 +3021,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "500 folhas de papel A4 branco",
@@ -2971,7 +3032,8 @@
        "marca": "PAPEX",
        "preco": 26.9,
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola quente finos",
@@ -2981,7 +3043,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno sem pauta para Arte (60 folhas)",
@@ -2991,7 +3054,8 @@
        "marca": "CREDEAL",
        "preco": 6.9,
        "foto": "listas/fotos/10911.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta arquivo fina",
@@ -3000,7 +3064,8 @@
        "produto": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
        "preco": 4.9,
        "foto": "listas/fotos/2223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "10 metros de barbante",
@@ -3011,7 +3076,8 @@
        "preco": 8.9,
        "obs": "Barbante 4/12 com 100 metros.",
        "foto": "listas/fotos/196.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de papel 60 kg",
@@ -3021,7 +3087,8 @@
        "preco": 2.5,
        "obs": "Folha 66 x 96 cm.",
        "foto": "listas/fotos/6114.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel 60 kg A4 (120 g)",
@@ -3031,7 +3098,8 @@
        "preco": 15.9,
        "obs": "2 pacotes de 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 massinha de argila 100 g",
@@ -3041,7 +3109,8 @@
        "preco": 9.9,
        "obs": "Argila Acrilex 200 g.",
        "foto": "listas/fotos/14435.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
@@ -3051,7 +3120,8 @@
        "marca": "BICHO ESPE",
        "preco": 1.5,
        "foto": "listas/fotos/8852.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -3088,14 +3158,16 @@
        "marca": "PLASUTIL",
        "preco": 8.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 guardanapo de pano",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -3105,21 +3177,24 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 escova de dente",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta dental sem flúor",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 caixas de lápis de cor com 24 cores (casa e aula)",
@@ -3129,7 +3204,8 @@
        "marca": "ACRILEX",
        "preco": 21.9,
        "foto": "listas/fotos/1652.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -3140,7 +3216,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta",
@@ -3150,7 +3227,8 @@
        "marca": "NX13C/MAST",
        "preco": 3.9,
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 cadernos brochurão sem pauta (aula e casa)",
@@ -3160,7 +3238,8 @@
        "marca": "TILIBRA",
        "preco": 10.9,
        "foto": "listas/fotos/417.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 lápis nº 2 preto",
@@ -3170,7 +3249,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 borrachas brancas",
@@ -3180,7 +3260,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 aventalzinho",
@@ -3190,7 +3271,8 @@
        "marca": "DAC",
        "preco": 17.9,
        "foto": "listas/fotos/10726.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de folha fotográfica com 10 folhas",
@@ -3201,7 +3283,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -3212,7 +3295,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (boliche, argolas, potes, pequeno construtor, encaixe – peças grandes)",
@@ -3222,7 +3306,8 @@
        "marca": "GGB PLAST",
        "preco": 11.9,
        "foto": "listas/fotos/6043.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
@@ -3233,7 +3318,8 @@
        "preco": 21.9,
        "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
        "foto": "listas/fotos/6044.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (bambolê, bola, peteca, corda, elástico...)",
@@ -3244,7 +3330,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 palitos de picolé coloridos",
@@ -3254,7 +3341,8 @@
        "marca": "ASSETE",
        "preco": 8.9,
        "foto": "listas/fotos/1999.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 caixas de massa de modelar com 12 unidades",
@@ -3264,7 +3352,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/1877.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cola glitter",
@@ -3275,7 +3364,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cola colorida",
@@ -3286,7 +3376,8 @@
        "preco": 9.9,
        "obs": "Caixa com 4 cores.",
        "foto": "listas/fotos/3321.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -3296,7 +3387,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pote de guache de 250 ml",
@@ -3307,7 +3399,8 @@
        "preco": 10.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/5764.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -3318,7 +3411,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita crepe",
@@ -3328,7 +3422,8 @@
        "marca": "ADELBRAS",
        "preco": 6.9,
        "foto": "listas/fotos/1292.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 folhas de papel grosso tamanho ofício",
@@ -3338,7 +3433,8 @@
        "preco": 15.9,
        "obs": "Papel 60 kg A4, pacote com 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de colorsete A4",
@@ -3349,7 +3445,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
@@ -3359,7 +3456,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola quente finos",
@@ -3369,7 +3467,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tubo de cola Cascolar",
@@ -3380,7 +3479,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1000 folhas de papel A4 branco",
@@ -3391,7 +3491,8 @@
        "preco": 26.9,
        "obs": "2 pacotes de 500 folhas.",
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 folhas de EVA com glitter (cores variadas)",
@@ -3402,7 +3503,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno sem pauta para Arte (60 folhas)",
@@ -3412,7 +3514,8 @@
        "marca": "CREDEAL",
        "preco": 6.9,
        "foto": "listas/fotos/10911.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel 60 kg A4 (120 g)",
@@ -3422,7 +3525,8 @@
        "preco": 15.9,
        "obs": "2 pacotes de 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva",
@@ -3431,7 +3535,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 metro de TNT",
@@ -3441,7 +3546,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido amarelo",
@@ -3451,7 +3557,8 @@
        "marca": "CHAMEQUINH",
        "preco": 10.9,
        "foto": "listas/fotos/2007.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 papel crepom",
@@ -3461,7 +3568,8 @@
        "preco": 1.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2069.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cartolina",
@@ -3472,7 +3580,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2033.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 metro de papel craft",
@@ -3482,7 +3591,8 @@
        "marca": "MG PAPEL",
        "preco": 2.0,
        "foto": "listas/fotos/2112.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
@@ -3492,7 +3602,8 @@
        "marca": "BICHO ESPE",
        "preco": 1.5,
        "foto": "listas/fotos/8852.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -3529,14 +3640,16 @@
        "marca": "PLASUTIL",
        "preco": 8.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 guardanapo de pano",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -3546,21 +3659,24 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 escova de dente",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta dental sem flúor",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 caixas de lápis de cor com 24 cores (casa e aula)",
@@ -3570,7 +3686,8 @@
        "marca": "ACRILEX",
        "preco": 21.9,
        "foto": "listas/fotos/1652.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -3581,7 +3698,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
@@ -3592,7 +3710,8 @@
        "preco": 3.9,
        "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 lápis nº 2 preto",
@@ -3602,7 +3721,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 borrachas brancas grandes",
@@ -3612,7 +3732,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 cadernos brochurão sem pauta (aula e casa)",
@@ -3623,7 +3744,8 @@
        "preco": 13.9,
        "obs": "Caderno capa dura sem pauta 96 folhas Tilibra. Também temos o de 80 folhas (cód. 417, R$ 10,90): consulte a vendedora.",
        "foto": "listas/fotos/414.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de folha fotográfica com 10 folhas",
@@ -3634,7 +3756,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 metro de papel craft",
@@ -3644,7 +3767,8 @@
        "marca": "MG PAPEL",
        "preco": 2.0,
        "foto": "listas/fotos/2112.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cola glitter",
@@ -3655,7 +3779,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cola colorida",
@@ -3666,7 +3791,8 @@
        "preco": 9.9,
        "obs": "Caixa com 4 cores.",
        "foto": "listas/fotos/3321.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel 60 kg A4 (120 g)",
@@ -3676,7 +3802,8 @@
        "preco": 15.9,
        "obs": "2 pacotes de 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (boliche, argolas, potes, pequeno construtor, encaixe – peças grandes)",
@@ -3686,7 +3813,8 @@
        "marca": "GGB PLAST",
        "preco": 11.9,
        "foto": "listas/fotos/6043.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 instrumento musical (pandeiro, chocalho, tambor etc.)",
@@ -3697,7 +3825,8 @@
        "preco": 21.9,
        "obs": "Temos também pandeiro, bumbo e violão: consulte o preço com a vendedora.",
        "foto": "listas/fotos/6044.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (bambolê, bola, peteca, corda, elástico...)",
@@ -3708,7 +3837,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -3718,7 +3848,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola de 90 g",
@@ -3729,7 +3860,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 gibi",
@@ -3739,7 +3871,8 @@
        "marca": "CULTURAMA",
        "preco": 6.9,
        "foto": "listas/fotos/13546.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 palitos de picolé coloridos",
@@ -3749,7 +3882,8 @@
        "marca": "ASSETE",
        "preco": 8.9,
        "foto": "listas/fotos/1999.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pote de guache de 250 ml",
@@ -3760,7 +3894,8 @@
        "preco": 10.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/5764.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -3770,7 +3905,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -3781,7 +3917,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 caixas de massa de modelar com 12 unidades",
@@ -3791,7 +3928,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/1877.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 metros de TNT",
@@ -3801,7 +3939,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de papel 60 kg",
@@ -3811,7 +3950,8 @@
        "preco": 2.5,
        "obs": "Folha 66 x 96 cm.",
        "foto": "listas/fotos/6114.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa para quadro branco recarregável",
@@ -3821,7 +3961,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1000 folhas de papel A4 branco",
@@ -3832,7 +3973,8 @@
        "preco": 26.9,
        "obs": "2 pacotes de 500 folhas.",
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de fita crepe",
@@ -3842,7 +3984,8 @@
        "marca": "ADELBRAS",
        "preco": 2.0,
        "foto": "listas/fotos/1291.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de colorsete A4",
@@ -3853,7 +3996,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 folhas de papel ofício colorido azul",
@@ -3864,7 +4008,8 @@
        "preco": 10.9,
        "obs": "Pacote com 100 folhas.",
        "foto": "listas/fotos/3975.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 folhas de EVA com glitter (cores variadas)",
@@ -3875,7 +4020,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -3886,7 +4032,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva transparente",
@@ -3895,7 +4042,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola quente finos",
@@ -3905,7 +4053,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de folha fotográfica com 15 folhas",
@@ -3916,7 +4065,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 livro literário em CAIXA ALTA, de acordo com a faixa etária",
@@ -3926,7 +4076,8 @@
        "marca": "BICHO ESPE",
        "preco": 1.5,
        "foto": "listas/fotos/8852.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -3964,7 +4115,8 @@
        "preco": 9.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/10798.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -3974,7 +4126,8 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "2 caixas de lápis de cor (casa e aula)",
@@ -3984,7 +4137,8 @@
        "marca": "TILIBRA",
        "preco": 8.9,
        "foto": "listas/fotos/13608.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -3995,7 +4149,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
@@ -4006,7 +4161,8 @@
        "preco": 3.9,
        "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 lápis nº 2 preto",
@@ -4016,7 +4172,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 borrachas brancas grandes",
@@ -4026,7 +4183,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 apontador com depósito",
@@ -4036,7 +4194,8 @@
        "marca": "LEO E LEO",
        "preco": 1.0,
        "foto": "listas/fotos/7591.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Língua Portuguesa – 96 folhas",
@@ -4047,7 +4206,8 @@
        "preco": 15.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
        "foto": "listas/fotos/366.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Matemática – 96 folhas",
@@ -4058,7 +4218,8 @@
        "preco": 15.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
        "foto": "listas/fotos/366.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Ciências – 60 folhas",
@@ -4069,7 +4230,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – História/Geografia – 60 folhas",
@@ -4080,7 +4242,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Inglês – 60 folhas",
@@ -4091,7 +4254,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Literatura/Redação – 60 folhas",
@@ -4102,7 +4266,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Para Casa – 96 folhas",
@@ -4113,7 +4278,8 @@
        "preco": 15.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
        "foto": "listas/fotos/366.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno pequeno ½ para recados",
@@ -4123,7 +4289,8 @@
        "marca": "CREDEAL",
        "preco": 5.9,
        "foto": "listas/fotos/12449.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola Cascolar 90 g",
@@ -4134,7 +4301,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 régua de 30 cm",
@@ -4144,7 +4312,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/2641.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 minidicionário (nova ortografia)",
@@ -4154,7 +4323,8 @@
        "marca": "SILVEIRA B",
        "preco": 21.9,
        "foto": "listas/fotos/1001.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 gizão – caixa de lápis de cera Courton",
@@ -4165,7 +4335,8 @@
        "preco": 9.9,
        "obs": "Gizão Acrilex com 12 cores.",
        "foto": "listas/fotos/1472.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de massinha",
@@ -4175,7 +4346,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/1877.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 tubos de cola quente finos",
@@ -4185,7 +4357,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta com 100 plásticos",
@@ -4194,7 +4367,8 @@
        "produto": "PASTA CATALOGO PRETA C/100",
        "preco": 37.9,
        "foto": "listas/fotos/6196.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -4204,7 +4378,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 envelopes brancos para carta pessoal",
@@ -4214,7 +4389,8 @@
        "marca": "SCRITY",
        "preco": 0.2,
        "foto": "listas/fotos/1070.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de material dourado (pequeno)",
@@ -4224,7 +4400,8 @@
        "marca": "SMMART",
        "preco": 16.9,
        "foto": "listas/fotos/1880.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 ábaco",
@@ -4234,7 +4411,8 @@
        "marca": "PAIS E F",
        "preco": 9.9,
        "foto": "listas/fotos/3586.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de papel fotográfico A4",
@@ -4245,7 +4423,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
@@ -4255,7 +4434,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/3018.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 gibi",
@@ -4265,7 +4445,8 @@
        "marca": "CULTURAMA",
        "preco": 6.9,
        "foto": "listas/fotos/13546.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de colorsete A4",
@@ -4276,7 +4457,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -4287,7 +4469,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 cola glitter",
@@ -4298,7 +4481,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -4309,7 +4493,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (ábaco, quebra-cabeça, jogo de palavras, jogo do contrário)",
@@ -4320,7 +4505,8 @@
        "preco": 17.9,
        "obs": "Brincando com as letras, 62 peças. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/6107.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 palitos de picolé coloridos",
@@ -4330,7 +4516,8 @@
        "marca": "ASSETE",
        "preco": 8.9,
        "foto": "listas/fotos/1999.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel de giz líquido (qualquer cor)",
@@ -4338,9 +4525,10 @@
        "cod": 8823,
        "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
        "marca": "BRW",
-       "preco": 14.9,
+       "preco": 12.9,
        "foto": "listas/fotos/8823.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
@@ -4351,7 +4539,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
@@ -4361,7 +4550,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva transparente",
@@ -4370,7 +4560,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido verde",
@@ -4380,7 +4571,8 @@
        "marca": "CHAMEQUINH",
        "preco": 10.9,
        "foto": "listas/fotos/6313.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -4390,7 +4582,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 folhas de EVA",
@@ -4400,7 +4593,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1230.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 folhas de EVA com glitter",
@@ -4411,7 +4605,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel 60 kg A4 (120 g)",
@@ -4421,7 +4616,8 @@
        "preco": 15.9,
        "obs": "2 pacotes de 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
@@ -4431,7 +4627,8 @@
        "marca": "PAPEX",
        "preco": 26.9,
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 metros de TNT (qualquer cor)",
@@ -4441,7 +4638,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -4480,7 +4678,8 @@
        "preco": 9.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/10798.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -4490,7 +4689,8 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 caixa de lápis de cor",
@@ -4500,7 +4700,8 @@
        "marca": "TILIBRA",
        "preco": 8.9,
        "foto": "listas/fotos/13608.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -4511,7 +4712,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
@@ -4522,7 +4724,8 @@
        "preco": 3.9,
        "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 lápis nº 2 preto",
@@ -4532,7 +4735,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 borrachas brancas grandes",
@@ -4542,7 +4746,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 apontador com depósito",
@@ -4552,7 +4757,8 @@
        "marca": "LEO E LEO",
        "preco": 1.0,
        "foto": "listas/fotos/7591.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Língua Portuguesa – 96 folhas",
@@ -4563,7 +4769,8 @@
        "preco": 15.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
        "foto": "listas/fotos/366.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Matemática – 96 folhas",
@@ -4574,7 +4781,8 @@
        "preco": 15.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
        "foto": "listas/fotos/366.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Ciências – 60 folhas",
@@ -4585,7 +4793,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – História/Geografia – 60 folhas",
@@ -4596,7 +4805,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Inglês – 60 folhas",
@@ -4607,7 +4817,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Literatura/Redação – 60 folhas",
@@ -4618,7 +4829,8 @@
        "preco": 10.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!!",
        "foto": "listas/fotos/369.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno Alibombom vermelho – Para Casa – 96 folhas",
@@ -4629,7 +4841,8 @@
        "preco": 15.9,
        "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas.",
        "foto": "listas/fotos/366.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno pequeno ½ para recados",
@@ -4639,7 +4852,8 @@
        "marca": "CREDEAL",
        "preco": 5.9,
        "foto": "listas/fotos/12449.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola Cascolar 90 g",
@@ -4650,7 +4864,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 régua de 30 cm",
@@ -4660,7 +4875,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/2641.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 minidicionário (nova ortografia)",
@@ -4670,7 +4886,8 @@
        "marca": "SILVEIRA B",
        "preco": 21.9,
        "foto": "listas/fotos/1001.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 gizão – caixa de lápis de cera",
@@ -4681,7 +4898,8 @@
        "preco": 9.9,
        "obs": "Gizão Acrilex com 12 cores.",
        "foto": "listas/fotos/1472.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -4692,7 +4910,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -4703,7 +4922,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de massinha",
@@ -4713,7 +4933,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/1877.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta com 100 plásticos",
@@ -4722,7 +4943,8 @@
        "produto": "PASTA CATALOGO PRETA C/100",
        "preco": 37.9,
        "foto": "listas/fotos/6196.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola quente finos",
@@ -4732,7 +4954,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 6 cores",
@@ -4742,7 +4965,8 @@
        "marca": "COMPACTOR",
        "preco": 15.9,
        "foto": "listas/fotos/1582.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 envelopes brancos para carta pessoal",
@@ -4752,7 +4976,8 @@
        "marca": "SCRITY",
        "preco": 0.2,
        "foto": "listas/fotos/1070.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
@@ -4762,7 +4987,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/3018.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -4772,7 +4998,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 gibi",
@@ -4782,7 +5009,8 @@
        "marca": "CULTURAMA",
        "preco": 6.9,
        "foto": "listas/fotos/13546.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva",
@@ -4791,7 +5019,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel 60 kg A4 (180 g)",
@@ -4801,7 +5030,8 @@
        "preco": 15.9,
        "obs": "2 pacotes de 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "10 folhas de papel fotográfico A4 (a lista pede 5 folhas em dois lugares)",
@@ -4812,7 +5042,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 palitos de picolé coloridos",
@@ -4822,7 +5053,8 @@
        "marca": "ASSETE",
        "preco": 8.9,
        "foto": "listas/fotos/1999.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de material dourado (pequeno)",
@@ -4832,7 +5064,8 @@
        "marca": "SMMART",
        "preco": 16.9,
        "foto": "listas/fotos/1880.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 ábaco",
@@ -4842,7 +5075,8 @@
        "marca": "PAIS E F",
        "preco": 9.9,
        "foto": "listas/fotos/3586.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
@@ -4853,7 +5087,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva transparente",
@@ -4862,7 +5097,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
@@ -4872,7 +5108,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido amarelo",
@@ -4882,7 +5119,8 @@
        "marca": "CHAMEQUINH",
        "preco": 10.9,
        "foto": "listas/fotos/2007.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura (segundo)",
@@ -4892,7 +5130,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA",
@@ -4902,7 +5141,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1230.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA com glitter",
@@ -4913,7 +5153,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
@@ -4923,7 +5164,8 @@
        "marca": "PAPEX",
        "preco": 26.9,
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 metros de TNT (qualquer cor)",
@@ -4933,7 +5175,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de colorsete A4",
@@ -4944,7 +5187,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel de giz líquido (qualquer cor)",
@@ -4952,9 +5196,10 @@
        "cod": 8823,
        "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
        "marca": "BRW",
-       "preco": 14.9,
+       "preco": 12.9,
        "foto": "listas/fotos/8823.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -4993,7 +5238,8 @@
        "preco": 9.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/10798.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -5003,7 +5249,8 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 caixa de lápis de cor",
@@ -5013,7 +5260,8 @@
        "marca": "TILIBRA",
        "preco": 8.9,
        "foto": "listas/fotos/13608.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -5024,7 +5272,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
@@ -5035,7 +5284,8 @@
        "preco": 3.9,
        "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 lápis nº 2 preto",
@@ -5045,7 +5295,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 borrachas brancas grandes",
@@ -5055,7 +5306,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 apontador com depósito",
@@ -5065,7 +5317,8 @@
        "marca": "LEO E LEO",
        "preco": 1.0,
        "foto": "listas/fotos/7591.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
@@ -5076,7 +5329,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
@@ -5087,7 +5341,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Ciências – 60 folhas",
@@ -5098,7 +5353,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
@@ -5109,7 +5365,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – História – 60 folhas",
@@ -5120,7 +5377,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Geografia – 60 folhas",
@@ -5131,7 +5389,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
@@ -5142,7 +5401,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno de desenho sem pauta – Arte",
@@ -5152,7 +5412,8 @@
        "marca": "CREDEAL",
        "preco": 6.9,
        "foto": "listas/fotos/10911.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno pequeno ½ para recados",
@@ -5162,7 +5423,8 @@
        "marca": "CREDEAL",
        "preco": 5.9,
        "foto": "listas/fotos/12449.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola Cascolar 90 g",
@@ -5173,7 +5435,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 régua de 30 cm",
@@ -5183,7 +5446,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/2641.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 minidicionário (nova ortografia)",
@@ -5193,7 +5457,8 @@
        "marca": "SILVEIRA B",
        "preco": 21.9,
        "foto": "listas/fotos/1001.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -5204,7 +5469,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 colas glitter",
@@ -5215,7 +5481,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta com 100 plásticos",
@@ -5224,7 +5491,8 @@
        "produto": "PASTA CATALOGO PRETA C/100",
        "preco": 37.9,
        "foto": "listas/fotos/6196.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -5234,7 +5502,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 envelopes brancos para carta pessoal",
@@ -5244,7 +5513,8 @@
        "marca": "SCRITY",
        "preco": 0.2,
        "foto": "listas/fotos/1070.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
@@ -5254,7 +5524,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
@@ -5264,7 +5535,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/3018.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 gibis",
@@ -5274,14 +5546,16 @@
        "marca": "CULTURAMA",
        "preco": 6.9,
        "foto": "listas/fotos/13546.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 revista usada",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (can-can, origami, xadrez, dama...)",
@@ -5292,7 +5566,8 @@
        "preco": 29.9,
        "obs": "Jogo de xadrez. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/3585.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
@@ -5303,7 +5578,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva transparente",
@@ -5312,7 +5588,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de papel fotográfico A4",
@@ -5323,7 +5600,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -5334,7 +5612,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -5344,7 +5623,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel de giz líquido (qualquer cor)",
@@ -5352,9 +5632,10 @@
        "cod": 8823,
        "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
        "marca": "BRW",
-       "preco": 14.9,
+       "preco": 12.9,
        "foto": "listas/fotos/8823.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA",
@@ -5364,7 +5645,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1230.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA com glitter",
@@ -5375,7 +5657,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "3 tubos de cola quente finos",
@@ -5385,7 +5668,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de colorsete A4 estampado",
@@ -5396,7 +5680,8 @@
        "preco": 9.9,
        "obs": "Papel scrapbook A4 com 10 folhas.",
        "foto": "listas/fotos/2133.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de material dourado (pequeno)",
@@ -5406,7 +5691,8 @@
        "marca": "SMMART",
        "preco": 16.9,
        "foto": "listas/fotos/1880.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 ábaco",
@@ -5416,7 +5702,8 @@
        "marca": "PAIS E F",
        "preco": 9.9,
        "foto": "listas/fotos/3586.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de folha 60 kg (120 g)",
@@ -5426,7 +5713,8 @@
        "preco": 15.9,
        "obs": "Pacote com 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva",
@@ -5435,7 +5723,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido rosa",
@@ -5444,7 +5733,8 @@
        "produto": "PAPEL A4 COLOR. C/100-ROSA",
        "preco": 10.9,
        "foto": "listas/fotos/6314.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
@@ -5454,7 +5744,8 @@
        "marca": "PAPEX",
        "preco": 26.9,
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 metros de TNT (qualquer cor)",
@@ -5464,7 +5755,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de colorsete A4",
@@ -5475,7 +5767,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -5515,7 +5808,8 @@
        "preco": 9.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/10798.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -5525,7 +5819,8 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 caixa de lápis de cor",
@@ -5535,7 +5830,8 @@
        "marca": "TILIBRA",
        "preco": 8.9,
        "foto": "listas/fotos/13608.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -5546,7 +5842,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
@@ -5557,7 +5854,8 @@
        "preco": 3.9,
        "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 marca-texto",
@@ -5567,7 +5865,8 @@
        "marca": "MASTERPRIN",
        "preco": 2.0,
        "foto": "listas/fotos/6050.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 lápis nº 2 preto",
@@ -5577,7 +5876,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 borrachas brancas grandes",
@@ -5587,7 +5887,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 apontador com depósito",
@@ -5597,7 +5898,8 @@
        "marca": "LEO E LEO",
        "preco": 1.0,
        "foto": "listas/fotos/7591.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
@@ -5608,7 +5910,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
@@ -5619,7 +5922,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Ciências – 60 folhas",
@@ -5630,7 +5934,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
@@ -5641,7 +5946,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – História – 60 folhas",
@@ -5652,7 +5958,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Geografia – 60 folhas",
@@ -5663,7 +5970,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
@@ -5674,7 +5982,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno de desenho sem pauta – Arte",
@@ -5684,7 +5993,8 @@
        "marca": "CREDEAL",
        "preco": 6.9,
        "foto": "listas/fotos/10911.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno pequeno ½ para recados",
@@ -5694,7 +6004,8 @@
        "marca": "CREDEAL",
        "preco": 5.9,
        "foto": "listas/fotos/12449.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola Cascolar 90 g",
@@ -5705,7 +6016,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 régua de 30 cm",
@@ -5715,7 +6027,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/2641.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 minidicionário (nova ortografia)",
@@ -5725,7 +6038,8 @@
        "marca": "SILVEIRA B",
        "preco": 21.9,
        "foto": "listas/fotos/1001.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -5736,7 +6050,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 colas glitter",
@@ -5747,7 +6062,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta com 100 plásticos",
@@ -5756,7 +6072,8 @@
        "produto": "PASTA CATALOGO PRETA C/100",
        "preco": 37.9,
        "foto": "listas/fotos/6196.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -5766,7 +6083,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 envelopes brancos para carta pessoal",
@@ -5776,7 +6094,8 @@
        "marca": "SCRITY",
        "preco": 0.2,
        "foto": "listas/fotos/1070.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
@@ -5786,7 +6105,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
@@ -5796,7 +6116,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/3018.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 gibis",
@@ -5806,14 +6127,16 @@
        "marca": "CULTURAMA",
        "preco": 6.9,
        "foto": "listas/fotos/13546.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 revista usada",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (can-can, origami, xadrez, dama...)",
@@ -5824,7 +6147,8 @@
        "preco": 29.9,
        "obs": "Jogo de xadrez. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/3585.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
@@ -5835,7 +6159,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva transparente",
@@ -5844,7 +6169,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de papel fotográfico A4",
@@ -5855,7 +6181,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -5866,7 +6193,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -5876,7 +6204,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel de giz líquido (qualquer cor)",
@@ -5884,9 +6213,10 @@
        "cod": 8823,
        "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
        "marca": "BRW",
-       "preco": 14.9,
+       "preco": 12.9,
        "foto": "listas/fotos/8823.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA",
@@ -5896,7 +6226,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1230.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA com glitter",
@@ -5907,7 +6238,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolinho de lastex",
@@ -5918,7 +6250,8 @@
        "preco": 4.0,
        "obs": "Rolo com 10 metros.",
        "foto": "listas/fotos/1716.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de papel 60 kg",
@@ -5928,7 +6261,8 @@
        "preco": 2.5,
        "obs": "Folha 66 x 96 cm.",
        "foto": "listas/fotos/6114.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido azul",
@@ -5938,7 +6272,8 @@
        "marca": "CHAMEQUINH",
        "preco": 10.9,
        "foto": "listas/fotos/3975.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caixa de material dourado (pequeno)",
@@ -5948,7 +6283,8 @@
        "marca": "SMMART",
        "preco": 16.9,
        "foto": "listas/fotos/1880.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de papel A4 (1000 folhas brancas) Report/Chamex",
@@ -5959,7 +6295,8 @@
        "preco": 26.9,
        "obs": "Papel A4 Papex, pacote com 500 folhas.",
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 metro de TNT (qualquer cor)",
@@ -5969,7 +6306,8 @@
        "preco": 1.8,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4206.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de colorsete A4",
@@ -5980,7 +6318,8 @@
        "preco": 15.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/2054.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "50 folhas de papel grosso tamanho A4",
@@ -5990,7 +6329,8 @@
        "preco": 15.9,
        "obs": "Papel 60 kg A4, pacote com 50 folhas.",
        "foto": "listas/fotos/5973.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola quente finos",
@@ -6000,7 +6340,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita crepe",
@@ -6010,7 +6351,8 @@
        "marca": "ADELBRAS",
        "preco": 2.0,
        "foto": "listas/fotos/1291.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pacote de colorsete A4 estampado",
@@ -6021,7 +6363,8 @@
        "preco": 9.9,
        "obs": "Papel scrapbook A4 com 10 folhas.",
        "foto": "listas/fotos/2133.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -6061,7 +6404,8 @@
        "preco": 9.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/10798.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 toalha de mão",
@@ -6071,7 +6415,8 @@
        "marca": "CLAMATEX",
        "preco": 8.9,
        "foto": "listas/fotos/8382.jpg",
-       "grupo": "Uma lancheira com"
+       "grupo": "Uma lancheira com",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
       {
        "descricao": "1 caixa de lápis de cor",
@@ -6081,7 +6426,8 @@
        "marca": "TILIBRA",
        "preco": 8.9,
        "foto": "listas/fotos/13608.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 bolsinha de lápis com zíper",
@@ -6092,7 +6438,8 @@
        "preco": 8.9,
        "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/8223.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tesoura sem ponta (gravada com o nome do aluno)",
@@ -6103,7 +6450,8 @@
        "preco": 3.9,
        "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
        "foto": "listas/fotos/6634.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 marca-texto",
@@ -6113,7 +6461,8 @@
        "marca": "MASTERPRIN",
        "preco": 2.0,
        "foto": "listas/fotos/6050.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 lápis nº 2 preto",
@@ -6123,7 +6472,8 @@
        "marca": "ACRILEX",
        "preco": 0.8,
        "foto": "listas/fotos/7698.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 borrachas brancas grandes",
@@ -6133,7 +6483,8 @@
        "marca": "MERCUR",
        "preco": 1.8,
        "foto": "listas/fotos/276.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 apontador com depósito",
@@ -6143,7 +6494,8 @@
        "marca": "LEO E LEO",
        "preco": 1.0,
        "foto": "listas/fotos/7591.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Língua Portuguesa – 96 folhas",
@@ -6154,7 +6506,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Matemática – 96 folhas",
@@ -6165,7 +6518,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão grande – Ciências – 96 folhas",
@@ -6176,7 +6530,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Literatura/Redação – 60 folhas",
@@ -6187,7 +6542,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – História – 96 folhas",
@@ -6198,7 +6554,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Geografia – 96 folhas",
@@ -6209,7 +6566,8 @@
        "preco": 11.9,
        "obs": "Capa dura Credeal 96 folhas.",
        "foto": "listas/fotos/8885.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno brochurão fino – Inglês – 60 folhas",
@@ -6220,7 +6578,8 @@
        "preco": 9.9,
        "obs": "Capa dura Credeal 80 folhas.",
        "foto": "listas/fotos/10906.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno de desenho sem pauta – Arte",
@@ -6230,7 +6589,8 @@
        "marca": "CREDEAL",
        "preco": 6.9,
        "foto": "listas/fotos/10911.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 caderno pequeno ½ para recados",
@@ -6240,7 +6600,8 @@
        "marca": "CREDEAL",
        "preco": 5.9,
        "foto": "listas/fotos/12449.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 tubos de cola Cascolar 90 g",
@@ -6251,7 +6612,8 @@
        "preco": 2.9,
        "obs": "Cola branca líquida 90 g.",
        "foto": "listas/fotos/822.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 régua de 30 cm",
@@ -6261,7 +6623,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/2641.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 minidicionário (nova ortografia)",
@@ -6271,7 +6634,8 @@
        "marca": "SILVEIRA B",
        "preco": 21.9,
        "foto": "listas/fotos/1001.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 transferidor 180º",
@@ -6281,7 +6645,8 @@
        "marca": "MAXCRIL",
        "preco": 2.9,
        "foto": "listas/fotos/3087.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 compasso",
@@ -6291,7 +6656,8 @@
        "marca": "LEO E LEO",
        "preco": 10.9,
        "foto": "listas/fotos/4725.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 esquadro de 45º",
@@ -6301,7 +6667,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/1136.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 esquadro de 60º",
@@ -6311,7 +6678,8 @@
        "marca": "MAXCRIL",
        "preco": 3.9,
        "foto": "listas/fotos/1137.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de durex colorido",
@@ -6322,7 +6690,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1022.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 colas glitter",
@@ -6333,7 +6702,8 @@
        "preco": 4.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/834.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pasta com 100 plásticos",
@@ -6342,7 +6712,8 @@
        "produto": "PASTA CATALOGO PRETA C/100",
        "preco": 37.9,
        "foto": "listas/fotos/6196.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de pincel atômico com no mínimo 12 cores",
@@ -6352,7 +6723,8 @@
        "marca": "COMPACTOR",
        "preco": 29.9,
        "foto": "listas/fotos/6467.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "4 envelopes brancos para carta pessoal",
@@ -6362,7 +6734,8 @@
        "marca": "SCRITY",
        "preco": 0.2,
        "foto": "listas/fotos/1070.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel com ponta grossa recarregável para quadro branco",
@@ -6372,7 +6745,8 @@
        "marca": "MASTERPRIN",
        "preco": 4.5,
        "foto": "listas/fotos/7731.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 conjunto de tinta guache 15 ml com 6 cores",
@@ -6382,7 +6756,8 @@
        "marca": "ACRILEX",
        "preco": 7.9,
        "foto": "listas/fotos/3018.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 gibis",
@@ -6392,14 +6767,16 @@
        "marca": "CULTURAMA",
        "preco": 6.9,
        "foto": "listas/fotos/13546.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 revista usada",
        "qtd": 1,
        "status": "nao_temos",
        "obs": "Não faz parte do nosso mix.",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 jogo pedagógico (can-can, origami, xadrez, dama...)",
@@ -6410,7 +6787,8 @@
        "preco": 29.9,
        "obs": "Jogo de xadrez. Em reposição: vai chegar com preço melhor.",
        "foto": "listas/fotos/3585.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 material (corda, peteca, bambolê, bola ou 5 m de elástico)",
@@ -6421,7 +6799,8 @@
        "preco": 17.9,
        "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 fita adesiva transparente",
@@ -6430,7 +6809,8 @@
        "produto": "DUREX 12X10MT-TRANSPARENTE",
        "preco": 1.0,
        "foto": "listas/fotos/1028.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de papel fotográfico A4",
@@ -6441,7 +6821,8 @@
        "preco": 12.9,
        "obs": "Pacote com 20 folhas.",
        "foto": "listas/fotos/2099.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "5 folhas de plastificação A4",
@@ -6452,7 +6833,8 @@
        "preco": 10.9,
        "obs": "Pacote com 10 folhas.",
        "foto": "listas/fotos/13982.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel para pintura",
@@ -6462,7 +6844,8 @@
        "marca": "TIGRE",
        "preco": 4.5,
        "foto": "listas/fotos/6378.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 pincel de giz líquido (qualquer cor)",
@@ -6470,9 +6853,10 @@
        "cod": 8823,
        "produto": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
        "marca": "BRW",
-       "preco": 14.9,
+       "preco": 12.9,
        "foto": "listas/fotos/8823.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA",
@@ -6482,7 +6866,8 @@
        "preco": 1.5,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/1230.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 folha de EVA com glitter",
@@ -6493,7 +6878,8 @@
        "preco": 3.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
        "foto": "listas/fotos/4829.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "100 folhas de papel ofício colorido verde",
@@ -6503,7 +6889,8 @@
        "marca": "CHAMEQUINH",
        "preco": 10.9,
        "foto": "listas/fotos/6313.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 tubo de cola quente fino",
@@ -6513,7 +6900,8 @@
        "marca": "CLASSE",
        "preco": 1.0,
        "foto": "listas/fotos/2616.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "2 pacotes de papel A4 (1000 folhas brancas)",
@@ -6523,7 +6911,8 @@
        "marca": "PAPEX",
        "preco": 26.9,
        "foto": "listas/fotos/2014.jpg",
-       "grupo": "Uma mochila de uso diário contendo"
+       "grupo": "Uma mochila de uso diário contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
       {
        "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
@@ -6761,5 +7150,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 15:14"
+ "atualizado": "10/11/2026 15:31"
 }
