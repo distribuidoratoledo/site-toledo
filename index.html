@@ -814,6 +814,9 @@
     /* Regras do Site por cima da loja, so' no modo de teste (09/11/2026) */
     nav a.nav-regras { color: var(--vermelho); font-weight: 700; }
     nav a[hidden] { display: none; }
+    /* o menu nao pode sair da tela (10/11/2026: com zoom do navegador o "Regras" ficava escondido a direita) */
+    header > nav { display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center; row-gap: 0.35rem; min-width: 0; }
+    header > nav a { margin-left: 1.2rem; white-space: nowrap; }
     .em-breve { display: inline-block; background: #fff4d6; color: #8a6100; font: 700 .68rem 'Montserrat', sans-serif; letter-spacing: .04em;
       text-transform: uppercase; padding: .12rem .45rem; border-radius: 20px; vertical-align: middle; margin-left: .25rem; }
     #regras-fundo { position: fixed; inset: 0; z-index: 3000; background: rgba(16, 24, 40, .55); display: flex;
