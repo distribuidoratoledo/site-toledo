@@ -736,14 +736,14 @@
           (it.grupo_aviso ? '<span class="grupo-aviso">' + esc(it.grupo_aviso) + '</span>' : '') + '</td></tr>';
         gAnt = it.grupo || gAnt;
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
+        if (p == null) { if (it.status !== 'nao_temos' && it.status !== 'consultar') faltaPreco = true; }
         else if (it.parte) partes[it.parte] = (partes[it.parte] || 0) + q * p;
         else if (it.opcional) opcionais += q * p; else total += q * p;
         n++;
         var tag = it.parte ? '<span class="tag parte">' + esc(it.parte) + '</span>' : it.opcional ? '<span class="tag op">Opcional</span>' : it.status === 'em_breve' ? '<span class="tag breve">Em breve</span>'
-                : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : '';
+                : it.status === 'nao_temos' ? '<span class="tag nao">Não disponível</span>' : it.status === 'consultar' ? '<span class="tag op">Consulte a vendedora</span>' : '';
         var foto = it.foto ? '<img src="' + esc(it.foto) + '" alt="">' : (it.status === 'nao_temos' ? '🛏️' : '📦');
-        var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
+        var semP = it.status === 'nao_temos' ? 'Não disponível' : it.status === 'consultar' ? 'Consulte' : 'Em breve';
         var temSaldo = it.saldo != null, baixo = temSaldo && saldoBaixo(it);
         html += '<tr' + (baixo ? ' class="saldo-baixo"' : '') + '><td class="c-n">' + n + '</td>' +
           '<td class="c-foto"><div class="foto">' + foto + '</div></td>' +
@@ -881,7 +881,7 @@
       var total = 0, faltaPreco = false, partesPdf = {};
       itens.forEach(function (it) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
+        if (p == null) { if (it.status !== 'nao_temos' && it.status !== 'consultar') faltaPreco = true; }
         else if (it.parte) partesPdf[it.parte] = (partesPdf[it.parte] || 0) + q * p;
         else if (!it.opcional) total += q * p;
       });
@@ -943,7 +943,7 @@
       function pos(d) { var r = d.row && d.row.raw; return r && r.__i != null ? r.__i : -1; }
       function linhaPdf(it, i) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
-        var tag = it.parte ? ' (' + it.parte.charAt(0).toLowerCase() + it.parte.slice(1) + ')' : it.opcional ? ' (opcional)' : it.status === 'em_breve' ? ' (em breve)' : it.status === 'nao_temos' ? ' (não disponível)' : '';
+        var tag = it.parte ? ' (' + it.parte.charAt(0).toLowerCase() + it.parte.slice(1) + ')' : it.opcional ? ' (opcional)' : it.status === 'em_breve' ? ' (em breve)' : it.status === 'nao_temos' ? ' (não disponível)' : it.status === 'consultar' ? ' (consulte a vendedora)' : '';
         doc.setFontSize(FS);
         doc.setFont('helvetica', 'bold'); var l1 = doc.splitTextToSize(String(it.descricao || '') + tag, W.item - 2 * PAD);
         doc.setFont('helvetica', 'normal'); var l2 = it.produto ? doc.splitTextToSize(titulo(it.produto), W.item - 2 * PAD) : [];
@@ -951,7 +951,7 @@
         var txt3 = [it.obs, txtSaldo].filter(Boolean).join('\n');
         doc.setFont('helvetica', 'italic'); var l3 = txt3 ? doc.splitTextToSize(txt3, W.item - 2 * PAD) : [];
         partes[i] = [l1, l2, l3];
-        var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
+        var semP = it.status === 'nao_temos' ? 'Não disponível' : it.status === 'consultar' ? 'Consulte' : 'Em breve';
         return [String(i + 1), '', it.cod ? String(it.cod) : '—', l1.concat(l2, l3).join('\n'), it.marca ? titulo(it.marca) : '—',
                 String(it.qtd == null ? '' : it.qtd), p == null ? semP : rs(p), p == null ? '—' : rs(q * p)];
       }
