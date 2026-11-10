@@ -41,7 +41,7 @@
      "marca": "BIC",
      "preco": 13.9,
      "img": "produtos/548.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 3794,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 831,
+     "saldo": 827,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 831
+       "saldo": 827
       },
       {
        "cod": 556,
@@ -164,7 +164,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC FINE PLUS-VERMELHA",
        "img": "produtos/557.jpg",
-       "saldo": 397
+       "saldo": 393
       }
      ]
     },
@@ -3651,7 +3651,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14559.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "controle": [
       "AZUL",
       "PRETO",
@@ -3660,7 +3660,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "PRETO": 12,
+      "PRETO": 11,
       "ROSA": 12,
       "ROXO": 12
      }
@@ -4628,7 +4628,7 @@
      "marca": "PANAMERICA",
      "preco": 4.5,
      "img": "produtos/319.jpg",
-     "saldo": 48
+     "saldo": 44
     },
     {
      "cod": 13535,
@@ -6051,14 +6051,6 @@
      "marca": "SD",
      "preco": 14.9,
      "img": "produtos/13213.jpg",
-     "saldo": 4
-    },
-    {
-     "cod": 9324,
-     "nome": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
-     "marca": "CREDEAL",
-     "preco": 9.9,
-     "img": "produtos/9324.jpg",
      "saldo": 4
     },
     {
@@ -8035,7 +8027,7 @@
      "marca": "DOTAD",
      "preco": 12.9,
      "img": "produtos/14284.jpg",
-     "saldo": 44
+     "saldo": 42
     },
     {
      "cod": 9567,
@@ -8743,7 +8735,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/1028.jpg",
-     "saldo": 2902
+     "saldo": 2900
     },
     {
      "cod": 1029,
@@ -8775,7 +8767,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 767
+     "saldo": 761
     },
     {
      "cod": 1021,
@@ -9001,7 +8993,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1508
+     "saldo": 1506
     },
     {
      "cod": 4389,
@@ -9858,7 +9850,7 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/10248.jpg",
-     "saldo": 109
+     "saldo": 107
     },
     {
      "cod": 1536,
@@ -16104,7 +16096,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 100
+       "saldo": 97
       },
       {
        "cod": 1239,
@@ -20815,14 +20807,14 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6643.jpg",
-     "saldo": 18,
+     "saldo": 17,
      "cores": [
       {
        "cod": 6643,
        "cor": "Preta",
        "nome": "ALMOFADA CARIMBO Nº3 MASTERPRINT-PRETA",
        "img": "produtos/6643.jpg",
-       "saldo": 18
+       "saldo": 17
       },
       {
        "cod": 6644,
@@ -20935,7 +20927,7 @@
     },
     {
      "cod": 14571,
-     "nome": "CARIMBO ESCOLAR TRIS-PEDAGOGICO CORES",
+     "nome": "CARIMBO ESCOLAR TRIS-PEDAGÓGICO VERDE-ÁGUA",
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
@@ -21157,7 +21149,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 329
+     "saldo": 326
     },
     {
      "cod": 944,
@@ -21587,7 +21579,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 380
+     "saldo": 356
     },
     {
      "cod": 4617,
@@ -22123,7 +22115,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 100
+     "saldo": 97
     },
     {
      "cod": 3731,
@@ -22235,7 +22227,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 622
+     "saldo": 619
     },
     {
      "cod": 4146,
@@ -22243,7 +22235,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 107
+     "saldo": 84
     },
     {
      "cod": 2491,
@@ -22251,7 +22243,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 522
+     "saldo": 520
     },
     {
      "cod": 3887,
@@ -22259,7 +22251,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 97
+     "saldo": 74
     },
     {
      "cod": 2489,
@@ -22393,7 +22385,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 746
+     "saldo": 740
     },
     {
      "cod": 880,
@@ -22527,7 +22519,7 @@
      "marca": "PRAFESTA",
      "preco": 12.9,
      "img": "produtos/2507.jpg",
-     "saldo": 124
+     "saldo": 122
     },
     {
      "cod": 2493,
@@ -22735,7 +22727,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 11690,
@@ -24901,7 +24893,7 @@
      "marca": "KROMASA",
      "preco": 4.9,
      "img": "produtos/4940.jpg",
-     "saldo": 643
+     "saldo": 642
     },
     {
      "cod": 4941,
@@ -24933,7 +24925,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/4944.jpg",
-     "saldo": 218
+     "saldo": 217
     },
     {
      "cod": 4945,
@@ -25195,7 +25187,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 37
+     "saldo": 22
     },
     {
      "cod": 2826,
@@ -25678,7 +25670,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 112
+     "saldo": 108
     },
     {
      "cod": 13855,
@@ -31226,7 +31218,7 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
-     "saldo": 72,
+     "saldo": 71,
      "controle": [
       "AM/LARANJA",
       "AM/ROSA",
@@ -31235,7 +31227,7 @@
      "saldo_cor": {
       "AM/LARANJA": 24,
       "AM/ROSA": 24,
-      "AM/VERDE": 24
+      "AM/VERDE": 23
      }
     },
     {
@@ -31694,7 +31686,7 @@
      "marca": "LEOARTE",
      "preco": 5.9,
      "img": "produtos/922.jpg",
-     "saldo": 29
+     "saldo": 26
     },
     {
      "cod": 6558,
