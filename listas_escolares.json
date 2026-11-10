@@ -1802,6 +1802,7 @@
        "produto": "PETECA",
        "marca": "BORAKIBORA",
        "preco": 17.9,
+       "obs": "Temos também bola e corda: consulte o preço com a vendedora.",
        "foto": "listas/fotos/10143.jpg"
       },
       {
@@ -2041,5 +2042,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 12:51"
+ "atualizado": "10/11/2026 12:52"
 }
