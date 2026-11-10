@@ -718,14 +718,6 @@
      "saldo": 1
     },
     {
-     "cod": 10252,
-     "nome": "CANETA GEL JOCAR-BOSS AZUL",
-     "marca": "JOCAR",
-     "preco": 4.9,
-     "img": "produtos/10252.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 5240,
      "nome": "CANETA GEL PAPER MATE",
      "marca": "PAPER MATE",
@@ -1324,14 +1316,14 @@
      "marca": "PILOT",
      "preco": 12.9,
      "img": "produtos/617.jpg",
-     "saldo": 15,
+     "saldo": 14,
      "cores": [
       {
        "cod": 617,
        "cor": "Azul",
        "nome": "CANETA PILOT S.GRIP 1.0-AZUL",
        "img": "produtos/617.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 618,
@@ -2361,7 +2353,7 @@
      "marca": "FABER",
      "preco": 1.9,
      "img": "produtos/14124.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 10270,
@@ -3373,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 112
+       "saldo": 111
       },
       {
        "cod": 2658,
@@ -3735,7 +3727,7 @@
      "marca": "LEO E LEO",
      "preco": 0.5,
      "img": "produtos/277.jpg",
-     "saldo": 191
+     "saldo": 189
     },
     {
      "cod": 278,
@@ -5394,14 +5386,6 @@
      "saldo": 8
     },
     {
-     "cod": 6466,
-     "nome": "CADERNO 1X1 80F-BORUTO",
-     "marca": "SD",
-     "preco": 29.9,
-     "img": "produtos/6466.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 8253,
      "nome": "CADERNO 1X1 80F-BOTANICAL",
      "marca": "CREDEAL",
@@ -5440,14 +5424,6 @@
      "preco": 27.9,
      "img": "produtos/12861.jpg",
      "saldo": 6
-    },
-    {
-     "cod": 8143,
-     "nome": "CADERNO 1X1 80F-COLEG. HAPPEN",
-     "marca": "SD",
-     "preco": 26.9,
-     "img": "produtos/8143.jpg",
-     "saldo": 1
     },
     {
      "cod": 12794,
@@ -5554,14 +5530,6 @@
      "saldo": 4
     },
     {
-     "cod": 10469,
-     "nome": "CADERNO 1X1 80F-FUTEBOL (SCORE) CONNECT",
-     "marca": "TILIBRA",
-     "preco": 26.9,
-     "img": "produtos/10469.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 8402,
      "nome": "CADERNO 1X1 80F-GOLDEN YEARS",
      "marca": "CREDEAL",
@@ -5578,14 +5546,6 @@
      "saldo": 16
     },
     {
-     "cod": 5889,
-     "nome": "CADERNO 1X1 80F-HAPPEN",
-     "marca": "SAO DOMING",
-     "preco": 26.9,
-     "img": "produtos/5889.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13179,
      "nome": "CADERNO 1X1 80F-HAPPEN (DUPLEX WIRE-O)",
      "marca": "SD",
@@ -5600,14 +5560,6 @@
      "preco": 27.9,
      "img": "produtos/7764.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 6459,
-     "nome": "CADERNO 1X1 80F-HOUSE OF THE DRAGON",
-     "marca": "JANDAIA",
-     "preco": 29.9,
-     "img": "produtos/6459.jpg",
-     "saldo": 1
     },
     {
      "cod": 11457,
@@ -5680,14 +5632,6 @@
      "preco": 13.9,
      "img": "produtos/5734.jpg",
      "saldo": 3
-    },
-    {
-     "cod": 5844,
-     "nome": "CADERNO 1X1 80F-MAGIC CONNECT",
-     "marca": "TILIBRA",
-     "preco": 27.9,
-     "img": "produtos/5844.jpg",
-     "saldo": 1
     },
     {
      "cod": 5881,
@@ -5846,14 +5790,6 @@
      "saldo": 11
     },
     {
-     "cod": 7781,
-     "nome": "CADERNO 1X1 80F-ONE PIECE CONNECT",
-     "marca": "TILIBRA",
-     "preco": 24.9,
-     "img": "produtos/7781.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 12905,
      "nome": "CADERNO 1X1 80F-OUTSIDER",
      "marca": "CADERSIL",
@@ -6001,9 +5937,9 @@
      "cod": 12415,
      "nome": "CADERNO 1X1 80F-VIDA DE PET",
      "marca": "CREDEAL",
-     "preco": 18.9,
+     "preco": 9.9,
      "img": "produtos/12415.jpg",
-     "saldo": 13
+     "saldo": 11
     },
     {
      "cod": 12777,
@@ -6020,14 +5956,6 @@
      "preco": 27.9,
      "img": "produtos/11440.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 7825,
-     "nome": "CADERNO 1X1 80F-ZIP PRETO",
-     "marca": "TILIBRA",
-     "preco": 14.9,
-     "img": "produtos/7825.jpg",
-     "saldo": 1
     },
     {
      "cod": 5915,
@@ -6059,15 +5987,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/9324.jpg",
-     "saldo": 2
-    },
-    {
-     "cod": 5896,
-     "nome": "CADERNO 1X1 96F-KBOM FEMININO",
-     "marca": "S.DOMINGOS",
-     "preco": 11.9,
-     "img": "produtos/5896.jpg",
-     "saldo": 1
+     "saldo": 4
     },
     {
      "cod": 12387,
@@ -6203,14 +6123,14 @@
      "marca": "MAXIMA",
      "preco": 12.9,
      "img": "produtos/367.jpg",
-     "saldo": 37,
+     "saldo": 36,
      "cores": [
       {
        "cod": 367,
        "cor": "Azul",
        "nome": "CADERNO ALIBOM. CART. 60F-AZUL",
        "img": "produtos/367.jpg",
-       "saldo": 37
+       "saldo": 36
       },
       {
        "cod": 368,
@@ -8767,7 +8687,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4380
+     "saldo": 4376
     },
     {
      "cod": 14619,
@@ -9009,7 +8929,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 730
+     "saldo": 720
     },
     {
      "cod": 1317,
@@ -10865,7 +10785,7 @@
        "cor": "Pink",
        "nome": "CREPOM PINK",
        "img": "produtos/6733.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 4788,
@@ -11093,7 +11013,7 @@
      "marca": "CHAMEX",
      "preco": 49.9,
      "img": "produtos/2016.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2014,
@@ -11267,7 +11187,7 @@
      "marca": "SANTECK",
      "preco": 13.9,
      "img": "produtos/3583.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 2133,
@@ -11459,7 +11379,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/2163.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7335,
@@ -11895,7 +11815,7 @@
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML MARIPEL-VERDE BANDEIRA",
        "img": "produtos/10128.jpg",
-       "saldo": 6
+       "saldo": 5
       }
      ]
     },
@@ -12041,7 +11961,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/10372.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 2364,
@@ -15054,7 +14974,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/3592.jpg",
-     "saldo": 248
+     "saldo": 247
     },
     {
      "cod": 12933,
@@ -15666,7 +15586,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 105
+     "saldo": 103
     },
     {
      "cod": 13124,
@@ -15973,7 +15893,7 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 189
+       "saldo": 188
       },
       {
        "cod": 1222,
@@ -16001,7 +15921,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 15
+       "saldo": 10
       }
      ]
     },
@@ -16019,7 +15939,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 51
+     "saldo": 46
     },
     {
      "cod": 1228,
@@ -16069,7 +15989,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 150
+       "saldo": 148
       },
       {
        "cod": 1233,
@@ -16097,14 +16017,14 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 96
+       "saldo": 95
       },
       {
        "cod": 1238,
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 97
+       "saldo": 95
       },
       {
        "cod": 1239,
@@ -18795,14 +18715,6 @@
      "saldo": 147
     },
     {
-     "cod": 13815,
-     "nome": "POST-IT 38X50 C/4X100 AMARELO NEON",
-     "marca": "",
-     "preco": 4.9,
-     "img": "produtos/13815.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 2477,
      "nome": "POST-IT 38X50 C/4X100 AMARELO-3M",
      "marca": "3M",
@@ -19104,7 +19016,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 142
+     "saldo": 141
     },
     {
      "cod": 14261,
@@ -20793,7 +20705,7 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4337.jpg",
-     "saldo": 49
+     "saldo": 48
     }
    ]
   },
@@ -20959,7 +20871,7 @@
     },
     {
      "cod": 14612,
-     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS ROXO",
+     "nome": "CARIMBO ESCOLAR TRIS-PRINCESAS CORES",
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14612.jpg",
@@ -21301,7 +21213,7 @@
      "marca": "COPOZAN",
      "preco": 7.9,
      "img": "produtos/946.jpg",
-     "saldo": 52
+     "saldo": 47
     },
     {
      "cod": 6922,
@@ -21587,7 +21499,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 356
+     "saldo": 332
     },
     {
      "cod": 4617,
@@ -22243,7 +22155,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 83
+     "saldo": 53
     },
     {
      "cod": 2491,
@@ -22259,7 +22171,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 73
+     "saldo": 43
     },
     {
      "cod": 2489,
@@ -23307,7 +23219,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1122
+     "saldo": 1117
     },
     {
      "cod": 3857,
@@ -25187,15 +25099,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 1040
-    },
-    {
-     "cod": 10972,
-     "nome": "SACOLA BRANCA 38X48 C/100",
-     "marca": "ECO",
-     "preco": 6.9,
-     "img": "produtos/10972.jpg",
-     "saldo": 19
+     "saldo": 1030
     },
     {
      "cod": 2826,
@@ -25219,7 +25123,7 @@
      "marca": "PACKFORT",
      "preco": 25.9,
      "img": "produtos/4362.jpg",
-     "saldo": 199
+     "saldo": 189
     },
     {
      "cod": 2837,
@@ -25488,7 +25392,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2549
+     "saldo": 2544
     },
     {
      "cod": 6821,
@@ -25496,7 +25400,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 1281
+     "saldo": 1271
     },
     {
      "cod": 6855,
@@ -25606,7 +25510,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 167
+     "saldo": 166
     },
     {
      "cod": 13856,
@@ -25614,7 +25518,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 192
+     "saldo": 190
     },
     {
      "cod": 13859,
@@ -25956,7 +25860,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 4314,
@@ -25980,7 +25884,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 1014
+     "saldo": 1013
     },
     {
      "cod": 2900,
@@ -26034,7 +25938,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1493
+     "saldo": 1213
     },
     {
      "cod": 6646,
@@ -26099,14 +26003,6 @@
      "preco": 4.9,
      "img": "produtos/3204.jpg",
      "saldo": 393
-    },
-    {
-     "cod": 235,
-     "nome": "BOBINA 79MM THEGA 30M (BRANCA)",
-     "marca": "THEGA",
-     "preco": 4.9,
-     "img": "produtos/235.jpg",
-     "saldo": 236
     },
     {
      "cod": 236,
@@ -26970,13 +26866,6 @@
        "nome": "FITA CETIM N2 10MMX10MT-PRATA",
        "img": "produtos/14132.jpg",
        "saldo": 5
-      },
-      {
-       "cod": 13752,
-       "cor": "Rosa Bebe",
-       "nome": "FITA CETIM N2 10MMX10MT-ROSA BEBE",
-       "img": "produtos/13752.jpg",
-       "saldo": 1
       },
       {
        "cod": 13754,
@@ -28866,7 +28755,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 13945,
@@ -28906,7 +28795,7 @@
      "marca": "NOAH PAPER",
      "preco": 107.9,
      "img": "produtos/12118.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 14357,
@@ -28946,7 +28835,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 529
+     "saldo": 527
     },
     {
      "cod": 2157,
@@ -30527,7 +30416,7 @@
        "cor": "Rosa",
        "nome": "APONTADOR TRIS C/D 1F-MARIE ROSA",
        "img": "produtos/13381.jpg",
-       "saldo": 4
+       "saldo": 3
       }
      ]
     },
