@@ -5,6 +5,7 @@
    "nome": "Centro Educacional CEME",
    "listas": [
     {
+     "original": "listas/originais/ceme-maternal1.pdf",
      "id": "ceme-maternal1",
      "ano": "Maternal 1 (1º ano)",
      "orcamento": 658354,
@@ -120,6 +121,7 @@
      ]
     },
     {
+     "original": "listas/originais/ceme-maternal2.pdf",
      "id": "ceme-maternal2",
      "ano": "Maternal 2 (2º ano)",
      "orcamento": 658355,
@@ -222,6 +224,7 @@
      ]
     },
     {
+     "original": "listas/originais/ceme-maternal3.pdf",
      "id": "ceme-maternal3",
      "ano": "Maternal 3 (3º ano)",
      "orcamento": 658356,
@@ -352,6 +355,7 @@
      ]
     },
     {
+     "original": "listas/originais/ceme-periodo1.pdf",
      "id": "ceme-periodo1",
      "ano": "1º Período (4 anos)",
      "orcamento": 658357,
@@ -527,6 +531,7 @@
      ]
     },
     {
+     "original": "listas/originais/ceme-ano1.pdf",
      "id": "ceme-ano1",
      "ano": "1º Ano",
      "orcamento": 658358,
@@ -715,6 +720,7 @@
      "idade": "6 anos"
     },
     {
+     "original": "listas/originais/ceme-ano2.pdf",
      "id": "ceme-ano2",
      "ano": "2º Ano",
      "orcamento": 658359,
@@ -927,6 +933,7 @@
      "idade": "7 anos"
     },
     {
+     "original": "listas/originais/ceme-ano3.pdf",
      "id": "ceme-ano3",
      "ano": "3º Ano",
      "orcamento": 658360,
@@ -1130,6 +1137,7 @@
      "idade": "8 anos"
     },
     {
+     "original": "listas/originais/ceme-ano4.pdf",
      "id": "ceme-ano4",
      "ano": "4º Ano",
      "orcamento": 658361,
@@ -1318,6 +1326,7 @@
      "idade": "9 anos"
     },
     {
+     "original": "listas/originais/ceme-ano5.pdf",
      "id": "ceme-ano5",
      "ano": "5º Ano",
      "orcamento": 658362,
@@ -1548,6 +1557,7 @@
    "nome": "Instituto Educacional Peter Pan",
    "listas": [
     {
+     "original": "listas/originais/peterpan-maternal1.pdf",
      "id": "peterpan-maternal1",
      "ano": "Maternal 1",
      "orcamento": 660487,
@@ -2057,6 +2067,7 @@
      "idade": "1 ano"
     },
     {
+     "original": "listas/originais/peterpan-maternal2.pdf",
      "id": "peterpan-maternal2",
      "ano": "Maternal 2",
      "orcamento": 660488,
@@ -2579,6 +2590,7 @@
      "idade": "2 anos"
     },
     {
+     "original": "listas/originais/peterpan-maternal3.pdf",
      "id": "peterpan-maternal3",
      "ano": "Maternal 3",
      "orcamento": 660489,
@@ -3063,6 +3075,7 @@
      "idade": "3 anos"
     },
     {
+     "original": "listas/originais/peterpan-periodo1.pdf",
      "id": "peterpan-periodo1",
      "ano": "1º Período",
      "orcamento": 660404,
@@ -3503,6 +3516,7 @@
      "idade": "4 anos"
     },
     {
+     "original": "listas/originais/peterpan-periodo2.pdf",
      "id": "peterpan-periodo2",
      "ano": "2º Período",
      "orcamento": 660484,
@@ -3936,6 +3950,7 @@
      "idade": "5 anos"
     },
     {
+     "original": "listas/originais/peterpan-ano1.pdf",
      "id": "peterpan-ano1",
      "ano": "1º Ano",
      "orcamento": 660490,
@@ -4451,6 +4466,7 @@
      "idade": "6 anos"
     },
     {
+     "original": "listas/originais/peterpan-ano2.pdf",
      "id": "peterpan-ano2",
      "ano": "2º Ano",
      "orcamento": 660491,
@@ -4963,6 +4979,7 @@
      "idade": "7 anos"
     },
     {
+     "original": "listas/originais/peterpan-ano3.pdf",
      "id": "peterpan-ano3",
      "ano": "3º Ano",
      "orcamento": 660492,
@@ -5484,6 +5501,7 @@
      "idade": "8 anos"
     },
     {
+     "original": "listas/originais/peterpan-ano4.pdf",
      "id": "peterpan-ano4",
      "ano": "4º Ano",
      "orcamento": 660493,
@@ -6029,6 +6047,7 @@
      "idade": "9 anos"
     },
     {
+     "original": "listas/originais/peterpan-ano5.pdf",
      "id": "peterpan-ano5",
      "ano": "5º Ano",
      "orcamento": 660494,
@@ -6555,6 +6574,7 @@
        "partes": []
       }
      ],
+     "original": "listas/originais/peterpan-ano6a9.pdf",
      "id": "peterpan-ano6a9",
      "ano": "6º ao 9º Ano",
      "orcamento": 658825,
@@ -6741,5 +6761,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 15:08"
+ "atualizado": "10/11/2026 15:14"
 }
