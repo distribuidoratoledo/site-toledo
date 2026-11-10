@@ -711,7 +711,8 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
       "Os materiais devem ser repostos quando acabarem.",
       "Início das aulas: 02/02/2027 (terça-feira)."
-     ]
+     ],
+     "idade": "6 anos"
     },
     {
      "id": "ceme-ano2",
@@ -922,7 +923,8 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
       "Os materiais devem ser repostos quando acabarem.",
       "Início das aulas: 02/02/2027 (terça-feira)."
-     ]
+     ],
+     "idade": "7 anos"
     },
     {
      "id": "ceme-ano3",
@@ -1124,7 +1126,8 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
       "Os materiais devem ser repostos quando acabarem.",
       "Início das aulas: 02/02/2027 (terça-feira)."
-     ]
+     ],
+     "idade": "8 anos"
     },
     {
      "id": "ceme-ano4",
@@ -1311,7 +1314,8 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
       "Os materiais devem ser repostos quando acabarem.",
       "Início das aulas: 02/02/2027 (terça-feira)."
-     ]
+     ],
+     "idade": "9 anos"
     },
     {
      "id": "ceme-ano5",
@@ -1534,7 +1538,8 @@
       "Todo o material deve ser marcado com o nome da criança, inclusive cada lápis de cor e o uniforme.",
       "Os materiais devem ser repostos quando acabarem.",
       "Início das aulas: 02/02/2027 (terça-feira)."
-     ]
+     ],
+     "idade": "10 anos"
     }
    ]
   },
@@ -2048,7 +2053,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "1 ano"
     },
     {
      "id": "peterpan-maternal2",
@@ -2569,7 +2575,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "2 anos"
     },
     {
      "id": "peterpan-maternal3",
@@ -3052,7 +3059,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "3 anos"
     },
     {
      "id": "peterpan-periodo1",
@@ -3491,7 +3499,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "4 anos"
     },
     {
      "id": "peterpan-periodo2",
@@ -3923,7 +3932,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na lancheira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "5 anos"
     },
     {
      "id": "peterpan-ano1",
@@ -4437,7 +4447,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "6 anos"
     },
     {
      "id": "peterpan-ano2",
@@ -4948,7 +4959,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "7 anos"
     },
     {
      "id": "peterpan-ano3",
@@ -5468,7 +5480,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "8 anos"
     },
     {
      "id": "peterpan-ano4",
@@ -6012,7 +6025,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "9 anos"
     },
     {
      "id": "peterpan-ano5",
@@ -6512,7 +6526,8 @@
       "Toalha de mão, guardanapo de pano e garrafinha para água devem permanecer na merendeira diariamente.",
       "Verifiquem se os materiais estão em boa qualidade, validade correta e boa funcionalidade.",
       "Todos os materiais deverão ser entregues até o dia 26/fev."
-     ]
+     ],
+     "idade": "10 anos"
     },
     {
      "totais_por_ano": [
@@ -6720,10 +6735,11 @@
       "Os livros deverão ser adquiridos novos; não será permitido o uso de livros didáticos xerocados.",
       "A lista dos livros literários será disponibilizada a partir da 2ª quinzena de fevereiro.",
       "Não será permitido o uso de estilete."
-     ]
+     ],
+     "idade": "11 a 14 anos"
     }
    ]
   }
  ],
- "atualizado": "10/11/2026 15:07"
+ "atualizado": "10/11/2026 15:08"
 }

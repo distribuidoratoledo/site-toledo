@@ -603,7 +603,7 @@
       $('lista').innerHTML = '';
       if (!e) { selAno.innerHTML = '<option value="">Escolha a escola primeiro</option>'; selAno.disabled = true; btnVer.disabled = true; return; }
       selAno.innerHTML = '<option value="">Escolha o ano</option>' + e.listas.map(function (l) {
-        return '<option value="' + esc(l.id) + '">' + esc(l.ano) + '</option>';
+        return '<option value="' + esc(l.id) + '">' + esc(l.ano) + (l.idade ? ' (' + esc(l.idade) + ')' : '') + '</option>';   /* idade: 10/11/2026 */
       }).join('');
       selAno.disabled = false; btnVer.disabled = true;
       if (e.listas.length === 1) { selAno.value = e.listas[0].id; btnVer.disabled = false; }
