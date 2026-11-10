@@ -1555,6 +1555,1752 @@
    ]
   },
   {
+   "id": "elitemaster",
+   "nome": "Colégio Elite Master",
+   "listas": [
+    {
+     "original": "listas/originais/elitemaster-ano1.pdf",
+     "id": "elitemaster-ano1",
+     "ano": "1º Ano",
+     "orcamento": 660678,
+     "itens": [
+      {
+       "descricao": "Livros de literatura infantil para o Projeto Biblioteca de Classe: Pinguinho quer conhecer o mundo; Atchim?; A cicatriz (3 livros)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora sobre os títulos.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa de camisa tamanho A4, encapada na cor verde",
+       "qtd": 1,
+       "cod": 3255,
+       "produto": "CAIXA CAMISA POLIBRAS-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 32.9,
+       "obs": "Caixa camisa Polibras azul. As outras cores saíram de linha.",
+       "foto": "listas/fotos/3255.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Camisa de malha usada, tamanho grande, para proteger o uniforme nas aulas de pintura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Cola bastão de 10 g",
+       "qtd": 8,
+       "cod": 808,
+       "produto": "COLA BASTAO 10GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 1.3,
+       "foto": "listas/fotos/808.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Cola branca líquida 90 g",
+       "qtd": 3,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Canetinhas coloridas com 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Apontadores com depósito",
+       "qtd": 3,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis preto nº 2",
+       "qtd": 9,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Borracha grande, branca e macia",
+       "qtd": 4,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caneta hidrográfica ponta porosa média, preta (Cis)",
+       "qtd": 4,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "obs": "Caneta Cis Fine Futura preta.",
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno grande de desenho, cor verde, 96 folhas, para Arte",
+       "qtd": 1,
+       "cod": 10891,
+       "produto": "CADERNO DESENHO CARTONADO 96F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno de desenho cartonado Credeal 96 folhas.",
+       "foto": "listas/fotos/10891.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor verde, 96 folhas (Português, Matemática, Para Casa e reserva)",
+       "qtd": 4,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas (verde pela capa encapada).",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor verde, 48 folhas (Inglês e Ciências)",
+       "qtd": 2,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor verde, 96 folhas (Geografia e História)",
+       "qtd": 1,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set estampado A4",
+       "qtd": 1,
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas.",
+       "foto": "listas/fotos/2133.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set fluorescente A4",
+       "qtd": 1,
+       "cod": 6667,
+       "produto": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 13.9,
+       "obs": "Papel Lumipaper A4 com 48 folhas.",
+       "foto": "listas/fotos/6667.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Estojo de tinta guache com 12 cores, 15 ml",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Pasta catálogo preta com 30 plásticos (Música)",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Gibis",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Tesoura pequena, ponta arredondada, com nome gravado",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome da criança fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Lápis de colorir com 12 cores",
+       "qtd": 3,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Régua transparente de 30 cm (rígida)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pasta polionda fina (2 cm), sem alça, com elástico, cor verde",
+       "qtd": 1,
+       "cod": 6191,
+       "produto": "PASTA POLIONDA 2CM VERDE",
+       "marca": "POLIBRAS",
+       "preco": 5.9,
+       "foto": "listas/fotos/6191.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Presente da escola.",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Estojo com zíper",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais individuais pedidos na lista não são suficientes para todo o ano letivo. É necessária a reposição.",
+      "O caderno tipo espiral não será aceito.",
+      "Os cadernos devem ser encapados com papel verde e plástico transparente, com nome do aluno, ano, série e componente curricular na capa.",
+      "Todos os materiais devem ser marcados com o nome da criança.",
+      "A agenda é presente da escola.",
+      "Dúvidas sobre a compra on-line dos livros didáticos: procurem a escola."
+     ],
+     "idade": "6 anos"
+    },
+    {
+     "original": "listas/originais/elitemaster-ano2.pdf",
+     "id": "elitemaster-ano2",
+     "ano": "2º Ano",
+     "orcamento": 660679,
+     "itens": [
+      {
+       "descricao": "Livros de literatura infantil para o Projeto Biblioteca de Classe: Meu avô desparafusado; Pum do peixe (2 livros)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora sobre os títulos.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa de camisa tamanho A4, encapada na cor vermelha",
+       "qtd": 2,
+       "cod": 3255,
+       "produto": "CAIXA CAMISA POLIBRAS-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 32.9,
+       "obs": "Caixa camisa Polibras azul. As outras cores saíram de linha.",
+       "foto": "listas/fotos/3255.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Revistinhas em quadrinhos (gibis)",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Canetinhas coloridas com 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos (Produção de Texto)",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno grande de desenho, cor vermelha, 60 folhas, para Arte",
+       "qtd": 1,
+       "cod": 10891,
+       "produto": "CADERNO DESENHO CARTONADO 96F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno de desenho cartonado Credeal 96 folhas (não temos 60 folhas).",
+       "foto": "listas/fotos/10891.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor vermelha, 96 folhas (Português e Matemática)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas (vermelha pela capa encapada).",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor vermelha, 60 folhas (Ciências, Geografia, História, Inglês e Para Casa)",
+       "qtd": 5,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal 80 folhas (não temos 60 folhas).",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno de música pautado, grande, 50 folhas, para teoria musical (sem folha picotada)",
+       "qtd": 1,
+       "cod": 3253,
+       "produto": "CADERNO MUSICA GRD CD C/80FL-SAO DOMINGOS",
+       "marca": "S.DOMINGOS",
+       "preco": 17.9,
+       "obs": "Caderno de música grande capa dura São Domingos 80 folhas (vai chegar).",
+       "foto": "listas/fotos/3253.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Scrapbook estampado A4, 20 folhas",
+       "qtd": 2,
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas (2 pacotes).",
+       "foto": "listas/fotos/2133.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set estampado A4",
+       "qtd": 2,
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas.",
+       "foto": "listas/fotos/2133.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set A4",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A4 com 50 folhas. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set fluorescente A4",
+       "qtd": 1,
+       "cod": 6667,
+       "produto": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 13.9,
+       "obs": "Papel Lumipaper A4 com 48 folhas.",
+       "foto": "listas/fotos/6667.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa pequena de material dourado individual (madeira, 62 peças)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "obs": "Material dourado com 111 peças.",
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Estojo de tinta guache com 12 cores, 15 ml",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Lápis preto nº 2",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Borracha grande, branca e macia",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Destaca-texto amarelo",
+       "qtd": 3,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Caneta hidrográfica ponta porosa média, preta (Cis)",
+       "qtd": 3,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "obs": "Caneta Cis Fine Futura preta.",
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Tesoura pequena, ponta arredondada, com nome gravado",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome da criança fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Lápis de cor com 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Cola bastão de 10 g",
+       "qtd": 1,
+       "cod": 808,
+       "produto": "COLA BASTAO 10GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 1.3,
+       "foto": "listas/fotos/808.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Régua transparente de 30 cm (rígida)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Estojo tipo bolsa, com zíper",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Presente da escola.",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Cola branca líquida 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Dicionário pequeno (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "obs": "Dicionário Silveira Bueno.",
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pasta polionda fina (2 cm), com elástico, cor vermelha",
+       "qtd": 1,
+       "cod": 2171,
+       "produto": "PASTA POLIONDA 2CM VERMELHA",
+       "marca": "POLIBRAS",
+       "preco": 5.9,
+       "foto": "listas/fotos/2171.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Camisa de malha usada, tamanho grande, para proteger o uniforme nas aulas de pintura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais individuais pedidos na lista não são suficientes para todo o ano letivo. É necessária a reposição.",
+      "O caderno tipo espiral não será aceito.",
+      "Os cadernos devem ser encapados com papel vermelho e plástico transparente, com nome do aluno, ano, série e componente curricular na capa.",
+      "Todos os materiais devem ser marcados com o nome da criança.",
+      "A agenda é presente da escola.",
+      "Dúvidas sobre a compra on-line dos livros didáticos: procurem a escola."
+     ],
+     "idade": "7 anos"
+    },
+    {
+     "original": "listas/originais/elitemaster-ano3.pdf",
+     "id": "elitemaster-ano3",
+     "ano": "3º Ano",
+     "orcamento": 660680,
+     "itens": [
+      {
+       "descricao": "Livros de literatura infantil para o Projeto Biblioteca de Classe: Um nó na cabeça; A bomba de chocolate (2 livros)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora sobre os títulos.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa de camisa tamanho A4, encapada na cor azul",
+       "qtd": 1,
+       "cod": 3255,
+       "produto": "CAIXA CAMISA POLIBRAS-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 32.9,
+       "obs": "Caixa camisa Polibras azul. As outras cores saíram de linha.",
+       "foto": "listas/fotos/3255.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Revistinhas em quadrinhos (gibis)",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Canetinhas coloridas com 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis de cor aquarelável",
+       "qtd": 1,
+       "cod": 1642,
+       "produto": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "obs": "Lápis de cor aquarelável Acrilex com 12 cores.",
+       "foto": "listas/fotos/1642.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Pasta catálogo com 30 plásticos (Produção de Texto)",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno grande de desenho, cor azul, 60 folhas, para Arte",
+       "qtd": 1,
+       "cod": 10891,
+       "produto": "CADERNO DESENHO CARTONADO 96F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno de desenho cartonado Credeal 96 folhas (não temos 60 folhas).",
+       "foto": "listas/fotos/10891.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor azul, 96 folhas (2 Português e 2 Matemática)",
+       "qtd": 4,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor azul, 48 folhas (Ciências, Geografia e História)",
+       "qtd": 3,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor azul, 48 folhas (Inglês)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno de música pautado, 50 folhas (pode usar o do ano anterior)",
+       "qtd": 1,
+       "cod": 440,
+       "produto": "CADERNO PEQ. MUSICA 48F-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 11.9,
+       "obs": "Caderno pequeno de música Tilibra 48 folhas.",
+       "foto": "listas/fotos/440.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set estampado A4 (fundo escuro e estampa clara)",
+       "qtd": 1,
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas.",
+       "foto": "listas/fotos/2133.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set fluorescente A4",
+       "qtd": 1,
+       "cod": 6667,
+       "produto": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 13.9,
+       "obs": "Papel Lumipaper A4 com 48 folhas.",
+       "foto": "listas/fotos/6667.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Calculadora pequena",
+       "qtd": 1,
+       "cod": 14284,
+       "produto": "CALCULADORA (M) CCD-9814",
+       "marca": "DOTAD",
+       "preco": 12.9,
+       "obs": "Calculadora média CCD-9814 (a mais barata).",
+       "foto": "listas/fotos/14284.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa pequena de material dourado individual (madeira, 62 peças)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "obs": "Material dourado com 111 peças.",
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis de cor com 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Tesoura pequena, ponta arredondada, com nome gravado",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome da criança fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Lápis preto nº 2",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Borracha grande, branca e macia",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Destaca-texto amarelo",
+       "qtd": 2,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Estojo de aquarela pastilha 12 cores com pincel",
+       "qtd": 1,
+       "cod": 11641,
+       "produto": "AQUARELA JOY C/12 CORES",
+       "marca": "LEONORA",
+       "preco": 18.9,
+       "obs": "Aquarela Joy com 12 cores. O pincel vai à parte, logo abaixo.",
+       "foto": "listas/fotos/11641.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Pincel chato nº 4 (para o estojo de aquarela)",
+       "qtd": 1,
+       "cod": 10371,
+       "produto": "PINCEL CHATO 04",
+       "preco": 2.6,
+       "foto": "listas/fotos/10371.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Caneta hidrográfica ponta porosa (1,0 mm), preta (Cis)",
+       "qtd": 1,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "obs": "Caneta Cis Fine Futura preta.",
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Régua transparente de 30 cm (rígida)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Estojo tipo bolsa, com zíper",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Presente da escola.",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Cola branca líquida 90 g",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Dicionário pequeno (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "obs": "Dicionário Silveira Bueno.",
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pasta polionda fina (2 cm), com elástico, cor azul",
+       "qtd": 1,
+       "cod": 6192,
+       "produto": "PASTA POLIONDA 2CM AZUL",
+       "marca": "POLIBRAS",
+       "preco": 5.9,
+       "foto": "listas/fotos/6192.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Camisa usada (tamanho adulto) ou avental para pintura",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "obs": "Avental escolar.",
+       "foto": "listas/fotos/10726.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais individuais pedidos na lista não são suficientes para todo o ano letivo. É necessária a reposição.",
+      "O caderno tipo espiral não será aceito.",
+      "Os cadernos devem ser encapados com papel azul e plástico transparente, com nome do aluno, ano, série e componente curricular na capa.",
+      "Todos os materiais devem ser marcados com o nome da criança.",
+      "A agenda é presente da escola.",
+      "Dúvidas sobre a compra on-line dos livros didáticos: procurem a escola."
+     ],
+     "idade": "8 anos"
+    },
+    {
+     "original": "listas/originais/elitemaster-ano4.pdf",
+     "id": "elitemaster-ano4",
+     "ano": "4º Ano",
+     "orcamento": 660681,
+     "itens": [
+      {
+       "descricao": "Livros de literatura infantil para o Projeto Biblioteca de Classe: A rebelião das palavras; A escolinha da Serafina (2 livros)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora sobre os títulos.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa de camisa tamanho A4, encapada na cor amarela",
+       "qtd": 1,
+       "cod": 3255,
+       "produto": "CAIXA CAMISA POLIBRAS-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 32.9,
+       "obs": "Caixa camisa Polibras azul. As outras cores saíram de linha.",
+       "foto": "listas/fotos/3255.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Canetinhas coloridas com 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis de cor aquarelável",
+       "qtd": 1,
+       "cod": 1642,
+       "produto": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "obs": "Lápis de cor aquarelável Acrilex com 12 cores.",
+       "foto": "listas/fotos/1642.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Cadernos grandes de desenho, cor amarela, 60 folhas, para Arte e Geometria",
+       "qtd": 2,
+       "cod": 10891,
+       "produto": "CADERNO DESENHO CARTONADO 96F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno de desenho cartonado Credeal 96 folhas (não temos 60 folhas).",
+       "foto": "listas/fotos/10891.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor amarela, 96 folhas (2 Português e 2 Matemática)",
+       "qtd": 4,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas (amarela pela capa encapada).",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor amarela, 60 folhas (Ciências, História, Geografia e Produção de Texto)",
+       "qtd": 5,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal 80 folhas (não temos 60 folhas).",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor amarela, 48 folhas (Inglês)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno de música pautado, 50 folhas (pode usar o do ano anterior)",
+       "qtd": 1,
+       "cod": 440,
+       "produto": "CADERNO PEQ. MUSICA 48F-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 11.9,
+       "obs": "Caderno pequeno de música Tilibra 48 folhas.",
+       "foto": "listas/fotos/440.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Bloco pautado tamanho A4 para produção de texto",
+       "qtd": 1,
+       "cod": 212,
+       "produto": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+       "marca": "TAMOIOS",
+       "preco": 14.9,
+       "obs": "Bloco pautado grande com 50 folhas.",
+       "foto": "listas/fotos/212.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Scrapbook estampado A4, 20 folhas",
+       "qtd": 2,
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas (2 pacotes).",
+       "foto": "listas/fotos/2133.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set A4, 50 folhas (cores variadas)",
+       "qtd": 2,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A4 com 50 folhas. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set fluorescente A4",
+       "qtd": 1,
+       "cod": 6667,
+       "produto": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 13.9,
+       "obs": "Papel Lumipaper A4 com 48 folhas.",
+       "foto": "listas/fotos/6667.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Gibis (história em quadrinhos)",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Camisa de malha usada, tamanho grande, para proteger o uniforme nas aulas de pintura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis de cor com 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Tesoura pequena, ponta arredondada, com nome gravado",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome da criança fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Lápis preto nº 2",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Borracha grande, branca e macia",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Destaca-texto cor variada",
+       "qtd": 2,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Estojo de aquarela pastilha 12 cores com pincel",
+       "qtd": 1,
+       "cod": 11641,
+       "produto": "AQUARELA JOY C/12 CORES",
+       "marca": "LEONORA",
+       "preco": 18.9,
+       "obs": "Aquarela Joy com 12 cores. O pincel vai à parte, logo abaixo.",
+       "foto": "listas/fotos/11641.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Pincel chato nº 4 (para o estojo de aquarela)",
+       "qtd": 1,
+       "cod": 10371,
+       "produto": "PINCEL CHATO 04",
+       "preco": 2.6,
+       "foto": "listas/fotos/10371.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Caneta hidrográfica ponta porosa (1,0 mm), preta (Cis)",
+       "qtd": 3,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "obs": "Caneta Cis Fine Futura preta.",
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Régua transparente de 30 cm (rígida)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Régua geométrica",
+       "qtd": 1,
+       "cod": 6770,
+       "produto": "REGUA GEOMETRICA RETANGULAR-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 5.9,
+       "foto": "listas/fotos/6770.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Transferidor 180°",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Estojo tipo bolsa, com zíper",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Presente da escola.",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Cola branca líquida 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Dicionário pequeno (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "obs": "Dicionário Silveira Bueno.",
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pasta polionda fina (2 cm), com elástico, cor amarela",
+       "qtd": 1,
+       "cod": 6190,
+       "produto": "PASTA POLIONDA 2CM AMARELA",
+       "marca": "POLIBRAS",
+       "preco": 5.9,
+       "foto": "listas/fotos/6190.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais individuais pedidos na lista não são suficientes para todo o ano letivo. É necessária a reposição.",
+      "O caderno tipo espiral não será aceito.",
+      "Os cadernos devem ser encapados com papel amarelo e plástico transparente, com nome do aluno, ano, série e componente curricular na capa.",
+      "Todos os materiais devem ser marcados com o nome da criança.",
+      "A agenda é presente da escola.",
+      "Dúvidas sobre a compra on-line dos livros didáticos: procurem a escola."
+     ],
+     "idade": "9 anos"
+    },
+    {
+     "original": "listas/originais/elitemaster-ano5.pdf",
+     "id": "elitemaster-ano5",
+     "ano": "5º Ano",
+     "orcamento": 660682,
+     "itens": [
+      {
+       "descricao": "Livros de literatura infantil para o Projeto Biblioteca de Classe: O livro do Cração; O menino que perguntava (2 livros)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora sobre os títulos.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caixa de camisa tamanho A4, encapada na cor verde",
+       "qtd": 1,
+       "cod": 3255,
+       "produto": "CAIXA CAMISA POLIBRAS-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 32.9,
+       "obs": "Caixa camisa Polibras azul. As outras cores saíram de linha.",
+       "foto": "listas/fotos/3255.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Canetinhas coloridas com 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis de cor aquarelável",
+       "qtd": 1,
+       "cod": 1642,
+       "produto": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "obs": "Lápis de cor aquarelável Acrilex com 12 cores.",
+       "foto": "listas/fotos/1642.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno grande de desenho, cor verde, 96 folhas, para Arte",
+       "qtd": 1,
+       "cod": 10891,
+       "produto": "CADERNO DESENHO CARTONADO 96F-CREDEAL",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno de desenho cartonado Credeal 96 folhas.",
+       "foto": "listas/fotos/10891.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor verde, 96 folhas (2 Português e 2 Matemática)",
+       "qtd": 4,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas (verde pela capa encapada).",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor verde, 60 folhas (Ciências, História, Geografia e Produção de Texto)",
+       "qtd": 5,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal 80 folhas (não temos 60 folhas).",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno brochurão com pauta e capa dura, cor verde, 48 folhas (Inglês)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Caderno de música pautado, 50 folhas (pode usar o do ano anterior)",
+       "qtd": 1,
+       "cod": 440,
+       "produto": "CADERNO PEQ. MUSICA 48F-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 11.9,
+       "obs": "Caderno pequeno de música Tilibra 48 folhas.",
+       "foto": "listas/fotos/440.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Bloco pautado tamanho A4 para produção de texto",
+       "qtd": 1,
+       "cod": 212,
+       "produto": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+       "marca": "TAMOIOS",
+       "preco": 14.9,
+       "obs": "Bloco pautado grande com 50 folhas.",
+       "foto": "listas/fotos/212.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Scrapbook estampado A4, 20 folhas",
+       "qtd": 2,
+       "cod": 2133,
+       "produto": "PAPEL SCRAPBOOK A4 C/10",
+       "marca": "MINASPEL",
+       "preco": 9.9,
+       "obs": "Papel scrapbook A4 com 10 folhas (2 pacotes).",
+       "foto": "listas/fotos/2133.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set A4, 50 folhas (cores variadas)",
+       "qtd": 2,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A4 com 50 folhas. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Papel Color Set fluorescente A4",
+       "qtd": 1,
+       "cod": 6667,
+       "produto": "PAPEL LUMIPAPER A4 75G C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 13.9,
+       "obs": "Papel Lumipaper A4 com 48 folhas.",
+       "foto": "listas/fotos/6667.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Gibis (história em quadrinhos)",
+       "qtd": 2,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Camisa de malha usada, tamanho grande, para proteger o uniforme nas aulas de pintura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Deverá ser entregue para a professora"
+      },
+      {
+       "descricao": "Lápis de cor com 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Tesoura pequena, ponta arredondada, com nome gravado",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome da criança fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Lápis preto nº 2",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Borracha grande, branca e macia",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Destaca-texto cor variada",
+       "qtd": 2,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Estojo de aquarela pastilha 12 cores com pincel",
+       "qtd": 1,
+       "cod": 11641,
+       "produto": "AQUARELA JOY C/12 CORES",
+       "marca": "LEONORA",
+       "preco": 18.9,
+       "obs": "Aquarela Joy com 12 cores. O pincel vai à parte, logo abaixo.",
+       "foto": "listas/fotos/11641.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Pincel chato nº 4 (para o estojo de aquarela)",
+       "qtd": 1,
+       "cod": 10371,
+       "produto": "PINCEL CHATO 04",
+       "preco": 2.6,
+       "foto": "listas/fotos/10371.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Caneta hidrográfica ponta porosa (1,0 mm), preta (Cis)",
+       "qtd": 3,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "obs": "Caneta Cis Fine Futura preta.",
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Trazer dentro do estojo com zíper"
+      },
+      {
+       "descricao": "Régua transparente de 30 cm (rígida)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Estojo tipo bolsa, com zíper",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Presente da escola.",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Cola branca líquida 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Dicionário pequeno (nova ortografia)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "obs": "Dicionário Silveira Bueno.",
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pasta polionda fina (2 cm), com elástico, cor verde",
+       "qtd": 1,
+       "cod": 6191,
+       "produto": "PASTA POLIONDA 2CM VERDE",
+       "marca": "POLIBRAS",
+       "preco": 5.9,
+       "foto": "listas/fotos/6191.jpg",
+       "grupo": "Trazer dentro da mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais individuais pedidos na lista não são suficientes para todo o ano letivo. É necessária a reposição.",
+      "O caderno tipo espiral não será aceito.",
+      "Os cadernos devem ser encapados com papel verde e plástico transparente, com nome do aluno, ano, série e componente curricular na capa.",
+      "Todos os materiais devem ser marcados com o nome da criança.",
+      "A agenda é presente da escola.",
+      "Dúvidas sobre a compra on-line dos livros didáticos: procurem a escola."
+     ],
+     "idade": "10 anos"
+    }
+   ]
+  },
+  {
    "id": "presbiteriano",
    "nome": "Colégio Presbiteriano de Sete Lagoas",
    "listas": [
@@ -15058,5 +16804,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 17:53"
+ "atualizado": "10/11/2026 17:54"
 }
