@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1398,
+     "saldo": 1348,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1398
+       "saldo": 1348
       },
       {
        "cod": 553,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 829,
+     "saldo": 828,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 829
+       "saldo": 828
       },
       {
        "cod": 556,
@@ -164,7 +164,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC FINE PLUS-VERMELHA",
        "img": "produtos/557.jpg",
-       "saldo": 395
+       "saldo": 394
       }
      ]
     },
@@ -1907,6 +1907,14 @@
      "saldo": 48
     },
     {
+     "cod": 12740,
+     "nome": "LAPIS 6CORES NEON-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/12740.jpg",
+     "saldo": 36
+    },
+    {
      "cod": 4869,
      "nome": "LAPIS 6CORES NEON-MAPED",
      "marca": "MAPED",
@@ -1971,6 +1979,14 @@
      "preco": 4.9,
      "img": "produtos/10594.jpg",
      "saldo": 6
+    },
+    {
+     "cod": 7698,
+     "nome": "LAPIS ESCREVER ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 0.8,
+     "img": "produtos/7698.jpg",
+     "saldo": 1152
     },
     {
      "cod": 1670,
@@ -2203,7 +2219,7 @@
        "cor": "Preto",
        "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
        "img": "produtos/8415.jpg",
-       "saldo": 55
+       "saldo": 51
       }
      ]
     },
@@ -2858,14 +2874,14 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2343.jpg",
-     "saldo": 8,
+     "saldo": 6,
      "cores": [
       {
        "cod": 2343,
        "cor": "Azul",
        "nome": "PINCEL ATOM.1100 PILOT-AZUL",
        "img": "produtos/2343.jpg",
-       "saldo": 8
+       "saldo": 6
       },
       {
        "cod": 2344,
@@ -3154,21 +3170,21 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 66,
+     "saldo": 63,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 66
+       "saldo": 63
       },
       {
        "cod": 2347,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
        "img": "produtos/2347.jpg",
-       "saldo": 25
+       "saldo": 22
       },
       {
        "cod": 2348,
@@ -3182,7 +3198,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
        "img": "produtos/2349.jpg",
-       "saldo": 19
+       "saldo": 16
       }
      ]
     },
@@ -3419,7 +3435,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1503.jpg",
-     "saldo": 463
+     "saldo": 461
     },
     {
      "cod": 4463,
@@ -6051,14 +6067,14 @@
      "marca": "MAXIMA",
      "preco": 12.9,
      "img": "produtos/367.jpg",
-     "saldo": 36,
+     "saldo": 35,
      "cores": [
       {
        "cod": 367,
        "cor": "Azul",
        "nome": "CADERNO ALIBOM. CART. 60F-AZUL",
        "img": "produtos/367.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 368,
@@ -8113,7 +8129,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/7690.jpg",
-     "saldo": 37
+     "saldo": 87
     },
     {
      "cod": 813,
@@ -8185,7 +8201,7 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/3321.jpg",
-     "saldo": 61
+     "saldo": 181
     },
     {
      "cod": 3322,
@@ -8193,7 +8209,7 @@
      "marca": "ACRILEX",
      "preco": 15.9,
      "img": "produtos/3322.jpg",
-     "saldo": 11
+     "saldo": 107
     },
     {
      "cod": 7924,
@@ -8209,7 +8225,7 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/831.jpg",
-     "saldo": 5
+     "saldo": 65
     },
     {
      "cod": 832,
@@ -8217,7 +8233,7 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/832.jpg",
-     "saldo": 8
+     "saldo": 128
     },
     {
      "cod": 7905,
@@ -8249,7 +8265,7 @@
      "marca": "ACRILEX",
      "preco": 3.9,
      "img": "produtos/834.jpg",
-     "saldo": 42
+     "saldo": 102
     },
     {
      "cod": 835,
@@ -8257,7 +8273,7 @@
      "marca": "ACRILEX",
      "preco": 3.9,
      "img": "produtos/835.jpg",
-     "saldo": 28
+     "saldo": 88
     },
     {
      "cod": 836,
@@ -8265,7 +8281,7 @@
      "marca": "ACRILEX",
      "preco": 3.9,
      "img": "produtos/836.jpg",
-     "saldo": 53
+     "saldo": 113
     },
     {
      "cod": 7704,
@@ -8273,7 +8289,7 @@
      "marca": "ACRILEX",
      "preco": 3.9,
      "img": "produtos/7704.jpg",
-     "saldo": 32
+     "saldo": 92
     },
     {
      "cod": 837,
@@ -8281,7 +8297,7 @@
      "marca": "ACRILEX",
      "preco": 3.9,
      "img": "produtos/837.jpg",
-     "saldo": 39
+     "saldo": 99
     },
     {
      "cod": 4930,
@@ -8529,7 +8545,7 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/12735.jpg",
-     "saldo": 1
+     "saldo": 145
     },
     {
      "cod": 3363,
@@ -8583,7 +8599,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/1028.jpg",
-     "saldo": 2901
+     "saldo": 2898
     },
     {
      "cod": 1029,
@@ -8591,7 +8607,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 843
+     "saldo": 833
     },
     {
      "cod": 4438,
@@ -8615,7 +8631,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 759
+     "saldo": 749
     },
     {
      "cod": 1021,
@@ -9258,6 +9274,30 @@
      "saldo": 7
     },
     {
+     "cod": 3647,
+     "nome": "REGUA 30CM FLEXIVEL AMARELA-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/3647.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 7500,
+     "nome": "REGUA 30CM FLEXIVEL AZUL-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 6.5,
+     "img": "produtos/7500.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 3646,
+     "nome": "REGUA 30CM FLEXIVEL TRANSP. ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 8.9,
+     "img": "produtos/3646.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 14592,
      "nome": "REGUA 30CM FLEXIVEL TRIS-FLOPPY DEGRADE",
      "marca": "TRIS",
@@ -9526,7 +9566,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/7685.jpg",
-     "saldo": 25
+     "saldo": 73
     },
     {
      "cod": 982,
@@ -9551,6 +9591,14 @@
      "preco": 16.9,
      "img": "produtos/983.jpg",
      "saldo": 46
+    },
+    {
+     "cod": 7684,
+     "nome": "CORRETIVO PINCEL-ACRILEX",
+     "marca": "ACRILEX",
+     "preco": 4.9,
+     "img": "produtos/7684.jpg",
+     "saldo": 60
     },
     {
      "cod": 7549,
@@ -9928,7 +9976,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 102
+     "saldo": 100
     },
     {
      "cod": 1977,
@@ -10112,7 +10160,7 @@
      "marca": "GRIFFE",
      "preco": 1.2,
      "img": "produtos/3854.jpg",
-     "saldo": 99
+     "saldo": 97
     },
     {
      "cod": 7756,
@@ -10941,7 +10989,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 758
+     "saldo": 658
     },
     {
      "cod": 2007,
@@ -10977,7 +11025,7 @@
        "cor": "Verde",
        "nome": "PAPEL A4 COLOR. C/100-VERDE",
        "img": "produtos/6313.jpg",
-       "saldo": 67
+       "saldo": 65
       }
      ]
     },
@@ -11060,6 +11108,14 @@
      "preco": 13.9,
      "img": "produtos/6667.jpg",
      "saldo": 62
+    },
+    {
+     "cod": 11515,
+     "nome": "PAPEL MACHE 100G",
+     "marca": "ACRILEX",
+     "preco": 29.9,
+     "img": "produtos/11515.jpg",
+     "saldo": 60
     },
     {
      "cod": 2124,
@@ -11675,7 +11731,7 @@
        "cor": "Rosa",
        "nome": "GUACHE 250ML ACRILEX-ROSA",
        "img": "produtos/3026.jpg",
-       "saldo": 77
+       "saldo": 76
       },
       {
        "cod": 3028,
@@ -11857,7 +11913,7 @@
      "marca": "",
      "preco": 5.5,
      "img": "produtos/10998.jpg",
-     "saldo": 185
+     "saldo": 184
     },
     {
      "cod": 10994,
@@ -12406,14 +12462,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2994.jpg",
-     "saldo": 53,
+     "saldo": 51,
      "cores": [
       {
        "cod": 2994,
        "cor": "Azul",
        "nome": "TINTA PINCEL 37ML PILOT-AZUL",
        "img": "produtos/2994.jpg",
-       "saldo": 53
+       "saldo": 51
       },
       {
        "cod": 2995,
@@ -13823,7 +13879,7 @@
      "marca": "SOUZA",
      "preco": 8.9,
      "img": "produtos/7334.jpg",
-     "saldo": 19
+     "saldo": 17
     },
     {
      "cod": 6179,
@@ -13839,7 +13895,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 165
+     "saldo": 163
     },
     {
      "cod": 7644,
@@ -14630,7 +14686,7 @@
        "cor": "Verde",
        "nome": "PASTA POLIONDA 2CM VERDE",
        "img": "produtos/6191.jpg",
-       "saldo": 24
+       "saldo": 22
       },
       {
        "cod": 2171,
@@ -14647,21 +14703,21 @@
      "marca": "POLIBRAS",
      "preco": 6.9,
      "img": "produtos/2174.jpg",
-     "saldo": 52,
+     "saldo": 51,
      "cores": [
       {
        "cod": 2174,
        "cor": "Amarelo",
        "nome": "PASTA POLIONDA 4CM AMARELO",
        "img": "produtos/2174.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 3868,
        "cor": "Azul",
        "nome": "PASTA POLIONDA 4CM AZUL",
        "img": "produtos/3868.jpg",
-       "saldo": 44
+       "saldo": 43
       },
       {
        "cod": 3869,
@@ -14675,7 +14731,7 @@
        "cor": "Vermelho",
        "nome": "PASTA POLIONDA 4CM VERMELHO",
        "img": "produtos/3870.jpg",
-       "saldo": 24
+       "saldo": 23
       }
      ]
     },
@@ -14801,14 +14857,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 21,
+     "saldo": 18,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 21
+       "saldo": 18
       },
       {
        "cod": 6797,
@@ -21005,7 +21061,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 320
+     "saldo": 305
     },
     {
      "cod": 944,
@@ -21435,7 +21491,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 332
+     "saldo": 331
     },
     {
      "cod": 4617,
@@ -21451,7 +21507,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 404
+     "saldo": 403
     },
     {
      "cod": 177,
@@ -21971,7 +22027,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 97
+     "saldo": 95
     },
     {
      "cod": 3731,
@@ -22083,7 +22139,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 617
+     "saldo": 616
     },
     {
      "cod": 4146,
@@ -22099,7 +22155,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 518
+     "saldo": 519
     },
     {
      "cod": 3887,
@@ -23583,7 +23639,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 541
+     "saldo": 515
     },
     {
      "cod": 1553,
@@ -24349,7 +24405,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 274
+     "saldo": 273
     },
     {
      "cod": 2705,
@@ -24357,7 +24413,7 @@
      "marca": "ROMA P.",
      "preco": 5.9,
      "img": "produtos/2705.jpg",
-     "saldo": 391
+     "saldo": 390
     },
     {
      "cod": 2706,
@@ -24365,7 +24421,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 205
+     "saldo": 201
     },
     {
      "cod": 6862,
@@ -24389,7 +24445,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 220
+     "saldo": 219
     },
     {
      "cod": 3651,
@@ -24541,7 +24597,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 101
+     "saldo": 100
     },
     {
      "cod": 2726,
@@ -24589,7 +24645,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2730.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2728,
@@ -24629,7 +24685,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/3652.jpg",
-     "saldo": 77
+     "saldo": 76
     },
     {
      "cod": 2733,
@@ -24693,7 +24749,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 162
+     "saldo": 160
     },
     {
      "cod": 2766,
@@ -25368,7 +25424,7 @@
      "marca": "",
      "preco": 42.9,
      "img": "produtos/3964.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 2877,
@@ -25582,7 +25638,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 12198
+     "saldo": 12094
     },
     {
      "cod": 11788,
@@ -25796,7 +25852,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 202
+     "saldo": 197
     },
     {
      "cod": 4314,
@@ -26000,7 +26056,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 1273,
@@ -26414,7 +26470,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 53
+     "saldo": 51
     },
     {
      "cod": 6860,
@@ -26818,14 +26874,14 @@
      "marca": "PROGRESSO",
      "preco": 7.9,
      "img": "produtos/9067.jpg",
-     "saldo": 3,
+     "saldo": 1,
      "cores": [
       {
        "cod": 9067,
        "cor": "Amarelo Ouro",
        "nome": "FITA CETIM N3 15MMX10MT-AMARELO OURO",
        "img": "produtos/9067.jpg",
-       "saldo": 3
+       "saldo": 1
       },
       {
        "cod": 9070,
@@ -26927,7 +26983,7 @@
        "cor": "Prata",
        "nome": "FITILHO 50MT PRATA",
        "img": "produtos/1325.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 1326,
@@ -27043,7 +27099,7 @@
        "cor": "Prata",
        "nome": "LAÇO PRONTO (G)-PRATA",
        "img": "produtos/11917.jpg",
-       "saldo": 107
+       "saldo": 103
       }
      ]
     },
@@ -27091,21 +27147,21 @@
        "cor": "Prata",
        "nome": "LAÇO PRONTO (M)-PRATA",
        "img": "produtos/11931.jpg",
-       "saldo": 264
+       "saldo": 234
       },
       {
        "cod": 11932,
        "cor": "Rosa Claro",
        "nome": "LAÇO PRONTO (M)-ROSA CLARO",
        "img": "produtos/11932.jpg",
-       "saldo": 159
+       "saldo": 129
       },
       {
        "cod": 11930,
        "cor": "Vermelho",
        "nome": "LAÇO PRONTO (M)-VERMELHO",
        "img": "produtos/11930.jpg",
-       "saldo": 4
+       "saldo": 3
       }
      ]
     },
@@ -27401,7 +27457,7 @@
      "marca": "GERSELE",
      "preco": 1.5,
      "img": "produtos/9257.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 262,
@@ -27649,7 +27705,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 601
+     "saldo": 545
     },
     {
      "cod": 2777,
@@ -27657,7 +27713,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 358
+     "saldo": 343
     },
     {
      "cod": 2779,
@@ -27879,7 +27935,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 528
+     "saldo": 523
     },
     {
      "cod": 6324,
@@ -28477,7 +28533,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 707
+     "saldo": 705
     },
     {
      "cod": 1786,
@@ -28629,7 +28685,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 356
+     "saldo": 355
     },
     {
      "cod": 7275,
@@ -28691,7 +28747,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 105
+     "saldo": 90
     },
     {
      "cod": 13945,
@@ -29433,7 +29489,7 @@
      "marca": "TIBA",
      "preco": 9.9,
      "img": "produtos/3543.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 9849,
