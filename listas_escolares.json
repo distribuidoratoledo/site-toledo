@@ -6148,6 +6148,3313 @@
    ]
   },
   {
+   "id": "alicemaciel",
+   "nome": "Instituto Alice Maciel",
+   "listas": [
+    {
+     "original": "listas/originais/alicemaciel-maternal1.pdf",
+     "id": "alicemaciel-maternal1",
+     "ano": "Maternal I",
+     "orcamento": 660637,
+     "itens": [
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas para usar como agenda.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor jumbo, caixa com 12",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Giz de cera",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta com alça tamanho A4",
+       "qtd": 1,
+       "cod": 1807,
+       "produto": "MALETA ESCOLAR 4CM-VERMELHA",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "obs": "Maleta escolar 4 cm. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1807.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Massinha de modelar (24 cores)",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "2 caixas de massa Acrilex com 12 cores.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Olhos móveis nº 10, 12, 15 e 16 (3 pares de cada)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT marrom (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3064,
+       "produto": "TNT MARROM",
+       "marca": "SANTA FE",
+       "preco": 1.8,
+       "foto": "listas/fotos/3064.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pote de tinta guache 250 ml marrom",
+       "qtd": 1,
+       "cod": 3024,
+       "produto": "GUACHE 250ML ACRILEX-MARROM",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3024.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas roxo",
+       "qtd": 1,
+       "cod": 5162,
+       "produto": "COLORSETE A4 C/50 VIOLETA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Violeta.",
+       "foto": "listas/fotos/5162.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa azul",
+       "qtd": 1,
+       "cod": 6669,
+       "produto": "EVA LISO-AZUL MARINHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/6669.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa verde",
+       "qtd": 2,
+       "cod": 7675,
+       "produto": "EVA LISO-VERDE ESCURO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/7675.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa vermelho",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa preto",
+       "qtd": 1,
+       "cod": 1238,
+       "produto": "EVA LISO-PRETO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1238.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa amarelo",
+       "qtd": 1,
+       "cod": 1228,
+       "produto": "EVA LISO-AMARELO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/1228.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa cinza",
+       "qtd": 1,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "obs": "Não temos cinza; vai branco.",
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lancheira pequena (sem rodinha)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras a partir de R$ 39,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Copo plástico com tampa ou garrafinha",
+       "qtd": 1,
+       "cod": 14645,
+       "produto": "COPO INFANTIL MATERNAL 220ML",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14645.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Escova de cabelo ou pente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Fralda (tamanho da criança)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Lençol para berço com elástico",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Lenço umedecido",
+       "qtd": 1,
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Mochila pequena (roupas, pomadas, fraldas etc.)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos mochilas de costas reforçadas a partir de R$ 79,90: consulte a vendedora.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pomada para assadura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Sabonete líquido",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de banho",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "1 ano"
+    },
+    {
+     "original": "listas/originais/alicemaciel-maternal2.pdf",
+     "id": "alicemaciel-maternal2",
+     "ano": "Maternal II",
+     "orcamento": 660638,
+     "itens": [
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas para usar como agenda.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor jumbo, caixa com 12",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta com alça tamanho A4",
+       "qtd": 1,
+       "cod": 1807,
+       "produto": "MALETA ESCOLAR 4CM-VERMELHA",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "obs": "Maleta escolar 4 cm. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1807.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Massinha de modelar (24 cores)",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "2 caixas de massa Acrilex com 12 cores.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Olhos móveis nº 10, 12, 15 e 16 (3 pares de cada)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT laranja (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3062,
+       "produto": "TNT LARANJA",
+       "preco": 1.8,
+       "foto": "listas/fotos/3062.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pote de tinta guache 250 ml branco",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas marrom",
+       "qtd": 1,
+       "cod": 2057,
+       "produto": "COLORSETE A4 C/50 MARROM",
+       "marca": "MINASPEL",
+       "preco": 15.9,
+       "foto": "listas/fotos/2057.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa azul",
+       "qtd": 1,
+       "cod": 6669,
+       "produto": "EVA LISO-AZUL MARINHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/6669.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa verde",
+       "qtd": 2,
+       "cod": 7675,
+       "produto": "EVA LISO-VERDE ESCURO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/7675.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa vermelho",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa preto",
+       "qtd": 1,
+       "cod": 1238,
+       "produto": "EVA LISO-PRETO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1238.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa amarelo",
+       "qtd": 1,
+       "cod": 1228,
+       "produto": "EVA LISO-AMARELO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/1228.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa cinza",
+       "qtd": 1,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "obs": "Não temos cinza; vai branco.",
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lancheira pequena (sem rodinha)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras a partir de R$ 39,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Copo plástico com tampa ou garrafinha",
+       "qtd": 1,
+       "cod": 14645,
+       "produto": "COPO INFANTIL MATERNAL 220ML",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14645.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Escova de cabelo ou pente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Fralda (tamanho da criança)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Lençol para berço com elástico",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Lenço umedecido",
+       "qtd": 1,
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Mochila pequena (roupas, pomadas, fraldas etc.)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos mochilas de costas reforçadas a partir de R$ 79,90: consulte a vendedora.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Pomada para assadura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Sabonete líquido",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de banho",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "2 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-maternal3.pdf",
+     "id": "alicemaciel-maternal3",
+     "ano": "Maternal III",
+     "orcamento": 660639,
+     "itens": [
+      {
+       "descricao": "Agenda",
+       "qtd": 1,
+       "cod": 9319,
+       "produto": "CADERNO PEQ. CD 96F (AZUL)",
+       "preco": 7.9,
+       "obs": "Caderno pequeno capa dura 96 folhas para usar como agenda.",
+       "foto": "listas/fotos/9319.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor jumbo, caixa com 12",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor comum, caixa com 12",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 6,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 3,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta com alça tamanho A4",
+       "qtd": 1,
+       "cod": 1807,
+       "produto": "MALETA ESCOLAR 4CM-VERMELHA",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "obs": "Maleta escolar 4 cm. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/1807.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta de arquivo (plástico)",
+       "qtd": 1,
+       "cod": 3592,
+       "produto": "PASTA PP 2CM-CRISTAL",
+       "preco": 5.9,
+       "obs": "Pasta PP 2 cm cristal.",
+       "foto": "listas/fotos/3592.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Massinha de modelar (24 cores)",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "2 caixas de massa Acrilex com 12 cores.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Olhos móveis nº 10, 12, 15 e 16 (3 pares de cada)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT preto (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3065,
+       "produto": "TNT PRETO",
+       "preco": 1.8,
+       "foto": "listas/fotos/3065.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pote de tinta guache 250 ml cinza",
+       "qtd": 1,
+       "cod": 12686,
+       "produto": "GUACHE 250ML ACRILEX-CINZA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/12686.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas marrom",
+       "qtd": 1,
+       "cod": 2057,
+       "produto": "COLORSETE A4 C/50 MARROM",
+       "marca": "MINASPEL",
+       "preco": 15.9,
+       "foto": "listas/fotos/2057.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa azul",
+       "qtd": 1,
+       "cod": 6669,
+       "produto": "EVA LISO-AZUL MARINHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/6669.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa verde",
+       "qtd": 2,
+       "cod": 7675,
+       "produto": "EVA LISO-VERDE ESCURO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/7675.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa vermelho",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa preto",
+       "qtd": 1,
+       "cod": 1238,
+       "produto": "EVA LISO-PRETO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1238.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa amarelo",
+       "qtd": 1,
+       "cod": 1228,
+       "produto": "EVA LISO-AMARELO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/1228.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa cinza",
+       "qtd": 1,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "obs": "Não temos cinza; vai branco.",
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lancheira pequena (sem rodinha)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras a partir de R$ 39,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Copo plástico com tampa ou garrafinha",
+       "qtd": 1,
+       "cod": 14645,
+       "produto": "COPO INFANTIL MATERNAL 220ML",
+       "preco": 4.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14645.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Escova de cabelo ou pente",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Lenço umedecido",
+       "qtd": 1,
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "obs": "Lenço umedecido Joe Baby refil com 75 unidades.",
+       "foto": "listas/fotos/14659.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Mochila pequena (roupas, pomadas, fraldas etc.)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos mochilas de costas reforçadas a partir de R$ 79,90: consulte a vendedora.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Sabonete líquido",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "3 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-periodo1.pdf",
+     "id": "alicemaciel-periodo1",
+     "ano": "1º Período",
+     "orcamento": 660640,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 2,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 6,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 3,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta de arquivo (plástico)",
+       "qtd": 1,
+       "cod": 3592,
+       "produto": "PASTA PP 2CM-CRISTAL",
+       "preco": 5.9,
+       "obs": "Pasta PP 2 cm cristal.",
+       "foto": "listas/fotos/3592.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT azul (2,5 m)",
+       "qtd": 2.5,
+       "cod": 4206,
+       "produto": "TNT AZUL ROYAL",
+       "preco": 1.8,
+       "foto": "listas/fotos/4206.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pote de tinta guache 250 ml preto",
+       "qtd": 1,
+       "cod": 3025,
+       "produto": "GUACHE 250ML ACRILEX-PRETO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3025.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno sem pauta, com margem, capa dura, 80 folhas (capa laranja)",
+       "qtd": 4,
+       "cod": 417,
+       "produto": "CADERNO CD S/P 80F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 10.9,
+       "obs": "Caderno capa dura sem pauta 80 folhas Tilibra azul. Não temos caderno sem pauta na cor laranja.",
+       "foto": "listas/fotos/417.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa laranja)",
+       "qtd": 1,
+       "cod": 12454,
+       "produto": "CADERNO PEQ. CD 48F (LARANJA)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12454.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas verde",
+       "qtd": 1,
+       "cod": 2063,
+       "produto": "COLORSETE A4 C/50 VERDE BANDEIRA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2063.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa branco",
+       "qtd": 2,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa laranja",
+       "qtd": 1,
+       "cod": 1235,
+       "produto": "EVA LISO-LARANJA",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1235.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa rosa",
+       "qtd": 1,
+       "cod": 1239,
+       "produto": "EVA LISO-ROSA CLARO/BEBE",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1239.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa marrom",
+       "qtd": 1,
+       "cod": 1237,
+       "produto": "EVA LISO-MARROM",
+       "preco": 1.5,
+       "foto": "listas/fotos/1237.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa nude",
+       "qtd": 1,
+       "cod": 1232,
+       "produto": "EVA LISO-BEGE",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1232.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa vermelho",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Jogo construtor bloquinhos de madeira",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "obs": "Monte bloquinhos com 32 peças (plástico).",
+       "foto": "listas/fotos/6043.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Quebra-cabeça de 20 a 50 peças em MDF",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros com 30 peças (o mais em conta).",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lancheira pequena (sem rodinha)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras a partir de R$ 39,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Mochila",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos mochilas de costas reforçadas a partir de R$ 79,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha de água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "4 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-periodo2.pdf",
+     "id": "alicemaciel-periodo2",
+     "ano": "2º Período",
+     "orcamento": 660641,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 2,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 6,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta de arquivo (plástico)",
+       "qtd": 1,
+       "cod": 3592,
+       "produto": "PASTA PP 2CM-CRISTAL",
+       "preco": 5.9,
+       "obs": "Pasta PP 2 cm cristal.",
+       "foto": "listas/fotos/3592.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT verde (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3069,
+       "produto": "TNT VERDE BANDEIRA",
+       "marca": "SANTA FE",
+       "preco": 1.8,
+       "foto": "listas/fotos/3069.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pote de tinta guache 250 ml branco",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno com pautas numeradas 1, 2, 3 e X, capa dura, 80 folhas (capa laranja)",
+       "qtd": 2,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas vermelha (não temos laranja).",
+       "foto": "listas/fotos/366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno sem pauta, com margem, capa dura, 80 folhas (capa laranja)",
+       "qtd": 4,
+       "cod": 417,
+       "produto": "CADERNO CD S/P 80F TILIBRA (AZUL)",
+       "marca": "TILIBRA",
+       "preco": 10.9,
+       "obs": "Caderno capa dura sem pauta 80 folhas Tilibra azul. Não temos caderno sem pauta na cor laranja.",
+       "foto": "listas/fotos/417.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa laranja)",
+       "qtd": 1,
+       "cod": 12454,
+       "produto": "CADERNO PEQ. CD 48F (LARANJA)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12454.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas rosa",
+       "qtd": 1,
+       "cod": 2061,
+       "produto": "COLORSETE A4 C/50 ROSA PINK",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2061.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa branco",
+       "qtd": 2,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa laranja",
+       "qtd": 1,
+       "cod": 1235,
+       "produto": "EVA LISO-LARANJA",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1235.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa rosa",
+       "qtd": 1,
+       "cod": 1239,
+       "produto": "EVA LISO-ROSA CLARO/BEBE",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1239.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa marrom",
+       "qtd": 1,
+       "cod": 1237,
+       "produto": "EVA LISO-MARROM",
+       "preco": 1.5,
+       "foto": "listas/fotos/1237.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa nude",
+       "qtd": 1,
+       "cod": 1232,
+       "produto": "EVA LISO-BEGE",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1232.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA lisa vermelho",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Jogo construtor bloquinhos de madeira",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "obs": "Monte bloquinhos com 32 peças (plástico).",
+       "foto": "listas/fotos/6043.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Quebra-cabeça de 30 a 60 peças em MDF",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros com 30 peças (o mais em conta).",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lancheira pequena (sem rodinha)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras a partir de R$ 39,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Mochila",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos mochilas de costas reforçadas a partir de R$ 79,90: consulte a vendedora.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha de água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "Toalha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "5 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-ano1.pdf",
+     "id": "alicemaciel-ano1",
+     "ano": "1º Ano",
+     "orcamento": 660642,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 2,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 6,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Régua 15 cm",
+       "qtd": 1,
+       "cod": 7498,
+       "produto": "REGUA 15CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/7498.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta A4 plástico (fininha)",
+       "qtd": 1,
+       "cod": 6797,
+       "produto": "PASTA PP 1CM-FUME",
+       "marca": "POLIBRAS",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm fumê.",
+       "foto": "listas/fotos/6797.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT branco (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3060,
+       "produto": "TNT BRANCO",
+       "preco": 1.8,
+       "foto": "listas/fotos/3060.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Palito de picolé colorido (50 unidades)",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno com pautas numeradas 1, 2, 3 e X, capa dura, 80 folhas (capa laranja)",
+       "qtd": 6,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas vermelha (não temos laranja).",
+       "foto": "listas/fotos/366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa laranja)",
+       "qtd": 1,
+       "cod": 12454,
+       "produto": "CADERNO PEQ. CD 48F (LARANJA)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12454.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha 40 kg (120 g, branca)",
+       "qtd": 1,
+       "cod": 5986,
+       "produto": "PAPEL 40KG A4 C/50-BRANCO CHAMEQUINHO",
+       "preco": 16.9,
+       "obs": "Papel 40 kg A4 Chamequinho, pacote com 50 folhas.",
+       "foto": "listas/fotos/5986.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas azul",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter azul",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "foto": "listas/fotos/4829.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter rosa",
+       "qtd": 1,
+       "cod": 1223,
+       "produto": "EVA GLITER-ROSA PINK",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter vermelho",
+       "qtd": 2,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter preto",
+       "qtd": 1,
+       "cod": 1222,
+       "produto": "EVA GLITER-PRETO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1222.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter laranja",
+       "qtd": 1,
+       "cod": 9160,
+       "produto": "EVA GLITER-LARANJA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/9160.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter verde",
+       "qtd": 1,
+       "cod": 5366,
+       "produto": "EVA GLITER-VERDE CLARO",
+       "marca": "LEO/DUBFL",
+       "preco": 3.9,
+       "foto": "listas/fotos/5366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha plástica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "6 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-ano2.pdf",
+     "id": "alicemaciel-ano2",
+     "ano": "2º Ano",
+     "orcamento": 660643,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 2,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 6,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Régua 15 cm",
+       "qtd": 1,
+       "cod": 7498,
+       "produto": "REGUA 15CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/7498.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta A4 plástico (fininha)",
+       "qtd": 1,
+       "cod": 6797,
+       "produto": "PASTA PP 1CM-FUME",
+       "marca": "POLIBRAS",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm fumê.",
+       "foto": "listas/fotos/6797.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT amarelo (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3057,
+       "produto": "TNT AMARELO",
+       "preco": 1.8,
+       "foto": "listas/fotos/3057.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno com pautas numeradas 1, 2, 3 e X, capa dura, 80 folhas (capa vermelho)",
+       "qtd": 8,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas vermelha.",
+       "foto": "listas/fotos/366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa vermelho)",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12449.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha 40 kg (120 g, branca)",
+       "qtd": 1,
+       "cod": 5986,
+       "produto": "PAPEL 40KG A4 C/50-BRANCO CHAMEQUINHO",
+       "preco": 16.9,
+       "obs": "Papel 40 kg A4 Chamequinho, pacote com 50 folhas.",
+       "foto": "listas/fotos/5986.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas laranja",
+       "qtd": 1,
+       "cod": 2055,
+       "produto": "COLORSETE A4 C/50 LARANJA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2055.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter azul",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "foto": "listas/fotos/4829.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter rosa",
+       "qtd": 1,
+       "cod": 1223,
+       "produto": "EVA GLITER-ROSA PINK",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter vermelho",
+       "qtd": 2,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter preto",
+       "qtd": 1,
+       "cod": 1222,
+       "produto": "EVA GLITER-PRETO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1222.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter laranja",
+       "qtd": 1,
+       "cod": 9160,
+       "produto": "EVA GLITER-LARANJA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/9160.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter verde",
+       "qtd": 1,
+       "cod": 5366,
+       "produto": "EVA GLITER-VERDE CLARO",
+       "marca": "LEO/DUBFL",
+       "preco": 3.9,
+       "foto": "listas/fotos/5366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Portuguesa (Silveira Bueno FTD)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha plástica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "7 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-ano3.pdf",
+     "id": "alicemaciel-ano3",
+     "ano": "3º Ano",
+     "orcamento": 660644,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 2,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 6,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Régua 15 cm",
+       "qtd": 1,
+       "cod": 7498,
+       "produto": "REGUA 15CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/7498.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta A4 plástico (fininha)",
+       "qtd": 1,
+       "cod": 6797,
+       "produto": "PASTA PP 1CM-FUME",
+       "marca": "POLIBRAS",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm fumê.",
+       "foto": "listas/fotos/6797.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT vermelho (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3071,
+       "produto": "TNT VERMELHO",
+       "marca": "SANTA FE",
+       "preco": 1.8,
+       "foto": "listas/fotos/3071.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno com pautas numeradas 1, 2, 3 e X, capa dura, 80 folhas (capa amarelo)",
+       "qtd": 9,
+       "cod": 366,
+       "produto": "CADERNO ALIBOM. CD 80F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 15.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Capa dura 80 folhas vermelha (não temos amarelo).",
+       "foto": "listas/fotos/366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa amarelo)",
+       "qtd": 1,
+       "cod": 12447,
+       "produto": "CADERNO PEQ. CD 48F (AMARELO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12447.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha 40 kg (120 g, branca)",
+       "qtd": 1,
+       "cod": 5986,
+       "produto": "PAPEL 40KG A4 C/50-BRANCO CHAMEQUINHO",
+       "preco": 16.9,
+       "obs": "Papel 40 kg A4 Chamequinho, pacote com 50 folhas.",
+       "foto": "listas/fotos/5986.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas verde",
+       "qtd": 1,
+       "cod": 2063,
+       "produto": "COLORSETE A4 C/50 VERDE BANDEIRA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2063.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter azul",
+       "qtd": 1,
+       "cod": 4829,
+       "produto": "EVA GLITER-AZUL CLARO",
+       "marca": "LEOARTE",
+       "preco": 3.9,
+       "foto": "listas/fotos/4829.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter rosa",
+       "qtd": 1,
+       "cod": 1223,
+       "produto": "EVA GLITER-ROSA PINK",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter vermelho",
+       "qtd": 2,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter preto",
+       "qtd": 1,
+       "cod": 1222,
+       "produto": "EVA GLITER-PRETO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1222.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter laranja",
+       "qtd": 1,
+       "cod": 9160,
+       "produto": "EVA GLITER-LARANJA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/9160.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter verde",
+       "qtd": 1,
+       "cod": 5366,
+       "produto": "EVA GLITER-VERDE CLARO",
+       "marca": "LEO/DUBFL",
+       "preco": 3.9,
+       "foto": "listas/fotos/5366.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Portuguesa (Silveira Bueno FTD)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha plástica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "8 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-ano4.pdf",
+     "id": "alicemaciel-ano4",
+     "ano": "4º Ano",
+     "orcamento": 660645,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 1,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 5,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Canetinha hidrográfica colorida 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA PLUS C/12-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Transferidor",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT rosa (2,5 m)",
+       "qtd": 2.5,
+       "cod": 6999,
+       "produto": "TNT ROSA CLARO/BEBE",
+       "marca": "SANTA FE",
+       "preco": 1.8,
+       "foto": "listas/fotos/6999.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa azul)",
+       "qtd": 1,
+       "cod": 12450,
+       "produto": "CADERNO PEQ. CD 48F (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12450.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (projeto de leitura, capa azul)",
+       "qtd": 1,
+       "cod": 12450,
+       "produto": "CADERNO PEQ. CD 48F (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12450.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno brochurão pautado, capa dura, 96 folhas (capa azul)",
+       "qtd": 8,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas azul.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Inglesa (escolar)",
+       "qtd": 1,
+       "cod": 1000,
+       "produto": "DICIONARIO INGLES-DCL",
+       "marca": "DCL",
+       "preco": 14.9,
+       "foto": "listas/fotos/1000.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Portuguesa (Silveira Bueno FTD)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter amarelo",
+       "qtd": 1,
+       "cod": 8929,
+       "produto": "EVA GLITER-AMARELO",
+       "marca": "MAKE+",
+       "preco": 3.9,
+       "foto": "listas/fotos/8929.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter branco",
+       "qtd": 2,
+       "cod": 1217,
+       "produto": "EVA GLITER-BRANCO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1217.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter dourado",
+       "qtd": 1,
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
+       "preco": 3.9,
+       "foto": "listas/fotos/1220.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter prata",
+       "qtd": 1,
+       "cod": 1221,
+       "produto": "EVA GLITER-PRATA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1221.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter vermelho",
+       "qtd": 1,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter marrom",
+       "qtd": 1,
+       "cod": 1219,
+       "produto": "EVA GLITER-MARROM",
+       "marca": "DUBFLEX",
+       "preco": 3.9,
+       "foto": "listas/fotos/1219.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha 40 kg (120 g, branca)",
+       "qtd": 1,
+       "cod": 5986,
+       "produto": "PAPEL 40KG A4 C/50-BRANCO CHAMEQUINHO",
+       "preco": 16.9,
+       "obs": "Papel 40 kg A4 Chamequinho, pacote com 50 folhas.",
+       "foto": "listas/fotos/5986.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas amarelo",
+       "qtd": 1,
+       "cod": 2051,
+       "produto": "COLORSETE A4 C/50 AMARELO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2051.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha plástica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "9 anos"
+    },
+    {
+     "original": "listas/originais/alicemaciel-ano5.pdf",
+     "id": "alicemaciel-ano5",
+     "ano": "5º Ano",
+     "orcamento": 660646,
+     "itens": [
+      {
+       "descricao": "Apontador com depósito",
+       "qtd": 2,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bolsinha de lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 fecho. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de cor com 24 cores",
+       "qtd": 1,
+       "cod": 1652,
+       "produto": "LAPIS 24CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 21.9,
+       "foto": "listas/fotos/1652.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever",
+       "qtd": 5,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caneta esferográfica azul (2º semestre)",
+       "qtd": 2,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caneta esferográfica vermelha (2º semestre)",
+       "qtd": 2,
+       "cod": 554,
+       "produto": "CANETA BIC CRISTAL-VERMELHA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/554.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Borracha branca macia (grande)",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Compasso",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Transferidor",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca (90 ml)",
+       "qtd": 2,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura sem ponta (com o nome do aluno gravado)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint. Gravar o nome do aluno fica com a família.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pasta preta com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Chita (3 m)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Não faz parte do nosso mix.",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "TNT branco (2,5 m)",
+       "qtd": 2.5,
+       "cod": 3060,
+       "produto": "TNT BRANCO",
+       "preco": 1.8,
+       "foto": "listas/fotos/3060.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno pequeno capa dura 48 folhas (agenda, capa verde)",
+       "qtd": 1,
+       "cod": 12448,
+       "produto": "CADERNO PEQ. CD 48F (VERDE)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "foto": "listas/fotos/12448.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno brochurão pautado, capa dura, 96 folhas (capa verde)",
+       "qtd": 8,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas com pauta.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Inglesa (escolar)",
+       "qtd": 1,
+       "cod": 1000,
+       "produto": "DICIONARIO INGLES-DCL",
+       "marca": "DCL",
+       "preco": 14.9,
+       "foto": "listas/fotos/1000.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Portuguesa (Silveira Bueno FTD)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter amarelo",
+       "qtd": 1,
+       "cod": 8929,
+       "produto": "EVA GLITER-AMARELO",
+       "marca": "MAKE+",
+       "preco": 3.9,
+       "foto": "listas/fotos/8929.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter branco",
+       "qtd": 2,
+       "cod": 1217,
+       "produto": "EVA GLITER-BRANCO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1217.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter dourado",
+       "qtd": 1,
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
+       "preco": 3.9,
+       "foto": "listas/fotos/1220.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter prata",
+       "qtd": 1,
+       "cod": 1221,
+       "produto": "EVA GLITER-PRATA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1221.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter vermelho",
+       "qtd": 1,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha de EVA com glitter marrom",
+       "qtd": 1,
+       "cod": 1219,
+       "produto": "EVA GLITER-MARROM",
+       "marca": "DUBFLEX",
+       "preco": 3.9,
+       "foto": "listas/fotos/1219.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha 40 kg (120 g, branca)",
+       "qtd": 1,
+       "cod": 5986,
+       "produto": "PAPEL 40KG A4 C/50-BRANCO CHAMEQUINHO",
+       "preco": 16.9,
+       "obs": "Papel 40 kg A4 Chamequinho, pacote com 50 folhas.",
+       "foto": "listas/fotos/5986.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Pacote de folha colorsete com 50 folhas vermelho",
+       "qtd": 1,
+       "cod": 2065,
+       "produto": "COLORSETE A4 C/50 VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "foto": "listas/fotos/2065.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folha A4 branca (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Garrafinha plástica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de higiene pessoal / diariamente na mochila",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "10 anos"
+    },
+    {
+     "rotulo_total": "Total da lista (6º ao 8º ano)",
+     "original": "listas/originais/alicemaciel-ano6a9.pdf",
+     "id": "alicemaciel-ano6a9",
+     "ano": "6º ao 9º Ano",
+     "orcamento": 660647,
+     "itens": [
+      {
+       "descricao": "Apontador",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Bloco de papel quadriculado (só 9º ano)",
+       "qtd": 1,
+       "cod": 214,
+       "produto": "BLOCO QUADRICULADO A4 C/40F",
+       "marca": "AGAPE",
+       "preco": 9.9,
+       "obs": "Bloco quadriculado A4 com 40 folhas.",
+       "foto": "listas/fotos/214.jpg",
+       "grupo": "Materiais",
+       "parte": "Só 9º ano"
+      },
+      {
+       "descricao": "Borracha branca",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caderno universitário ou fichário (9 divisórias)",
+       "qtd": 2,
+       "cod": 10933,
+       "produto": "CADERNO 10X1 160F-PERFORMANCE",
+       "marca": "CREDEAL",
+       "preco": 16.9,
+       "obs": "Caderno 10 matérias 160 folhas.",
+       "foto": "listas/fotos/10933.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caixa de lápis de cor (12 cores)",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caneta esferográfica azul",
+       "qtd": 2,
+       "cod": 552,
+       "produto": "CANETA BIC CRISTAL-AZUL",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/552.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caneta esferográfica preta",
+       "qtd": 2,
+       "cod": 553,
+       "produto": "CANETA BIC CRISTAL-PRETA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/553.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Caneta esferográfica vermelha",
+       "qtd": 2,
+       "cod": 554,
+       "produto": "CANETA BIC CRISTAL-VERMELHA",
+       "marca": "BIC",
+       "preco": 1.3,
+       "foto": "listas/fotos/554.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Cola branca",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "obs": "Cola branca líquida 90 g.",
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Compasso",
+       "qtd": 1,
+       "cod": 4725,
+       "produto": "COMPASSO LEO E LEO METALICO",
+       "marca": "LEO E LEO",
+       "preco": 10.9,
+       "foto": "listas/fotos/4725.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Destaca-texto",
+       "qtd": 2,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Dicionário de Língua Portuguesa (Silveira Bueno FTD)",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Esquadro de 45° (jogo de esquadros)",
+       "qtd": 1,
+       "cod": 1136,
+       "produto": "ESQUADRO 21X45-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1136.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Esquadro de 60° (jogo de esquadros)",
+       "qtd": 1,
+       "cod": 1137,
+       "produto": "ESQUADRO 21X60-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/1137.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Folhas A4 brancas (pacote com 500 folhas)",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis de escrever ou lapiseira (0,5 ou 0,7 mm)",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis para desenho nº 3B",
+       "qtd": 1,
+       "cod": 5405,
+       "produto": "LAPIS FABER 3B (DESENHO)",
+       "marca": "FABER",
+       "preco": 4.9,
+       "foto": "listas/fotos/5405.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Lápis para desenho nº 6B",
+       "qtd": 1,
+       "cod": 1676,
+       "produto": "LAPIS FABER 6B (DESENHO)",
+       "marca": "FABER",
+       "preco": 4.9,
+       "foto": "listas/fotos/1676.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Régua",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "obs": "Régua 30 cm.",
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Tesoura (pequena, ponta arredondada)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "obs": "Tesoura Masterprint.",
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "Transferidor",
+       "qtd": 1,
+       "cod": 3087,
+       "produto": "TRANSFERIDOR 180º-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 2.9,
+       "foto": "listas/fotos/3087.jpg",
+       "grupo": "Materiais"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os materiais devem ser identificados com o nome do(a) aluno(a).",
+      "Os materiais indicados como “entregar na escola” serão conferidos com o responsável.",
+      "Material didático: Sistema Piaget de Ensino, vendido pela escola a partir de fevereiro de 2027.",
+      "Livro literário: a professora solicitará durante o ano letivo.",
+      "Reunião de pais: 2/2/2027 (terça-feira). Início das aulas: 3/2/2027 (quarta-feira)."
+     ],
+     "idade": "11 a 14 anos"
+    }
+   ]
+  },
+  {
    "id": "peterpan",
    "nome": "Instituto Educacional Peter Pan",
    "listas": [
@@ -11751,5 +15058,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 17:21"
+ "atualizado": "10/11/2026 17:26"
 }
