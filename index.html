@@ -1062,6 +1062,8 @@
   <!-- ===== Rodapé ===== -->
   <footer>
     <p>&copy; <span id="ano">2026</span> Toledo Distribuidora de Papéis. Todos os direitos reservados.</p>
+    <!-- Area da equipe (10/11/2026): abre as Regras, que pedem senha; depois da senha o aparelho mostra "Regras" no menu -->
+    <p style="margin-top:.4rem;font-size:.75rem"><a href="#regras" id="rodape-equipe" style="color:inherit;opacity:.6">Área da equipe</a></p>
   </footer>
 
   <!-- Catalogo de produtos (gerado do Sankhya) -->
@@ -2416,11 +2418,12 @@
     (function () {
       var ver = (typeof EQUIPE !== 'undefined' && EQUIPE) || (typeof PREVIA_LOCAL !== 'undefined' && PREVIA_LOCAL);
       var a = document.getElementById('nav-regras'), f = document.getElementById('regras-fundo'), q = document.getElementById('regras-quadro');
-      if (!ver || !a) return;
-      a.hidden = false;
+      if (!a) return;
+      if (ver) a.hidden = false;
       var abrir = function (ev) { if (ev) ev.preventDefault(); if (!q.src) q.src = 'regras.html'; f.hidden = false; };
       var fechar = function () { f.hidden = true; if (location.hash === '#regras') history.replaceState(null, '', location.pathname + location.search); };
       a.addEventListener('click', abrir);
+      var rod = document.getElementById('rodape-equipe'); if (rod) rod.addEventListener('click', abrir);
       document.getElementById('regras-fechar').addEventListener('click', fechar);
       f.addEventListener('click', function (ev) { if (ev.target === f) fechar(); });
       document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !f.hidden) fechar(); });
