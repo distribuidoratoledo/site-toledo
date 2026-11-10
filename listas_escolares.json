@@ -1852,7 +1852,8 @@
       "Todo o material deverá estar etiquetado com o nome do aluno.",
       "Fraldas e lenços umedecidos deverão ser enviados com identificação. Para os alunos que utilizam fraldas, manter a quantidade necessária para as trocas feitas na escola.",
       "Itens com * precisam de reposição durante o ano."
-     ]
+     ],
+     "idade": "2 anos"
     },
     {
      "original": "listas/originais/presbiteriano-maternal3.pdf",
@@ -2198,7 +2199,8 @@
      "observacoes": [
       "Todo o material deverá estar etiquetado com o nome do aluno.",
       "Itens com * precisam de reposição durante o ano."
-     ]
+     ],
+     "idade": "3 anos"
     },
     {
      "original": "listas/originais/presbiteriano-periodo1.pdf",
@@ -11731,5 +11733,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 16:24"
+ "atualizado": "10/11/2026 16:25"
 }
