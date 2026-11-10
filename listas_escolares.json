@@ -277,11 +277,12 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular Faber-Castell",
        "qtd": 1,
-       "cod": 5227,
-       "produto": "LAPIS 12CORES-FABER+1 APONTADOR (JUMBO)",
-       "marca": "FABER",
-       "preco": 49.9,
-       "foto": "listas/fotos/5227.jpg"
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg"
       },
       {
        "descricao": "1 lápis preto de escrever jumbo triangular",
@@ -363,11 +364,12 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular (1º semestre)",
        "qtd": 1,
-       "cod": 5227,
-       "produto": "LAPIS 12CORES-FABER+1 APONTADOR (JUMBO)",
-       "marca": "FABER",
-       "preco": 49.9,
-       "foto": "listas/fotos/5227.jpg"
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg"
       },
       {
        "descricao": "1 lápis preto jumbo triangular",
@@ -11745,5 +11747,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 16:46"
+ "atualizado": "10/11/2026 16:50"
 }
