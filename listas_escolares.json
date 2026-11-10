@@ -4360,7 +4360,7 @@
        "cod": 11515,
        "produto": "PAPEL MACHE 100G",
        "marca": "ACRILEX",
-       "preco": 29.9,
+       "preco": 24.9,
        "obs": "Pacote com 100 g.",
        "foto": "listas/fotos/11515.jpg"
       },
@@ -4815,7 +4815,7 @@
        "cod": 11515,
        "produto": "PAPEL MACHE 100G",
        "marca": "ACRILEX",
-       "preco": 29.9,
+       "preco": 24.9,
        "obs": "Pacote com 100 g.",
        "foto": "listas/fotos/11515.jpg"
       },
@@ -6141,5 +6141,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 14:18"
+ "atualizado": "10/11/2026 14:39"
 }
