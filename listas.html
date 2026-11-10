@@ -327,6 +327,26 @@
     .aviso-montagem { display: none; }
     .dentro body > header, .dentro .faixa-contato, .dentro body > footer, .dentro .zap-fixo, .dentro .toledo { display: none !important; }
     .dentro main { padding-bottom: 0.4rem; }   /* card da tela principal mais junto dos produtos (10/11/2026) */
+    /* CABECALHO DO CARD EM TODA A LARGURA (10/11/2026: "usando toda a extensao lateral da tela para ganharmos espaco...
+       mas nao quero que deixe a faixa estreita"): titulo a esquerda, frase e botoes a direita */
+    .dentro .hero { padding: 2rem 2.5rem 4.8rem; }
+    .dentro .hero .dentro { max-width: 1500px; }
+    .dentro .hero .dentro > div { display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: 3rem; align-items: center; text-align: left; }
+    .dentro .hero .grande { grid-row: 1 / span 2; font-size: clamp(2.2rem, 4.6vw, 3.9rem); }
+    .dentro .hero .grande::after { margin: 0.8rem 0 0; }
+    .dentro .hero h1.frase { margin: 0 0 0.2rem; }
+    .dentro .hero .cta { justify-content: flex-start; margin-top: 0.8rem; }
+    .dentro .vantagens-topo, .dentro main { max-width: 1500px; }
+    .dentro .vantagens-topo { padding: 0 2.5rem; }
+    .dentro main { padding-left: 2.5rem; padding-right: 2.5rem; }
+    @media (max-width: 860px) {
+      .dentro .hero { padding: 1.6rem 1rem 4.6rem; }
+      .dentro .hero .dentro > div { grid-template-columns: 1fr; text-align: center; }
+      .dentro .hero .grande { grid-row: auto; }
+      .dentro .hero .grande::after { margin: 0.8rem auto 0; }
+      .dentro .hero .cta { justify-content: center; }
+      .dentro .vantagens-topo, .dentro main { padding-left: 1rem; padding-right: 1rem; }
+    }
     /* RUPTURA DENTRO DO SITE (05/11/2026: "quero que deixe o card ruptura aqui dentro do site ate finalizarmos o processo,
        depois transferimos"). So' aparece no modo previa; os dados vem de listas/ruptura.json (copia do banco da aba Ruptura). */
     .rup { display: none; }
