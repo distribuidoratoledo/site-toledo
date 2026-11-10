@@ -4077,7 +4077,8 @@
        "qtd": 1,
        "cod": 14644,
        "produto": "BRINQUEDO PEDAG. BOLA INFANTIL",
-       "preco": 9.9
+       "preco": 9.9,
+       "foto": "listas/fotos/14644.jpg"
       },
       {
        "descricao": "1 pacote pequeno de algodão",
@@ -6166,5 +6167,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 14:53"
+ "atualizado": "10/11/2026 14:59"
 }
