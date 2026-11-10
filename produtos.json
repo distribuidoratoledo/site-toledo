@@ -63,7 +63,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC BOLD 1.6-PRETA",
        "img": "produtos/550.jpg",
-       "saldo": 38
+       "saldo": 39
       },
       {
        "cod": 551,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 827,
+     "saldo": 829,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 827
+       "saldo": 829
       },
       {
        "cod": 556,
@@ -164,7 +164,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC FINE PLUS-VERMELHA",
        "img": "produtos/557.jpg",
-       "saldo": 393
+       "saldo": 395
       }
      ]
     },
@@ -1680,7 +1680,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/7699.jpg",
-     "saldo": 158
+     "saldo": 159
     },
     {
      "cod": 1642,
@@ -1960,7 +1960,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
-     "saldo": 33,
+     "saldo": 35,
      "controle": [
       "AZUL",
       "PRETO",
@@ -1968,7 +1968,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "PRETO": 10,
+      "PRETO": 12,
       "ROSA": 11
      }
     },
@@ -2385,7 +2385,7 @@
      "marca": "LEO E LEO",
      "preco": 1.5,
      "img": "produtos/6355.jpg",
-     "saldo": 123
+     "saldo": 121
     },
     {
      "cod": 13310,
@@ -2722,7 +2722,7 @@
      "marca": "FABER",
      "preco": 49.9,
      "img": "produtos/4759.jpg",
-     "saldo": 8
+     "saldo": 9
     },
     {
      "cod": 5279,
@@ -3631,7 +3631,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
-     "saldo": 47,
+     "saldo": 48,
      "controle": [
       "AZUL",
       "LILAS",
@@ -3640,7 +3640,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "LILAS": 11,
+      "LILAS": 12,
       "ROSA": 12,
       "VERDE-ÁGUA": 12
      }
@@ -4033,7 +4033,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13077.jpg",
-     "saldo": 169
+     "saldo": 168
     },
     {
      "cod": 14522,
@@ -4134,7 +4134,7 @@
        "cor": "Roxo",
        "nome": "BORRACHA TRIS C/CP HOLIC FOGLIA DELICATA ROXO",
        "img": "produtos/12700.jpg",
-       "saldo": 2
+       "saldo": 3
       },
       {
        "cod": 12698,
@@ -4171,7 +4171,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14589.jpg",
-     "saldo": 71,
+     "saldo": 72,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -4179,7 +4179,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 24,
-      "AZUL": 23,
+      "AZUL": 24,
       "VERMELHO": 24
      }
     },
@@ -4207,7 +4207,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14563.jpg",
-     "saldo": 47,
+     "saldo": 48,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -4215,7 +4215,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 16,
-      "AZUL": 15,
+      "AZUL": 16,
       "VERMELHO": 16
      }
     },
@@ -4628,7 +4628,7 @@
      "marca": "PANAMERICA",
      "preco": 4.5,
      "img": "produtos/319.jpg",
-     "saldo": 44
+     "saldo": 46
     },
     {
      "cod": 13535,
@@ -6054,6 +6054,14 @@
      "saldo": 4
     },
     {
+     "cod": 9324,
+     "nome": "CADERNO 1X1 96F-HAPPY ADVENTURE MASCULINO",
+     "marca": "CREDEAL",
+     "preco": 9.9,
+     "img": "produtos/9324.jpg",
+     "saldo": 2
+    },
+    {
      "cod": 5896,
      "nome": "CADERNO 1X1 96F-KBOM FEMININO",
      "marca": "S.DOMINGOS",
@@ -6314,7 +6322,7 @@
      "marca": "JANDAIA",
      "preco": 6.9,
      "img": "produtos/370.jpg",
-     "saldo": 66
+     "saldo": 65
     },
     {
      "cod": 9313,
@@ -6431,7 +6439,7 @@
        "cor": "Azul",
        "nome": "CADERNO CD 80F TILIBRA (AZUL)",
        "img": "produtos/9990.jpg",
-       "saldo": 6
+       "saldo": 7
       },
       {
        "cod": 9988,
@@ -6870,7 +6878,7 @@
        "cor": "Azul",
        "nome": "CADERNO CD 96F TILIBRA (AZUL)",
        "img": "produtos/398.jpg",
-       "saldo": 38
+       "saldo": 39
       },
       {
        "cod": 399,
@@ -7949,7 +7957,7 @@
      "marca": "JOCAR",
      "preco": 1.9,
      "img": "produtos/7554.jpg",
-     "saldo": 36
+     "saldo": 34
     },
     {
      "cod": 12223,
@@ -7965,7 +7973,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/12234.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 2575,
@@ -7973,7 +7981,7 @@
      "marca": "JOCAR/CIS",
      "preco": 4.9,
      "img": "produtos/2575.jpg",
-     "saldo": 25
+     "saldo": 23
     }
    ]
   },
@@ -8027,7 +8035,7 @@
      "marca": "DOTAD",
      "preco": 12.9,
      "img": "produtos/14284.jpg",
-     "saldo": 42
+     "saldo": 43
     },
     {
      "cod": 9567,
@@ -8735,7 +8743,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/1028.jpg",
-     "saldo": 2900
+     "saldo": 2901
     },
     {
      "cod": 1029,
@@ -8767,7 +8775,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 761
+     "saldo": 759
     },
     {
      "cod": 1021,
@@ -8993,7 +9001,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1506
+     "saldo": 1507
     },
     {
      "cod": 4389,
@@ -9850,7 +9858,7 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/10248.jpg",
-     "saldo": 107
+     "saldo": 108
     },
     {
      "cod": 1536,
@@ -9898,7 +9906,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 3479,
@@ -11093,7 +11101,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 760
+     "saldo": 759
     },
     {
      "cod": 2007,
@@ -16148,7 +16156,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3057.jpg",
-     "saldo": 391
+     "saldo": 397
     },
     {
      "cod": 3058,
@@ -18808,7 +18816,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/6618.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 2478,
@@ -20927,7 +20935,7 @@
     },
     {
      "cod": 14571,
-     "nome": "CARIMBO ESCOLAR TRIS-PEDAGÓGICO VERDE-ÁGUA",
+     "nome": "CARIMBO ESCOLAR TRIS-PEDAGÓGICO CORES",
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
@@ -21125,7 +21133,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 261
+     "saldo": 251
     },
     {
      "cod": 938,
@@ -21149,7 +21157,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 326
+     "saldo": 322
     },
     {
      "cod": 944,
@@ -21189,7 +21197,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 118
+     "saldo": 98
     },
     {
      "cod": 949,
@@ -21891,7 +21899,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/452.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 7359,
@@ -22227,7 +22235,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 619
+     "saldo": 617
     },
     {
      "cod": 4146,
@@ -22243,7 +22251,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 520
+     "saldo": 518
     },
     {
      "cod": 3887,
@@ -22385,7 +22393,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 740
+     "saldo": 739
     },
     {
      "cod": 880,
@@ -22727,7 +22735,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 21
+     "saldo": 19
     },
     {
      "cod": 11690,
@@ -23711,7 +23719,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 377
+     "saldo": 373
     },
     {
      "cod": 3951,
@@ -24765,7 +24773,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 163
+     "saldo": 162
     },
     {
      "cod": 3652,
@@ -24805,7 +24813,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 13863,
@@ -24813,7 +24821,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/13863.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 2737,
@@ -24949,7 +24957,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 4948,
@@ -25187,7 +25195,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2826,
@@ -25235,7 +25243,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 465
+     "saldo": 455
     },
     {
      "cod": 2840,
@@ -25528,7 +25536,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 13
+     "saldo": 11
     }
    ]
   },
@@ -25646,7 +25654,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 142
+     "saldo": 144
     },
     {
      "cod": 13853,
@@ -25655,14 +25663,6 @@
      "preco": 16.9,
      "img": "produtos/13853.jpg",
      "saldo": 17
-    },
-    {
-     "cod": 9885,
-     "nome": "BOBINA PICOT. 25X35 C/500-ROLOSAK",
-     "marca": "ROLOSAK",
-     "preco": 22.9,
-     "img": "produtos/9885.jpg",
-     "saldo": 1
     },
     {
      "cod": 252,
@@ -25726,7 +25726,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 159
+     "saldo": 151
     },
     {
      "cod": 4427,
@@ -25734,7 +25734,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 123
+     "saldo": 120
     },
     {
      "cod": 6857,
@@ -26034,7 +26034,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1605
+     "saldo": 1493
     },
     {
      "cod": 6646,
@@ -28930,7 +28930,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 249
+     "saldo": 248
     },
     {
      "cod": 2153,
@@ -28946,7 +28946,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 533
+     "saldo": 529
     },
     {
      "cod": 2157,
@@ -29756,7 +29756,7 @@
        "cor": "Lilas / Rosa",
        "nome": "APONTADOR CIS C/D SPIRO 2F-LILAS/ROSA",
        "img": "produtos/8158.jpg",
-       "saldo": 4
+       "saldo": 5
       },
       {
        "cod": 8159,
@@ -30361,7 +30361,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14551.jpg",
-     "saldo": 71,
+     "saldo": 72,
      "controle": [
       "AZUL",
       "ROSA",
@@ -30370,7 +30370,7 @@
      ],
      "saldo_cor": {
       "AZUL": 18,
-      "ROSA": 17,
+      "ROSA": 18,
       "ROXO": 18,
       "VERMELHO": 18
      }
@@ -30381,7 +30381,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
-     "saldo": 84,
+     "saldo": 86,
      "controle": [
       "AZUL",
       "LILAS",
@@ -30392,7 +30392,7 @@
       "AZUL": 23,
       "LILAS": 13,
       "ROSA": 16,
-      "VERDE": 32
+      "VERDE": 34
      }
     },
     {
@@ -30545,7 +30545,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14607.jpg",
-     "saldo": 36,
+     "saldo": 35,
      "controle": [
       "AZUL",
       "LARANJA",
@@ -30553,7 +30553,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 9,
+      "AZUL": 8,
       "LARANJA": 9,
       "ROSA": 9,
       "ROXO": 9
@@ -30725,14 +30725,14 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/14610.jpg",
-     "saldo": 23,
+     "saldo": 24,
      "controle": [
       "MARROM",
       "ROSA"
      ],
      "saldo_cor": {
       "MARROM": 12,
-      "ROSA": 11
+      "ROSA": 12
      }
     },
     {
