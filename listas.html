@@ -189,6 +189,8 @@
                     border-right: 1px solid #2c4470; border-bottom: 3px solid var(--vermelho); white-space: nowrap; }
     .tab-itens td { padding: 0.55rem 0.65rem; border-bottom: 1px solid #e3e8ef; border-right: 1px solid #e3e8ef; vertical-align: middle; }
     .tab-itens th:last-child, .tab-itens td:last-child { border-right: 0; }
+    .tab-itens tr.grupo td { background: #dfe7f3; color: var(--azul); font-weight: 800; font-size: 0.95rem;
+      border-left: 5px solid var(--azul); padding: 0.5rem 0.8rem; }
     .tab-itens tbody tr:nth-child(even) td { background: #fafbfd; }
     .tab-itens .c-n { text-align: center; width: 36px; color: var(--suave); font-variant-numeric: tabular-nums; }
     .tab-itens .c-foto { width: 74px; text-align: center; }
@@ -711,8 +713,12 @@
       if (!a.lista) return;
       atual = a;
       registrar(a.escola, a.lista);
-      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, html = '', n = 0, partes = {};
+      var L = a.lista, total = 0, opcionais = 0, faltaPreco = false, html = '', n = 0, partes = {}, gAnt = null;
       (L.itens || []).forEach(function (it) {
+        /* GRUPOS DA LISTA ORIGINAL (10/11/2026: "esta' deixando as listas no mesmo layout das listas originais? separando
+           os itens como material uso individual"): faixa com o nome do grupo antes dos itens dele */
+        if (it.grupo && it.grupo !== gAnt) html += '<tr class="grupo"><td colspan="8">' + esc(it.grupo) + '</td></tr>';
+        gAnt = it.grupo || gAnt;
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
         if (p == null) { if (it.status !== 'nao_temos') faltaPreco = true; }
         else if (it.parte) partes[it.parte] = (partes[it.parte] || 0) + q * p;
@@ -901,8 +907,18 @@
       // 3) Tabela: # · Foto · Cód. · Item da lista / produto · Marca · Qtd · Valor unit. · Total
       var W = { n: 7, foto: 17, cod: 14, marca: 22, qtd: 10, vu: 20, tot: 21 };
       W.item = LW - W.n - W.foto - W.cod - W.marca - W.qtd - W.vu - W.tot;
-      var PAD = 1.8, FS = 7.8, partes = [];
-      var corpo = itens.map(function (it, i) {
+      var PAD = 1.8, FS = 7.8, partes = [], ix = [], gAnt = null;
+      var corpo = [];
+      itens.forEach(function (it, i) {
+        if (it.grupo && it.grupo !== gAnt) {
+          corpo.push([{ content: it.grupo, colSpan: 8, styles: { fillColor: [223, 231, 243], textColor: AZ, fontStyle: 'bold',
+                        fontSize: 8.5, minCellHeight: 7, halign: 'left' } }]);
+          ix.push(-1);
+        }
+        gAnt = it.grupo || gAnt;
+        corpo.push(linhaPdf(it, i)); ix.push(i);
+      });
+      function linhaPdf(it, i) {
         var q = Number(it.qtd) || 0, p = it.preco == null ? null : Number(it.preco);
         var tag = it.parte ? ' (' + it.parte.charAt(0).toLowerCase() + it.parte.slice(1) + ')' : it.opcional ? ' (opcional)' : it.status === 'em_breve' ? ' (em breve)' : it.status === 'nao_temos' ? ' (não disponível)' : '';
         doc.setFontSize(FS);
@@ -915,7 +931,7 @@
         var semP = it.status === 'nao_temos' ? 'Não disponível' : 'Em breve';
         return [String(i + 1), '', it.cod ? String(it.cod) : '—', l1.concat(l2, l3).join('\n'), it.marca ? titulo(it.marca) : '—',
                 String(it.qtd == null ? '' : it.qtd), p == null ? semP : rs(p), p == null ? '—' : rs(q * p)];
-      });
+      }
       doc.autoTable({
         startY: y, margin: { left: M, right: M, top: M + 4, bottom: 14 }, tableWidth: LW,
         head: [['#', 'Foto', 'Cód.', 'Item da lista / produto', 'Marca', 'Qtd', 'Valor unit.', 'Total']],
@@ -931,17 +947,19 @@
           6: { cellWidth: W.vu, halign: 'right' }, 7: { cellWidth: W.tot, halign: 'right', fontStyle: 'bold', textColor: AZ }
         },
         didParseCell: function (d) {
-          if (d.section === 'body' && saldoBaixo(itens[d.row.index])) { d.cell.styles.fillColor = [255, 246, 204]; }
           var k = d.column.index;
           if (d.section === 'head') { d.cell.styles.halign = (k <= 2 || k === 5) ? 'center' : k >= 6 ? 'right' : 'left'; }
-          if (d.section === 'body' && k >= 6 && itens[d.row.index].preco == null) { d.cell.styles.textColor = [154, 163, 177]; d.cell.styles.fontStyle = 'italic'; }
+          if (d.section === 'body' && ix[d.row.index] < 0) return;
+          var itx = d.section === 'body' ? itens[ix[d.row.index]] : null;
+          if (itx && saldoBaixo(itx)) { d.cell.styles.fillColor = [255, 246, 204]; }
+          if (itx && k >= 6 && itx.preco == null) { d.cell.styles.textColor = [154, 163, 177]; d.cell.styles.fontStyle = 'italic'; }
         },
-        willDrawCell: function (d) { if (d.section === 'body' && d.column.index === 3) d.cell.text = []; },
+        willDrawCell: function (d) { if (d.section === 'body' && ix[d.row.index] >= 0 && d.column.index === 3) d.cell.text = []; },
         didDrawCell: function (d) {
           var c = d.cell;
           if (d.section === 'head') { doc.setFillColor(VM[0], VM[1], VM[2]); doc.rect(c.x, c.y + c.height - 0.8, c.width, 0.8, 'F'); return; }
-          if (d.section !== 'body') return;
-          var i = d.row.index;
+          if (d.section !== 'body' || ix[d.row.index] < 0) return;
+          var i = ix[d.row.index];
           if (d.column.index === 1 && fotos[i]) {
             var s = 13; doc.addImage(fotos[i].d, 'JPEG', c.x + (c.width - s) / 2, c.y + (c.height - s) / 2, s, s);
           }
