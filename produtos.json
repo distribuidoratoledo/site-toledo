@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 828,
+     "saldo": 826,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 828
+       "saldo": 826
       },
       {
        "cod": 556,
@@ -1546,7 +1546,7 @@
      "marca": "FABER",
      "preco": 24.9,
      "img": "produtos/12959.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 6775,
@@ -2393,7 +2393,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 187
+     "saldo": 186
     },
     {
      "cod": 6355,
@@ -2802,7 +2802,7 @@
      "marca": "LEO E LEO",
      "preco": 6.9,
      "img": "produtos/7530.jpg",
-     "saldo": 137
+     "saldo": 136
     },
     {
      "cod": 7528,
@@ -3980,7 +3980,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/14517.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 14520,
@@ -6383,7 +6383,7 @@
      "marca": "TILIBRA",
      "preco": 32.9,
      "img": "produtos/12796.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 12418,
@@ -7938,7 +7938,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 14110,
@@ -8408,7 +8408,7 @@
      "marca": "PRITT",
      "preco": 12.9,
      "img": "produtos/815.jpg",
-     "saldo": 248
+     "saldo": 247
     },
     {
      "cod": 816,
@@ -9597,7 +9597,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 141
+     "saldo": 140
     },
     {
      "cod": 6632,
@@ -9809,7 +9809,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 6612,
@@ -11012,7 +11012,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 645
+     "saldo": 643
     },
     {
      "cod": 2007,
@@ -13917,7 +13917,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 163
+     "saldo": 158
     },
     {
      "cod": 7644,
@@ -18839,14 +18839,14 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 58,
+     "saldo": 54,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 58
+       "saldo": 54
       },
       {
        "cod": 6623,
@@ -24540,7 +24540,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 273
+     "saldo": 223
     },
     {
      "cod": 2705,
@@ -25020,7 +25020,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 805
+     "saldo": 705
     },
     {
      "cod": 2808,
@@ -28962,7 +28962,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 521
+     "saldo": 518
     },
     {
      "cod": 2157,
@@ -31208,14 +31208,14 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
-     "saldo": 89,
+     "saldo": 88,
      "cores": [
       {
        "cod": 1829,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO PILOT-AMARELO",
        "img": "produtos/1829.jpg",
-       "saldo": 89
+       "saldo": 88
       },
       {
        "cod": 1830,
@@ -31905,30 +31905,6 @@
    "nome": "Capa Pronta para Caderno",
    "itens": [
     {
-     "cod": 667,
-     "nome": "CAPA PRONTA ALIBOM. C/5 (CARTONADO)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/667.jpg",
-     "saldo": 99
-    },
-    {
-     "cod": 671,
-     "nome": "CAPA PRONTA ESPIRAL  C/5 (SOLTA)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/671.jpg",
-     "saldo": 8
-    },
-    {
-     "cod": 672,
-     "nome": "CAPA PRONTA LIVRO C/5 (AJUSTAVEL)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/672.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 3728,
      "nome": "PROTETOR CADERNO AJUSTAVEL C/5 (TIL/ALIB/MAX.CD)",
      "marca": "MAXI PLAST",
@@ -31938,7 +31914,7 @@
     },
     {
      "cod": 670,
-     "nome": "PROTETOR CADERNO ESPIRAL C/5 (JUNTA)",
+     "nome": "PROTETOR CADERNO ESPIRAL C/5 (JUNTA)-CAPA PRONTA",
      "marca": "MAXI P.",
      "preco": 12.5,
      "img": "produtos/670.jpg",
