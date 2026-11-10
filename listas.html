@@ -638,6 +638,25 @@
 
     // ---------- lista ----------
     var atual = null;
+    /* TOTAIS POR ANO (Peter Pan 6º-9º, 10/11/2026): a lista traz L.totais = [{rotulo, partes[], tira[cod], explica}].
+       Cada total = total principal - itens "tira" + as partes daquele ano. Sem L.totais, vale a linha simples por parte. */
+    function linhasTotais(L, total, partes) {
+      if (L.totais && L.totais.length) {
+        return L.totais.map(function (t) {
+          var v = total;
+          (t.tira || []).forEach(function (cod) {
+            (L.itens || []).forEach(function (it) {
+              if (Number(it.cod) === Number(cod) && !it.parte && it.preco != null) v -= (Number(it.qtd) || 0) * Number(it.preco);
+            });
+          });
+          (t.partes || []).forEach(function (k) { v += partes[k] || 0; });
+          return { rotulo: t.rotulo, valor: v, explica: t.explica || '' };
+        });
+      }
+      return Object.keys(partes).map(function (k) {
+        return { rotulo: 'Material ' + k.charAt(0).toLowerCase() + k.slice(1), mais: partes[k], valor: total + partes[k] };
+      });
+    }
     /* saldo baixo: ate' SALDO_BAIXO unidades, ou menos do que a lista pede (09/11/2026, "saldo baixo, 1, 2, 3...") */
     var SALDO_BAIXO = 5;
     function saldoBaixo(it) { return it.saldo != null && (it.saldo <= SALDO_BAIXO || it.saldo < (Number(it.qtd) || 0)); }
@@ -696,9 +715,10 @@
           '<div class="tab-itens"><table><thead><tr><th class="c-n">#</th><th class="c-foto">Foto</th><th class="c-cod">Cód. Sankhya</th>' +
             '<th>Item da lista / produto</th><th class="c-marca">Marca</th><th class="c-qtd">Qtd</th><th class="c-val">Valor unit.</th><th class="c-val">Total</th></tr></thead>' +
             '<tbody>' + html + '</tbody></table></div>' +
-          '<div class="totais"><div class="t1">Total da lista: <b>' + reais(total) + '</b></div>' +
-            Object.keys(partes).map(function (k) {
-              return '<div class="t3">Material ' + esc(k.charAt(0).toLowerCase() + k.slice(1)) + ': <b>+ ' + reais(partes[k]) + '</b> · total ' + reais(total + partes[k]) + '</div>';
+          '<div class="totais"><div class="t1">' + esc(L.rotulo_total || 'Total da lista') + ': <b>' + reais(total) + '</b></div>' +
+            linhasTotais(L, total, partes).map(function (t) {
+              return '<div class="t3">' + esc(t.rotulo) + ': ' + (t.mais != null ? '<b>+ ' + reais(t.mais) + '</b> · total ' + reais(t.valor)
+                : '<b>' + reais(t.valor) + '</b>' + (t.explica ? ' <small>(' + esc(t.explica) + ')</small>' : '')) + '</div>';
             }).join('') +
             (faltaPreco ? '<div class="t2">Itens “em breve” entram no total quando chegarem.</div>' : '') + '</div>' +
           pagamento(total) +
@@ -885,11 +905,11 @@
       doc.setFont('helvetica', 'bold'); doc.setFontSize(12);
       var tt = rs(total), tw = doc.getTextWidth(tt);
       cor(VM); doc.text(tt, M + LW, y + 4, { align: 'right' });
-      cor(AZ); doc.text('Total da lista: ', M + LW - tw, y + 4, { align: 'right' });
+      cor(AZ); doc.text((L.rotulo_total || 'Total da lista') + ': ', M + LW - tw, y + 4, { align: 'right' });
       y += 6;
-      Object.keys(partesPdf).forEach(function (k) {
+      linhasTotais(L, total, partesPdf).forEach(function (t) {
         doc.setFont('helvetica', 'bold'); doc.setFontSize(9.5); cor([91, 63, 168]);
-        doc.text('Material ' + k.charAt(0).toLowerCase() + k.slice(1) + ': + ' + rs(partesPdf[k]) + ' · total ' + rs(total + partesPdf[k]),
+        doc.text(t.rotulo + ': ' + (t.mais != null ? '+ ' + rs(t.mais) + ' · total ' + rs(t.valor) : rs(t.valor) + (t.explica ? ' (' + t.explica + ')' : '')),
                  M + LW, y + 2.5, { align: 'right' });
         y += 5;
       });

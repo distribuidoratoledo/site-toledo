@@ -1453,6 +1453,27 @@
    "nome": "Instituto Educacional Peter Pan",
    "listas": [
     {
+     "rotulo_total": "Total da lista (8º e 9º ano)",
+     "totais": [
+      {
+       "rotulo": "Total do 6º ano",
+       "partes": [
+        "Só 6º ano",
+        "Só 6º e 7º ano"
+       ],
+       "tira": [
+        10933
+       ],
+       "explica": "com 7 cadernos de 1 matéria no lugar do de 10 matérias e o material de arte"
+      },
+      {
+       "rotulo": "Total do 7º ano",
+       "partes": [
+        "Só 6º e 7º ano"
+       ],
+       "explica": "com o material de arte"
+      }
+     ],
      "id": "peterpan-ano6a9",
      "ano": "6º ao 9º Ano",
      "orcamento": 658825,
@@ -1487,6 +1508,16 @@
        "foto": "listas/fotos/7579.jpg"
       },
       {
+       "descricao": "Cadernos para as matérias (7º ao 9º ano)",
+       "qtd": 1,
+       "cod": 10933,
+       "produto": "CADERNO 10X1 160F-PERFORMANCE",
+       "marca": "CREDEAL",
+       "preco": 16.9,
+       "obs": "Caderno de 10 matérias, a opção mais em conta. A escola também aceita cadernos de 1 matéria.",
+       "foto": "listas/fotos/10933.jpg"
+      },
+      {
        "descricao": "Cadernos para as matérias (6º ano: um para cada matéria)",
        "qtd": 7,
        "cod": 9324,
@@ -1494,7 +1525,8 @@
        "marca": "CREDEAL",
        "preco": 9.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
-       "foto": "listas/fotos/9324.jpg"
+       "foto": "listas/fotos/9324.jpg",
+       "parte": "Só 6º ano"
       },
       {
        "descricao": "1 pasta preta com 100 folhas de plástico",
@@ -1627,5 +1659,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 08:10"
+ "atualizado": "10/11/2026 08:33"
 }
