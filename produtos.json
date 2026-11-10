@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1323,
+     "saldo": 1313,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1323
+       "saldo": 1313
       },
       {
        "cod": 553,
@@ -896,7 +896,7 @@
      "cod": 8823,
      "nome": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
      "marca": "BRW",
-     "preco": 14.9,
+     "preco": 12.9,
      "img": "produtos/8823.jpg",
      "saldo": 18
     },
@@ -1160,14 +1160,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/602.jpg",
-     "saldo": 7,
+     "saldo": 6,
      "cores": [
       {
        "cod": 602,
        "cor": "Azul",
        "nome": "CANETA PILOT COMUM-AZUL",
        "img": "produtos/602.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 603,
@@ -3200,14 +3200,14 @@
      "marca": "PILOT",
      "preco": 19.9,
      "img": "produtos/2350.jpg",
-     "saldo": 119,
+     "saldo": 118,
      "cores": [
       {
        "cod": 2350,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
        "img": "produtos/2350.jpg",
-       "saldo": 119
+       "saldo": 118
       },
       {
        "cod": 2351,
@@ -3221,28 +3221,28 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
        "img": "produtos/2352.jpg",
-       "saldo": 108
+       "saldo": 105
       },
       {
        "cod": 2353,
        "cor": "Verde",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
        "img": "produtos/2353.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 2354,
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBMA-VBM-M)",
        "img": "produtos/2354.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 2355,
        "cor": "Violeta",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VIOLETA (WBMA-VBM-M)",
        "img": "produtos/2355.jpg",
-       "saldo": 71
+       "saldo": 70
       }
      ]
     },
@@ -3373,7 +3373,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 107
+       "saldo": 105
       },
       {
        "cod": 2658,
@@ -7677,7 +7677,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 788,
@@ -7693,7 +7693,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/793.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 798,
@@ -7701,7 +7701,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/798.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 10918,
@@ -7837,7 +7837,7 @@
      "marca": "JOCAR/CIS",
      "preco": 4.9,
      "img": "produtos/2575.jpg",
-     "saldo": 23
+     "saldo": 13
     }
    ]
   },
@@ -8321,7 +8321,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 14
+     "saldo": 12
     },
     {
      "cod": 846,
@@ -8409,7 +8409,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.0,
      "img": "produtos/3318.jpg",
-     "saldo": 84
+     "saldo": 82
     },
     {
      "cod": 14601,
@@ -8473,7 +8473,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 341
+     "saldo": 340
     },
     {
      "cod": 11926,
@@ -8849,7 +8849,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1471
+     "saldo": 1469
     },
     {
      "cod": 4389,
@@ -8903,7 +8903,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 1519,
@@ -8911,7 +8911,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 1520,
@@ -9502,7 +9502,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 358
+     "saldo": 357
     },
     {
      "cod": 12303,
@@ -9590,7 +9590,7 @@
      "marca": "JOCAR",
      "preco": 3.9,
      "img": "produtos/7549.jpg",
-     "saldo": 113
+     "saldo": 110
     },
     {
      "cod": 4212,
@@ -9606,7 +9606,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 25
+     "saldo": 13
     }
    ]
   },
@@ -10072,7 +10072,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 104
+     "saldo": 94
     },
     {
      "cod": 2604,
@@ -10941,7 +10941,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 130
+     "saldo": 126
     },
     {
      "cod": 2016,
@@ -10957,7 +10957,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 630
+     "saldo": 610
     },
     {
      "cod": 2007,
@@ -13289,7 +13289,7 @@
      "marca": "MAXCRIL",
      "preco": 0.6,
      "img": "produtos/9251.jpg",
-     "saldo": 194
+     "saldo": 144
     },
     {
      "cod": 9252,
@@ -15072,7 +15072,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/12934.jpg",
-     "saldo": 162
+     "saldo": 161
     },
     {
      "cod": 12935,
@@ -15096,7 +15096,7 @@
      "marca": "POLIBRAS",
      "preco": 4.9,
      "img": "produtos/7166.jpg",
-     "saldo": 61
+     "saldo": 55
     },
     {
      "cod": 14203,
@@ -15325,7 +15325,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/4920.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 4921,
@@ -15528,7 +15528,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 2959,
@@ -15672,7 +15672,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 415
+     "saldo": 413
     },
     {
      "cod": 6721,
@@ -15825,7 +15825,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 175
+       "saldo": 155
       },
       {
        "cod": 9160,
@@ -15906,7 +15906,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 1228,
@@ -18073,7 +18073,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 16021
+     "saldo": 15769
     },
     {
      "cod": 1051,
@@ -18081,7 +18081,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7384
+     "saldo": 7376
     },
     {
      "cod": 1054,
@@ -18191,21 +18191,21 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 227,
+     "saldo": 225,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 227
+       "saldo": 225
       },
       {
        "cod": 661,
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 260
+       "saldo": 258
       }
      ]
     },
@@ -18481,7 +18481,7 @@
        "cor": "Azul",
        "nome": "ARQUIVO MORTO OFICIO-AZUL",
        "img": "produtos/74.jpg",
-       "saldo": 427
+       "saldo": 417
       },
       {
        "cod": 77,
@@ -18495,7 +18495,7 @@
        "cor": "Vermelho",
        "nome": "ARQUIVO MORTO OFICIO-VERMELHO",
        "img": "produtos/5171.jpg",
-       "saldo": 171
+       "saldo": 166
       }
      ]
     },
@@ -18505,7 +18505,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 272
+     "saldo": 237
     }
    ]
   },
@@ -18991,7 +18991,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 335
+     "saldo": 333
     }
    ]
   },
@@ -19211,14 +19211,14 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 34,
+     "saldo": 32,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 34
+       "saldo": 32
       },
       {
        "cod": 6465,
@@ -19882,7 +19882,7 @@
      "marca": "PADO",
      "preco": 21.9,
      "img": "produtos/311.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 3232,
@@ -21530,7 +21530,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 331
+     "saldo": 319
     },
     {
      "cod": 4617,
@@ -21546,7 +21546,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 401
+     "saldo": 389
     },
     {
      "cod": 177,
@@ -22002,7 +22002,7 @@
      "marca": "",
      "preco": 31.9,
      "img": "produtos/3733.jpg",
-     "saldo": 38
+     "saldo": 34
     },
     {
      "cod": 7139,
@@ -25315,7 +25315,7 @@
        "cor": "Vermelha",
        "nome": "SACOLA PH 25X35 C/50-VERMELHA",
        "img": "produtos/9880.jpg",
-       "saldo": 7
+       "saldo": 6
       }
      ]
     },
@@ -25346,7 +25346,7 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 30X40 C/50-DOURADA",
        "img": "produtos/3958.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 2854,
@@ -25415,7 +25415,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2544
+     "saldo": 2522
     },
     {
      "cod": 6821,
@@ -25423,7 +25423,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 1271
+     "saldo": 1168
     },
     {
      "cod": 6855,
@@ -25969,7 +25969,7 @@
      "marca": "PRIMUS",
      "preco": 29.9,
      "img": "produtos/6646.jpg",
-     "saldo": 25
+     "saldo": 21
     },
     {
      "cod": 225,
@@ -26025,7 +26025,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 390
+     "saldo": 350
     },
     {
      "cod": 236,
@@ -26501,7 +26501,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 51
+     "saldo": 48
     },
     {
      "cod": 6860,
@@ -27950,7 +27950,7 @@
      "marca": "PRIMUS",
      "preco": 31.9,
      "img": "produtos/1166.jpg",
-     "saldo": 37
+     "saldo": 27
     },
     {
      "cod": 11419,
@@ -28432,7 +28432,7 @@
      "marca": "THEGA",
      "preco": 15.9,
      "img": "produtos/14135.jpg",
-     "saldo": 85
+     "saldo": 75
     }
    ]
   },
@@ -28716,7 +28716,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 354
+     "saldo": 334
     },
     {
      "cod": 7275,
@@ -28858,7 +28858,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 508
+     "saldo": 507
     },
     {
      "cod": 2157,
@@ -30034,7 +30034,7 @@
        "cor": "Roxo",
        "nome": "APONTADOR LEO C/D BLOCO 60-ROXO",
        "img": "produtos/7592.jpg",
-       "saldo": 47
+       "saldo": 46
       },
       {
        "cod": 7591,
@@ -30571,7 +30571,7 @@
     },
     {
      "cod": 14586,
-     "nome": "APONTADOR TRIS C/D 3F-SHAKE CORES",
+     "nome": "APONTADOR TRIS C/D 3F-SHAKE AMARELO",
      "marca": "TRIS",
      "preco": 11.9,
      "img": "produtos/14586.jpg",
@@ -31039,14 +31039,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 391,
+     "saldo": 378,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 391
+       "saldo": 378
       },
       {
        "cod": 6051,
