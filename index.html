@@ -258,6 +258,10 @@
       background: #1d2940; color: #fff; padding: 12px 16px; border-radius: 10px; font-size: .9rem;
       box-shadow: 0 10px 30px rgba(0,0,0,.25); display: flex; gap: 14px; align-items: center; max-width: calc(100% - 32px); }
     .car-aviso[hidden] { display: none; }
+    .car-aviso.estoque { background: #ffe27a; color: #3d2f00; font-weight: 600; }
+    .car-aviso.estoque button { color: #1a2f52; }
+    .car-item .falta { display: inline-block; background: #ffe27a; color: #3d2f00; font-size: .76rem; font-weight: 700;
+      padding: 3px 8px; border-radius: 6px; margin: 0 0 6px; }
     .car-aviso button { background: none; border: 0; color: #8fd3ff; font: inherit; font-weight: 700; cursor: pointer; white-space: nowrap; }
 
     .car-fundo { position: fixed; inset: 0; z-index: 100; background: rgba(12,20,34,.55); }
@@ -1579,16 +1583,17 @@
       if (typeof cod === 'string' && cod.indexOf('|') > 0) {
         var pc = cod.split('|'), pp = PRODUTOS[pc[0]];
         if (!pp || !pp.controle || pp.controle.indexOf(pc[1]) < 0) { return null; }
-        return { cod: pp.cod, chave: cod, cor: pc[1], nome: pp.nome + ' - cor ' + nomeCor(pc[1]), img: pp.img, preco: pp.preco };
+        return { cod: pp.cod, chave: cod, cor: pc[1], nome: pp.nome + ' - cor ' + nomeCor(pc[1]), img: pp.img, preco: pp.preco,
+                 saldo: pp.saldo_cor ? pp.saldo_cor[pc[1]] : null };
       }
       var p = PRODUTOS[cod];
       if (!p) { return null; }
       if (p.controle) { return null; }
       if (p.cores) {
         var c = p.cores[COR_DO_CODIGO[cod] || 0];
-        return { cod: cod, nome: c.nome, img: c.img, preco: p.preco };
+        return { cod: cod, nome: c.nome, img: c.img, preco: p.preco, saldo: c.saldo };
       }
-      return { cod: cod, nome: p.nome, img: p.img, preco: p.preco };
+      return { cod: cod, nome: p.nome, img: p.img, preco: p.preco, saldo: p.saldo };
     }
 
     function colocar(cod, qtd) {
@@ -1596,7 +1601,20 @@
       var ja = CARRINHO.filter(function (x) { return x.cod === cod; })[0];
       if (ja) { ja.qtd += qtd; } else { CARRINHO.push({ cod: cod, qtd: qtd }); }
       salvarCarrinho();
-      avisar(qtd + ' \u00d7 ' + itemDoCodigo(cod).nome + ' no carrinho');
+      /* PASSOU DO ESTOQUE (10/11/2026: "quero que apareca um aviso para o cliente ao colocar no carrinho, mas que deixe
+         ele colocar mesmo assim"): o item entra e o aviso fica mais tempo, em amarelo */
+      var it = itemDoCodigo(cod), noCar = (ja || CARRINHO[CARRINHO.length - 1]).qtd;
+      if (it.saldo != null && noCar > it.saldo) {
+        avisar(textoFaltaEstoque(it.saldo), true);
+      } else {
+        avisar(qtd + ' \u00d7 ' + it.nome + ' no carrinho');
+      }
+    }
+    function textoFaltaEstoque(saldo) {
+      // texto escolhido pela Adriana em 10/11/2026
+      return saldo > 0
+        ? 'Temos ' + saldo + (saldo === 1 ? ' unidade' : ' unidades') + ' em estoque, após o envio do pedido a vendedora confirma pra você!'
+        : 'Este item está sem estoque agora, após o envio do pedido a vendedora confirma pra você!';
     }
 
     function addCarrinho() {
@@ -1609,13 +1627,14 @@
     }
 
     var avisoTimer = null;
-    function avisar(txt) {
+    function avisar(txt, estoque) {
       var el = document.getElementById('car-aviso');
+      el.classList.toggle('estoque', !!estoque);
       el.innerHTML = '<span></span><button type="button" onclick="abrirCarrinho()">Ver carrinho</button>';
       el.firstChild.textContent = txt;
       el.hidden = false;
       clearTimeout(avisoTimer);
-      avisoTimer = setTimeout(function () { el.hidden = true; }, 3500);
+      avisoTimer = setTimeout(function () { el.hidden = true; }, estoque ? 7000 : 3500);
     }
 
     function totalCarrinho() {
@@ -1944,6 +1963,7 @@
         return '<div class="car-item">'
           + (i.img ? '<img src="' + i.img + '" alt="">' : '<div class="sf"></div>')
           + '<div><div class="nm">' + esc(i.nome) + '</div><div class="cd">C\u00f3digo: ' + i.cod + '</div>'
+          + (i.saldo != null && x.qtd > i.saldo ? '<div class="falta">' + esc(textoFaltaEstoque(i.saldo)) + '</div>' : '')
           + '<span class="qtd peq"><button type="button" onclick="mudarQtd(\'' + x.cod + '\',-1)" aria-label="Menos">\u2212</button>'
           + '<input type="number" min="1" value="' + x.qtd + '" onchange="fixarQtd(\'' + x.cod + '\',this.value)" aria-label="Quantidade">'
           + '<button type="button" onclick="mudarQtd(\'' + x.cod + '\',1)" aria-label="Mais">+</button></span></div>'
@@ -2096,7 +2116,8 @@
                '\ud83d\udc64 *VENDEDORA: ' + (DADOS.vendedora || '') + '*', ''];
       CARRINHO.forEach(function (x) {
         var i = itemDoCodigo(x.cod);
-        t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd));
+        t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd)
+          + (i.saldo != null && x.qtd > i.saldo ? ' \u26a0\ufe0f estoque ' + i.saldo + ', confirmar' : ''));
       });
       t.push('', 'Total dos produtos: ' + moeda(totalCarrinho()));
       if (DADOS.entrega === 'entrega') {
