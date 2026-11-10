@@ -947,7 +947,13 @@
       if (!document.documentElement.classList.contains('dentro') || window.parent === window) return;
       var ult = 0;
       function medir() {
-        var h = Math.ceil(document.documentElement.scrollHeight);
+        // mede ate' o fim do conteudo visivel (o scrollHeight nunca encolhe dentro do card e deixava um vao enorme)
+        var fim = 0;
+        [].forEach.call(document.body.children, function (el) {
+          if (el.tagName === 'SCRIPT' || getComputedStyle(el).display === 'none' || getComputedStyle(el).position === 'fixed') return;
+          fim = Math.max(fim, el.getBoundingClientRect().bottom + window.scrollY);
+        });
+        var h = Math.ceil(fim + 24);
         if (Math.abs(h - ult) > 2) { ult = h; window.parent.postMessage({ toledoListasAltura: h }, '*'); }
       }
       new ResizeObserver(medir).observe(document.body);
