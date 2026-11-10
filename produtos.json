@@ -10,6 +10,7 @@
      "marca": "PILOT",
      "preco": 26.9,
      "img": "produtos/545.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 545,
@@ -32,8 +33,7 @@
        "img": "produtos/547.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 548,
@@ -49,6 +49,7 @@
      "marca": "BIC",
      "preco": 3.9,
      "img": "produtos/3794.jpg",
+     "saldo": 37,
      "cores": [
       {
        "cod": 3794,
@@ -71,8 +72,7 @@
        "img": "produtos/551.jpg",
        "saldo": 52
       }
-     ],
-     "saldo": 37
+     ]
     },
     {
      "cod": 5222,
@@ -80,6 +80,7 @@
      "marca": "BIC",
      "preco": 10.9,
      "img": "produtos/5222.jpg",
+     "saldo": 39,
      "cores": [
       {
        "cod": 5222,
@@ -95,8 +96,7 @@
        "img": "produtos/5223.jpg",
        "saldo": 35
       }
-     ],
-     "saldo": 39
+     ]
     },
     {
      "cod": 552,
@@ -104,13 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
+     "saldo": 1448,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1548
+       "saldo": 1448
       },
       {
        "cod": 553,
@@ -126,8 +127,7 @@
        "img": "produtos/554.jpg",
        "saldo": 311
       }
-     ],
-     "saldo": 1548
+     ]
     },
     {
      "cod": 7292,
@@ -143,6 +143,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
+     "saldo": 831,
      "cores": [
       {
        "cod": 555,
@@ -165,8 +166,7 @@
        "img": "produtos/557.jpg",
        "saldo": 397
       }
-     ],
-     "saldo": 831
+     ]
     },
     {
      "cod": 10296,
@@ -182,6 +182,7 @@
      "marca": "CIS",
      "preco": 1.5,
      "img": "produtos/10830.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 10830,
@@ -197,8 +198,7 @@
        "img": "produtos/10831.jpg",
        "saldo": 239
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 559,
@@ -230,6 +230,7 @@
      "marca": "UNI",
      "preco": 11.9,
      "img": "produtos/10575.jpg",
+     "saldo": 29,
      "cores": [
       {
        "cod": 10575,
@@ -245,8 +246,7 @@
        "img": "produtos/10576.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 29
+     ]
     },
     {
      "cod": 10603,
@@ -270,6 +270,7 @@
      "marca": "CIS",
      "preco": 6.9,
      "img": "produtos/10607.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 10607,
@@ -292,8 +293,7 @@
        "img": "produtos/10546.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 10588,
@@ -325,6 +325,7 @@
      "marca": "CIS",
      "preco": 2.9,
      "img": "produtos/10627.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 10627,
@@ -361,8 +362,7 @@
        "img": "produtos/10625.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 5294,
@@ -370,6 +370,7 @@
      "marca": "CIS",
      "preco": 2.9,
      "img": "produtos/5294.jpg",
+     "saldo": 18,
      "cores": [
       {
        "cod": 5294,
@@ -399,8 +400,7 @@
        "img": "produtos/5297.jpg",
        "saldo": 16
       }
-     ],
-     "saldo": 18
+     ]
     },
     {
      "cod": 561,
@@ -408,6 +408,7 @@
      "marca": "CIS",
      "preco": 4.5,
      "img": "produtos/561.jpg",
+     "saldo": 157,
      "cores": [
       {
        "cod": 561,
@@ -465,8 +466,7 @@
        "img": "produtos/568.jpg",
        "saldo": 54
       }
-     ],
-     "saldo": 157
+     ]
     },
     {
      "cod": 10584,
@@ -482,20 +482,21 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
+     "saldo": 875,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 876
+       "saldo": 875
       },
       {
        "cod": 570,
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 735
+       "saldo": 734
       },
       {
        "cod": 571,
@@ -504,8 +505,7 @@
        "img": "produtos/571.jpg",
        "saldo": 507
       }
-     ],
-     "saldo": 876
+     ]
     },
     {
      "cod": 14374,
@@ -513,7 +513,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/14374.jpg",
-     "saldo": 215
+     "saldo": 214
     },
     {
      "cod": 5084,
@@ -529,6 +529,7 @@
      "marca": "FABER",
      "preco": 2.9,
      "img": "produtos/10288.jpg",
+     "saldo": 23,
      "cores": [
       {
        "cod": 10288,
@@ -551,8 +552,7 @@
        "img": "produtos/10290.jpg",
        "saldo": 49
       }
-     ],
-     "saldo": 23
+     ]
     },
     {
      "cod": 576,
@@ -560,6 +560,7 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/576.jpg",
+     "saldo": 95,
      "cores": [
       {
        "cod": 576,
@@ -603,8 +604,7 @@
        "img": "produtos/578.jpg",
        "saldo": 25
       }
-     ],
-     "saldo": 95
+     ]
     },
     {
      "cod": 5401,
@@ -612,6 +612,7 @@
      "marca": "FABER",
      "preco": 8.9,
      "img": "produtos/5401.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 5401,
@@ -634,8 +635,7 @@
        "img": "produtos/5403.jpg",
        "saldo": 18
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 580,
@@ -731,6 +731,7 @@
      "marca": "PAPER MATE",
      "preco": 14.5,
      "img": "produtos/5240.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 5240,
@@ -753,8 +754,7 @@
        "img": "produtos/6649.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 10039,
@@ -802,12 +802,12 @@
      "marca": "TRIS",
      "preco": 21.9,
      "img": "produtos/14545.jpg",
+     "saldo": 30,
      "controle": [
       "BRANCO",
       "LILAS",
       "ROSA"
      ],
-     "saldo": 30,
      "saldo_cor": {
       "BRANCO": 10,
       "LILAS": 10,
@@ -820,12 +820,12 @@
      "marca": "TRIS",
      "preco": 18.9,
      "img": "produtos/14558.jpg",
+     "saldo": 15,
      "controle": [
       "AZUL",
       "AZUL CL",
       "BRANCO"
      ],
-     "saldo": 15,
      "saldo_cor": {
       "AZUL": 5,
       "AZUL CL": 5,
@@ -838,11 +838,11 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/14598.jpg",
+     "saldo": 36,
      "controle": [
       "AZUL",
       "PRETO"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "AZUL": 18,
       "PRETO": 18
@@ -854,13 +854,13 @@
      "marca": "TRIS",
      "preco": 16.9,
      "img": "produtos/14550.jpg",
+     "saldo": 24,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERDE-ÁGUA"
      ],
-     "saldo": 24,
      "saldo_cor": {
       "AZUL": 6,
       "ROSA": 6,
@@ -874,6 +874,7 @@
      "marca": "CIS",
      "preco": 12.9,
      "img": "produtos/10568.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 10568,
@@ -889,8 +890,7 @@
        "img": "produtos/10574.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 14398,
@@ -922,6 +922,7 @@
      "marca": "JETSTREAM",
      "preco": 16.9,
      "img": "produtos/8747.jpg",
+     "saldo": 35,
      "cores": [
       {
        "cod": 8747,
@@ -937,8 +938,7 @@
        "img": "produtos/10569.jpg",
        "saldo": 18
       }
-     ],
-     "saldo": 35
+     ]
     },
     {
      "cod": 8749,
@@ -954,6 +954,7 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
+     "saldo": 326,
      "cores": [
       {
        "cod": 9369,
@@ -974,10 +975,9 @@
        "cor": "Vermelha",
        "nome": "CANETA JOCAR 1.0-VERMELHA",
        "img": "produtos/9371.jpg",
-       "saldo": 476
+       "saldo": 475
       }
-     ],
-     "saldo": 326
+     ]
     },
     {
      "cod": 9973,
@@ -993,6 +993,7 @@
      "marca": "PAPER MATE",
      "preco": 1.8,
      "img": "produtos/587.jpg",
+     "saldo": 135,
      "cores": [
       {
        "cod": 587,
@@ -1015,8 +1016,7 @@
        "img": "produtos/589.jpg",
        "saldo": 56
       }
-     ],
-     "saldo": 135
+     ]
     },
     {
      "cod": 586,
@@ -1168,6 +1168,7 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/602.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 602,
@@ -1190,8 +1191,7 @@
        "img": "produtos/604.jpg",
        "saldo": 11
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 605,
@@ -1199,6 +1199,7 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/605.jpg",
+     "saldo": 18,
      "cores": [
       {
        "cod": 605,
@@ -1221,8 +1222,7 @@
        "img": "produtos/607.jpg",
        "saldo": 42
       }
-     ],
-     "saldo": 18
+     ]
     },
     {
      "cod": 608,
@@ -1230,6 +1230,7 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/608.jpg",
+     "saldo": 12,
      "cores": [
       {
        "cod": 608,
@@ -1252,8 +1253,7 @@
        "img": "produtos/610.jpg",
        "saldo": 12
       }
-     ],
-     "saldo": 12
+     ]
     },
     {
      "cod": 611,
@@ -1261,6 +1261,7 @@
      "marca": "PILOT",
      "preco": 12.9,
      "img": "produtos/611.jpg",
+     "saldo": 28,
      "cores": [
       {
        "cod": 611,
@@ -1276,8 +1277,7 @@
        "img": "produtos/612.jpg",
        "saldo": 9
       }
-     ],
-     "saldo": 28
+     ]
     },
     {
      "cod": 613,
@@ -1293,6 +1293,7 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/614.jpg",
+     "saldo": 14,
      "cores": [
       {
        "cod": 614,
@@ -1315,8 +1316,7 @@
        "img": "produtos/616.jpg",
        "saldo": 20
       }
-     ],
-     "saldo": 14
+     ]
     },
     {
      "cod": 617,
@@ -1324,6 +1324,7 @@
      "marca": "PILOT",
      "preco": 12.9,
      "img": "produtos/617.jpg",
+     "saldo": 15,
      "cores": [
       {
        "cod": 617,
@@ -1346,8 +1347,7 @@
        "img": "produtos/619.jpg",
        "saldo": 33
       }
-     ],
-     "saldo": 15
+     ]
     },
     {
      "cod": 8753,
@@ -1355,7 +1355,7 @@
      "marca": "UNI",
      "preco": 49.9,
      "img": "produtos/8753.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 4516,
@@ -1371,6 +1371,7 @@
      "marca": "STABILO",
      "preco": 12.9,
      "img": "produtos/8740.jpg",
+     "saldo": 11,
      "cores": [
       {
        "cod": 8740,
@@ -1393,8 +1394,7 @@
        "img": "produtos/8742.jpg",
        "saldo": 22
       }
-     ],
-     "saldo": 11
+     ]
     },
     {
      "cod": 5096,
@@ -1426,6 +1426,7 @@
      "marca": "TILIBRA",
      "preco": 10.9,
      "img": "produtos/632.jpg",
+     "saldo": 12,
      "cores": [
       {
        "cod": 632,
@@ -1441,8 +1442,7 @@
        "img": "produtos/633.jpg",
        "saldo": 19
       }
-     ],
-     "saldo": 12
+     ]
     },
     {
      "cod": 13141,
@@ -1482,6 +1482,7 @@
      "marca": "UNI-BALL",
      "preco": 16.9,
      "img": "produtos/8750.jpg",
+     "saldo": 52,
      "cores": [
       {
        "cod": 8750,
@@ -1497,8 +1498,7 @@
        "img": "produtos/10571.jpg",
        "saldo": 49
       }
-     ],
-     "saldo": 52
+     ]
     },
     {
      "cod": 10583,
@@ -1514,6 +1514,7 @@
      "marca": "UNI BALL",
      "preco": 16.9,
      "img": "produtos/10573.jpg",
+     "saldo": 56,
      "cores": [
       {
        "cod": 10573,
@@ -1529,8 +1530,7 @@
        "img": "produtos/10585.jpg",
        "saldo": 43
       }
-     ],
-     "saldo": 56
+     ]
     },
     {
      "cod": 10612,
@@ -1960,12 +1960,12 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
+     "saldo": 33,
      "controle": [
       "AZUL",
       "PRETO",
       "ROSA"
      ],
-     "saldo": 33,
      "saldo_cor": {
       "AZUL": 12,
       "PRETO": 10,
@@ -2034,6 +2034,7 @@
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10560.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 10560,
@@ -2070,8 +2071,7 @@
        "img": "produtos/10564.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 5838,
@@ -2079,6 +2079,7 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/5838.jpg",
+     "saldo": 12,
      "cores": [
       {
        "cod": 5838,
@@ -2101,8 +2102,7 @@
        "img": "produtos/5408.jpg",
        "saldo": 209
       }
-     ],
-     "saldo": 12
+     ]
     },
     {
      "cod": 3500,
@@ -2134,6 +2134,7 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/10065.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 10065,
@@ -2149,8 +2150,7 @@
        "img": "produtos/10066.jpg",
        "saldo": 54
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 8459,
@@ -2158,6 +2158,7 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/8459.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 8459,
@@ -2180,8 +2181,7 @@
        "img": "produtos/8462.jpg",
        "saldo": 54
       }
-     ],
-     "saldo": 2
+     ]
     },
     {
      "cod": 10312,
@@ -2197,6 +2197,7 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/10272.jpg",
+     "saldo": 162,
      "cores": [
       {
        "cod": 10272,
@@ -2212,8 +2213,7 @@
        "img": "produtos/8415.jpg",
        "saldo": 55
       }
-     ],
-     "saldo": 162
+     ]
     },
     {
      "cod": 1684,
@@ -2237,6 +2237,7 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/1680.jpg",
+     "saldo": 135,
      "cores": [
       {
        "cod": 1680,
@@ -2266,8 +2267,7 @@
        "img": "produtos/3515.jpg",
        "saldo": 36
       }
-     ],
-     "saldo": 135
+     ]
     },
     {
      "cod": 10698,
@@ -2275,6 +2275,7 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/10698.jpg",
+     "saldo": 11,
      "cores": [
       {
        "cod": 10698,
@@ -2297,8 +2298,7 @@
        "img": "produtos/10702.jpg",
        "saldo": 12
       }
-     ],
-     "saldo": 11
+     ]
     },
     {
      "cod": 3516,
@@ -2306,6 +2306,7 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/3516.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 3516,
@@ -2328,8 +2329,7 @@
        "img": "produtos/3519.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 10314,
@@ -2377,7 +2377,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 190
+     "saldo": 189
     },
     {
      "cod": 6355,
@@ -2441,7 +2441,7 @@
      "marca": "MAPED",
      "preco": 1.9,
      "img": "produtos/13305.jpg",
-     "saldo": 26
+     "saldo": 24
     },
     {
      "cod": 7860,
@@ -2497,6 +2497,7 @@
      "marca": "TILIBRA",
      "preco": 0.9,
      "img": "produtos/13158.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 13158,
@@ -2519,8 +2520,7 @@
        "img": "produtos/13159.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 13161,
@@ -2544,13 +2544,13 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
+     "saldo": 31,
      "controle": [
       "AZUL",
       "CINZA",
       "ROSA",
       "VERDE-ÁGUA"
      ],
-     "saldo": 31,
      "saldo_cor": {
       "AZUL": 9,
       "CINZA": 8,
@@ -2564,6 +2564,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
+     "saldo": 47,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2572,14 +2573,13 @@
       "SALMÃO",
       "VERDE"
      ],
-     "saldo": 48,
      "saldo_cor": {
       "AMARELO": 8,
       "AZUL": 8,
       "LILAS": 8,
       "ROSA": 8,
       "SALMÃO": 8,
-      "VERDE": 8
+      "VERDE": 7
      }
     },
     {
@@ -2652,6 +2652,7 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/3507.jpg",
+     "saldo": 77,
      "cores": [
       {
        "cod": 3507,
@@ -2667,8 +2668,7 @@
        "img": "produtos/3508.jpg",
        "saldo": 81
       }
-     ],
-     "saldo": 77
+     ]
     },
     {
      "cod": 5407,
@@ -2866,6 +2866,7 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2343.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 2343,
@@ -2895,8 +2896,7 @@
        "img": "produtos/2345.jpg",
        "saldo": 118
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 2334,
@@ -2912,6 +2912,7 @@
      "marca": "LEO E LEO",
      "preco": 1.5,
      "img": "produtos/11978.jpg",
+     "saldo": 53,
      "cores": [
       {
        "cod": 11978,
@@ -2934,8 +2935,7 @@
        "img": "produtos/11979.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 53
+     ]
     },
     {
      "cod": 2338,
@@ -2943,6 +2943,7 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg",
+     "saldo": 73,
      "cores": [
       {
        "cod": 2338,
@@ -2965,8 +2966,7 @@
        "img": "produtos/9972.jpg",
        "saldo": 189
       }
-     ],
-     "saldo": 73
+     ]
     },
     {
      "cod": 6638,
@@ -2974,6 +2974,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6638.jpg",
+     "saldo": 193,
      "cores": [
       {
        "cod": 6638,
@@ -3003,8 +3004,7 @@
        "img": "produtos/6640.jpg",
        "saldo": 116
       }
-     ],
-     "saldo": 193
+     ]
     },
     {
      "cod": 7579,
@@ -3012,6 +3012,7 @@
      "marca": "JOCAR",
      "preco": 2.5,
      "img": "produtos/7579.jpg",
+     "saldo": 416,
      "cores": [
       {
        "cod": 7579,
@@ -3034,8 +3035,7 @@
        "img": "produtos/7532.jpg",
        "saldo": 379
       }
-     ],
-     "saldo": 416
+     ]
     },
     {
      "cod": 2330,
@@ -3043,6 +3043,7 @@
      "marca": "COMPACTOR",
      "preco": 3.9,
      "img": "produtos/2330.jpg",
+     "saldo": 358,
      "cores": [
       {
        "cod": 2330,
@@ -3065,8 +3066,7 @@
        "img": "produtos/2333.jpg",
        "saldo": 240
       }
-     ],
-     "saldo": 358
+     ]
     },
     {
      "cod": 14367,
@@ -3082,6 +3082,7 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11855.jpg",
+     "saldo": 68,
      "cores": [
       {
        "cod": 11855,
@@ -3097,8 +3098,7 @@
        "img": "produtos/11856.jpg",
        "saldo": 11
       }
-     ],
-     "saldo": 68
+     ]
     },
     {
      "cod": 14368,
@@ -3114,6 +3114,7 @@
      "marca": "COMPACTOR",
      "preco": 10.9,
      "img": "produtos/14366.jpg",
+     "saldo": 288,
      "cores": [
       {
        "cod": 14366,
@@ -3129,8 +3130,7 @@
        "img": "produtos/14369.jpg",
        "saldo": 431
       }
-     ],
-     "saldo": 288
+     ]
     },
     {
      "cod": 7731,
@@ -3138,6 +3138,7 @@
      "marca": "MASTERPRIN",
      "preco": 4.5,
      "img": "produtos/7731.jpg",
+     "saldo": 218,
      "cores": [
       {
        "cod": 7731,
@@ -3153,8 +3154,7 @@
        "img": "produtos/7732.jpg",
        "saldo": 61
       }
-     ],
-     "saldo": 218
+     ]
     },
     {
      "cod": 2346,
@@ -3162,6 +3162,7 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
+     "saldo": 66,
      "cores": [
       {
        "cod": 2346,
@@ -3191,8 +3192,7 @@
        "img": "produtos/2349.jpg",
        "saldo": 19
       }
-     ],
-     "saldo": 66
+     ]
     },
     {
      "cod": 2350,
@@ -3200,6 +3200,7 @@
      "marca": "PILOT",
      "preco": 19.9,
      "img": "produtos/2350.jpg",
+     "saldo": 120,
      "cores": [
       {
        "cod": 2350,
@@ -3243,8 +3244,7 @@
        "img": "produtos/2355.jpg",
        "saldo": 72
       }
-     ],
-     "saldo": 120
+     ]
     },
     {
      "cod": 2360,
@@ -3268,6 +3268,7 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2624.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 2624,
@@ -3311,8 +3312,7 @@
        "img": "produtos/2629.jpg",
        "saldo": 95
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 9405,
@@ -3328,6 +3328,7 @@
      "marca": "PILOT",
      "preco": 10.9,
      "img": "produtos/2652.jpg",
+     "saldo": 110,
      "cores": [
       {
        "cod": 2652,
@@ -3335,13 +3336,6 @@
        "nome": "RETRO 1.0 PILOT-AZUL",
        "img": "produtos/2652.jpg",
        "saldo": 110
-      },
-      {
-       "cod": 2653,
-       "cor": "Preto",
-       "nome": "RETRO 1.0 PILOT-PRETO",
-       "img": "produtos/2653.jpg",
-       "saldo": 16
       },
       {
        "cod": 2654,
@@ -3357,8 +3351,7 @@
        "img": "produtos/2655.jpg",
        "saldo": 59
       }
-     ],
-     "saldo": 110
+     ]
     },
     {
      "cod": 2656,
@@ -3366,13 +3359,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
+     "saldo": 161,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 175
+       "saldo": 161
       },
       {
        "cod": 2657,
@@ -3393,10 +3387,9 @@
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 29
+       "saldo": 28
       }
-     ],
-     "saldo": 175
+     ]
     }
    ]
   },
@@ -3450,7 +3443,7 @@
      "marca": "PENTEL",
      "preco": 5.9,
      "img": "produtos/1507.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 1509,
@@ -3586,7 +3579,7 @@
      "marca": "COMPACTOR",
      "preco": 9.9,
      "img": "produtos/14376.jpg",
-     "saldo": 106
+     "saldo": 104
     },
     {
      "cod": 14437,
@@ -3618,13 +3611,13 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14555.jpg",
+     "saldo": 48,
      "controle": [
       "AZUL",
       "CINZA",
       "PRETO",
       "VERMELHO"
      ],
-     "saldo": 48,
      "saldo_cor": {
       "AZUL": 12,
       "CINZA": 12,
@@ -3638,13 +3631,13 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
+     "saldo": 47,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "VERDE-ÁGUA"
      ],
-     "saldo": 47,
      "saldo_cor": {
       "AZUL": 12,
       "LILAS": 11,
@@ -3658,13 +3651,13 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14559.jpg",
+     "saldo": 48,
      "controle": [
       "AZUL",
       "PRETO",
       "ROSA",
       "ROXO"
      ],
-     "saldo": 48,
      "saldo_cor": {
       "AZUL": 12,
       "PRETO": 12,
@@ -3702,12 +3695,12 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
+     "saldo": 96,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO"
      ],
-     "saldo": 96,
      "saldo_cor": {
       "AZUL": 32,
       "ROSA": 32,
@@ -3758,13 +3751,13 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14556.jpg",
+     "saldo": 47,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERDE-ÁGUA"
      ],
-     "saldo": 47,
      "saldo_cor": {
       "AZUL": 12,
       "ROSA": 12,
@@ -3778,13 +3771,13 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14544.jpg",
+     "saldo": 36,
      "controle": [
       "LILAS",
       "ROSA",
       "SALMÃO",
       "VERDE"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "LILAS": 9,
       "ROSA": 9,
@@ -3798,12 +3791,12 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14606.jpg",
+     "saldo": 24,
      "controle": [
       "LARANJA",
       "ROSA",
       "ROXO"
      ],
-     "saldo": 24,
      "saldo_cor": {
       "LARANJA": 6,
       "ROSA": 10,
@@ -3824,6 +3817,7 @@
      "marca": "FABER",
      "preco": 6.9,
      "img": "produtos/10389.jpg",
+     "saldo": 59,
      "cores": [
       {
        "cod": 10389,
@@ -3853,8 +3847,7 @@
        "img": "produtos/10392.jpg",
        "saldo": 113
       }
-     ],
-     "saldo": 59
+     ]
     },
     {
      "cod": 3214,
@@ -3862,6 +3855,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/3214.jpg",
+     "saldo": 98,
      "cores": [
       {
        "cod": 3214,
@@ -3891,8 +3885,7 @@
        "img": "produtos/3217.jpg",
        "saldo": 12
       }
-     ],
-     "saldo": 98
+     ]
     },
     {
      "cod": 283,
@@ -3972,13 +3965,13 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14520.jpg",
+     "saldo": 180,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "VERDE-ÁGUA"
      ],
-     "saldo": 180,
      "saldo_cor": {
       "AZUL": 50,
       "LILAS": 40,
@@ -3992,13 +3985,13 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14519.jpg",
+     "saldo": 141,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERDE-ÁGUA"
      ],
-     "saldo": 141,
      "saldo_cor": {
       "AZUL": 35,
       "ROSA": 36,
@@ -4012,13 +4005,13 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14486.jpg",
+     "saldo": 216,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "VERDE-ÁGUA"
      ],
-     "saldo": 216,
      "saldo_cor": {
       "AZUL": 54,
       "LILAS": 54,
@@ -4120,6 +4113,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12697.jpg",
+     "saldo": 9,
      "cores": [
       {
        "cod": 12697,
@@ -4149,8 +4143,7 @@
        "img": "produtos/12698.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 9
+     ]
     },
     {
      "cod": 14590,
@@ -4158,13 +4151,13 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
+     "saldo": 72,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERDE-ÁGUA"
      ],
-     "saldo": 72,
      "saldo_cor": {
       "AZUL": 18,
       "ROSA": 18,
@@ -4178,12 +4171,12 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14589.jpg",
+     "saldo": 71,
      "controle": [
       "AMARELO",
       "AZUL",
       "VERMELHO"
      ],
-     "saldo": 71,
      "saldo_cor": {
       "AMARELO": 24,
       "AZUL": 23,
@@ -4196,12 +4189,12 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14548.jpg",
+     "saldo": 24,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA"
      ],
-     "saldo": 24,
      "saldo_cor": {
       "AZUL": 8,
       "LILAS": 8,
@@ -4214,12 +4207,12 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14563.jpg",
+     "saldo": 47,
      "controle": [
       "AMARELO",
       "AZUL",
       "VERMELHO"
      ],
-     "saldo": 47,
      "saldo_cor": {
       "AMARELO": 16,
       "AZUL": 15,
@@ -4310,7 +4303,7 @@
      "marca": "TILIBRA",
      "preco": 53.9,
      "img": "produtos/14270.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 7930,
@@ -4318,7 +4311,7 @@
      "marca": "TILIBRA",
      "preco": 53.9,
      "img": "produtos/7930.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 7929,
@@ -4446,6 +4439,7 @@
      "marca": "LORIGRAF",
      "preco": 23.9,
      "img": "produtos/14313.jpg",
+     "saldo": 22,
      "cores": [
       {
        "cod": 14313,
@@ -4459,10 +4453,9 @@
        "cor": "Preto",
        "nome": "AGENDA COMERCIAL ESPIRAL 352FLS PRETO",
        "img": "produtos/14312.jpg",
-       "saldo": 23
+       "saldo": 22
       }
-     ],
-     "saldo": 22
+     ]
     },
     {
      "cod": 14315,
@@ -4470,6 +4463,7 @@
      "marca": "LORIGRAF",
      "preco": 31.9,
      "img": "produtos/14315.jpg",
+     "saldo": 15,
      "cores": [
       {
        "cod": 14315,
@@ -4492,8 +4486,7 @@
        "img": "produtos/14314.jpg",
        "saldo": 44
       }
-     ],
-     "saldo": 15
+     ]
     },
     {
      "cod": 14311,
@@ -4827,7 +4820,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/11425.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 13212,
@@ -5043,6 +5036,7 @@
      "marca": "TILIBRA",
      "preco": 54.9,
      "img": "produtos/5623.jpg",
+     "saldo": 10,
      "cores": [
       {
        "cod": 5623,
@@ -5079,8 +5073,7 @@
        "img": "produtos/5628.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 10
+     ]
     },
     {
      "cod": 12765,
@@ -5344,6 +5337,7 @@
      "marca": "SAO DOMING",
      "preco": 37.9,
      "img": "produtos/12983.jpg",
+     "saldo": 28,
      "cores": [
       {
        "cod": 12983,
@@ -5373,8 +5367,7 @@
        "img": "produtos/13205.jpg",
        "saldo": 29
       }
-     ],
-     "saldo": 28
+     ]
     },
     {
      "cod": 13207,
@@ -5574,7 +5567,7 @@
      "marca": "CREDEAL",
      "preco": 19.9,
      "img": "produtos/8402.jpg",
-     "saldo": 46
+     "saldo": 44
     },
     {
      "cod": 12767,
@@ -5774,6 +5767,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/5615.jpg",
+     "saldo": 11,
      "cores": [
       {
        "cod": 5615,
@@ -5817,8 +5811,7 @@
        "img": "produtos/5618.jpg",
        "saldo": 9
       }
-     ],
-     "saldo": 11
+     ]
     },
     {
      "cod": 7783,
@@ -6210,6 +6203,7 @@
      "marca": "MAXIMA",
      "preco": 12.9,
      "img": "produtos/367.jpg",
+     "saldo": 37,
      "cores": [
       {
        "cod": 367,
@@ -6232,8 +6226,7 @@
        "img": "produtos/369.jpg",
        "saldo": 161
       }
-     ],
-     "saldo": 37
+     ]
     },
     {
      "cod": 365,
@@ -6241,6 +6234,7 @@
      "marca": "MAXIMA",
      "preco": 18.9,
      "img": "produtos/365.jpg",
+     "saldo": 158,
      "cores": [
       {
        "cod": 365,
@@ -6256,8 +6250,7 @@
        "img": "produtos/366.jpg",
        "saldo": 30
       }
-     ],
-     "saldo": 158
+     ]
     },
     {
      "cod": 12341,
@@ -6401,6 +6394,7 @@
      "marca": "SAO DOMING",
      "preco": 9.9,
      "img": "produtos/11342.jpg",
+     "saldo": 184,
      "cores": [
       {
        "cod": 11342,
@@ -6423,8 +6417,7 @@
        "img": "produtos/11344.jpg",
        "saldo": 92
       }
-     ],
-     "saldo": 184
+     ]
     },
     {
      "cod": 9989,
@@ -6432,6 +6425,7 @@
      "marca": "TILIBRA",
      "preco": 13.9,
      "img": "produtos/9989.jpg",
+     "saldo": 36,
      "cores": [
       {
        "cod": 9989,
@@ -6454,8 +6448,7 @@
        "img": "produtos/9988.jpg",
        "saldo": 20
       }
-     ],
-     "saldo": 36
+     ]
     },
     {
      "cod": 8103,
@@ -6871,6 +6864,7 @@
      "marca": "TILIBRA",
      "preco": 13.9,
      "img": "produtos/397.jpg",
+     "saldo": 43,
      "cores": [
       {
        "cod": 397,
@@ -6900,8 +6894,7 @@
        "img": "produtos/9009.jpg",
        "saldo": 45
       }
-     ],
-     "saldo": 43
+     ]
     },
     {
      "cod": 6061,
@@ -7229,6 +7222,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12411.jpg",
+     "saldo": 69,
      "cores": [
       {
        "cod": 12411,
@@ -7251,8 +7245,7 @@
        "img": "produtos/13763.jpg",
        "saldo": 107
       }
-     ],
-     "saldo": 69
+     ]
     },
     {
      "cod": 5745,
@@ -7468,6 +7461,7 @@
      "marca": "CREDEAL",
      "preco": 5.9,
      "img": "produtos/12447.jpg",
+     "saldo": 44,
      "cores": [
       {
        "cod": 12447,
@@ -7504,8 +7498,7 @@
        "img": "produtos/12449.jpg",
        "saldo": 51
       }
-     ],
-     "saldo": 44
+     ]
     },
     {
      "cod": 12800,
@@ -7545,6 +7538,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/9320.jpg",
+     "saldo": 43,
      "cores": [
       {
        "cod": 9320,
@@ -7581,8 +7575,7 @@
        "img": "produtos/9322.jpg",
        "saldo": 29
       }
-     ],
-     "saldo": 43
+     ]
     },
     {
      "cod": 13719,
@@ -7772,7 +7765,7 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/7535.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 11810,
@@ -8336,11 +8329,11 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14604.jpg",
+     "saldo": 47,
      "controle": [
       "LILAS",
       "ROSA"
      ],
-     "saldo": 47,
      "saldo_cor": {
       "LILAS": 23,
       "ROSA": 24
@@ -8712,6 +8705,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3366.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 3366,
@@ -8727,8 +8721,7 @@
        "img": "produtos/3362.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 9819,
@@ -8774,7 +8767,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4383
+     "saldo": 4380
     },
     {
      "cod": 14619,
@@ -8790,6 +8783,7 @@
      "marca": "ADELBRAS",
      "preco": 1.5,
      "img": "produtos/1021.jpg",
+     "saldo": 549,
      "cores": [
       {
        "cod": 1021,
@@ -8833,8 +8827,7 @@
        "img": "produtos/1027.jpg",
        "saldo": 555
       }
-     ],
-     "saldo": 549
+     ]
     },
     {
      "cod": 12005,
@@ -8898,6 +8891,7 @@
      "marca": "ADELBRAS",
      "preco": 20.9,
      "img": "produtos/6761.jpg",
+     "saldo": 23,
      "cores": [
       {
        "cod": 6761,
@@ -8927,8 +8921,7 @@
        "img": "produtos/6764.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 23
+     ]
     },
     {
      "cod": 11976,
@@ -8952,7 +8945,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 147
+     "saldo": 146
     },
     {
      "cod": 1020,
@@ -9000,7 +8993,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 431
+     "saldo": 428
     },
     {
      "cod": 1313,
@@ -9016,7 +9009,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 743
+     "saldo": 730
     },
     {
      "cod": 1317,
@@ -9078,7 +9071,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 1520,
@@ -9142,7 +9135,7 @@
      "marca": "MAPED",
      "preco": 46.9,
      "img": "produtos/1526.jpg",
-     "saldo": 44
+     "saldo": 42
     },
     {
      "cod": 11574,
@@ -9166,7 +9159,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/11872.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 9090,
@@ -9362,12 +9355,12 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/14603.jpg",
+     "saldo": 24,
      "controle": [
       "LILAS",
       "ROSA",
       "VERDE"
      ],
-     "saldo": 24,
      "saldo_cor": {
       "LILAS": 8,
       "ROSA": 8,
@@ -9396,12 +9389,12 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14593.jpg",
+     "saldo": 36,
      "controle": [
       "AZUL",
       "CRISTAL",
       "ROSA"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "AZUL": 12,
       "CRISTAL": 12,
@@ -9478,12 +9471,12 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14594.jpg",
+     "saldo": 36,
      "controle": [
       "AZUL",
       "CRISTAL",
       "ROSA"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "AZUL": 12,
       "CRISTAL": 12,
@@ -9614,6 +9607,7 @@
      "marca": "MERCUR",
      "preco": 14.9,
      "img": "produtos/6716.jpg",
+     "saldo": 72,
      "cores": [
       {
        "cod": 6716,
@@ -9636,8 +9630,7 @@
        "img": "produtos/7906.jpg",
        "saldo": 72
       }
-     ],
-     "saldo": 72
+     ]
     },
     {
      "cod": 7291,
@@ -9733,7 +9726,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 144
+     "saldo": 139
     },
     {
      "cod": 2618,
@@ -9913,7 +9906,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 3479,
@@ -10017,6 +10010,7 @@
      "marca": "DELLO",
      "preco": 22.9,
      "img": "produtos/1548.jpg",
+     "saldo": 9,
      "cores": [
       {
        "cod": 1548,
@@ -10032,8 +10026,7 @@
        "img": "produtos/11703.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 9
+     ]
     }
    ]
   },
@@ -10111,7 +10104,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1981.jpg",
-     "saldo": 81
+     "saldo": 77
     },
     {
      "cod": 4320,
@@ -10331,6 +10324,7 @@
      "marca": "ART FLOC",
      "preco": 1.8,
      "img": "produtos/2018.jpg",
+     "saldo": 31,
      "cores": [
       {
        "cod": 2018,
@@ -10402,8 +10396,7 @@
        "img": "produtos/2030.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 31
+     ]
     },
     {
      "cod": 673,
@@ -10443,6 +10436,7 @@
      "marca": "GRIFFE",
      "preco": 1.6,
      "img": "produtos/740.jpg",
+     "saldo": 180,
      "cores": [
       {
        "cod": 740,
@@ -10528,8 +10522,7 @@
        "img": "produtos/751.jpg",
        "saldo": 39
       }
-     ],
-     "saldo": 180
+     ]
     },
     {
      "cod": 2032,
@@ -10537,6 +10530,7 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2032.jpg",
+     "saldo": 216,
      "cores": [
       {
        "cod": 2032,
@@ -10557,7 +10551,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 258
+       "saldo": 257
       },
       {
        "cod": 2035,
@@ -10573,8 +10567,7 @@
        "img": "produtos/2036.jpg",
        "saldo": 198
       }
-     ],
-     "saldo": 216
+     ]
     },
     {
      "cod": 3765,
@@ -10582,6 +10575,7 @@
      "marca": "EMBALE",
      "preco": 1.5,
      "img": "produtos/3765.jpg",
+     "saldo": 92,
      "cores": [
       {
        "cod": 3765,
@@ -10618,8 +10612,7 @@
        "img": "produtos/756.jpg",
        "saldo": 278
       }
-     ],
-     "saldo": 92
+     ]
     },
     {
      "cod": 4765,
@@ -10635,6 +10628,7 @@
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/2051.jpg",
+     "saldo": 33,
      "cores": [
       {
        "cod": 2051,
@@ -10720,8 +10714,7 @@
        "img": "produtos/5162.jpg",
        "saldo": 23
       }
-     ],
-     "saldo": 33
+     ]
     },
     {
      "cod": 2037,
@@ -10729,6 +10722,7 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
+     "saldo": 332,
      "cores": [
       {
        "cod": 2037,
@@ -10791,7 +10785,7 @@
        "cor": "Verde Bandeira",
        "nome": "COLORSETE-VERDE BANDEIRA",
        "img": "produtos/2047.jpg",
-       "saldo": 18
+       "saldo": 3
       },
       {
        "cod": 2048,
@@ -10807,8 +10801,7 @@
        "img": "produtos/2050.jpg",
        "saldo": 138
       }
-     ],
-     "saldo": 332
+     ]
     },
     {
      "cod": 2068,
@@ -10816,6 +10809,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
+     "saldo": 119,
      "cores": [
       {
        "cod": 2068,
@@ -10908,8 +10902,7 @@
        "img": "produtos/2081.jpg",
        "saldo": 8
       }
-     ],
-     "saldo": 119
+     ]
     },
     {
      "cod": 7736,
@@ -10925,6 +10918,7 @@
      "marca": "V.M.P",
      "preco": 1.0,
      "img": "produtos/2085.jpg",
+     "saldo": 173,
      "cores": [
       {
        "cod": 2085,
@@ -10975,8 +10969,7 @@
        "img": "produtos/2092.jpg",
        "saldo": 128
       }
-     ],
-     "saldo": 173
+     ]
     },
     {
      "cod": 2114,
@@ -10984,6 +10977,7 @@
      "marca": "CROMUS",
      "preco": 1.5,
      "img": "produtos/2114.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 2114,
@@ -11027,8 +11021,7 @@
        "img": "produtos/2119.jpg",
        "saldo": 66
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 5986,
@@ -11044,7 +11037,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 562
+     "saldo": 557
     },
     {
      "cod": 6844,
@@ -11068,7 +11061,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 172
+     "saldo": 171
     },
     {
      "cod": 5082,
@@ -11092,7 +11085,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 132
+     "saldo": 130
     },
     {
      "cod": 2016,
@@ -11108,7 +11101,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 780
+     "saldo": 760
     },
     {
      "cod": 2007,
@@ -11116,6 +11109,7 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
+     "saldo": 45,
      "cores": [
       {
        "cod": 2007,
@@ -11145,8 +11139,7 @@
        "img": "produtos/6313.jpg",
        "saldo": 67
       }
-     ],
-     "saldo": 45
+     ]
     },
     {
      "cod": 2012,
@@ -11194,7 +11187,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 217
+     "saldo": 216
     },
     {
      "cod": 2100,
@@ -11234,6 +11227,7 @@
      "marca": "VMP",
      "preco": 3.0,
      "img": "produtos/2124.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 2124,
@@ -11249,8 +11243,7 @@
        "img": "produtos/2127.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 2128,
@@ -11742,7 +11735,7 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/12633.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 3020,
@@ -11750,6 +11743,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/3020.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 3020,
@@ -11856,8 +11850,7 @@
        "img": "produtos/3027.jpg",
        "saldo": 28
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 5763,
@@ -11881,6 +11874,7 @@
      "marca": "MARIPEL",
      "preco": 6.9,
      "img": "produtos/3033.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 3033,
@@ -11903,8 +11897,7 @@
        "img": "produtos/10128.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 7686,
@@ -11960,7 +11953,7 @@
      "marca": "",
      "preco": 2.4,
      "img": "produtos/10992.jpg",
-     "saldo": 147
+     "saldo": 146
     },
     {
      "cod": 10371,
@@ -12000,7 +11993,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/10997.jpg",
-     "saldo": 186
+     "saldo": 185
     },
     {
      "cod": 10998,
@@ -12008,7 +12001,7 @@
      "marca": "",
      "preco": 5.5,
      "img": "produtos/10998.jpg",
-     "saldo": 186
+     "saldo": 185
     },
     {
      "cod": 10994,
@@ -12320,6 +12313,7 @@
      "marca": "RADEX",
      "preco": 5.9,
      "img": "produtos/2980.jpg",
+     "saldo": 25,
      "cores": [
       {
        "cod": 2980,
@@ -12342,8 +12336,7 @@
        "img": "produtos/2982.jpg",
        "saldo": 13
       }
-     ],
-     "saldo": 25
+     ]
     },
     {
      "cod": 2977,
@@ -12351,6 +12344,7 @@
      "marca": "PILOT",
      "preco": 15.9,
      "img": "produtos/2977.jpg",
+     "saldo": 46,
      "cores": [
       {
        "cod": 2977,
@@ -12373,8 +12367,7 @@
        "img": "produtos/2979.jpg",
        "saldo": 19
       }
-     ],
-     "saldo": 46
+     ]
     },
     {
      "cod": 2975,
@@ -12382,6 +12375,7 @@
      "marca": "RADEX",
      "preco": 8.9,
      "img": "produtos/2975.jpg",
+     "saldo": 14,
      "cores": [
       {
        "cod": 2975,
@@ -12397,8 +12391,7 @@
        "img": "produtos/2976.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 14
+     ]
     },
     {
      "cod": 2983,
@@ -12422,6 +12415,7 @@
      "marca": "COLORMAKE",
      "preco": 7.9,
      "img": "produtos/7523.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 7523,
@@ -12437,8 +12431,7 @@
        "img": "produtos/7522.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 14075,
@@ -12518,6 +12511,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9408.jpg",
+     "saldo": 178,
      "cores": [
       {
        "cod": 9408,
@@ -12540,8 +12534,7 @@
        "img": "produtos/9410.jpg",
        "saldo": 55
       }
-     ],
-     "saldo": 178
+     ]
     },
     {
      "cod": 4461,
@@ -12557,6 +12550,7 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2994.jpg",
+     "saldo": 53,
      "cores": [
       {
        "cod": 2994,
@@ -12579,8 +12573,7 @@
        "img": "produtos/2996.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 53
+     ]
     },
     {
      "cod": 3000,
@@ -12604,6 +12597,7 @@
      "marca": "ACRILEX",
      "preco": 35.9,
      "img": "produtos/11670.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 11670,
@@ -12619,8 +12613,7 @@
        "img": "produtos/7378.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 6
+     ]
     },
     {
      "cod": 3709,
@@ -12628,13 +12621,14 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/3709.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 3709,
        "cor": "Amarelo Ouro",
        "nome": "TINTA TECIDO 37ML-AMARELO OURO",
        "img": "produtos/3709.jpg",
-       "saldo": 3
+       "saldo": 2
       },
       {
        "cod": 3710,
@@ -12648,28 +12642,21 @@
        "cor": "Azul Marinho",
        "nome": "TINTA TECIDO 37ML-AZUL MARINHO",
        "img": "produtos/3712.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 3006,
        "cor": "Azul Turquesa",
        "nome": "TINTA TECIDO 37ML-AZUL TURQUESA",
        "img": "produtos/3006.jpg",
-       "saldo": 6
-      },
-      {
-       "cod": 3008,
-       "cor": "Laranja",
-       "nome": "TINTA TECIDO 37ML-LARANJA",
-       "img": "produtos/3008.jpg",
-       "saldo": 1
+       "saldo": 5
       },
       {
        "cod": 7124,
        "cor": "Lilas",
        "nome": "TINTA TECIDO 37ML-LILAS",
        "img": "produtos/7124.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 3010,
@@ -12683,7 +12670,7 @@
        "cor": "Pink",
        "nome": "TINTA TECIDO 37ML-PINK",
        "img": "produtos/3012.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 3011,
@@ -12697,10 +12684,9 @@
        "cor": "Verde Bandeira",
        "nome": "TINTA TECIDO 37ML-VERDE BANDEIRA",
        "img": "produtos/3014.jpg",
-       "saldo": 3
+       "saldo": 2
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 5078,
@@ -12716,7 +12702,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/14001.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 3713,
@@ -12724,7 +12710,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/3713.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 3016,
@@ -12732,7 +12718,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/3016.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 3090,
@@ -13272,6 +13258,7 @@
      "marca": "POLIBRAS",
      "preco": 48.9,
      "img": "produtos/6197.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 6197,
@@ -13287,8 +13274,7 @@
        "img": "produtos/5173.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 4563,
@@ -13296,6 +13282,7 @@
      "marca": "POLIBRAS",
      "preco": 59.9,
      "img": "produtos/4563.jpg",
+     "saldo": 21,
      "cores": [
       {
        "cod": 4563,
@@ -13311,8 +13298,7 @@
        "img": "produtos/3259.jpg",
        "saldo": 22
       }
-     ],
-     "saldo": 21
+     ]
     },
     {
      "cod": 13749,
@@ -13328,6 +13314,7 @@
      "marca": "POLYCART",
      "preco": 48.9,
      "img": "produtos/13709.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 13709,
@@ -13343,8 +13330,7 @@
        "img": "produtos/13710.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 544,
@@ -13368,6 +13354,7 @@
      "marca": "MAXCRIL",
      "preco": 1.0,
      "img": "produtos/778.jpg",
+     "saldo": 304,
      "cores": [
       {
        "cod": 778,
@@ -13383,8 +13370,7 @@
        "img": "produtos/3309.jpg",
        "saldo": 29
       }
-     ],
-     "saldo": 304
+     ]
     },
     {
      "cod": 1245,
@@ -13448,6 +13434,7 @@
      "marca": "MAXCRIL",
      "preco": 1.5,
      "img": "produtos/14490.jpg",
+     "saldo": 279,
      "cores": [
       {
        "cod": 14490,
@@ -13463,8 +13450,7 @@
        "img": "produtos/9253.jpg",
        "saldo": 200
       }
-     ],
-     "saldo": 279
+     ]
     },
     {
      "cod": 9254,
@@ -13520,6 +13506,7 @@
      "marca": "MAXCRIL",
      "preco": 14.9,
      "img": "produtos/5203.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 5203,
@@ -13549,8 +13536,7 @@
        "img": "produtos/5206.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 6741,
@@ -13630,6 +13616,7 @@
      "marca": "MAXCRIL",
      "preco": 112.9,
      "img": "produtos/11411.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 11411,
@@ -13652,8 +13639,7 @@
        "img": "produtos/14003.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 2
+     ]
     },
     {
      "cod": 11412,
@@ -13669,6 +13655,7 @@
      "marca": "MAXCRIL",
      "preco": 86.9,
      "img": "produtos/1989.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 1989,
@@ -13684,8 +13671,7 @@
        "img": "produtos/4858.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 6
+     ]
     },
     {
      "cod": 1985,
@@ -13741,6 +13727,7 @@
      "marca": "MAXCRIL",
      "preco": 16.9,
      "img": "produtos/2462.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 2462,
@@ -13756,8 +13743,7 @@
        "img": "produtos/4859.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 2465,
@@ -13821,6 +13807,7 @@
      "marca": "MAXCRIL",
      "preco": 14.9,
      "img": "produtos/9198.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 9198,
@@ -13836,8 +13823,7 @@
        "img": "produtos/7220.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 4861,
@@ -13877,6 +13863,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/2471.jpg",
+     "saldo": 15,
      "cores": [
       {
        "cod": 2471,
@@ -13892,8 +13879,7 @@
        "img": "produtos/7504.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 15
+     ]
     },
     {
      "cod": 9144,
@@ -13949,6 +13935,7 @@
      "marca": "MAXCRIL",
      "preco": 19.9,
      "img": "produtos/4857.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 4857,
@@ -13964,8 +13951,7 @@
        "img": "produtos/4854.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 6360,
@@ -14179,6 +14165,7 @@
      "marca": "POLIBRAS",
      "preco": 19.9,
      "img": "produtos/1803.jpg",
+     "saldo": 38,
      "cores": [
       {
        "cod": 1803,
@@ -14208,8 +14195,7 @@
        "img": "produtos/1807.jpg",
        "saldo": 51
       }
-     ],
-     "saldo": 38
+     ]
     },
     {
      "cod": 14259,
@@ -14233,6 +14219,7 @@
      "marca": "POLYCART",
      "preco": 3.9,
      "img": "produtos/2183.jpg",
+     "saldo": 57,
      "cores": [
       {
        "cod": 2183,
@@ -14290,8 +14277,7 @@
        "img": "produtos/2191.jpg",
        "saldo": 105
       }
-     ],
-     "saldo": 57
+     ]
     },
     {
      "cod": 11947,
@@ -14331,6 +14317,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/4153.jpg",
+     "saldo": 558,
      "cores": [
       {
        "cod": 4153,
@@ -14346,8 +14333,7 @@
        "img": "produtos/11014.jpg",
        "saldo": 263
       }
-     ],
-     "saldo": 558
+     ]
     },
     {
      "cod": 9881,
@@ -14403,6 +14389,7 @@
      "marca": "PLASCONY",
      "preco": 19.9,
      "img": "produtos/14202.jpg",
+     "saldo": 10,
      "cores": [
       {
        "cod": 14202,
@@ -14432,8 +14419,7 @@
        "img": "produtos/11334.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 10
+     ]
     },
     {
      "cod": 11339,
@@ -14465,6 +14451,7 @@
      "marca": "PLASCONY",
      "preco": 35.9,
      "img": "produtos/14199.jpg",
+     "saldo": 10,
      "cores": [
       {
        "cod": 14199,
@@ -14494,8 +14481,7 @@
        "img": "produtos/14197.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 10
+     ]
     },
     {
      "cod": 2213,
@@ -14511,6 +14497,7 @@
      "marca": "POLIBRAS",
      "preco": 9.9,
      "img": "produtos/10024.jpg",
+     "saldo": 15,
      "cores": [
       {
        "cod": 10024,
@@ -14540,8 +14527,7 @@
        "img": "produtos/10022.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 15
+     ]
     },
     {
      "cod": 11746,
@@ -14565,6 +14551,7 @@
      "marca": "POLYCART",
      "preco": 3.5,
      "img": "produtos/2218.jpg",
+     "saldo": 49,
      "cores": [
       {
        "cod": 2218,
@@ -14622,8 +14609,7 @@
        "img": "produtos/2227.jpg",
        "saldo": 76
       }
-     ],
-     "saldo": 49
+     ]
     },
     {
      "cod": 12538,
@@ -14639,6 +14625,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2223.jpg",
+     "saldo": 190,
      "cores": [
       {
        "cod": 2223,
@@ -14654,8 +14641,7 @@
        "img": "produtos/2222.jpg",
        "saldo": 87
       }
-     ],
-     "saldo": 190
+     ]
     },
     {
      "cod": 6799,
@@ -14663,6 +14649,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/6799.jpg",
+     "saldo": 12,
      "cores": [
       {
        "cod": 6799,
@@ -14678,8 +14665,7 @@
        "img": "produtos/6800.jpg",
        "saldo": 11
       }
-     ],
-     "saldo": 12
+     ]
     },
     {
      "cod": 6802,
@@ -14695,6 +14681,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/4152.jpg",
+     "saldo": 201,
      "cores": [
       {
        "cod": 4152,
@@ -14710,8 +14697,7 @@
        "img": "produtos/6798.jpg",
        "saldo": 141
       }
-     ],
-     "saldo": 201
+     ]
     },
     {
      "cod": 12475,
@@ -14767,6 +14753,7 @@
      "marca": "POLIBRAS",
      "preco": 5.9,
      "img": "produtos/6190.jpg",
+     "saldo": 43,
      "cores": [
       {
        "cod": 6190,
@@ -14787,7 +14774,7 @@
        "cor": "Verde",
        "nome": "PASTA POLIONDA 2CM VERDE",
        "img": "produtos/6191.jpg",
-       "saldo": 26
+       "saldo": 24
       },
       {
        "cod": 2171,
@@ -14796,8 +14783,7 @@
        "img": "produtos/2171.jpg",
        "saldo": 43
       }
-     ],
-     "saldo": 43
+     ]
     },
     {
      "cod": 2174,
@@ -14805,6 +14791,7 @@
      "marca": "POLIBRAS",
      "preco": 6.9,
      "img": "produtos/2174.jpg",
+     "saldo": 52,
      "cores": [
       {
        "cod": 2174,
@@ -14834,8 +14821,7 @@
        "img": "produtos/3870.jpg",
        "saldo": 24
       }
-     ],
-     "saldo": 52
+     ]
     },
     {
      "cod": 2178,
@@ -14843,6 +14829,7 @@
      "marca": "POLIBRAS",
      "preco": 7.9,
      "img": "produtos/2178.jpg",
+     "saldo": 43,
      "cores": [
       {
        "cod": 2178,
@@ -14872,8 +14859,7 @@
        "img": "produtos/3872.jpg",
        "saldo": 31
       }
-     ],
-     "saldo": 43
+     ]
     },
     {
      "cod": 11153,
@@ -14897,6 +14883,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/13817.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 13817,
@@ -14912,8 +14899,7 @@
        "img": "produtos/13818.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 5176,
@@ -14921,6 +14907,7 @@
      "marca": "POLIBRAS",
      "preco": 5.9,
      "img": "produtos/5176.jpg",
+     "saldo": 43,
      "cores": [
       {
        "cod": 5176,
@@ -14950,8 +14937,7 @@
        "img": "produtos/11003.jpg",
        "saldo": 49
       }
-     ],
-     "saldo": 43
+     ]
     },
     {
      "cod": 2231,
@@ -14959,13 +14945,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
+     "saldo": 24,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 29
+       "saldo": 24
       },
       {
        "cod": 6797,
@@ -14974,8 +14961,7 @@
        "img": "produtos/6797.jpg",
        "saldo": 28
       }
-     ],
-     "saldo": 29
+     ]
     },
     {
      "cod": 14204,
@@ -14999,13 +14985,14 @@
      "marca": "POLIBRAS",
      "preco": 12.9,
      "img": "produtos/10013.jpg",
+     "saldo": 13,
      "cores": [
       {
        "cod": 10013,
        "cor": "Azul",
        "nome": "PASTA PP 2CM POLIBRAS-AZUL NEON",
        "img": "produtos/10013.jpg",
-       "saldo": 16
+       "saldo": 13
       },
       {
        "cod": 10011,
@@ -15021,8 +15008,7 @@
        "img": "produtos/10010.jpg",
        "saldo": 12
       }
-     ],
-     "saldo": 16
+     ]
     },
     {
      "cod": 12542,
@@ -15030,6 +15016,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/12542.jpg",
+     "saldo": 15,
      "cores": [
       {
        "cod": 12542,
@@ -15059,8 +15046,7 @@
        "img": "produtos/13947.jpg",
        "saldo": 16
       }
-     ],
-     "saldo": 15
+     ]
     },
     {
      "cod": 3592,
@@ -15092,6 +15078,7 @@
      "marca": "LILAS",
      "preco": 9.9,
      "img": "produtos/14450.jpg",
+     "saldo": 38,
      "cores": [
       {
        "cod": 14450,
@@ -15114,8 +15101,7 @@
        "img": "produtos/14447.jpg",
        "saldo": 40
       }
-     ],
-     "saldo": 38
+     ]
     },
     {
      "cod": 14209,
@@ -15131,6 +15117,7 @@
      "marca": "POLIBRAS",
      "preco": 15.9,
      "img": "produtos/10020.jpg",
+     "saldo": 15,
      "cores": [
       {
        "cod": 10020,
@@ -15160,8 +15147,7 @@
        "img": "produtos/10019.jpg",
        "saldo": 31
       }
-     ],
-     "saldo": 15
+     ]
     },
     {
      "cod": 3929,
@@ -15177,6 +15163,7 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14205.jpg",
+     "saldo": 52,
      "cores": [
       {
        "cod": 14205,
@@ -15206,8 +15193,7 @@
        "img": "produtos/14446.jpg",
        "saldo": 38
       }
-     ],
-     "saldo": 52
+     ]
     },
     {
      "cod": 14207,
@@ -15263,6 +15249,7 @@
      "marca": "POLIBRAS",
      "preco": 29.9,
      "img": "produtos/5181.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 5181,
@@ -15285,8 +15272,7 @@
        "img": "produtos/6308.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 2264,
@@ -15366,6 +15352,7 @@
      "marca": "POLIBRAS",
      "preco": 26.9,
      "img": "produtos/11008.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 11008,
@@ -15381,8 +15368,7 @@
        "img": "produtos/11006.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 11007,
@@ -15460,7 +15446,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/4918.jpg",
-     "saldo": 15
+     "saldo": 13
     },
     {
      "cod": 4919,
@@ -15680,7 +15666,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 13124,
@@ -15720,6 +15706,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/10263.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 10263,
@@ -15742,8 +15729,7 @@
        "img": "produtos/10264.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 12746,
@@ -15759,6 +15745,7 @@
      "marca": "ACRILEX",
      "preco": 18.9,
      "img": "produtos/12738.jpg",
+     "saldo": 74,
      "cores": [
       {
        "cod": 12738,
@@ -15774,8 +15761,7 @@
        "img": "produtos/12737.jpg",
        "saldo": 45
       }
-     ],
-     "saldo": 74
+     ]
     },
     {
      "cod": 14212,
@@ -15823,11 +15809,11 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14611.jpg",
+     "saldo": 40,
      "controle": [
       "AZUL",
       "ROSA"
      ],
-     "saldo": 40,
      "saldo_cor": {
       "AZUL": 20,
       "ROSA": 20
@@ -15839,13 +15825,13 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14596.jpg",
+     "saldo": 72,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERDE"
      ],
-     "saldo": 72,
      "saldo_cor": {
       "AZUL": 18,
       "ROSA": 18,
@@ -15859,13 +15845,13 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
+     "saldo": 240,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERDE"
      ],
-     "saldo": 240,
      "saldo_cor": {
       "AZUL": 80,
       "ROSA": 80,
@@ -15917,6 +15903,7 @@
      "marca": "MAKE+",
      "preco": 3.9,
      "img": "produtos/8929.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 8929,
@@ -16014,10 +16001,9 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 17
+       "saldo": 15
       }
-     ],
-     "saldo": 2
+     ]
     },
     {
      "cod": 5367,
@@ -16033,7 +16019,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 53
+     "saldo": 51
     },
     {
      "cod": 1228,
@@ -16041,20 +16027,21 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
+     "saldo": 293,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 294
+       "saldo": 293
       },
       {
        "cod": 1230,
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 250
+       "saldo": 249
       },
       {
        "cod": 1231,
@@ -16089,7 +16076,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 162
+       "saldo": 161
       },
       {
        "cod": 1235,
@@ -16110,14 +16097,14 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 97
+       "saldo": 96
       },
       {
        "cod": 1238,
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 101
+       "saldo": 100
       },
       {
        "cod": 1239,
@@ -16152,7 +16139,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 359
+       "saldo": 358
       },
       {
        "cod": 1244,
@@ -16161,8 +16148,7 @@
        "img": "produtos/1244.jpg",
        "saldo": 230
       }
-     ],
-     "saldo": 294
+     ]
     },
     {
      "cod": 3057,
@@ -16178,7 +16164,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3058.jpg",
-     "saldo": 653
+     "saldo": 652
     },
     {
      "cod": 7000,
@@ -16194,7 +16180,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/4206.jpg",
-     "saldo": 451
+     "saldo": 452
     },
     {
      "cod": 3060,
@@ -16976,6 +16962,7 @@
      "marca": "CIS",
      "preco": 17.9,
      "img": "produtos/13057.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 13057,
@@ -17005,8 +16992,7 @@
        "img": "produtos/13056.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 2
+     ]
     },
     {
      "cod": 13375,
@@ -17030,6 +17016,7 @@
      "marca": "DAC",
      "preco": 12.9,
      "img": "produtos/8213.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 8213,
@@ -17045,8 +17032,7 @@
        "img": "produtos/8203.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 8200,
@@ -17190,6 +17176,7 @@
      "marca": "DAC",
      "preco": 49.9,
      "img": "produtos/8264.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 8264,
@@ -17205,8 +17192,7 @@
        "img": "produtos/8265.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 12532,
@@ -17510,6 +17496,7 @@
      "marca": "MT KIDS",
      "preco": 18.9,
      "img": "produtos/10883.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 10883,
@@ -17539,8 +17526,7 @@
        "img": "produtos/10882.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 5422,
@@ -17556,6 +17542,7 @@
      "marca": "MT KIDS",
      "preco": 59.9,
      "img": "produtos/13090.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 13090,
@@ -17571,8 +17558,7 @@
        "img": "produtos/10878.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 8021,
@@ -17580,6 +17566,7 @@
      "marca": "MT KIDS",
      "preco": 59.9,
      "img": "produtos/8021.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 8021,
@@ -17595,8 +17582,7 @@
        "img": "produtos/8024.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 2
+     ]
     },
     {
      "cod": 8023,
@@ -17922,6 +17908,7 @@
      "marca": "MT KIDS",
      "preco": 45.9,
      "img": "produtos/5942.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 5942,
@@ -17937,8 +17924,7 @@
        "img": "produtos/5948.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 6173,
@@ -18334,6 +18320,7 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
+     "saldo": 227,
      "cores": [
       {
        "cod": 660,
@@ -18349,8 +18336,7 @@
        "img": "produtos/661.jpg",
        "saldo": 260
       }
-     ],
-     "saldo": 227
+     ]
     },
     {
      "cod": 14063,
@@ -18564,6 +18550,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/67.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 67,
@@ -18593,8 +18580,7 @@
        "img": "produtos/5169.jpg",
        "saldo": 61
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 9227,
@@ -18610,6 +18596,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/73.jpg",
+     "saldo": 187,
      "cores": [
       {
        "cod": 73,
@@ -18639,8 +18626,7 @@
        "img": "produtos/5171.jpg",
        "saldo": 171
       }
-     ],
-     "saldo": 187
+     ]
     },
     {
      "cod": 9226,
@@ -18758,7 +18744,7 @@
      "marca": "PAPER MULT",
      "preco": 4.5,
      "img": "produtos/215.jpg",
-     "saldo": 111
+     "saldo": 110
     },
     {
      "cod": 6963,
@@ -18886,6 +18872,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
+     "saldo": 58,
      "cores": [
       {
        "cod": 6620,
@@ -18915,8 +18902,7 @@
        "img": "produtos/6622.jpg",
        "saldo": 61
       }
-     ],
-     "saldo": 58
+     ]
     },
     {
      "cod": 9396,
@@ -18932,6 +18918,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14599.jpg",
+     "saldo": 60,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -18940,7 +18927,6 @@
       "ROXO",
       "VERDE"
      ],
-     "saldo": 60,
      "saldo_cor": {
       "AMARELO": 10,
       "AZUL": 10,
@@ -18956,13 +18942,13 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14547.jpg",
+     "saldo": 39,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "ROXO"
      ],
-     "saldo": 39,
      "saldo_cor": {
       "AZUL": 10,
       "LILAS": 10,
@@ -19118,7 +19104,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 143
+     "saldo": 142
     },
     {
      "cod": 14261,
@@ -19354,6 +19340,7 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
+     "saldo": 36,
      "cores": [
       {
        "cod": 1465,
@@ -19369,8 +19356,7 @@
        "img": "produtos/6465.jpg",
        "saldo": 40
       }
-     ],
-     "saldo": 36
+     ]
     },
     {
      "cod": 1469,
@@ -19490,7 +19476,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 145
+     "saldo": 142
     },
     {
      "cod": 3538,
@@ -19498,7 +19484,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/3538.jpg",
-     "saldo": 283
+     "saldo": 282
     },
     {
      "cod": 12731,
@@ -19514,6 +19500,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/3539.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 3539,
@@ -19529,8 +19516,7 @@
        "img": "produtos/3545.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 4468,
@@ -19546,6 +19532,7 @@
      "marca": "ACRILEX",
      "preco": 18.9,
      "img": "produtos/11390.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 11390,
@@ -19596,8 +19583,7 @@
        "img": "produtos/11399.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 13781,
@@ -20009,6 +19995,7 @@
      "marca": "TYKHEPLAS",
      "preco": 25.9,
      "img": "produtos/4671.jpg",
+     "saldo": 9,
      "cores": [
       {
        "cod": 4671,
@@ -20052,8 +20039,7 @@
        "img": "produtos/1600.jpg",
        "saldo": 16
       }
-     ],
-     "saldo": 9
+     ]
     },
     {
      "cod": 6009,
@@ -20061,6 +20047,7 @@
      "marca": "TYKHEPLAS",
      "preco": 29.9,
      "img": "produtos/6009.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 6009,
@@ -20076,8 +20063,7 @@
        "img": "produtos/10651.jpg",
        "saldo": 10
       }
-     ],
-     "saldo": 5
+     ]
     }
    ]
   },
@@ -20557,6 +20543,7 @@
      "marca": "LANTECOR",
      "preco": 1.0,
      "img": "produtos/1475.jpg",
+     "saldo": 38,
      "cores": [
       {
        "cod": 1475,
@@ -20628,8 +20615,7 @@
        "img": "produtos/1484.jpg",
        "saldo": 34
       }
-     ],
-     "saldo": 38
+     ]
     },
     {
      "cod": 1485,
@@ -20637,6 +20623,7 @@
      "marca": "",
      "preco": 124.9,
      "img": "produtos/1485.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 1485,
@@ -20694,8 +20681,7 @@
        "img": "produtos/1492.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 6350,
@@ -20703,6 +20689,7 @@
      "marca": "APLICOR",
      "preco": 1.5,
      "img": "produtos/6350.jpg",
+     "saldo": 76,
      "cores": [
       {
        "cod": 6350,
@@ -20760,8 +20747,7 @@
        "img": "produtos/6354.jpg",
        "saldo": 78
       }
-     ],
-     "saldo": 76
+     ]
     },
     {
      "cod": 2580,
@@ -20829,6 +20815,7 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6643.jpg",
+     "saldo": 18,
      "cores": [
       {
        "cod": 6643,
@@ -20844,8 +20831,7 @@
        "img": "produtos/6644.jpg",
        "saldo": 12
       }
-     ],
-     "saldo": 18
+     ]
     },
     {
      "cod": 9293,
@@ -20909,6 +20895,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14572.jpg",
+     "saldo": 72,
      "controle": [
       "AZUL CL",
       "AZUL ESC",
@@ -20917,7 +20904,6 @@
       "VERDE",
       "VERMELHO"
      ],
-     "saldo": 72,
      "saldo_cor": {
       "AZUL CL": 12,
       "AZUL ESC": 12,
@@ -20933,13 +20919,13 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14573.jpg",
+     "saldo": 36,
      "controle": [
       "AMARELO",
       "AZUL",
       "ROSA",
       "VERMELHO"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "AMARELO": 9,
       "AZUL": 9,
@@ -20953,6 +20939,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
+     "saldo": 72,
      "controle": [
       "AMARELO",
       "LARANJA",
@@ -20961,7 +20948,6 @@
       "VERDE-ÁGUA",
       "VERMELHO"
      ],
-     "saldo": 72,
      "saldo_cor": {
       "AMARELO": 12,
       "LARANJA": 12,
@@ -20977,13 +20963,13 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14612.jpg",
+     "saldo": 36,
      "controle": [
       "AZUL",
       "PINK",
       "ROSA",
       "ROXO"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "AZUL": 9,
       "PINK": 9,
@@ -21147,7 +21133,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 262
+     "saldo": 261
     },
     {
      "cod": 938,
@@ -21171,7 +21157,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 332
+     "saldo": 329
     },
     {
      "cod": 944,
@@ -21187,7 +21173,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 3654
+     "saldo": 3650
     },
     {
      "cod": 14414,
@@ -21203,7 +21189,7 @@
      "marca": "COPOBRAS",
      "preco": 11.9,
      "img": "produtos/947.jpg",
-     "saldo": 192
+     "saldo": 172
     },
     {
      "cod": 14413,
@@ -21211,7 +21197,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 122
+     "saldo": 118
     },
     {
      "cod": 949,
@@ -21259,7 +21245,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 47
+     "saldo": 45
     },
     {
      "cod": 3342,
@@ -21347,7 +21333,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 207
+     "saldo": 206
     },
     {
      "cod": 958,
@@ -21387,7 +21373,7 @@
      "marca": "TOTALPLAST",
      "preco": 3.9,
      "img": "produtos/7011.jpg",
-     "saldo": 56
+     "saldo": 5
     },
     {
      "cod": 9745,
@@ -21443,7 +21429,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 2923,
@@ -21617,7 +21603,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 406
+     "saldo": 404
     },
     {
      "cod": 177,
@@ -22009,7 +21995,7 @@
      "marca": "ISOMAX",
      "preco": 3.9,
      "img": "produtos/768.jpg",
-     "saldo": 350
+     "saldo": 346
     },
     {
      "cod": 769,
@@ -22017,7 +22003,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 205
+     "saldo": 195
     },
     {
      "cod": 770,
@@ -22025,7 +22011,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/770.jpg",
-     "saldo": 261
+     "saldo": 253
     },
     {
      "cod": 772,
@@ -22137,7 +22123,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 101
+     "saldo": 100
     },
     {
      "cod": 3731,
@@ -22241,7 +22227,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 130
+     "saldo": 127
     },
     {
      "cod": 2937,
@@ -22249,7 +22235,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 633
+     "saldo": 622
     },
     {
      "cod": 4146,
@@ -22257,7 +22243,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 58
+     "saldo": 107
     },
     {
      "cod": 2491,
@@ -22265,7 +22251,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 532
+     "saldo": 522
     },
     {
      "cod": 3887,
@@ -22273,7 +22259,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 48
+     "saldo": 97
     },
     {
      "cod": 2489,
@@ -22375,7 +22361,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1286
+     "saldo": 1285
     },
     {
      "cod": 11964,
@@ -22407,7 +22393,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 755
+     "saldo": 746
     },
     {
      "cod": 880,
@@ -22613,7 +22599,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 130
+     "saldo": 128
     },
     {
      "cod": 6315,
@@ -22749,7 +22735,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 26
+     "saldo": 23
     },
     {
      "cod": 11690,
@@ -23733,7 +23719,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 381
+     "saldo": 377
     },
     {
      "cod": 3951,
@@ -24257,7 +24243,7 @@
      "marca": "THEOTO",
      "preco": 3.0,
      "img": "produtos/3864.jpg",
-     "saldo": 120
+     "saldo": 114
     },
     {
      "cod": 3882,
@@ -25201,7 +25187,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 1043
+     "saldo": 1040
     },
     {
      "cod": 10972,
@@ -25209,7 +25195,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 99
+     "saldo": 37
     },
     {
      "cod": 2826,
@@ -25273,6 +25259,7 @@
      "marca": "P. CVS",
      "preco": 18.9,
      "img": "produtos/3848.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 3848,
@@ -25337,8 +25324,7 @@
        "img": "produtos/2847.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 9961,
@@ -25346,6 +25332,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/9961.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 9961,
@@ -25403,8 +25390,7 @@
        "img": "produtos/9880.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 3671,
@@ -25412,6 +25398,7 @@
      "marca": "P. CVS",
      "preco": 36.9,
      "img": "produtos/3671.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 3671,
@@ -25469,8 +25456,7 @@
        "img": "produtos/2859.jpg",
        "saldo": 9
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 7750,
@@ -25478,6 +25464,7 @@
      "marca": "P. CVS",
      "preco": 44.9,
      "img": "produtos/7750.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 7750,
@@ -25493,8 +25480,7 @@
        "img": "produtos/14516.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 6854,
@@ -25510,7 +25496,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 1282
+     "saldo": 1281
     },
     {
      "cod": 6855,
@@ -25518,7 +25504,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 458
+     "saldo": 457
     },
     {
      "cod": 2875,
@@ -25550,7 +25536,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 14
+     "saldo": 13
     }
    ]
   },
@@ -25796,7 +25782,7 @@
      "marca": "HIPERROLL",
      "preco": 43.9,
      "img": "produtos/1339.jpg",
-     "saldo": 13
+     "saldo": 11
     },
     {
      "cod": 2084,
@@ -25970,7 +25956,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2429
+     "saldo": 2419
     },
     {
      "cod": 2896,
@@ -25978,7 +25964,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 209
+     "saldo": 203
     },
     {
      "cod": 4314,
@@ -25994,7 +25980,7 @@
      "marca": "GERAPLAST",
      "preco": 21.9,
      "img": "produtos/2897.jpg",
-     "saldo": 114
+     "saldo": 111
     },
     {
      "cod": 2898,
@@ -26026,7 +26012,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 194
+     "saldo": 193
     },
     {
      "cod": 2902,
@@ -26034,7 +26020,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 86
+     "saldo": 84
     }
    ]
   },
@@ -26056,7 +26042,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1619
+     "saldo": 1605
     },
     {
      "cod": 6646,
@@ -26064,7 +26050,7 @@
      "marca": "PRIMUS",
      "preco": 29.9,
      "img": "produtos/6646.jpg",
-     "saldo": 31
+     "saldo": 25
     },
     {
      "cod": 225,
@@ -26072,6 +26058,7 @@
      "marca": "PRIMUS",
      "preco": 3.0,
      "img": "produtos/225.jpg",
+     "saldo": 13,
      "cores": [
       {
        "cod": 225,
@@ -26087,8 +26074,7 @@
        "img": "produtos/6098.jpg",
        "saldo": 529
       }
-     ],
-     "saldo": 13
+     ]
     },
     {
      "cod": 226,
@@ -26096,6 +26082,7 @@
      "marca": "PRIMUS",
      "preco": 8.5,
      "img": "produtos/226.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 226,
@@ -26111,8 +26098,7 @@
        "img": "produtos/6097.jpg",
        "saldo": 156
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 3204,
@@ -26348,7 +26334,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 732
+     "saldo": 727
     },
     {
      "cod": 2760,
@@ -26388,7 +26374,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 440
+     "saldo": 435
     },
     {
      "cod": 4937,
@@ -26970,6 +26956,7 @@
      "marca": "PROGRESSO",
      "preco": 5.9,
      "img": "produtos/13751.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 13751,
@@ -27006,8 +26993,7 @@
        "img": "produtos/13754.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 9067,
@@ -27015,6 +27001,7 @@
      "marca": "PROGRESSO",
      "preco": 7.9,
      "img": "produtos/9067.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 9067,
@@ -27065,8 +27052,7 @@
        "img": "produtos/9076.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 4774,
@@ -27082,6 +27068,7 @@
      "marca": "EMFESTA",
      "preco": 3.9,
      "img": "produtos/1321.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 1321,
@@ -27153,8 +27140,7 @@
        "img": "produtos/1331.jpg",
        "saldo": 12
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 6947,
@@ -27226,6 +27212,7 @@
      "marca": "MAKE+",
      "preco": 1.0,
      "img": "produtos/11924.jpg",
+     "saldo": 34,
      "cores": [
       {
        "cod": 11924,
@@ -27241,8 +27228,7 @@
        "img": "produtos/11917.jpg",
        "saldo": 107
       }
-     ],
-     "saldo": 34
+     ]
     },
     {
      "cod": 11919,
@@ -27250,6 +27236,7 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
+     "saldo": 85,
      "cores": [
       {
        "cod": 11919,
@@ -27265,8 +27252,7 @@
        "img": "produtos/11918.jpg",
        "saldo": 61
       }
-     ],
-     "saldo": 85
+     ]
     },
     {
      "cod": 11911,
@@ -27274,6 +27260,7 @@
      "marca": "GALA",
      "preco": 0.8,
      "img": "produtos/11911.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 11911,
@@ -27303,8 +27290,7 @@
        "img": "produtos/11930.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 10765,
@@ -27806,7 +27792,7 @@
      "marca": "GESELE",
      "preco": 0.8,
      "img": "produtos/1340.jpg",
-     "saldo": 477
+     "saldo": 472
     },
     {
      "cod": 3674,
@@ -27870,7 +27856,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 593
+     "saldo": 592
     },
     {
      "cod": 6912,
@@ -28534,7 +28520,7 @@
      "marca": "REDINHA",
      "preco": 9.9,
      "img": "produtos/2610.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 14135,
@@ -28644,6 +28630,7 @@
      "marca": "-",
      "preco": 7.9,
      "img": "produtos/4325.jpg",
+     "saldo": 14,
      "cores": [
       {
        "cod": 4325,
@@ -28659,8 +28646,7 @@
        "img": "produtos/2670.jpg",
        "saldo": 29
       }
-     ],
-     "saldo": 14
+     ]
     }
    ]
   },
@@ -28872,7 +28858,7 @@
      "marca": "INTERFORTY",
      "preco": 89.9,
      "img": "produtos/2103.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 2104,
@@ -28968,7 +28954,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 553
+     "saldo": 533
     },
     {
      "cod": 2157,
@@ -29244,6 +29230,7 @@
      "marca": "PREMISSE",
      "preco": 35.9,
      "img": "produtos/7650.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 7650,
@@ -29259,8 +29246,7 @@
        "img": "produtos/2691.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 2688,
@@ -29276,6 +29262,7 @@
      "marca": "PREMISSE",
      "preco": 45.9,
      "img": "produtos/9807.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 9807,
@@ -29305,8 +29292,7 @@
        "img": "produtos/9817.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 2690,
@@ -29386,6 +29372,7 @@
      "marca": "PREMISSE",
      "preco": 53.9,
      "img": "produtos/3073.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 3073,
@@ -29415,8 +29402,7 @@
        "img": "produtos/3077.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 9801,
@@ -29424,6 +29410,7 @@
      "marca": "PREMISSE",
      "preco": 46.9,
      "img": "produtos/9801.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 9801,
@@ -29439,8 +29426,7 @@
        "img": "produtos/9814.jpg",
        "saldo": 11
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 9804,
@@ -29448,6 +29434,7 @@
      "marca": "PREMISSE",
      "preco": 61.9,
      "img": "produtos/9804.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 9804,
@@ -29463,8 +29450,7 @@
        "img": "produtos/14298.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 6
+     ]
     },
     {
      "cod": 7649,
@@ -29472,6 +29458,7 @@
      "marca": "PREMISSE",
      "preco": 93.9,
      "img": "produtos/7649.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 7649,
@@ -29487,8 +29474,7 @@
        "img": "produtos/9803.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 6
+     ]
     }
    ]
   },
@@ -29566,7 +29552,7 @@
      "marca": "BRILHUS",
      "preco": 1.9,
      "img": "produtos/1133.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 11787,
@@ -29724,6 +29710,7 @@
      "marca": "CIS",
      "preco": 9.9,
      "img": "produtos/10530.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 10530,
@@ -29739,8 +29726,7 @@
        "img": "produtos/10650.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 10614,
@@ -29764,6 +29750,7 @@
      "marca": "CIS",
      "preco": 12.9,
      "img": "produtos/10647.jpg",
+     "saldo": 28,
      "cores": [
       {
        "cod": 10647,
@@ -29786,8 +29773,7 @@
        "img": "produtos/8159.jpg",
        "saldo": 25
       }
-     ],
-     "saldo": 28
+     ]
     },
     {
      "cod": 4811,
@@ -29811,6 +29797,7 @@
      "marca": "FABER",
      "preco": 7.9,
      "img": "produtos/8464.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 8464,
@@ -29826,8 +29813,7 @@
        "img": "produtos/8463.jpg",
        "saldo": 8
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 8736,
@@ -29843,6 +29829,7 @@
      "marca": "FABER",
      "preco": 6.5,
      "img": "produtos/5214.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 5214,
@@ -29858,8 +29845,7 @@
        "img": "produtos/5212.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 6
+     ]
     },
     {
      "cod": 3146,
@@ -29867,6 +29853,7 @@
      "marca": "FABER",
      "preco": 6.5,
      "img": "produtos/3146.jpg",
+     "saldo": 7,
      "cores": [
       {
        "cod": 3146,
@@ -29882,8 +29869,7 @@
        "img": "produtos/3147.jpg",
        "saldo": 7
       }
-     ],
-     "saldo": 7
+     ]
     },
     {
      "cod": 5216,
@@ -29915,6 +29901,7 @@
      "marca": "FABER",
      "preco": 11.9,
      "img": "produtos/13029.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 13029,
@@ -29930,8 +29917,7 @@
        "img": "produtos/13030.jpg",
        "saldo": 11
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 10278,
@@ -29947,6 +29933,7 @@
      "marca": "FABER",
      "preco": 10.9,
      "img": "produtos/5207.jpg",
+     "saldo": 4,
      "cores": [
       {
        "cod": 5207,
@@ -29962,8 +29949,7 @@
        "img": "produtos/5209.jpg",
        "saldo": 1
       }
-     ],
-     "saldo": 4
+     ]
     },
     {
      "cod": 3174,
@@ -29971,6 +29957,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/3174.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 3174,
@@ -29986,8 +29973,7 @@
        "img": "produtos/3175.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 7598,
@@ -29995,6 +29981,7 @@
      "marca": "LEO E LEO",
      "preco": 0.8,
      "img": "produtos/7598.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 7598,
@@ -30010,8 +29997,7 @@
        "img": "produtos/7601.jpg",
        "saldo": 5
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 7587,
@@ -30019,6 +30005,7 @@
      "marca": "LEO E LEO",
      "preco": 1.0,
      "img": "produtos/7587.jpg",
+     "saldo": 2,
      "cores": [
       {
        "cod": 7587,
@@ -30062,8 +30049,7 @@
        "img": "produtos/7591.jpg",
        "saldo": 36
       }
-     ],
-     "saldo": 2
+     ]
     },
     {
      "cod": 4370,
@@ -30079,6 +30065,7 @@
      "marca": "LEO E LEO",
      "preco": 0.5,
      "img": "produtos/7545.jpg",
+     "saldo": 10,
      "cores": [
       {
        "cod": 7545,
@@ -30108,8 +30095,7 @@
        "img": "produtos/7548.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 10
+     ]
     },
     {
      "cod": 3189,
@@ -30117,6 +30103,7 @@
      "marca": "LEO E LEO",
      "preco": 0.4,
      "img": "produtos/3189.jpg",
+     "saldo": 26,
      "cores": [
       {
        "cod": 3189,
@@ -30153,8 +30140,7 @@
        "img": "produtos/3190.jpg",
        "saldo": 20
       }
-     ],
-     "saldo": 26
+     ]
     },
     {
      "cod": 11562,
@@ -30210,6 +30196,7 @@
      "marca": "MAPED",
      "preco": 2.0,
      "img": "produtos/7954.jpg",
+     "saldo": 46,
      "cores": [
       {
        "cod": 7954,
@@ -30232,8 +30219,7 @@
        "img": "produtos/3193.jpg",
        "saldo": 82
       }
-     ],
-     "saldo": 46
+     ]
     },
     {
      "cod": 12308,
@@ -30281,6 +30267,7 @@
      "marca": "MOLIN",
      "preco": 14.9,
      "img": "produtos/12347.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 12347,
@@ -30296,8 +30283,7 @@
        "img": "produtos/12349.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 12317,
@@ -30321,6 +30307,7 @@
      "marca": "TILIBRA",
      "preco": 6.9,
      "img": "produtos/3169.jpg",
+     "saldo": 26,
      "cores": [
       {
        "cod": 3169,
@@ -30350,8 +30337,7 @@
        "img": "produtos/3172.jpg",
        "saldo": 29
       }
-     ],
-     "saldo": 26
+     ]
     },
     {
      "cod": 13137,
@@ -30383,13 +30369,13 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14551.jpg",
+     "saldo": 71,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERMELHO"
      ],
-     "saldo": 71,
      "saldo_cor": {
       "AZUL": 18,
       "ROSA": 17,
@@ -30403,13 +30389,13 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
+     "saldo": 84,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "VERDE"
      ],
-     "saldo": 84,
      "saldo_cor": {
       "AZUL": 23,
       "LILAS": 13,
@@ -30423,6 +30409,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/12725.jpg",
+     "saldo": 17,
      "cores": [
       {
        "cod": 12725,
@@ -30438,8 +30425,7 @@
        "img": "produtos/12726.jpg",
        "saldo": 15
       }
-     ],
-     "saldo": 17
+     ]
     },
     {
      "cod": 12715,
@@ -30447,6 +30433,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/12715.jpg",
+     "saldo": 19,
      "cores": [
       {
        "cod": 12715,
@@ -30462,8 +30449,7 @@
        "img": "produtos/12716.jpg",
        "saldo": 19
       }
-     ],
-     "saldo": 19
+     ]
     },
     {
      "cod": 12678,
@@ -30487,6 +30473,7 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/12722.jpg",
+     "saldo": 1,
      "cores": [
       {
        "cod": 12722,
@@ -30502,8 +30489,7 @@
        "img": "produtos/12723.jpg",
        "saldo": 14
       }
-     ],
-     "saldo": 1
+     ]
     },
     {
      "cod": 12729,
@@ -30511,6 +30497,7 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/12729.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 12729,
@@ -30526,8 +30513,7 @@
        "img": "produtos/12728.jpg",
        "saldo": 11
       }
-     ],
-     "saldo": 6
+     ]
     },
     {
      "cod": 13380,
@@ -30535,6 +30521,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/13380.jpg",
+     "saldo": 6,
      "cores": [
       {
        "cod": 13380,
@@ -30550,8 +30537,7 @@
        "img": "produtos/13381.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 6
+     ]
     },
     {
      "cod": 12689,
@@ -30567,13 +30553,13 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14607.jpg",
+     "saldo": 36,
      "controle": [
       "AZUL",
       "LARANJA",
       "ROSA",
       "ROXO"
      ],
-     "saldo": 36,
      "saldo_cor": {
       "AZUL": 9,
       "LARANJA": 9,
@@ -30595,13 +30581,13 @@
      "marca": "TRIS",
      "preco": 11.9,
      "img": "produtos/14586.jpg",
+     "saldo": 16,
      "controle": [
       "AMARELO",
       "ROSA",
       "ROXO",
       "VERMELHO"
      ],
-     "saldo": 16,
      "saldo_cor": {
       "AMARELO": 4,
       "ROSA": 4,
@@ -30615,11 +30601,11 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/14553.jpg",
+     "saldo": 32,
      "controle": [
       "AMARELO",
       "VERDE"
      ],
-     "saldo": 32,
      "saldo_cor": {
       "AMARELO": 16,
       "VERDE": 16
@@ -30631,6 +30617,7 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/12676.jpg",
+     "saldo": 8,
      "cores": [
       {
        "cod": 12676,
@@ -30660,8 +30647,7 @@
        "img": "produtos/12674.jpg",
        "saldo": 4
       }
-     ],
-     "saldo": 8
+     ]
     },
     {
      "cod": 14554,
@@ -30669,13 +30655,13 @@
      "marca": "TRIS",
      "preco": 11.9,
      "img": "produtos/14554.jpg",
+     "saldo": 32,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO",
       "VERMELHO"
      ],
-     "saldo": 32,
      "saldo_cor": {
       "AZUL": 8,
       "ROSA": 8,
@@ -30689,12 +30675,12 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/14568.jpg",
+     "saldo": 24,
      "controle": [
       "BRANCO",
       "CINZA",
       "PRETO"
      ],
-     "saldo": 24,
      "saldo_cor": {
       "BRANCO": 8,
       "CINZA": 8,
@@ -30707,13 +30693,13 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14552.jpg",
+     "saldo": 16,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "VERMELHO"
      ],
-     "saldo": 16,
      "saldo_cor": {
       "AZUL": 4,
       "LILAS": 4,
@@ -30727,13 +30713,13 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14609.jpg",
+     "saldo": 32,
      "controle": [
       "AZUL",
       "PRETO",
       "VERDE",
       "VERMELHO"
      ],
-     "saldo": 32,
      "saldo_cor": {
       "AZUL": 8,
       "PRETO": 8,
@@ -30747,11 +30733,11 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/14610.jpg",
+     "saldo": 23,
      "controle": [
       "MARROM",
       "ROSA"
      ],
-     "saldo": 23,
      "saldo_cor": {
       "MARROM": 12,
       "ROSA": 11
@@ -30801,6 +30787,7 @@
      "marca": "BRW",
      "preco": 4.9,
      "img": "produtos/12241.jpg",
+     "saldo": 43,
      "cores": [
       {
        "cod": 12241,
@@ -30814,17 +30801,16 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO BRW GEL-LARANJA",
        "img": "produtos/12220.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 12226,
        "cor": "Verde",
        "nome": "MARCA TEXTO BRW GEL-VERDE",
        "img": "produtos/12226.jpg",
-       "saldo": 18
+       "saldo": 17
       }
-     ],
-     "saldo": 43
+     ]
     },
     {
      "cod": 13803,
@@ -30848,6 +30834,7 @@
      "marca": "CIS",
      "preco": 6.9,
      "img": "produtos/13796.jpg",
+     "saldo": 74,
      "cores": [
       {
        "cod": 13796,
@@ -30870,8 +30857,7 @@
        "img": "produtos/13800.jpg",
        "saldo": 106
       }
-     ],
-     "saldo": 74
+     ]
     },
     {
      "cod": 1827,
@@ -30879,7 +30865,7 @@
      "marca": "CIS",
      "preco": 3.0,
      "img": "produtos/1827.jpg",
-     "saldo": 66
+     "saldo": 65
     },
     {
      "cod": 12733,
@@ -30943,6 +30929,7 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/10381.jpg",
+     "saldo": 19,
      "cores": [
       {
        "cod": 10381,
@@ -30979,8 +30966,7 @@
        "img": "produtos/10384.jpg",
        "saldo": 15
       }
-     ],
-     "saldo": 19
+     ]
     },
     {
      "cod": 13364,
@@ -30988,6 +30974,7 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/13364.jpg",
+     "saldo": 183,
      "cores": [
       {
        "cod": 13364,
@@ -31008,10 +30995,9 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR-VERDE",
        "img": "produtos/14355.jpg",
-       "saldo": 36
+       "saldo": 35
       }
-     ],
-     "saldo": 183
+     ]
     },
     {
      "cod": 11547,
@@ -31035,6 +31021,7 @@
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/11571.jpg",
+     "saldo": 5,
      "cores": [
       {
        "cod": 11571,
@@ -31050,8 +31037,7 @@
        "img": "produtos/12197.jpg",
        "saldo": 3
       }
-     ],
-     "saldo": 5
+     ]
     },
     {
      "cod": 6050,
@@ -31059,27 +31045,28 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
+     "saldo": 391,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 393
+       "saldo": 391
       },
       {
        "cod": 6051,
        "cor": "Azul",
        "nome": "MARCA TEXTO MASTERPRINT-AZUL",
        "img": "produtos/6051.jpg",
-       "saldo": 95
+       "saldo": 94
       },
       {
        "cod": 6052,
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 124
+       "saldo": 123
       },
       {
        "cod": 6053,
@@ -31093,10 +31080,9 @@
        "cor": "Vermelho",
        "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
        "img": "produtos/6637.jpg",
-       "saldo": 97
+       "saldo": 96
       }
-     ],
-     "saldo": 393
+     ]
     },
     {
      "cod": 14526,
@@ -31104,13 +31090,13 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14526.jpg",
+     "saldo": 70,
      "controle": [
       "AZUL",
       "LILAS",
       "ROSA",
       "VERDE"
      ],
-     "saldo": 70,
      "saldo_cor": {
       "AZUL": 17,
       "LILAS": 18,
@@ -31124,6 +31110,7 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
+     "saldo": 89,
      "cores": [
       {
        "cod": 1829,
@@ -31144,7 +31131,7 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO PILOT-LARANJA",
        "img": "produtos/1831.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 1832,
@@ -31165,10 +31152,9 @@
        "cor": "Violeta",
        "nome": "MARCA TEXTO PILOT-VIOLETA",
        "img": "produtos/12147.jpg",
-       "saldo": 68
+       "saldo": 67
       }
-     ],
-     "saldo": 89
+     ]
     },
     {
      "cod": 8775,
@@ -31176,6 +31162,7 @@
      "marca": "STABILO",
      "preco": 6.9,
      "img": "produtos/8775.jpg",
+     "saldo": 3,
      "cores": [
       {
        "cod": 8775,
@@ -31191,8 +31178,7 @@
        "img": "produtos/8776.jpg",
        "saldo": 2
       }
-     ],
-     "saldo": 3
+     ]
     },
     {
      "cod": 8763,
@@ -31216,6 +31202,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
+     "saldo": 144,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31224,7 +31211,6 @@
       "ROSA",
       "VERDE"
      ],
-     "saldo": 144,
      "saldo_cor": {
       "AMARELO": 24,
       "AZUL": 24,
@@ -31240,12 +31226,12 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
+     "saldo": 72,
      "controle": [
       "AM/LARANJA",
       "AM/ROSA",
       "AM/VERDE"
      ],
-     "saldo": 72,
      "saldo_cor": {
       "AM/LARANJA": 24,
       "AM/ROSA": 24,
@@ -31258,13 +31244,13 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14562.jpg",
+     "saldo": 47,
      "controle": [
       "AM/AZUL",
       "LA/ROXO",
       "RS/CIANO",
       "VD/ROSA"
      ],
-     "saldo": 47,
      "saldo_cor": {
       "AM/AZUL": 11,
       "LA/ROXO": 12,
@@ -31594,6 +31580,7 @@
      "marca": "LEOTACK",
      "preco": 12.9,
      "img": "produtos/7627.jpg",
+     "saldo": 9,
      "cores": [
       {
        "cod": 7627,
@@ -31616,8 +31603,7 @@
        "img": "produtos/4938.jpg",
        "saldo": 6
       }
-     ],
-     "saldo": 9
+     ]
     },
     {
      "cod": 916,
@@ -31625,6 +31611,7 @@
      "marca": "LEOTACK",
      "preco": 5.9,
      "img": "produtos/916.jpg",
+     "saldo": 95,
      "cores": [
       {
        "cod": 916,
@@ -31675,8 +31662,7 @@
        "img": "produtos/924.jpg",
        "saldo": 103
       }
-     ],
-     "saldo": 95
+     ]
     },
     {
      "cod": 918,
