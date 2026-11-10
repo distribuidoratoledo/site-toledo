@@ -873,11 +873,11 @@
       {
        "descricao": "1 pasta fina com elástico",
        "qtd": 1,
-       "cod": 2184,
-       "produto": "PASTA ABA ELAST.PAPEL-AZUL",
-       "marca": "POLYCART",
-       "preco": 3.9,
-       "foto": "listas/fotos/2184.jpg"
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg"
       },
       {
        "descricao": "1 estojo de pincel atômico com 6 cores",
@@ -1071,11 +1071,11 @@
       {
        "descricao": "1 pasta fina com elástico",
        "qtd": 1,
-       "cod": 2184,
-       "produto": "PASTA ABA ELAST.PAPEL-AZUL",
-       "marca": "POLYCART",
-       "preco": 3.9,
-       "foto": "listas/fotos/2184.jpg"
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm cristal.",
+       "foto": "listas/fotos/2231.jpg"
       },
       {
        "descricao": "1 revista para recortar",
@@ -1714,12 +1714,12 @@
       {
        "descricao": "100 folhas brancas tamanho A4",
        "qtd": 1,
-       "cod": 2014,
-       "produto": "PAPEL A4 C/500 PAPEX",
-       "marca": "PAPEX",
-       "preco": 26.9,
-       "obs": "Pacote com 500 folhas.",
-       "foto": "listas/fotos/2014.jpg",
+       "cod": 4502,
+       "produto": "PAPEL A4 C/100-BRANCO",
+       "marca": "CHAMEQUINH",
+       "preco": 9.9,
+       "obs": "Papel A4 branco, pacote com 100 folhas.",
+       "foto": "listas/fotos/4502.jpg",
        "grupo": "Materiais para atividades artísticas"
       },
       {
@@ -9807,13 +9807,13 @@
       },
       {
        "descricao": "200 folhas de papel A4 branco",
-       "qtd": 1,
-       "cod": 2014,
-       "produto": "PAPEL A4 C/500 PAPEX",
-       "marca": "PAPEX",
-       "preco": 26.9,
-       "obs": "Pacote com 500 folhas.",
-       "foto": "listas/fotos/2014.jpg",
+       "qtd": 2,
+       "cod": 4502,
+       "produto": "PAPEL A4 C/100-BRANCO",
+       "marca": "CHAMEQUINH",
+       "preco": 9.9,
+       "obs": "Papel A4 branco, pacote com 100 folhas. 2 pacotes.",
+       "foto": "listas/fotos/4502.jpg",
        "grupo": "Materiais"
       },
       {
@@ -15058,5 +15058,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 17:39"
+ "atualizado": "10/11/2026 17:49"
 }
