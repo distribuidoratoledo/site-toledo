@@ -5575,7 +5575,7 @@
      "marca": "SD",
      "preco": 34.9,
      "img": "produtos/13099.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 5734,
@@ -5819,7 +5819,7 @@
      "marca": "SD",
      "preco": 45.9,
      "img": "produtos/13098.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 7767,
@@ -8623,7 +8623,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 754
+     "saldo": 750
     },
     {
      "cod": 1021,
@@ -8841,7 +8841,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 398
+     "saldo": 397
     },
     {
      "cod": 1313,
@@ -10578,14 +10578,14 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 331,
+     "saldo": 330,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 331
+       "saldo": 330
       },
       {
        "cod": 4181,
@@ -10599,7 +10599,7 @@
        "cor": "Azul Escuro",
        "nome": "COLORSETE-AZUL ESCURO",
        "img": "produtos/2039.jpg",
-       "saldo": 65
+       "saldo": 64
       },
       {
        "cod": 2041,
@@ -10648,14 +10648,14 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE-VERDE CLARO",
        "img": "produtos/2048.jpg",
-       "saldo": 141
+       "saldo": 140
       },
       {
        "cod": 2050,
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 137
+       "saldo": 136
       }
      ]
     },
@@ -10749,7 +10749,7 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 43
+       "saldo": 42
       },
       {
        "cod": 2081,
@@ -10931,7 +10931,7 @@
      "cod": 4502,
      "nome": "PAPEL A4 C/100-BRANCO",
      "marca": "CHAMEQUINH",
-     "preco": 9.9,
+     "preco": 7.9,
      "img": "produtos/4502.jpg",
      "saldo": 17
     },
@@ -12947,7 +12947,7 @@
      "marca": "LETRON",
      "preco": 59.9,
      "img": "produtos/13708.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 13371,
@@ -13734,14 +13734,14 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/2471.jpg",
-     "saldo": 15,
+     "saldo": 13,
      "cores": [
       {
        "cod": 2471,
        "cor": "Cristal",
        "nome": "PORTA OBJETO 3 LUG-CRISTAL",
        "img": "produtos/2471.jpg",
-       "saldo": 15
+       "saldo": 13
       },
       {
        "cod": 7504,
@@ -15708,7 +15708,7 @@
     },
     {
      "cod": 14596,
-     "nome": "TESOURA S/P TRIS PASTEL-ROSA",
+     "nome": "TESOURA S/P TRIS PASTEL-CORES",
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14596.jpg",
@@ -15867,7 +15867,7 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 32
+       "saldo": 29
       },
       {
        "cod": 1223,
@@ -18647,7 +18647,7 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6626.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 6619,
@@ -21778,7 +21778,7 @@
      "marca": "",
      "preco": 139.9,
      "img": "produtos/6943.jpg",
-     "saldo": 11
+     "saldo": 8
     },
     {
      "cod": 6945,
@@ -21858,7 +21858,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/7361.jpg",
-     "saldo": 6
+     "saldo": 3
     },
     {
      "cod": 6944,
@@ -22154,7 +22154,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 125
+     "saldo": 124
     },
     {
      "cod": 2937,
@@ -22162,7 +22162,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 608
+     "saldo": 607
     },
     {
      "cod": 4146,
@@ -22518,7 +22518,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11826.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 11827,
@@ -23234,7 +23234,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 360
+     "saldo": 355
     },
     {
      "cod": 2552,
@@ -23616,7 +23616,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/6101.jpg",
-     "saldo": 39
+     "saldo": 38
     }
    ]
   },
@@ -23868,7 +23868,7 @@
      "marca": "MELLO",
      "preco": 79.9,
      "img": "produtos/14487.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 1348,
@@ -24492,7 +24492,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 318
+     "saldo": 317
     },
     {
      "cod": 13027,
@@ -24612,7 +24612,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 94
+     "saldo": 91
     },
     {
      "cod": 2726,
@@ -24700,7 +24700,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/3652.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 2733,
@@ -24708,7 +24708,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 211
+     "saldo": 210
     },
     {
      "cod": 8100,
@@ -24892,7 +24892,7 @@
      "marca": "KROMASA",
      "preco": 1.5,
      "img": "produtos/2806.jpg",
-     "saldo": 2045
+     "saldo": 2035
     },
     {
      "cod": 2807,
@@ -25407,7 +25407,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 1166
+     "saldo": 1156
     },
     {
      "cod": 6855,
@@ -27902,7 +27902,7 @@
      "marca": "PRIMUS",
      "preco": 19.9,
      "img": "produtos/1197.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1195,
@@ -30635,16 +30635,14 @@
      "img": "produtos/14554.jpg",
      "saldo": 32,
      "controle": [
-      "AZUL",
+      "PINK",
       "ROSA",
-      "ROXO",
-      "VERMELHO"
+      "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 8,
+      "PINK": 16,
       "ROSA": 8,
-      "ROXO": 8,
-      "VERMELHO": 8
+      "ROXO": 8
      }
     },
     {
