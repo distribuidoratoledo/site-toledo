@@ -1654,8 +1654,12 @@
       {
        "descricao": "Brinquedo de faz-de-conta – pode ser usado e em bom estado (carrinhos, bonecas, brinquedos para modelar massinhas, ferramentas)",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Não faz parte do nosso mix.",
+       "cod": 14661,
+       "produto": "BRINQUEDO PEDAG.MASSINHA+MOLDE",
+       "marca": "MAGIC KIDS",
+       "preco": 12.9,
+       "obs": "Massinha com molde Magic Kids.",
+       "foto": "listas/fotos/14661.jpg",
        "grupo": "Materiais de uso individual"
       },
       {
@@ -11747,5 +11751,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 16:50"
+ "atualizado": "10/11/2026 17:21"
 }
