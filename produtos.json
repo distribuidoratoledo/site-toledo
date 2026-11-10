@@ -581,7 +581,7 @@
        "cor": "Ouro",
        "nome": "CANETA FABER TRILUX-OURO",
        "img": "produtos/4769.jpg",
-       "saldo": 3
+       "saldo": 2
       },
       {
        "cod": 10291,
@@ -8441,7 +8441,7 @@
      "marca": "CASCOREZ",
      "preco": 32.9,
      "img": "produtos/818.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 819,
@@ -11035,7 +11035,7 @@
      "marca": "MASTERPRIN",
      "preco": 23.9,
      "img": "produtos/11784.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2099,
@@ -12995,7 +12995,7 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/2907.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 4335,
@@ -15512,7 +15512,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 102
+     "saldo": 92
     },
     {
      "cod": 13124,
@@ -17929,7 +17929,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 31619
+     "saldo": 31589
     },
     {
      "cod": 1098,
@@ -22288,7 +22288,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1279
+     "saldo": 279
     },
     {
      "cod": 11964,
@@ -24476,7 +24476,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 155
+     "saldo": 154
     },
     {
      "cod": 2712,
@@ -25399,7 +25399,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2519
+     "saldo": 2518
     },
     {
      "cod": 6821,
@@ -25653,7 +25653,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 10794
+     "saldo": 10694
     },
     {
      "cod": 11788,
@@ -27910,7 +27910,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 1198,
@@ -30555,7 +30555,7 @@
     },
     {
      "cod": 14586,
-     "nome": "APONTADOR TRIS C/D 3F-SHAKE VERMELHO",
+     "nome": "APONTADOR TRIS C/D 3F-SHAKE CORES",
      "marca": "TRIS",
      "preco": 11.9,
      "img": "produtos/14586.jpg",
