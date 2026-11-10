@@ -9743,12 +9743,12 @@
       {
        "descricao": "2 blocos encadernados com 50 folhas A3 (180 g)",
        "qtd": 2,
-       "cod": 206,
-       "produto": "BLOCO DESENHO A3 (180G) C/20-RIDET",
-       "marca": "RIDET",
-       "preco": 32.9,
-       "obs": "Bloco de desenho A3 180 g com 20 folhas.",
-       "foto": "listas/fotos/206.jpg",
+       "cod": 13064,
+       "produto": "PAPEL 60KG A3 + ENCAD. C/50F",
+       "marca": "MINASPEL",
+       "preco": 39.9,
+       "obs": "Papel 60 kg A3 encadernado com 50 folhas.",
+       "foto": "listas/fotos/13064.jpg",
        "grupo": "Materiais"
       },
       {
@@ -10324,13 +10324,13 @@
       },
       {
        "descricao": "3 blocos encadernados com 50 folhas A3 (180 g)",
-       "qtd": 2,
-       "cod": 206,
-       "produto": "BLOCO DESENHO A3 (180G) C/20-RIDET",
-       "marca": "RIDET",
-       "preco": 32.9,
-       "obs": "Bloco de desenho A3 180 g com 20 folhas (2 blocos).",
-       "foto": "listas/fotos/206.jpg",
+       "qtd": 3,
+       "cod": 13064,
+       "produto": "PAPEL 60KG A3 + ENCAD. C/50F",
+       "marca": "MINASPEL",
+       "preco": 39.9,
+       "obs": "Papel 60 kg A3 encadernado com 50 folhas.",
+       "foto": "listas/fotos/13064.jpg",
        "grupo": "Materiais"
       },
       {
@@ -15058,5 +15058,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 17:26"
+ "atualizado": "10/11/2026 17:39"
 }
