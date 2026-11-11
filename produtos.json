@@ -1554,7 +1554,7 @@
      "marca": "COMPACTOR",
      "preco": 12.9,
      "img": "produtos/6775.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 12306,
@@ -2345,7 +2345,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 578
+     "saldo": 577
     },
     {
      "cod": 5836,
@@ -2385,7 +2385,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 180
+     "saldo": 179
     },
     {
      "cod": 6355,
@@ -3583,7 +3583,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "CINZA": 12,
+      "CINZA": 11,
       "PRETO": 12,
       "VERMELHO": 12
      }
@@ -8364,7 +8364,7 @@
      "marca": "PRITT",
      "preco": 6.9,
      "img": "produtos/816.jpg",
-     "saldo": 287
+     "saldo": 286
     },
     {
      "cod": 7903,
@@ -10285,7 +10285,7 @@
        "cor": "Azul Claro",
        "nome": "CARTAO-AZUL CLARO",
        "img": "produtos/741.jpg",
-       "saldo": 74
+       "saldo": 73
       },
       {
        "cod": 742,
@@ -10557,14 +10557,14 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 330,
+     "saldo": 329,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 330
+       "saldo": 329
       },
       {
        "cod": 4181,
@@ -10592,7 +10592,7 @@
        "cor": "Lilas / Violeta",
        "nome": "COLORSETE-LILAS/VIOLETA",
        "img": "produtos/4182.jpg",
-       "saldo": 307
+       "saldo": 306
       },
       {
        "cod": 2043,
@@ -10613,7 +10613,7 @@
        "cor": "Rosa",
        "nome": "COLORSETE-ROSA",
        "img": "produtos/2045.jpg",
-       "saldo": 66
+       "saldo": 65
       },
       {
        "cod": 2047,
@@ -10627,14 +10627,14 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE-VERDE CLARO",
        "img": "produtos/2048.jpg",
-       "saldo": 140
+       "saldo": 139
       },
       {
        "cod": 2050,
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 136
+       "saldo": 135
       }
      ]
     },
@@ -15711,7 +15711,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
-     "saldo": 240,
+     "saldo": 239,
      "controle": [
       "AZUL",
       "ROSA",
@@ -15721,7 +15721,7 @@
      "saldo_cor": {
       "AZUL": 80,
       "ROSA": 80,
-      "ROXO": 40,
+      "ROXO": 39,
       "VERDE": 40
      }
     },
@@ -22633,7 +22633,7 @@
      "marca": "RIOPLASTIC",
      "preco": 8.9,
      "img": "produtos/2495.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 11825,
@@ -23795,7 +23795,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/6101.jpg",
-     "saldo": 38
+     "saldo": 37
     }
    ]
   },
@@ -25341,7 +25341,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 485
+     "saldo": 455
     },
     {
      "cod": 2839,
@@ -25697,7 +25697,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 165
+     "saldo": 159
     },
     {
      "cod": 13856,
@@ -25833,7 +25833,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 10190
+     "saldo": 10178
     },
     {
      "cod": 11788,
@@ -26189,7 +26189,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1690
+     "saldo": 1628
     },
     {
      "cod": 236,
@@ -26251,7 +26251,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 1273,
@@ -28067,7 +28067,7 @@
      "marca": "PRIMUS",
      "preco": 39.9,
      "img": "produtos/1160.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 1197,
@@ -28107,7 +28107,7 @@
      "marca": "PRIMUS",
      "preco": 31.9,
      "img": "produtos/1166.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 11419,
@@ -28581,7 +28581,7 @@
      "marca": "THEGA",
      "preco": 15.9,
      "img": "produtos/14135.jpg",
-     "saldo": 72
+     "saldo": 71
     }
    ]
   },
@@ -28667,7 +28667,7 @@
      "marca": "-",
      "preco": 23.9,
      "img": "produtos/2668.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 2669,
@@ -28683,21 +28683,21 @@
      "marca": "-",
      "preco": 7.9,
      "img": "produtos/4325.jpg",
-     "saldo": 14,
+     "saldo": 12,
      "cores": [
       {
        "cod": 4325,
        "cor": "Amarela",
        "nome": "ROLHA PLASTICA C/50 AMARELA",
        "img": "produtos/4325.jpg",
-       "saldo": 14
+       "saldo": 12
       },
       {
        "cod": 2670,
        "cor": "Branca",
        "nome": "ROLHA PLASTICA C/50 BRANCA",
        "img": "produtos/2670.jpg",
-       "saldo": 29
+       "saldo": 28
       }
      ]
     }
@@ -30800,14 +30800,14 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/14568.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "BRANCO",
       "CINZA",
       "PRETO"
      ],
      "saldo_cor": {
-      "BRANCO": 8,
+      "BRANCO": 7,
       "CINZA": 8,
       "PRETO": 8
      }
