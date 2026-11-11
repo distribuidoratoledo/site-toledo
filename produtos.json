@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1296,
+     "saldo": 1290,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1296
+       "saldo": 1290
       },
       {
        "cod": 553,
@@ -143,21 +143,21 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 826,
+     "saldo": 822,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 826
+       "saldo": 822
       },
       {
        "cod": 556,
        "cor": "Preta",
        "nome": "CANETA BIC FINE PLUS-PRETA",
        "img": "produtos/556.jpg",
-       "saldo": 523
+       "saldo": 517
       },
       {
        "cod": 557,
@@ -3372,7 +3372,7 @@
        "cor": "Verde",
        "nome": "RETRO 2.0 PILOT-VERDE",
        "img": "produtos/2658.jpg",
-       "saldo": 28
+       "saldo": 27
       },
       {
        "cod": 2659,
@@ -3901,7 +3901,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 2004
+     "saldo": 2003
     },
     {
      "cod": 4341,
@@ -9271,7 +9271,7 @@
      "marca": "TRIS",
      "preco": 13.9,
      "img": "produtos/14592.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 6385,
@@ -18135,21 +18135,21 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 225,
+     "saldo": 224,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 225
+       "saldo": 224
       },
       {
        "cod": 661,
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 257
+       "saldo": 256
       }
      ]
     },
@@ -18183,7 +18183,7 @@
      "marca": "",
      "preco": 47.9,
      "img": "produtos/1131.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 1120,
@@ -18749,7 +18749,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14547.jpg",
-     "saldo": 39,
+     "saldo": 37,
      "controle": [
       "AZUL",
       "LILAS",
@@ -18759,8 +18759,8 @@
      "saldo_cor": {
       "AZUL": 10,
       "LILAS": 10,
-      "ROSA": 9,
-      "ROXO": 10
+      "ROSA": 8,
+      "ROXO": 9
      }
     },
     {
@@ -19000,6 +19000,14 @@
      "saldo": 92
     },
     {
+     "cod": 14657,
+     "nome": "GIBI FABULAS- LIÇOES PARA VIDA",
+     "marca": "BICHO ESPE",
+     "preco": 1.5,
+     "img": "produtos/14657.jpg",
+     "saldo": 168
+    },
+    {
      "cod": 8061,
      "nome": "GIBI JOAO E MARIA",
      "marca": "BICHO ESPE",
@@ -19014,6 +19022,14 @@
      "preco": 4.5,
      "img": "produtos/6092.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14662,
+     "nome": "LIVRO INFANTIL CLASSICOS-PRINCESAS",
+     "marca": "TODOLIVRO",
+     "preco": 1.8,
+     "img": "produtos/14662.jpg",
+     "saldo": 200
     },
     {
      "cod": 13556,
@@ -19088,12 +19104,36 @@
      "saldo": 38
     },
     {
+     "cod": 14655,
+     "nome": "LIVRO INFANTIL LER E COLORIR- TURMA DA MONICA",
+     "marca": "CULTURAMA",
+     "preco": 4.9,
+     "img": "produtos/14655.jpg",
+     "saldo": 156
+    },
+    {
      "cod": 12465,
      "nome": "LIVRO INFANTIL LER E COLORIR-STITCH",
      "marca": "CULTURAMA",
      "preco": 4.9,
      "img": "produtos/12465.jpg",
      "saldo": 13
+    },
+    {
+     "cod": 14658,
+     "nome": "LIVRO INFANTIL-HISTORIAS ENCANTADAS",
+     "marca": "TODO LIVRO",
+     "preco": 1.5,
+     "img": "produtos/14658.jpg",
+     "saldo": 200
+    },
+    {
+     "cod": 14663,
+     "nome": "LIVRO INFANTIL-MEUS PRIMEIROS VALORES",
+     "marca": "TODO LIVRO",
+     "preco": 5.9,
+     "img": "produtos/14663.jpg",
+     "saldo": 64
     },
     {
      "cod": 5281,
@@ -19567,14 +19607,6 @@
      "saldo": 52
     },
     {
-     "cod": 14648,
-     "nome": "BRINQUEDO PEDAG. BRINCAN. LETRAS C/173",
-     "marca": "PAIS&FILHO",
-     "preco": 76.9,
-     "img": "produtos/14648.jpg",
-     "saldo": 6
-    },
-    {
      "cod": 8912,
      "nome": "BRINQUEDO PEDAG. CORDA SISAL C/2,5MT",
      "marca": "OFFSIDE",
@@ -19775,6 +19807,14 @@
      "saldo": 43
     },
     {
+     "cod": 14648,
+     "nome": "BRINQUEDO. PEDAG. LETRAS C/173",
+     "marca": "PAIS&FILHO",
+     "preco": 76.9,
+     "img": "produtos/14648.jpg",
+     "saldo": 6
+    },
+    {
      "cod": 6498,
      "nome": "FLAUTA GERMANICA SOPRANO",
      "marca": "MAPED",
@@ -19901,6 +19941,14 @@
      "preco": 26.9,
      "img": "produtos/9339.jpg",
      "saldo": 10
+    },
+    {
+     "cod": 14656,
+     "nome": "QUEBRA CABEÇA SONIC 200/PÇS",
+     "marca": "BRINQ.TOIA",
+     "preco": 26.9,
+     "img": "produtos/14656.jpg",
+     "saldo": 2
     },
     {
      "cod": 13562,
@@ -20794,7 +20842,7 @@
      "marca": "REFLEX",
      "preco": 2.9,
      "img": "produtos/2580.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 2581,
@@ -20802,7 +20850,7 @@
      "marca": "REFLEX",
      "preco": 2.9,
      "img": "produtos/2581.jpg",
-     "saldo": 35
+     "saldo": 33
     }
    ]
   },
@@ -21172,7 +21220,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 247
+     "saldo": 244
     },
     {
      "cod": 938,
@@ -21196,7 +21244,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 212
+     "saldo": 209
     },
     {
      "cod": 944,
@@ -21308,7 +21356,7 @@
      "marca": "CRISTALCOP",
      "preco": 7.9,
      "img": "produtos/12557.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 7322,
@@ -21460,7 +21508,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 140
+     "saldo": 137
     },
     {
      "cod": 2923,
@@ -22258,7 +22306,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 2937,
@@ -22274,7 +22322,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 40
+     "saldo": 37
     },
     {
      "cod": 2491,
@@ -22290,7 +22338,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 2489,
@@ -22432,7 +22480,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 403
+     "saldo": 401
     },
     {
      "cod": 14417,
@@ -23338,7 +23386,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 355
+     "saldo": 351
     },
     {
      "cod": 2552,
@@ -23940,7 +23988,7 @@
      "marca": "PITPRATOS",
      "preco": 4.9,
      "img": "produtos/188.jpg",
-     "saldo": 111
+     "saldo": 108
     },
     {
      "cod": 189,
@@ -24044,7 +24092,7 @@
      "marca": "MELLO",
      "preco": 47.9,
      "img": "produtos/1852.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1855,
@@ -25520,7 +25568,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2484
+     "saldo": 2481
     },
     {
      "cod": 6821,
@@ -25528,7 +25576,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 987
+     "saldo": 984
     },
     {
      "cod": 6855,
@@ -25536,7 +25584,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 456
+     "saldo": 452
     },
     {
      "cod": 2875,
@@ -25544,7 +25592,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 843
+     "saldo": 839
     },
     {
      "cod": 6825,
@@ -25568,7 +25616,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 9
+     "saldo": 8
     }
    ]
   },
@@ -25678,7 +25726,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 12
+     "saldo": 7
     },
     {
      "cod": 251,
@@ -25710,7 +25758,7 @@
      "marca": "HIPERROLL",
      "preco": 21.9,
      "img": "produtos/13855.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 6968,
@@ -25766,7 +25814,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 102
+     "saldo": 99
     },
     {
      "cod": 6857,
@@ -25980,7 +26028,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2408
+     "saldo": 2406
     },
     {
      "cod": 2896,
@@ -25988,7 +26036,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 193
+     "saldo": 192
     },
     {
      "cod": 4314,
@@ -26390,7 +26438,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 434
+     "saldo": 429
     },
     {
      "cod": 4937,
@@ -28774,7 +28822,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 10988,
@@ -28814,7 +28862,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 328
+     "saldo": 327
     },
     {
      "cod": 7275,
@@ -28876,7 +28924,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 84
+     "saldo": 82
     },
     {
      "cod": 13945,
@@ -28956,7 +29004,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 469
+     "saldo": 457
     },
     {
      "cod": 2157,
@@ -29034,7 +29082,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 9748,
