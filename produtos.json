@@ -2005,14 +2005,6 @@
      "saldo": 80
     },
     {
-     "cod": 13053,
-     "nome": "LAPIS ESCREVER CIS FANTASIA DIVERTIDA C/BORRACHA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/13053.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 10475,
      "nome": "LAPIS ESCREVER CIS FANTASIA FRUTAS C/BORRACHA",
      "marca": "CIS",
@@ -2219,7 +2211,7 @@
        "cor": "Preto",
        "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
        "img": "produtos/8415.jpg",
-       "saldo": 48
+       "saldo": 38
       }
      ]
     },
@@ -3373,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 93
+       "saldo": 92
       },
       {
        "cod": 2658,
@@ -7805,7 +7797,7 @@
      "marca": "CIS",
      "preco": 1.5,
      "img": "produtos/10652.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 7554,
@@ -7813,7 +7805,7 @@
      "marca": "JOCAR",
      "preco": 1.9,
      "img": "produtos/7554.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 12223,
@@ -8817,7 +8809,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 11807,
@@ -10032,7 +10024,7 @@
      "marca": "GRIFFE",
      "preco": 3.5,
      "img": "produtos/2601.jpg",
-     "saldo": 43
+     "saldo": 41
     },
     {
      "cod": 2602,
@@ -11251,7 +11243,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2149.jpg",
-     "saldo": 341
+     "saldo": 336
     },
     {
      "cod": 2150,
@@ -11267,7 +11259,7 @@
      "marca": "USA FOLIEN",
      "preco": 6.9,
      "img": "produtos/2159.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 7182,
@@ -13902,7 +13894,7 @@
      "marca": "ACRIMET",
      "preco": 31.9,
      "img": "produtos/5229.jpg",
-     "saldo": 14
+     "saldo": 15
     },
     {
      "cod": 2911,
@@ -18855,7 +18847,7 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/46.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 13101,
@@ -20830,7 +20822,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14572.jpg",
-     "saldo": 72,
+     "saldo": 71,
      "controle": [
       "AZUL CL",
       "AZUL ESC",
@@ -20844,7 +20836,7 @@
       "AZUL ESC": 12,
       "LARANJA": 12,
       "ROXO": 12,
-      "VERDE": 12,
+      "VERDE": 11,
       "VERMELHO": 12
      }
     },
@@ -21092,7 +21084,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 213
+     "saldo": 212
     },
     {
      "cod": 944,
@@ -22114,7 +22106,7 @@
      "marca": "ULTRA",
      "preco": 52.9,
      "img": "produtos/8365.jpg",
-     "saldo": 17
+     "saldo": 18
     },
     {
      "cod": 8364,
@@ -22122,7 +22114,7 @@
      "marca": "ULTRA",
      "preco": 29.9,
      "img": "produtos/8364.jpg",
-     "saldo": 16
+     "saldo": 17
     },
     {
      "cod": 4391,
@@ -24444,7 +24436,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 219
+     "saldo": 819
     },
     {
      "cod": 2705,
@@ -24452,7 +24444,7 @@
      "marca": "ROMA P.",
      "preco": 5.9,
      "img": "produtos/2705.jpg",
-     "saldo": 370
+     "saldo": 870
     },
     {
      "cod": 2706,
@@ -24460,7 +24452,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 197
+     "saldo": 997
     },
     {
      "cod": 6862,
@@ -25130,7 +25122,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 978
+     "saldo": 975
     },
     {
      "cod": 2826,
@@ -25891,7 +25883,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 4314,
@@ -28014,7 +28006,7 @@
      "marca": "PRIMUS",
      "preco": 59.9,
      "img": "produtos/1207.jpg",
-     "saldo": 22
+     "saldo": 21
     }
    ]
   },
@@ -28360,7 +28352,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/192.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 193,
@@ -28858,7 +28850,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 282
+     "saldo": 277
     },
     {
      "cod": 6529,
@@ -30889,7 +30881,7 @@
      "marca": "FABER",
      "preco": 12.9,
      "img": "produtos/1847.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 9132,
