@@ -8849,7 +8849,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1467
+     "saldo": 1466
     },
     {
      "cod": 4389,
@@ -11896,7 +11896,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10995.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 10996,
@@ -13281,7 +13281,7 @@
      "marca": "MAXCRIL",
      "preco": 0.6,
      "img": "produtos/9251.jpg",
-     "saldo": 144
+     "saldo": 194
     },
     {
      "cod": 9252,
@@ -15018,28 +15018,28 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14205.jpg",
-     "saldo": 52,
+     "saldo": 51,
      "cores": [
       {
        "cod": 14205,
        "cor": "Azul",
        "nome": "PASTA PP 5CM PLASCONY-AZUL",
        "img": "produtos/14205.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 14444,
        "cor": "Lilas",
        "nome": "PASTA PP 5CM PLASCONY-LILAS",
        "img": "produtos/14444.jpg",
-       "saldo": 37
+       "saldo": 36
       },
       {
        "cod": 14445,
        "cor": "Rosa",
        "nome": "PASTA PP 5CM PLASCONY-ROSA",
        "img": "produtos/14445.jpg",
-       "saldo": 39
+       "saldo": 38
       },
       {
        "cod": 14446,
@@ -15480,7 +15480,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 149
+     "saldo": 148
     },
     {
      "cod": 1144,
@@ -20706,7 +20706,7 @@
      "marca": "REFLEX",
      "preco": 2.9,
      "img": "produtos/2580.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 2581,
@@ -24066,7 +24066,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 259
+     "saldo": 255
     },
     {
      "cod": 3932,
@@ -24232,7 +24232,7 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 14415,
@@ -24248,7 +24248,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 2700,
@@ -24844,7 +24844,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4941.jpg",
-     "saldo": 347
+     "saldo": 345
     },
     {
      "cod": 4942,
@@ -24884,7 +24884,7 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg",
-     "saldo": 211
+     "saldo": 207
     },
     {
      "cod": 4947,
@@ -25122,7 +25122,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 998
+     "saldo": 988
     },
     {
      "cod": 2826,
@@ -25415,7 +25415,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2488
+     "saldo": 2486
     },
     {
      "cod": 6821,
@@ -25423,7 +25423,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 1006
+     "saldo": 999
     },
     {
      "cod": 6855,
@@ -25463,7 +25463,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 10
+     "saldo": 9
     }
    ]
   },
@@ -27910,7 +27910,7 @@
      "marca": "PRIMUS",
      "preco": 39.9,
      "img": "produtos/1160.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 1197,
@@ -27926,7 +27926,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 1198,
@@ -28716,7 +28716,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 331
+     "saldo": 330
     },
     {
      "cod": 7275,
@@ -28850,7 +28850,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 297
+     "saldo": 292
     },
     {
      "cod": 6529,
