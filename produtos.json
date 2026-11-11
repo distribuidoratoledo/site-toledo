@@ -10576,7 +10576,7 @@
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 123
+       "saldo": 122
       },
       {
        "cod": 2039,
@@ -10933,7 +10933,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 542
+     "saldo": 532
     },
     {
      "cod": 2007,
@@ -18855,7 +18855,7 @@
      "marca": "NYBC",
      "preco": 32.9,
      "img": "produtos/13101.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 1333,
@@ -19653,6 +19653,14 @@
      "preco": 11.9,
      "img": "produtos/6043.jpg",
      "saldo": 63
+    },
+    {
+     "cod": 14639,
+     "nome": "BRINQUEDO PEDAG.PALHAÇO POM POM",
+     "marca": "KENDY BRIN",
+     "preco": 71.9,
+     "img": "produtos/14639.jpg",
+     "saldo": 6
     },
     {
      "cod": 13718,
@@ -21100,7 +21108,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2994
+     "saldo": 2992
     },
     {
      "cod": 14414,
@@ -22154,7 +22162,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 585
+     "saldo": 584
     },
     {
      "cod": 4146,
@@ -22186,7 +22194,7 @@
      "marca": "COPOBRAS",
      "preco": 31.9,
      "img": "produtos/2489.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 7352,
@@ -22218,7 +22226,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 4129,
@@ -22226,7 +22234,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 5005,
@@ -23400,7 +23408,7 @@
      "marca": "ABN",
      "preco": 28.9,
      "img": "produtos/7020.jpg",
-     "saldo": 1
+     "saldo": 26
     },
     {
      "cod": 7021,
@@ -23408,7 +23416,7 @@
      "marca": "ABN",
      "preco": 35.9,
      "img": "produtos/7021.jpg",
-     "saldo": 5
+     "saldo": 30
     },
     {
      "cod": 7022,
@@ -23560,7 +23568,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 3
+     "saldo": 23
     },
     {
      "cod": 6986,
@@ -23568,7 +23576,7 @@
      "marca": "ABN",
      "preco": 57.9,
      "img": "produtos/6986.jpg",
-     "saldo": 3
+     "saldo": 23
     },
     {
      "cod": 481,
@@ -23576,7 +23584,7 @@
      "marca": "ABN",
      "preco": 66.9,
      "img": "produtos/481.jpg",
-     "saldo": 3
+     "saldo": 23
     },
     {
      "cod": 6987,
@@ -23584,7 +23592,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 12
+     "saldo": 32
     },
     {
      "cod": 10001,
@@ -23678,7 +23686,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 226
+     "saldo": 225
     },
     {
      "cod": 11295,
@@ -24908,7 +24916,7 @@
      "marca": "KROMASA",
      "preco": 1.5,
      "img": "produtos/2806.jpg",
-     "saldo": 2025
+     "saldo": 1995
     },
     {
      "cod": 2807,
@@ -25415,7 +25423,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2486
+     "saldo": 2484
     },
     {
      "cod": 6821,
@@ -25423,7 +25431,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 988
+     "saldo": 987
     },
     {
      "cod": 6855,
@@ -25439,7 +25447,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 874
+     "saldo": 873
     },
     {
      "cod": 6825,
@@ -25477,7 +25485,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/7309.jpg",
-     "saldo": 184
+     "saldo": 176
     },
     {
      "cod": 14242,
@@ -25493,7 +25501,7 @@
      "marca": "MP",
      "preco": 26.9,
      "img": "produtos/7678.jpg",
-     "saldo": 248
+     "saldo": 235
     },
     {
      "cod": 242,
@@ -25875,7 +25883,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2418
+     "saldo": 2408
     },
     {
      "cod": 2896,
@@ -25907,7 +25915,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 1009
+     "saldo": 999
     },
     {
      "cod": 2900,
@@ -25931,7 +25939,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 193
+     "saldo": 192
     },
     {
      "cod": 2902,
@@ -26087,7 +26095,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 1273,
@@ -26317,7 +26325,7 @@
      "marca": "IEC",
      "preco": 3.9,
      "img": "produtos/2783.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 2784,
@@ -28258,7 +28266,7 @@
      "marca": "SANREMO",
      "preco": 46.9,
      "img": "produtos/11685.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7026,
@@ -28644,7 +28652,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 8294,
