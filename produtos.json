@@ -699,7 +699,7 @@
      "marca": "CIS",
      "preco": 29.9,
      "img": "produtos/13792.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 584,
@@ -3305,7 +3305,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 87
+     "saldo": 85
     },
     {
      "cod": 2652,
@@ -6080,7 +6080,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO ALIBOM. CD 80F-VERMELHO",
        "img": "produtos/366.jpg",
-       "saldo": 30
+       "saldo": 29
       }
      ]
     },
@@ -8257,7 +8257,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 88
+     "saldo": 87
     },
     {
      "cod": 836,
@@ -8265,7 +8265,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/836.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 7704,
@@ -8313,7 +8313,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 846,
@@ -8825,7 +8825,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 396
+     "saldo": 395
     },
     {
      "cod": 1313,
@@ -8871,7 +8871,7 @@
      "marca": "CIS",
      "preco": 59.9,
      "img": "produtos/10579.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 10540,
@@ -9590,7 +9590,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 11
+     "saldo": 9
     }
    ]
   },
@@ -9714,7 +9714,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1536.jpg",
-     "saldo": 242
+     "saldo": 240
     },
     {
      "cod": 1537,
@@ -11115,7 +11115,7 @@
      "marca": "MINASPEL",
      "preco": 9.9,
      "img": "produtos/2133.jpg",
-     "saldo": 408
+     "saldo": 407
     },
     {
      "cod": 2134,
@@ -11299,7 +11299,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/2163.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 7335,
@@ -24860,7 +24860,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2732.jpg",
-     "saldo": 89
+     "saldo": 69
     },
     {
      "cod": 2731,
@@ -26114,7 +26114,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1151
+     "saldo": 1095
     },
     {
      "cod": 6646,
