@@ -14204,7 +14204,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/6950.jpg",
-     "saldo": 279
+     "saldo": 278
     },
     {
      "cod": 6196,
@@ -14697,7 +14697,7 @@
        "cor": "Verde",
        "nome": "PASTA POLIONDA 5,5CM VERDE",
        "img": "produtos/2181.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 3872,
@@ -17897,7 +17897,7 @@
      "marca": "SCRITY",
      "preco": 0.15,
      "img": "produtos/1098.jpg",
-     "saldo": 292
+     "saldo": 242
     },
     {
      "cod": 1039,
@@ -22162,7 +22162,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 593
+     "saldo": 591
     },
     {
      "cod": 4146,
@@ -22178,7 +22178,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 500
+     "saldo": 498
     },
     {
      "cod": 3887,
@@ -22320,7 +22320,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 717
+     "saldo": 713
     },
     {
      "cod": 880,
@@ -22542,7 +22542,7 @@
      "marca": "COPOZAN",
      "preco": 13.9,
      "img": "produtos/11853.jpg",
-     "saldo": 5
+     "saldo": 1
     },
     {
      "cod": 2510,
@@ -23124,7 +23124,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 1376,
@@ -24170,7 +24170,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/1995.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 1999,
@@ -25431,7 +25431,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 998
+     "saldo": 988
     },
     {
      "cod": 6855,
@@ -25891,7 +25891,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 4314,
@@ -25931,7 +25931,7 @@
      "marca": "GERAPLAST",
      "preco": 34.9,
      "img": "produtos/2901.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 7358,
@@ -26253,7 +26253,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 722
+     "saldo": 721
     },
     {
      "cod": 2760,
@@ -26293,7 +26293,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 435
+     "saldo": 434
     },
     {
      "cod": 4937,
@@ -28724,7 +28724,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 330
+     "saldo": 328
     },
     {
      "cod": 7275,
@@ -28786,7 +28786,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 13945,
@@ -28858,7 +28858,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 287
+     "saldo": 282
     },
     {
      "cod": 6529,
@@ -28866,7 +28866,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 477
+     "saldo": 472
     },
     {
      "cod": 2157,
@@ -28944,7 +28944,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 9748,
@@ -31045,14 +31045,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 376,
+     "saldo": 374,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 376
+       "saldo": 374
       },
       {
        "cod": 6051,
