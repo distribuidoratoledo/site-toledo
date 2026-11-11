@@ -203,6 +203,33 @@
     .tab-itens .c-val { text-align: right; width: 104px; white-space: nowrap; font-variant-numeric: tabular-nums; }
     .tab-itens .c-val.tot { font-weight: 700; color: var(--azul); }
     .tab-itens .c-val.sem { color: #9aa3b1; font-style: italic; }
+    /* LISTA NO CELULAR (Adriana, 11/11/2026: "como o pai ve o site pelo celular"): no lugar da tabela larga, que
+       obrigava a arrastar para o lado, cada item vira um cartao -- foto, item, produto e, embaixo, qtd x valor = total */
+    @media screen and (max-width: 640px) {
+      .tab-itens { border: 0; overflow: visible; }
+      .tab-itens table { min-width: 0; display: block; }
+      .tab-itens thead { display: none; }
+      .tab-itens tbody { display: block; }
+      .tab-itens tbody tr { display: grid; grid-template-columns: 58px auto auto minmax(0, 1fr); column-gap: 8px; row-gap: 2px;
+        align-items: center; border: 1px solid var(--borda); border-radius: 10px; padding: 8px 10px; margin: 0 0 8px; background: #fff; }
+      .tab-itens tbody tr.grupo { display: block; padding: 0; border: 0; background: none; }
+      .tab-itens tbody tr.grupo td { display: block; border-radius: 8px; }
+      .tab-itens tbody td { display: block; border: 0 !important; padding: 0; width: auto !important; text-align: left !important; background: none !important; }
+      .tab-itens tbody tr.grupo td { background: #dfe7f3 !important; padding: 0.5rem 0.8rem; }
+      .tab-itens td.c-n { display: none; }
+      .tab-itens td.c-foto { grid-column: 1; grid-row: 1 / span 4; align-self: start; }
+      .tab-itens td.c-foto .foto { width: 54px; height: 54px; }
+      .tab-itens td.c-item { grid-column: 2 / -1; grid-row: 1; }
+      .tab-itens td.c-cod { grid-column: 2 / -1; grid-row: 2; font-size: .78rem; color: var(--suave); font-weight: 600; }
+      .tab-itens td.c-marca { grid-column: 2 / -1; grid-row: 3; font-size: .78rem; color: var(--suave); }
+      .tab-itens td.c-cod::before { content: 'Cód. '; font-weight: 400; }
+      .tab-itens td.c-marca::before { content: 'Marca: '; }
+      .tab-itens td.c-qtd { grid-column: 2; grid-row: 4; font-size: .9rem; white-space: nowrap; }
+      .tab-itens td.c-val { grid-column: 3; grid-row: 4; font-size: .9rem; }
+      .tab-itens td.c-val.tot, .tab-itens td.c-val.sem + .c-val { grid-column: 4; text-align: right !important; font-size: 1rem; }
+      .tab-itens td.c-qtd::before { content: 'Qtd '; font-weight: 400; color: var(--suave); }
+      .tab-itens td.c-qtd::after { content: ' ×'; font-weight: 400; color: var(--suave); }
+    }
     .tab-itens th.c-n, .tab-itens th.c-cod, .tab-itens th.c-val { color: #fff; }   /* título visível no fundo azul */
     .tab-itens .nome { font-weight: 700; color: var(--azul); }
     .tab-itens .prod { font-size: 0.82rem; color: var(--suave); }
