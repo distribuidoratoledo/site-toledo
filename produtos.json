@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2167
+       "saldo": 2166
       },
       {
        "cod": 554,
@@ -1986,7 +1986,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1144
+     "saldo": 1142
     },
     {
      "cod": 1670,
@@ -3414,7 +3414,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1509.jpg",
-     "saldo": 187
+     "saldo": 186
     },
     {
      "cod": 12247,
@@ -3594,7 +3594,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
-     "saldo": 47,
+     "saldo": 46,
      "controle": [
       "AZUL",
       "LILAS",
@@ -3604,7 +3604,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "LILAS": 12,
-      "ROSA": 11,
+      "ROSA": 10,
       "VERDE-ÁGUA": 12
      }
     },
@@ -4114,7 +4114,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 72,
+     "saldo": 71,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4122,8 +4122,8 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 18,
-      "ROSA": 18,
+      "AZUL": 16,
+      "ROSA": 17,
       "ROXO": 18,
       "VERDE-ÁGUA": 18
      }
@@ -7784,7 +7784,7 @@
      "marca": "CIS",
      "preco": 1.5,
      "img": "produtos/10652.jpg",
-     "saldo": 30
+     "saldo": 22
     },
     {
      "cod": 7554,
@@ -9569,7 +9569,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 138
+     "saldo": 137
     },
     {
      "cod": 2618,
@@ -10936,21 +10936,21 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 45,
+     "saldo": 36,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 45
+       "saldo": 36
       },
       {
        "cod": 3975,
        "cor": "Azul",
        "nome": "PAPEL A4 COLOR. C/100-AZUL",
        "img": "produtos/3975.jpg",
-       "saldo": 42
+       "saldo": 12
       },
       {
        "cod": 6314,
@@ -10964,7 +10964,7 @@
        "cor": "Verde",
        "nome": "PAPEL A4 COLOR. C/100-VERDE",
        "img": "produtos/6313.jpg",
-       "saldo": 65
+       "saldo": 56
       }
      ]
     },
@@ -15416,7 +15416,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4872.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 2746,
@@ -15783,7 +15783,7 @@
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 53
+       "saldo": 50
       },
       {
        "cod": 4829,
@@ -15935,14 +15935,14 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 145
+       "saldo": 143
       },
       {
        "cod": 1233,
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 132
+       "saldo": 130
       },
       {
        "cod": 1235,
@@ -16012,7 +16012,7 @@
        "cor": "Vermelho",
        "nome": "EVA LISO-VERMELHO",
        "img": "produtos/1244.jpg",
-       "saldo": 228
+       "saldo": 226
       }
      ]
     },
@@ -20891,7 +20891,7 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4337.jpg",
-     "saldo": 46
+     "saldo": 45
     }
    ]
   },
@@ -22093,7 +22093,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/770.jpg",
-     "saldo": 249
+     "saldo": 248
     },
     {
      "cod": 772,
@@ -24871,7 +24871,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 161
+     "saldo": 162
     },
     {
      "cod": 3652,
@@ -24887,7 +24887,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 210
+     "saldo": 209
     },
     {
      "cod": 8100,
@@ -25015,7 +25015,7 @@
      "marca": "KROMASA",
      "preco": 8.9,
      "img": "produtos/4942.jpg",
-     "saldo": 93
+     "saldo": 92
     },
     {
      "cod": 4943,
@@ -26807,7 +26807,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/4727.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 3195,
