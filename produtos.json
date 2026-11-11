@@ -422,7 +422,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 143
+       "saldo": 140
       },
       {
        "cod": 563,
@@ -1136,7 +1136,7 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/596.jpg",
-     "saldo": 11
+     "saldo": 7
     },
     {
      "cod": 4392,
@@ -2377,7 +2377,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 183
+     "saldo": 182
     },
     {
      "cod": 6355,
@@ -3305,7 +3305,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 91
+     "saldo": 87
     },
     {
      "cod": 2652,
@@ -3365,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 91
+       "saldo": 87
       },
       {
        "cod": 2658,
@@ -3531,7 +3531,7 @@
      "marca": "COMPACTOR",
      "preco": 8.9,
      "img": "produtos/7038.jpg",
-     "saldo": 167
+     "saldo": 166
     },
     {
      "cod": 14371,
@@ -3901,7 +3901,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 2006
+     "saldo": 2004
     },
     {
      "cod": 4341,
@@ -7376,7 +7376,7 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 81
+       "saldo": 80
       },
       {
        "cod": 12455,
@@ -7749,7 +7749,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/787.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 790,
@@ -8583,7 +8583,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 828
+     "saldo": 818
     },
     {
      "cod": 4438,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1466
+     "saldo": 1461
     },
     {
      "cod": 4389,
@@ -8887,7 +8887,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 56
+     "saldo": 54
     },
     {
      "cod": 1519,
@@ -9295,7 +9295,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 477
+     "saldo": 476
     },
     {
      "cod": 10030,
@@ -10460,7 +10460,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 2051,
@@ -10740,7 +10740,7 @@
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 7
+       "saldo": 6
       }
      ]
     },
@@ -10917,7 +10917,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 125
+     "saldo": 105
     },
     {
      "cod": 2016,
@@ -10933,7 +10933,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 532
+     "saldo": 528
     },
     {
      "cod": 2007,
@@ -13814,7 +13814,7 @@
      "marca": "SOUZA",
      "preco": 8.9,
      "img": "produtos/7334.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 6179,
@@ -15064,7 +15064,7 @@
      "marca": "POLIBRAS",
      "preco": 3.9,
      "img": "produtos/2260.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 7166,
@@ -15135,7 +15135,7 @@
      "marca": "POLIBRAS",
      "preco": 25.9,
      "img": "produtos/2266.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 14453,
@@ -15341,7 +15341,7 @@
      "marca": "GALA",
      "preco": 18.9,
      "img": "produtos/4432.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2740,
@@ -15648,7 +15648,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 413
+     "saldo": 412
     },
     {
      "cod": 6721,
@@ -15932,14 +15932,14 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 147
+       "saldo": 146
       },
       {
        "cod": 1233,
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 136
+       "saldo": 135
       },
       {
        "cod": 1235,
@@ -19363,7 +19363,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1578
+     "saldo": 1572
     },
     {
      "cod": 3538,
@@ -19511,12 +19511,52 @@
      "saldo": 9
     },
     {
+     "cod": 14651,
+     "nome": "BRINQUEDO CORDA DE PULAR  NYLON C/2MT",
+     "marca": "CARLU",
+     "preco": 16.9,
+     "img": "produtos/14651.jpg",
+     "saldo": 16
+    },
+    {
+     "cod": 14653,
+     "nome": "BRINQUEDO MUSICAL BUMBO-PATRULHA CANINA",
+     "marca": "ELKA",
+     "preco": 92.9,
+     "img": "produtos/14653.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14654,
+     "nome": "BRINQUEDO MUSICAL VIOLAO-PATRULHA CANINA",
+     "marca": "ELKA",
+     "preco": 92.9,
+     "img": "produtos/14654.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14652,
+     "nome": "BRINQUEDO PANDEIRO DINO",
+     "marca": "BUBA",
+     "preco": 57.9,
+     "img": "produtos/14652.jpg",
+     "saldo": 3
+    },
+    {
      "cod": 219,
      "nome": "BRINQUEDO PEDAG. BLOCOS LOGICOS C/48 PÇ MDF",
      "marca": "CARLU",
-     "preco": 52.9,
+     "preco": 59.9,
      "img": "produtos/219.jpg",
      "saldo": 12
+    },
+    {
+     "cod": 14649,
+     "nome": "BRINQUEDO PEDAG. BRINC. LETRAS C/26",
+     "marca": "PICA PAU",
+     "preco": 11.9,
+     "img": "produtos/14649.jpg",
+     "saldo": 24
     },
     {
      "cod": 6107,
@@ -19527,12 +19567,28 @@
      "saldo": 52
     },
     {
+     "cod": 14648,
+     "nome": "BRINQUEDO PEDAG. BRINCAN. LETRAS C/173",
+     "marca": "PAIS&FILHO",
+     "preco": 76.9,
+     "img": "produtos/14648.jpg",
+     "saldo": 6
+    },
+    {
      "cod": 8912,
      "nome": "BRINQUEDO PEDAG. CORDA SISAL C/2,5MT",
      "marca": "OFFSIDE",
      "preco": 22.9,
      "img": "produtos/8912.jpg",
      "saldo": 6
+    },
+    {
+     "cod": 14650,
+     "nome": "BRINQUEDO PEDAG. MADEIRA ENCAIXE FORMAS",
+     "marca": "TOY MIX",
+     "preco": 30.9,
+     "img": "produtos/14650.jpg",
+     "saldo": 12
     },
     {
      "cod": 306,
@@ -19578,9 +19634,17 @@
      "cod": 8074,
      "nome": "BRINQUEDO PEDAG.DAMAS",
      "marca": "COLUNA",
-     "preco": 35.9,
+     "preco": 23.9,
      "img": "produtos/8074.jpg",
      "saldo": 13
+    },
+    {
+     "cod": 14646,
+     "nome": "BRINQUEDO PEDAG.DEKO BLOCOS",
+     "marca": "GGB PLAST",
+     "preco": 28.9,
+     "img": "produtos/14646.jpg",
+     "saldo": 6
     },
     {
      "cod": 13505,
@@ -19631,12 +19695,36 @@
      "saldo": 18
     },
     {
+     "cod": 14642,
+     "nome": "BRINQUEDO PEDAG.MONTAR BLOCOS  C/56",
+     "marca": "PAIS&FILHO",
+     "preco": 62.9,
+     "img": "produtos/14642.jpg",
+     "saldo": 6
+    },
+    {
      "cod": 13510,
      "nome": "BRINQUEDO PEDAG.MONTAR BLOCOS UNICORNIO",
      "marca": "GGB PLAST",
      "preco": 33.9,
      "img": "produtos/13510.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14647,
+     "nome": "BRINQUEDO PEDAG.MONTAR FOFO BLOCOS C/15",
+     "marca": "ELKA",
+     "preco": 74.9,
+     "img": "produtos/14647.jpg",
+     "saldo": 6
+    },
+    {
+     "cod": 14643,
+     "nome": "BRINQUEDO PEDAG.MONTAR FORMAS C/40",
+     "marca": "CARLU",
+     "preco": 14.9,
+     "img": "produtos/14643.jpg",
+     "saldo": 12
     },
     {
      "cod": 13511,
@@ -19647,12 +19735,28 @@
      "saldo": 18
     },
     {
+     "cod": 14640,
+     "nome": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/24",
+     "marca": "GGB PLAST",
+     "preco": 19.9,
+     "img": "produtos/14640.jpg",
+     "saldo": 48
+    },
+    {
      "cod": 6043,
      "nome": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
      "marca": "GGB PLAST",
      "preco": 11.9,
      "img": "produtos/6043.jpg",
      "saldo": 63
+    },
+    {
+     "cod": 14641,
+     "nome": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/96",
+     "marca": "GGB PLAST",
+     "preco": 31.9,
+     "img": "produtos/14641.jpg",
+     "saldo": 24
     },
     {
      "cod": 14639,
@@ -22162,7 +22266,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 584
+     "saldo": 582
     },
     {
      "cod": 4146,
@@ -22178,7 +22282,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 492
+     "saldo": 490
     },
     {
      "cod": 3887,
@@ -22320,7 +22424,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 709
+     "saldo": 707
     },
     {
      "cod": 880,
@@ -22980,7 +23084,7 @@
      "marca": "ECO",
      "preco": 69.9,
      "img": "produtos/1363.jpg",
-     "saldo": 54
+     "saldo": 39
     },
     {
      "cod": 14062,
@@ -23020,7 +23124,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 7045,
@@ -24564,7 +24668,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 29
+     "saldo": 27
     },
     {
      "cod": 10060,
@@ -24716,7 +24820,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 162
+     "saldo": 161
     },
     {
      "cod": 3652,
@@ -24724,7 +24828,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/3652.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 2733,
@@ -25225,13 +25329,6 @@
        "saldo": 12
       },
       {
-       "cod": 4550,
-       "cor": "Preta",
-       "nome": "SACOLA PH 20X30 C/50-PRETA",
-       "img": "produtos/4550.jpg",
-       "saldo": 1
-      },
-      {
        "cod": 13963,
        "cor": "Rosa Bebe",
        "nome": "SACOLA PH 20X30 C/50-ROSA BEBE",
@@ -25447,7 +25544,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 873
+     "saldo": 843
     },
     {
      "cod": 6825,
@@ -26033,7 +26130,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 287
+     "saldo": 1757
     },
     {
      "cod": 236,
@@ -26942,13 +27039,6 @@
        "nome": "FITA CETIM N3 15MMX10MT-ROSA ESCURO/PINK",
        "img": "produtos/9072.jpg",
        "saldo": 2
-      },
-      {
-       "cod": 9786,
-       "cor": "Verde Bandeira",
-       "nome": "FITA CETIM N3 15MMX10MT-VERDE BANDEIRA",
-       "img": "produtos/9786.jpg",
-       "saldo": 1
       },
       {
        "cod": 6008,
@@ -28802,7 +28892,7 @@
      "marca": "BOB",
      "preco": 5.9,
      "img": "produtos/9017.jpg",
-     "saldo": 28
+     "saldo": 26
     },
     {
      "cod": 2107,
@@ -28866,7 +28956,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 472
+     "saldo": 469
     },
     {
      "cod": 2157,
