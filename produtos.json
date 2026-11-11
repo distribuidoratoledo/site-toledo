@@ -946,14 +946,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 326,
+     "saldo": 324,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 326
+       "saldo": 324
       },
       {
        "cod": 9370,
@@ -3359,14 +3359,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 155,
+     "saldo": 153,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 155
+       "saldo": 153
       },
       {
        "cod": 2657,
@@ -8599,7 +8599,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2070
+     "saldo": 2060
     },
     {
      "cod": 1031,
@@ -9754,7 +9754,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 96
+     "saldo": 93
     },
     {
      "cod": 6612,
@@ -10925,7 +10925,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 126
+     "saldo": 125
     },
     {
      "cod": 2016,
@@ -10941,7 +10941,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 547
+     "saldo": 545
     },
     {
      "cod": 2007,
@@ -13622,7 +13622,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/13782.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 10190,
@@ -14496,21 +14496,21 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/6799.jpg",
-     "saldo": 12,
+     "saldo": 8,
      "cores": [
       {
        "cod": 6799,
        "cor": "Amarela",
        "nome": "PASTA L A4 AMARELA",
        "img": "produtos/6799.jpg",
-       "saldo": 12
+       "saldo": 8
       },
       {
        "cod": 6800,
        "cor": "Vermelha",
        "nome": "PASTA L A4 VERMELHA",
        "img": "produtos/6800.jpg",
-       "saldo": 11
+       "saldo": 8
       }
      ]
     },
@@ -14520,7 +14520,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/6802.jpg",
-     "saldo": 13
+     "saldo": 3
     },
     {
      "cod": 4152,
@@ -18715,7 +18715,7 @@
        "cor": "Verde",
        "nome": "POST-IT 76X76 C/100 VERDE",
        "img": "produtos/6622.jpg",
-       "saldo": 61
+       "saldo": 60
       }
      ]
     },
@@ -21092,7 +21092,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 215
+     "saldo": 213
     },
     {
      "cod": 944,
@@ -21108,7 +21108,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2998
+     "saldo": 2994
     },
     {
      "cod": 14414,
@@ -21140,7 +21140,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 980
+     "saldo": 979
     },
     {
      "cod": 14407,
@@ -21778,7 +21778,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6941.jpg",
-     "saldo": 8
+     "saldo": 3
     },
     {
      "cod": 6945,
@@ -22162,7 +22162,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 591
+     "saldo": 585
     },
     {
      "cod": 4146,
@@ -22170,7 +22170,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 44
+     "saldo": 40
     },
     {
      "cod": 2491,
@@ -22178,7 +22178,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 498
+     "saldo": 492
     },
     {
      "cod": 3887,
@@ -22186,7 +22186,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 34
+     "saldo": 30
     },
     {
      "cod": 2489,
@@ -22320,7 +22320,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 713
+     "saldo": 709
     },
     {
      "cod": 880,
@@ -22376,7 +22376,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 136
+     "saldo": 134
     },
     {
      "cod": 4277,
@@ -22478,7 +22478,7 @@
      "marca": "RIOPLASTIC",
      "preco": 8.9,
      "img": "produtos/2495.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 11825,
@@ -23226,7 +23226,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1097
+     "saldo": 1095
     },
     {
      "cod": 3857,
@@ -23504,7 +23504,7 @@
      "marca": "SANTECK",
      "preco": 4.9,
      "img": "produtos/7070.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 7071,
@@ -23662,7 +23662,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 371
+     "saldo": 370
     },
     {
      "cod": 3951,
@@ -26095,7 +26095,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 43
+     "saldo": 40
     },
     {
      "cod": 1273,
@@ -30693,7 +30693,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14552.jpg",
-     "saldo": 16,
+     "saldo": 15,
      "controle": [
       "AZUL",
       "LILAS",
@@ -30701,7 +30701,7 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AZUL": 4,
+      "AZUL": 3,
       "LILAS": 4,
       "ROSA": 4,
       "VERMELHO": 4
