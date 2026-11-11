@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2172
+       "saldo": 2170
       },
       {
        "cod": 554,
@@ -4181,7 +4181,7 @@
      ],
      "saldo_cor": {
       "AZUL": 8,
-      "LILAS": 8,
+      "LILAS": 7,
       "ROSA": 8
      }
     },
@@ -7237,7 +7237,7 @@
      "marca": "TILIBRA",
      "preco": 19.9,
      "img": "produtos/13033.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7808,
@@ -7423,7 +7423,7 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/438.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 12456,
@@ -7766,6 +7766,14 @@
      "preco": 2.9,
      "img": "produtos/790.jpg",
      "saldo": 31
+    },
+    {
+     "cod": 795,
+     "nome": "CLIPS (PEQ) 6/0 C/50-TOP",
+     "marca": "TOP",
+     "preco": 2.9,
+     "img": "produtos/795.jpg",
+     "saldo": 15
     },
     {
      "cod": 797,
@@ -8599,7 +8607,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2060
+     "saldo": 2058
     },
     {
      "cod": 1031,
@@ -8841,7 +8849,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1460
+     "saldo": 1455
     },
     {
      "cod": 4389,
@@ -9336,7 +9344,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "CRISTAL": 12,
-      "ROSA": 12
+      "ROSA": 11
      }
     },
     {
@@ -10072,7 +10080,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 2604,
@@ -13044,6 +13052,14 @@
      "preco": 6.9,
      "img": "produtos/9783.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14668,
+     "nome": "SELO CONVITE VERMELHO 19MM C/200",
+     "marca": "PIM/REFL",
+     "preco": 6.9,
+     "img": "produtos/14668.jpg",
+     "saldo": 10
     }
    ]
   },
@@ -13073,7 +13089,7 @@
      "marca": "MAXCRIL",
      "preco": 79.9,
      "img": "produtos/171.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 7502,
@@ -13710,7 +13726,7 @@
      "marca": "MAXCRIL",
      "preco": 17.9,
      "img": "produtos/9199.jpg",
-     "saldo": 27
+     "saldo": 21
     },
     {
      "cod": 11418,
@@ -15191,7 +15207,7 @@
      "marca": "POLIBRAS",
      "preco": 59.9,
      "img": "produtos/2270.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2271,
@@ -15464,7 +15480,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/1139.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 3390,
@@ -15845,7 +15861,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 14
+       "saldo": 16
       },
       {
        "cod": 1221,
@@ -18419,7 +18435,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/9227.jpg",
-     "saldo": 152
+     "saldo": 149
     },
     {
      "cod": 73,
@@ -18465,7 +18481,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 231
+     "saldo": 222
     }
    ]
   },
@@ -21244,7 +21260,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 244
+     "saldo": 242
     },
     {
      "cod": 938,
@@ -21349,14 +21365,6 @@
      "preco": 11.9,
      "img": "produtos/954.jpg",
      "saldo": 459
-    },
-    {
-     "cod": 3342,
-     "nome": "COPO 50ML PS C/100-COPOPLAST",
-     "marca": "COPOPLAST",
-     "preco": 3.5,
-     "img": "produtos/3342.jpg",
-     "saldo": 2
     },
     {
      "cod": 14405,
@@ -21532,7 +21540,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 137
+     "saldo": 135
     },
     {
      "cod": 2923,
@@ -21556,7 +21564,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 139
+     "saldo": 137
     },
     {
      "cod": 2934,
@@ -22758,7 +22766,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 131
+     "saldo": 129
     },
     {
      "cod": 7343,
@@ -24274,7 +24282,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 11675,
@@ -25338,7 +25346,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 498
+     "saldo": 497
     },
     {
      "cod": 2838,
@@ -25346,7 +25354,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 487
+     "saldo": 485
     },
     {
      "cod": 2839,
@@ -25354,7 +25362,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 452
+     "saldo": 451
     },
     {
      "cod": 2840,
@@ -25624,7 +25632,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 698
+     "saldo": 697
     },
     {
      "cod": 3964,
@@ -26168,7 +26176,7 @@
        "cor": "Branca",
        "nome": "BOBINA 57MM TERM 30M-BRANCA",
        "img": "produtos/6098.jpg",
-       "saldo": 529
+       "saldo": 499
       }
      ]
     },
@@ -26202,7 +26210,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1750
+     "saldo": 1720
     },
     {
      "cod": 236,
@@ -26502,7 +26510,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2784.jpg",
-     "saldo": 160
+     "saldo": 155
     },
     {
      "cod": 2785,
@@ -27170,7 +27178,7 @@
        "cor": "Ouro / Dourado",
        "nome": "FITILHO 50MT OURO/DOURADO",
        "img": "produtos/4778.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 4779,
@@ -28136,7 +28144,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 517
+     "saldo": 515
     },
     {
      "cod": 6324,
@@ -28144,7 +28152,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 563
+     "saldo": 561
     },
     {
      "cod": 6323,
@@ -30204,7 +30212,7 @@
        "cor": "Roxo",
        "nome": "APONTADOR LEO C/D BLOCO 60-ROXO",
        "img": "produtos/7592.jpg",
-       "saldo": 46
+       "saldo": 45
       },
       {
        "cod": 7591,
