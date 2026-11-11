@@ -1316,14 +1316,14 @@
      "marca": "PILOT",
      "preco": 12.9,
      "img": "produtos/617.jpg",
-     "saldo": 14,
+     "saldo": 12,
      "cores": [
       {
        "cod": 617,
        "cor": "Azul",
        "nome": "CANETA PILOT S.GRIP 1.0-AZUL",
        "img": "produtos/617.jpg",
-       "saldo": 14
+       "saldo": 12
       },
       {
        "cod": 618,
@@ -1856,7 +1856,7 @@
      "marca": "MAPED",
      "preco": 28.9,
      "img": "produtos/1659.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 12627,
@@ -2385,7 +2385,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 179
+     "saldo": 176
     },
     {
      "cod": 6355,
@@ -3406,7 +3406,7 @@
      "marca": "PENTEL",
      "preco": 5.9,
      "img": "produtos/1507.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1509,
@@ -3574,7 +3574,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14555.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "controle": [
       "AZUL",
       "CINZA",
@@ -3856,7 +3856,7 @@
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 12771,
@@ -8882,7 +8882,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 1520,
@@ -9733,7 +9733,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 6612,
@@ -10386,7 +10386,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 253
+       "saldo": 251
       },
       {
        "cod": 2035,
@@ -10833,7 +10833,7 @@
        "cor": "Prata",
        "nome": "LAMINADO-PRATA",
        "img": "produtos/2116.jpg",
-       "saldo": 116
+       "saldo": 111
       },
       {
        "cod": 2117,
@@ -10998,7 +10998,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 11784,
@@ -11554,7 +11554,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 239
+     "saldo": 238
     },
     {
      "cod": 11627,
@@ -11594,14 +11594,14 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3020.jpg",
-     "saldo": 52,
+     "saldo": 51,
      "cores": [
       {
        "cod": 3020,
        "cor": "Amarelo Ouro",
        "nome": "GUACHE 250ML ACRILEX-AMARELO OURO",
        "img": "produtos/3020.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 12685,
@@ -11678,7 +11678,7 @@
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 3026,
@@ -11875,7 +11875,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10995.jpg",
-     "saldo": 93
+     "saldo": 90
     },
     {
      "cod": 10996,
@@ -15075,7 +15075,7 @@
      "marca": "POLIBRAS",
      "preco": 4.9,
      "img": "produtos/7166.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 14203,
@@ -15416,7 +15416,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4872.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 2746,
@@ -15499,7 +15499,7 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13124.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 6633,
@@ -15515,7 +15515,7 @@
      "marca": "TRAMONTINA",
      "preco": 24.9,
      "img": "produtos/2959.jpg",
-     "saldo": 37
+     "saldo": 34
     },
     {
      "cod": 6635,
@@ -15783,7 +15783,7 @@
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 54
+       "saldo": 53
       },
       {
        "cod": 4829,
@@ -15811,7 +15811,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 104
+       "saldo": 103
       },
       {
        "cod": 4830,
@@ -15839,14 +15839,14 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 188
+       "saldo": 185
       },
       {
        "cod": 1222,
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 29
+       "saldo": 26
       },
       {
        "cod": 1223,
@@ -15867,7 +15867,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 1
+       "saldo": 0
       }
      ]
     },
@@ -18020,7 +18020,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 15709
+     "saldo": 15459
     },
     {
      "cod": 1051,
@@ -19823,7 +19823,7 @@
      "marca": "MAPED",
      "preco": 53.9,
      "img": "produtos/6498.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 14361,
@@ -21271,7 +21271,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2967
+     "saldo": 2965
     },
     {
      "cod": 14414,
@@ -22125,7 +22125,7 @@
      "marca": "ISOMAX",
      "preco": 16.9,
      "img": "produtos/775.jpg",
-     "saldo": 119
+     "saldo": 118
     },
     {
      "cod": 776,
@@ -24349,7 +24349,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 66
+     "saldo": 65
     }
    ]
   },
@@ -28999,7 +28999,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 444
+     "saldo": 439
     },
     {
      "cod": 2157,
@@ -30160,7 +30160,7 @@
        "cor": "Rosa",
        "nome": "APONTADOR LEO C/D BLOCO 60-ROSA",
        "img": "produtos/7589.jpg",
-       "saldo": 40
+       "saldo": 39
       },
       {
        "cod": 7592,
