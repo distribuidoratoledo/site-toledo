@@ -496,7 +496,7 @@
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 734
+       "saldo": 733
       },
       {
        "cod": 571,
@@ -8599,7 +8599,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 832
+     "saldo": 831
     },
     {
      "cod": 4438,
@@ -8857,7 +8857,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 718
+     "saldo": 717
     },
     {
      "cod": 1317,
@@ -9485,7 +9485,7 @@
        "cor": "Branca",
        "nome": "CORRETIVO CANETA 8ML MERCUR (BRANCA)",
        "img": "produtos/978.jpg",
-       "saldo": 73
+       "saldo": 72
       },
       {
        "cod": 7906,
@@ -10229,7 +10229,7 @@
        "cor": "Preto",
        "nome": "CAMURÇA-PRETO",
        "img": "produtos/2026.jpg",
-       "saldo": 29
+       "saldo": 26
       },
       {
        "cod": 2028,
@@ -10893,7 +10893,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 554
+     "saldo": 551
     },
     {
      "cod": 8404,
@@ -10925,7 +10925,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 2015,
@@ -11059,7 +11059,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 6667,
@@ -15803,7 +15803,7 @@
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 135
+       "saldo": 125
       },
       {
        "cod": 1216,
@@ -15955,7 +15955,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 146
+       "saldo": 136
       },
       {
        "cod": 1235,
@@ -16059,7 +16059,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/4206.jpg",
-     "saldo": 450
+     "saldo": 448
     },
     {
      "cod": 3060,
@@ -16075,7 +16075,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3062.jpg",
-     "saldo": 457
+     "saldo": 456
     },
     {
      "cod": 3063,
@@ -16123,7 +16123,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3069.jpg",
-     "saldo": 902
+     "saldo": 901
     },
     {
      "cod": 3070,
@@ -16147,7 +16147,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3071.jpg",
-     "saldo": 825
+     "saldo": 824
     },
     {
      "cod": 5066,
@@ -18041,7 +18041,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 15749
+     "saldo": 15719
     },
     {
      "cod": 1051,
@@ -18173,7 +18173,7 @@
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 258
+       "saldo": 257
       }
      ]
     },
@@ -21292,15 +21292,15 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/958.jpg",
-     "saldo": 184
+     "saldo": 183
     },
     {
      "cod": 6814,
      "nome": "COPO TERMICO 120ML C/20-TOTAL (ISOPOR)",
      "marca": "TOTAL",
-     "preco": 4.9,
+     "preco": 5.9,
      "img": "produtos/6814.jpg",
-     "saldo": 2
+     "saldo": 102
     },
     {
      "cod": 10120,
@@ -22178,7 +22178,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 598
+     "saldo": 593
     },
     {
      "cod": 4146,
@@ -22194,7 +22194,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 505
+     "saldo": 500
     },
     {
      "cod": 3887,
@@ -22242,7 +22242,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 148
+     "saldo": 147
     },
     {
      "cod": 4129,
@@ -22250,7 +22250,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 132
+     "saldo": 131
     },
     {
      "cod": 5005,
@@ -22266,7 +22266,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 112
+     "saldo": 110
     },
     {
      "cod": 4733,
@@ -22296,7 +22296,7 @@
      "marca": "PLAZAPEL",
      "preco": 13.9,
      "img": "produtos/7659.jpg",
-     "saldo": 9
+     "saldo": 29
     },
     {
      "cod": 8361,
@@ -22304,7 +22304,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 279
+     "saldo": 276
     },
     {
      "cod": 11964,
@@ -22860,7 +22860,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 594
+     "saldo": 734
     },
     {
      "cod": 1415,
@@ -23140,7 +23140,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 1376,
@@ -23467,6 +23467,14 @@
      "saldo": 11
     },
     {
+     "cod": 14664,
+     "nome": "CAIXA FRITAS DELIVERY P C/50",
+     "marca": "",
+     "preco": 12.9,
+     "img": "produtos/14664.jpg",
+     "saldo": 15
+    },
+    {
      "cod": 9056,
      "nome": "CAIXA PAPELAO CORREIO (17,5X11,5X7)",
      "marca": "SANTECK",
@@ -23544,7 +23552,7 @@
      "marca": "SANTECK",
      "preco": 21.9,
      "img": "produtos/12124.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 12125,
@@ -23756,7 +23764,7 @@
      "marca": "",
      "preco": 66.9,
      "img": "produtos/4676.jpg",
-     "saldo": 4
+     "saldo": 16
     },
     {
      "cod": 39,
@@ -24074,7 +24082,7 @@
      "marca": "PLASTSUL",
      "preco": 8.9,
      "img": "produtos/3932.jpg",
-     "saldo": 21
+     "saldo": 51
     },
     {
      "cod": 4668,
@@ -24868,7 +24876,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/4944.jpg",
-     "saldo": 217
+     "saldo": 216
     },
     {
      "cod": 4945,
@@ -24892,7 +24900,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 4948,
@@ -25154,7 +25162,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 506
+     "saldo": 505
     },
     {
      "cod": 2838,
@@ -25346,7 +25354,7 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 30X40 C/50-DOURADA",
        "img": "produtos/3958.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 2854,
@@ -25669,7 +25677,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 10294
+     "saldo": 10290
     },
     {
      "cod": 11788,
@@ -27074,9 +27082,9 @@
      "cod": 6859,
      "nome": "FORMINHA DOCE Nº0 C/1000",
      "marca": "",
-     "preco": 44.9,
+     "preco": 46.9,
      "img": "produtos/6859.jpg",
-     "saldo": 1
+     "saldo": 11
     },
     {
      "cod": 7307,
@@ -27696,7 +27704,7 @@
      "marca": "GESELE",
      "preco": 0.8,
      "img": "produtos/1340.jpg",
-     "saldo": 462
+     "saldo": 461
     },
     {
      "cod": 3674,
@@ -27712,7 +27720,7 @@
      "marca": "GERSELE",
      "preco": 0.3,
      "img": "produtos/2772.jpg",
-     "saldo": 616
+     "saldo": 606
     },
     {
      "cod": 2773,
@@ -27974,7 +27982,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 565
+     "saldo": 563
     },
     {
      "cod": 6323,
@@ -28652,7 +28660,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 2
+     "saldo": 27
     },
     {
      "cod": 8295,
@@ -28660,7 +28668,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8295.jpg",
-     "saldo": 1
+     "saldo": 11
     },
     {
      "cod": 1801,
@@ -28708,7 +28716,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 5
+     "saldo": 25
     },
     {
      "cod": 3085,
