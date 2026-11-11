@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1300,
+     "saldo": 1296,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1300
+       "saldo": 1296
       },
       {
        "cod": 553,
@@ -443,7 +443,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 96
+       "saldo": 94
       },
       {
        "cod": 566,
@@ -2980,7 +2980,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.RECAR.MASTERPRINT-PRETO",
        "img": "produtos/6639.jpg",
-       "saldo": 278
+       "saldo": 277
       },
       {
        "cod": 6641,
@@ -3018,7 +3018,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 140
+       "saldo": 139
       },
       {
        "cod": 7532,
@@ -3192,14 +3192,14 @@
      "marca": "PILOT",
      "preco": 19.9,
      "img": "produtos/2350.jpg",
-     "saldo": 118,
+     "saldo": 117,
      "cores": [
       {
        "cod": 2350,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
        "img": "produtos/2350.jpg",
-       "saldo": 118
+       "saldo": 117
       },
       {
        "cod": 2351,
@@ -3365,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 92
+       "saldo": 91
       },
       {
        "cod": 2658,
@@ -3475,7 +3475,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/7037.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 13811,
@@ -7693,7 +7693,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/798.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 10918,
@@ -9722,7 +9722,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 28
+     "saldo": 24
     },
     {
      "cod": 3911,
@@ -9952,7 +9952,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 158
+     "saldo": 98
     },
     {
      "cod": 2283,
@@ -10933,7 +10933,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 545
+     "saldo": 542
     },
     {
      "cod": 2007,
@@ -18693,7 +18693,7 @@
        "cor": "Azul",
        "nome": "POST-IT 76X76 C/100 AZUL",
        "img": "produtos/6623.jpg",
-       "saldo": 76
+       "saldo": 75
       },
       {
        "cod": 6621,
@@ -22462,7 +22462,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11829.jpg",
-     "saldo": 125
+     "saldo": 124
     },
     {
      "cod": 2495,
@@ -22518,7 +22518,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 111
+     "saldo": 109
     },
     {
      "cod": 6315,
@@ -24492,7 +24492,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 2712,
@@ -25883,7 +25883,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 194
+     "saldo": 193
     },
     {
      "cod": 4314,
@@ -26047,7 +26047,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 130
+     "saldo": 128
     },
     {
      "cod": 10990,
@@ -28684,7 +28684,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/10988.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 8296,
