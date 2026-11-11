@@ -4461,7 +4461,7 @@
        "cor": "Cinza",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS CINZA",
        "img": "produtos/14316.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 14314,
@@ -7685,7 +7685,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/788.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 793,
@@ -8356,14 +8356,6 @@
      "saldo": 9
     },
     {
-     "cod": 12640,
-     "nome": "COLA LIQUIDA 1000GR-ACRILEX",
-     "marca": "ACRILEX",
-     "preco": 34.9,
-     "img": "produtos/12640.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 823,
      "nome": "COLA LIQUIDA 1000GR-CASCOREZ",
      "marca": "CASCOREZ",
@@ -8449,7 +8441,7 @@
      "marca": "NEW MAGIC",
      "preco": 12.9,
      "img": "produtos/819.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 14523,
@@ -8473,7 +8465,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 337
+     "saldo": 332
     },
     {
      "cod": 11926,
@@ -8615,7 +8607,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4345
+     "saldo": 4341
     },
     {
      "cod": 14619,
@@ -8801,7 +8793,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 6521,
@@ -8841,7 +8833,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 397
+     "saldo": 396
     },
     {
      "cod": 1313,
@@ -9439,7 +9431,7 @@
      "marca": "CIS",
      "preco": 7.9,
      "img": "produtos/4176.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 13808,
@@ -10949,7 +10941,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 574
+     "saldo": 572
     },
     {
      "cod": 2007,
@@ -12160,7 +12152,7 @@
      "marca": "CHEMICOLOR",
      "preco": 24.9,
      "img": "produtos/3056.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 2954,
@@ -21108,7 +21100,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 240
+     "saldo": 215
     },
     {
      "cod": 944,
@@ -21244,7 +21236,7 @@
      "marca": "COPOZAN",
      "preco": 7.9,
      "img": "produtos/946.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 6922,
@@ -21276,7 +21268,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 205
+     "saldo": 204
     },
     {
      "cod": 958,
@@ -21970,7 +21962,7 @@
      "marca": "ISOMAX",
      "preco": 13.9,
      "img": "produtos/774.jpg",
-     "saldo": 73
+     "saldo": 71
     },
     {
      "cod": 775,
@@ -22162,7 +22154,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 2937,
@@ -22234,7 +22226,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 147
+     "saldo": 146
     },
     {
      "cod": 4129,
@@ -22296,7 +22288,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 276
+     "saldo": 270
     },
     {
      "cod": 11964,
@@ -22328,7 +22320,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 719
+     "saldo": 717
     },
     {
      "cod": 880,
@@ -22558,7 +22550,7 @@
      "marca": "RIOPLASTIC",
      "preco": 19.9,
      "img": "produtos/2510.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 4573,
@@ -22566,7 +22558,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 2516,
@@ -23748,7 +23740,7 @@
      "marca": "",
      "preco": 2.45,
      "img": "produtos/31.jpg",
-     "saldo": 178
+     "saldo": 174
     },
     {
      "cod": 34,
@@ -24644,7 +24636,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 91
+     "saldo": 87
     },
     {
      "cod": 2726,
@@ -24716,7 +24708,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2732.jpg",
-     "saldo": 94
+     "saldo": 89
     },
     {
      "cod": 2731,
@@ -25178,7 +25170,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 490
+     "saldo": 487
     },
     {
      "cod": 2839,
@@ -25669,7 +25661,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 143
+     "saldo": 139
     },
     {
      "cod": 4427,
@@ -25969,7 +25961,7 @@
      "marca": "PRIMUS",
      "preco": 1.9,
      "img": "produtos/222.jpg",
-     "saldo": 561
+     "saldo": 531
     },
     {
      "cod": 5871,
@@ -26071,7 +26063,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10990.jpg",
-     "saldo": 15
+     "saldo": 13
     },
     {
      "cod": 1267,
@@ -27998,7 +27990,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6323.jpg",
-     "saldo": 339
+     "saldo": 329
     },
     {
      "cod": 6851,
