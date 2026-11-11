@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1288,
+     "saldo": 1286,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1288
+       "saldo": 1286
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2174
+       "saldo": 2172
       },
       {
        "cod": 554,
@@ -1986,7 +1986,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1152
+     "saldo": 1151
     },
     {
      "cod": 1670,
@@ -2345,7 +2345,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 2
+     "saldo": 578
     },
     {
      "cod": 5836,
@@ -2354,6 +2354,14 @@
      "preco": 2.0,
      "img": "produtos/5836.jpg",
      "saldo": 77
+    },
+    {
+     "cod": 1683,
+     "nome": "LAPIS ESCREVER FABER SEXTAVADO",
+     "marca": "FABER",
+     "preco": 1.5,
+     "img": "produtos/1683.jpg",
+     "saldo": 672
     },
     {
      "cod": 14124,
@@ -2441,7 +2449,7 @@
      "marca": "MAPED",
      "preco": 1.9,
      "img": "produtos/13305.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 7860,
@@ -2872,7 +2880,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 2
+       "saldo": 26
       },
       {
        "cod": 3604,
@@ -3168,7 +3176,7 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
        "img": "produtos/2347.jpg",
-       "saldo": 21
+       "saldo": 45
       },
       {
        "cod": 2348,
@@ -4073,7 +4081,7 @@
      "marca": "MERCUR",
      "preco": 0.6,
      "img": "produtos/293.jpg",
-     "saldo": 422
+     "saldo": 421
     },
     {
      "cod": 3225,
@@ -4828,7 +4836,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10903.jpg",
-     "saldo": 117
+     "saldo": 115
     },
     {
      "cod": 8255,
@@ -7261,7 +7269,7 @@
      "marca": "SD",
      "preco": 13.9,
      "img": "produtos/13115.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 10884,
@@ -8257,7 +8265,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 87
+     "saldo": 86
     },
     {
      "cod": 836,
@@ -8895,7 +8903,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 1520,
@@ -9590,7 +9598,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 9
+     "saldo": 14
     }
    ]
   },
@@ -9837,6 +9845,14 @@
      "saldo": 1
     },
     {
+     "cod": 1547,
+     "nome": "GRAMPO TRILHO ACC METAL C/50",
+     "marca": "ACC",
+     "preco": 32.9,
+     "img": "produtos/1547.jpg",
+     "saldo": 10
+    },
+    {
      "cod": 4155,
      "nome": "GRAMPO TRILHO JOCAR METAL C/50",
      "marca": "JOCAR",
@@ -9944,7 +9960,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1981.jpg",
-     "saldo": 68
+     "saldo": 73
     },
     {
      "cod": 4320,
@@ -9952,7 +9968,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 98
+     "saldo": 93
     },
     {
      "cod": 2283,
@@ -10260,7 +10276,7 @@
      "marca": "GRIFFE",
      "preco": 2.9,
      "img": "produtos/738.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 5083,
@@ -10290,14 +10306,14 @@
        "cor": "Azul Claro",
        "nome": "CARTAO-AZUL CLARO",
        "img": "produtos/741.jpg",
-       "saldo": 76
+       "saldo": 74
       },
       {
        "cod": 742,
        "cor": "Azul Escuro",
        "nome": "CARTAO-AZUL ESCURO",
        "img": "produtos/742.jpg",
-       "saldo": 14
+       "saldo": 12
       },
       {
        "cod": 3308,
@@ -10311,56 +10327,56 @@
        "cor": "Laranja",
        "nome": "CARTAO-LARANJA",
        "img": "produtos/744.jpg",
-       "saldo": 64
+       "saldo": 61
       },
       {
        "cod": 4180,
        "cor": "Lilas / Violeta",
        "nome": "CARTAO-LILAS/VIOLETA",
        "img": "produtos/4180.jpg",
-       "saldo": 73
+       "saldo": 71
       },
       {
        "cod": 746,
        "cor": "Marrom",
        "nome": "CARTAO-MARROM",
        "img": "produtos/746.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 747,
        "cor": "Preto",
        "nome": "CARTAO-PRETO",
        "img": "produtos/747.jpg",
-       "saldo": 79
+       "saldo": 78
       },
       {
        "cod": 748,
        "cor": "Rosa",
        "nome": "CARTAO-ROSA",
        "img": "produtos/748.jpg",
-       "saldo": 62
+       "saldo": 59
       },
       {
        "cod": 749,
        "cor": "Verde Bandeira",
        "nome": "CARTAO-VERDE BANDEIRA",
        "img": "produtos/749.jpg",
-       "saldo": 106
+       "saldo": 104
       },
       {
        "cod": 5158,
        "cor": "Verde Claro",
        "nome": "CARTAO-VERDE CLARO",
        "img": "produtos/5158.jpg",
-       "saldo": 65
+       "saldo": 63
       },
       {
        "cod": 751,
        "cor": "Vermelho",
        "nome": "CARTAO-VERMELHO",
        "img": "produtos/751.jpg",
-       "saldo": 39
+       "saldo": 36
       }
      ]
     },
@@ -10740,7 +10756,7 @@
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 6
+       "saldo": 5
       }
      ]
     },
@@ -10877,7 +10893,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 551
+     "saldo": 547
     },
     {
      "cod": 8404,
@@ -11299,7 +11315,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/2163.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 7335,
@@ -11648,7 +11664,7 @@
        "cor": "Cinza",
        "nome": "GUACHE 250ML ACRILEX-CINZA",
        "img": "produtos/12686.jpg",
-       "saldo": 92
+       "saldo": 91
       },
       {
        "cod": 3023,
@@ -11676,7 +11692,7 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 3025,
@@ -11729,7 +11745,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3029.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 3033,
@@ -14722,14 +14738,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/13817.jpg",
-     "saldo": 5,
+     "saldo": 3,
      "cores": [
       {
        "cod": 13817,
        "cor": "Azul",
        "nome": "PASTA PP 1CM POLIBRAS-AZUL",
        "img": "produtos/13817.jpg",
-       "saldo": 5
+       "saldo": 3
       },
       {
        "cod": 13818,
@@ -15448,7 +15464,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/1139.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 3390,
@@ -15904,7 +15920,7 @@
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 249
+       "saldo": 247
       },
       {
        "cod": 1231,
@@ -15918,7 +15934,7 @@
        "cor": "Azul Marinho",
        "nome": "EVA LISO-AZUL MARINHO",
        "img": "produtos/6669.jpg",
-       "saldo": 307
+       "saldo": 305
       },
       {
        "cod": 9161,
@@ -15932,14 +15948,14 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 146
+       "saldo": 145
       },
       {
        "cod": 1233,
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 135
+       "saldo": 132
       },
       {
        "cod": 1235,
@@ -15960,7 +15976,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 93
+       "saldo": 91
       },
       {
        "cod": 1238,
@@ -15995,21 +16011,21 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 210
+       "saldo": 208
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 357
+       "saldo": 355
       },
       {
        "cod": 1244,
        "cor": "Vermelho",
        "nome": "EVA LISO-VERMELHO",
        "img": "produtos/1244.jpg",
-       "saldo": 230
+       "saldo": 228
       }
      ]
     },
@@ -18863,7 +18879,7 @@
      "marca": "ETIQ PLAST",
      "preco": 54.9,
      "img": "produtos/1333.jpg",
-     "saldo": 26
+     "saldo": 27
     },
     {
      "cod": 2368,
@@ -18895,7 +18911,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 63
+     "saldo": 61
     },
     {
      "cod": 11833,
@@ -18935,7 +18951,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 333
+     "saldo": 331
     }
    ]
   },
@@ -19155,7 +19171,7 @@
      "marca": "REZENDE",
      "preco": 13.9,
      "img": "produtos/13713.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 14435,
@@ -19411,7 +19427,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/3538.jpg",
-     "saldo": 762
+     "saldo": 761
     },
     {
      "cod": 12731,
@@ -20205,6 +20221,14 @@
      "preco": 4.9,
      "img": "produtos/11943.jpg",
      "saldo": 82
+    },
+    {
+     "cod": 2431,
+     "nome": "PORTA ALVARA OF. 240X315 (VERTICAL)",
+     "marca": "ACP",
+     "preco": 9.9,
+     "img": "produtos/2431.jpg",
+     "saldo": 40
     },
     {
      "cod": 2579,
@@ -21420,7 +21444,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/958.jpg",
-     "saldo": 183
+     "saldo": 179
     },
     {
      "cod": 6814,
@@ -22090,7 +22114,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/770.jpg",
-     "saldo": 252
+     "saldo": 251
     },
     {
      "cod": 772,
@@ -22122,7 +22146,7 @@
      "marca": "ISOMAX",
      "preco": 16.9,
      "img": "produtos/775.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 776,
@@ -22210,7 +22234,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 174
+     "saldo": 173
     },
     {
      "cod": 1569,
@@ -22314,7 +22338,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 582
+     "saldo": 578
     },
     {
      "cod": 4146,
@@ -22330,7 +22354,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 490
+     "saldo": 486
     },
     {
      "cod": 3887,
@@ -25870,7 +25894,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 503
+     "saldo": 502
     }
    ]
   },
@@ -26622,7 +26646,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6102.jpg",
-     "saldo": 50
+     "saldo": 48
     },
     {
      "cod": 6103,
@@ -26630,7 +26654,7 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/6103.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 7057,
@@ -28924,7 +28948,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 82
+     "saldo": 79
     },
     {
      "cod": 13945,
@@ -29766,13 +29790,13 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/14628.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "controle": [
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
-      "ROSA": 24,
+      "ROSA": 23,
       "ROXO": 24
      }
     },
@@ -31340,7 +31364,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 144,
+     "saldo": 142,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31351,9 +31375,9 @@
      ],
      "saldo_cor": {
       "AMARELO": 24,
-      "AZUL": 24,
+      "AZUL": 23,
       "LARANJA": 24,
-      "LILAS": 24,
+      "LILAS": 23,
       "ROSA": 24,
       "VERDE": 24
      }
