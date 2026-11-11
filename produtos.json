@@ -1986,7 +1986,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1142
+     "saldo": 1139
     },
     {
      "cod": 1670,
@@ -4114,7 +4114,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 71,
+     "saldo": 69,
      "controle": [
       "AZUL",
       "ROSA",
@@ -8500,7 +8500,7 @@
      "marca": "ACRILEX",
      "preco": 23.9,
      "img": "produtos/6275.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 12735,
@@ -8812,7 +8812,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 393
+     "saldo": 392
     },
     {
      "cod": 1313,
@@ -9298,7 +9298,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/6972.jpg",
-     "saldo": 189
+     "saldo": 188
     },
     {
      "cod": 14594,
@@ -10872,7 +10872,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 547
+     "saldo": 541
     },
     {
      "cod": 8404,
@@ -15867,7 +15867,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 0
+       "saldo": 1
       }
      ]
     },
@@ -18914,7 +18914,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 137
+     "saldo": 136
     },
     {
      "cod": 14261,
@@ -19000,7 +19000,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 14657,
@@ -22817,7 +22817,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 11690,
@@ -23127,7 +23127,7 @@
      "marca": "ECOPLAST",
      "preco": 68.9,
      "img": "produtos/1362.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 1363,
@@ -23547,7 +23547,7 @@
      "marca": "PLASTIBOX",
      "preco": 5.5,
      "img": "produtos/2131.jpg",
-     "saldo": 728
+     "saldo": 726
     },
     {
      "cod": 7019,
@@ -26015,7 +26015,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 101
+     "saldo": 97
     },
     {
      "cod": 2905,
@@ -26031,7 +26031,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2906.jpg",
-     "saldo": 119
+     "saldo": 118
     },
     {
      "cod": 2895,
@@ -28123,7 +28123,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 515
+     "saldo": 514
     },
     {
      "cod": 6324,
@@ -28131,7 +28131,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 521
+     "saldo": 520
     },
     {
      "cod": 6323,
@@ -29053,7 +29053,7 @@
      "marca": "VABENE",
      "preco": 17.9,
      "img": "produtos/14050.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2000,
