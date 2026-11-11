@@ -3144,7 +3144,7 @@
        "cor": "Verde",
        "nome": "PINCEL Q.BRC RECAR.MASTERPRINT-VERDE",
        "img": "produtos/7732.jpg",
-       "saldo": 61
+       "saldo": 59
       }
      ]
     },
@@ -8599,7 +8599,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4339
+     "saldo": 4336
     },
     {
      "cod": 14619,
@@ -15829,7 +15829,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 22
+       "saldo": 14
       },
       {
        "cod": 1221,
@@ -16075,7 +16075,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3064.jpg",
-     "saldo": 112
+     "saldo": 92
     },
     {
      "cod": 3065,
@@ -17937,7 +17937,7 @@
      "marca": "SCRITY",
      "preco": 0.65,
      "img": "produtos/1053.jpg",
-     "saldo": 899
+     "saldo": 649
     },
     {
      "cod": 1055,
@@ -18033,7 +18033,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1054.jpg",
-     "saldo": 5621
+     "saldo": 5871
     },
     {
      "cod": 1056,
@@ -18607,7 +18607,7 @@
      "marca": "MP/JOC/NFX",
      "preco": 11.9,
      "img": "produtos/6619.jpg",
-     "saldo": 147
+     "saldo": 146
     },
     {
      "cod": 2477,
@@ -18903,7 +18903,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg",
-     "saldo": 57
+     "saldo": 55
     },
     {
      "cod": 11832,
@@ -19024,6 +19024,14 @@
      "saldo": 2
     },
     {
+     "cod": 14663,
+     "nome": "LIVRO INFAN.MEUS PRIMEIROS VALORES",
+     "marca": "TODO LIVRO",
+     "preco": 5.9,
+     "img": "produtos/14663.jpg",
+     "saldo": 64
+    },
+    {
      "cod": 14662,
      "nome": "LIVRO INFANTIL CLASSICOS-PRINCESAS",
      "marca": "TODOLIVRO",
@@ -19128,14 +19136,6 @@
      "saldo": 200
     },
     {
-     "cod": 14663,
-     "nome": "LIVRO INFANTIL-MEUS PRIMEIROS VALORES",
-     "marca": "TODO LIVRO",
-     "preco": 5.9,
-     "img": "produtos/14663.jpg",
-     "saldo": 64
-    },
-    {
      "cod": 5281,
      "nome": "MEU DIARIO MAGICO-FROZEN",
      "marca": "CULTURAMA",
@@ -19209,7 +19209,7 @@
        "cor": "Colorido",
        "nome": "GIZ DELTA C/64 COLORIDO",
        "img": "produtos/6465.jpg",
-       "saldo": 39
+       "saldo": 38
       }
      ]
     },
@@ -19291,7 +19291,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11629.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 11628,
@@ -19551,20 +19551,20 @@
      "saldo": 9
     },
     {
-     "cod": 14653,
-     "nome": "BRINQ. MUSICAL BUMBO-PATRULHA CANINA",
-     "marca": "ELKA",
-     "preco": 92.9,
-     "img": "produtos/14653.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 14651,
      "nome": "BRINQUEDO CORDA DE PULAR  NYLON C/2MT",
      "marca": "CARLU",
      "preco": 16.9,
      "img": "produtos/14651.jpg",
      "saldo": 16
+    },
+    {
+     "cod": 14653,
+     "nome": "BRINQUEDO MUSICAL BUMBO-PATRULHA CANINA",
+     "marca": "ELKA",
+     "preco": 92.9,
+     "img": "produtos/14653.jpg",
+     "saldo": 1
     },
     {
      "cod": 14652,
@@ -21006,7 +21006,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14573.jpg",
-     "saldo": 36,
+     "saldo": 33,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -21014,10 +21014,10 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AMARELO": 9,
-      "AZUL": 9,
+      "AMARELO": 8,
+      "AZUL": 8,
       "ROSA": 9,
-      "VERMELHO": 9
+      "VERMELHO": 8
      }
     },
     {
@@ -21688,7 +21688,7 @@
      "cod": 177,
      "nome": "BANDEJA ISOPOR B3 FUNDA C/100",
      "marca": "",
-     "preco": 25.9,
+     "preco": 29.9,
      "img": "produtos/177.jpg",
      "saldo": 99
     },
@@ -21696,7 +21696,7 @@
      "cod": 3772,
      "nome": "BANDEJA ISOPOR B3 RASA C/100",
      "marca": "",
-     "preco": 29.9,
+     "preco": 25.9,
      "img": "produtos/3772.jpg",
      "saldo": 151
     },
@@ -22440,7 +22440,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 270
+     "saldo": 269
     },
     {
      "cod": 11964,
@@ -22996,7 +22996,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 734
+     "saldo": 730
     },
     {
      "cod": 1415,
@@ -24258,7 +24258,7 @@
      "marca": "INOVEN",
      "preco": 6.9,
      "img": "produtos/11675.jpg",
-     "saldo": 33
+     "saldo": 30
     },
     {
      "cod": 11676,
@@ -24346,7 +24346,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 67
+     "saldo": 66
     }
    ]
   },
@@ -24580,7 +24580,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 108
+     "saldo": 106
     },
     {
      "cod": 665,
@@ -25608,7 +25608,7 @@
      "marca": "",
      "preco": 42.9,
      "img": "produtos/3964.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 2877,
@@ -25662,7 +25662,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 244,
@@ -26178,7 +26178,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1757
+     "saldo": 1750
     },
     {
      "cod": 236,
@@ -28136,7 +28136,7 @@
      "marca": "READY",
      "preco": 2.0,
      "img": "produtos/6851.jpg",
-     "saldo": 149
+     "saldo": 144
     },
     {
      "cod": 3939,
@@ -28506,7 +28506,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/193.jpg",
-     "saldo": 18
+     "saldo": 13
     },
     {
      "cod": 194,
