@@ -651,7 +651,7 @@
      "marca": "C. DE BALC",
      "preco": 29.9,
      "img": "produtos/582.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 581,
@@ -2377,7 +2377,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 182
+     "saldo": 180
     },
     {
      "cod": 6355,
@@ -8777,7 +8777,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 1020,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1461
+     "saldo": 1460
     },
     {
      "cod": 4389,
@@ -9295,7 +9295,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 476
+     "saldo": 474
     },
     {
      "cod": 10030,
@@ -10933,7 +10933,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 526
+     "saldo": 522
     },
     {
      "cod": 2007,
@@ -20164,7 +20164,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/975.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 986,
@@ -21682,7 +21682,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 382
+     "saldo": 381
     },
     {
      "cod": 177,
@@ -22210,7 +22210,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 175
+     "saldo": 174
     },
     {
      "cod": 1569,
@@ -22218,7 +22218,7 @@
      "marca": "COPOPLAST",
      "preco": 31.9,
      "img": "produtos/1569.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 5937,
@@ -23680,7 +23680,7 @@
      "marca": "SANTECK",
      "preco": 12.9,
      "img": "produtos/9058.jpg",
-     "saldo": 43
+     "saldo": 37
     },
     {
      "cod": 12122,
@@ -24844,7 +24844,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 79
+     "saldo": 78
     },
     {
      "cod": 8160,
@@ -25616,7 +25616,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 8
+     "saldo": 5
     }
    ]
   },
@@ -26028,7 +26028,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2403
+     "saldo": 2383
     },
     {
      "cod": 2896,
@@ -26068,7 +26068,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 84
+     "saldo": 82
     },
     {
      "cod": 2901,
@@ -26084,7 +26084,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 192
+     "saldo": 190
     },
     {
      "cod": 2902,
@@ -26430,7 +26430,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 430
+     "saldo": 429
     },
     {
      "cod": 2762,
@@ -26438,7 +26438,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 429
+     "saldo": 424
     },
     {
      "cod": 4937,
@@ -26598,7 +26598,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10104.jpg",
-     "saldo": 138
+     "saldo": 137
     },
     {
      "cod": 2804,
