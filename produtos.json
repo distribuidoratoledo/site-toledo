@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 812,
+     "saldo": 811,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 812
+       "saldo": 811
       },
       {
        "cod": 556,
@@ -762,7 +762,7 @@
      "marca": "CIS",
      "preco": 8.9,
      "img": "produtos/10039.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 14239,
@@ -786,7 +786,7 @@
      "marca": "MOLIN",
      "preco": 9.5,
      "img": "produtos/574.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 14597,
@@ -2981,7 +2981,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.RECAR.MASTERPRINT-PRETO",
        "img": "produtos/6639.jpg",
-       "saldo": 276
+       "saldo": 275
       },
       {
        "cod": 6641,
@@ -8895,7 +8895,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 1519,
@@ -10398,7 +10398,7 @@
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 84
+       "saldo": 83
       },
       {
        "cod": 2036,
@@ -10460,7 +10460,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 95
+     "saldo": 96
     },
     {
      "cod": 2051,
@@ -10909,7 +10909,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 10
+     "saldo": 11
     },
     {
      "cod": 2015,
@@ -11171,7 +11171,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2140.jpg",
-     "saldo": 242
+     "saldo": 240
     },
     {
      "cod": 2141,
@@ -11219,7 +11219,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2146.jpg",
-     "saldo": 478
+     "saldo": 477
     },
     {
      "cod": 2147,
@@ -11227,7 +11227,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2147.jpg",
-     "saldo": 633
+     "saldo": 632
     },
     {
      "cod": 2148,
@@ -11784,7 +11784,7 @@
      "marca": "ACRILEX",
      "preco": 26.9,
      "img": "produtos/3482.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 12310,
@@ -11872,7 +11872,7 @@
      "marca": "",
      "preco": 6.5,
      "img": "produtos/10994.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 10995,
@@ -15496,7 +15496,7 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13124.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 6633,
@@ -15708,7 +15708,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
-     "saldo": 239,
+     "saldo": 237,
      "controle": [
       "AZUL",
       "ROSA",
@@ -17969,7 +17969,7 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1070.jpg",
-     "saldo": 5468
+     "saldo": 5467
     },
     {
      "cod": 1038,
@@ -18741,7 +18741,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14547.jpg",
-     "saldo": 37,
+     "saldo": 36,
      "controle": [
       "AZUL",
       "LILAS",
@@ -18751,7 +18751,7 @@
      "saldo_cor": {
       "AZUL": 10,
       "LILAS": 10,
-      "ROSA": 8,
+      "ROSA": 7,
       "ROXO": 9
      }
     },
@@ -20608,7 +20608,7 @@
      "marca": "VMP",
      "preco": 3.9,
      "img": "produtos/7.jpg",
-     "saldo": 292
+     "saldo": 291
     },
     {
      "cod": 13698,
@@ -21206,7 +21206,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 32
+     "saldo": 31
     }
    ]
   },
@@ -21236,7 +21236,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 99
+     "saldo": 96
     },
     {
      "cod": 944,
@@ -21268,7 +21268,7 @@
      "marca": "COPOBRAS",
      "preco": 11.9,
      "img": "produtos/947.jpg",
-     "saldo": 169
+     "saldo": 49
     },
     {
      "cod": 14413,
@@ -22066,7 +22066,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 168
+     "saldo": 167
     },
     {
      "cod": 770,
@@ -23148,7 +23148,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 7045,
@@ -23354,7 +23354,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1090
+     "saldo": 1088
     },
     {
      "cod": 3857,
@@ -25954,7 +25954,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 484
+     "saldo": 483
     }
    ]
   },
@@ -26498,7 +26498,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 886
+     "saldo": 885
     },
     {
      "cod": 2761,
@@ -28220,7 +28220,7 @@
      "marca": "PRIMUS",
      "preco": 59.9,
      "img": "produtos/1207.jpg",
-     "saldo": 16
+     "saldo": 15
     }
    ]
   },
@@ -28598,7 +28598,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 369
+     "saldo": 367
     },
     {
      "cod": 2608,
@@ -28914,7 +28914,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 325
+     "saldo": 324
     },
     {
      "cod": 7275,
