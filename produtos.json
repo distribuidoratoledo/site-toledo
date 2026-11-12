@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 134
+       "saldo": 133
       },
       {
        "cod": 563,
@@ -451,7 +451,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 89
+       "saldo": 88
       },
       {
        "cod": 566,
@@ -786,7 +786,7 @@
      "marca": "MOLIN",
      "preco": 9.5,
      "img": "produtos/574.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 14597,
@@ -2786,7 +2786,7 @@
      "marca": "LEO E LEO",
      "preco": 6.9,
      "img": "produtos/7530.jpg",
-     "saldo": 136
+     "saldo": 134
     },
     {
      "cod": 7528,
@@ -2802,7 +2802,7 @@
      "marca": "LEO E LEO",
      "preco": 4.9,
      "img": "produtos/7529.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 7526,
@@ -3365,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 80
+       "saldo": 79
       },
       {
        "cod": 2658,
@@ -5578,6 +5578,14 @@
      "saldo": 3
     },
     {
+     "cod": 5844,
+     "nome": "CADERNO 1X1 80F-MAGIC CONNECT",
+     "marca": "TILIBRA",
+     "preco": 27.9,
+     "img": "produtos/5844.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 5881,
      "nome": "CADERNO 1X1 80F-MARVEL",
      "marca": "S.DOMINGOS",
@@ -7760,6 +7768,14 @@
      "saldo": 30
     },
     {
+     "cod": 14697,
+     "nome": "CLIPS 6/0 (50 UN)-BACCHI",
+     "marca": "BACCHI",
+     "preco": 4.5,
+     "img": "produtos/14697.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 12346,
      "nome": "IMA LOVE MINI PORTA RETRATO C/4-MOLIN",
      "marca": "MOLIN",
@@ -8041,7 +8057,7 @@
      "marca": "LEO E LEO",
      "preco": 1.3,
      "img": "produtos/808.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 807,
@@ -10877,7 +10893,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 138
+     "saldo": 137
     },
     {
      "cod": 5082,
@@ -11123,7 +11139,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/2135.jpg",
-     "saldo": 406
+     "saldo": 405
     },
     {
      "cod": 7098,
@@ -11131,7 +11147,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/7098.jpg",
-     "saldo": 422
+     "saldo": 421
     },
     {
      "cod": 2137,
@@ -15357,7 +15373,7 @@
      "marca": "VABENE",
      "preco": 32.9,
      "img": "produtos/2743.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 2744,
@@ -15389,7 +15405,7 @@
      "marca": "CROMUS",
      "preco": 11.9,
      "img": "produtos/2745.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 4872,
@@ -22598,7 +22614,7 @@
      "marca": "TOTALPLAST",
      "preco": 9.9,
      "img": "produtos/11825.jpg",
-     "saldo": 1
+     "saldo": 2
     },
     {
      "cod": 14028,
@@ -24499,6 +24515,38 @@
      "saldo": 1
     },
     {
+     "cod": 14693,
+     "nome": "GARRAFINHA ESCOLAR 500ML-SQUEEZE KELLO KITTY",
+     "marca": "SANRIO",
+     "preco": 14.9,
+     "img": "produtos/14693.jpg",
+     "saldo": 6
+    },
+    {
+     "cod": 14695,
+     "nome": "GARRAFINHA ESCOLAR 500ML-SQUEEZE PATRULHA CANINA",
+     "marca": "BANDEIRANT",
+     "preco": 14.9,
+     "img": "produtos/14695.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14695,
+       "cor": "Azul",
+       "nome": "GARRAFINHA ESCOLAR 500ML-SQUEEZE PATRULHA CANINA-AZUL",
+       "img": "produtos/14695.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14694,
+       "cor": "Rosa",
+       "nome": "GARRAFINHA ESCOLAR 500ML-SQUEEZE PATRULHA CANINA-ROSA",
+       "img": "produtos/14694.jpg",
+       "saldo": 4
+      }
+     ]
+    },
+    {
      "cod": 13316,
      "nome": "GARRAFINHA ESCOLAR 500ML-STITCH AZUL",
      "marca": "LUXCEL",
@@ -24563,6 +24611,14 @@
      "preco": 9.9,
      "img": "produtos/10798.jpg",
      "saldo": 9
+    },
+    {
+     "cod": 14696,
+     "nome": "GARRAFINHA ESCOLAR 750ML-SQUEEZE AZUL",
+     "marca": "BANDEIRANT",
+     "preco": 13.9,
+     "img": "produtos/14696.jpg",
+     "saldo": 12
     },
     {
      "cod": 13321,
@@ -24808,7 +24864,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 85
+     "saldo": 87
     },
     {
      "cod": 2726,
@@ -25318,7 +25374,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 477
+     "saldo": 476
     },
     {
      "cod": 2826,
@@ -26800,14 +26856,6 @@
      "marca": "SAO ROQUE",
      "preco": 10.9,
      "img": "produtos/5143.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 14249,
-     "nome": "BALAO LISO SORTIDO C/30 Nº6,5",
-     "marca": "ART LAT",
-     "preco": 6.9,
-     "img": "produtos/14249.jpg",
      "saldo": 1
     },
     {
