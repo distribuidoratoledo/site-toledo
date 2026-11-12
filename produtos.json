@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2164
+       "saldo": 2114
       },
       {
        "cod": 554,
@@ -7624,7 +7624,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/781.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 783,
@@ -8796,7 +8796,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1438
+     "saldo": 1432
     },
     {
      "cod": 4389,
@@ -9449,7 +9449,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 355
+     "saldo": 354
     },
     {
      "cod": 12303,
@@ -9717,7 +9717,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 3479,
@@ -16261,14 +16261,6 @@
      "saldo": 17
     },
     {
-     "cod": 11272,
-     "nome": "MOCHILA COSTAS PAULISTA 2209 CORES",
-     "marca": "LXY",
-     "preco": 129.9,
-     "img": "produtos/11272.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 10952,
      "nome": "MOCHILA COSTAS PAULISTA 8100 CORES",
      "marca": "PHOENIX",
@@ -17328,7 +17320,7 @@
        "cor": "Preto",
        "nome": "ESTOJO MT 1F TRANSPARENTE-PRETO",
        "img": "produtos/10881.jpg",
-       "saldo": 4
+       "saldo": 5
       },
       {
        "cod": 10880,
@@ -19301,7 +19293,7 @@
       "ROSA": 4,
       "ROXO": 4,
       "VERDE": 4,
-      "VERMELHO": 4
+      "VERMELHO": 3
      }
     },
     {
@@ -21239,7 +21231,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2963
+     "saldo": 2961
     },
     {
      "cod": 14414,
@@ -21303,7 +21295,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/954.jpg",
-     "saldo": 459
+     "saldo": 449
     },
     {
      "cod": 14405,
@@ -21637,7 +21629,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 309
+     "saldo": 709
     },
     {
      "cod": 4617,
@@ -22173,7 +22165,7 @@
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg",
-     "saldo": 21
+     "saldo": 41
     },
     {
      "cod": 3947,
@@ -22181,7 +22173,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 81
+     "saldo": 280
     },
     {
      "cod": 3731,
@@ -22189,7 +22181,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 171
+     "saldo": 281
     },
     {
      "cod": 1569,
@@ -22205,7 +22197,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/5937.jpg",
-     "saldo": 5
+     "saldo": 25
     },
     {
      "cod": 2460,
@@ -22293,7 +22285,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 564
+     "saldo": 563
     },
     {
      "cod": 4146,
@@ -22301,7 +22293,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 34
+     "saldo": 54
     },
     {
      "cod": 2491,
@@ -22333,7 +22325,7 @@
      "marca": "COPOPLAST",
      "preco": 29.9,
      "img": "produtos/7352.jpg",
-     "saldo": 1
+     "saldo": 21
     },
     {
      "cod": 14323,
@@ -23477,7 +23469,7 @@
      "marca": "PITPRATOS",
      "preco": 1.1,
      "img": "produtos/13700.jpg",
-     "saldo": 58
+     "saldo": 31
     },
     {
      "cod": 13701,
@@ -24551,7 +24543,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 665,
@@ -24631,7 +24623,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2712.jpg",
-     "saldo": 208
+     "saldo": 206
     },
     {
      "cod": 2711,
@@ -24751,7 +24743,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2724.jpg",
-     "saldo": 60
+     "saldo": 58
     },
     {
      "cod": 2725,
@@ -24911,7 +24903,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 152
+     "saldo": 149
     },
     {
      "cod": 2766,
@@ -25269,7 +25261,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 478
+     "saldo": 477
     },
     {
      "cod": 2826,
@@ -28753,7 +28745,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 10304,
@@ -28833,7 +28825,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 327
+     "saldo": 326
     },
     {
      "cod": 7275,
