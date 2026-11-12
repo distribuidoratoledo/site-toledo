@@ -1222,14 +1222,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/608.jpg",
-     "saldo": 12,
+     "saldo": 11,
      "cores": [
       {
        "cod": 608,
        "cor": "Azul",
        "nome": "CANETA PILOT GRIP 1.0-AZUL",
        "img": "produtos/608.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 609,
@@ -3192,14 +3192,14 @@
      "marca": "PILOT",
      "preco": 19.9,
      "img": "produtos/2350.jpg",
-     "saldo": 117,
+     "saldo": 116,
      "cores": [
       {
        "cod": 2350,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBMA-VBM-M)",
        "img": "produtos/2350.jpg",
-       "saldo": 117
+       "saldo": 116
       },
       {
        "cod": 2351,
@@ -3213,7 +3213,7 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
        "img": "produtos/2352.jpg",
-       "saldo": 105
+       "saldo": 104
       },
       {
        "cod": 2353,
@@ -3288,7 +3288,7 @@
        "cor": "Vermelho",
        "nome": "REFIL PINCEL Q.BRC PILOT-VERMELHO",
        "img": "produtos/2628.jpg",
-       "saldo": 42
+       "saldo": 39
       },
       {
        "cod": 2629,
@@ -3351,21 +3351,21 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 144,
+     "saldo": 141,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 144
+       "saldo": 141
       },
       {
        "cod": 2657,
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 79
+       "saldo": 76
       },
       {
        "cod": 2658,
@@ -4604,7 +4604,7 @@
      "marca": "PANAMERICA",
      "preco": 4.5,
      "img": "produtos/319.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 13535,
@@ -5795,7 +5795,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8395.jpg",
-     "saldo": 18
+     "saldo": 15
     },
     {
      "cod": 12963,
@@ -7407,7 +7407,7 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/13719.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 438,
@@ -8707,7 +8707,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 571
+     "saldo": 570
     },
     {
      "cod": 1293,
@@ -10460,7 +10460,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 97
+     "saldo": 95
     },
     {
      "cod": 2051,
@@ -10639,7 +10639,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 135
+       "saldo": 129
       }
      ]
     },
@@ -10852,7 +10852,7 @@
        "cor": "Verde",
        "nome": "LAMINADO-VERDE",
        "img": "produtos/2118.jpg",
-       "saldo": 85
+       "saldo": 80
       },
       {
        "cod": 2119,
@@ -10909,7 +10909,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 2015,
@@ -10962,7 +10962,7 @@
        "cor": "Rosa",
        "nome": "PAPEL A4 COLOR. C/100-ROSA",
        "img": "produtos/6314.jpg",
-       "saldo": 62
+       "saldo": 60
       },
       {
        "cod": 6313,
@@ -14552,7 +14552,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14451.jpg",
-     "saldo": 198
+     "saldo": 195
     },
     {
      "cod": 12476,
@@ -15717,9 +15717,9 @@
      ],
      "saldo_cor": {
       "AZUL": 80,
-      "ROSA": 80,
+      "ROSA": 79,
       "ROXO": 39,
-      "VERDE": 40
+      "VERDE": 39
      }
     },
     {
@@ -18903,7 +18903,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 133
+     "saldo": 132
     },
     {
      "cod": 14261,
@@ -21436,7 +21436,7 @@
      "marca": "TOTALPLAST",
      "preco": 3.9,
      "img": "produtos/7011.jpg",
-     "saldo": 5
+     "saldo": 2
     },
     {
      "cod": 9745,
@@ -23370,7 +23370,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 214
+     "saldo": 205
     },
     {
      "cod": 3898,
@@ -24282,7 +24282,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 223
+     "saldo": 221
     },
     {
      "cod": 7305,
@@ -24473,19 +24473,19 @@
      "saldo": 2
     },
     {
+     "cod": 14675,
+     "nome": "GARRAFINHA ESCOLAR 250ML-ESPORTES",
+     "marca": "TIBA",
+     "preco": 6.9,
+     "img": "produtos/14675.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 14674,
      "nome": "GARRAFINHA ESCOLAR 250ML-PRINCESAS",
      "marca": "TIBA",
      "preco": 6.9,
      "img": "produtos/14674.jpg",
-     "saldo": 24
-    },
-    {
-     "cod": 14675,
-     "nome": "GARRAFINHA ESCOLAR 250ML-PRINCESAS",
-     "marca": "TIBA",
-     "preco": 6.9,
-     "img": "produtos/14675.jpg",
      "saldo": 24
     },
     {
@@ -24912,7 +24912,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2730.jpg",
-     "saldo": 7
+     "saldo": 5
     },
     {
      "cod": 2728,
@@ -27354,14 +27354,14 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
-     "saldo": 85,
+     "saldo": 83,
      "cores": [
       {
        "cod": 11919,
        "cor": "Rosa",
        "nome": "LAÇO PRONTO (GG)-ROSA",
        "img": "produtos/11919.jpg",
-       "saldo": 85
+       "saldo": 83
       },
       {
        "cod": 11918,
@@ -29032,7 +29032,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 236
+     "saldo": 235
     },
     {
      "cod": 2153,
@@ -29110,7 +29110,7 @@
      "marca": "ENCOPA",
      "preco": 4.9,
      "img": "produtos/2000.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 9829,
@@ -31219,14 +31219,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 354,
+     "saldo": 350,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 354
+       "saldo": 350
       },
       {
        "cod": 6051,
@@ -31240,7 +31240,7 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 122
+       "saldo": 118
       },
       {
        "cod": 6053,
