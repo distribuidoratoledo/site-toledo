@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 254
+       "saldo": 251
       }
      ]
     },
@@ -521,7 +521,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/14374.jpg",
-     "saldo": 212
+     "saldo": 211
     },
     {
      "cod": 5084,
@@ -1978,7 +1978,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1134
+     "saldo": 1130
     },
     {
      "cod": 1670,
@@ -2337,7 +2337,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 553
+     "saldo": 552
     },
     {
      "cod": 5836,
@@ -2872,7 +2872,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 26
+       "saldo": 23
       },
       {
        "cod": 3604,
@@ -2973,7 +2973,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.RECAR.MASTERPRINT-PRETO",
        "img": "produtos/6639.jpg",
-       "saldo": 277
+       "saldo": 276
       },
       {
        "cod": 6641,
@@ -7870,7 +7870,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 37
+     "saldo": 34
     },
     {
      "cod": 14110,
@@ -8220,7 +8220,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 86
+     "saldo": 87
     },
     {
      "cod": 836,
@@ -8804,7 +8804,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 715
+     "saldo": 714
     },
     {
      "cod": 1317,
@@ -8812,7 +8812,7 @@
      "marca": "PLASTCOR",
      "preco": 18.9,
      "img": "produtos/1317.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 9512,
@@ -9258,7 +9258,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 470
+     "saldo": 468
     },
     {
      "cod": 10030,
@@ -9537,7 +9537,7 @@
      "marca": "JOCAR",
      "preco": 3.9,
      "img": "produtos/7549.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 4212,
@@ -9797,7 +9797,7 @@
      "marca": "ACC",
      "preco": 32.9,
      "img": "produtos/1547.jpg",
-     "saldo": 10
+     "saldo": 6
     },
     {
      "cod": 4155,
@@ -10848,7 +10848,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 141
+     "saldo": 139
     },
     {
      "cod": 5082,
@@ -10974,7 +10974,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 214
+     "saldo": 213
     },
     {
      "cod": 2100,
@@ -16046,7 +16046,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 339
+     "saldo": 334
     },
     {
      "cod": 6999,
@@ -18404,7 +18404,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 182
+     "saldo": 152
     }
    ]
   },
@@ -19463,7 +19463,7 @@
        "cor": "Violeta",
        "nome": "MASSA POTE ACRILEX 500GR-VIOLETA",
        "img": "produtos/11399.jpg",
-       "saldo": 3
+       "saldo": 2
       }
      ]
     },
@@ -22301,7 +22301,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 2489,
@@ -22769,7 +22769,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 2524,
@@ -23309,7 +23309,7 @@
      "marca": "ULTRA",
      "preco": 19.9,
      "img": "produtos/11813.jpg",
-     "saldo": 36
+     "saldo": 32
     },
     {
      "cod": 10303,
@@ -23715,7 +23715,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/10002.jpg",
-     "saldo": 64
+     "saldo": 63
     },
     {
      "cod": 4322,
@@ -24999,7 +24999,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 194
+     "saldo": 193
     },
     {
      "cod": 4948,
@@ -25007,7 +25007,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 2806,
@@ -25285,7 +25285,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 449
+     "saldo": 447
     },
     {
      "cod": 2839,
@@ -25705,7 +25705,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 101
+     "saldo": 99
     },
     {
      "cod": 13855,
@@ -25729,7 +25729,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 167
+     "saldo": 164
     },
     {
      "cod": 6965,
@@ -25761,7 +25761,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 135
+     "saldo": 131
     },
     {
      "cod": 4427,
@@ -27279,7 +27279,7 @@
        "cor": "Prata",
        "nome": "LAÇO PRONTO (M)-PRATA",
        "img": "produtos/11931.jpg",
-       "saldo": 234
+       "saldo": 224
       },
       {
        "cod": 11932,
@@ -27829,7 +27829,7 @@
      "marca": "GERSELE",
      "preco": 0.7,
      "img": "produtos/2774.jpg",
-     "saldo": 292
+     "saldo": 282
     },
     {
      "cod": 2776,
@@ -28003,7 +28003,7 @@
      "marca": "PRIMUS",
      "preco": 39.9,
      "img": "produtos/1157.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 1160,
@@ -28911,7 +28911,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 259
+     "saldo": 258
     },
     {
      "cod": 2152,
