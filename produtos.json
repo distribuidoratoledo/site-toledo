@@ -2337,7 +2337,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 552
+     "saldo": 550
     },
     {
      "cod": 5836,
@@ -3086,14 +3086,6 @@
      ]
     },
     {
-     "cod": 14368,
-     "nome": "PINCEL Q.BRC RECAR. COMPA -VERDE",
-     "marca": "COMPACTOR",
-     "preco": 10.9,
-     "img": "produtos/14368.jpg",
-     "saldo": 71
-    },
-    {
      "cod": 14366,
      "nome": "PINCEL Q.BRC RECAR. COMPACTOR",
      "marca": "COMPACTOR",
@@ -3114,6 +3106,13 @@
        "nome": "PINCEL Q.BRC RECAR. COMPACTOR-PRETO",
        "img": "produtos/14369.jpg",
        "saldo": 430
+      },
+      {
+       "cod": 14368,
+       "cor": "Verde",
+       "nome": "PINCEL Q.BRC RECAR. COMPACTOR-VERDE",
+       "img": "produtos/14368.jpg",
+       "saldo": 71
       }
      ]
     },
@@ -4106,7 +4105,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 69,
+     "saldo": 67,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4116,8 +4115,8 @@
      "saldo_cor": {
       "AZUL": 16,
       "ROSA": 17,
-      "ROXO": 18,
-      "VERDE-ÁGUA": 18
+      "ROXO": 17,
+      "VERDE-ÁGUA": 17
      }
     },
     {
@@ -7720,7 +7719,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 797,
@@ -7870,7 +7869,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 14110,
@@ -8858,7 +8857,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 1520,
@@ -9669,7 +9668,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1536.jpg",
-     "saldo": 239
+     "saldo": 238
     },
     {
      "cod": 1537,
@@ -10934,7 +10933,7 @@
      "marca": "CHAMEX",
      "preco": 11.9,
      "img": "produtos/2012.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 2017,
@@ -13673,14 +13672,14 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/2471.jpg",
-     "saldo": 13,
+     "saldo": 12,
      "cores": [
       {
        "cod": 2471,
        "cor": "Cristal",
        "nome": "PORTA OBJETO 3 LUG-CRISTAL",
        "img": "produtos/2471.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 7504,
@@ -14183,7 +14182,7 @@
      "marca": "ACP",
      "preco": 25.9,
      "img": "produtos/6195.jpg",
-     "saldo": 349
+     "saldo": 348
     },
     {
      "cod": 14202,
@@ -18404,7 +18403,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 152
+     "saldo": 132
     }
    ]
   },
@@ -18562,7 +18561,7 @@
      "marca": "MP/JOC/NFX",
      "preco": 11.9,
      "img": "produtos/6619.jpg",
-     "saldo": 141
+     "saldo": 140
     },
     {
      "cod": 2477,
@@ -18648,7 +18647,7 @@
        "cor": "Azul",
        "nome": "POST-IT 76X76 C/100 AZUL",
        "img": "produtos/6623.jpg",
-       "saldo": 75
+       "saldo": 74
       },
       {
        "cod": 6621,
@@ -21207,7 +21206,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 127
+     "saldo": 102
     },
     {
      "cod": 944,
@@ -21223,7 +21222,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2927
+     "saldo": 2827
     },
     {
      "cod": 14414,
@@ -22005,7 +22004,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 48
+     "saldo": 49
     },
     {
      "cod": 7364,
@@ -25761,7 +25760,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 131
+     "saldo": 127
     },
     {
      "cod": 4427,
@@ -25991,7 +25990,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 190
+     "saldo": 185
     },
     {
      "cod": 4314,
@@ -26007,7 +26006,7 @@
      "marca": "GERAPLAST",
      "preco": 21.9,
      "img": "produtos/2897.jpg",
-     "saldo": 111
+     "saldo": 109
     },
     {
      "cod": 2898,
@@ -26047,7 +26046,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 83
+     "saldo": 78
     }
    ]
   },
@@ -28027,7 +28026,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 29
+     "saldo": 30
     },
     {
      "cod": 1198,
@@ -28761,7 +28760,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 10988,
@@ -28863,7 +28862,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 76
+     "saldo": 73
     },
     {
      "cod": 9017,
@@ -28935,7 +28934,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 397
+     "saldo": 382
     },
     {
      "cod": 2157,
@@ -30110,7 +30109,7 @@
        "cor": "Verde",
        "nome": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "img": "produtos/7591.jpg",
-       "saldo": 36
+       "saldo": 35
       }
      ]
     },
@@ -31106,21 +31105,21 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 355,
+     "saldo": 354,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 355
+       "saldo": 354
       },
       {
        "cod": 6051,
        "cor": "Azul",
        "nome": "MARCA TEXTO MASTERPRINT-AZUL",
        "img": "produtos/6051.jpg",
-       "saldo": 94
+       "saldo": 93
       },
       {
        "cod": 6052,
