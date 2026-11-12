@@ -7878,7 +7878,7 @@
      "marca": "LETRON",
      "preco": 18.9,
      "img": "produtos/14110.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 3283,
@@ -8060,7 +8060,7 @@
      "marca": "LEO E LEO",
      "preco": 3.5,
      "img": "produtos/812.jpg",
-     "saldo": 140
+     "saldo": 139
     },
     {
      "cod": 9047,
@@ -10354,7 +10354,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 251
+       "saldo": 250
       },
       {
        "cod": 2035,
@@ -10473,7 +10473,7 @@
        "cor": "Preto",
        "nome": "COLORSETE A4 C/50 PRETO",
        "img": "produtos/2058.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 2059,
@@ -10801,7 +10801,7 @@
        "cor": "Prata",
        "nome": "LAMINADO-PRATA",
        "img": "produtos/2116.jpg",
-       "saldo": 110
+       "saldo": 105
       },
       {
        "cod": 2117,
@@ -10990,7 +10990,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 224
+     "saldo": 223
     },
     {
      "cod": 4344,
@@ -13410,7 +13410,7 @@
      "marca": "ACP",
      "preco": 9.9,
      "img": "produtos/1818.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 4101,
@@ -14685,7 +14685,7 @@
      "marca": "PLASCONY",
      "preco": 4.9,
      "img": "produtos/6065.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 13817,
@@ -15751,7 +15751,7 @@
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 50
+       "saldo": 49
       },
       {
        "cod": 4829,
@@ -15779,7 +15779,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 102
+       "saldo": 101
       },
       {
        "cod": 4830,
@@ -15807,7 +15807,7 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 185
+       "saldo": 182
       },
       {
        "cod": 1222,
@@ -15821,7 +15821,7 @@
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 118
+       "saldo": 117
       },
       {
        "cod": 5366,
@@ -15845,7 +15845,7 @@
      "marca": "MAKE+",
      "preco": 3.9,
      "img": "produtos/5367.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 1225,
@@ -17980,7 +17980,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 14889
+     "saldo": 14789
     },
     {
      "cod": 1051,
@@ -18020,7 +18020,7 @@
      "marca": "SCRITY",
      "preco": 1.3,
      "img": "produtos/1060.jpg",
-     "saldo": 223
+     "saldo": 203
     },
     {
      "cod": 1062,
@@ -18170,7 +18170,7 @@
      "marca": "",
      "preco": 44.9,
      "img": "produtos/4925.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 1123,
@@ -22173,7 +22173,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 280
+     "saldo": 279
     },
     {
      "cod": 3731,
@@ -22285,7 +22285,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 563
+     "saldo": 561
     },
     {
      "cod": 4146,
@@ -22301,7 +22301,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 474
+     "saldo": 472
     },
     {
      "cod": 3887,
@@ -22539,7 +22539,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/9914.jpg",
-     "saldo": 71
+     "saldo": 68
     },
     {
      "cod": 14191,
@@ -24559,7 +24559,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 818
+     "saldo": 808
     },
     {
      "cod": 2705,
@@ -24775,7 +24775,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 190
+     "saldo": 188
     },
     {
      "cod": 10062,
@@ -24927,7 +24927,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/2768.jpg",
-     "saldo": 350
+     "saldo": 348
     },
     {
      "cod": 2769,
@@ -25991,7 +25991,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2906.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 2895,
@@ -26031,7 +26031,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 979
+     "saldo": 978
     },
     {
      "cod": 2900,
@@ -26063,7 +26063,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 84
+     "saldo": 83
     }
    ]
   },
@@ -28761,7 +28761,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 8295,
@@ -28943,7 +28943,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 237
+     "saldo": 236
     },
     {
      "cod": 2153,
