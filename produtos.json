@@ -2018,7 +2018,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10636.jpg",
-     "saldo": 15
+     "saldo": 12
     },
     {
      "cod": 10477,
@@ -14816,7 +14816,7 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14208.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 10013,
@@ -25906,7 +25906,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 9778
+     "saldo": 9774
     },
     {
      "cod": 11788,
@@ -26088,7 +26088,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 97
+     "saldo": 100
     },
     {
      "cod": 2905,
@@ -27950,7 +27950,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 533
+     "saldo": 532
     },
     {
      "cod": 2777,
@@ -29086,7 +29086,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/6750.jpg",
-     "saldo": 42
+     "saldo": 39
     },
     {
      "cod": 9337,
@@ -30907,13 +30907,13 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/14610.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "MARROM",
       "ROSA"
      ],
      "saldo_cor": {
-      "MARROM": 12,
+      "MARROM": 11,
       "ROSA": 12
      }
     },
