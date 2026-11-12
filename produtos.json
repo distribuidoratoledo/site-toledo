@@ -820,14 +820,14 @@
      "marca": "TRIS",
      "preco": 18.9,
      "img": "produtos/14558.jpg",
-     "saldo": 15,
+     "saldo": 14,
      "controle": [
       "AZUL",
       "AZUL CL",
       "BRANCO"
      ],
      "saldo_cor": {
-      "AZUL": 5,
+      "AZUL": 4,
       "AZUL CL": 5,
       "BRANCO": 5
      }
@@ -1856,7 +1856,7 @@
      "marca": "TRIS",
      "preco": 24.9,
      "img": "produtos/12627.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 14584,
@@ -3291,7 +3291,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 2652,
@@ -3390,7 +3390,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 575
+     "saldo": 574
     },
     {
      "cod": 1507,
@@ -3586,7 +3586,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "controle": [
       "AZUL",
       "LILAS",
@@ -3595,7 +3595,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "LILAS": 12,
+      "LILAS": 11,
       "ROSA": 10,
       "VERDE-ÁGUA": 12
      }
@@ -3880,7 +3880,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 2000
+     "saldo": 1998
     },
     {
      "cod": 4341,
@@ -8420,7 +8420,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 330
+     "saldo": 329
     },
     {
      "cod": 11926,
@@ -8578,21 +8578,21 @@
      "marca": "ADELBRAS",
      "preco": 1.5,
      "img": "produtos/1021.jpg",
-     "saldo": 549,
+     "saldo": 548,
      "cores": [
       {
        "cod": 1021,
        "cor": "Amarelo",
        "nome": "DUREX COLOR.12X10M-AMARELO",
        "img": "produtos/1021.jpg",
-       "saldo": 549
+       "saldo": 548
       },
       {
        "cod": 1022,
        "cor": "Azul",
        "nome": "DUREX COLOR.12X10M-AZUL",
        "img": "produtos/1022.jpg",
-       "saldo": 427
+       "saldo": 426
       },
       {
        "cod": 1023,
@@ -8613,14 +8613,14 @@
        "cor": "Verde",
        "nome": "DUREX COLOR.12X10M-VERDE",
        "img": "produtos/1026.jpg",
-       "saldo": 440
+       "saldo": 439
       },
       {
        "cod": 1027,
        "cor": "Vermelho",
        "nome": "DUREX COLOR.12X10M-VERMELHO",
        "img": "produtos/1027.jpg",
-       "saldo": 555
+       "saldo": 554
       }
      ]
     },
@@ -9979,7 +9979,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1982.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 1983,
@@ -10361,7 +10361,7 @@
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 85
+       "saldo": 84
       },
       {
        "cod": 2036,
@@ -10423,7 +10423,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 2051,
@@ -10567,7 +10567,7 @@
        "cor": "Marrom",
        "nome": "COLORSETE-MARROM",
        "img": "produtos/2043.jpg",
-       "saldo": 75
+       "saldo": 74
       },
       {
        "cod": 2044,
@@ -10612,14 +10612,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 118,
+     "saldo": 117,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 118
+       "saldo": 117
       },
       {
        "cod": 2069,
@@ -10647,7 +10647,7 @@
        "cor": "Laranja",
        "nome": "CREPOM LARANJA",
        "img": "produtos/4715.jpg",
-       "saldo": 81
+       "saldo": 80
       },
       {
        "cod": 5076,
@@ -10682,7 +10682,7 @@
        "cor": "Rosa Claro",
        "nome": "CREPOM ROSA CLARO",
        "img": "produtos/7379.jpg",
-       "saldo": 98
+       "saldo": 97
       },
       {
        "cod": 7894,
@@ -10780,14 +10780,14 @@
      "marca": "CROMUS",
      "preco": 1.5,
      "img": "produtos/2114.jpg",
-     "saldo": 4,
+     "saldo": 3,
      "cores": [
       {
        "cod": 2114,
        "cor": "Amarelo",
        "nome": "LAMINADO-AMARELO",
        "img": "produtos/2114.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 2115,
@@ -10801,7 +10801,7 @@
        "cor": "Prata",
        "nome": "LAMINADO-PRATA",
        "img": "produtos/2116.jpg",
-       "saldo": 111
+       "saldo": 110
       },
       {
        "cod": 2117,
@@ -10815,7 +10815,7 @@
        "cor": "Verde",
        "nome": "LAMINADO-VERDE",
        "img": "produtos/2118.jpg",
-       "saldo": 88
+       "saldo": 87
       },
       {
        "cod": 2119,
@@ -10856,7 +10856,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 159
+     "saldo": 158
     },
     {
      "cod": 5082,
@@ -10896,7 +10896,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 434
+     "saldo": 432
     },
     {
      "cod": 2007,
@@ -13801,7 +13801,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 156
+     "saldo": 154
     },
     {
      "cod": 7644,
@@ -15889,7 +15889,7 @@
        "cor": "Azul Marinho",
        "nome": "EVA LISO-AZUL MARINHO",
        "img": "produtos/6669.jpg",
-       "saldo": 305
+       "saldo": 304
       },
       {
        "cod": 9161,
@@ -15917,7 +15917,7 @@
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 330
+       "saldo": 329
       },
       {
        "cod": 1236,
@@ -15973,7 +15973,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 352
+       "saldo": 351
       },
       {
        "cod": 1244,
@@ -17884,7 +17884,7 @@
      "marca": "SCRITY",
      "preco": 0.7,
      "img": "produtos/1048.jpg",
-     "saldo": 1205
+     "saldo": 1175
     },
     {
      "cod": 1050,
@@ -17980,7 +17980,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 14909
+     "saldo": 14889
     },
     {
      "cod": 1051,
@@ -19206,7 +19206,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/1472.jpg",
-     "saldo": 287
+     "saldo": 286
     },
     {
      "cod": 7695,
@@ -19278,7 +19278,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14434.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -19551,7 +19551,7 @@
      "marca": "CARLU",
      "preco": 59.9,
      "img": "produtos/219.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 14649,
@@ -21231,7 +21231,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2961
+     "saldo": 2956
     },
     {
      "cod": 14414,
@@ -22641,7 +22641,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 109
+     "saldo": 103
     },
     {
      "cod": 6315,
@@ -22673,7 +22673,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 245
+     "saldo": 243
     },
     {
      "cod": 2516,
@@ -23247,7 +23247,7 @@
      "marca": "",
      "preco": 52.9,
      "img": "produtos/1376.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 9164,
@@ -23349,7 +23349,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 351
+     "saldo": 251
     },
     {
      "cod": 2552,
@@ -23683,7 +23683,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 6986,
@@ -24213,7 +24213,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 67
+     "saldo": 61
     },
     {
      "cod": 11675,
@@ -24309,7 +24309,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 64
+     "saldo": 63
     }
    ]
   },
@@ -24425,7 +24425,7 @@
      "marca": "DECOPLAST",
      "preco": 152.9,
      "img": "produtos/1454.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 1450,
@@ -24751,7 +24751,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 87
+     "saldo": 85
     },
     {
      "cod": 2726,
@@ -26171,7 +26171,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 128
+     "saldo": 114
     },
     {
      "cod": 10990,
@@ -27813,7 +27813,7 @@
      "marca": "GESELE",
      "preco": 0.8,
      "img": "produtos/1340.jpg",
-     "saldo": 461
+     "saldo": 459
     },
     {
      "cod": 3674,
@@ -28943,7 +28943,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 242
+     "saldo": 237
     },
     {
      "cod": 2153,
@@ -30476,7 +30476,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
-     "saldo": 86,
+     "saldo": 84,
      "controle": [
       "AZUL",
       "LILAS",
@@ -30485,9 +30485,9 @@
      ],
      "saldo_cor": {
       "AZUL": 23,
-      "LILAS": 13,
+      "LILAS": 12,
       "ROSA": 16,
-      "VERDE": 34
+      "VERDE": 33
      }
     },
     {
