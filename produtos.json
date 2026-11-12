@@ -118,14 +118,14 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2166
+       "saldo": 2164
       },
       {
        "cod": 554,
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 306
+       "saldo": 304
       }
      ]
     },
@@ -3344,7 +3344,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 83
+       "saldo": 82
       },
       {
        "cod": 2658,
@@ -6051,7 +6051,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO ALIBOM. CD 80F-VERMELHO",
        "img": "produtos/366.jpg",
-       "saldo": 29
+       "saldo": 28
       }
      ]
     },
@@ -7434,7 +7434,7 @@
      "marca": "PAUTA BRC",
      "preco": 5.9,
      "img": "produtos/3249.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 4210,
@@ -8316,7 +8316,7 @@
      "marca": "CASCOREZ",
      "preco": 58.9,
      "img": "produtos/823.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 825,
@@ -8546,7 +8546,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 814
+     "saldo": 813
     },
     {
      "cod": 4438,
@@ -8866,7 +8866,7 @@
      "marca": "JOCAR",
      "preco": 29.9,
      "img": "produtos/1520.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 1522,
@@ -9553,7 +9553,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 10
+     "saldo": 8
     }
    ]
   },
@@ -9677,7 +9677,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1536.jpg",
-     "saldo": 240
+     "saldo": 239
     },
     {
      "cod": 1537,
@@ -10210,14 +10210,6 @@
      ]
     },
     {
-     "cod": 673,
-     "nome": "CARBONO 1F CIS AZUL",
-     "marca": "CIS",
-     "preco": 0.8,
-     "img": "produtos/673.jpg",
-     "saldo": 38
-    },
-    {
      "cod": 674,
      "nome": "CARBONO 2F CIS AZUL",
      "marca": "CIS",
@@ -10407,7 +10399,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 99
+       "saldo": 97
       },
       {
        "cod": 758,
@@ -10896,7 +10888,7 @@
      "marca": "CHAMEX",
      "preco": 49.9,
      "img": "produtos/2016.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 2014,
@@ -10904,7 +10896,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 435
+     "saldo": 434
     },
     {
      "cod": 2007,
@@ -10912,21 +10904,21 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 36,
+     "saldo": 33,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 36
+       "saldo": 33
       },
       {
        "cod": 3975,
        "cor": "Azul",
        "nome": "PAPEL A4 COLOR. C/100-AZUL",
        "img": "produtos/3975.jpg",
-       "saldo": 12
+       "saldo": 10
       },
       {
        "cod": 6314,
@@ -11158,7 +11150,7 @@
      "marca": "VMP",
      "preco": 0.8,
      "img": "produtos/2142.jpg",
-     "saldo": 245
+     "saldo": 241
     },
     {
      "cod": 2143,
@@ -13809,7 +13801,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 157
+     "saldo": 156
     },
     {
      "cod": 7644,
@@ -21223,7 +21215,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 455
+     "saldo": 445
     },
     {
      "cod": 14406,
@@ -21231,7 +21223,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 944,
@@ -21391,7 +21383,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 958,
@@ -22459,7 +22451,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 699
+     "saldo": 698
     },
     {
      "cod": 880,
@@ -23159,7 +23151,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/7045.jpg",
-     "saldo": 3
+     "saldo": 4
     },
     {
      "cod": 1366,
@@ -24127,7 +24119,7 @@
      "marca": "PITPRATOS",
      "preco": 1.4,
      "img": "produtos/2544.jpg",
-     "saldo": 51
+     "saldo": 46
     },
     {
      "cod": 2545,
@@ -24151,7 +24143,7 @@
      "marca": "PITPRATOS",
      "preco": 2.5,
      "img": "produtos/2547.jpg",
-     "saldo": 27
+     "saldo": 24
     },
     {
      "cod": 2578,
@@ -24325,7 +24317,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 65
+     "saldo": 64
     }
    ]
   },
@@ -24567,7 +24559,7 @@
      "marca": "GERAPLAST",
      "preco": 89.9,
      "img": "produtos/665.jpg",
-     "saldo": 168
+     "saldo": 167
     },
     {
      "cod": 2704,
@@ -24919,7 +24911,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 2766,
@@ -25047,7 +25039,7 @@
      "marca": "KROMASA",
      "preco": 1.5,
      "img": "produtos/2806.jpg",
-     "saldo": 1991
+     "saldo": 1981
     },
     {
      "cod": 2807,
@@ -25261,7 +25253,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 180
+     "saldo": 179
     },
     {
      "cod": 2824,
@@ -25269,7 +25261,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 973
+     "saldo": 969
     },
     {
      "cod": 10972,
@@ -25317,7 +25309,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 455
+     "saldo": 454
     },
     {
      "cod": 2839,
@@ -25641,7 +25633,7 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 243,
@@ -25649,7 +25641,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 244,
@@ -25657,7 +25649,7 @@
      "marca": "CEPELMA",
      "preco": 49.9,
      "img": "produtos/244.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 13858,
@@ -25665,7 +25657,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 199
+     "saldo": 198
     },
     {
      "cod": 13857,
@@ -25673,7 +25665,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 159
+     "saldo": 158
     },
     {
      "cod": 13856,
@@ -25681,7 +25673,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 190
+     "saldo": 189
     },
     {
      "cod": 13859,
@@ -25689,7 +25681,7 @@
      "marca": "HIPERROLL",
      "preco": 28.9,
      "img": "produtos/13859.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 6937,
@@ -26023,7 +26015,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 192
+     "saldo": 191
     },
     {
      "cod": 4314,
@@ -26267,7 +26259,7 @@
      "marca": "DISPAFILM",
      "preco": 98.9,
      "img": "produtos/3427.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 1282,
@@ -26385,7 +26377,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 715
+     "saldo": 713
     },
     {
      "cod": 2760,
@@ -26401,7 +26393,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 888
+     "saldo": 887
     },
     {
      "cod": 2761,
@@ -27263,7 +27255,7 @@
        "cor": "Prata",
        "nome": "LAÇO PRONTO (G)-PRATA",
        "img": "produtos/11917.jpg",
-       "saldo": 102
+       "saldo": 101
       }
      ]
     },
@@ -28769,7 +28761,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 8294,
@@ -28983,7 +28975,7 @@
      "marca": "INTERFORTY",
      "preco": 129.9,
      "img": "produtos/2157.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 2156,
@@ -31718,7 +31710,7 @@
        "cor": "Azul Claro",
        "nome": "CONTACT LISO-AZUL CLARO",
        "img": "produtos/7636.jpg",
-       "saldo": 54
+       "saldo": 52
       },
       {
        "cod": 10000,
