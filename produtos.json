@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1169,
+     "saldo": 1158,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1169
+       "saldo": 1158
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 307
+       "saldo": 306
       }
      ]
     },
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 822,
+     "saldo": 821,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 822
+       "saldo": 821
       },
       {
        "cod": 556,
@@ -975,7 +975,7 @@
        "cor": "Vermelha",
        "nome": "CANETA JOCAR 1.0-VERMELHA",
        "img": "produtos/9371.jpg",
-       "saldo": 475
+       "saldo": 465
       }
      ]
     },
@@ -993,14 +993,14 @@
      "marca": "PAPER MATE",
      "preco": 1.8,
      "img": "produtos/14673.jpg",
-     "saldo": 134,
+     "saldo": 120,
      "cores": [
       {
        "cod": 14673,
        "cor": "Azul",
        "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
        "img": "produtos/14673.jpg",
-       "saldo": 134
+       "saldo": 120
       },
       {
        "cod": 588,
@@ -1032,7 +1032,7 @@
      "marca": "JOCAR",
      "preco": 29.9,
      "img": "produtos/9974.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 591,
@@ -4218,7 +4218,7 @@
      "marca": "TILIBRA",
      "preco": 45.9,
      "img": "produtos/14280.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 14271,
@@ -5830,7 +5830,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/12415.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 12777,
@@ -7723,14 +7723,6 @@
      "saldo": 30
     },
     {
-     "cod": 795,
-     "nome": "CLIPS (PEQ) 6/0 C/50-TOP",
-     "marca": "TOP",
-     "preco": 2.9,
-     "img": "produtos/795.jpg",
-     "saldo": 15
-    },
-    {
      "cod": 797,
      "nome": "CLIPS (PEQ) 8/0 C/25-TOP",
      "marca": "TOP",
@@ -8092,7 +8084,7 @@
      "marca": "LEO E LEO",
      "preco": 5.5,
      "img": "produtos/813.jpg",
-     "saldo": 148
+     "saldo": 147
     },
     {
      "cod": 11622,
@@ -8276,7 +8268,7 @@
      "marca": "TEKBOND",
      "preco": 12.9,
      "img": "produtos/844.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 845,
@@ -10948,7 +10940,7 @@
        "cor": "Verde",
        "nome": "PAPEL A4 COLOR. C/100-VERDE",
        "img": "produtos/6313.jpg",
-       "saldo": 56
+       "saldo": 55
       }
      ]
     },
@@ -11286,7 +11278,7 @@
      "marca": "USAPEL",
      "preco": 21.9,
      "img": "produtos/7335.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 3962,
@@ -14701,7 +14693,7 @@
      "marca": "PLASCONY",
      "preco": 4.9,
      "img": "produtos/6065.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 13817,
@@ -15320,7 +15312,7 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg",
-     "saldo": 123
+     "saldo": 121
     },
     {
      "cod": 4432,
@@ -15877,14 +15869,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 292,
+     "saldo": 286,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 292
+       "saldo": 286
       },
       {
        "cod": 1230,
@@ -15919,7 +15911,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 143
+       "saldo": 139
       },
       {
        "cod": 1233,
@@ -15954,7 +15946,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 94
+       "saldo": 90
       },
       {
        "cod": 1239,
@@ -15982,14 +15974,14 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 208
+       "saldo": 205
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 355
+       "saldo": 352
       },
       {
        "cod": 1244,
@@ -18898,7 +18890,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 136
+     "saldo": 135
     },
     {
      "cod": 14261,
@@ -22037,7 +22029,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 7364,
@@ -22045,7 +22037,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/7364.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 767,
@@ -22069,7 +22061,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 170
+     "saldo": 168
     },
     {
      "cod": 770,
@@ -22109,7 +22101,7 @@
      "marca": "ISOMAX",
      "preco": 16.9,
      "img": "produtos/775.jpg",
-     "saldo": 118
+     "saldo": 115
     },
     {
      "cod": 776,
@@ -22309,7 +22301,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 565
+     "saldo": 564
     },
     {
      "cod": 4146,
@@ -22325,7 +22317,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 475
+     "saldo": 474
     },
     {
      "cod": 3887,
@@ -23763,7 +23755,7 @@
      "marca": "",
      "preco": 35.9,
      "img": "produtos/4322.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 5063,
@@ -23771,7 +23763,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/5063.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 6101,
@@ -23779,7 +23771,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/6101.jpg",
-     "saldo": 37
+     "saldo": 36
     }
    ]
   },
@@ -25317,7 +25309,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 495
+     "saldo": 490
     },
     {
      "cod": 2838,
@@ -25817,7 +25809,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 9978
+     "saldo": 9878
     },
     {
      "cod": 11788,
@@ -26267,7 +26259,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 124
+     "saldo": 123
     },
     {
      "cod": 3427,
@@ -27717,7 +27709,7 @@
      "marca": "CRISTINA",
      "preco": 12.9,
      "img": "produtos/11992.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 3261,
@@ -31422,14 +31414,6 @@
      "saldo": 4
     },
     {
-     "cod": 14134,
-     "nome": "PLACA SINALIZ-CUIDADO GARAGEM",
-     "marca": "GRESPAN",
-     "preco": 12.9,
-     "img": "produtos/14134.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 7476,
      "nome": "PLACA SINALIZ-CUIDADO INFLAMAVEL",
      "marca": "GRESPAN",
@@ -31689,14 +31673,14 @@
      "marca": "LEOTACK",
      "preco": 12.9,
      "img": "produtos/7627.jpg",
-     "saldo": 9,
+     "saldo": 8,
      "cores": [
       {
        "cod": 7627,
        "cor": "Dourado",
        "nome": "CONTACT GLITER-DOURADO",
        "img": "produtos/7627.jpg",
-       "saldo": 9
+       "saldo": 8
       },
       {
        "cod": 7626,
