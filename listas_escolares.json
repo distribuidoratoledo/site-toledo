@@ -12808,10 +12808,11 @@
        "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
        "qtd": 1,
        "cod": 14638,
-       "produto": "COPO INFANTIL ESCOLAR 300ML",
-       "marca": "PLASUTIL",
+       "produto": "COPO INFANTIL ESCOLAR 300ML-MICKEY",
+       "marca": "TUUT",
        "preco": 8.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14638.jpg",
        "grupo": "Uma lancheira com",
        "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
@@ -13290,10 +13291,11 @@
        "descricao": "1 copo plástico com tampa bico ou 1 garrafinha d'água",
        "qtd": 1,
        "cod": 14638,
-       "produto": "COPO INFANTIL ESCOLAR 300ML",
-       "marca": "PLASUTIL",
+       "produto": "COPO INFANTIL ESCOLAR 300ML-MICKEY",
+       "marca": "TUUT",
        "preco": 8.9,
        "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14638.jpg",
        "grupo": "Uma lancheira com",
        "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
       },
@@ -16804,5 +16806,5 @@
    ]
   }
  ],
- "atualizado": "10/11/2026 17:54"
+ "atualizado": "12/11/2026 14:00"
 }
