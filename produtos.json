@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 875,
+     "saldo": 874,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 875
+       "saldo": 874
       },
       {
        "cod": 570,
@@ -3228,7 +3228,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBMA-VBM-M)",
        "img": "produtos/2354.jpg",
-       "saldo": 26
+       "saldo": 14
       },
       {
        "cod": 2355,
@@ -8578,7 +8578,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4286
+     "saldo": 4282
     },
     {
      "cod": 14619,
@@ -8954,7 +8954,7 @@
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/1525.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 11872,
@@ -10888,7 +10888,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 36
+     "saldo": 31
     },
     {
      "cod": 4502,
@@ -10920,7 +10920,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 450
+     "saldo": 447
     },
     {
      "cod": 2007,
@@ -15803,7 +15803,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 103
+       "saldo": 102
       },
       {
        "cod": 4830,
@@ -15934,7 +15934,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 130
+       "saldo": 127
       },
       {
        "cod": 1235,
@@ -17908,7 +17908,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1044.jpg",
-     "saldo": 57
+     "saldo": 25455
     },
     {
      "cod": 1048,
@@ -22309,7 +22309,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 2937,
@@ -22325,7 +22325,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2491,
@@ -22809,7 +22809,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 11690,
@@ -24935,7 +24935,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 154
+     "saldo": 153
     },
     {
      "cod": 2766,
@@ -26063,7 +26063,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 999
+     "saldo": 979
     },
     {
      "cod": 2900,
@@ -28991,7 +28991,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 437
+     "saldo": 434
     },
     {
      "cod": 2157,
