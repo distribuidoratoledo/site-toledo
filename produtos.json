@@ -3290,7 +3290,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 72
+     "saldo": 69
     },
     {
      "cod": 2652,
@@ -3329,14 +3329,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 147,
+     "saldo": 144,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 147
+       "saldo": 144
       },
       {
        "cod": 2657,
@@ -3350,14 +3350,14 @@
        "cor": "Verde",
        "nome": "RETRO 2.0 PILOT-VERDE",
        "img": "produtos/2658.jpg",
-       "saldo": 26
+       "saldo": 23
       },
       {
        "cod": 2659,
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 25
+       "saldo": 22
       }
      ]
     }
@@ -7703,7 +7703,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/782.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 787,
@@ -8787,7 +8787,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 357
+     "saldo": 352
     },
     {
      "cod": 1313,
@@ -8795,7 +8795,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1430
+     "saldo": 1427
     },
     {
      "cod": 4389,
@@ -9448,7 +9448,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 350
+     "saldo": 348
     },
     {
      "cod": 12303,
@@ -10847,7 +10847,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 5082,
@@ -10887,7 +10887,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 403
+     "saldo": 402
     },
     {
      "cod": 2007,
@@ -12872,14 +12872,6 @@
      "saldo": 3
     },
     {
-     "cod": 13708,
-     "nome": "ETIQUETADORA MX5500-LETRON",
-     "marca": "LETRON",
-     "preco": 59.9,
-     "img": "produtos/13708.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13371,
      "nome": "SELO CONVITE AMARELO 12MM C/210",
      "marca": "PIMACO",
@@ -14319,7 +14311,7 @@
        "cor": "Lilas",
        "nome": "PASTA ENVELOPE A4-LILAS NEON",
        "img": "produtos/10025.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 10022,
@@ -21182,7 +21174,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 240
+     "saldo": 239
     },
     {
      "cod": 938,
@@ -21454,7 +21446,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 133
+     "saldo": 132
     },
     {
      "cod": 2923,
@@ -22036,7 +22028,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/770.jpg",
-     "saldo": 248
+     "saldo": 238
     },
     {
      "cod": 772,
@@ -22276,7 +22268,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 53
+     "saldo": 50
     },
     {
      "cod": 2491,
@@ -22292,7 +22284,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 2489,
@@ -22568,7 +22560,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11829.jpg",
-     "saldo": 123
+     "saldo": 122
     },
     {
      "cod": 11825,
@@ -22576,7 +22568,7 @@
      "marca": "TOTALPLAST",
      "preco": 9.9,
      "img": "produtos/11825.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 14028,
@@ -22648,7 +22640,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 243
+     "saldo": 241
     },
     {
      "cod": 2516,
@@ -23800,7 +23792,7 @@
      "marca": "LIDER",
      "preco": 69.9,
      "img": "produtos/13007.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 13006,
@@ -24870,7 +24862,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/14426.jpg",
-     "saldo": 120
+     "saldo": 117
     },
     {
      "cod": 2738,
@@ -24878,7 +24870,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 2766,
@@ -25752,7 +25744,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 127
+     "saldo": 123
     },
     {
      "cod": 4427,
@@ -26022,7 +26014,7 @@
      "marca": "GERAPLAST",
      "preco": 34.9,
      "img": "produtos/2901.jpg",
-     "saldo": 128
+     "saldo": 127
     },
     {
      "cod": 7358,
@@ -28632,7 +28624,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 665
+     "saldo": 664
     },
     {
      "cod": 1786,
@@ -28744,7 +28736,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 10988,
@@ -28752,7 +28744,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/10988.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 8296,
@@ -28760,7 +28752,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/8296.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 10989,
@@ -28768,7 +28760,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/10989.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1874,
@@ -28918,7 +28910,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 382
+     "saldo": 378
     },
     {
      "cod": 2157,
