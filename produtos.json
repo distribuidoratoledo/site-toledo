@@ -3398,7 +3398,7 @@
      "marca": "PENTEL",
      "preco": 5.9,
      "img": "produtos/1507.jpg",
-     "saldo": 6
+     "saldo": 2
     },
     {
      "cod": 1509,
@@ -15931,7 +15931,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 91
+       "saldo": 87
       },
       {
        "cod": 1238,
@@ -21629,7 +21629,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 709
+     "saldo": 701
     },
     {
      "cod": 4617,
@@ -21917,7 +21917,7 @@
      "marca": "",
      "preco": 246.9,
      "img": "produtos/466.jpg",
-     "saldo": 13
+     "saldo": 11
     },
     {
      "cod": 6940,
@@ -22539,7 +22539,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/9914.jpg",
-     "saldo": 68
+     "saldo": 63
     },
     {
      "cod": 14191,
@@ -22586,14 +22586,6 @@
      "preco": 36.9,
      "img": "produtos/11829.jpg",
      "saldo": 124
-    },
-    {
-     "cod": 2495,
-     "nome": "POTE (KIT) 140ML C/24-RIOPLASTIC",
-     "marca": "RIOPLASTIC",
-     "preco": 8.9,
-     "img": "produtos/2495.jpg",
-     "saldo": 23
     },
     {
      "cod": 11825,
@@ -24679,7 +24671,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 25
+     "saldo": 17
     },
     {
      "cod": 10060,
@@ -25293,7 +25285,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 490
+     "saldo": 488
     },
     {
      "cod": 2838,
@@ -27877,7 +27869,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 591
+     "saldo": 590
     },
     {
      "cod": 6912,
@@ -28338,14 +28330,6 @@
      "saldo": 4
     },
     {
-     "cod": 11739,
-     "nome": "CAIXA SUPERMERCADO PRETA (BAIXA)",
-     "marca": "ELDORADO",
-     "preco": 65.9,
-     "img": "produtos/11739.jpg",
-     "saldo": 6
-    },
-    {
      "cod": 485,
      "nome": "CAIXA SUPERMERCADO PRETA (COMUM)",
      "marca": "MERCOPLAS",
@@ -28509,7 +28493,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 389
+     "saldo": 369
     },
     {
      "cod": 2608,
@@ -28673,7 +28657,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 695
+     "saldo": 665
     },
     {
      "cod": 1786,
@@ -28801,7 +28785,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/8296.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 10989,
@@ -28825,7 +28809,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 326
+     "saldo": 325
     },
     {
      "cod": 7275,
@@ -31158,7 +31142,7 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO MASTERPRINT-ROSA",
        "img": "produtos/6053.jpg",
-       "saldo": 254
+       "saldo": 253
       },
       {
        "cod": 6637,
