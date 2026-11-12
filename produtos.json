@@ -988,19 +988,19 @@
      "saldo": 15
     },
     {
-     "cod": 587,
+     "cod": 14673,
      "nome": "CANETA KILOMETRICA 0.7 (FINA)",
      "marca": "PAPER MATE",
      "preco": 1.8,
-     "img": "produtos/587.jpg",
-     "saldo": 135,
+     "img": "produtos/14673.jpg",
+     "saldo": 134,
      "cores": [
       {
-       "cod": 587,
+       "cod": 14673,
        "cor": "Azul",
        "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
-       "img": "produtos/587.jpg",
-       "saldo": 135
+       "img": "produtos/14673.jpg",
+       "saldo": 134
       },
       {
        "cod": 588,
@@ -1129,14 +1129,6 @@
      "preco": 28.9,
      "img": "produtos/12294.jpg",
      "saldo": 4
-    },
-    {
-     "cod": 4460,
-     "nome": "CANETA NOTA FALSA DETECT MONEY",
-     "marca": "DETECT MON",
-     "preco": 6.9,
-     "img": "produtos/4460.jpg",
-     "saldo": 2
     },
     {
      "cod": 4392,
@@ -5838,7 +5830,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/12415.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 12777,
@@ -8292,7 +8284,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 846,
@@ -8388,7 +8380,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14600.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 12625,
@@ -8452,7 +8444,7 @@
      "marca": "REND/LEO",
      "preco": 15.9,
      "img": "produtos/10944.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 848,
@@ -8578,7 +8570,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4278
+     "saldo": 4252
     },
     {
      "cod": 14619,
@@ -9521,7 +9513,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 6632,
@@ -9725,7 +9717,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 89
+     "saldo": 88
     },
     {
      "cod": 6612,
@@ -17876,7 +17868,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 28589
+     "saldo": 27589
     },
     {
      "cod": 1098,
@@ -17932,7 +17924,7 @@
      "marca": "SCRITY",
      "preco": 0.65,
      "img": "produtos/1053.jpg",
-     "saldo": 649
+     "saldo": 399
     },
     {
      "cod": 1055,
@@ -22205,7 +22197,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 83
+     "saldo": 81
     },
     {
      "cod": 3731,
@@ -22213,7 +22205,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 172
+     "saldo": 171
     },
     {
      "cod": 1569,
@@ -22317,7 +22309,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 567
+     "saldo": 565
     },
     {
      "cod": 4146,
@@ -22325,7 +22317,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 2491,
@@ -22333,7 +22325,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 477
+     "saldo": 475
     },
     {
      "cod": 3887,
@@ -22341,7 +22333,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 2489,
@@ -24473,7 +24465,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 7553,
@@ -25587,7 +25579,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 923
+     "saldo": 918
     },
     {
      "cod": 6855,
@@ -26031,7 +26023,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2383
+     "saldo": 2373
     },
     {
      "cod": 2896,
@@ -27163,7 +27155,7 @@
        "cor": "Prata",
        "nome": "FITILHO 50MT PRATA",
        "img": "produtos/1325.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 1326,
@@ -27861,7 +27853,7 @@
      "marca": "GERSELE",
      "preco": 0.3,
      "img": "produtos/2772.jpg",
-     "saldo": 506
+     "saldo": 503
     },
     {
      "cod": 2773,
@@ -27885,7 +27877,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 545
+     "saldo": 535
     },
     {
      "cod": 2777,
@@ -28777,7 +28769,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 10304,
@@ -28991,7 +28983,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 433
+     "saldo": 432
     },
     {
      "cod": 2157,
