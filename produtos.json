@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1158,
+     "saldo": 1108,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1158
+       "saldo": 1108
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 304
+       "saldo": 254
       }
      ]
     },
@@ -1594,7 +1594,7 @@
      "marca": "BIC",
      "preco": 26.9,
      "img": "produtos/5239.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 1577,
@@ -2337,7 +2337,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 577
+     "saldo": 553
     },
     {
      "cod": 5836,
@@ -3147,21 +3147,21 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 61,
+     "saldo": 56,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 61
+       "saldo": 56
       },
       {
        "cod": 2347,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
        "img": "produtos/2347.jpg",
-       "saldo": 45
+       "saldo": 40
       },
       {
        "cod": 2348,
@@ -3175,7 +3175,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
        "img": "produtos/2349.jpg",
-       "saldo": 15
+       "saldo": 10
       }
      ]
     },
@@ -3291,7 +3291,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 84
+     "saldo": 72
     },
     {
      "cod": 2652,
@@ -3390,7 +3390,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 573
+     "saldo": 572
     },
     {
      "cod": 1507,
@@ -3682,7 +3682,7 @@
      "marca": "LEO E LEO",
      "preco": 0.7,
      "img": "produtos/275.jpg",
-     "saldo": 473
+     "saldo": 465
     },
     {
      "cod": 277,
@@ -5466,7 +5466,7 @@
      "marca": "CREDEAL",
      "preco": 19.9,
      "img": "produtos/8402.jpg",
-     "saldo": 42
+     "saldo": 40
     },
     {
      "cod": 12767,
@@ -7426,7 +7426,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 3249,
@@ -7632,7 +7632,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/783.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 785,
@@ -7640,7 +7640,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 38
+     "saldo": 36
     },
     {
      "cod": 793,
@@ -7846,7 +7846,7 @@
      "marca": "DOTAD",
      "preco": 15.9,
      "img": "produtos/9567.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 10235,
@@ -8858,7 +8858,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 33
+     "saldo": 27
     },
     {
      "cod": 1520,
@@ -9258,7 +9258,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 471
+     "saldo": 470
     },
     {
      "cod": 10030,
@@ -9449,7 +9449,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 354
+     "saldo": 350
     },
     {
      "cod": 12303,
@@ -9559,7 +9559,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 101
+     "saldo": 96
     }
    ]
   },
@@ -9701,7 +9701,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 88
+     "saldo": 76
     },
     {
      "cod": 6612,
@@ -9979,7 +9979,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/1983.jpg",
-     "saldo": 124
+     "saldo": 104
     },
     {
      "cod": 2601,
@@ -10848,7 +10848,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 156
+     "saldo": 141
     },
     {
      "cod": 5082,
@@ -13316,14 +13316,14 @@
      "marca": "MAXCRIL",
      "preco": 14.9,
      "img": "produtos/5203.jpg",
-     "saldo": 5,
+     "saldo": 3,
      "cores": [
       {
        "cod": 5203,
        "cor": "Azul",
        "nome": "KIT PORTA OBJETO 1 LUG C/2-AZUL PASTEL",
        "img": "produtos/5203.jpg",
-       "saldo": 5
+       "saldo": 3
       },
       {
        "cod": 5204,
@@ -13657,7 +13657,7 @@
      "marca": "MAXCRIL",
      "preco": 17.9,
      "img": "produtos/9199.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 11418,
@@ -14183,7 +14183,7 @@
      "marca": "ACP",
      "preco": 25.9,
      "img": "produtos/6195.jpg",
-     "saldo": 351
+     "saldo": 349
     },
     {
      "cod": 14202,
@@ -14281,7 +14281,7 @@
        "cor": "Vermelha",
        "nome": "PASTA CATALOGO TRANSP. C/50 (VERMELHA)",
        "img": "produtos/14197.jpg",
-       "saldo": 10
+       "saldo": 5
       }
      ]
     },
@@ -14427,14 +14427,14 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2223.jpg",
-     "saldo": 190,
+     "saldo": 189,
      "cores": [
       {
        "cod": 2223,
        "cor": "Cristal",
        "nome": "PASTA GRAMPO TRILHO PLAST. CRISTAL",
        "img": "produtos/2223.jpg",
-       "saldo": 190
+       "saldo": 189
       },
       {
        "cod": 2222,
@@ -15138,7 +15138,7 @@
      "marca": "POLIBRAS",
      "preco": 59.9,
      "img": "produtos/2270.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 2271,
@@ -18562,7 +18562,7 @@
      "marca": "MP/JOC/NFX",
      "preco": 11.9,
      "img": "produtos/6619.jpg",
-     "saldo": 146
+     "saldo": 141
     },
     {
      "cod": 2477,
@@ -18626,7 +18626,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/6624.jpg",
-     "saldo": 81
+     "saldo": 76
     },
     {
      "cod": 6620,
@@ -22165,7 +22165,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 279
+     "saldo": 278
     },
     {
      "cod": 3731,
@@ -25277,7 +25277,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 488
+     "saldo": 493
     },
     {
      "cod": 2838,
@@ -25285,7 +25285,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 444
+     "saldo": 449
     },
     {
      "cod": 2839,
