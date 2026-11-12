@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1220,
+     "saldo": 1219,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1220
+       "saldo": 1219
       },
       {
        "cod": 553,
@@ -954,14 +954,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 324,
+     "saldo": 323,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 324
+       "saldo": 323
       },
       {
        "cod": 9370,
@@ -2385,7 +2385,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 171
+     "saldo": 170
     },
     {
      "cod": 6355,
@@ -2912,14 +2912,14 @@
      "marca": "LEO E LEO",
      "preco": 1.5,
      "img": "produtos/11978.jpg",
-     "saldo": 51,
+     "saldo": 50,
      "cores": [
       {
        "cod": 11978,
        "cor": "Azul",
        "nome": "PINCEL ATOM.850 LEO E LEO-AZUL",
        "img": "produtos/11978.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 11977,
@@ -3338,14 +3338,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 153,
+     "saldo": 151,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 153
+       "saldo": 151
       },
       {
        "cod": 2657,
@@ -7376,7 +7376,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO PEQ. CD 96F (VERMELHO)",
        "img": "produtos/9322.jpg",
-       "saldo": 28
+       "saldo": 27
       }
      ]
     },
@@ -7649,14 +7649,6 @@
      "preco": 15.9,
      "img": "produtos/785.jpg",
      "saldo": 39
-    },
-    {
-     "cod": 788,
-     "nome": "CLIPS (GR) 4/0 C/320 (400 UN)",
-     "marca": "TOP",
-     "preco": 15.9,
-     "img": "produtos/788.jpg",
-     "saldo": 1
     },
     {
      "cod": 793,
@@ -8060,7 +8052,7 @@
      "marca": "MERCU",
      "preco": 5.9,
      "img": "produtos/14524.jpg",
-     "saldo": 72
+     "saldo": 70
     },
     {
      "cod": 811,
@@ -8276,7 +8268,7 @@
      "marca": "TEKBOND",
      "preco": 14.9,
      "img": "produtos/4930.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 7159,
@@ -8812,7 +8804,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 368
+     "saldo": 365
     },
     {
      "cod": 1313,
@@ -8820,7 +8812,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1440
+     "saldo": 1438
     },
     {
      "cod": 4389,
@@ -9725,7 +9717,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/1538.jpg",
-     "saldo": 99
+     "saldo": 93
     },
     {
      "cod": 9505,
@@ -10571,14 +10563,14 @@
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 122
+       "saldo": 121
       },
       {
        "cod": 2039,
        "cor": "Azul Escuro",
        "nome": "COLORSETE-AZUL ESCURO",
        "img": "produtos/2039.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 2041,
@@ -10606,7 +10598,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 96
+       "saldo": 95
       },
       {
        "cod": 2045,
@@ -10888,7 +10880,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 161
+     "saldo": 160
     },
     {
      "cod": 5082,
@@ -10920,7 +10912,7 @@
      "marca": "CHAMEX",
      "preco": 49.9,
      "img": "produtos/2016.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 2014,
@@ -10928,7 +10920,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 460
+     "saldo": 450
     },
     {
      "cod": 2007,
@@ -11062,14 +11054,14 @@
      "marca": "VMP",
      "preco": 3.0,
      "img": "produtos/2124.jpg",
-     "saldo": 1,
+     "saldo": 2,
      "cores": [
       {
        "cod": 2124,
        "cor": "Branco",
        "nome": "PAPEL MICROONDULADO-BRANCO",
        "img": "produtos/2124.jpg",
-       "saldo": 1
+       "saldo": 2
       },
       {
        "cod": 2127,
@@ -15483,7 +15475,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/7200.jpg",
-     "saldo": 126
+     "saldo": 124
     },
     {
      "cod": 7201,
@@ -18682,14 +18674,14 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 54,
+     "saldo": 53,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 54
+       "saldo": 53
       },
       {
        "cod": 6623,
@@ -25293,7 +25285,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 974
+     "saldo": 973
     },
     {
      "cod": 10972,
@@ -25301,7 +25293,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 500
+     "saldo": 490
     },
     {
      "cod": 2826,
@@ -25333,7 +25325,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 496
+     "saldo": 495
     },
     {
      "cod": 2838,
@@ -25349,7 +25341,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 451
+     "saldo": 449
     },
     {
      "cod": 2840,
@@ -25611,7 +25603,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 839
+     "saldo": 829
     },
     {
      "cod": 6825,
@@ -25833,7 +25825,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 10078
+     "saldo": 9978
     },
     {
      "cod": 11788,
@@ -25881,7 +25873,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 500
+     "saldo": 499
     }
    ]
   },
@@ -26189,7 +26181,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1623
+     "saldo": 1320
     },
     {
      "cod": 236,
@@ -26665,7 +26657,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 48
+     "saldo": 45
     },
     {
      "cod": 6860,
@@ -26719,7 +26711,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/103.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 104,
@@ -26807,7 +26799,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/4727.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 3195,
@@ -27917,7 +27909,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 592
+     "saldo": 591
     },
     {
      "cod": 6912,
@@ -28107,7 +28099,7 @@
      "marca": "PRIMUS",
      "preco": 31.9,
      "img": "produtos/1166.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 11419,
@@ -28999,7 +28991,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 438
+     "saldo": 437
     },
     {
      "cod": 2157,
