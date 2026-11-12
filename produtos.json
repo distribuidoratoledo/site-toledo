@@ -10872,7 +10872,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 2015,
@@ -10880,7 +10880,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 2016,
@@ -10896,7 +10896,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 432
+     "saldo": 430
     },
     {
      "cod": 2007,
@@ -22349,7 +22349,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 4129,
@@ -22357,7 +22357,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 130
+     "saldo": 129
     },
     {
      "cod": 5005,
@@ -23111,7 +23111,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/11999.jpg",
-     "saldo": 11
+     "saldo": 31
     },
     {
      "cod": 5266,
@@ -23135,7 +23135,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 28
+     "saldo": 58
     },
     {
      "cod": 7045,
@@ -23239,7 +23239,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 6
+     "saldo": 76
     },
     {
      "cod": 1376,
@@ -23247,7 +23247,7 @@
      "marca": "",
      "preco": 52.9,
      "img": "produtos/1376.jpg",
-     "saldo": 13
+     "saldo": 43
     },
     {
      "cod": 9164,
@@ -23777,7 +23777,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 370
+     "saldo": 366
     },
     {
      "cod": 3951,
@@ -25555,7 +25555,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 918
+     "saldo": 913
     },
     {
      "cod": 6855,
@@ -25745,7 +25745,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 170
+     "saldo": 167
     },
     {
      "cod": 6965,
