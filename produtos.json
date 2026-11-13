@@ -3313,14 +3313,14 @@
      "marca": "PILOT",
      "preco": 10.9,
      "img": "produtos/2652.jpg",
-     "saldo": 106,
+     "saldo": 105,
      "cores": [
       {
        "cod": 2652,
        "cor": "Azul",
        "nome": "RETRO 1.0 PILOT-AZUL",
        "img": "produtos/2652.jpg",
-       "saldo": 106
+       "saldo": 105
       },
       {
        "cod": 2653,
@@ -3925,7 +3925,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/14517.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 14520,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1375
+     "saldo": 1370
     },
     {
      "cod": 4389,
@@ -10072,7 +10072,7 @@
      "marca": "TILIBRA",
      "preco": 4.5,
      "img": "produtos/3095.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 3096,
@@ -10777,7 +10777,7 @@
        "cor": "Preto",
        "nome": "FANTASIA-PRETO",
        "img": "produtos/2090.jpg",
-       "saldo": 37
+       "saldo": 26
       },
       {
        "cod": 2091,
@@ -10801,49 +10801,49 @@
      "marca": "CROMUS",
      "preco": 1.5,
      "img": "produtos/2114.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 2114,
        "cor": "Amarelo",
        "nome": "LAMINADO-AMARELO",
        "img": "produtos/2114.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 2115,
        "cor": "Azul",
        "nome": "LAMINADO-AZUL",
        "img": "produtos/2115.jpg",
-       "saldo": 67
+       "saldo": 66
       },
       {
        "cod": 2116,
        "cor": "Prata",
        "nome": "LAMINADO-PRATA",
        "img": "produtos/2116.jpg",
-       "saldo": 105
+       "saldo": 104
       },
       {
        "cod": 2117,
        "cor": "Rosa",
        "nome": "LAMINADO-ROSA",
        "img": "produtos/2117.jpg",
-       "saldo": 81
+       "saldo": 80
       },
       {
        "cod": 2118,
        "cor": "Verde",
        "nome": "LAMINADO-VERDE",
        "img": "produtos/2118.jpg",
-       "saldo": 80
+       "saldo": 79
       },
       {
        "cod": 2119,
        "cor": "Vermelho",
        "nome": "LAMINADO-VERMELHO",
        "img": "produtos/2119.jpg",
-       "saldo": 66
+       "saldo": 65
       }
      ]
     },
@@ -11276,14 +11276,6 @@
      "preco": 22.9,
      "img": "produtos/7337.jpg",
      "saldo": 6
-    },
-    {
-     "cod": 2163,
-     "nome": "VERGE 180G C/50 BRANCO (CASCA OVO) MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 19.9,
-     "img": "produtos/2163.jpg",
-     "saldo": 1
     },
     {
      "cod": 7335,
@@ -15785,7 +15777,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 101
+       "saldo": 99
       },
       {
        "cod": 4830,
@@ -15841,7 +15833,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 200
+       "saldo": 199
       }
      ]
     },
@@ -19164,14 +19156,14 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 31,
+     "saldo": 30,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 31
+       "saldo": 30
       },
       {
        "cod": 6465,
@@ -22003,7 +21995,7 @@
      "marca": "ISOMAX",
      "preco": 4.9,
      "img": "produtos/7362.jpg",
-     "saldo": 69
+     "saldo": 59
     },
     {
      "cod": 7363,
@@ -24697,7 +24689,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 217
+     "saldo": 207
     },
     {
      "cod": 3651,
@@ -24825,7 +24817,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 112
+     "saldo": 102
     },
     {
      "cod": 10061,
@@ -28693,7 +28685,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/1823.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 6983,
