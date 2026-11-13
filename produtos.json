@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1043,
+     "saldo": 1038,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1043
+       "saldo": 1038
       },
       {
        "cod": 553,
@@ -2552,7 +2552,7 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
-     "saldo": 31,
+     "saldo": 30,
      "controle": [
       "AZUL",
       "CINZA",
@@ -2562,7 +2562,7 @@
      "saldo_cor": {
       "AZUL": 9,
       "CINZA": 8,
-      "ROSA": 6,
+      "ROSA": 5,
       "VERDE-ÁGUA": 8
      }
     },
@@ -3351,14 +3351,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 137,
+     "saldo": 135,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 137
+       "saldo": 135
       },
       {
        "cod": 2657,
@@ -4017,7 +4017,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14522.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 3223,
@@ -5955,7 +5955,7 @@
      "marca": "PAULISTA",
      "preco": 39.9,
      "img": "produtos/11291.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 11294,
@@ -7915,7 +7915,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 14110,
@@ -8401,7 +8401,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.0,
      "img": "produtos/3318.jpg",
-     "saldo": 78
+     "saldo": 77
     },
     {
      "cod": 14601,
@@ -8793,7 +8793,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 6521,
@@ -8911,7 +8911,7 @@
      "marca": "JOCAR",
      "preco": 29.9,
      "img": "produtos/1520.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 1522,
@@ -9550,7 +9550,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 130
+     "saldo": 129
     },
     {
      "cod": 6632,
@@ -9746,7 +9746,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 6612,
@@ -9952,7 +9952,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1981.jpg",
-     "saldo": 70
+     "saldo": 72
     },
     {
      "cod": 4320,
@@ -9960,7 +9960,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 93
+     "saldo": 91
     },
     {
      "cod": 2283,
@@ -10370,21 +10370,21 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2032.jpg",
-     "saldo": 216,
+     "saldo": 215,
      "cores": [
       {
        "cod": 2032,
        "cor": "Amarela",
        "nome": "CARTOLINA-AMARELA",
        "img": "produtos/2032.jpg",
-       "saldo": 216
+       "saldo": 215
       },
       {
        "cod": 2033,
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 109
+       "saldo": 108
       },
       {
        "cod": 2034,
@@ -10398,7 +10398,7 @@
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 83
+       "saldo": 82
       },
       {
        "cod": 2036,
@@ -10436,7 +10436,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 94
+       "saldo": 91
       },
       {
        "cod": 758,
@@ -12867,7 +12867,7 @@
      "marca": "GRESPAN",
      "preco": 22.9,
      "img": "produtos/7435.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 7429,
@@ -18903,7 +18903,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 14261,
@@ -20196,7 +20196,7 @@
      "marca": "DAC",
      "preco": 4.9,
      "img": "produtos/11943.jpg",
-     "saldo": 82
+     "saldo": 81
     },
     {
      "cod": 2431,
@@ -20236,7 +20236,7 @@
      "marca": "",
      "preco": 1.4,
      "img": "produtos/2577.jpg",
-     "saldo": 906
+     "saldo": 905
     },
     {
      "cod": 988,
@@ -21190,7 +21190,7 @@
      "marca": "CHIARA",
      "preco": 34.9,
      "img": "produtos/6878.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 14515,
@@ -21236,7 +21236,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 96
+     "saldo": 71
     },
     {
      "cod": 944,
@@ -21252,7 +21252,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2827
+     "saldo": 2825
     },
     {
      "cod": 14414,
@@ -21276,7 +21276,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 93
+     "saldo": 92
     },
     {
      "cod": 949,
@@ -21650,7 +21650,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 701
+     "saldo": 699
     },
     {
      "cod": 4617,
@@ -21666,7 +21666,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 379
+     "saldo": 375
     },
     {
      "cod": 177,
@@ -21682,7 +21682,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 149
+     "saldo": 148
     },
     {
      "cod": 179,
@@ -22066,7 +22066,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 167
+     "saldo": 166
     },
     {
      "cod": 770,
@@ -22210,7 +22210,7 @@
      "marca": "COPOPLAST",
      "preco": 31.9,
      "img": "produtos/1569.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 5937,
@@ -22394,7 +22394,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 4733,
@@ -22472,7 +22472,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 401
+     "saldo": 400
     },
     {
      "cod": 14417,
@@ -22646,7 +22646,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11826.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 11827,
@@ -22750,7 +22750,7 @@
      "marca": "STRAWPLAST",
      "preco": 16.9,
      "img": "produtos/3635.jpg",
-     "saldo": 43
+     "saldo": 41
     },
     {
      "cod": 7325,
@@ -23790,7 +23790,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 357
+     "saldo": 356
     },
     {
      "cod": 3951,
@@ -24068,7 +24068,7 @@
      "marca": "MELLO",
      "preco": 47.9,
      "img": "produtos/1852.jpg",
-     "saldo": 6
+     "saldo": 1
     },
     {
      "cod": 1855,
@@ -25040,7 +25040,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/2768.jpg",
-     "saldo": 348
+     "saldo": 345
     },
     {
      "cod": 2769,
@@ -25096,7 +25096,7 @@
      "marca": "KROMASA",
      "preco": 13.9,
      "img": "produtos/4943.jpg",
-     "saldo": 250
+     "saldo": 249
     },
     {
      "cod": 4944,
@@ -25104,7 +25104,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/4944.jpg",
-     "saldo": 216
+     "saldo": 215
     },
     {
      "cod": 4945,
@@ -25120,7 +25120,7 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg",
-     "saldo": 206
+     "saldo": 204
     },
     {
      "cod": 4947,
@@ -25128,7 +25128,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 193
+     "saldo": 192
     },
     {
      "cod": 4948,
@@ -25136,7 +25136,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 27
+     "saldo": 25
     },
     {
      "cod": 2806,
@@ -25272,7 +25272,7 @@
      "marca": "",
      "preco": 2.2,
      "img": "produtos/7175.jpg",
-     "saldo": 150
+     "saldo": 140
     },
     {
      "cod": 7172,
@@ -25406,7 +25406,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 478
+     "saldo": 477
     },
     {
      "cod": 2838,
@@ -25414,7 +25414,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 446
+     "saldo": 445
     },
     {
      "cod": 2839,
@@ -25858,7 +25858,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 164
+     "saldo": 162
     },
     {
      "cod": 6965,
@@ -25874,7 +25874,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 312
+     "saldo": 309
     },
     {
      "cod": 6966,
@@ -25898,7 +25898,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 99
+     "saldo": 96
     },
     {
      "cod": 6857,
@@ -26120,7 +26120,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 185
+     "saldo": 184
     },
     {
      "cod": 4314,
@@ -26356,7 +26356,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 123
+     "saldo": 122
     },
     {
      "cod": 3427,
@@ -26682,7 +26682,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10104.jpg",
-     "saldo": 137
+     "saldo": 136
     },
     {
      "cod": 2804,
@@ -26738,7 +26738,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 42
+     "saldo": 40
     },
     {
      "cod": 6860,
@@ -28124,7 +28124,7 @@
      "marca": "PRIMUS",
      "preco": 39.9,
      "img": "produtos/1160.jpg",
-     "saldo": 25
+     "saldo": 21
     },
     {
      "cod": 1197,
@@ -28180,7 +28180,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 513
+     "saldo": 512
     },
     {
      "cod": 6324,
@@ -28762,7 +28762,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 664
+     "saldo": 658
     },
     {
      "cod": 1786,
@@ -31994,7 +31994,7 @@
      "marca": "MAXI PLAST",
      "preco": 12.5,
      "img": "produtos/3728.jpg",
-     "saldo": 114
+     "saldo": 11
     },
     {
      "cod": 670,
