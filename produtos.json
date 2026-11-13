@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1017,
+     "saldo": 965,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1017
+       "saldo": 965
       },
       {
        "cod": 553,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 810,
+     "saldo": 806,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 810
+       "saldo": 806
       },
       {
        "cod": 556,
@@ -1530,7 +1530,7 @@
      "marca": "CIS",
      "preco": 15.9,
      "img": "produtos/10612.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 13054,
@@ -3327,7 +3327,7 @@
        "cor": "Preto",
        "nome": "RETRO 1.0 PILOT-PRETO",
        "img": "produtos/2653.jpg",
-       "saldo": 48
+       "saldo": 42
       },
       {
        "cod": 2654,
@@ -3365,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 70
+       "saldo": 64
       },
       {
        "cod": 2658,
@@ -4287,7 +4287,7 @@
      "marca": "TILIBRA",
      "preco": 89.9,
      "img": "produtos/7929.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 4955,
@@ -4295,7 +4295,7 @@
      "marca": "TILIBRA",
      "preco": 89.9,
      "img": "produtos/4955.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 14274,
@@ -5747,7 +5747,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13203.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 11421,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1367
+     "saldo": 1352
     },
     {
      "cod": 4389,
@@ -10864,6 +10864,14 @@
      "saldo": 541
     },
     {
+     "cod": 3580,
+     "nome": "PAPEL 60KG A3 C/20FL-GRIFFE",
+     "marca": "",
+     "preco": 15.0,
+     "img": "produtos/3580.jpg",
+     "saldo": 50
+    },
+    {
      "cod": 6844,
      "nome": "PAPEL 60KG A3 C/50FL-GRIFFE",
      "marca": "MINASPEL",
@@ -10885,7 +10893,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 133
+     "saldo": 733
     },
     {
      "cod": 5082,
@@ -10925,7 +10933,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 330
+     "saldo": 328
     },
     {
      "cod": 2007,
@@ -10990,6 +10998,14 @@
      "saldo": 16
     },
     {
+     "cod": 3340,
+     "nome": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 8.9,
+     "img": "produtos/3340.jpg",
+     "saldo": 50
+    },
+    {
      "cod": 6495,
      "nome": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -11035,7 +11051,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 6667,
@@ -11043,7 +11059,7 @@
      "marca": "GRIFFE",
      "preco": 13.9,
      "img": "produtos/6667.jpg",
-     "saldo": 61
+     "saldo": 111
     },
     {
      "cod": 11515,
@@ -15692,7 +15708,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
-     "saldo": 237,
+     "saldo": 236,
      "controle": [
       "AZUL",
       "ROSA",
@@ -15701,7 +15717,7 @@
      ],
      "saldo_cor": {
       "AZUL": 80,
-      "ROSA": 79,
+      "ROSA": 78,
       "ROXO": 39,
       "VERDE": 39
      }
@@ -18401,7 +18417,7 @@
        "cor": "Verde",
        "nome": "ARQUIVO MORTO OFICIO-VERDE",
        "img": "produtos/77.jpg",
-       "saldo": 233
+       "saldo": 232
       },
       {
        "cod": 5171,
@@ -19947,7 +19963,7 @@
      "marca": "FOXLUX",
      "preco": 12.9,
      "img": "produtos/6962.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 6961,
@@ -21643,7 +21659,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 374
+     "saldo": 370
     },
     {
      "cod": 177,
@@ -22275,7 +22291,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 99
+     "saldo": 97
     },
     {
      "cod": 2937,
@@ -22283,7 +22299,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 532
+     "saldo": 528
     },
     {
      "cod": 4146,
@@ -22299,7 +22315,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 453
+     "saldo": 451
     },
     {
      "cod": 3887,
@@ -23045,7 +23061,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1356.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 10971,
@@ -23569,7 +23585,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/14664.jpg",
-     "saldo": 15
+     "saldo": 8
     },
     {
      "cod": 14666,
@@ -23799,7 +23815,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 167
+     "saldo": 107
     },
     {
      "cod": 14698,
@@ -24219,7 +24235,7 @@
      "marca": "INOVEN",
      "preco": 6.9,
      "img": "produtos/11675.jpg",
-     "saldo": 30
+     "saldo": 23
     },
     {
      "cod": 11676,
@@ -24969,7 +24985,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 63
+     "saldo": 61
     },
     {
      "cod": 13863,
@@ -25391,7 +25407,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 474
+     "saldo": 469
     },
     {
      "cod": 2838,
@@ -25645,7 +25661,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2466
+     "saldo": 2461
     },
     {
      "cod": 6821,
@@ -25851,7 +25867,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 162
+     "saldo": 160
     },
     {
      "cod": 6965,
@@ -26191,7 +26207,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1089
+     "saldo": 1085
     },
     {
      "cod": 6646,
@@ -26627,7 +26643,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/3675.jpg",
-     "saldo": 111
+     "saldo": 110
     },
     {
      "cod": 2802,
@@ -28077,7 +28093,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 291
+     "saldo": 286
     },
     {
      "cod": 1155,
@@ -29001,7 +29017,7 @@
      "marca": "NOAH PAPER",
      "preco": 107.9,
      "img": "produtos/12118.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 14357,
