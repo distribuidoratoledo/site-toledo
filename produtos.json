@@ -451,7 +451,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 88
+       "saldo": 87
       },
       {
        "cod": 566,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1406
+     "saldo": 1405
     },
     {
      "cod": 4389,
@@ -9714,7 +9714,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 3911,
@@ -15456,7 +15456,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/1144.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 7200,
@@ -22355,7 +22355,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 5005,
@@ -23641,7 +23641,7 @@
      "marca": "SANTECK",
      "preco": 7.9,
      "img": "produtos/12122.jpg",
-     "saldo": 39
+     "saldo": 34
     },
     {
      "cod": 12123,
@@ -23649,7 +23649,7 @@
      "marca": "SANTECK",
      "preco": 12.9,
      "img": "produtos/12123.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 12124,
@@ -23657,7 +23657,7 @@
      "marca": "SANTECK",
      "preco": 21.9,
      "img": "produtos/12124.jpg",
-     "saldo": 6
+     "saldo": 3
     },
     {
      "cod": 12125,
@@ -25257,7 +25257,7 @@
      "marca": "",
      "preco": 2.2,
      "img": "produtos/7175.jpg",
-     "saldo": 140
+     "saldo": 135
     },
     {
      "cod": 7172,
@@ -25351,7 +25351,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 956
+     "saldo": 936
     },
     {
      "cod": 10972,
@@ -25653,7 +25653,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 907
+     "saldo": 897
     },
     {
      "cod": 6855,
@@ -25811,7 +25811,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 140
+     "saldo": 138
     },
     {
      "cod": 13853,
@@ -25899,7 +25899,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 8974
+     "saldo": 8968
     },
     {
      "cod": 11788,
@@ -26255,7 +26255,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1200
+     "saldo": 1170
     },
     {
      "cod": 236,
@@ -26507,7 +26507,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 429
+     "saldo": 424
     },
     {
      "cod": 2762,
@@ -28645,7 +28645,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 96
+     "saldo": 93
     },
     {
      "cod": 1495,
@@ -28843,7 +28843,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 8295,
@@ -28883,7 +28883,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/8296.jpg",
-     "saldo": 15
+     "saldo": 13
     },
     {
      "cod": 10989,
@@ -30357,7 +30357,7 @@
      "marca": "MAPED",
      "preco": 11.9,
      "img": "produtos/11550.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 7886,
@@ -31220,14 +31220,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 335,
+     "saldo": 323,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 335
+       "saldo": 323
       },
       {
        "cod": 6051,
