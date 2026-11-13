@@ -5812,7 +5812,7 @@
      "marca": "SD",
      "preco": 34.9,
      "img": "produtos/13099.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 5734,
@@ -6072,7 +6072,7 @@
      "marca": "SD",
      "preco": 45.9,
      "img": "produtos/13098.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 7767,
@@ -7044,14 +7044,6 @@
      "preco": 18.9,
      "img": "produtos/5882.jpg",
      "saldo": 40
-    },
-    {
-     "cod": 10491,
-     "nome": "CADERNO CD 96F-SAPECA KIDS (F)",
-     "marca": "TILIBRA",
-     "preco": 18.9,
-     "img": "produtos/10491.jpg",
-     "saldo": 1
     },
     {
      "cod": 8889,
@@ -9142,7 +9134,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1308
+     "saldo": 1303
     },
     {
      "cod": 4389,
@@ -10553,7 +10545,7 @@
      "marca": "CIS",
      "preco": 1.0,
      "img": "produtos/674.jpg",
-     "saldo": 491
+     "saldo": 486
     },
     {
      "cod": 738,
@@ -19269,7 +19261,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 126
+     "saldo": 125
     },
     {
      "cod": 14261,
@@ -20996,21 +20988,21 @@
      "marca": "LANTECOR",
      "preco": 1.0,
      "img": "produtos/1475.jpg",
-     "saldo": 35,
+     "saldo": 34,
      "cores": [
       {
        "cod": 1475,
        "cor": "Azul Escuro",
        "nome": "GLITER 3GR-AZUL ESCURO",
        "img": "produtos/1475.jpg",
-       "saldo": 35
+       "saldo": 34
       },
       {
        "cod": 10923,
        "cor": "Azul Turquesa",
        "nome": "GLITER 3GR-AZUL TURQUESA",
        "img": "produtos/10923.jpg",
-       "saldo": 90
+       "saldo": 89
       },
       {
        "cod": 10285,
@@ -21024,7 +21016,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 21
+       "saldo": 20
       },
       {
        "cod": 1478,
@@ -21066,7 +21058,7 @@
        "cor": "Vermelho",
        "nome": "GLITER 3GR-VERMELHO",
        "img": "produtos/1484.jpg",
-       "saldo": 31
+       "saldo": 28
       }
      ]
     },
@@ -22664,7 +22656,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 96
+     "saldo": 94
     },
     {
      "cod": 2937,
@@ -22672,7 +22664,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 527
+     "saldo": 525
     },
     {
      "cod": 4146,
@@ -22680,7 +22672,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 2491,
@@ -22696,7 +22688,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 2489,
@@ -25732,7 +25724,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 931
+     "saldo": 930
     },
     {
      "cod": 10972,
@@ -26112,7 +26104,7 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg",
-     "saldo": 2
+     "saldo": 32
     },
     {
      "cod": 243,
@@ -26120,7 +26112,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 24
+     "saldo": 124
     },
     {
      "cod": 244,
@@ -26128,7 +26120,7 @@
      "marca": "CEPELMA",
      "preco": 49.9,
      "img": "produtos/244.jpg",
-     "saldo": 68
+     "saldo": 108
     },
     {
      "cod": 13858,
@@ -26320,7 +26312,7 @@
      "marca": "CEPELMA",
      "preco": 14.9,
      "img": "produtos/2084.jpg",
-     "saldo": 4
+     "saldo": 54
     },
     {
      "cod": 2112,
@@ -28506,7 +28498,7 @@
      "marca": "PRIMUS",
      "preco": 19.9,
      "img": "produtos/1197.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 1195,
