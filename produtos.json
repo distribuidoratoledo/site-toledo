@@ -796,6 +796,13 @@
        "saldo": 24
       },
       {
+       "cod": 14469,
+       "cor": "Cinza",
+       "nome": "CANETA GEL/CONVITE MOLIN-CINZA",
+       "img": "produtos/14469.jpg",
+       "saldo": 24
+      },
+      {
        "cod": 573,
        "cor": "Ouro",
        "nome": "CANETA GEL/CONVITE MOLIN-OURO",
@@ -1239,6 +1246,14 @@
      "preco": 10.9,
      "img": "produtos/12295.jpg",
      "saldo": 9
+    },
+    {
+     "cod": 14481,
+     "nome": "CANETA MOLIN LOVE DAISY-PRETA",
+     "marca": "MOLIN",
+     "preco": 5.9,
+     "img": "produtos/14481.jpg",
+     "saldo": 36
     },
     {
      "cod": 14476,
@@ -3860,6 +3875,26 @@
      "saldo": 2
     },
     {
+     "cod": 14689,
+     "nome": "LAPISEIRA 2.0-MOLIN ERGO CORES",
+     "marca": "MOLIN",
+     "preco": 4.9,
+     "img": "produtos/14689.jpg",
+     "saldo": 24,
+     "controle": [
+      "AMARELO",
+      "AZUL",
+      "ROSA",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "AMARELO": 6,
+      "AZUL": 6,
+      "ROSA": 6,
+      "VERDE-ÁGUA": 6
+     }
+    },
+    {
      "cod": 14605,
      "nome": "LAPISEIRA 2.0-TRIS COLLEGE TRIO CORES",
      "marca": "TRIS",
@@ -4262,6 +4297,14 @@
      "saldo": 384
     },
     {
+     "cod": 14680,
+     "nome": "BORRACHA MOLIN SPIDER MAN-CORES",
+     "marca": "MOLIN",
+     "preco": 3.9,
+     "img": "produtos/14680.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 293,
      "nome": "BORRACHA PONTEIRA",
      "marca": "MERCUR",
@@ -4388,6 +4431,14 @@
       "AZUL": 16,
       "VERMELHO": 16
      }
+    },
+    {
+     "cod": 14473,
+     "nome": "CANETA BORRACHA MOLIN MICKEY",
+     "marca": "MOLIN",
+     "preco": 12.9,
+     "img": "produtos/14473.jpg",
+     "saldo": 12
     },
     {
      "cod": 7915,
@@ -8008,6 +8059,22 @@
      "preco": 15.9,
      "img": "produtos/12346.jpg",
      "saldo": 7
+    },
+    {
+     "cod": 14686,
+     "nome": "KIT OFFICE MOLIN FLOR DE LOTUS-LILAS",
+     "marca": "MOLIN",
+     "preco": 29.9,
+     "img": "produtos/14686.jpg",
+     "saldo": 5
+    },
+    {
+     "cod": 14687,
+     "nome": "KIT OFFICE MOLIN FLOR DE LOTUS-PINK",
+     "marca": "MOLIN",
+     "preco": 27.9,
+     "img": "produtos/14687.jpg",
+     "saldo": 2
     },
     {
      "cod": 12219,
@@ -15995,6 +16062,14 @@
      "saldo": 3
     },
     {
+     "cod": 5359,
+     "nome": "EVA DECORADO-ZEBRA",
+     "marca": "MAKE+",
+     "preco": 5.5,
+     "img": "produtos/5359.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 5372,
      "nome": "EVA ESPECIAL 3D-TIGRE",
      "marca": "MAKE+",
@@ -16999,6 +17074,14 @@
      "preco": 113.9,
      "img": "produtos/12893.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14684,
+     "nome": "NECESSAIRE MOLIN LOVE DAISY",
+     "marca": "MOLIN",
+     "preco": 29.9,
+     "img": "produtos/14684.jpg",
+     "saldo": 4
     },
     {
      "cod": 13331,
@@ -22317,7 +22400,7 @@
      "marca": "ISOMAX",
      "preco": 4.9,
      "img": "produtos/7362.jpg",
-     "saldo": 55
+     "saldo": 30
     },
     {
      "cod": 7363,
@@ -24517,7 +24600,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/4668.jpg",
-     "saldo": 63
+     "saldo": 61
     },
     {
      "cod": 654,
@@ -25443,7 +25526,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 683
+     "saldo": 681
     },
     {
      "cod": 2808,
@@ -28273,7 +28356,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 587
+     "saldo": 579
     },
     {
      "cod": 6912,
@@ -28281,7 +28364,7 @@
      "marca": "GERSELE",
      "preco": 3.8,
      "img": "produtos/6912.jpg",
-     "saldo": 308
+     "saldo": 312
     },
     {
      "cod": 10423,
@@ -31592,6 +31675,24 @@
      "preco": 9.9,
      "img": "produtos/14672.jpg",
      "saldo": 24
+    },
+    {
+     "cod": 14691,
+     "nome": "MARCA TEXTO MOLIN LOVE NEON-CORES",
+     "marca": "MOLIN",
+     "preco": 8.9,
+     "img": "produtos/14691.jpg",
+     "saldo": 36,
+     "controle": [
+      "AMARELO",
+      "LARANJA",
+      "ROSA"
+     ],
+     "saldo_cor": {
+      "AMARELO": 18,
+      "LARANJA": 9,
+      "ROSA": 9
+     }
     },
     {
      "cod": 1829,
