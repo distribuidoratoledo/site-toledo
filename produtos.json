@@ -458,7 +458,7 @@
        "cor": "Rosa",
        "nome": "CANETA CIS SPIRO-ROSA",
        "img": "produtos/566.jpg",
-       "saldo": 142
+       "saldo": 140
       },
       {
        "cod": 567,
@@ -923,14 +923,14 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/14598.jpg",
-     "saldo": 36,
+     "saldo": 35,
      "controle": [
       "AZUL",
       "PRETO"
      ],
      "saldo_cor": {
       "AZUL": 18,
-      "PRETO": 18
+      "PRETO": 17
      }
     },
     {
@@ -2191,7 +2191,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10475.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 10636,
@@ -3125,14 +3125,14 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg",
-     "saldo": 73,
+     "saldo": 72,
      "cores": [
       {
        "cod": 2338,
        "cor": "Azul",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
        "img": "produtos/2338.jpg",
-       "saldo": 73
+       "saldo": 72
       },
       {
        "cod": 2339,
@@ -3146,7 +3146,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-VERMELHO",
        "img": "produtos/9972.jpg",
-       "saldo": 189
+       "saldo": 188
       }
      ]
     },
@@ -8830,7 +8830,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/12735.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 3363,
@@ -9094,7 +9094,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 6521,
@@ -9480,14 +9480,14 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/14603.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "LILAS",
       "ROSA",
       "VERDE"
      ],
      "saldo_cor": {
-      "LILAS": 8,
+      "LILAS": 7,
       "ROSA": 8,
       "VERDE": 8
      }
@@ -10031,7 +10031,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 3911,
@@ -10365,7 +10365,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 88
+     "saldo": 85
     },
     {
      "cod": 2604,
@@ -11250,7 +11250,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 327
+     "saldo": 325
     },
     {
      "cod": 2007,
@@ -11258,14 +11258,14 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 31,
+     "saldo": 30,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 31
+       "saldo": 30
       },
       {
        "cod": 3975,
@@ -15444,7 +15444,7 @@
      "marca": "POLIBRAS",
      "preco": 29.9,
      "img": "produtos/2264.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 2265,
@@ -15580,7 +15580,7 @@
      "marca": "POLIBRAS",
      "preco": 4.9,
      "img": "produtos/2278.jpg",
-     "saldo": 132
+     "saldo": 120
     },
     {
      "cod": 2280,
@@ -18279,7 +18279,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1044.jpg",
-     "saldo": 25455
+     "saldo": 25440
     },
     {
      "cod": 1048,
@@ -18367,7 +18367,7 @@
      "marca": "SCRITY",
      "preco": 0.3,
      "img": "produtos/1042.jpg",
-     "saldo": 5520
+     "saldo": 5370
     },
     {
      "cod": 1045,
@@ -19066,7 +19066,7 @@
        "cor": "Rosa",
        "nome": "POST-IT 76X76 C/100 ROSA",
        "img": "produtos/6621.jpg",
-       "saldo": 61
+       "saldo": 60
       },
       {
        "cod": 6622,
@@ -21610,7 +21610,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 944,
@@ -22838,7 +22838,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 671
+     "saldo": 668
     },
     {
      "cod": 880,
@@ -23736,7 +23736,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 248
+     "saldo": 238
     },
     {
      "cod": 2552,
@@ -23744,7 +23744,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 205
+     "saldo": 185
     },
     {
      "cod": 3898,
@@ -24188,7 +24188,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 221
+     "saldo": 141
     },
     {
      "cod": 11295,
@@ -24600,7 +24600,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/4668.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 654,
@@ -24640,7 +24640,7 @@
      "marca": "M. E MOTA",
      "preco": 6.9,
      "img": "produtos/1113.jpg",
-     "saldo": 79
+     "saldo": 77
     },
     {
      "cod": 7108,
@@ -25294,7 +25294,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 8160,
@@ -25374,7 +25374,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 296
+     "saldo": 295
     },
     {
      "cod": 14426,
@@ -25630,7 +25630,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/7178.jpg",
-     "saldo": 104
+     "saldo": 54
     },
     {
      "cod": 7176,
@@ -26034,7 +26034,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2456
+     "saldo": 2446
     },
     {
      "cod": 6821,
@@ -26042,7 +26042,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 877
+     "saldo": 867
     },
     {
      "cod": 6855,
@@ -26050,7 +26050,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 419
+     "saldo": 409
     },
     {
      "cod": 2875,
@@ -26058,7 +26058,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 799
+     "saldo": 784
     },
     {
      "cod": 6825,
@@ -26336,7 +26336,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 328
+     "saldo": 313
     }
    ]
   },
@@ -26494,7 +26494,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2370
+     "saldo": 2368
     },
     {
      "cod": 2896,
@@ -26746,7 +26746,7 @@
      "marca": "DISPAFILM",
      "preco": 98.9,
      "img": "produtos/3427.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 1282,
@@ -26880,7 +26880,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 879
+     "saldo": 878
     },
     {
      "cod": 2761,
@@ -28506,7 +28506,7 @@
      "marca": "PRIMUS",
      "preco": 39.9,
      "img": "produtos/1160.jpg",
-     "saldo": 21
+     "saldo": 16
     },
     {
      "cod": 1197,
@@ -29296,7 +29296,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 320
+     "saldo": 319
     },
     {
      "cod": 7275,
@@ -29398,7 +29398,7 @@
      "marca": "SULLEG",
      "preco": 7.9,
      "img": "produtos/14357.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 2154,
@@ -31609,14 +31609,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 319,
+     "saldo": 316,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 319
+       "saldo": 316
       },
       {
        "cod": 6051,
