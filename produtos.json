@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 874,
+     "saldo": 873,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 874
+       "saldo": 873
       },
       {
        "cod": 570,
@@ -8599,7 +8599,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4241
+     "saldo": 4240
     },
     {
      "cod": 14619,
@@ -8699,7 +8699,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 564
+     "saldo": 554
     },
     {
      "cod": 1293,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1370
+     "saldo": 1367
     },
     {
      "cod": 4389,
@@ -10375,7 +10375,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 226
+       "saldo": 225
       },
       {
        "cod": 2035,
@@ -10682,7 +10682,7 @@
        "cor": "Marrom",
        "nome": "CREPOM MARROM",
        "img": "produtos/4787.jpg",
-       "saldo": 21
+       "saldo": 19
       },
       {
        "cod": 6733,
@@ -10696,7 +10696,7 @@
        "cor": "Preto",
        "nome": "CREPOM PRETO",
        "img": "produtos/4788.jpg",
-       "saldo": 54
+       "saldo": 52
       },
       {
        "cod": 7379,
@@ -10917,7 +10917,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 340
+     "saldo": 330
     },
     {
      "cod": 2007,
@@ -11011,7 +11011,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 221
+     "saldo": 220
     },
     {
      "cod": 4344,
@@ -11617,7 +11617,7 @@
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 48
+       "saldo": 47
       },
       {
        "cod": 12686,
@@ -17986,7 +17986,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7351
+     "saldo": 7340
     },
     {
      "cod": 1054,
@@ -21175,7 +21175,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 31
+     "saldo": 30
     }
    ]
   },
@@ -21205,7 +21205,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 58
+     "saldo": 56
     },
     {
      "cod": 944,
@@ -22163,7 +22163,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 267
+     "saldo": 264
     },
     {
      "cod": 3731,
@@ -22275,7 +22275,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 533
+     "saldo": 532
     },
     {
      "cod": 4146,
@@ -22433,7 +22433,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 687
+     "saldo": 686
     },
     {
      "cod": 880,
@@ -22489,7 +22489,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 134
+     "saldo": 133
     },
     {
      "cod": 4277,
@@ -23323,7 +23323,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1071
+     "saldo": 1065
     },
     {
      "cod": 3857,
@@ -23775,7 +23775,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 2476
+     "saldo": 2475
     },
     {
      "cod": 1553,
@@ -24929,7 +24929,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/3652.jpg",
-     "saldo": 74
+     "saldo": 71
     },
     {
      "cod": 2733,
@@ -25121,7 +25121,7 @@
      "marca": "KROMASA",
      "preco": 1.5,
      "img": "produtos/2806.jpg",
-     "saldo": 1979
+     "saldo": 1969
     },
     {
      "cod": 2807,
@@ -25351,7 +25351,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 468
+     "saldo": 467
     },
     {
      "cod": 2826,
@@ -25383,7 +25383,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 475
+     "saldo": 474
     },
     {
      "cod": 2838,
@@ -26183,7 +26183,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1094
+     "saldo": 1089
     },
     {
      "cod": 6646,
@@ -26635,7 +26635,7 @@
      "marca": "CHIARA",
      "preco": 52.9,
      "img": "produtos/3676.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 7013,
@@ -26675,7 +26675,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/2804.jpg",
-     "saldo": 137
+     "saldo": 136
     },
     {
      "cod": 2805,
