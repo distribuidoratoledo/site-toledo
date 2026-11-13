@@ -465,7 +465,7 @@
        "cor": "Verde",
        "nome": "CANETA CIS SPIRO-VERDE",
        "img": "produtos/567.jpg",
-       "saldo": 62
+       "saldo": 61
       },
       {
        "cod": 568,
@@ -659,7 +659,7 @@
      "marca": "C. DE BALC",
      "preco": 29.9,
      "img": "produtos/582.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 581,
@@ -8526,7 +8526,7 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/832.jpg",
-     "saldo": 127
+     "saldo": 126
     },
     {
      "cod": 7905,
@@ -9008,7 +9008,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 554
+     "saldo": 548
     },
     {
      "cod": 1293,
@@ -9324,7 +9324,7 @@
      "marca": "THOMPSON",
      "preco": 69.9,
      "img": "produtos/1528.jpg",
-     "saldo": 10
+     "saldo": 9
     }
    ]
   },
@@ -9951,7 +9951,7 @@
      "marca": "ACC",
      "preco": 16.9,
      "img": "produtos/5156.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 4050,
@@ -9959,7 +9959,7 @@
      "marca": "THOMPSON",
      "preco": 21.5,
      "img": "produtos/4050.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 1530,
@@ -10769,28 +10769,28 @@
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/2051.jpg",
-     "saldo": 33,
+     "saldo": 32,
      "cores": [
       {
        "cod": 2051,
        "cor": "Amarelo",
        "nome": "COLORSETE A4 C/50 AMARELO",
        "img": "produtos/2051.jpg",
-       "saldo": 33
+       "saldo": 32
       },
       {
        "cod": 2054,
        "cor": "Azul Royal / Azul Escuro",
        "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
        "img": "produtos/2054.jpg",
-       "saldo": 60
+       "saldo": 58
       },
       {
        "cod": 2055,
        "cor": "Laranja",
        "nome": "COLORSETE A4 C/50 LARANJA",
        "img": "produtos/2055.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 4172,
@@ -10818,7 +10818,7 @@
        "cor": "Rosa Claro",
        "nome": "COLORSETE A4 C/50 ROSA CLARO",
        "img": "produtos/2059.jpg",
-       "saldo": 31
+       "saldo": 30
       },
       {
        "cod": 2061,
@@ -10832,21 +10832,21 @@
        "cor": "Verde Bandeira",
        "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
        "img": "produtos/2063.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 2064,
        "cor": "Verde Claro",
        "nome": "COLORSETE A4 C/50 VERDE CLARO",
        "img": "produtos/2064.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 2065,
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 42
+       "saldo": 40
       },
       {
        "cod": 5162,
@@ -10950,14 +10950,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 114,
+     "saldo": 110,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 114
+       "saldo": 110
       },
       {
        "cod": 2069,
@@ -11034,14 +11034,14 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 37
+       "saldo": 33
       },
       {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 241
+       "saldo": 237
       }
      ]
     },
@@ -11250,7 +11250,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 325
+     "saldo": 324
     },
     {
      "cod": 2007,
@@ -11320,7 +11320,7 @@
      "marca": "GRIFFE",
      "preco": 8.9,
      "img": "produtos/3340.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 6495,
@@ -11328,7 +11328,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 58
+     "saldo": 55
     },
     {
      "cod": 11784,
@@ -11352,7 +11352,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 220
+     "saldo": 216
     },
     {
      "cod": 4344,
@@ -11376,7 +11376,7 @@
      "marca": "GRIFFE",
      "preco": 13.9,
      "img": "produtos/6667.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 11515,
@@ -11440,7 +11440,7 @@
      "marca": "MINASPEL",
      "preco": 9.9,
      "img": "produtos/2133.jpg",
-     "saldo": 407
+     "saldo": 406
     },
     {
      "cod": 2134,
@@ -11892,7 +11892,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 154
+     "saldo": 153
     },
     {
      "cod": 11626,
@@ -12014,7 +12014,7 @@
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
        "img": "produtos/3028.jpg",
-       "saldo": 61
+       "saldo": 60
       },
       {
        "cod": 12684,
@@ -12046,7 +12046,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3029.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 3033,
@@ -14529,7 +14529,7 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/6196.jpg",
-     "saldo": 260
+     "saldo": 259
     },
     {
      "cod": 6951,
@@ -16062,14 +16062,6 @@
      "saldo": 3
     },
     {
-     "cod": 5359,
-     "nome": "EVA DECORADO-ZEBRA",
-     "marca": "MAKE+",
-     "preco": 5.5,
-     "img": "produtos/5359.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 5372,
      "nome": "EVA ESPECIAL 3D-TIGRE",
      "marca": "MAKE+",
@@ -16105,56 +16097,56 @@
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 124
+       "saldo": 121
       },
       {
        "cod": 1216,
        "cor": "Azul Escuro",
        "nome": "EVA GLITER-AZUL ESCURO",
        "img": "produtos/1216.jpg",
-       "saldo": 16
+       "saldo": 13
       },
       {
        "cod": 1217,
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 153
+       "saldo": 150
       },
       {
        "cod": 9160,
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 99
+       "saldo": 96
       },
       {
        "cod": 4830,
        "cor": "Lilas",
        "nome": "EVA GLITER-LILAS",
        "img": "produtos/4830.jpg",
-       "saldo": 121
+       "saldo": 118
       },
       {
        "cod": 1219,
        "cor": "Marrom",
        "nome": "EVA GLITER-MARROM",
        "img": "produtos/1219.jpg",
-       "saldo": 18
+       "saldo": 15
       },
       {
        "cod": 1220,
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 196
+       "saldo": 193
       },
       {
        "cod": 1221,
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 182
+       "saldo": 179
       },
       {
        "cod": 1222,
@@ -16168,21 +16160,21 @@
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 117
+       "saldo": 114
       },
       {
        "cod": 5366,
        "cor": "Verde Claro",
        "nome": "EVA GLITER-VERDE CLARO",
        "img": "produtos/5366.jpg",
-       "saldo": 107
+       "saldo": 104
       },
       {
        "cod": 1226,
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 199
+       "saldo": 196
       }
      ]
     },
@@ -16200,7 +16192,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 32
+     "saldo": 29
     },
     {
      "cod": 1228,
@@ -16208,21 +16200,21 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 257,
+     "saldo": 252,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 257
+       "saldo": 252
       },
       {
        "cod": 1230,
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 241
+       "saldo": 236
       },
       {
        "cod": 1231,
@@ -16236,7 +16228,7 @@
        "cor": "Azul Marinho",
        "nome": "EVA LISO-AZUL MARINHO",
        "img": "produtos/6669.jpg",
-       "saldo": 302
+       "saldo": 297
       },
       {
        "cod": 9161,
@@ -16250,42 +16242,42 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 136
+       "saldo": 131
       },
       {
        "cod": 1233,
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 103
+       "saldo": 98
       },
       {
        "cod": 1235,
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 329
+       "saldo": 324
       },
       {
        "cod": 1236,
        "cor": "Lilas",
        "nome": "EVA LISO-LILAS",
        "img": "produtos/1236.jpg",
-       "saldo": 230
+       "saldo": 225
       },
       {
        "cod": 1237,
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 81
+       "saldo": 76
       },
       {
        "cod": 1238,
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 82
+       "saldo": 77
       },
       {
        "cod": 1239,
@@ -16299,35 +16291,35 @@
        "cor": "Rosa Escuro / Pink",
        "nome": "EVA LISO-ROSA ESCURO/PINK",
        "img": "produtos/1240.jpg",
-       "saldo": 210
+       "saldo": 205
       },
       {
        "cod": 4648,
        "cor": "Roxo",
        "nome": "EVA LISO-ROXO",
        "img": "produtos/4648.jpg",
-       "saldo": 199
+       "saldo": 194
       },
       {
        "cod": 4008,
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 205
+       "saldo": 200
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 347
+       "saldo": 342
       },
       {
        "cod": 1244,
        "cor": "Vermelho",
        "nome": "EVA LISO-VERMELHO",
        "img": "produtos/1244.jpg",
-       "saldo": 213
+       "saldo": 208
       }
      ]
     },
@@ -18685,7 +18677,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 349
+     "saldo": 339
     },
     {
      "cod": 13980,
@@ -19245,7 +19237,7 @@
      "marca": "GRAMP LINE",
      "preco": 99.9,
      "img": "produtos/2369.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 8937,
@@ -19269,7 +19261,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg",
-     "saldo": 55
+     "saldo": 53
     },
     {
      "cod": 11832,
@@ -19277,7 +19269,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 127
+     "saldo": 126
     },
     {
      "cod": 14261,
@@ -19293,7 +19285,7 @@
      "marca": "IBEL",
      "preco": 57.9,
      "img": "produtos/11834.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 11831,
@@ -19371,7 +19363,7 @@
      "marca": "BICHO ESPE",
      "preco": 1.5,
      "img": "produtos/14657.jpg",
-     "saldo": 168
+     "saldo": 118
     },
     {
      "cod": 8061,
@@ -19395,7 +19387,7 @@
      "marca": "TODO LIVRO",
      "preco": 5.9,
      "img": "produtos/14663.jpg",
-     "saldo": 64
+     "saldo": 57
     },
     {
      "cod": 14662,
@@ -20074,7 +20066,7 @@
      "marca": "PAIS E FIL",
      "preco": 31.9,
      "img": "produtos/11370.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 11354,
@@ -24212,7 +24204,7 @@
      "marca": "SANTEPEL",
      "preco": 5.9,
      "img": "produtos/1555.jpg",
-     "saldo": 132
+     "saldo": 131
     },
     {
      "cod": 13007,
@@ -25182,7 +25174,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 115
+     "saldo": 114
     },
     {
      "cod": 2720,
@@ -25446,7 +25438,7 @@
      "marca": "KROMASA",
      "preco": 4.9,
      "img": "produtos/4940.jpg",
-     "saldo": 638
+     "saldo": 639
     },
     {
      "cod": 4941,
@@ -25470,7 +25462,7 @@
      "marca": "KROMASA",
      "preco": 13.9,
      "img": "produtos/4943.jpg",
-     "saldo": 249
+     "saldo": 248
     },
     {
      "cod": 4944,
@@ -25826,7 +25818,7 @@
        "cor": "Branca",
        "nome": "SACOLA PH 20X30 C/50-BRANCA",
        "img": "produtos/3669.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 2845,
@@ -26128,7 +26120,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 244,
@@ -26558,7 +26550,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 83
+     "saldo": 82
     }
    ]
   },
@@ -27120,7 +27112,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 6860,
@@ -29066,7 +29058,7 @@
      "marca": "MERCUR",
      "preco": 34.9,
      "img": "produtos/1499.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 14182,
@@ -29144,7 +29136,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 651
+     "saldo": 652
     },
     {
      "cod": 1786,
@@ -29406,7 +29398,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 258
+     "saldo": 257
     },
     {
      "cod": 2152,
@@ -32348,7 +32340,7 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg",
-     "saldo": 1484
+     "saldo": 1459
     },
     {
      "cod": 14579,
