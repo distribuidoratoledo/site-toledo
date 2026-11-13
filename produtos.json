@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1028,
+     "saldo": 1018,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1028
+       "saldo": 1018
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 251
+       "saldo": 250
       }
      ]
     },
@@ -143,21 +143,21 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 811,
+     "saldo": 810,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 811
+       "saldo": 810
       },
       {
        "cod": 556,
        "cor": "Preta",
        "nome": "CANETA BIC FINE PLUS-PRETA",
        "img": "produtos/556.jpg",
-       "saldo": 515
+       "saldo": 514
       },
       {
        "cod": 557,
@@ -1986,7 +1986,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1104
+     "saldo": 1099
     },
     {
      "cod": 1670,
@@ -3893,7 +3893,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1990
+     "saldo": 1988
     },
     {
      "cod": 4341,
@@ -5851,7 +5851,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/12415.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 12777,
@@ -8841,7 +8841,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 714
+     "saldo": 704
     },
     {
      "cod": 1317,
@@ -8887,7 +8887,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 1519,
@@ -9295,7 +9295,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 468
+     "saldo": 467
     },
     {
      "cod": 10030,
@@ -9658,7 +9658,7 @@
      "marca": "ACC",
      "preco": 14.9,
      "img": "produtos/3475.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14356,
@@ -9714,7 +9714,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 3911,
@@ -11011,7 +11011,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 223
+     "saldo": 222
     },
     {
      "cod": 4344,
@@ -11027,7 +11027,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 6667,
@@ -20251,7 +20251,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/1257.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 1258,
@@ -22291,7 +22291,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 44
+     "saldo": 39
     },
     {
      "cod": 2491,
@@ -22307,7 +22307,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 16
+     "saldo": 11
     },
     {
      "cod": 2489,
@@ -22347,7 +22347,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 141
+     "saldo": 136
     },
     {
      "cod": 4129,
@@ -22355,7 +22355,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 126
+     "saldo": 121
     },
     {
      "cod": 5005,
@@ -22949,7 +22949,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 660
+     "saldo": 656
     },
     {
      "cod": 1415,
@@ -24243,7 +24243,7 @@
      "marca": "M. E MOTA",
      "preco": 6.9,
      "img": "produtos/1113.jpg",
-     "saldo": 81
+     "saldo": 79
     },
     {
      "cod": 7108,
@@ -26255,7 +26255,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1230
+     "saldo": 1200
     },
     {
      "cod": 236,
@@ -28685,7 +28685,7 @@
      "marca": "PREMIER",
      "preco": 18.9,
      "img": "produtos/14182.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 1823,
@@ -28843,7 +28843,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 8295,
@@ -29687,7 +29687,7 @@
      "marca": "TIBA",
      "preco": 7.9,
      "img": "produtos/9093.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 3542,
