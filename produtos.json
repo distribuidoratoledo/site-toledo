@@ -1131,6 +1131,14 @@
      "saldo": 3
     },
     {
+     "cod": 14480,
+     "nome": "CANETA MOLIN LOVE BORBOLETAS-PRETA",
+     "marca": "MOLIN",
+     "preco": 8.9,
+     "img": "produtos/14480.jpg",
+     "saldo": 36
+    },
+    {
      "cod": 12295,
      "nome": "CANETA MOLIN LOVE CITY-AZUL",
      "marca": "MOLIN",
@@ -2738,7 +2746,7 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/3800.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 4759,
@@ -2842,7 +2850,7 @@
      "marca": "COMPACTOR",
      "preco": 29.9,
      "img": "produtos/6467.jpg",
-     "saldo": 340
+     "saldo": 339
     },
     {
      "cod": 1582,
@@ -3192,7 +3200,7 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
        "img": "produtos/2347.jpg",
-       "saldo": 39
+       "saldo": 38
       },
       {
        "cod": 2348,
@@ -3389,7 +3397,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 63
+       "saldo": 62
       },
       {
        "cod": 2658,
@@ -3435,7 +3443,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 569
+     "saldo": 568
     },
     {
      "cod": 1507,
@@ -6112,7 +6120,7 @@
      "cod": 12311,
      "nome": "CADERNO ARGOLADO (M) COLEG-MOLIN BORBOLETAS 80F",
      "marca": "MOLIN",
-     "preco": 49.9,
+     "preco": 52.9,
      "img": "produtos/12311.jpg",
      "saldo": 12
     },
@@ -7394,21 +7402,21 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/9320.jpg",
-     "saldo": 43,
+     "saldo": 42,
      "cores": [
       {
        "cod": 9320,
        "cor": "Amarelo",
        "nome": "CADERNO PEQ. CD 96F (AMARELO)",
        "img": "produtos/9320.jpg",
-       "saldo": 43
+       "saldo": 42
       },
       {
        "cod": 9319,
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 80
+       "saldo": 79
       },
       {
        "cod": 12455,
@@ -8193,7 +8201,7 @@
      "marca": "BIC",
      "preco": 5.9,
      "img": "produtos/3965.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 3970,
@@ -8623,7 +8631,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 809
+     "saldo": 808
     },
     {
      "cod": 4438,
@@ -8865,7 +8873,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 315
+     "saldo": 314
     },
     {
      "cod": 1313,
@@ -9630,7 +9638,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 137
+     "saldo": 136
     }
    ]
   },
@@ -9644,7 +9652,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 96
+     "saldo": 94
     }
    ]
   },
@@ -9794,7 +9802,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 54
+     "saldo": 51
     },
     {
      "cod": 3479,
@@ -10072,7 +10080,7 @@
      "marca": "TILIBRA",
      "preco": 4.0,
      "img": "produtos/2602.jpg",
-     "saldo": 67
+     "saldo": 62
     },
     {
      "cod": 2605,
@@ -10416,14 +10424,14 @@
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 108
+       "saldo": 107
       },
       {
        "cod": 2034,
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 225
+       "saldo": 222
       },
       {
        "cod": 2035,
@@ -10981,7 +10989,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 328
+     "saldo": 327
     },
     {
      "cod": 2007,
@@ -10989,14 +10997,14 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 33,
+     "saldo": 32,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 33
+       "saldo": 32
       },
       {
        "cod": 3975,
@@ -15096,7 +15104,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/12934.jpg",
-     "saldo": 151
+     "saldo": 150
     },
     {
      "cod": 12935,
@@ -18482,7 +18490,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 129
+     "saldo": 124
     }
    ]
   },
@@ -18944,7 +18952,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 130
+     "saldo": 129
     },
     {
      "cod": 14261,
@@ -19228,14 +19236,14 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 30,
+     "saldo": 29,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 30
+       "saldo": 29
       },
       {
        "cod": 6465,
@@ -21293,7 +21301,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2795
+     "saldo": 2792
     },
     {
      "cod": 14414,
@@ -23831,7 +23839,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 339
+     "saldo": 338
     },
     {
      "cod": 3951,
@@ -24761,7 +24769,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 207
+     "saldo": 206
     },
     {
      "cod": 3651,
@@ -25415,7 +25423,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 936
+     "saldo": 933
     },
     {
      "cod": 10972,
@@ -25423,7 +25431,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 467
+     "saldo": 463
     },
     {
      "cod": 2826,
@@ -25463,7 +25471,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 442
+     "saldo": 441
     },
     {
      "cod": 2839,
@@ -26185,7 +26193,7 @@
      "marca": "GERAPLAST",
      "preco": 96.9,
      "img": "produtos/4314.jpg",
-     "saldo": 142
+     "saldo": 141
     },
     {
      "cod": 2897,
@@ -26413,7 +26421,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 3427,
@@ -28197,7 +28205,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 1198,
@@ -29105,7 +29113,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 380
+     "saldo": 370
     },
     {
      "cod": 2157,
