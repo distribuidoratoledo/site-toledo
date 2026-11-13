@@ -1994,7 +1994,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 63
+     "saldo": 38
     },
     {
      "cod": 13799,
@@ -3893,7 +3893,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1988
+     "saldo": 1986
     },
     {
      "cod": 4341,
@@ -6288,7 +6288,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 64
+     "saldo": 63
     },
     {
      "cod": 6295,
@@ -6854,7 +6854,7 @@
      "marca": "TILIBRA",
      "preco": 19.9,
      "img": "produtos/415.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 8385,
@@ -7987,7 +7987,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3443.jpg",
-     "saldo": 82
+     "saldo": 81
     },
     {
      "cod": 2664,
@@ -8707,7 +8707,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 361
+     "saldo": 360
     },
     {
      "cod": 1294,
@@ -10595,7 +10595,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 89
+       "saldo": 87
       },
       {
        "cod": 2045,
@@ -11011,7 +11011,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 222
+     "saldo": 221
     },
     {
      "cod": 4344,
@@ -12136,7 +12136,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/2954.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 2955,
@@ -15764,7 +15764,7 @@
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 129
+       "saldo": 124
       },
       {
        "cod": 1216,
@@ -15867,14 +15867,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 277,
+     "saldo": 257,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 277
+       "saldo": 257
       },
       {
        "cod": 1230,
@@ -15902,7 +15902,7 @@
        "cor": "Azul Royal",
        "nome": "EVA LISO-AZUL ROYAL",
        "img": "produtos/9161.jpg",
-       "saldo": 77
+       "saldo": 57
       },
       {
        "cod": 1232,
@@ -15916,7 +15916,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 123
+       "saldo": 103
       },
       {
        "cod": 1235,
@@ -16004,7 +16004,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3058.jpg",
-     "saldo": 646
+     "saldo": 636
     },
     {
      "cod": 7000,
@@ -17986,7 +17986,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 14539
+     "saldo": 14289
     },
     {
      "cod": 1051,
@@ -19308,7 +19308,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14433.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -19319,7 +19319,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 4,
-      "AZUL": 4,
+      "AZUL": 3,
       "PRETO": 4,
       "ROXO": 4,
       "VERDE": 4,
@@ -19388,7 +19388,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/12731.jpg",
-     "saldo": 73
+     "saldo": 72
     },
     {
      "cod": 3539,
@@ -21229,7 +21229,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2820
+     "saldo": 2795
     },
     {
      "cod": 14414,
@@ -21261,7 +21261,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 964
+     "saldo": 944
     },
     {
      "cod": 14407,
@@ -22171,7 +22171,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 269
+     "saldo": 267
     },
     {
      "cod": 3731,
@@ -22283,7 +22283,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 534
+     "saldo": 533
     },
     {
      "cod": 4146,
@@ -22299,7 +22299,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 454
+     "saldo": 453
     },
     {
      "cod": 3887,
@@ -22615,7 +22615,7 @@
      "marca": "RIOPLASTIC",
      "preco": 15.9,
      "img": "produtos/2499.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 11826,
@@ -22663,7 +22663,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 241
+     "saldo": 240
     },
     {
      "cod": 2516,
@@ -22767,7 +22767,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 11690,
@@ -22775,7 +22775,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 2524,
@@ -23609,7 +23609,7 @@
      "marca": "SANTECK",
      "preco": 4.9,
      "img": "produtos/7070.jpg",
-     "saldo": 93
+     "saldo": 92
     },
     {
      "cod": 7071,
@@ -23885,7 +23885,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/39.jpg",
-     "saldo": 11
+     "saldo": 5
     },
     {
      "cod": 13605,
@@ -24689,7 +24689,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 2709,
@@ -24769,7 +24769,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2718.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 2716,
@@ -25391,7 +25391,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 477
+     "saldo": 475
     },
     {
      "cod": 2838,
@@ -25399,7 +25399,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 445
+     "saldo": 443
     },
     {
      "cod": 2839,
@@ -25645,7 +25645,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2467
+     "saldo": 2466
     },
     {
      "cod": 6821,
@@ -26333,7 +26333,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 1278,
@@ -26387,7 +26387,7 @@
      "marca": "CHIARA",
      "preco": 49.9,
      "img": "produtos/2703.jpg",
-     "saldo": 75
+     "saldo": 71
     },
     {
      "cod": 6847,
@@ -26691,7 +26691,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/2805.jpg",
-     "saldo": 174
+     "saldo": 173
     },
     {
      "cod": 6102,
@@ -31220,14 +31220,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 323,
+     "saldo": 319,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 323
+       "saldo": 319
       },
       {
        "cod": 6051,
