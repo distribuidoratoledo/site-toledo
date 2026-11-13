@@ -9746,7 +9746,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 3479,
@@ -10917,7 +10917,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 341
+     "saldo": 340
     },
     {
      "cod": 2007,
@@ -14504,14 +14504,14 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/4152.jpg",
-     "saldo": 199,
+     "saldo": 179,
      "cores": [
       {
        "cod": 4152,
        "cor": "Cristal",
        "nome": "PASTA L A4 CRISTAL",
        "img": "produtos/4152.jpg",
-       "saldo": 199
+       "saldo": 179
       },
       {
        "cod": 6798,
@@ -15325,7 +15325,7 @@
      "marca": "GALA",
      "preco": 18.9,
      "img": "produtos/4432.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 2740,
@@ -18600,7 +18600,7 @@
      "marca": "3M",
      "preco": 24.9,
      "img": "produtos/2478.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 9145,
@@ -18896,7 +18896,7 @@
      "marca": "IBEL",
      "preco": 57.9,
      "img": "produtos/11834.jpg",
-     "saldo": 106
+     "saldo": 104
     },
     {
      "cod": 11831,
@@ -25771,7 +25771,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 189
+     "saldo": 188
     },
     {
      "cod": 13859,
