@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1018,
+     "saldo": 1017,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1018
+       "saldo": 1017
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 250
+       "saldo": 248
       }
      ]
     },
@@ -521,7 +521,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/14374.jpg",
-     "saldo": 211
+     "saldo": 209
     },
     {
      "cod": 5084,
@@ -954,14 +954,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 23
+       "saldo": 22
       },
       {
        "cod": 9370,
@@ -2866,14 +2866,14 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2343.jpg",
-     "saldo": 6,
+     "saldo": 4,
      "cores": [
       {
        "cod": 2343,
        "cor": "Azul",
        "nome": "PINCEL ATOM.1100 PILOT-AZUL",
        "img": "produtos/2343.jpg",
-       "saldo": 6
+       "saldo": 4
       },
       {
        "cod": 2344,
@@ -3365,7 +3365,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 73
+       "saldo": 70
       },
       {
        "cod": 2658,
@@ -4223,7 +4223,7 @@
      "marca": "TILIBRA",
      "preco": 26.9,
      "img": "produtos/7110.jpg",
-     "saldo": 17
+     "saldo": 15
     },
     {
      "cod": 14280,
@@ -7669,7 +7669,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/788.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 793,
@@ -7907,7 +7907,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 14110,
@@ -8699,7 +8699,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 569
+     "saldo": 564
     },
     {
      "cod": 1293,
@@ -8825,7 +8825,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 350
+     "saldo": 320
     },
     {
      "cod": 1313,
@@ -8833,7 +8833,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1405
+     "saldo": 1375
     },
     {
      "cod": 4389,
@@ -9231,7 +9231,7 @@
      "marca": "CIS",
      "preco": 15.9,
      "img": "produtos/4958.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 3647,
@@ -9746,7 +9746,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 3479,
@@ -9896,7 +9896,7 @@
      "marca": "TILIBRA",
      "preco": 6.9,
      "img": "produtos/677.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 882,
@@ -10939,7 +10939,7 @@
        "cor": "Azul",
        "nome": "PAPEL A4 COLOR. C/100-AZUL",
        "img": "produtos/3975.jpg",
-       "saldo": 8
+       "saldo": 4
       },
       {
        "cod": 6314,
@@ -12397,14 +12397,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2994.jpg",
-     "saldo": 51,
+     "saldo": 50,
      "cores": [
       {
        "cod": 2994,
        "cor": "Azul",
        "nome": "TINTA PINCEL 37ML PILOT-AZUL",
        "img": "produtos/2994.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 2995,
@@ -13718,7 +13718,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/9144.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 14595,
@@ -18576,7 +18576,7 @@
      "marca": "MP/JOC/NFX",
      "preco": 11.9,
      "img": "produtos/6619.jpg",
-     "saldo": 140
+     "saldo": 139
     },
     {
      "cod": 2477,
@@ -22171,7 +22171,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 272
+     "saldo": 269
     },
     {
      "cod": 3731,
@@ -22275,7 +22275,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 104
+     "saldo": 99
     },
     {
      "cod": 2937,
@@ -22283,7 +22283,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 549
+     "saldo": 534
     },
     {
      "cod": 4146,
@@ -22299,7 +22299,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 464
+     "saldo": 454
     },
     {
      "cod": 3887,
@@ -22409,7 +22409,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 265
+     "saldo": 260
     },
     {
      "cod": 11964,
@@ -22545,7 +22545,7 @@
      "marca": "PRAFESTA",
      "preco": 31.9,
      "img": "produtos/14191.jpg",
-     "saldo": 38
+     "saldo": 37
     }
    ]
   },
@@ -22583,7 +22583,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11829.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 11825,
@@ -22703,7 +22703,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 200
+     "saldo": 199
     },
     {
      "cod": 13873,
@@ -24793,7 +24793,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 116
+     "saldo": 115
     },
     {
      "cod": 2720,
@@ -25343,7 +25343,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 178
+     "saldo": 177
     },
     {
      "cod": 2824,
@@ -25359,7 +25359,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 469
+     "saldo": 468
     },
     {
      "cod": 2826,
@@ -25367,7 +25367,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2826.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 2827,
@@ -25465,7 +25465,7 @@
        "cor": "Rosa Pink",
        "nome": "SACOLA PH 20X30 C/50-ROSA PINK",
        "img": "produtos/2852.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 3849,
@@ -26113,7 +26113,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 188
+     "saldo": 187
     },
     {
      "cod": 4314,
@@ -26255,7 +26255,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1170
+     "saldo": 1130
     },
     {
      "cod": 236,
@@ -27927,7 +27927,7 @@
      "marca": "GERSELE",
      "preco": 0.5,
      "img": "produtos/2773.jpg",
-     "saldo": 570
+     "saldo": 568
     },
     {
      "cod": 2774,
@@ -28907,7 +28907,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 321
+     "saldo": 320
     },
     {
      "cod": 7275,
@@ -31040,7 +31040,7 @@
      "marca": "CIS",
      "preco": 3.0,
      "img": "produtos/1827.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 12733,
@@ -31163,7 +31163,7 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO JOCAR-ROSA",
        "img": "produtos/11016.jpg",
-       "saldo": 41
+       "saldo": 40
       },
       {
        "cod": 14355,
@@ -31327,7 +31327,7 @@
        "cor": "Violeta",
        "nome": "MARCA TEXTO PILOT-VIOLETA",
        "img": "produtos/12147.jpg",
-       "saldo": 66
+       "saldo": 65
       }
      ]
     },
