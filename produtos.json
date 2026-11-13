@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 132
+       "saldo": 131
       },
       {
        "cod": 563,
@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 873,
+     "saldo": 872,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 873
+       "saldo": 872
       },
       {
        "cod": 570,
@@ -781,12 +781,36 @@
      "saldo": 3
     },
     {
-     "cod": 574,
-     "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
+     "cod": 572,
+     "nome": "CANETA GEL/CONVITE MOLIN-BRANCA",
+     "marca": "MOLIN",
+     "preco": 10.9,
+     "img": "produtos/572.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 573,
+     "nome": "CANETA GEL/CONVITE MOLIN",
      "marca": "MOLIN",
      "preco": 9.5,
-     "img": "produtos/574.jpg",
-     "saldo": 10
+     "img": "produtos/573.jpg",
+     "saldo": 24,
+     "cores": [
+      {
+       "cod": 573,
+       "cor": "Ouro",
+       "nome": "CANETA GEL/CONVITE MOLIN-OURO",
+       "img": "produtos/573.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 574,
+       "cor": "Prata",
+       "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
+       "img": "produtos/574.jpg",
+       "saldo": 34
+      }
+     ]
     },
     {
      "cod": 14597,
@@ -906,7 +930,7 @@
      "marca": "BRW",
      "preco": 12.9,
      "img": "produtos/8823.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 13931,
@@ -1994,7 +2018,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 38
+     "saldo": 36
     },
     {
      "cod": 13799,
@@ -3075,14 +3099,14 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11855.jpg",
-     "saldo": 68,
+     "saldo": 67,
      "cores": [
       {
        "cod": 11855,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
        "img": "produtos/11855.jpg",
-       "saldo": 68
+       "saldo": 67
       },
       {
        "cod": 11856,
@@ -3154,21 +3178,21 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 55,
+     "saldo": 54,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 55
+       "saldo": 54
       },
       {
        "cod": 2347,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBM-7)",
        "img": "produtos/2347.jpg",
-       "saldo": 40
+       "saldo": 39
       },
       {
        "cod": 2348,
@@ -3182,7 +3206,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
        "img": "produtos/2349.jpg",
-       "saldo": 10
+       "saldo": 9
       }
      ]
     },
@@ -3365,7 +3389,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 2658,
@@ -3403,7 +3427,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1503.jpg",
-     "saldo": 461
+     "saldo": 460
     },
     {
      "cod": 4463,
@@ -3411,7 +3435,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 570
+     "saldo": 569
     },
     {
      "cod": 1507,
@@ -3499,7 +3523,7 @@
      "marca": "CIS",
      "preco": 12.9,
      "img": "produtos/14222.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 5048,
@@ -3925,7 +3949,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/14517.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 14520,
@@ -6077,6 +6101,22 @@
      ]
     },
     {
+     "cod": 12318,
+     "nome": "CADERNO ARGOLADO (M) COLEG-MOLIN BLACK HEART 80F",
+     "marca": "MOLIN",
+     "preco": 49.9,
+     "img": "produtos/12318.jpg",
+     "saldo": 8
+    },
+    {
+     "cod": 12311,
+     "nome": "CADERNO ARGOLADO (M) COLEG-MOLIN BORBOLETAS 80F",
+     "marca": "MOLIN",
+     "preco": 49.9,
+     "img": "produtos/12311.jpg",
+     "saldo": 12
+    },
+    {
      "cod": 12341,
      "nome": "CADERNO ARGOLADO (M) COLEG-MOLIN GREEN DOTS 80F",
      "marca": "MOLIN",
@@ -8097,7 +8137,7 @@
      "marca": "LEO E LEO",
      "preco": 3.5,
      "img": "produtos/812.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 9047,
@@ -8289,7 +8329,7 @@
      "marca": "TEKBOND",
      "preco": 14.9,
      "img": "produtos/4930.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 7159,
@@ -9487,6 +9527,14 @@
      "preco": 8.9,
      "img": "produtos/7291.jpg",
      "saldo": 348
+    },
+    {
+     "cod": 12290,
+     "nome": "CORRETIVO FITA 10M-MOLIN (CORAÇAO PARTIDO)",
+     "marca": "MOLIN",
+     "preco": 16.9,
+     "img": "produtos/12290.jpg",
+     "saldo": 20
     },
     {
      "cod": 12303,
@@ -16124,7 +16172,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3071.jpg",
-     "saldo": 820
+     "saldo": 808
     },
     {
      "cod": 5066,
@@ -17866,7 +17914,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 27579
+     "saldo": 27576
     },
     {
      "cod": 1098,
@@ -18010,7 +18058,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7340
+     "saldo": 7339
     },
     {
      "cod": 1054,
@@ -18320,7 +18368,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/2422.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 13981,
@@ -21261,7 +21309,7 @@
      "marca": "COPOBRAS",
      "preco": 11.9,
      "img": "produtos/947.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 14413,
@@ -21277,7 +21325,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 944
+     "saldo": 940
     },
     {
      "cod": 14407,
@@ -21341,7 +21389,7 @@
      "marca": "STRAWPLAST",
      "preco": 2.9,
      "img": "produtos/7322.jpg",
-     "saldo": 23
+     "saldo": 12
     },
     {
      "cod": 963,
@@ -22019,7 +22067,7 @@
      "marca": "ISOMAX",
      "preco": 4.9,
      "img": "produtos/7362.jpg",
-     "saldo": 59
+     "saldo": 55
     },
     {
      "cod": 7363,
@@ -22291,7 +22339,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 97
+     "saldo": 96
     },
     {
      "cod": 2937,
@@ -22441,7 +22489,7 @@
      "marca": "PRAFESTA",
      "preco": 10.9,
      "img": "produtos/881.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 9085,
@@ -22457,7 +22505,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 686
+     "saldo": 681
     },
     {
      "cod": 880,
@@ -23347,7 +23395,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1065
+     "saldo": 1045
     },
     {
      "cod": 3857,
@@ -23617,7 +23665,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 44
+     "saldo": 34
     },
     {
      "cod": 7070,
@@ -24665,7 +24713,7 @@
      "marca": "GERAPLAST",
      "preco": 89.9,
      "img": "produtos/665.jpg",
-     "saldo": 167
+     "saldo": 166
     },
     {
      "cod": 2704,
@@ -25661,7 +25709,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2461
+     "saldo": 2456
     },
     {
      "cod": 6821,
@@ -25669,7 +25717,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 897
+     "saldo": 892
     },
     {
      "cod": 6855,
@@ -26293,7 +26341,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 10990,
@@ -26403,7 +26451,7 @@
      "marca": "CHIARA",
      "preco": 49.9,
      "img": "produtos/2703.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 6847,
@@ -26491,7 +26539,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 707
+     "saldo": 702
     },
     {
      "cod": 2760,
@@ -26707,7 +26755,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/2805.jpg",
-     "saldo": 173
+     "saldo": 172
     },
     {
      "cod": 6102,
@@ -28615,7 +28663,7 @@
      "marca": "REDINHA",
      "preco": 3.5,
      "img": "produtos/2608.jpg",
-     "saldo": 11
+     "saldo": 9
     },
     {
      "cod": 2609,
