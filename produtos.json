@@ -4119,7 +4119,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 67,
+     "saldo": 66,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4129,7 +4129,7 @@
      "saldo_cor": {
       "AZUL": 16,
       "ROSA": 17,
-      "ROXO": 17,
+      "ROXO": 16,
       "VERDE-ÁGUA": 17
      }
     },
@@ -8121,7 +8121,7 @@
      "marca": "LEO E LEO",
      "preco": 5.5,
      "img": "produtos/813.jpg",
-     "saldo": 147
+     "saldo": 146
     },
     {
      "cod": 11622,
@@ -8377,7 +8377,7 @@
      "marca": "PRITT",
      "preco": 6.9,
      "img": "produtos/816.jpg",
-     "saldo": 285
+     "saldo": 283
     },
     {
      "cod": 7903,
@@ -8393,7 +8393,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.0,
      "img": "produtos/3318.jpg",
-     "saldo": 77
+     "saldo": 76
     },
     {
      "cod": 14601,
@@ -8583,7 +8583,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 810
+     "saldo": 809
     },
     {
      "cod": 4438,
@@ -8591,7 +8591,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2047
+     "saldo": 2036
     },
     {
      "cod": 1031,
@@ -8825,7 +8825,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 320
+     "saldo": 315
     },
     {
      "cod": 1313,
@@ -9714,7 +9714,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 22
+     "saldo": 16
     },
     {
      "cod": 3911,
@@ -10633,14 +10633,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 115,
+     "saldo": 114,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 115
+       "saldo": 114
       },
       {
        "cod": 2069,
@@ -10654,7 +10654,7 @@
        "cor": "Azul Escuro",
        "nome": "CREPOM AZUL ESCURO",
        "img": "produtos/2070.jpg",
-       "saldo": 62
+       "saldo": 61
       },
       {
        "cod": 4786,
@@ -10668,7 +10668,7 @@
        "cor": "Laranja",
        "nome": "CREPOM LARANJA",
        "img": "produtos/4715.jpg",
-       "saldo": 80
+       "saldo": 79
       },
       {
        "cod": 5076,
@@ -10710,21 +10710,21 @@
        "cor": "Roxo",
        "nome": "CREPOM ROXO",
        "img": "produtos/7894.jpg",
-       "saldo": 68
+       "saldo": 67
       },
       {
        "cod": 2079,
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 38
+       "saldo": 37
       },
       {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 242
+       "saldo": 241
       }
      ]
     },
@@ -10864,6 +10864,14 @@
      "saldo": 541
     },
     {
+     "cod": 6844,
+     "nome": "PAPEL 60KG A3 C/50FL-GRIFFE",
+     "marca": "MINASPEL",
+     "preco": 29.9,
+     "img": "produtos/6844.jpg",
+     "saldo": 30
+    },
+    {
      "cod": 8404,
      "nome": "PAPEL 60KG A4 + ENCAD. C/20F",
      "marca": "MINASPEL",
@@ -10877,7 +10885,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 134
+     "saldo": 133
     },
     {
      "cod": 5082,
@@ -11575,14 +11583,14 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3020.jpg",
-     "saldo": 51,
+     "saldo": 50,
      "cores": [
       {
        "cod": 3020,
        "cor": "Amarelo Ouro",
        "nome": "GUACHE 250ML ACRILEX-AMARELO OURO",
        "img": "produtos/3020.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 12685,
@@ -11610,7 +11618,7 @@
        "cor": "Azul Turquesa",
        "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
        "img": "produtos/3021.jpg",
-       "saldo": 61
+       "saldo": 60
       },
       {
        "cod": 3022,
@@ -11631,7 +11639,7 @@
        "cor": "Laranja",
        "nome": "GUACHE 250ML ACRILEX-LARANJA",
        "img": "produtos/3023.jpg",
-       "saldo": 65
+       "saldo": 64
       },
       {
        "cod": 11882,
@@ -11687,7 +11695,7 @@
        "cor": "Violeta",
        "nome": "GUACHE 250ML ACRILEX-VIOLETA",
        "img": "produtos/3027.jpg",
-       "saldo": 76
+       "saldo": 75
       }
      ]
     },
@@ -11705,7 +11713,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3029.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 3033,
@@ -14978,14 +14986,14 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14205.jpg",
-     "saldo": 51,
+     "saldo": 50,
      "cores": [
       {
        "cod": 14205,
        "cor": "Azul",
        "nome": "PASTA PP 5CM PLASCONY-AZUL",
        "img": "produtos/14205.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 14444,
@@ -16020,7 +16028,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3060.jpg",
-     "saldo": 604
+     "saldo": 596
     },
     {
      "cod": 3062,
@@ -16108,7 +16116,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/5066.jpg",
-     "saldo": 488
+     "saldo": 486
     }
    ]
   },
@@ -18998,7 +19006,7 @@
      "marca": "TODOLIVRO",
      "preco": 1.8,
      "img": "produtos/14662.jpg",
-     "saldo": 200
+     "saldo": 198
     },
     {
      "cod": 13556,
@@ -21197,7 +21205,7 @@
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/938.jpg",
-     "saldo": 399
+     "saldo": 398
     },
     {
      "cod": 14406,
@@ -21469,7 +21477,7 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7351,
@@ -22283,7 +22291,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 2491,
@@ -22299,7 +22307,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2489,
@@ -25065,7 +25073,7 @@
      "marca": "KROMASA",
      "preco": 8.9,
      "img": "produtos/4942.jpg",
-     "saldo": 92
+     "saldo": 90
     },
     {
      "cod": 4943,
@@ -25391,7 +25399,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 443
+     "saldo": 442
     },
     {
      "cod": 2839,
@@ -25399,7 +25407,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 449
+     "saldo": 448
     },
     {
      "cod": 2840,
@@ -25891,7 +25899,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 8968
+     "saldo": 8958
     },
     {
      "cod": 11788,
@@ -25939,7 +25947,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 333
+     "saldo": 330
     }
    ]
   },
@@ -26097,7 +26105,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2371
+     "saldo": 2370
     },
     {
      "cod": 2896,
@@ -26849,7 +26857,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/4727.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 3195,
@@ -27241,7 +27249,7 @@
        "cor": "Verde Escuro",
        "nome": "FITILHO 50MT VERDE ESCURO",
        "img": "produtos/1331.jpg",
-       "saldo": 12
+       "saldo": 10
       }
      ]
     },
@@ -27943,7 +27951,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 334
+     "saldo": 327
     },
     {
      "cod": 2779,
@@ -28181,7 +28189,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6323.jpg",
-     "saldo": 319
+     "saldo": 309
     },
     {
      "cod": 6851,
@@ -29033,7 +29041,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 381
+     "saldo": 380
     },
     {
      "cod": 2157,
@@ -29695,7 +29703,7 @@
      "marca": "TIBA",
      "preco": 9.9,
      "img": "produtos/3543.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 9849,
@@ -31277,14 +31285,14 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
-     "saldo": 88,
+     "saldo": 86,
      "cores": [
       {
        "cod": 1829,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO PILOT-AMARELO",
        "img": "produtos/1829.jpg",
-       "saldo": 88
+       "saldo": 86
       },
       {
        "cod": 1830,
