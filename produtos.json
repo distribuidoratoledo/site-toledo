@@ -3351,14 +3351,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 135,
+     "saldo": 138,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 135
+       "saldo": 138
       },
       {
        "cod": 2657,
@@ -3372,14 +3372,14 @@
        "cor": "Verde",
        "nome": "RETRO 2.0 PILOT-VERDE",
        "img": "produtos/2658.jpg",
-       "saldo": 23
+       "saldo": 26
       },
       {
        "cod": 2659,
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 22
+       "saldo": 25
       }
      ]
     }
@@ -15440,7 +15440,7 @@
      "marca": "",
      "preco": 13.5,
      "img": "produtos/3390.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 1142,
@@ -21213,7 +21213,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 61
+     "saldo": 59
     },
     {
      "cod": 944,
@@ -22441,7 +22441,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 688
+     "saldo": 687
     },
     {
      "cod": 880,
@@ -23323,7 +23323,7 @@
      "marca": "COPOPLAST",
      "preco": 1.2,
      "img": "produtos/10303.jpg",
-     "saldo": 130
+     "saldo": 125
     },
     {
      "cod": 2550,
@@ -23331,7 +23331,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1073
+     "saldo": 1071
     },
     {
      "cod": 3857,
@@ -24353,7 +24353,7 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg",
-     "saldo": 28
+     "saldo": 25
     },
     {
      "cod": 14415,
@@ -24369,7 +24369,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 2700,
@@ -25057,7 +25057,7 @@
      "marca": "KROMASA",
      "preco": 4.9,
      "img": "produtos/4940.jpg",
-     "saldo": 641
+     "saldo": 639
     },
     {
      "cod": 4941,
@@ -25686,6 +25686,14 @@
      "preco": 42.9,
      "img": "produtos/3964.jpg",
      "saldo": 48
+    },
+    {
+     "cod": 2877,
+     "nome": "SACOLA VOLTE S. 38X48 (3K)",
+     "marca": "",
+     "preco": 89.9,
+     "img": "produtos/2877.jpg",
+     "saldo": 200
     }
    ]
   },
@@ -28747,7 +28755,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 658
+     "saldo": 653
     },
     {
      "cod": 1786,
@@ -28899,7 +28907,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 322
+     "saldo": 321
     },
     {
      "cod": 7275,
@@ -31812,14 +31820,14 @@
        "cor": "Verde",
        "nome": "CONTACT LISO-VERDE",
        "img": "produtos/923.jpg",
-       "saldo": 102
+       "saldo": 100
       },
       {
        "cod": 924,
        "cor": "Vermelho",
        "nome": "CONTACT LISO-VERMELHO",
        "img": "produtos/924.jpg",
-       "saldo": 103
+       "saldo": 101
       }
      ]
     },
