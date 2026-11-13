@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 133
+       "saldo": 132
       },
       {
        "cod": 563,
@@ -954,14 +954,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 215,
+     "saldo": 213,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 215
+       "saldo": 213
       },
       {
        "cod": 9370,
@@ -1088,7 +1088,7 @@
      "marca": "MOLIN",
      "preco": 21.9,
      "img": "produtos/12298.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 12321,
@@ -2572,7 +2572,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 47,
+     "saldo": 46,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2586,7 +2586,7 @@
       "AZUL": 8,
       "LILAS": 8,
       "ROSA": 8,
-      "SALMÃO": 8,
+      "SALMÃO": 7,
       "VERDE": 7
      }
     },
@@ -5567,7 +5567,7 @@
      "marca": "SD",
      "preco": 34.9,
      "img": "produtos/13099.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 5734,
@@ -8833,7 +8833,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 352
+     "saldo": 350
     },
     {
      "cod": 1313,
@@ -9231,7 +9231,7 @@
      "marca": "MAXCRIL",
      "preco": 2.9,
      "img": "produtos/2637.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 4958,
@@ -9952,7 +9952,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1981.jpg",
-     "saldo": 73
+     "saldo": 70
     },
     {
      "cod": 4320,
@@ -10311,7 +10311,7 @@
        "cor": "Laranja",
        "nome": "CARTAO-LARANJA",
        "img": "produtos/744.jpg",
-       "saldo": 61
+       "saldo": 60
       },
       {
        "cod": 4180,
@@ -10909,7 +10909,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2015,
@@ -10933,7 +10933,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 398
+     "saldo": 354
     },
     {
      "cod": 2007,
@@ -11179,7 +11179,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2141.jpg",
-     "saldo": 165
+     "saldo": 155
     },
     {
      "cod": 2142,
@@ -12947,7 +12947,7 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/7392.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 4334,
@@ -13606,7 +13606,7 @@
      "marca": "KIT",
      "preco": 10.9,
      "img": "produtos/13579.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 13782,
@@ -15488,7 +15488,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 13124,
@@ -15787,7 +15787,7 @@
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 124
+       "saldo": 129
       },
       {
        "cod": 1216,
@@ -19379,7 +19379,7 @@
      "marca": "TRIS",
      "preco": 26.9,
      "img": "produtos/14577.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 14578,
@@ -21026,7 +21026,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
-     "saldo": 70,
+     "saldo": 68,
      "controle": [
       "AMARELO",
       "LARANJA",
@@ -21036,12 +21036,12 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AMARELO": 12,
+      "AMARELO": 11,
       "LARANJA": 12,
       "ROXO": 12,
       "VERDE": 11,
       "VERDE-ÁGUA": 12,
-      "VERMELHO": 11
+      "VERMELHO": 10
      }
     },
     {
@@ -21220,7 +21220,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 239
+     "saldo": 238
     },
     {
      "cod": 938,
@@ -21492,7 +21492,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 132
+     "saldo": 131
     },
     {
      "cod": 2923,
@@ -22194,7 +22194,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 277
+     "saldo": 276
     },
     {
      "cod": 3731,
@@ -22298,7 +22298,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 2937,
@@ -22306,7 +22306,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 554
+     "saldo": 552
     },
     {
      "cod": 4146,
@@ -22322,7 +22322,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 466
+     "saldo": 465
     },
     {
      "cod": 3887,
@@ -22568,7 +22568,7 @@
      "marca": "PRAFESTA",
      "preco": 31.9,
      "img": "produtos/14191.jpg",
-     "saldo": 39
+     "saldo": 38
     }
    ]
   },
@@ -23790,7 +23790,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 358
+     "saldo": 357
     },
     {
      "cod": 3951,
@@ -24314,7 +24314,7 @@
      "marca": "THEOTO",
      "preco": 3.0,
      "img": "produtos/3864.jpg",
-     "saldo": 114
+     "saldo": 113
     },
     {
      "cod": 3882,
@@ -24688,7 +24688,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 993
+     "saldo": 983
     },
     {
      "cod": 6862,
@@ -24704,7 +24704,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 2709,
@@ -24840,7 +24840,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 10061,
@@ -25374,7 +25374,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 476
+     "saldo": 474
     },
     {
      "cod": 2826,
@@ -25406,7 +25406,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 483
+     "saldo": 478
     },
     {
      "cod": 2838,
@@ -25660,7 +25660,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2470
+     "saldo": 2468
     },
     {
      "cod": 6821,
@@ -25668,7 +25668,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 912
+     "saldo": 911
     },
     {
      "cod": 6855,
@@ -26722,7 +26722,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 48
+     "saldo": 46
     },
     {
      "cod": 11952,
@@ -26738,7 +26738,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 45
+     "saldo": 42
     },
     {
      "cod": 6860,
@@ -28140,7 +28140,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 30
+     "saldo": 31
     },
     {
      "cod": 1198,
@@ -30887,7 +30887,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14609.jpg",
-     "saldo": 31,
+     "saldo": 29,
      "controle": [
       "AZUL",
       "PRETO",
@@ -30895,8 +30895,8 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AZUL": 8,
-      "PRETO": 8,
+      "AZUL": 7,
+      "PRETO": 7,
       "VERDE": 7,
       "VERMELHO": 8
      }
@@ -31219,14 +31219,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 350,
+     "saldo": 346,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 350
+       "saldo": 346
       },
       {
        "cod": 6051,
@@ -31418,7 +31418,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14562.jpg",
-     "saldo": 47,
+     "saldo": 45,
      "controle": [
       "AM/AZUL",
       "LA/ROXO",
@@ -31427,7 +31427,7 @@
      ],
      "saldo_cor": {
       "AM/AZUL": 11,
-      "LA/ROXO": 12,
+      "LA/ROXO": 10,
       "RS/CIANO": 12,
       "VD/ROSA": 12
      }
