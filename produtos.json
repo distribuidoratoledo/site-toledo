@@ -10,14 +10,14 @@
      "marca": "PILOT",
      "preco": 26.9,
      "img": "produtos/545.jpg",
-     "saldo": 8,
+     "saldo": 7,
      "cores": [
       {
        "cod": 545,
        "cor": "Azul",
        "nome": "CANETA APAGAVEL PILOT-AZUL",
        "img": "produtos/545.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 546,
@@ -504,7 +504,7 @@
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 733
+       "saldo": 732
       },
       {
        "cod": 571,
@@ -529,7 +529,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/5084.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 10288,
@@ -978,14 +978,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 22,
+     "saldo": 21,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 22
+       "saldo": 21
       },
       {
        "cod": 9370,
@@ -1031,14 +1031,14 @@
        "cor": "Preta",
        "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
        "img": "produtos/588.jpg",
-       "saldo": 32
+       "saldo": 30
       },
       {
-       "cod": 589,
+       "cod": 14725,
        "cor": "Vermelha",
        "nome": "CANETA KILOMETRICA 0.7-VERMELHA (FINA)",
-       "img": "produtos/589.jpg",
-       "saldo": 56
+       "img": "produtos/14725.jpg",
+       "saldo": 55
       }
      ]
     },
@@ -1121,6 +1121,14 @@
      "preco": 21.9,
      "img": "produtos/12321.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14474,
+     "nome": "CANETA MOLIN CORAÇAO DIAM. ROSA-AZUL",
+     "marca": "MOLIN",
+     "preco": 18.9,
+     "img": "produtos/14474.jpg",
+     "saldo": 20
     },
     {
      "cod": 12280,
@@ -1315,7 +1323,7 @@
        "cor": "Preta",
        "nome": "CANETA PILOT GRIP 1.6-PRETA",
        "img": "produtos/612.jpg",
-       "saldo": 8
+       "saldo": 7
       }
      ]
     },
@@ -2928,7 +2936,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 20
+       "saldo": 18
       },
       {
        "cod": 3604,
@@ -2942,7 +2950,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.1100 PILOT-VERMELHO",
        "img": "produtos/2345.jpg",
-       "saldo": 118
+       "saldo": 116
       }
      ]
     },
@@ -7527,7 +7535,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 3249,
@@ -8217,7 +8225,7 @@
      "marca": "PRITT",
      "preco": 24.9,
      "img": "produtos/814.jpg",
-     "saldo": 30
+     "saldo": 32
     },
     {
      "cod": 9043,
@@ -8663,7 +8671,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 800
+     "saldo": 801
     },
     {
      "cod": 4438,
@@ -8671,7 +8679,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2033
+     "saldo": 2031
     },
     {
      "cod": 1031,
@@ -9630,7 +9638,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 129
+     "saldo": 128
     },
     {
      "cod": 6632,
@@ -10136,7 +10144,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 93
+     "saldo": 88
     },
     {
      "cod": 2604,
@@ -10340,7 +10348,7 @@
      "marca": "MINASPEL",
      "preco": 1.5,
      "img": "produtos/5083.jpg",
-     "saldo": 90
+     "saldo": 84
     },
     {
      "cod": 740,
@@ -11283,7 +11291,7 @@
      "marca": "VMP",
      "preco": 0.8,
      "img": "produtos/2142.jpg",
-     "saldo": 241
+     "saldo": 240
     },
     {
      "cod": 2143,
@@ -16048,7 +16056,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 83
+       "saldo": 82
       },
       {
        "cod": 1239,
@@ -17427,11 +17435,27 @@
      "saldo": 1
     },
     {
+     "cod": 14529,
+     "nome": "ESTOJO MOLIN LOVE BORBOLETAS-1F AZUL",
+     "marca": "MOLIN",
+     "preco": 67.9,
+     "img": "produtos/14529.jpg",
+     "saldo": 5
+    },
+    {
      "cod": 14532,
      "nome": "ESTOJO MOLIN SWEET LOVE-1F ROSA",
      "marca": "MOLIN",
      "preco": 37.9,
      "img": "produtos/14532.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14533,
+     "nome": "ESTOJO MOLIN SWEET LOVE-1F SOFT BLACK",
+     "marca": "MOLIN",
+     "preco": 36.9,
+     "img": "produtos/14533.jpg",
      "saldo": 1
     },
     {
@@ -18360,7 +18384,7 @@
      "marca": "GRESPAN",
      "preco": 7.9,
      "img": "produtos/2377.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 2378,
@@ -18368,7 +18392,7 @@
      "marca": "GRESPAN",
      "preco": 10.9,
      "img": "produtos/2378.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 6664,
@@ -18384,7 +18408,7 @@
      "marca": "GRESPAN",
      "preco": 17.9,
      "img": "produtos/2379.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 7399,
@@ -18400,7 +18424,7 @@
      "marca": "GRESPAN",
      "preco": 35.9,
      "img": "produtos/9036.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 7400,
@@ -18408,7 +18432,7 @@
      "marca": "GRESPAN",
      "preco": 16.9,
      "img": "produtos/7400.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 13982,
@@ -21357,7 +21381,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2789
+     "saldo": 2786
     },
     {
      "cod": 14414,
@@ -22767,7 +22791,7 @@
      "marca": "RIOPLASTIC",
      "preco": 14.9,
      "img": "produtos/6315.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 11853,
@@ -22895,7 +22919,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 11690,
@@ -25193,7 +25217,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4941.jpg",
-     "saldo": 345
+     "saldo": 335
     },
     {
      "cod": 4942,
@@ -25789,7 +25813,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 449
+     "saldo": 419
     },
     {
      "cod": 2875,
@@ -25797,7 +25821,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 829
+     "saldo": 799
     },
     {
      "cod": 6825,
@@ -25805,7 +25829,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 697
+     "saldo": 667
     },
     {
      "cod": 3964,
@@ -25821,7 +25845,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 200
+     "saldo": 197
     }
    ]
   },
@@ -26027,7 +26051,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 8956
+     "saldo": 8456
     },
     {
      "cod": 11788,
@@ -26383,7 +26407,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1066
+     "saldo": 946
     },
     {
      "cod": 236,
@@ -27879,7 +27903,7 @@
      "marca": "CROMUS",
      "preco": 6.9,
      "img": "produtos/13574.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 11991,
@@ -28103,7 +28127,7 @@
      "marca": "GERSELE",
      "preco": 3.8,
      "img": "produtos/6912.jpg",
-     "saldo": 313
+     "saldo": 309
     },
     {
      "cod": 10423,
@@ -29027,7 +29051,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 3085,
@@ -29161,7 +29185,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 256
+     "saldo": 251
     },
     {
      "cod": 6529,
@@ -29169,7 +29193,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 350
+     "saldo": 340
     },
     {
      "cod": 2157,
