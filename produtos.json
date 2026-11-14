@@ -416,14 +416,14 @@
      "marca": "CIS",
      "preco": 4.5,
      "img": "produtos/561.jpg",
-     "saldo": 152,
+     "saldo": 151,
      "cores": [
       {
        "cod": 561,
        "cor": "Azul Claro",
        "nome": "CANETA CIS SPIRO-AZUL CLARO",
        "img": "produtos/561.jpg",
-       "saldo": 152
+       "saldo": 151
       },
       {
        "cod": 562,
@@ -472,7 +472,7 @@
        "cor": "Vermelha",
        "nome": "CANETA CIS SPIRO-VERMELHA",
        "img": "produtos/568.jpg",
-       "saldo": 51
+       "saldo": 50
       }
      ]
     },
@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 872,
+     "saldo": 871,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 872
+       "saldo": 871
       },
       {
        "cod": 570,
@@ -529,7 +529,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/5084.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 10288,
@@ -3554,7 +3554,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 2658,
@@ -3600,7 +3600,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 568
+     "saldo": 567
     },
     {
      "cod": 1507,
@@ -3776,7 +3776,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14555.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "controle": [
       "AZUL",
       "CINZA",
@@ -3785,9 +3785,9 @@
      ],
      "saldo_cor": {
       "AZUL": 11,
-      "CINZA": 11,
-      "PRETO": 12,
-      "VERMELHO": 12
+      "CINZA": 10,
+      "PRETO": 11,
+      "VERMELHO": 11
      }
     },
     {
@@ -4162,7 +4162,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/14517.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 14520,
@@ -8630,7 +8630,7 @@
      "marca": "NEW MAGIC",
      "preco": 5.9,
      "img": "produtos/7841.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7842,
@@ -8758,7 +8758,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 325
+     "saldo": 324
     },
     {
      "cod": 11926,
@@ -8766,7 +8766,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 10944,
@@ -9346,7 +9346,7 @@
      "marca": "JOCAR",
      "preco": 15.9,
      "img": "produtos/2301.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 7028,
@@ -9859,7 +9859,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6632.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 983,
@@ -9892,6 +9892,14 @@
      "preco": 4.9,
      "img": "produtos/4212.jpg",
      "saldo": 136
+    },
+    {
+     "cod": 2618,
+     "nome": "REFIL CORRETIVO FITA MERCUR 6M",
+     "marca": "MERCUR",
+     "preco": 12.9,
+     "img": "produtos/2618.jpg",
+     "saldo": 11
     }
    ]
   },
@@ -9905,7 +9913,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 93
+     "saldo": 92
     }
    ]
   },
@@ -10047,7 +10055,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 6612,
@@ -10143,7 +10151,7 @@
      "marca": "ACC",
      "preco": 32.9,
      "img": "produtos/1547.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 4155,
@@ -10942,14 +10950,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 110,
+     "saldo": 109,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 110
+       "saldo": 109
       },
       {
        "cod": 2069,
@@ -10963,7 +10971,7 @@
        "cor": "Azul Escuro",
        "nome": "CREPOM AZUL ESCURO",
        "img": "produtos/2070.jpg",
-       "saldo": 61
+       "saldo": 60
       },
       {
        "cod": 4786,
@@ -11012,7 +11020,7 @@
        "cor": "Rosa Claro",
        "nome": "CREPOM ROSA CLARO",
        "img": "produtos/7379.jpg",
-       "saldo": 97
+       "saldo": 96
       },
       {
        "cod": 7894,
@@ -11026,14 +11034,14 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 33
+       "saldo": 32
       },
       {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 237
+       "saldo": 236
       }
      ]
     },
@@ -11235,7 +11243,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 321
+     "saldo": 320
     },
     {
      "cod": 2007,
@@ -11321,7 +11329,7 @@
      "marca": "MASTERPRIN",
      "preco": 23.9,
      "img": "produtos/11784.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2099,
@@ -11561,7 +11569,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2150.jpg",
-     "saldo": 857
+     "saldo": 856
     },
     {
      "cod": 2159,
@@ -11861,7 +11869,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 236
+     "saldo": 235
     },
     {
      "cod": 11627,
@@ -12182,7 +12190,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10995.jpg",
-     "saldo": 89
+     "saldo": 86
     },
     {
      "cod": 10996,
@@ -12190,7 +12198,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/10996.jpg",
-     "saldo": 164
+     "saldo": 163
     },
     {
      "cod": 10993,
@@ -12270,7 +12278,7 @@
      "marca": "TIGRE",
      "preco": 3.9,
      "img": "produtos/6046.jpg",
-     "saldo": 42
+     "saldo": 40
     },
     {
      "cod": 2673,
@@ -16068,21 +16076,21 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 62,
+     "saldo": 61,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 62
+       "saldo": 61
       },
       {
        "cod": 4829,
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 121
+       "saldo": 120
       },
       {
        "cod": 1216,
@@ -16117,7 +16125,7 @@
        "cor": "Marrom",
        "nome": "EVA GLITER-MARROM",
        "img": "produtos/1219.jpg",
-       "saldo": 15
+       "saldo": 13
       },
       {
        "cod": 1220,
@@ -16185,35 +16193,35 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 252,
+     "saldo": 250,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 252
+       "saldo": 250
       },
       {
        "cod": 1230,
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 236
+       "saldo": 235
       },
       {
        "cod": 1231,
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg",
-       "saldo": 128
+       "saldo": 127
       },
       {
        "cod": 6669,
        "cor": "Azul Marinho",
        "nome": "EVA LISO-AZUL MARINHO",
        "img": "produtos/6669.jpg",
-       "saldo": 296
+       "saldo": 295
       },
       {
        "cod": 9161,
@@ -16227,7 +16235,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 131
+       "saldo": 127
       },
       {
        "cod": 1233,
@@ -16241,7 +16249,7 @@
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 324
+       "saldo": 323
       },
       {
        "cod": 1236,
@@ -16255,7 +16263,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 76
+       "saldo": 75
       },
       {
        "cod": 1238,
@@ -16290,21 +16298,21 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 200
+       "saldo": 197
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 342
+       "saldo": 340
       },
       {
        "cod": 1244,
        "cor": "Vermelho",
        "nome": "EVA LISO-VERMELHO",
        "img": "produtos/1244.jpg",
-       "saldo": 208
+       "saldo": 207
       }
      ]
     },
@@ -18606,7 +18614,7 @@
      "marca": "GRESPAN",
      "preco": 7.9,
      "img": "produtos/2377.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 2378,
@@ -18614,7 +18622,7 @@
      "marca": "GRESPAN",
      "preco": 10.9,
      "img": "produtos/2378.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 6664,
@@ -18775,7 +18783,7 @@
        "cor": "Verde",
        "nome": "ARQUIVO MORTO OFICIO-VERDE",
        "img": "produtos/77.jpg",
-       "saldo": 232
+       "saldo": 230
       },
       {
        "cod": 5171,
@@ -19254,7 +19262,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 123
+     "saldo": 122
     },
     {
      "cod": 14261,
@@ -19372,7 +19380,7 @@
      "marca": "TODO LIVRO",
      "preco": 5.9,
      "img": "produtos/14663.jpg",
-     "saldo": 57
+     "saldo": 49
     },
     {
      "cod": 14662,
@@ -19476,7 +19484,7 @@
      "marca": "TODO LIVRO",
      "preco": 1.5,
      "img": "produtos/14658.jpg",
-     "saldo": 200
+     "saldo": 190
     },
     {
      "cod": 5281,
@@ -19538,14 +19546,14 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 28,
+     "saldo": 27,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 28
+       "saldo": 27
       },
       {
        "cod": 6465,
@@ -19746,7 +19754,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1566
+     "saldo": 1564
     },
     {
      "cod": 3538,
@@ -21603,7 +21611,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2760
+     "saldo": 2758
     },
     {
      "cod": 14414,
@@ -22097,7 +22105,7 @@
      "marca": "ISOMAX",
      "preco": 10.9,
      "img": "produtos/9926.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 9907,
@@ -22137,7 +22145,7 @@
      "marca": "ISOMAX",
      "preco": 1.9,
      "img": "produtos/9910.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 9930,
@@ -22561,7 +22569,7 @@
      "marca": "COPOPLAST",
      "preco": 31.9,
      "img": "produtos/1569.jpg",
-     "saldo": 102
+     "saldo": 99
     },
     {
      "cod": 5937,
@@ -22665,7 +22673,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 2491,
@@ -22697,7 +22705,7 @@
      "marca": "COPOPLAST",
      "preco": 29.9,
      "img": "produtos/7352.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 14323,
@@ -22815,7 +22823,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 660
+     "saldo": 658
     },
     {
      "cod": 880,
@@ -23133,7 +23141,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 11690,
@@ -23141,7 +23149,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 2524,
@@ -24537,7 +24545,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 253
+     "saldo": 250
     },
     {
      "cod": 3932,
@@ -24703,7 +24711,7 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 14415,
@@ -25685,7 +25693,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 912
+     "saldo": 911
     },
     {
      "cod": 10972,
@@ -26003,7 +26011,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 784
+     "saldo": 782
     },
     {
      "cod": 6825,
@@ -26233,7 +26241,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 8456
+     "saldo": 8356
     },
     {
      "cod": 11788,
@@ -26431,7 +26439,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2906.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 2895,
@@ -26439,7 +26447,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2356
+     "saldo": 2354
     },
     {
      "cod": 2896,
@@ -26525,7 +26533,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1075
+     "saldo": 963
     },
     {
      "cod": 6646,
@@ -28133,7 +28141,7 @@
      "marca": "CRISTINA",
      "preco": 8.9,
      "img": "produtos/11997.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 13582,
