@@ -991,7 +991,7 @@
      "marca": "BRW",
      "preco": 12.9,
      "img": "produtos/8823.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 13931,
@@ -4857,7 +4857,7 @@
      "marca": "SD",
      "preco": 13.9,
      "img": "produtos/13535.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 13536,
@@ -9196,7 +9196,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 1520,
@@ -10047,7 +10047,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 73
+     "saldo": 72
     },
     {
      "cod": 6612,
@@ -10883,7 +10883,7 @@
        "cor": "Laranja",
        "nome": "COLORSETE-LARANJA",
        "img": "produtos/2041.jpg",
-       "saldo": 149
+       "saldo": 148
       },
       {
        "cod": 4182,
@@ -10904,7 +10904,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 87
+       "saldo": 83
       },
       {
        "cod": 2045,
@@ -10925,14 +10925,14 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE-VERDE CLARO",
        "img": "produtos/2048.jpg",
-       "saldo": 138
+       "saldo": 137
       },
       {
        "cod": 2050,
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 129
+       "saldo": 128
       }
      ]
     },
@@ -11242,7 +11242,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 324
+     "saldo": 322
     },
     {
      "cod": 2007,
@@ -18973,7 +18973,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/6618.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 2478,
@@ -19657,7 +19657,7 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/12631.jpg",
-     "saldo": 58
+     "saldo": 56
     },
     {
      "cod": 14434,
@@ -21586,7 +21586,7 @@
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/938.jpg",
-     "saldo": 398
+     "saldo": 397
     },
     {
      "cod": 14406,
@@ -21594,7 +21594,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 48
+     "saldo": 46
     },
     {
      "cod": 944,
@@ -21682,7 +21682,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 960,
@@ -22032,7 +22032,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 3772,
@@ -22400,7 +22400,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/7364.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 767,
@@ -22664,7 +22664,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 507
+     "saldo": 505
     },
     {
      "cod": 4146,
@@ -22672,7 +22672,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2491,
@@ -22680,7 +22680,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 434
+     "saldo": 432
     },
     {
      "cod": 3887,
@@ -22688,7 +22688,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 2489,
@@ -22790,7 +22790,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 255
+     "saldo": 254
     },
     {
      "cod": 11964,
@@ -23004,7 +23004,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 64
+     "saldo": 60
     },
     {
      "cod": 6315,
@@ -23012,7 +23012,7 @@
      "marca": "RIOPLASTIC",
      "preco": 14.9,
      "img": "produtos/6315.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 11853,
@@ -23036,7 +23036,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 239
+     "saldo": 234
     },
     {
      "cod": 2516,
@@ -24250,7 +24250,7 @@
      "marca": "",
      "preco": 66.9,
      "img": "produtos/4676.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 39,
@@ -25142,7 +25142,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 10060,
@@ -25190,7 +25190,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 102
+     "saldo": 101
     },
     {
      "cod": 10061,
@@ -26010,7 +26010,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2445
+     "saldo": 2439
     },
     {
      "cod": 6821,
@@ -26026,7 +26026,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 409
+     "saldo": 403
     },
     {
      "cod": 2875,
@@ -28268,7 +28268,7 @@
      "marca": "GESELE",
      "preco": 0.8,
      "img": "produtos/1340.jpg",
-     "saldo": 459
+     "saldo": 454
     },
     {
      "cod": 3674,
@@ -28988,7 +28988,7 @@
      "marca": "THEGA",
      "preco": 15.9,
      "img": "produtos/14135.jpg",
-     "saldo": 54
+     "saldo": 49
     }
    ]
   },
@@ -29010,7 +29010,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 93
+     "saldo": 92
     },
     {
      "cod": 1495,
@@ -29406,7 +29406,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 326
+     "saldo": 324
     },
     {
      "cod": 2157,
