@@ -104,28 +104,28 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 961,
+     "saldo": 959,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 961
+       "saldo": 959
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2101
+       "saldo": 2051
       },
       {
        "cod": 554,
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 248
+       "saldo": 247
       }
      ]
     },
@@ -3540,35 +3540,35 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 138,
+     "saldo": 135,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 138
+       "saldo": 135
       },
       {
        "cod": 2657,
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 62
+       "saldo": 60
       },
       {
        "cod": 2658,
        "cor": "Verde",
        "nome": "RETRO 2.0 PILOT-VERDE",
        "img": "produtos/2658.jpg",
-       "saldo": 26
+       "saldo": 25
       },
       {
        "cod": 2659,
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 24
+       "saldo": 22
       }
      ]
     }
@@ -3848,7 +3848,7 @@
     },
     {
      "cod": 14690,
-     "nome": "LAPISEIRA 2.0 MOLIN-TONS PASTEL",
+     "nome": "LAPISEIRA 2.0 MOLIN-AZUL",
      "marca": "",
      "preco": 4.9,
      "img": "produtos/14690.jpg",
@@ -4897,7 +4897,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12468.jpg",
-     "saldo": 132
+     "saldo": 131
     },
     {
      "cod": 7784,
@@ -6548,7 +6548,7 @@
        "cor": "Azul",
        "nome": "CADERNO CD 80F TILIBRA (AZUL)",
        "img": "produtos/9990.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 9988,
@@ -7652,7 +7652,7 @@
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
        "img": "produtos/12455.jpg",
-       "saldo": 28
+       "saldo": 27
       },
       {
        "cod": 9321,
@@ -8718,7 +8718,7 @@
      "marca": "ACRILEX",
      "preco": 22.9,
      "img": "produtos/12625.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 818,
@@ -8892,7 +8892,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2025
+     "saldo": 2024
     },
     {
      "cod": 1031,
@@ -8908,7 +8908,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 740
+     "saldo": 736
     },
     {
      "cod": 1021,
@@ -9126,7 +9126,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 306
+     "saldo": 304
     },
     {
      "cod": 1313,
@@ -10237,7 +10237,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 180
+     "saldo": 175
     },
     {
      "cod": 1977,
@@ -11242,7 +11242,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 322
+     "saldo": 321
     },
     {
      "cod": 2007,
@@ -11271,7 +11271,7 @@
        "cor": "Rosa",
        "nome": "PAPEL A4 COLOR. C/100-ROSA",
        "img": "produtos/6314.jpg",
-       "saldo": 60
+       "saldo": 59
       },
       {
        "cod": 6313,
@@ -11472,7 +11472,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 427
+     "saldo": 402
     },
     {
      "cod": 2139,
@@ -11884,7 +11884,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 11626,
@@ -12117,7 +12117,7 @@
      "marca": "",
      "preco": 2.3,
      "img": "produtos/10991.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 10992,
@@ -12181,7 +12181,7 @@
      "marca": "",
      "preco": 6.5,
      "img": "produtos/10994.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 10995,
@@ -12189,7 +12189,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10995.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 10996,
@@ -12469,7 +12469,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/2955.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 12550,
@@ -18775,7 +18775,7 @@
        "cor": "Azul",
        "nome": "ARQUIVO MORTO OFICIO-AZUL",
        "img": "produtos/74.jpg",
-       "saldo": 412
+       "saldo": 407
       },
       {
        "cod": 77,
@@ -22384,7 +22384,7 @@
      "marca": "ISOMAX",
      "preco": 4.9,
      "img": "produtos/7362.jpg",
-     "saldo": 30
+     "saldo": 24
     },
     {
      "cod": 7363,
@@ -22672,7 +22672,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 35
+     "saldo": 31
     },
     {
      "cod": 2491,
@@ -22688,7 +22688,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 6
+     "saldo": 2
     },
     {
      "cod": 2489,
@@ -23140,7 +23140,7 @@
      "marca": "TOTALPLAST",
      "preco": 21.9,
      "img": "produtos/11691.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 11690,
@@ -24017,28 +24017,12 @@
      "saldo": 34
     },
     {
-     "cod": 12123,
-     "nome": "CAIXA PAPELAO MUDANÇA N°2 (40X40X40)",
-     "marca": "SANTECK",
-     "preco": 12.9,
-     "img": "produtos/12123.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12124,
-     "nome": "CAIXA PAPELAO MUDANÇA N°3 (50X50X50)",
-     "marca": "SANTECK",
-     "preco": 21.9,
-     "img": "produtos/12124.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 12125,
      "nome": "CAIXA PAPELAO MUDANÇA N°4 (60X50X60)",
      "marca": "SANTECK",
      "preco": 34.9,
      "img": "produtos/12125.jpg",
-     "saldo": 7
+     "saldo": 3
     },
     {
      "cod": 6985,
@@ -24046,7 +24030,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 6986,
@@ -24054,7 +24038,7 @@
      "marca": "ABN",
      "preco": 57.9,
      "img": "produtos/6986.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 481,
@@ -24118,7 +24102,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/6101.jpg",
-     "saldo": 36
+     "saldo": 35
     }
    ]
   },
@@ -24314,7 +24298,7 @@
      "marca": "PITPRATOS",
      "preco": 3.9,
      "img": "produtos/187.jpg",
-     "saldo": 53
+     "saldo": 48
     },
     {
      "cod": 188,
@@ -24330,7 +24314,7 @@
      "marca": "PITPRATOS",
      "preco": 5.5,
      "img": "produtos/189.jpg",
-     "saldo": 66
+     "saldo": 61
     },
     {
      "cod": 190,
@@ -25126,7 +25110,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 2718,
@@ -25206,7 +25190,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2724.jpg",
-     "saldo": 57
+     "saldo": 55
     },
     {
      "cod": 2725,
@@ -25214,7 +25198,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 87
+     "saldo": 85
     },
     {
      "cod": 2726,
@@ -25262,7 +25246,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2730.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2728,
@@ -26010,7 +25994,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2439
+     "saldo": 2438
     },
     {
      "cod": 6821,
@@ -26018,7 +26002,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 866
+     "saldo": 864
     },
     {
      "cod": 6855,
@@ -26042,7 +26026,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 667
+     "saldo": 669
     },
     {
      "cod": 3964,
@@ -26470,7 +26454,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2367
+     "saldo": 2356
     },
     {
      "cod": 2896,
@@ -26478,7 +26462,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 183
+     "saldo": 182
     },
     {
      "cod": 4314,
@@ -26620,7 +26604,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 850
+     "saldo": 790
     },
     {
      "cod": 236,
@@ -26880,7 +26864,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 412
+     "saldo": 407
     },
     {
      "cod": 4937,
@@ -27080,7 +27064,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 46
+     "saldo": 43
     },
     {
      "cod": 11952,
@@ -27096,7 +27080,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 39
+     "saldo": 36
     },
     {
      "cod": 6860,
@@ -29382,7 +29366,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 256
+     "saldo": 255
     },
     {
      "cod": 2152,
@@ -31585,14 +31569,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 315,
+     "saldo": 303,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 315
+       "saldo": 303
       },
       {
        "cod": 6051,
