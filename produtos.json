@@ -887,7 +887,7 @@
      "marca": "TRIS",
      "preco": 21.9,
      "img": "produtos/14545.jpg",
-     "saldo": 30,
+     "saldo": 29,
      "controle": [
       "BRANCO",
       "LILAS",
@@ -1973,7 +1973,7 @@
      "marca": "TILIBRA",
      "preco": 8.9,
      "img": "produtos/13608.jpg",
-     "saldo": 504
+     "saldo": 503
     },
     {
      "cod": 5697,
@@ -2149,7 +2149,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "PRETO": 12,
+      "PRETO": 11,
       "ROSA": 11
      }
     },
@@ -2849,14 +2849,14 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/3507.jpg",
-     "saldo": 77,
+     "saldo": 76,
      "cores": [
       {
        "cod": 3507,
        "cor": "Lilas",
        "nome": "LAPIS FABER GRIP-LILAS",
        "img": "produtos/3507.jpg",
-       "saldo": 77
+       "saldo": 76
       },
       {
        "cod": 3508,
@@ -3996,7 +3996,7 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14606.jpg",
-     "saldo": 21,
+     "saldo": 20,
      "controle": [
       "LARANJA",
       "ROSA",
@@ -4004,7 +4004,7 @@
      ],
      "saldo_cor": {
       "LARANJA": 5,
-      "ROSA": 9,
+      "ROSA": 8,
       "ROXO": 7
      }
     },
@@ -6837,7 +6837,7 @@
      "marca": "SD",
      "preco": 19.9,
      "img": "produtos/8550.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 12806,
@@ -8670,7 +8670,7 @@
      "marca": "PRITT",
      "preco": 12.9,
      "img": "produtos/815.jpg",
-     "saldo": 246
+     "saldo": 245
     },
     {
      "cod": 816,
@@ -8678,7 +8678,7 @@
      "marca": "PRITT",
      "preco": 6.9,
      "img": "produtos/816.jpg",
-     "saldo": 283
+     "saldo": 282
     },
     {
      "cod": 7903,
@@ -10553,7 +10553,7 @@
      "marca": "CIS",
      "preco": 1.0,
      "img": "produtos/674.jpg",
-     "saldo": 486
+     "saldo": 481
     },
     {
      "cod": 738,
@@ -10950,14 +10950,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 109,
+     "saldo": 108,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 109
+       "saldo": 108
       },
       {
        "cod": 2069,
@@ -11041,7 +11041,7 @@
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 236
+       "saldo": 235
       }
      ]
     },
@@ -11869,7 +11869,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 235
+     "saldo": 234
     },
     {
      "cod": 11627,
@@ -11951,7 +11951,7 @@
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 47
+       "saldo": 46
       },
       {
        "cod": 12686,
@@ -12094,7 +12094,7 @@
      "marca": "ACRILEX",
      "preco": 26.9,
      "img": "produtos/3482.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 12310,
@@ -12182,7 +12182,7 @@
      "marca": "",
      "preco": 6.5,
      "img": "produtos/10994.jpg",
-     "saldo": 194
+     "saldo": 193
     },
     {
      "cod": 10995,
@@ -15266,7 +15266,7 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14209.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 10020,
@@ -15758,7 +15758,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/1139.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 3390,
@@ -15982,14 +15982,14 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14611.jpg",
-     "saldo": 40,
+     "saldo": 39,
      "controle": [
       "AZUL",
       "ROSA"
      ],
      "saldo_cor": {
       "AZUL": 20,
-      "ROSA": 20
+      "ROSA": 19
      }
     },
     {
@@ -16139,7 +16139,7 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 178
+       "saldo": 176
       },
       {
        "cod": 1222,
@@ -16263,7 +16263,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 75
+       "saldo": 73
       },
       {
        "cod": 1238,
@@ -19971,7 +19971,7 @@
      "marca": "OFFSIDE",
      "preco": 22.9,
      "img": "produtos/8912.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 14650,
@@ -21557,7 +21557,7 @@
      "marca": "",
      "preco": 54.9,
      "img": "produtos/14515.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 6936,
@@ -21611,7 +21611,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2758
+     "saldo": 2733
     },
     {
      "cod": 14414,
@@ -22100,14 +22100,6 @@
      "saldo": 2
     },
     {
-     "cod": 9926,
-     "nome": "BOLA ISOPOR 150MM (OCA)",
-     "marca": "ISOMAX",
-     "preco": 10.9,
-     "img": "produtos/9926.jpg",
-     "saldo": 5
-    },
-    {
      "cod": 9907,
      "nome": "BOLA ISOPOR 15MM C/5 (MACIÇA)",
      "marca": "ISOMAX",
@@ -22433,7 +22425,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/770.jpg",
-     "saldo": 238
+     "saldo": 237
     },
     {
      "cod": 772,
@@ -22871,7 +22863,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 341
+     "saldo": 337
     },
     {
      "cod": 1444,
@@ -23793,7 +23785,7 @@
      "marca": "PITPRATOS",
      "preco": 35.9,
      "img": "produtos/2562.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 2563,
@@ -24125,7 +24117,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 332
+     "saldo": 331
     },
     {
      "cod": 3951,
@@ -25047,7 +25039,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 206
+     "saldo": 205
     },
     {
      "cod": 3651,
@@ -25223,7 +25215,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 188
+     "saldo": 187
     },
     {
      "cod": 10062,
@@ -25932,7 +25924,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 30X40 C/50-PRETA",
        "img": "produtos/2857.jpg",
-       "saldo": 9
+       "saldo": 8
       },
       {
        "cod": 4326,
@@ -26423,7 +26415,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 2905,
@@ -26447,7 +26439,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2354
+     "saldo": 2351
     },
     {
      "cod": 2896,
@@ -26865,7 +26857,7 @@
      "marca": "FORT-PACK",
      "preco": 13.9,
      "img": "produtos/4937.jpg",
-     "saldo": 82
+     "saldo": 81
     },
     {
      "cod": 4960,
@@ -27183,15 +27175,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/109.jpg",
-     "saldo": 14
-    },
-    {
-     "cod": 5143,
-     "nome": "BALAO LISO ROXO UVA C/50 SAO ROQUE Nº7",
-     "marca": "SAO ROQUE",
-     "preco": 10.9,
-     "img": "produtos/5143.jpg",
-     "saldo": 1
+     "saldo": 13
     },
     {
      "cod": 4727,
@@ -27863,7 +27847,7 @@
      "marca": "MAKE+",
      "preco": 5.9,
      "img": "produtos/9470.jpg",
-     "saldo": 14
+     "saldo": 12
     },
     {
      "cod": 9471,
@@ -28515,7 +28499,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 509
+     "saldo": 508
     },
     {
      "cod": 6324,
@@ -29177,7 +29161,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 8294,
@@ -30636,7 +30620,7 @@
        "cor": "Preto",
        "nome": "APONTADOR LEO S/D REDONDO-PRETO",
        "img": "produtos/7596.jpg",
-       "saldo": 34
+       "saldo": 33
       },
       {
        "cod": 7594,
@@ -30908,7 +30892,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
-     "saldo": 84,
+     "saldo": 83,
      "controle": [
       "AZUL",
       "LILAS",
@@ -30917,7 +30901,7 @@
      ],
      "saldo_cor": {
       "AZUL": 23,
-      "LILAS": 12,
+      "LILAS": 11,
       "ROSA": 16,
       "VERDE": 33
      }
@@ -31681,7 +31665,7 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO PILOT-ROSA",
        "img": "produtos/1832.jpg",
-       "saldo": 75
+       "saldo": 74
       },
       {
        "cod": 1833,
@@ -31695,7 +31679,7 @@
        "cor": "Violeta",
        "nome": "MARCA TEXTO PILOT-VIOLETA",
        "img": "produtos/12147.jpg",
-       "saldo": 65
+       "saldo": 64
       }
      ]
     },
