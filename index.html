@@ -292,6 +292,14 @@
       font-size: 1rem; color: #1d2940; }
     .car-sub b { font-size: 1.35rem; color: var(--vermelho); font-variant-numeric: tabular-nums; }
     .car-nota { font-size: .76rem; color: #6b7687; line-height: 1.45; margin: 4px 0 8px; }
+    .conv-docs { display: grid; gap: 8px; margin: 4px 0 10px; }
+    .conv-doc { position: relative; display: block; border: 2px dashed #b9c3d3; border-radius: 10px; padding: 10px 12px; background: #f7f9fc; cursor: pointer; }
+    .conv-doc.sobre { border-color: #e31e3c; background: #fff3f5; }
+    .conv-doc.ok { border-style: solid; border-color: #2e7d32; background: #f1f8f1; }
+    .conv-doc b { display: block; font-size: .85rem; color: #1a2f52; }
+    .conv-doc span { display: block; font-size: .74rem; color: #6b7687; }
+    .conv-doc em { display: block; font-style: normal; font-size: .78rem; margin-top: 4px; color: #1a2f52; }
+    .conv-doc input[type=file] { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; }
     .car-form h4 { font-size: .74rem; text-transform: uppercase; letter-spacing: .7px; color: #6b7687; margin: 18px 0 8px; }
     .car-form label { display: block; font-size: .8rem; color: #38445a; margin-bottom: 10px; }
     .car-form input[type=text], .car-form input[type=tel], .car-form textarea, .car-form select {
@@ -1449,6 +1457,48 @@
     var VENDEDORAS = ['Taynara', 'Bruna', 'Jucilene', 'Larissa', 'Fran'];
     var PRAZO_URGENTE = 'at\u00e9 2 horas';
     var PRAZO_RETIRADA = '';
+    /* CONVENIO EMPRESA (Adriana, 14/11/2026, "CONVENIO_ESCOLAR_EMPRESAS_2026+" e "PLANILHA DE PARCELAMENTO DO CONVENIO"):
+       o cliente escolhe a empresa e o parcelamento dela. "6x50" = ate 6 parcelas, parcela minima R$ 50 (comprou R$ 300,
+       divide em ate 6x, ele escolhe). limite = valor maximo do convenio (o resto e' pago de outra forma na entrega).
+       OMPI entrou a parte: "valor maximo pra compra R$ 110,00". */
+    /* envio dos documentos pelo site: liga quando o App da Web do Google tiver a versao com acao 'doc' (14/11/2026) */
+    var DOCS_CONVENIO_ATIVO = false;
+    var CONVENIOS = [
+      { n: 'ASK DO BRASIL', p: 6, m: 50, aviso: 'Compras até 20/02.' },
+      { n: 'AUTO MOLAS IMPERATRIZ', p: 6, m: 50 },
+      { n: 'AUTO PEÇAS IMPERATRIZ', p: 6, m: 50 },
+      { n: 'AVG SIDERURGIA', p: 5, m: 80, limite: 400, aviso: 'Limite de R$ 400,00, compras até 31/03.' },
+      { n: 'BAR E RESTAURANTE SENHOR DOS PASTÉIS', p: 3, m: 50 },
+      { n: 'BOM SABOR ALIMENTAÇÃO', p: 5, m: 50 },
+      { n: 'DEDETIZAR', p: 6, m: 50 },
+      { n: 'ELIANA FRANÇA RAPOSO', p: 5, m: 50 },
+      { n: 'EUFRÁSIO GOURMET', p: 6, m: 50 },
+      { n: 'FX INDÚSTRIA E COMÉRCIO', p: 6, m: 50 },
+      { n: 'FX INDÚSTRIA E COMÉRCIO (LUVA SETE)', p: 6, m: 50 },
+      { n: 'GELLAK INDÚSTRIA E COMÉRCIO', p: 6, m: 50 },
+      { n: 'GELLAK (EFC INDÚSTRIA E COMÉRCIO)', p: 6, m: 50 },
+      { n: 'GELLAK (SM TRANSPORTES)', p: 6, m: 50 },
+      { n: 'GELLAK (VANDINEY JAIR FONSECA)', p: 6, m: 50 },
+      { n: 'IFG FERRO GUSA', p: 5, m: 80, limite: 400, aviso: 'Limite de R$ 400,00, compras até 31/03.' },
+      { n: 'ILCOM MINERAÇÃO', p: 6, m: 50 },
+      { n: 'IMPERATRIZ SERVIÇOS DE MOLAS', p: 6, m: 50 },
+      { n: 'LINK SETE SERVIÇOS DE INTERNET', p: 3, m: 50 },
+      { n: 'MAXION MONTICH DO BRASIL', p: 6, m: 50 },
+      { n: 'METALFER INDUSTRIAL (F.K.F. SAMEZIMA)', p: 3, m: 100 },
+      { n: 'MÓVEIS OLIGON', p: 3, m: 100 },
+      { n: 'OMPI', p: 6, m: 50, limite: 110, aviso: 'Valor máximo da compra pelo convênio: R$ 110,00.' },
+      { n: 'PETROLUB INDUSTRIAL DE LUBRIFICANTES', p: 6, m: 50 },
+      { n: 'RESTAURANTE FOGÃO DE MINAS', p: 6, m: 50 },
+      { n: 'SALATINI INSTALAÇÕES ELÉTRICAS', p: 6, m: 50 },
+      { n: 'SALATINI (POLIFORMIX SOLUÇÕES)', p: 6, m: 50 },
+      { n: 'SALATINI SOLUÇÕES TÉCNICAS', p: 6, m: 50 },
+      { n: 'SETE LAGOAS TRANSPORTES', p: 6, m: 50 },
+      { n: 'SL7 TELECOMUNICAÇÕES', p: 3, m: 50 },
+      { n: 'TECNOSULFUR', p: 1, m: 0, aviso: 'Benefício em 1 parcela, compras de 22/01 a 22/02.' },
+      { n: 'VANESSA FRANÇA RAPOSO JANUÁRIO (CANTINA)', p: 5, m: 50 },
+      { n: 'VPN INTERNET', p: 3, m: 50 },
+      { n: 'WA EQUIPAMENTOS DE SEGURANÇA (LUVA SETE)', p: 6, m: 50 }
+    ];
     var PAGAMENTOS = [
       ['PIX', 'PIX'], ['Débito', 'Cartão de débito'], ['Crédito', 'Cartão de crédito'],
       ['Convênio', 'Convênio empresa'], ['Dinheiro', 'Dinheiro']
@@ -1729,12 +1779,31 @@
       return Math.min(p, parcelasPossiveis());
     }
 
+    function convenioEscolhido() {
+      for (var i = 0; i < CONVENIOS.length; i++) { if (CONVENIOS[i].n === DADOS.convenio) { return CONVENIOS[i]; } }
+      return null;
+    }
+    /* valor que vai no convenio: o total, ou o limite da empresa quando ele e' menor (o resto paga na entrega) */
+    function valorConvenio() { var c = convenioEscolhido(), t = totalFinal(); return c && c.limite ? Math.min(t, c.limite) : t; }
+    function parcelasConvenioPossiveis() {
+      var c = convenioEscolhido(); if (!c) { return 1; }
+      if (!c.m) { return Math.max(1, c.p); }
+      return Math.max(1, Math.min(c.p, Math.floor(valorConvenio() / c.m + 1e-9)));
+    }
+    function parcelasConvenio() { return Math.min(parseInt(DADOS.parcConv, 10) || 1, parcelasConvenioPossiveis()); }
+    function docsConvenioOk() { var d = DADOS.docsConv || {}; return d.documento === 'ok' && d.autorizacao === 'ok'; }
+
     function textoPagamento() {
       if (DADOS.pagto === 'Crédito') {
         var n = parcelasEscolhidas();
         return 'Cartão de crédito ' + (n > 1 ? n + 'x de ' + moeda(totalFinal() / n) + ' sem juros' : 'à vista');
       }
-      if (DADOS.pagto === 'Convênio') { return 'Convênio empresa (' + (DADOS.convenio || '').trim() + ')'; }
+      if (DADOS.pagto === 'Convênio') {
+        var nc = parcelasConvenio(), vc = valorConvenio(), resto = Math.round((totalFinal() - vc) * 100) / 100;
+        return 'Convênio empresa (' + (DADOS.convenio || '').trim() + ') ' + nc + 'x de ' + moeda(vc / nc)
+          + (resto > 0 ? ' + ' + moeda(resto) + ' acima do limite, pagos na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + ' de outra forma' : '')
+          + ' - documentos: ' + (docsConvenioOk() ? 'enviados pelo site (conferir antes de liberar)' : 'APRESENTAR documento com foto e autorização do convênio');
+      }
       if (DADOS.pagto === 'Dinheiro') {
         return 'Dinheiro' + ((DADOS.troco || '').trim() ? ' (troco para ' + DADOS.troco.trim() + ')' : '');
       }
@@ -1783,7 +1852,7 @@
       DADOS[el.name] = el.value;
       try { localStorage.setItem('carrinho-dados', JSON.stringify(DADOS)); } catch (e) {}
       if (el.name === 'pessoa') { DADOS.docAviso = ''; DADOS.situacao = ''; buscaCnpj = ''; }
-      if (['entrega', 'pagto', 'parcelas', 'pessoa'].indexOf(el.name) >= 0) { pintarPainel(); }
+      if (['entrega', 'pagto', 'parcelas', 'pessoa', 'convenio', 'parcConv'].indexOf(el.name) >= 0) { pintarPainel(); }
       else if (el.name === 'bairro') { pintarRodape(); }
     }
     function esc(t) {
@@ -1950,9 +2019,88 @@
         return '<label>Parcelas<select name="parcelas" onchange="guardarDado(this)">' + op + '</select></label>'
           + '<p class="car-nota">At\u00e9 ' + PARCELAS_MAX + 'x sem juros, parcela m\u00ednima de ' + moeda(PARCELA_MINIMA) + '.</p>';
       }
-      if (DADOS.pagto === 'Conv\u00eanio') { return campo('convenio', 'Empresa do conv\u00eanio *'); }
+      if (DADOS.pagto === 'Conv\u00eanio') { return quadroConvenio(); }
       if (DADOS.pagto === 'Dinheiro') { return campo('troco', 'Troco para quanto? (opcional)', 'text', ' placeholder="Ex.: R$ 100,00"'); }
       return '';
+    }
+
+    function quadroConvenio() {
+      var op = '<option value="">Escolha a empresa</option>' + CONVENIOS.map(function (c) {
+        return '<option' + (c.n === DADOS.convenio ? ' selected' : '') + '>' + esc(c.n) + '</option>'; }).join('');
+      var h = '<label>Empresa do conv\u00eanio *<select name="convenio" onchange="guardarDado(this)">' + op + '</select></label>';
+      var c = convenioEscolhido();
+      if (!c) { return h + '<p class="car-nota">S\u00f3 empresas conveniadas com a Toledo. N\u00e3o achou a sua? Fale com a vendedora.</p>'; }
+      var max = parcelasConvenioPossiveis(), sel = parcelasConvenio(), vc = valorConvenio(), o = '';
+      for (var n = 1; n <= max; n++) {
+        o += '<option value="' + n + '"' + (n === sel ? ' selected' : '') + '>' + n + 'x de ' + moeda(vc / n) + '</option>';
+      }
+      h += '<label>Parcelamento<select name="parcConv" onchange="guardarDado(this)">' + o + '</select></label>'
+        + '<p class="car-nota">' + (c.m ? 'Esta empresa: at\u00e9 ' + c.p + 'x, parcela m\u00ednima de ' + moeda(c.m) + '.' : '')
+        + (c.aviso ? ' ' + esc(c.aviso) : '') + '</p>';
+      var resto = Math.round((totalFinal() - vc) * 100) / 100;
+      if (resto > 0) {
+        h += '<p class="car-nota" style="color:#b3261e"><b>O limite deste conv\u00eanio \u00e9 ' + moeda(c.limite) + '.</b> Os '
+          + moeda(resto) + ' que passam do limite s\u00e3o pagos na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada')
+          + ' por PIX, cart\u00e3o ou dinheiro.</p>';
+      }
+      if (!DOCS_CONVENIO_ATIVO) {
+        return h + '<p class="car-nota" style="color:#1a2f52"><b>Documentos do conveniado:</b> apresente um documento com foto e a autorização do convênio na '
+          + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + '. A vendedora confere antes de liberar o pedido.</p>';
+      }
+      var d = DADOS.docsConv || {};
+      function caixa(tipo, titulo, ajuda) {
+        var st = d[tipo], txt = st === 'ok' ? '\u2705 Recebido' : st === 'enviando' ? 'Enviando\u2026' : st === 'erro'
+          ? '\u26a0\ufe0f N\u00e3o foi poss\u00edvel enviar. Tente de novo ou apresente na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + '.'
+          : 'Toque para escolher ou tirar uma foto, ou arraste o arquivo para c\u00e1';
+        return '<label class="conv-doc' + (st === 'ok' ? ' ok' : '') + '" ondragover="event.preventDefault();this.classList.add(\'sobre\')"'
+          + ' ondragleave="this.classList.remove(\'sobre\')" ondrop="soltarDocConv(event,\'' + tipo + '\')">'
+          + '<b>' + titulo + ' *</b><span>' + ajuda + '</span><em>' + txt + '</em>'
+          + '<input type="file" accept="image/*,application/pdf" onchange="escolherDocConv(this,\'' + tipo + '\')"></label>';
+      }
+      h += '<div class="conv-docs"><p class="car-nota" style="margin-top:6px"><b>Documentos do conveniado.</b> A vendedora confere antes de liberar o pedido.'
+        + ' Os arquivos ficam guardados em \u00e1rea privada da Toledo, s\u00f3 para esta confer\u00eancia.</p>'
+        + caixa('documento', 'Documento com foto', 'RG, CNH ou carteira de trabalho')
+        + caixa('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'a autoriza\u00e7\u00e3o da empresa para esta compra')
+        + '</div>';
+      return h;
+    }
+    /* sobe o arquivo logo que o cliente escolhe: foto reduzida para 1800 px (JPEG), PDF como esta' (ate' 8 MB) */
+    function escolherDocConv(inp, tipo) { if (inp.files && inp.files[0]) { enviarDocConv(inp.files[0], tipo); } }
+    function soltarDocConv(ev, tipo) {
+      ev.preventDefault(); ev.currentTarget.classList.remove('sobre');
+      var f = ev.dataTransfer && ev.dataTransfer.files && ev.dataTransfer.files[0]; if (f) { enviarDocConv(f, tipo); }
+    }
+    function marcaDocConv(tipo, st) { DADOS.docsConv = DADOS.docsConv || {}; DADOS.docsConv[tipo] = st; salvarDados(); pintarPainel(); }
+    function enviarDocConv(f, tipo) {
+      if (!PEDIDOS_ENDPOINT) { marcaDocConv(tipo, 'erro'); return; }
+      if (!/^image\//.test(f.type) && f.type !== 'application/pdf') { alert('Envie uma foto ou um PDF.'); return; }
+      if (f.type === 'application/pdf' && f.size > 8 * 1024 * 1024) { alert('PDF muito grande (m\u00e1ximo 8 MB).'); return; }
+      if (!DADOS.docsSessao) { DADOS.docsSessao = (Date.now().toString(36) + Math.random().toString(36).slice(2, 12)).toLowerCase(); }
+      marcaDocConv(tipo, 'enviando');
+      var manda = function (mime, b64) {
+        fetch(PEDIDOS_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+          body: JSON.stringify({ acao: 'doc', sessao: DADOS.docsSessao, tipo: tipo, mime: mime, base64: b64 }) })
+          .then(function (r) { return r.json(); })
+          .then(function (j) { marcaDocConv(tipo, j && j.ok ? 'ok' : 'erro'); })
+          .catch(function () { marcaDocConv(tipo, 'erro'); });
+      };
+      var rd = new FileReader();
+      if (f.type === 'application/pdf') {
+        rd.onload = function () { manda('application/pdf', String(rd.result).split(',')[1]); };
+        rd.readAsDataURL(f); return;
+      }
+      rd.onload = function () {
+        var im = new Image();
+        im.onload = function () {
+          var k = Math.min(1, 1800 / Math.max(im.width, im.height)), cv = document.createElement('canvas');
+          cv.width = Math.round(im.width * k); cv.height = Math.round(im.height * k);
+          cv.getContext('2d').drawImage(im, 0, 0, cv.width, cv.height);
+          manda('image/jpeg', cv.toDataURL('image/jpeg', 0.85).split(',')[1]);
+        };
+        im.onerror = function () { manda(f.type || 'image/jpeg', String(rd.result).split(',')[1]); };
+        im.src = rd.result;
+      };
+      rd.readAsDataURL(f);
     }
 
     function pintarPainel(manterFoco) {
@@ -2182,7 +2330,10 @@
                                bairro: (DADOS.bairro || '').trim(), cidade: (DADOS.cidade || '').trim(), uf: (DADOS.uf || '').trim().toUpperCase(),
                                cep: soDigitos(DADOS.cep) } },
         entrega: DADOS.entrega, taxa_entrega: fr.valor || 0,
-        pagto: DADOS.pagto, parcelas: DADOS.pagto === 'Cr\u00e9dito' ? parcelasEscolhidas() : 1,
+        pagto: DADOS.pagto, parcelas: DADOS.pagto === 'Cr\u00e9dito' ? parcelasEscolhidas() : DADOS.pagto === 'Conv\u00eanio' ? parcelasConvenio() : 1,
+        convenio: DADOS.pagto === 'Conv\u00eanio' ? { empresa: DADOS.convenio, parcelas: parcelasConvenio(), valor: valorConvenio(),
+                                                    documentos: docsConvenioOk() ? 'enviados' : 'apresentar' } : null,
+        docs_sessao: DADOS.pagto === 'Conv\u00eanio' ? (DADOS.docsSessao || '') : '',
         pagamento_detalhe: textoPagamento(), obs: (DADOS.obs || '').trim(),
         itens: CARRINHO.map(function (x) { var i = itemDoCodigo(x.cod); return { cod: i.cod, qtd: x.qtd, preco: i.preco, cor: i.cor || null }; }),
         total: totalFinal(),
@@ -2205,7 +2356,13 @@
       if (!DADOS.entrega) { falta.push('retirar ou entrega'); }
       if (urgente() && URGENTE_SO_PIX) { DADOS.pagto = 'PIX'; }
       if (!DADOS.pagto) { falta.push('forma de pagamento'); }
-      if (DADOS.pagto === 'Convênio' && !(DADOS.convenio || '').trim()) { falta.push('empresa do convênio'); }
+      if (DADOS.pagto === 'Convênio' && !convenioEscolhido()) { falta.push('empresa do convênio'); }
+      if (DADOS.pagto === 'Convênio' && convenioEscolhido() && DOCS_CONVENIO_ATIVO) {
+        var dc = DADOS.docsConv || {};
+        if (dc.documento === 'enviando' || dc.autorizacao === 'enviando') { falta.push('aguardar terminar o envio dos documentos'); }
+        else if (!dc.documento) { falta.push('documento com foto'); }
+        else if (!dc.autorizacao) { falta.push('autorização do convênio'); }
+      }
       var erro = document.getElementById('car-erro');
       if (falta.length) {
         erro.textContent = 'Falta preencher: ' + falta.join(', ') + '.';
