@@ -1039,14 +1039,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 21,
+     "saldo": 20,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 21
+       "saldo": 20
       },
       {
        "cod": 9370,
@@ -2141,7 +2141,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
-     "saldo": 35,
+     "saldo": 33,
      "controle": [
       "AZUL",
       "PRETO",
@@ -2149,7 +2149,7 @@
      ],
      "saldo_cor": {
       "AZUL": 12,
-      "PRETO": 11,
+      "PRETO": 10,
       "ROSA": 11
      }
     },
@@ -2542,7 +2542,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 671
+     "saldo": 670
     },
     {
      "cod": 14124,
@@ -2566,7 +2566,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 166
+     "saldo": 164
     },
     {
      "cod": 6355,
@@ -4098,7 +4098,7 @@
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg",
-     "saldo": 64
+     "saldo": 63
     },
     {
      "cod": 12771,
@@ -4130,7 +4130,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1985
+     "saldo": 1984
     },
     {
      "cod": 4341,
@@ -4384,7 +4384,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14589.jpg",
-     "saldo": 71,
+     "saldo": 70,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -4392,7 +4392,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 24,
-      "AZUL": 24,
+      "AZUL": 23,
       "VERMELHO": 23
      }
     },
@@ -4540,7 +4540,7 @@
      "marca": "TILIBRA",
      "preco": 89.9,
      "img": "produtos/7929.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 4955,
@@ -9078,7 +9078,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 135
+     "saldo": 134
     },
     {
      "cod": 1020,
@@ -9620,7 +9620,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14594.jpg",
-     "saldo": 35,
+     "saldo": 34,
      "controle": [
       "AZUL",
       "CRISTAL",
@@ -9629,7 +9629,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "CRISTAL": 12,
-      "ROSA": 11
+      "ROSA": 10
      }
     },
     {
@@ -9733,14 +9733,6 @@
      "preco": 4.9,
      "img": "produtos/13808.jpg",
      "saldo": 4
-    },
-    {
-     "cod": 6109,
-     "nome": "CORRETIVO CANETA 7ML MASTERPRINT",
-     "marca": "MASTERPRIN",
-     "preco": 5.9,
-     "img": "produtos/6109.jpg",
-     "saldo": 1
     },
     {
      "cod": 979,
@@ -10737,7 +10729,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 91
+       "saldo": 90
       },
       {
        "cod": 758,
@@ -11489,7 +11481,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2140.jpg",
-     "saldo": 240
+     "saldo": 239
     },
     {
      "cod": 2141,
@@ -14530,7 +14522,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/6951.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 6195,
@@ -15249,7 +15241,7 @@
        "cor": "Rosa",
        "nome": "PASTA PP 4CM PLASCONY-LOLIPOP ROSA",
        "img": "produtos/14448.jpg",
-       "saldo": 38
+       "saldo": 37
       },
       {
        "cod": 14447,
@@ -18232,7 +18224,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 27076
+     "saldo": 27073
     },
     {
      "cod": 1098,
@@ -18670,7 +18662,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 339
+     "saldo": 329
     },
     {
      "cod": 13980,
@@ -19546,14 +19538,14 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 27,
+     "saldo": 26,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 6465,
@@ -25615,7 +25607,7 @@
      "marca": "GRESPAN",
      "preco": 4.9,
      "img": "produtos/7171.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 4057,
@@ -27065,7 +27057,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 36
+     "saldo": 34
     },
     {
      "cod": 6860,
@@ -27673,14 +27665,14 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
-     "saldo": 82,
+     "saldo": 72,
      "cores": [
       {
        "cod": 11919,
        "cor": "Rosa",
        "nome": "LAÇO PRONTO (GG)-ROSA",
        "img": "produtos/11919.jpg",
-       "saldo": 82
+       "saldo": 72
       },
       {
        "cod": 11918,
@@ -28237,7 +28229,7 @@
      "marca": "GERSELE",
      "preco": 0.2,
      "img": "produtos/3674.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 2772,
@@ -28269,7 +28261,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 472
+     "saldo": 422
     },
     {
      "cod": 2777,
@@ -28285,7 +28277,7 @@
      "marca": "GERSELE",
      "preco": 1.6,
      "img": "produtos/2779.jpg",
-     "saldo": 897
+     "saldo": 847
     },
     {
      "cod": 2780,
@@ -28293,7 +28285,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 579
+     "saldo": 528
     },
     {
      "cod": 6912,
@@ -29081,7 +29073,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 652
+     "saldo": 651
     },
     {
      "cod": 1786,
@@ -30620,7 +30612,7 @@
        "cor": "Preto",
        "nome": "APONTADOR LEO S/D REDONDO-PRETO",
        "img": "produtos/7596.jpg",
-       "saldo": 33
+       "saldo": 32
       },
       {
        "cod": 7594,
@@ -31546,14 +31538,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 303,
+     "saldo": 302,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 303
+       "saldo": 302
       },
       {
        "cod": 6051,
