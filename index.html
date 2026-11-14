@@ -2044,7 +2044,7 @@
           + ' por PIX, cart\u00e3o ou dinheiro.</p>';
       }
       if (!DOCS_CONVENIO_ATIVO) {
-        return h + '<p class="car-nota" style="color:#1a2f52"><b>Documentos do conveniado:</b> apresente um documento com foto e a autorização do convênio na '
+        return h + '<p class="car-nota" style="color:#1a2f52"><b>Documentos do conveniado:</b> apresente a autorização do convênio e um documento com foto (identidade, CNH, passaporte etc.) na '
           + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + '. A vendedora confere antes de liberar o pedido.</p>';
       }
       var d = DADOS.docsConv || {};
@@ -2059,8 +2059,8 @@
       }
       h += '<div class="conv-docs"><p class="car-nota" style="margin-top:6px"><b>Documentos do conveniado.</b> A vendedora confere antes de liberar o pedido.'
         + ' Os arquivos ficam guardados em \u00e1rea privada da Toledo, s\u00f3 para esta confer\u00eancia.</p>'
-        + caixa('documento', 'Documento com foto', 'RG, CNH ou carteira de trabalho')
         + caixa('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'a autoriza\u00e7\u00e3o da empresa para esta compra')
+        + caixa('documento', 'Documento com foto', 'identidade, CNH, passaporte etc.')
         + '</div>';
       return h;
     }
