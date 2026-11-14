@@ -2167,7 +2167,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1096
+     "saldo": 1095
     },
     {
      "cod": 1670,
@@ -3554,7 +3554,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 60
+       "saldo": 58
       },
       {
        "cod": 2658,
@@ -3848,7 +3848,7 @@
     },
     {
      "cod": 14690,
-     "nome": "LAPISEIRA 2.0 MOLIN-LILAS",
+     "nome": "LAPISEIRA 2.0 MOLIN - TONS PASTEÍS",
      "marca": "",
      "preco": 4.9,
      "img": "produtos/14690.jpg",
@@ -4476,7 +4476,7 @@
      "marca": "TILIBRA",
      "preco": 26.9,
      "img": "produtos/7110.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 14280,
@@ -6407,7 +6407,7 @@
      "marca": "SD",
      "preco": 11.9,
      "img": "produtos/13065.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13066,
@@ -8876,7 +8876,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/1028.jpg",
-     "saldo": 2888
+     "saldo": 2887
     },
     {
      "cod": 1029,
@@ -9150,7 +9150,7 @@
      "marca": "PLASTCOR",
      "preco": 18.9,
      "img": "produtos/1317.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 9512,
@@ -10245,7 +10245,7 @@
      "marca": "TILIBRA",
      "preco": 4.5,
      "img": "produtos/1977.jpg",
-     "saldo": 137
+     "saldo": 136
     },
     {
      "cod": 4320,
@@ -11105,20 +11105,13 @@
      ]
     },
     {
-     "cod": 2114,
+     "cod": 2115,
      "nome": "LAMINADO",
      "marca": "CROMUS",
      "preco": 1.5,
-     "img": "produtos/2114.jpg",
-     "saldo": 1,
+     "img": "produtos/2115.jpg",
+     "saldo": 66,
      "cores": [
-      {
-       "cod": 2114,
-       "cor": "Amarelo",
-       "nome": "LAMINADO-AMARELO",
-       "img": "produtos/2114.jpg",
-       "saldo": 1
-      },
       {
        "cod": 2115,
        "cor": "Azul",
@@ -11131,7 +11124,7 @@
        "cor": "Prata",
        "nome": "LAMINADO-PRATA",
        "img": "produtos/2116.jpg",
-       "saldo": 104
+       "saldo": 100
       },
       {
        "cod": 2117,
@@ -11202,7 +11195,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 733
+     "saldo": 732
     },
     {
      "cod": 5082,
@@ -11472,7 +11465,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 402
+     "saldo": 377
     },
     {
      "cod": 2139,
@@ -16131,7 +16124,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 180
+       "saldo": 177
       },
       {
        "cod": 1221,
@@ -19189,7 +19182,7 @@
      "marca": "",
      "preco": 6.5,
      "img": "produtos/12.jpg",
-     "saldo": 95
+     "saldo": 93
     },
     {
      "cod": 46,
@@ -19197,7 +19190,7 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/46.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 13101,
@@ -19261,7 +19254,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 124
+     "saldo": 123
     },
     {
      "cod": 14261,
@@ -19761,7 +19754,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/3538.jpg",
-     "saldo": 760
+     "saldo": 759
     },
     {
      "cod": 12731,
@@ -21384,7 +21377,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
-     "saldo": 68,
+     "saldo": 66,
      "controle": [
       "AMARELO",
       "LARANJA",
@@ -21394,12 +21387,12 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AMARELO": 11,
+      "AMARELO": 10,
       "LARANJA": 12,
       "ROXO": 12,
       "VERDE": 11,
       "VERDE-ÁGUA": 12,
-      "VERMELHO": 10
+      "VERMELHO": 9
      }
     },
     {
@@ -21594,7 +21587,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 46
+     "saldo": 44
     },
     {
      "cod": 944,
@@ -22144,7 +22137,7 @@
      "marca": "ISOMAX",
      "preco": 1.9,
      "img": "produtos/9910.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 9930,
@@ -24017,14 +24010,6 @@
      "saldo": 34
     },
     {
-     "cod": 12124,
-     "nome": "CAIXA PAPELAO MUDANÇA N°3 (50X50X50)",
-     "marca": "SANTECK",
-     "preco": 21.9,
-     "img": "produtos/12124.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 12125,
      "nome": "CAIXA PAPELAO MUDANÇA N°4 (60X50X60)",
      "marca": "SANTECK",
@@ -24110,7 +24095,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/6101.jpg",
-     "saldo": 35
+     "saldo": 34
     }
    ]
   },
@@ -25414,7 +25399,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4941.jpg",
-     "saldo": 335
+     "saldo": 334
     },
     {
      "cod": 4942,
@@ -25438,7 +25423,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/4944.jpg",
-     "saldo": 215
+     "saldo": 214
     },
     {
      "cod": 4945,
@@ -26422,7 +26407,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2903.jpg",
-     "saldo": 218
+     "saldo": 217
     },
     {
      "cod": 2904,
@@ -26430,7 +26415,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 2905,
@@ -26438,7 +26423,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 2906,
@@ -26604,7 +26589,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 790
+     "saldo": 758
     },
     {
      "cod": 236,
@@ -27048,7 +27033,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6102.jpg",
-     "saldo": 48
+     "saldo": 45
     },
     {
      "cod": 6103,
@@ -28466,7 +28451,7 @@
      "marca": "PRIMUS",
      "preco": 39.9,
      "img": "produtos/1160.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 1197,
@@ -29390,7 +29375,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 319
+     "saldo": 318
     },
     {
      "cod": 2157,
@@ -32136,7 +32121,7 @@
        "cor": "Prata",
        "nome": "CONTACT GLITER-PRATA",
        "img": "produtos/7626.jpg",
-       "saldo": 10
+       "saldo": 8
       },
       {
        "cod": 4938,
