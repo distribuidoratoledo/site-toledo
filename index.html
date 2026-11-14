@@ -294,6 +294,8 @@
     .car-nota { font-size: .76rem; color: #6b7687; line-height: 1.45; margin: 4px 0 8px; }
     .car-mais { margin: 10px 0 6px; padding: 10px 12px; border: 1px solid #dfe5ee; border-radius: 10px; background: #f7f9fc; }
     .car-mais h4 { margin: 0 0 6px; }
+    .car-voltar { display: block; width: 100%; margin-top: 10px; padding: 10px; border: 2px solid #1a2f52; border-radius: 8px; background: #fff; color: #1a2f52; font-weight: 700; font-size: .88rem; cursor: pointer; }
+    .car-voltar:hover { background: #1a2f52; color: #fff; }
     .car-mais input[type=search] { width: 100%; box-sizing: border-box; padding: 9px 10px; border: 1px solid #b9c3d3; border-radius: 8px; font-size: .9rem; }
     .car-mais-it { display: grid; grid-template-columns: 44px 1fr auto; gap: 8px; align-items: center; padding: 7px 0; border-bottom: 1px solid #e8edf3; }
     .car-mais-it:last-child { border-bottom: 0; }
@@ -2143,6 +2145,11 @@
           + '</div>';
       }).join('');
     }
+    /* volta para a vitrine sem perder o carrinho (Adriana, 14/11/2026: "deixar o cliente voltar ao catalogo de produtos") */
+    function voltarAoCatalogo() {
+      fecharCarrinho();
+      var el = document.getElementById('produtos'); if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    }
     function adicionarDoCarrinho(cod) {
       colocar(cod, 1); pintarPainel(true);
       var b = document.getElementById('car-busca'); if (b) { b.focus(); }
@@ -2184,7 +2191,8 @@
         + '<p class="car-nota">Pre\u00e7os do site. Estoque, frete e pagamento s\u00e3o confirmados pela Toledo no WhatsApp antes de fechar o pedido. <a href="politicas.html" target="_blank" rel="noopener">Entregas, trocas e privacidade</a></p>'
         + '<div class="car-mais"><h4>Adicionar mais itens</h4>'
         + '<input type="search" id="car-busca" placeholder="Busque pelo nome ou código do produto" value="' + esc(BUSCA_CAR) + '"'
-        + ' oninput="buscarNoCarrinho(this.value)" autocomplete="off"><div id="car-busca-res"></div></div>'
+        + ' oninput="buscarNoCarrinho(this.value)" autocomplete="off"><div id="car-busca-res"></div>'
+        + '<button type="button" class="car-voltar" onclick="voltarAoCatalogo()">← Voltar ao catálogo de produtos</button></div>'
         + '<div class="car-form">'
         + blocoCadastro()
         + '<h4>Como receber</h4>'
