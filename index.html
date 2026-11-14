@@ -189,7 +189,7 @@
       flex-wrap: wrap; margin: 2px 0 6px; }
     .prod .bolinhas span { font-size: .68rem; color: #6b7687; }
 
-    .jan-fundo { position: fixed; inset: 0; z-index: 90; background: rgba(12,20,34,.62);
+    .jan-fundo { position: fixed; inset: 0; z-index: 110; background: rgba(12,20,34,.62);
       display: flex; align-items: center; justify-content: center; padding: 20px; }
     .jan-fundo[hidden] { display: none; }
     .jan { background: #fff; border-radius: 14px; width: 100%; max-width: 880px;
@@ -292,6 +292,15 @@
       font-size: 1rem; color: #1d2940; }
     .car-sub b { font-size: 1.35rem; color: var(--vermelho); font-variant-numeric: tabular-nums; }
     .car-nota { font-size: .76rem; color: #6b7687; line-height: 1.45; margin: 4px 0 8px; }
+    .car-mais { margin: 10px 0 6px; padding: 10px 12px; border: 1px solid #dfe5ee; border-radius: 10px; background: #f7f9fc; }
+    .car-mais h4 { margin: 0 0 6px; }
+    .car-mais input[type=search] { width: 100%; box-sizing: border-box; padding: 9px 10px; border: 1px solid #b9c3d3; border-radius: 8px; font-size: .9rem; }
+    .car-mais-it { display: grid; grid-template-columns: 44px 1fr auto; gap: 8px; align-items: center; padding: 7px 0; border-bottom: 1px solid #e8edf3; }
+    .car-mais-it:last-child { border-bottom: 0; }
+    .car-mais-it img, .car-mais-it .sf { width: 44px; height: 44px; object-fit: contain; border-radius: 6px; background: #fff; }
+    .car-mais-it .nm { font-size: .8rem; font-weight: 600; color: #1a2f52; line-height: 1.25; }
+    .car-mais-it .cd { font-size: .72rem; color: #6b7687; }
+    .car-mais-it button { background: #e31e3c; color: #fff; border: 0; border-radius: 8px; padding: 7px 10px; font-weight: 700; font-size: .78rem; cursor: pointer; white-space: nowrap; }
     .conv-docs { display: grid; gap: 8px; margin: 4px 0 10px; }
     .conv-doc { position: relative; display: block; border: 2px dashed #b9c3d3; border-radius: 10px; padding: 10px 12px; background: #f7f9fc; cursor: pointer; }
     .conv-doc.sobre { border-color: #e31e3c; background: #fff3f5; }
@@ -1682,6 +1691,8 @@
       var cod = p.cores ? p.cores[janCor].cod : (p.controle ? p.cod + '|' + p.controle[janCor] : p.cod);
       fecharProduto();
       colocar(cod, q);
+      // aberto pela busca do carrinho: o carrinho continua aberto e mostra o item novo
+      var cf = document.getElementById('car-fundo'); if (cf && !cf.hidden) { pintarPainel(true); }
     }
 
     var avisoTimer = null;
@@ -2103,6 +2114,40 @@
       rd.readAsDataURL(f);
     }
 
+    /* ADICIONAR MAIS ITENS DENTRO DO CARRINHO (Adriana, 14/11/2026: "quero poder adicionar mais itens nessa etapa"):
+       busca pelo nome ou codigo; produto com cor abre a janela do produto para escolher a cor */
+    var BUSCA_CAR = '';
+    function semAcentoCar(t) { return String(t || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toUpperCase(); }
+    function buscarNoCarrinho(q) {
+      BUSCA_CAR = q || '';
+      var res = document.getElementById('car-busca-res'); if (!res) { return; }
+      var ps = semAcentoCar(BUSCA_CAR).split(/\s+/).filter(Boolean);
+      if (!ps.length || (ps.length === 1 && ps[0].length < 2)) { res.innerHTML = ''; return; }
+      var vistos = {}, achados = [];
+      Object.keys(PRODUTOS).some(function (k) {
+        var p = PRODUTOS[k]; if (!p || vistos[p.cod]) { return false; } vistos[p.cod] = 1;
+        var txt = semAcentoCar(p.nome + ' ' + p.cod);
+        if (ps.every(function (w) { return txt.indexOf(w) >= 0; })) {
+          var i = itemDoCodigo(p.cores ? p.cores[0].cod : p.controle ? p.cod + '|' + p.controle[0] : p.cod);
+          if (i && i.preco > 0) { achados.push({ p: p, i: i }); }
+        }
+        return achados.length >= 8;
+      });
+      if (!achados.length) { res.innerHTML = '<p class="car-nota">Nenhum produto encontrado.</p>'; return; }
+      res.innerHTML = achados.map(function (a) {
+        var temCor = !!(a.p.cores || a.p.controle);
+        return '<div class="car-mais-it">' + (a.p.img ? '<img src="' + a.p.img + '" alt="">' : '<div class="sf"></div>')
+          + '<div><div class="nm">' + esc(a.p.nome) + '</div><div class="cd">Código: ' + a.p.cod + ' · <b>' + moeda(a.i.preco) + '</b></div></div>'
+          + (temCor ? '<button type="button" onclick="abrirProduto(\'' + a.p.cod + '\')">Escolher cor</button>'
+                    : '<button type="button" onclick="adicionarDoCarrinho(\'' + a.p.cod + '\')">Adicionar</button>')
+          + '</div>';
+      }).join('');
+    }
+    function adicionarDoCarrinho(cod) {
+      colocar(cod, 1); pintarPainel(true);
+      var b = document.getElementById('car-busca'); if (b) { b.focus(); }
+    }
+
     function pintarPainel(manterFoco) {
       var corpo = document.getElementById('car-corpo');
       var ativo = manterFoco && document.activeElement && document.activeElement.name;
@@ -2130,12 +2175,16 @@
       }).join('');
       var entrega = DADOS.entrega === 'entrega';
       ajustarPagamentoUrgente();
+      setTimeout(function () { if (BUSCA_CAR) { buscarNoCarrinho(BUSCA_CAR); } }, 0);
       corpo.innerHTML = linhas
         + '<div class="car-sub"><span>Total dos produtos</span><b>' + moeda(totalCarrinho()) + '</b></div>'
         + (totalCarrinho() < ENTREGA_GRATIS_A_PARTIR
             ? '<p class="car-nota">Entrega sem taxa a partir de ' + moeda(ENTREGA_GRATIS_A_PARTIR) + '. Faltam ' + moeda(ENTREGA_GRATIS_A_PARTIR - totalCarrinho()) + '.</p>'
             : '<p class="car-nota">Entrega sem taxa nesta compra.</p>')
         + '<p class="car-nota">Pre\u00e7os do site. Estoque, frete e pagamento s\u00e3o confirmados pela Toledo no WhatsApp antes de fechar o pedido. <a href="politicas.html" target="_blank" rel="noopener">Entregas, trocas e privacidade</a></p>'
+        + '<div class="car-mais"><h4>Adicionar mais itens</h4>'
+        + '<input type="search" id="car-busca" placeholder="Busque pelo nome ou código do produto" value="' + esc(BUSCA_CAR) + '"'
+        + ' oninput="buscarNoCarrinho(this.value)" autocomplete="off"><div id="car-busca-res"></div></div>'
         + '<div class="car-form">'
         + blocoCadastro()
         + '<h4>Como receber</h4>'
