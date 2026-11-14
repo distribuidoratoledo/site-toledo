@@ -1800,9 +1800,9 @@
       }
       if (DADOS.pagto === 'Convênio') {
         var nc = parcelasConvenio(), vc = valorConvenio(), resto = Math.round((totalFinal() - vc) * 100) / 100;
-        return 'Convênio empresa (' + (DADOS.convenio || '').trim() + ') ' + nc + 'x de ' + moeda(vc / nc)
+        return 'Convênio empresa (' + (DADOS.convenio || '').trim() + ') ' + nc + 'x de ' + moeda(vc / nc) + (nc > 1 ? ' sem juros' : '')
           + (resto > 0 ? ' + ' + moeda(resto) + ' acima do limite, pagos na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + ' de outra forma' : '')
-          + ' - documentos: ' + (docsConvenioOk() ? 'enviados pelo site (conferir antes de liberar)' : 'APRESENTAR documento com foto e autorização do convênio');
+          + ' - documentos: ' + (docsConvenioOk() ? 'enviados pelo site (conferir antes de liberar)' : 'APRESENTAR autorização do convênio e documento com foto');
       }
       if (DADOS.pagto === 'Dinheiro') {
         return 'Dinheiro' + ((DADOS.troco || '').trim() ? ' (troco para ' + DADOS.troco.trim() + ')' : '');
@@ -2032,7 +2032,7 @@
       if (!c) { return h + '<p class="car-nota">S\u00f3 empresas conveniadas com a Toledo. N\u00e3o achou a sua? Fale com a vendedora.</p>'; }
       var max = parcelasConvenioPossiveis(), sel = parcelasConvenio(), vc = valorConvenio(), o = '';
       for (var n = 1; n <= max; n++) {
-        o += '<option value="' + n + '"' + (n === sel ? ' selected' : '') + '>' + n + 'x de ' + moeda(vc / n) + '</option>';
+        o += '<option value="' + n + '"' + (n === sel ? ' selected' : '') + '>' + n + 'x de ' + moeda(vc / n) + (n > 1 ? ' sem juros' : '') + '</option>';
       }
       h += '<label>Parcelamento<select name="parcConv" onchange="guardarDado(this)">' + o + '</select></label>'
         + '<p class="car-nota">' + (c.m ? 'Esta empresa: at\u00e9 ' + c.p + 'x, parcela m\u00ednima de ' + moeda(c.m) + '.' : '')
