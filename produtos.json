@@ -4849,7 +4849,7 @@
      "marca": "PANAMERICA",
      "preco": 4.5,
      "img": "produtos/319.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 13535,
@@ -8446,7 +8446,7 @@
      "marca": "BIC",
      "preco": 5.9,
      "img": "produtos/3965.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 3970,
@@ -8892,7 +8892,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2026
+     "saldo": 2025
     },
     {
      "cod": 1031,
@@ -9196,7 +9196,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 1520,
@@ -10023,7 +10023,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 3911,
@@ -10047,7 +10047,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 6612,
@@ -10245,7 +10245,7 @@
      "marca": "TILIBRA",
      "preco": 4.5,
      "img": "produtos/1977.jpg",
-     "saldo": 138
+     "saldo": 137
     },
     {
      "cod": 4320,
@@ -11360,7 +11360,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 64
+     "saldo": 61
     },
     {
      "cod": 6667,
@@ -11734,7 +11734,7 @@
      "marca": "SOUZ/STALO",
      "preco": 59.9,
      "img": "produtos/3996.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 2585,
@@ -11868,7 +11868,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 238
+     "saldo": 237
     },
     {
      "cod": 11627,
@@ -16075,14 +16075,14 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 47,
+     "saldo": 62,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 47
+       "saldo": 62
       },
       {
        "cod": 4829,
@@ -22752,7 +22752,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 98
+     "saldo": 96
     },
     {
      "cod": 4733,
@@ -22760,7 +22760,7 @@
      "marca": "TOTAPLAST",
      "preco": 8.9,
      "img": "produtos/4733.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 13885,
@@ -23004,7 +23004,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 6315,
@@ -23602,7 +23602,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 1376,
@@ -23704,7 +23704,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1033
+     "saldo": 1025
     },
     {
      "cod": 3857,
@@ -24680,7 +24680,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 63
+     "saldo": 62
     }
    ]
   },
@@ -25142,7 +25142,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 24
+     "saldo": 1
     },
     {
      "cod": 10060,
@@ -25830,7 +25830,7 @@
        "cor": "Rosa Pink",
        "nome": "SACOLA PH 20X30 C/50-ROSA PINK",
        "img": "produtos/2852.jpg",
-       "saldo": 3
+       "saldo": 2
       },
       {
        "cod": 3849,
@@ -25962,7 +25962,7 @@
        "cor": "Rosa",
        "nome": "SACOLA PH 30X40 C/50-ROSA",
        "img": "produtos/4326.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 2858,
@@ -26478,7 +26478,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 187
+     "saldo": 183
     },
     {
      "cod": 4314,
@@ -26698,7 +26698,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 1278,
@@ -28916,7 +28916,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/193.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 194,
@@ -28940,7 +28940,7 @@
      "marca": "TANQUE NOV",
      "preco": 37.9,
      "img": "produtos/14329.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1724,
@@ -29232,7 +29232,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 10988,
@@ -32308,7 +32308,7 @@
      "marca": "LEOTACK",
      "preco": 15.9,
      "img": "produtos/7615.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 928,
