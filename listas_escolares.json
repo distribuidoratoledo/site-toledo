@@ -1899,7 +1899,8 @@
       "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
       "A taxa de encadernação será pedida oportunamente.",
       "As aulas terão início no dia 01 de fevereiro."
-     ]
+     ],
+     "idade": "1 ano"
     },
     {
      "id": "angelis-maternal2",
@@ -2263,7 +2264,8 @@
       "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
       "A taxa de encadernação será pedida oportunamente.",
       "As aulas terão início no dia 01 de fevereiro."
-     ]
+     ],
+     "idade": "2 anos"
     },
     {
      "id": "angelis-maternal3",
@@ -2627,7 +2629,8 @@
       "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
       "A taxa de encadernação será pedida oportunamente.",
       "As aulas terão início no dia 01 de fevereiro."
-     ]
+     ],
+     "idade": "3 anos"
     },
     {
      "id": "angelis-periodo1",
@@ -3019,7 +3022,8 @@
       "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
       "A taxa de encadernação será pedida oportunamente.",
       "As aulas terão início no dia 01 de fevereiro."
-     ]
+     ],
+     "idade": "4 anos"
     },
     {
      "id": "angelis-periodo2",
@@ -3428,7 +3432,8 @@
       "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
       "A taxa de encadernação será pedida oportunamente.",
       "As aulas terão início no dia 01 de fevereiro."
-     ]
+     ],
+     "idade": "5 anos"
     },
     {
      "id": "angelis-ano1",
@@ -20823,5 +20828,5 @@
    ]
   }
  ],
- "atualizado": "14/11/2026 10:36"
+ "atualizado": "14/11/2026 10:42"
 }
