@@ -1555,6 +1555,4023 @@
    ]
   },
   {
+   "id": "angelis",
+   "nome": "Colégio Angelis",
+   "listas": [
+    {
+     "id": "angelis-maternal1",
+     "ano": "Maternal I (G1)",
+     "orcamento": 662238,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A3 60 kg",
+       "qtd": 2,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho azul",
+       "qtd": 1,
+       "cod": 3975,
+       "produto": "PAPEL A4 COLOR. C/100-AZUL",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/3975.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso lilás ou roxo",
+       "qtd": 1,
+       "cod": 1236,
+       "produto": "EVA LISO-LILAS",
+       "marca": "MAKE+",
+       "preco": 1.5,
+       "foto": "listas/fotos/1236.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter lilás ou roxo",
+       "qtd": 1,
+       "cod": 4830,
+       "produto": "EVA GLITER-LILAS",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/4830.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "50 folhas de colorsete ofício vermelhas",
+       "qtd": 1,
+       "cod": 2065,
+       "produto": "COLORSETE A4 C/50 VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2065.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 tubo de cola branca grande, bico azul (225 g)",
+       "qtd": 2,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 folhas de papel crepom (roxo e verde)",
+       "qtd": 1,
+       "cod": 7894,
+       "produto": "CREPOM ROXO",
+       "preco": 1.9,
+       "foto": "listas/fotos/7894.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Crepom verde",
+       "qtd": 1,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 caixas de massinha com 12 unidades",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache (250 g) roxo",
+       "qtd": 1,
+       "cod": 3027,
+       "produto": "GUACHE 250ML ACRILEX-VIOLETA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3027.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 esponja macia (tipo de banho)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 rolinho de lastex preto",
+       "qtd": 1,
+       "cod": 1717,
+       "produto": "LASTEX C/10M-PRETO",
+       "marca": "S.JOSE",
+       "preco": 4.0,
+       "foto": "listas/fotos/1717.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caneta para retroprojetor azul ou preta",
+       "qtd": 1,
+       "cod": 9405,
+       "produto": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/9405.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões roxos nº 9 (Pic-Pic ou São Roque)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 brinquedo pedagógico de montar, grande",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "3 bastões de cola quente fina",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 novelo de lã de qualquer cor",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de pratinhos de papel pequenos",
+       "qtd": 1,
+       "cod": 2561,
+       "produto": "PRATO PAPELAO 3 C/100 (17,5CM)",
+       "marca": "PITPRATOS",
+       "preco": 25.9,
+       "obs": "Pacote com 100.",
+       "foto": "listas/fotos/2561.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de copos descartáveis para arte e culinária",
+       "qtd": 1,
+       "cod": 14406,
+       "produto": "COPO 200ML PS C/100-COPOJU",
+       "marca": "COPOJU",
+       "preco": 4.9,
+       "obs": "Copo 200 ml, pacote com 100.",
+       "foto": "listas/fotos/14406.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de colheres descartáveis",
+       "qtd": 1,
+       "cod": 7255,
+       "produto": "COLHER REFEIÇÃO C/50",
+       "preco": 3.9,
+       "obs": "Pacote com 50.",
+       "foto": "listas/fotos/7255.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caixa de giz de cera",
+       "qtd": 1,
+       "cod": 10262,
+       "produto": "GIZAO CERA ACRILEX C/6",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Gizão Acrilex com 6 cores.",
+       "foto": "listas/fotos/10262.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 foto 10x15 da criança sozinha",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 30 plásticos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 avental plástico para arte",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 guardanapo de pano com o nome da criança",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "2 mudas de roupa",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "3 fraldas",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 embalagem de lenço umedecido",
+       "qtd": 1,
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "foto": "listas/fotos/14659.jpg",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 pomada para assadura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro."
+     ]
+    },
+    {
+     "id": "angelis-maternal2",
+     "ano": "Maternal II (G2)",
+     "orcamento": 662239,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A3 60 kg",
+       "qtd": 2,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "500 folhas de papel ofício A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho azul",
+       "qtd": 1,
+       "cod": 3975,
+       "produto": "PAPEL A4 COLOR. C/100-AZUL",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/3975.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso branco",
+       "qtd": 1,
+       "cod": 1233,
+       "produto": "EVA LISO-BRANCO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1233.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter branco",
+       "qtd": 1,
+       "cod": 1217,
+       "produto": "EVA GLITER-BRANCO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1217.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de papel crepom branco",
+       "qtd": 1,
+       "cod": 5075,
+       "produto": "CREPOM BRANCO",
+       "preco": 1.9,
+       "foto": "listas/fotos/5075.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de papel crepom azul",
+       "qtd": 1,
+       "cod": 2070,
+       "produto": "CREPOM AZUL ESCURO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2070.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "50 folhas de colorsete ofício amarela",
+       "qtd": 1,
+       "cod": 2051,
+       "produto": "COLORSETE A4 C/50 AMARELO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2051.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 caixas de massinha com 12 unidades",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 tubo grande de cola branca, bico azul (225 g)",
+       "qtd": 2,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache branca",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 esponja macia (tipo de banho)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 rolinho de lastex branco",
+       "qtd": 1,
+       "cod": 1716,
+       "produto": "LASTEX C/10M-BRANCO",
+       "marca": "COATS",
+       "preco": 4.0,
+       "foto": "listas/fotos/1716.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caneta para retroprojetor azul",
+       "qtd": 1,
+       "cod": 3643,
+       "produto": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/3643.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões brancos nº 9",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 brinquedo grande de montar tipo Lego",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "3 bastões de cola quente fina",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 novelo de lã, qualquer cor",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de pratinhos de papel pequenos",
+       "qtd": 1,
+       "cod": 2561,
+       "produto": "PRATO PAPELAO 3 C/100 (17,5CM)",
+       "marca": "PITPRATOS",
+       "preco": 25.9,
+       "obs": "Pacote com 100.",
+       "foto": "listas/fotos/2561.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas fotográficas adesivas",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de copos descartáveis para arte e culinária",
+       "qtd": 1,
+       "cod": 14406,
+       "produto": "COPO 200ML PS C/100-COPOJU",
+       "marca": "COPOJU",
+       "preco": 4.9,
+       "obs": "Copo 200 ml, pacote com 100.",
+       "foto": "listas/fotos/14406.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pincel para pintura nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de colheres descartáveis",
+       "qtd": 1,
+       "cod": 7255,
+       "produto": "COLHER REFEIÇÃO C/50",
+       "preco": 3.9,
+       "obs": "Pacote com 50.",
+       "foto": "listas/fotos/7255.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 6 cores",
+       "qtd": 1,
+       "cod": 7526,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/6",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "foto": "listas/fotos/7526.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caixa de giz de cera gigante jumbo",
+       "qtd": 1,
+       "cod": 10262,
+       "produto": "GIZAO CERA ACRILEX C/6",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Gizão Acrilex com 6 cores.",
+       "foto": "listas/fotos/10262.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Pasta catálogo 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 foto 10x15 da criança sozinha",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 toalhinha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "2 mudas de roupa",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "3 fraldas",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 embalagem de lenço umedecido",
+       "qtd": 1,
+       "cod": 14659,
+       "produto": "LENÇO UMEDECIDO",
+       "preco": 4.9,
+       "foto": "listas/fotos/14659.jpg",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      },
+      {
+       "descricao": "1 pomada para assadura",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uma mochila contendo",
+       "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro."
+     ]
+    },
+    {
+     "id": "angelis-maternal3",
+     "ano": "Maternal III (G3)",
+     "orcamento": 662240,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A3 60 kg",
+       "qtd": 2,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "500 folhas de papel ofício A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso verde",
+       "qtd": 1,
+       "cod": 7675,
+       "produto": "EVA LISO-VERDE ESCURO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/7675.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter verde",
+       "qtd": 1,
+       "cod": 1225,
+       "produto": "EVA GLITER-VERDE BANDEIRA/GRAMA",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1225.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 tubo grande de cola branca, bico azul (225 g)",
+       "qtd": 2,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de papel crepom verde",
+       "qtd": 1,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de papel crepom vermelho",
+       "qtd": 1,
+       "cod": 2081,
+       "produto": "CREPOM VERMELHO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2081.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "50 folhas de colorsete ofício verde",
+       "qtd": 1,
+       "cod": 2063,
+       "produto": "COLORSETE A4 C/50 VERDE BANDEIRA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2063.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho amarelo",
+       "qtd": 1,
+       "cod": 2007,
+       "produto": "PAPEL A4 COLOR. C/100-AMARELO",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/2007.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 caixas de massinha com 12 unidades",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache verde",
+       "qtd": 1,
+       "cod": 3028,
+       "produto": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3028.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 esponja macia (tipo de banho)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 rolinho de lastex branco",
+       "qtd": 1,
+       "cod": 1716,
+       "produto": "LASTEX C/10M-BRANCO",
+       "marca": "COATS",
+       "preco": 4.0,
+       "foto": "listas/fotos/1716.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caneta para retroprojetor preta",
+       "qtd": 1,
+       "cod": 9405,
+       "produto": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/9405.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões verdes nº 9",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 brinquedo grande de montar tipo Lego",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente grossos",
+       "qtd": 1,
+       "cod": 11831,
+       "produto": "REFIL COLA QUENTE GROSSO C/4",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 4 bastões.",
+       "foto": "listas/fotos/11831.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de pratinhos de papel pequenos",
+       "qtd": 1,
+       "cod": 2561,
+       "produto": "PRATO PAPELAO 3 C/100 (17,5CM)",
+       "marca": "PITPRATOS",
+       "preco": 25.9,
+       "obs": "Pacote com 100.",
+       "foto": "listas/fotos/2561.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas fotográficas adesivas",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de copos descartáveis 300 ml para arte e culinária",
+       "qtd": 1,
+       "cod": 949,
+       "produto": "COPO 300ML PS C/100-TOTAL",
+       "marca": "TOTALPLAST",
+       "preco": 8.9,
+       "obs": "Pacote com 100.",
+       "foto": "listas/fotos/949.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de anilina comestível",
+       "qtd": 1,
+       "cod": 6012,
+       "produto": "ANILINA COMESTIVEL AZUL C/10ML",
+       "marca": "MIX",
+       "preco": 4.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/6012.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pincel para pintura nº 16",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 6.5,
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de colheres descartáveis",
+       "qtd": 1,
+       "cod": 7255,
+       "produto": "COLHER REFEIÇÃO C/50",
+       "preco": 3.9,
+       "obs": "Pacote com 50.",
+       "foto": "listas/fotos/7255.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 6 cores",
+       "qtd": 1,
+       "cod": 7526,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/6",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "foto": "listas/fotos/7526.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor jumbo",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 tesourinha de plástico",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caderno brochurão amarelo, sem pauta, 96 folhas",
+       "qtd": 1,
+       "cod": 415,
+       "produto": "CADERNO CD S/P 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 19.9,
+       "obs": "Não temos amarelo; vai vermelho. Pode encapar de amarelo.",
+       "foto": "listas/fotos/415.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda transparente fina",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 foto 10x15 da criança sozinha",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 garrafinha térmica d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 toalhinha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro."
+     ]
+    },
+    {
+     "id": "angelis-periodo1",
+     "ano": "1º Período (G4)",
+     "orcamento": 662241,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A3 60 kg",
+       "qtd": 2,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "500 folhas de papel ofício A4",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso amarelo",
+       "qtd": 1,
+       "cod": 1228,
+       "produto": "EVA LISO-AMARELO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/1228.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter amarelo",
+       "qtd": 1,
+       "cod": 8929,
+       "produto": "EVA GLITER-AMARELO",
+       "marca": "MAKE+",
+       "preco": 3.9,
+       "foto": "listas/fotos/8929.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de crepom amarelo",
+       "qtd": 1,
+       "cod": 2068,
+       "produto": "CREPOM AMARELO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2068.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de crepom marrom",
+       "qtd": 1,
+       "cod": 4787,
+       "produto": "CREPOM MARROM",
+       "preco": 1.9,
+       "foto": "listas/fotos/4787.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "50 folhas de colorsete ofício amarelo",
+       "qtd": 1,
+       "cod": 2051,
+       "produto": "COLORSETE A4 C/50 AMARELO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2051.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho amarelo",
+       "qtd": 1,
+       "cod": 2007,
+       "produto": "PAPEL A4 COLOR. C/100-AMARELO",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/2007.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 caixas de massinha com 12 unidades",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache (250 g) amarelo",
+       "qtd": 1,
+       "cod": 3020,
+       "produto": "GUACHE 250ML ACRILEX-AMARELO OURO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3020.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caneta para retroprojetor preta",
+       "qtd": 1,
+       "cod": 9405,
+       "produto": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/9405.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 canetas pretas para desenho (Cis fine)",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões amarelos nº 9",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente grossos",
+       "qtd": 1,
+       "cod": 11831,
+       "produto": "REFIL COLA QUENTE GROSSO C/4",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 4 bastões.",
+       "foto": "listas/fotos/11831.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de pratinhos de papel pequenos",
+       "qtd": 1,
+       "cod": 2561,
+       "produto": "PRATO PAPELAO 3 C/100 (17,5CM)",
+       "marca": "PITPRATOS",
+       "preco": 25.9,
+       "obs": "Pacote com 100.",
+       "foto": "listas/fotos/2561.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de copos descartáveis",
+       "qtd": 1,
+       "cod": 14406,
+       "produto": "COPO 200ML PS C/100-COPOJU",
+       "marca": "COPOJU",
+       "preco": 4.9,
+       "obs": "Copo 200 ml, pacote com 100.",
+       "foto": "listas/fotos/14406.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de colheres descartáveis para culinária",
+       "qtd": 1,
+       "cod": 7255,
+       "produto": "COLHER REFEIÇÃO C/50",
+       "preco": 3.9,
+       "obs": "Pacote com 50.",
+       "foto": "listas/fotos/7255.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de giz de cera",
+       "qtd": 1,
+       "cod": 10262,
+       "produto": "GIZAO CERA ACRILEX C/6",
+       "marca": "ACRILEX",
+       "preco": 4.9,
+       "obs": "Gizão Acrilex com 6 cores.",
+       "foto": "listas/fotos/10262.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 borracha branca macia",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 avental plástico para arte",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 cadernos brochurão vermelhos sem pauta, 96 folhas",
+       "qtd": 2,
+       "cod": 415,
+       "produto": "CADERNO CD S/P 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 19.9,
+       "foto": "listas/fotos/415.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor jumbo 12 cores",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor jumbo Maped com 12 cores.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 lápis pretos triangulares",
+       "qtd": 2,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda vermelha com alça, 4 cm de espessura",
+       "qtd": 1,
+       "cod": 1807,
+       "produto": "MALETA ESCOLAR 4CM-VERMELHA",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "foto": "listas/fotos/1807.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 garrafinha térmica d'água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 toalhinha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro."
+     ]
+    },
+    {
+     "id": "angelis-periodo2",
+     "ano": "2º Período (G5)",
+     "orcamento": 662242,
+     "itens": [
+      {
+       "descricao": "50 folhas de papel A3 60 kg",
+       "qtd": 1,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de papel 60 kg A4",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 pacotes de 500 folhas de papel ofício A4",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso laranja",
+       "qtd": 1,
+       "cod": 1235,
+       "produto": "EVA LISO-LARANJA",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1235.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter laranja",
+       "qtd": 1,
+       "cod": 9160,
+       "produto": "EVA GLITER-LARANJA",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/9160.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício laranja",
+       "qtd": 2,
+       "cod": 2055,
+       "produto": "COLORSETE A4 C/50 LARANJA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2055.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho amarelo",
+       "qtd": 1,
+       "cod": 2007,
+       "produto": "PAPEL A4 COLOR. C/100-AMARELO",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/2007.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de crepom laranja",
+       "qtd": 1,
+       "cod": 4715,
+       "produto": "CREPOM LARANJA",
+       "preco": 1.9,
+       "foto": "listas/fotos/4715.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de crepom preto",
+       "qtd": 1,
+       "cod": 4788,
+       "produto": "CREPOM PRETO",
+       "preco": 1.9,
+       "foto": "listas/fotos/4788.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 caixas de massinha com 12 unidades",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache 250 ml laranja",
+       "qtd": 1,
+       "cod": 3023,
+       "produto": "GUACHE 250ML ACRILEX-LARANJA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3023.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caneta para retroprojetor azul",
+       "qtd": 1,
+       "cod": 3643,
+       "produto": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/3643.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões laranja nº 9",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de palitos de picolé coloridos",
+       "qtd": 1,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "foto": "listas/fotos/1999.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente fina",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de pratinhos de papel médio",
+       "qtd": 1,
+       "cod": 2562,
+       "produto": "PRATO PAPELAO 4 C/100 (20CM)",
+       "marca": "PITPRATOS",
+       "preco": 35.9,
+       "obs": "Pacote com 100.",
+       "foto": "listas/fotos/2562.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de copos descartáveis",
+       "qtd": 1,
+       "cod": 14406,
+       "produto": "COPO 200ML PS C/100-COPOJU",
+       "marca": "COPOJU",
+       "preco": 4.9,
+       "obs": "Copo 200 ml, pacote com 100.",
+       "foto": "listas/fotos/14406.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de colheres descartáveis",
+       "qtd": 1,
+       "cod": 7255,
+       "produto": "COLHER REFEIÇÃO C/50",
+       "preco": 3.9,
+       "obs": "Pacote com 50.",
+       "foto": "listas/fotos/7255.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pincel para pintura aquarela (815-10)",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "obs": "Pincel chato nº 10.",
+       "foto": "listas/fotos/6378.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe",
+       "qtd": 1,
+       "cod": 1291,
+       "produto": "FITA CREPE 18X10MT",
+       "marca": "ADELBRAS",
+       "preco": 2.0,
+       "foto": "listas/fotos/1291.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas fotográficas adesivas",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola dimensional branca",
+       "qtd": 1,
+       "cod": 4873,
+       "produto": "TINTA RELEVO 35ML ACRILEX ACRIPEL",
+       "marca": "ACRILEX",
+       "preco": 12.5,
+       "obs": "Tinta relevo Acrilex 35 ml.",
+       "foto": "listas/fotos/4873.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 avental plástico para arte",
+       "qtd": 1,
+       "cod": 10726,
+       "produto": "MINI AVENTAL ESCOLAR LOONEY TUNES",
+       "marca": "DAC",
+       "preco": 17.9,
+       "foto": "listas/fotos/10726.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 cadernos brochurão vermelhos sem pauta, 96 folhas",
+       "qtd": 2,
+       "cod": 415,
+       "produto": "CADERNO CD S/P 96F TILIBRA (VERMELHO)",
+       "marca": "TILIBRA",
+       "preco": 19.9,
+       "foto": "listas/fotos/415.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 7699,
+       "produto": "LAPIS 12CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/7699.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "3 lápis pretos",
+       "qtd": 3,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 borrachas brancas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda transparente fina",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 canetas Cis fine pretas para desenho",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda vermelha com alça, 4 cm de espessura",
+       "qtd": 1,
+       "cod": 1807,
+       "produto": "MALETA ESCOLAR 4CM-VERMELHA",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "foto": "listas/fotos/1807.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 lancheira térmica",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras: consulte a vendedora.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 guardanapo de pano com o nome da criança",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 toalhinha de mão",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro."
+     ]
+    },
+    {
+     "id": "angelis-ano1",
+     "ano": "1º Ano",
+     "orcamento": 662243,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A4 60 kg",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 pacotes de 500 folhas de papel ofício A4",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho azul",
+       "qtd": 1,
+       "cod": 3975,
+       "produto": "PAPEL A4 COLOR. C/100-AZUL",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/3975.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso azul",
+       "qtd": 1,
+       "cod": 6669,
+       "produto": "EVA LISO-AZUL MARINHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/6669.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter azul",
+       "qtd": 1,
+       "cod": 6665,
+       "produto": "EVA GLITER-AZUL CELESTE/ROYAL",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/6665.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de papel crepom verde",
+       "qtd": 1,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de papel crepom roxo",
+       "qtd": 1,
+       "cod": 7894,
+       "produto": "CREPOM ROXO",
+       "preco": 1.9,
+       "foto": "listas/fotos/7894.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola em bastão grande",
+       "qtd": 1,
+       "cod": 813,
+       "produto": "COLA BASTAO 40GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 5.5,
+       "obs": "Cola bastão Leo e Leo 40 g.",
+       "foto": "listas/fotos/813.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício azul",
+       "qtd": 2,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 caixas de massinha com 12 unidades",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache 250 ml azul",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/5764.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 canetas para retroprojetor pretas",
+       "qtd": 2,
+       "cod": 9405,
+       "produto": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/9405.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 canetas Cis fine pretas para desenho",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões roxos",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente fina",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe 50 metros",
+       "qtd": 1,
+       "cod": 1292,
+       "produto": "FITA CREPE 18X50MT-ADELBRAS",
+       "marca": "ADELBRAS",
+       "preco": 6.9,
+       "foto": "listas/fotos/1292.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pincel de pintura chato nº 14",
+       "qtd": 1,
+       "cod": 10998,
+       "produto": "PINCEL CHATO 14",
+       "preco": 5.5,
+       "foto": "listas/fotos/10998.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 7699,
+       "produto": "LAPIS 12CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/7699.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "4 lápis pretos",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 apontador com reservatório",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 régua transparente (cm)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 tesoura sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 borrachas brancas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda transparente fina",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 50 plásticos",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "Matemática (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Língua Portuguesa (96 folhas)",
+       "qtd": 1,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Geografia/História (96 folhas)",
+       "qtd": 1,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Ciências da Natureza (60 folhas)",
+       "qtd": 1,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal azul 80 folhas.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Arte e Filosofia (60 folhas)",
+       "qtd": 1,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal azul 80 folhas.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Leituras (96 folhas)",
+       "qtd": 1,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Inglês (60 folhas)",
+       "qtd": 1,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal azul 80 folhas.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      },
+      {
+       "descricao": "1 guardanapo de pano",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Trazer na lancheira térmica todos os dias",
+       "grupo_aviso": "Temos lancheiras a partir de R$ 39,90"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro, já com horário normal de 4 horas e 30 minutos.",
+      "Será obrigatório o uso diário do uniforme completo a partir de 1º de março.",
+      "O calçado permitido é o tênis."
+     ],
+     "idade": "6 anos"
+    },
+    {
+     "id": "angelis-ano2",
+     "ano": "2º Ano",
+     "orcamento": 662244,
+     "itens": [
+      {
+       "descricao": "50 folhas de papel A4 60 kg",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "50 folhas de papel A3 60 kg",
+       "qtd": 1,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 pacotes de 500 folhas de papel ofício A4",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício vermelho",
+       "qtd": 2,
+       "cod": 2065,
+       "produto": "COLORSETE A4 C/50 VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2065.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso vermelho",
+       "qtd": 1,
+       "cod": 1244,
+       "produto": "EVA LISO-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1244.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter vermelho",
+       "qtd": 1,
+       "cod": 1226,
+       "produto": "EVA GLITER-VERMELHO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1226.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de papel crepom vermelho",
+       "qtd": 1,
+       "cod": 2081,
+       "produto": "CREPOM VERMELHO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2081.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola bastão grande (Acrilex)",
+       "qtd": 1,
+       "cod": 7690,
+       "produto": "COLA BASTAO 40GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "obs": "Cola bastão Acrilex 40 g.",
+       "foto": "listas/fotos/7690.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache 250 ml vermelho",
+       "qtd": 1,
+       "cod": 3029,
+       "produto": "GUACHE 250ML ACRILEX-VERMELHO FOGO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3029.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caneta para retroprojetor azul",
+       "qtd": 1,
+       "cod": 3643,
+       "produto": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/3643.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões vermelhos nº 9",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente finos",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe 50 metros",
+       "qtd": 1,
+       "cod": 1292,
+       "produto": "FITA CREPE 18X50MT-ADELBRAS",
+       "marca": "ADELBRAS",
+       "preco": 6.9,
+       "foto": "listas/fotos/1292.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 lancheira térmica",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras: consulte a vendedora.",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 7699,
+       "produto": "LAPIS 12CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/7699.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "4 lápis pretos",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de giz de cera 12 cores",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 apontador com reservatório",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 régua transparente 30 cm rígida",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 tesoura sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 borrachas brancas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pincel para pintura nº 10 (chato)",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda transparente fina",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 30 plásticos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 canetas pretas para desenho (Cis fine)",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "Matemática (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Língua Portuguesa (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Geografia (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "História (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Ciências da Natureza (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Arte (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Filosofia (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Inglês (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Leituras (96 folhas)",
+       "qtd": 1,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "1 minidicionário da Língua Portuguesa Silveira Bueno (FTD), novo acordo ortográfico",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de material dourado de madeira, 74 peças",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "obs": "Material dourado com 111 peças.",
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Uso individual"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro, já com horário normal de 4 horas e 30 minutos.",
+      "Será obrigatório o uso diário do uniforme completo a partir de 1º de março.",
+      "O calçado permitido é o tênis."
+     ],
+     "idade": "7 anos"
+    },
+    {
+     "id": "angelis-ano3",
+     "ano": "3º Ano",
+     "orcamento": 662245,
+     "itens": [
+      {
+       "descricao": "50 folhas de papel A4 60 kg",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "50 folhas de papel A3 60 kg",
+       "qtd": 1,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 pacotes de 500 folhas de papel ofício A4",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício amarelo",
+       "qtd": 2,
+       "cod": 2051,
+       "produto": "COLORSETE A4 C/50 AMARELO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2051.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso amarelo",
+       "qtd": 1,
+       "cod": 1228,
+       "produto": "EVA LISO-AMARELO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/1228.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter amarelo",
+       "qtd": 1,
+       "cod": 8929,
+       "produto": "EVA GLITER-AMARELO",
+       "marca": "MAKE+",
+       "preco": 3.9,
+       "foto": "listas/fotos/8929.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de papel crepom amarelo",
+       "qtd": 1,
+       "cod": 2068,
+       "produto": "CREPOM AMARELO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2068.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola bastão grande (Acrilex)",
+       "qtd": 1,
+       "cod": 7690,
+       "produto": "COLA BASTAO 40GR-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "obs": "Cola bastão Acrilex 40 g.",
+       "foto": "listas/fotos/7690.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache 250 ml amarelo",
+       "qtd": 1,
+       "cod": 3020,
+       "produto": "GUACHE 250ML ACRILEX-AMARELO OURO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3020.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 canetas para retroprojetor azul",
+       "qtd": 2,
+       "cod": 3643,
+       "produto": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/3643.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões amarelos nº 9",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente finos",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe 50 metros",
+       "qtd": 1,
+       "cod": 1292,
+       "produto": "FITA CREPE 18X50MT-ADELBRAS",
+       "marca": "ADELBRAS",
+       "preco": 6.9,
+       "foto": "listas/fotos/1292.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 7699,
+       "produto": "LAPIS 12CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/7699.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "4 lápis pretos",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caneta marca-texto amarela",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 apontador com reservatório",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 régua transparente 30 cm rígida",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 tesoura sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 borrachas brancas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo para avaliações (30 plásticos)",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 canetas pretas para desenho (Cis fine)",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "Matemática (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Língua Portuguesa (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Geografia (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "História (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Ciências da Natureza (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Arte e Filosofia (96 folhas)",
+       "qtd": 1,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Inglês (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "1 minidicionário da Língua Portuguesa Silveira Bueno",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 gibi da Turma da Mônica",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "obs": "Gibi Disney (não temos Turma da Mônica).",
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Uso individual"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro, já com horário normal de 4 horas e 30 minutos.",
+      "Será obrigatório o uso diário do uniforme completo a partir de 1º de março.",
+      "O calçado permitido é o tênis."
+     ],
+     "idade": "8 anos"
+    },
+    {
+     "id": "angelis-ano4",
+     "ano": "4º Ano",
+     "orcamento": 662246,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A4 60 kg",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 pacotes de 500 folhas de papel ofício A4",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício rosa",
+       "qtd": 2,
+       "cod": 2061,
+       "produto": "COLORSETE A4 C/50 ROSA PINK",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2061.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de EVA liso verde",
+       "qtd": 1,
+       "cod": 7675,
+       "produto": "EVA LISO-VERDE ESCURO",
+       "marca": "LEOARTE",
+       "preco": 1.5,
+       "foto": "listas/fotos/7675.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de EVA liso rosa",
+       "qtd": 1,
+       "cod": 1239,
+       "produto": "EVA LISO-ROSA CLARO/BEBE",
+       "marca": "LEO/DUB",
+       "preco": 1.5,
+       "foto": "listas/fotos/1239.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de EVA glitter verde",
+       "qtd": 1,
+       "cod": 1225,
+       "produto": "EVA GLITER-VERDE BANDEIRA/GRAMA",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1225.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "Folha de EVA glitter rosa",
+       "qtd": 1,
+       "cod": 1223,
+       "produto": "EVA GLITER-ROSA PINK",
+       "marca": "MAKE +",
+       "preco": 3.9,
+       "foto": "listas/fotos/1223.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola em bastão grande",
+       "qtd": 1,
+       "cod": 813,
+       "produto": "COLA BASTAO 40GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 5.5,
+       "obs": "Cola bastão Leo e Leo 40 g.",
+       "foto": "listas/fotos/813.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 caixa de massinha com 12 unidades",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache rosa 250 ml",
+       "qtd": 1,
+       "cod": 3026,
+       "produto": "GUACHE 250ML ACRILEX-ROSA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3026.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 canetas para retroprojetor azuis",
+       "qtd": 2,
+       "cod": 3643,
+       "produto": "RETRO 0.4/2.0 JOCAR -AZUL (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/3643.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente fina",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe 50 metros",
+       "qtd": 1,
+       "cod": 1292,
+       "produto": "FITA CREPE 18X50MT-ADELBRAS",
+       "marca": "ADELBRAS",
+       "preco": 6.9,
+       "foto": "listas/fotos/1292.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 lancheira térmica",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras: consulte a vendedora.",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 7699,
+       "produto": "LAPIS 12CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/7699.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 régua geométrica",
+       "qtd": 1,
+       "cod": 6770,
+       "produto": "REGUA GEOMETRICA RETANGULAR-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 5.9,
+       "foto": "listas/fotos/6770.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "4 lápis pretos",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caneta marca-texto amarela",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 apontador com reservatório",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 régua transparente 30 cm rígida",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 tesoura sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "3 borrachas brancas macias",
+       "qtd": 3,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda transparente fina",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 30 plásticos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 canetas pretas para desenho (Cis fine)",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "Matemática (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Língua Portuguesa (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Geografia (80 folhas)",
+       "qtd": 1,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal azul 80 folhas.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "História (80 folhas)",
+       "qtd": 1,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal azul 80 folhas.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Ciências (80 folhas)",
+       "qtd": 1,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal azul 80 folhas.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Arte (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Filosofia (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Inglês (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "1 minidicionário da Língua Portuguesa Silveira Bueno",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 gibi da Turma da Mônica",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "obs": "Gibi Disney (não temos Turma da Mônica).",
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Uso individual"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro, já com horário normal de 4 horas e 30 minutos.",
+      "Será obrigatório o uso diário do uniforme completo a partir de 1º de março.",
+      "O calçado permitido é o tênis."
+     ],
+     "idade": "9 anos"
+    },
+    {
+     "id": "angelis-ano5",
+     "ano": "5º Ano",
+     "orcamento": 662247,
+     "itens": [
+      {
+       "descricao": "100 folhas de papel A4 60 kg",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 pacotes de 500 folhas de papel ofício A4",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de chamequinho amarelo",
+       "qtd": 1,
+       "cod": 2007,
+       "produto": "PAPEL A4 COLOR. C/100-AMARELO",
+       "marca": "CHAMEQUINH",
+       "preco": 10.9,
+       "obs": "Pacote com 100 folhas.",
+       "foto": "listas/fotos/2007.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA liso preto",
+       "qtd": 1,
+       "cod": 1238,
+       "produto": "EVA LISO-PRETO",
+       "marca": "MAKE +",
+       "preco": 1.5,
+       "foto": "listas/fotos/1238.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 folha de EVA glitter preto",
+       "qtd": 1,
+       "cod": 1222,
+       "produto": "EVA GLITER-PRETO",
+       "marca": "LEO/DUB",
+       "preco": 3.9,
+       "foto": "listas/fotos/1222.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 tubos grandes de cola branca, bico azul (225 g)",
+       "qtd": 4,
+       "cod": 815,
+       "produto": "COLA LIQUIDA 110GR-PRITT",
+       "marca": "PRITT",
+       "preco": 12.9,
+       "obs": "Cola Pritt 110 g: 2 tubos para cada tubo de 225 g.",
+       "foto": "listas/fotos/815.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola bastão grande",
+       "qtd": 1,
+       "cod": 813,
+       "produto": "COLA BASTAO 40GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 5.5,
+       "obs": "Cola bastão Leo e Leo 40 g.",
+       "foto": "listas/fotos/813.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício preto (50)",
+       "qtd": 1,
+       "cod": 2058,
+       "produto": "COLORSETE A4 C/50 PRETO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2058.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "100 folhas de colorsete ofício verde (50)",
+       "qtd": 1,
+       "cod": 2063,
+       "produto": "COLORSETE A4 C/50 VERDE BANDEIRA",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Pacote com 50 folhas.",
+       "foto": "listas/fotos/2063.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pote de tinta guache preto",
+       "qtd": 1,
+       "cod": 3025,
+       "produto": "GUACHE 250ML ACRILEX-PRETO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "foto": "listas/fotos/3025.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 canetas para retroprojetor pretas",
+       "qtd": 2,
+       "cod": 9405,
+       "produto": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "foto": "listas/fotos/9405.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 pacote de balões verdes",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Item não incluído no orçamento.",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "2 bastões de cola quente fina",
+       "qtd": 1,
+       "cod": 11832,
+       "produto": "REFIL COLA QUENTE FINO C/8",
+       "marca": "IBEL",
+       "preco": 9.9,
+       "obs": "Pacote com 8 bastões.",
+       "foto": "listas/fotos/11832.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 fita crepe 50 metros",
+       "qtd": 1,
+       "cod": 1292,
+       "produto": "FITA CREPE 18X50MT-ADELBRAS",
+       "marca": "ADELBRAS",
+       "preco": 6.9,
+       "foto": "listas/fotos/1292.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 cola dimensional branca",
+       "qtd": 1,
+       "cod": 4873,
+       "produto": "TINTA RELEVO 35ML ACRILEX ACRIPEL",
+       "marca": "ACRILEX",
+       "preco": 12.5,
+       "obs": "Tinta relevo Acrilex 35 ml.",
+       "foto": "listas/fotos/4873.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 régua geométrica",
+       "qtd": 1,
+       "cod": 6770,
+       "produto": "REGUA GEOMETRICA RETANGULAR-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 5.9,
+       "foto": "listas/fotos/6770.jpg",
+       "grupo": "Uso coletivo"
+      },
+      {
+       "descricao": "1 lancheira térmica",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos lancheiras: consulte a vendedora.",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 garrafinha térmica para água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 bolsinha para lápis",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 7699,
+       "produto": "LAPIS 12CORES-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/7699.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "10 plásticos para plastificação",
+       "qtd": 1,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Pacote com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "10 folhas de papel fotográfico adesivo",
+       "qtd": 1,
+       "cod": 6495,
+       "produto": "PAPEL FOTO A4-(ADESIVO) 130GR C/20-MASTERPRINT",
+       "marca": "MASTERPRIN",
+       "preco": 19.9,
+       "obs": "Pacote com 20 folhas.",
+       "foto": "listas/fotos/6495.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "4 lápis pretos",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 caneta marca-texto amarela",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 apontador com reservatório",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 régua transparente 30 cm (evitar as de silicone ou metal)",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 tesoura sem ponta de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "3 borrachas brancas macias",
+       "qtd": 3,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 estojo de canetinhas grossas 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta polionda transparente fina",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 pasta catálogo com 30 plásticos",
+       "qtd": 1,
+       "cod": 6951,
+       "produto": "PASTA CATALOGO PRETA C/30",
+       "preco": 21.9,
+       "foto": "listas/fotos/6951.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "2 canetas Cis fine pretas para desenho",
+       "qtd": 2,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "Matemática (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Língua Portuguesa (96 folhas)",
+       "qtd": 2,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal azul 96 folhas.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Geografia (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "História (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Ciências da Natureza (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Arte (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Filosofia (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "Inglês (48 folhas)",
+       "qtd": 1,
+       "cod": 12408,
+       "produto": "CADERNO CD 48F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 7.9,
+       "obs": "Caderno capa dura Credeal azul 48 folhas.",
+       "foto": "listas/fotos/12408.jpg",
+       "grupo": "Cadernos brochurão azuis com pauta"
+      },
+      {
+       "descricao": "1 minidicionário da Língua Portuguesa Silveira Bueno",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Uso individual"
+      },
+      {
+       "descricao": "1 gibi da Turma da Mônica",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "obs": "Gibi Disney (não temos Turma da Mônica).",
+       "foto": "listas/fotos/13546.jpg",
+       "grupo": "Uso individual"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deverá ser entregue na primeira semana de aulas; os de uso individual, marcados com o nome da criança.",
+      "No decorrer do ano letivo poderão ser pedidos alguns materiais para Arte.",
+      "Os livros didáticos deverão ser adquiridos pela loja virtual do sistema de ensino Positivo.",
+      "A taxa de encadernação será pedida oportunamente.",
+      "As aulas terão início no dia 01 de fevereiro, já com horário normal de 4 horas e 30 minutos.",
+      "Será obrigatório o uso diário do uniforme completo a partir de 1º de março.",
+      "O calçado permitido é o tênis."
+     ],
+     "idade": "10 anos"
+    }
+   ]
+  },
+  {
    "id": "elitemaster",
    "nome": "Colégio Elite Master",
    "listas": [
@@ -16806,5 +20823,5 @@
    ]
   }
  ],
- "atualizado": "12/11/2026 14:00"
+ "atualizado": "14/11/2026 10:36"
 }
