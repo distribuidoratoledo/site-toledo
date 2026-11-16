@@ -939,7 +939,7 @@
       <div class="bf-marca"><span>BLACK</span><span>FRIDAY</span></div>
       <div class="bf-txt">
         <h2><b>50% OFF</b> em produtos selecionados</h2>
-        <p class="bf-cats">Cadernos, fichários, estojos e mochilas de carrinho</p>
+        <p class="bf-cats">Cadernos, fichários, estojos, lancheiras e mochilas de carrinho</p>
         <p class="bf-regra">Estão na promoção somente os itens com a etiqueta <span class="bf-selo">Black Friday</span> e o preço em <span class="bf-por">amarelo</span>.</p>
       </div>
       <button type="button" class="bf-btn" onclick="verBlackFriday()">Ver ofertas</button>
@@ -1216,7 +1216,7 @@
       if (/^CADERNO\b/.test(n)) {
         return !!(BF_CADERNOS[p.cod] || (p.cores && p.cores.some(function (c) { return BF_CADERNOS[c.cod]; })));
       }
-      return /^FICH[AÁ]RIO\b/.test(n) || /^ESTOJO\b/.test(n) || /MOCHILA CARRINHO/.test(n);
+      return /^FICH[AÁ]RIO\b/.test(n) || /^ESTOJO\b/.test(n) || /MOCHILA CARRINHO/.test(n) || /^LANCHEIRA\b/.test(n);   // lancheiras entraram 16/11/2026
     }
     function marcarBF(p) {
       if (!BF_ATIVA || p.bf || !(p.preco > 0) || !ehBF(p)) { return false; }
