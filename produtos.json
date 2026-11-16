@@ -41,7 +41,7 @@
      "marca": "BIC",
      "preco": 13.9,
      "img": "produtos/548.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 3794,
@@ -157,7 +157,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC FINE PLUS-PRETA",
        "img": "produtos/556.jpg",
-       "saldo": 511
+       "saldo": 510
       },
       {
        "cod": 557,
@@ -1461,21 +1461,21 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/614.jpg",
-     "saldo": 14,
+     "saldo": 13,
      "cores": [
       {
        "cod": 614,
        "cor": "Azul",
        "nome": "CANETA PILOT S.GRIP 0.7-AZUL",
        "img": "produtos/614.jpg",
-       "saldo": 14
+       "saldo": 13
       },
       {
        "cod": 615,
        "cor": "Preta",
        "nome": "CANETA PILOT S.GRIP 0.7-PRETA",
        "img": "produtos/615.jpg",
-       "saldo": 18
+       "saldo": 17
       },
       {
        "cod": 616,
@@ -1513,7 +1513,7 @@
        "cor": "Vermelha",
        "nome": "CANETA PILOT S.GRIP 1.0-VERMELHA",
        "img": "produtos/619.jpg",
-       "saldo": 33
+       "saldo": 32
       }
      ]
     },
@@ -5972,7 +5972,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/12763.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 12764,
@@ -7942,7 +7942,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 788,
@@ -8180,7 +8180,7 @@
      "marca": "DOTAD",
      "preco": 15.9,
      "img": "produtos/9567.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 10235,
@@ -8346,7 +8346,7 @@
      "marca": "LEO E LEO",
      "preco": 1.3,
      "img": "produtos/808.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 807,
@@ -8794,7 +8794,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 39
+     "saldo": 27
     },
     {
      "cod": 10944,
@@ -8888,7 +8888,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2013
+     "saldo": 2012
     },
     {
      "cod": 1031,
@@ -9082,7 +9082,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 68
+     "saldo": 65
     },
     {
      "cod": 6521,
@@ -9098,7 +9098,7 @@
      "marca": "FOXLUX",
      "preco": 2.9,
      "img": "produtos/11717.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 11806,
@@ -9122,7 +9122,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 276
+     "saldo": 274
     },
     {
      "cod": 1313,
@@ -9130,7 +9130,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1272
+     "saldo": 1271
     },
     {
      "cod": 4389,
@@ -10043,7 +10043,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 6612,
@@ -10051,7 +10051,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 49
+     "saldo": 46
     },
     {
      "cod": 3479,
@@ -10233,7 +10233,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 168
+     "saldo": 167
     },
     {
      "cod": 1977,
@@ -10475,7 +10475,7 @@
        "cor": "Azul Royal",
        "nome": "CAMURÇA-AZUL ROYAL",
        "img": "produtos/2019.jpg",
-       "saldo": 15
+       "saldo": 5
       },
       {
        "cod": 2022,
@@ -10489,7 +10489,7 @@
        "cor": "Laranja",
        "nome": "CAMURÇA-LARANJA",
        "img": "produtos/2023.jpg",
-       "saldo": 21
+       "saldo": 11
       },
       {
        "cod": 2024,
@@ -10510,7 +10510,7 @@
        "cor": "Preto",
        "nome": "CAMURÇA-PRETO",
        "img": "produtos/2026.jpg",
-       "saldo": 26
+       "saldo": 15
       },
       {
        "cod": 2028,
@@ -10524,7 +10524,7 @@
        "cor": "Verde Bandeira",
        "nome": "CAMURÇA-VERDE BANDEIRA",
        "img": "produtos/2029.jpg",
-       "saldo": 131
+       "saldo": 121
       },
       {
        "cod": 2030,
@@ -10725,7 +10725,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 89
+       "saldo": 69
       },
       {
        "cod": 758,
@@ -10900,7 +10900,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 78
+       "saldo": 66
       },
       {
        "cod": 2045,
@@ -10928,7 +10928,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 126
+       "saldo": 116
       }
      ]
     },
@@ -10938,28 +10938,28 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 106,
+     "saldo": 104,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 106
+       "saldo": 104
       },
       {
        "cod": 2069,
        "cor": "Azul Claro",
        "nome": "CREPOM AZUL CLARO",
        "img": "produtos/2069.jpg",
-       "saldo": 59
+       "saldo": 57
       },
       {
        "cod": 2070,
        "cor": "Azul Escuro",
        "nome": "CREPOM AZUL ESCURO",
        "img": "produtos/2070.jpg",
-       "saldo": 60
+       "saldo": 58
       },
       {
        "cod": 4786,
@@ -10973,7 +10973,7 @@
        "cor": "Laranja",
        "nome": "CREPOM LARANJA",
        "img": "produtos/4715.jpg",
-       "saldo": 77
+       "saldo": 75
       },
       {
        "cod": 5076,
@@ -11022,14 +11022,14 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 29
+       "saldo": 27
       },
       {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 235
+       "saldo": 233
       }
      ]
     },
@@ -11207,7 +11207,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 2015,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 201
+     "saldo": 181
     },
     {
      "cod": 2007,
@@ -11317,7 +11317,7 @@
      "marca": "MASTERPRIN",
      "preco": 23.9,
      "img": "produtos/11784.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 2099,
@@ -11333,7 +11333,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 195
+     "saldo": 192
     },
     {
      "cod": 4344,
@@ -11461,7 +11461,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 327
+     "saldo": 297
     },
     {
      "cod": 2139,
@@ -11525,7 +11525,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2146.jpg",
-     "saldo": 477
+     "saldo": 457
     },
     {
      "cod": 2147,
@@ -12030,6 +12030,51 @@
      "saldo": 50
     },
     {
+     "cod": 3570,
+     "nome": "GUACHE 250ML EVIDENT",
+     "marca": "EVIDENT",
+     "preco": 8.9,
+     "img": "produtos/3570.jpg",
+     "saldo": 24,
+     "cores": [
+      {
+       "cod": 3570,
+       "cor": "Azul Royal",
+       "nome": "GUACHE 250ML EVIDENT AZUL ROYAL",
+       "img": "produtos/3570.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3030,
+       "cor": "Branca",
+       "nome": "GUACHE 250ML EVIDENT BRANCA",
+       "img": "produtos/3030.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3031,
+       "cor": "Laranja",
+       "nome": "GUACHE 250ML EVIDENT LARANJA",
+       "img": "produtos/3031.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3571,
+       "cor": "Preto",
+       "nome": "GUACHE 250ML EVIDENT PRETO",
+       "img": "produtos/3571.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3032,
+       "cor": "Verde Bandeira",
+       "nome": "GUACHE 250ML EVIDENT VERDE BANDEIRA",
+       "img": "produtos/3032.jpg",
+       "saldo": 24
+      }
+     ]
+    },
+    {
      "cod": 3033,
      "nome": "GUACHE 250ML MARIPEL",
      "marca": "MARIPEL",
@@ -12488,7 +12533,7 @@
        "cor": "Preto",
        "nome": "TINTA CARIMBO 40ML RADEX-PRETO",
        "img": "produtos/2981.jpg",
-       "saldo": 9
+       "saldo": 8
       },
       {
        "cod": 2982,
@@ -12632,7 +12677,7 @@
      "marca": "JOCAR",
      "preco": 89.9,
      "img": "produtos/9699.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 9382,
@@ -12648,7 +12693,7 @@
      "marca": "BRW",
      "preco": 69.9,
      "img": "produtos/10550.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 9700,
@@ -13216,14 +13261,6 @@
      "saldo": 3
     },
     {
-     "cod": 13371,
-     "nome": "SELO CONVITE AMARELO 12MM C/210",
-     "marca": "PIMACO",
-     "preco": 6.9,
-     "img": "produtos/13371.jpg",
-     "saldo": 3
-    },
-    {
      "cod": 13372,
      "nome": "SELO CONVITE AZUL 12MM C/210",
      "marca": "PIMACO",
@@ -13325,7 +13362,7 @@
      "marca": "PIM/REFL",
      "preco": 6.9,
      "img": "produtos/14668.jpg",
-     "saldo": 9
+     "saldo": 6
     }
    ]
   },
@@ -14008,7 +14045,7 @@
      "marca": "MAXCRIL",
      "preco": 15.9,
      "img": "produtos/11418.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 2471,
@@ -15300,7 +15337,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/3929.jpg",
-     "saldo": 195
+     "saldo": 192
     },
     {
      "cod": 14205,
@@ -15465,7 +15502,7 @@
      "marca": "POLIBRAS",
      "preco": 69.9,
      "img": "produtos/2268.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 2274,
@@ -15786,7 +15823,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 91
+     "saldo": 90
     },
     {
      "cod": 13124,
@@ -16064,21 +16101,21 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 61,
+     "saldo": 56,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 61
+       "saldo": 56
       },
       {
        "cod": 4829,
        "cor": "Azul Claro",
        "nome": "EVA GLITER-AZUL CLARO",
        "img": "produtos/4829.jpg",
-       "saldo": 120
+       "saldo": 115
       },
       {
        "cod": 1216,
@@ -16106,7 +16143,7 @@
        "cor": "Lilas",
        "nome": "EVA GLITER-LILAS",
        "img": "produtos/4830.jpg",
-       "saldo": 117
+       "saldo": 112
       },
       {
        "cod": 1219,
@@ -16120,7 +16157,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 174
+       "saldo": 169
       },
       {
        "cod": 1221,
@@ -16134,14 +16171,14 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 23
+       "saldo": 18
       },
       {
        "cod": 1223,
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 113
+       "saldo": 108
       },
       {
        "cod": 5366,
@@ -16155,7 +16192,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 185
+       "saldo": 180
       }
      ]
     },
@@ -16318,7 +16355,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3058.jpg",
-     "saldo": 636
+     "saldo": 586
     },
     {
      "cod": 7000,
@@ -16342,7 +16379,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3060.jpg",
-     "saldo": 596
+     "saldo": 546
     },
     {
      "cod": 3062,
@@ -16390,7 +16427,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3067.jpg",
-     "saldo": 581
+     "saldo": 531
     },
     {
      "cod": 3069,
@@ -16398,7 +16435,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3069.jpg",
-     "saldo": 900
+     "saldo": 850
     },
     {
      "cod": 3070,
@@ -16430,7 +16467,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/5066.jpg",
-     "saldo": 486
+     "saldo": 436
     }
    ]
   },
@@ -18220,7 +18257,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 26023
+     "saldo": 25953
     },
     {
      "cod": 1098,
@@ -18372,7 +18409,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1054.jpg",
-     "saldo": 5847
+     "saldo": 5837
     },
     {
      "cod": 1056,
@@ -18658,7 +18695,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 329
+     "saldo": 327
     },
     {
      "cod": 13980,
@@ -18962,7 +18999,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/6618.jpg",
-     "saldo": 27
+     "saldo": 25
     },
     {
      "cod": 2478,
@@ -19234,7 +19271,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 11833,
@@ -19242,7 +19279,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 11832,
@@ -19266,7 +19303,7 @@
      "marca": "IBEL",
      "preco": 57.9,
      "img": "produtos/11834.jpg",
-     "saldo": 103
+     "saldo": 102
     },
     {
      "cod": 11831,
@@ -20511,7 +20548,7 @@
      "marca": "",
      "preco": 0.7,
      "img": "produtos/986.jpg",
-     "saldo": 359
+     "saldo": 354
     },
     {
      "cod": 8902,
@@ -20583,7 +20620,7 @@
      "marca": "",
      "preco": 1.4,
      "img": "produtos/2577.jpg",
-     "saldo": 905
+     "saldo": 900
     },
     {
      "cod": 988,
@@ -21599,7 +21636,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 375
+     "saldo": 300
     },
     {
      "cod": 14406,
@@ -22037,7 +22074,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/4617.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 4060,
@@ -22053,7 +22090,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 3772,
@@ -22741,7 +22778,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 115
+     "saldo": 114
     },
     {
      "cod": 5005,
@@ -22953,7 +22990,7 @@
      "marca": "PRAFESTA",
      "preco": 12.9,
      "img": "produtos/2507.jpg",
-     "saldo": 122
+     "saldo": 120
     },
     {
      "cod": 11829,
@@ -24981,7 +25018,7 @@
      "marca": "CLAMATEX",
      "preco": 8.9,
      "img": "produtos/8382.jpg",
-     "saldo": 45
+     "saldo": 44
     }
    ]
   },
@@ -25059,7 +25096,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 151
+     "saldo": 149
     },
     {
      "cod": 2712,
@@ -25387,7 +25424,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/4939.jpg",
-     "saldo": 577
+     "saldo": 547
     },
     {
      "cod": 4940,
@@ -25705,7 +25742,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2826.jpg",
-     "saldo": 108
+     "saldo": 106
     },
     {
      "cod": 2827,
@@ -25753,7 +25790,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2840.jpg",
-     "saldo": 212
+     "saldo": 211
     },
     {
      "cod": 3848,
@@ -26529,7 +26566,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 851
+     "saldo": 841
     },
     {
      "cod": 6646,
@@ -26593,7 +26630,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 666
+     "saldo": 636
     },
     {
      "cod": 236,
@@ -27013,7 +27050,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10104.jpg",
-     "saldo": 135
+     "saldo": 129
     },
     {
      "cod": 2804,
@@ -27053,7 +27090,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 43
+     "saldo": 40
     },
     {
      "cod": 11952,
@@ -28865,7 +28902,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/196.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 192,
@@ -28873,7 +28910,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/192.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 193,
@@ -29141,7 +29178,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4396.jpg",
-     "saldo": 24
+     "saldo": 14
     },
     {
      "cod": 4551,
@@ -29299,7 +29336,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 69
+     "saldo": 67
     },
     {
      "cod": 9017,
@@ -31340,14 +31377,14 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO PILOT-ROSA",
        "img": "produtos/1832.jpg",
-       "saldo": 73
+       "saldo": 72
       },
       {
        "cod": 1833,
        "cor": "Verde",
        "nome": "MARCA TEXTO PILOT-VERDE",
        "img": "produtos/1833.jpg",
-       "saldo": 71
+       "saldo": 70
       },
       {
        "cod": 12147,
