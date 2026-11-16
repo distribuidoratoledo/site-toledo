@@ -1002,7 +1002,7 @@
      "marca": "BRW",
      "preco": 12.9,
      "img": "produtos/8823.jpg",
-     "saldo": 15
+     "saldo": 75
     },
     {
      "cod": 13931,
@@ -1336,14 +1336,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/602.jpg",
-     "saldo": 5,
+     "saldo": 6,
      "cores": [
       {
        "cod": 602,
        "cor": "Azul",
        "nome": "CANETA PILOT COMUM-AZUL",
        "img": "produtos/602.jpg",
-       "saldo": 5
+       "saldo": 6
       },
       {
        "cod": 603,
@@ -1367,14 +1367,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/605.jpg",
-     "saldo": 18,
+     "saldo": 17,
      "cores": [
       {
        "cod": 605,
        "cor": "Azul",
        "nome": "CANETA PILOT GRIP 0.7-AZUL",
        "img": "produtos/605.jpg",
-       "saldo": 18
+       "saldo": 17
       },
       {
        "cod": 606,
@@ -8014,7 +8014,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/782.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 787,
@@ -11541,7 +11541,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2148.jpg",
-     "saldo": 264
+     "saldo": 164
     },
     {
      "cod": 2149,
@@ -11834,6 +11834,14 @@
      "preco": 18.9,
      "img": "produtos/11641.jpg",
      "saldo": 7
+    },
+    {
+     "cod": 6237,
+     "nome": "AQUARELA LEO C/12 CORES",
+     "marca": "LEO E LEO",
+     "preco": 18.9,
+     "img": "produtos/6237.jpg",
+     "saldo": 36
     },
     {
      "cod": 12338,
@@ -13486,6 +13494,14 @@
      "saldo": 1
     },
     {
+     "cod": 5442,
+     "nome": "CESTO ORGANIZ. VAZADO 675 PLASUTIL",
+     "marca": "PLASUTIL",
+     "preco": 16.9,
+     "img": "produtos/5442.jpg",
+     "saldo": 30
+    },
+    {
      "cod": 778,
      "nome": "CHAVEIRO MAXCRIL",
      "marca": "MAXCRIL",
@@ -13555,7 +13571,7 @@
      "marca": "MAXCRIL",
      "preco": 0.6,
      "img": "produtos/9251.jpg",
-     "saldo": 194
+     "saldo": 154
     },
     {
      "cod": 9252,
@@ -15020,14 +15036,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/13817.jpg",
-     "saldo": 3,
+     "saldo": 1,
      "cores": [
       {
        "cod": 13817,
        "cor": "Azul",
        "nome": "PASTA PP 1CM POLIBRAS-AZUL",
        "img": "produtos/13817.jpg",
-       "saldo": 3
+       "saldo": 1
       },
       {
        "cod": 13818,
@@ -17586,7 +17602,7 @@
      "marca": "LUXCEL",
      "preco": 97.9,
      "img": "produtos/12816.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 13424,
@@ -18212,7 +18228,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 25953
+     "saldo": 25943
     },
     {
      "cod": 1098,
@@ -18348,7 +18364,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 13539
+     "saldo": 13533
     },
     {
      "cod": 1051,
@@ -18877,6 +18893,14 @@
      "saldo": 5
     },
     {
+     "cod": 212,
+     "nome": "BLOCO PAUTADO GRD C/50FL-TAMOIOS",
+     "marca": "TAMOIOS",
+     "preco": 14.9,
+     "img": "produtos/212.jpg",
+     "saldo": 50
+    },
+    {
      "cod": 213,
      "nome": "BLOCO PAUTADO PEQ. C/50F MINASPEL",
      "marca": "MINASPEL",
@@ -19242,7 +19266,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 120
+     "saldo": 122
     },
     {
      "cod": 14261,
@@ -20058,6 +20082,14 @@
      "saldo": 17
     },
     {
+     "cod": 14661,
+     "nome": "BRINQUEDO PEDAG.MASSINHA+MOLDE",
+     "marca": "MAGIC KIDS",
+     "preco": 12.9,
+     "img": "produtos/14661.jpg",
+     "saldo": 36
+    },
+    {
      "cod": 6086,
      "nome": "BRINQUEDO PEDAG.MEGA CONSTRUÇOES C/45 PÇ",
      "marca": "PAIS E FIL",
@@ -20144,6 +20176,14 @@
      "preco": 49.9,
      "img": "produtos/13718.jpg",
      "saldo": 43
+    },
+    {
+     "cod": 13649,
+     "nome": "BRINQUEDO PEDG. DINHEIRINHO C/48",
+     "marca": "GGB BRINQ.",
+     "preco": 5.9,
+     "img": "produtos/13649.jpg",
+     "saldo": 60
     },
     {
      "cod": 6498,
@@ -21553,7 +21593,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 29
+     "saldo": 28
     }
    ]
   },
@@ -21615,7 +21655,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2604
+     "saldo": 2601
     },
     {
      "cod": 14414,
@@ -21647,7 +21687,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 940
+     "saldo": 930
     },
     {
      "cod": 14407,
@@ -22557,7 +22597,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 231
+     "saldo": 230
     },
     {
      "cod": 3731,
@@ -22787,7 +22827,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 253
+     "saldo": 251
     },
     {
      "cod": 11964,
@@ -23677,7 +23717,7 @@
      "marca": "ULTRA",
      "preco": 19.9,
      "img": "produtos/11813.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 10303,
@@ -24662,12 +24702,68 @@
    "nome": "Sachês e Temperos",
    "itens": [
     {
+     "cod": 40,
+     "nome": "ANILINA COMESTIVEL AMARELA C/10ML",
+     "marca": "MIX",
+     "preco": 4.5,
+     "img": "produtos/40.jpg",
+     "saldo": 36
+    },
+    {
+     "cod": 6012,
+     "nome": "ANILINA COMESTIVEL AZUL C/10ML",
+     "marca": "MIX",
+     "preco": 4.5,
+     "img": "produtos/6012.jpg",
+     "saldo": 36
+    },
+    {
+     "cod": 3119,
+     "nome": "ANILINA COMESTIVEL LARANJA C/10ML",
+     "marca": "MIX",
+     "preco": 4.5,
+     "img": "produtos/3119.jpg",
+     "saldo": 36
+    },
+    {
      "cod": 3122,
      "nome": "ANILINA COMESTIVEL PRETO C/10ML",
      "marca": "ARCOLOR",
      "preco": 4.5,
      "img": "produtos/3122.jpg",
      "saldo": 13
+    },
+    {
+     "cod": 8811,
+     "nome": "ANILINA COMESTIVEL ROSA C/10ML",
+     "marca": "ARCOLOR",
+     "preco": 4.5,
+     "img": "produtos/8811.jpg",
+     "saldo": 36
+    },
+    {
+     "cod": 3123,
+     "nome": "ANILINA COMESTIVEL VERDE C/10ML",
+     "marca": "ICEBERG",
+     "preco": 4.5,
+     "img": "produtos/3123.jpg",
+     "saldo": 36
+    },
+    {
+     "cod": 3124,
+     "nome": "ANILINA COMESTIVEL VERMELHA C/10ML",
+     "marca": "MIX",
+     "preco": 4.5,
+     "img": "produtos/3124.jpg",
+     "saldo": 432
+    },
+    {
+     "cod": 11400,
+     "nome": "ANILINA COMESTIVEL VIOLETA C/10ML",
+     "marca": "ARCOLOR",
+     "preco": 4.5,
+     "img": "produtos/11400.jpg",
+     "saldo": 36
     },
     {
      "cod": 2696,
@@ -24838,28 +24934,12 @@
      }
     },
     {
-     "cod": 14695,
-     "nome": "GARRAFINHA ESCOLAR 500ML SQUEEZE PATRULHA CANINA",
+     "cod": 14694,
+     "nome": "GARRAFINHA ESCOLAR 500ML SQUEEZE PATRULHA CANINA-ROSA",
      "marca": "BANDEIRANT",
      "preco": 14.9,
-     "img": "produtos/14695.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 14695,
-       "cor": "Azul",
-       "nome": "GARRAFINHA ESCOLAR 500ML SQUEEZE PATRULHA CANINA-AZUL",
-       "img": "produtos/14695.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 14694,
-       "cor": "Rosa",
-       "nome": "GARRAFINHA ESCOLAR 500ML SQUEEZE PATRULHA CANINA-ROSA",
-       "img": "produtos/14694.jpg",
-       "saldo": 4
-      }
-     ]
+     "img": "produtos/14694.jpg",
+     "saldo": 4
     },
     {
      "cod": 11581,
@@ -25673,7 +25753,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 150
+     "saldo": 130
     },
     {
      "cod": 2824,
@@ -25721,7 +25801,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 469
+     "saldo": 467
     },
     {
      "cod": 2838,
@@ -25729,7 +25809,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 439
+     "saldo": 438
     },
     {
      "cod": 2839,
@@ -25745,7 +25825,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2840.jpg",
-     "saldo": 211
+     "saldo": 210
     },
     {
      "cod": 3848,
@@ -25975,7 +26055,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2431
+     "saldo": 2426
     },
     {
      "cod": 6821,
@@ -26521,7 +26601,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 785
+     "saldo": 781
     },
     {
      "cod": 6646,
@@ -26585,7 +26665,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 606
+     "saldo": 596
     },
     {
      "cod": 236,
@@ -26893,7 +26973,7 @@
      "marca": "IEC",
      "preco": 5.9,
      "img": "produtos/2785.jpg",
-     "saldo": 172
+     "saldo": 171
     },
     {
      "cod": 2786,
@@ -27013,7 +27093,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/2804.jpg",
-     "saldo": 136
+     "saldo": 135
     },
     {
      "cod": 2805,
@@ -29355,7 +29435,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 247
+     "saldo": 244
     },
     {
      "cod": 6529,
@@ -29363,7 +29443,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 290
+     "saldo": 286
     },
     {
      "cod": 2157,
@@ -29433,7 +29513,7 @@
      "marca": "",
      "preco": 17.9,
      "img": "produtos/9829.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 6754,
