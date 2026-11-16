@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 827,
+     "saldo": 826,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 827
+       "saldo": 826
       },
       {
        "cod": 553,
@@ -1000,7 +1000,7 @@
      "cod": 8823,
      "nome": "CANETA GIZ LIQUIDO EVOKE-BRANCO",
      "marca": "BRW",
-     "preco": 12.9,
+     "preco": 15.9,
      "img": "produtos/8823.jpg",
      "saldo": 75
     },
@@ -7635,14 +7635,14 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/9320.jpg",
-     "saldo": 42,
+     "saldo": 41,
      "cores": [
       {
        "cod": 9320,
        "cor": "Amarelo",
        "nome": "CADERNO PEQ. CD 96F (AMARELO)",
        "img": "produtos/9320.jpg",
-       "saldo": 42
+       "saldo": 41
       },
       {
        "cod": 9319,
@@ -8904,7 +8904,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 733
+     "saldo": 723
     },
     {
      "cod": 1021,
@@ -9184,7 +9184,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 1519,
@@ -9256,7 +9256,7 @@
      "marca": "MAPED",
      "preco": 46.9,
      "img": "produtos/1526.jpg",
-     "saldo": 40
+     "saldo": 41
     },
     {
      "cod": 11574,
@@ -9775,7 +9775,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 348
+     "saldo": 347
     },
     {
      "cod": 12290,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 167
+     "saldo": 155
     },
     {
      "cod": 2007,
@@ -11839,7 +11839,7 @@
      "cod": 6237,
      "nome": "AQUARELA LEO C/12 CORES",
      "marca": "LEO E LEO",
-     "preco": 18.9,
+     "preco": 9.9,
      "img": "produtos/6237.jpg",
      "saldo": 36
     },
@@ -11865,7 +11865,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 234
+     "saldo": 233
     },
     {
      "cod": 11627,
@@ -18766,35 +18766,35 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/73.jpg",
-     "saldo": 182,
+     "saldo": 181,
      "cores": [
       {
        "cod": 73,
        "cor": "Amarelo",
        "nome": "ARQUIVO MORTO OFICIO-AMARELO",
        "img": "produtos/73.jpg",
-       "saldo": 182
+       "saldo": 181
       },
       {
        "cod": 74,
        "cor": "Azul",
        "nome": "ARQUIVO MORTO OFICIO-AZUL",
        "img": "produtos/74.jpg",
-       "saldo": 407
+       "saldo": 406
       },
       {
        "cod": 77,
        "cor": "Verde",
        "nome": "ARQUIVO MORTO OFICIO-VERDE",
        "img": "produtos/77.jpg",
-       "saldo": 230
+       "saldo": 228
       },
       {
        "cod": 5171,
        "cor": "Vermelho",
        "nome": "ARQUIVO MORTO OFICIO-VERMELHO",
        "img": "produtos/5171.jpg",
-       "saldo": 166
+       "saldo": 165
       }
      ]
     },
@@ -19946,12 +19946,28 @@
      "saldo": 1
     },
     {
+     "cod": 14781,
+     "nome": "BRINQUEDO PEDAG. ABACO 5 HASTERS C/50 BOLINHAS",
+     "marca": "YINS",
+     "preco": 9.9,
+     "img": "produtos/14781.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 219,
      "nome": "BRINQUEDO PEDAG. BLOCOS LOGICOS C/48 PÇ MDF",
      "marca": "CARLU",
      "preco": 59.9,
      "img": "produtos/219.jpg",
      "saldo": 11
+    },
+    {
+     "cod": 14644,
+     "nome": "BRINQUEDO PEDAG. BOLA INFANTIL",
+     "marca": "",
+     "preco": 9.9,
+     "img": "produtos/14644.jpg",
+     "saldo": 40
     },
     {
      "cod": 14649,
@@ -21647,7 +21663,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 26
+     "saldo": 24
     },
     {
      "cod": 944,
@@ -21663,7 +21679,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2601
+     "saldo": 2576
     },
     {
      "cod": 14414,
@@ -22867,7 +22883,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 641
+     "saldo": 640
     },
     {
      "cod": 880,
@@ -23041,7 +23057,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 57
+     "saldo": 55
     },
     {
      "cod": 6315,
@@ -24581,7 +24597,7 @@
      "marca": "PLASTSUL",
      "preco": 8.9,
      "img": "produtos/3932.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 4668,
@@ -25083,7 +25099,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 731
+     "saldo": 730
     },
     {
      "cod": 2705,
@@ -25107,7 +25123,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 2709,
@@ -25179,7 +25195,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 2718,
@@ -25243,7 +25259,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 10061,
@@ -25291,7 +25307,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 184
+     "saldo": 183
     },
     {
      "cod": 10062,
@@ -26103,7 +26119,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 196
+     "saldo": 194
     }
    ]
   },
@@ -26333,7 +26349,7 @@
      "marca": "HIPERROLL",
      "preco": 30.9,
      "img": "produtos/1338.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 1339,
@@ -26665,7 +26681,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 566
+     "saldo": 536
     },
     {
      "cod": 236,
@@ -26885,7 +26901,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 692
+     "saldo": 687
     },
     {
      "cod": 2760,
@@ -26901,7 +26917,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 875
+     "saldo": 874
     },
     {
      "cod": 2761,
@@ -27630,7 +27646,7 @@
        "cor": "Preto",
        "nome": "FITILHO 50MT PRETO",
        "img": "produtos/1326.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 5992,
@@ -28583,7 +28599,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 504
+     "saldo": 501
     },
     {
      "cod": 6323,
@@ -28993,7 +29009,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 353
+     "saldo": 343
     },
     {
      "cod": 2608,
@@ -29443,7 +29459,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 276
+     "saldo": 274
     },
     {
      "cod": 2157,
