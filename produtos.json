@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 841,
+     "saldo": 840,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 841
+       "saldo": 840
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2050
+       "saldo": 2049
       },
       {
        "cod": 554,
@@ -1845,7 +1845,7 @@
      "marca": "MAPED",
      "preco": 12.9,
      "img": "produtos/7707.jpg",
-     "saldo": 84
+     "saldo": 85
     },
     {
      "cod": 7699,
@@ -1885,7 +1885,7 @@
      "marca": "CIS",
      "preco": 13.9,
      "img": "produtos/13044.jpg",
-     "saldo": 11
+     "saldo": 12
     },
     {
      "cod": 12914,
@@ -2141,7 +2141,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
-     "saldo": 33,
+     "saldo": 34,
      "controle": [
       "AZUL",
       "PRETO",
@@ -2150,7 +2150,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "PRETO": 10,
-      "ROSA": 11
+      "ROSA": 12
      }
     },
     {
@@ -2175,7 +2175,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 36
+     "saldo": 37
     },
     {
      "cod": 13799,
@@ -2236,7 +2236,7 @@
        "cor": "Roxo",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROXO",
        "img": "produtos/10562.jpg",
-       "saldo": 6
+       "saldo": 7
       },
       {
        "cod": 10563,
@@ -2715,7 +2715,7 @@
        "cor": "Verde",
        "nome": "LAPIS ESCREVER TILIBRA LUNIX C/BORRACHA-VERDE",
        "img": "produtos/13159.jpg",
-       "saldo": 6
+       "saldo": 7
       }
      ]
     },
@@ -3050,20 +3050,13 @@
      "saldo": 36
     },
     {
-     "cod": 2343,
+     "cod": 2344,
      "nome": "PINCEL ATOM.1100 PILOT",
      "marca": "PILOT",
      "preco": 7.9,
-     "img": "produtos/2343.jpg",
-     "saldo": 4,
+     "img": "produtos/2344.jpg",
+     "saldo": 18,
      "cores": [
-      {
-       "cod": 2343,
-       "cor": "Azul",
-       "nome": "PINCEL ATOM.1100 PILOT-AZUL",
-       "img": "produtos/2343.jpg",
-       "saldo": 4
-      },
       {
        "cod": 2344,
        "cor": "Preto",
@@ -3956,7 +3949,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14556.jpg",
-     "saldo": 47,
+     "saldo": 48,
      "controle": [
       "AZUL",
       "ROSA",
@@ -3967,7 +3960,7 @@
       "AZUL": 12,
       "ROSA": 12,
       "ROXO": 12,
-      "VERDE-ÁGUA": 11
+      "VERDE-ÁGUA": 12
      }
     },
     {
@@ -4660,14 +4653,14 @@
      "marca": "LORIGRAF",
      "preco": 23.9,
      "img": "produtos/14313.jpg",
-     "saldo": 18,
+     "saldo": 17,
      "cores": [
       {
        "cod": 14313,
        "cor": "Azul",
        "nome": "AGENDA COMERCIAL ESPIRAL 352FLS AZUL",
        "img": "produtos/14313.jpg",
-       "saldo": 18
+       "saldo": 17
       },
       {
        "cod": 14312,
@@ -6994,7 +6987,7 @@
        "cor": "Verde",
        "nome": "CADERNO CD 96F TILIBRA (VERDE)",
        "img": "produtos/399.jpg",
-       "saldo": 39
+       "saldo": 40
       },
       {
        "cod": 9009,
@@ -8280,7 +8273,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3443.jpg",
-     "saldo": 81
+     "saldo": 77
     },
     {
      "cod": 2664,
@@ -8737,20 +8730,20 @@
      "saldo": 16
     },
     {
+     "cod": 7904,
+     "nome": "COLA LIQUIDA 90GR-MERCUR",
+     "marca": "MERCUR",
+     "preco": 5.9,
+     "img": "produtos/7904.jpg",
+     "saldo": 360
+    },
+    {
      "cod": 14523,
-     "nome": "COLA LIQUIDA 90GR CORES MAGICA-MERCUR",
+     "nome": "COLA LIQUIDA 90GR-MERCUR (ROSA)",
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14523.jpg",
      "saldo": 240
-    },
-    {
-     "cod": 7904,
-     "nome": "COLA LIQUIDA 90GR-MERCUR",
-     "marca": "MERCUR",
-     "preco": 6.9,
-     "img": "produtos/7904.jpg",
-     "saldo": 360
     },
     {
      "cod": 822,
@@ -8868,7 +8861,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4200
+     "saldo": 4199
     },
     {
      "cod": 14619,
@@ -8876,7 +8869,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 736
+     "saldo": 735
     },
     {
      "cod": 1021,
@@ -8919,7 +8912,7 @@
        "cor": "Verde",
        "nome": "DUREX COLOR.12X10M-VERDE",
        "img": "produtos/1026.jpg",
-       "saldo": 436
+       "saldo": 435
       },
       {
        "cod": 1027,
@@ -10721,7 +10714,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 96
+     "saldo": 97
     },
     {
      "cod": 2051,
@@ -10806,7 +10799,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 40
+       "saldo": 41
       },
       {
        "cod": 5162,
@@ -10844,7 +10837,7 @@
        "cor": "Azul Escuro",
        "nome": "COLORSETE-AZUL ESCURO",
        "img": "produtos/2039.jpg",
-       "saldo": 58
+       "saldo": 59
       },
       {
        "cod": 2041,
@@ -10872,7 +10865,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 80
+       "saldo": 78
       },
       {
        "cod": 2045,
@@ -11203,7 +11196,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 221
+     "saldo": 215
     },
     {
      "cod": 2007,
@@ -11321,7 +11314,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 6667,
@@ -11883,7 +11876,7 @@
        "cor": "Amarelo Pessego",
        "nome": "GUACHE 250ML ACRILEX-AMARELO PESSEGO",
        "img": "produtos/12685.jpg",
-       "saldo": 50
+       "saldo": 49
       },
       {
        "cod": 5764,
@@ -11897,7 +11890,7 @@
        "cor": "Azul Celeste",
        "nome": "GUACHE 250ML ACRILEX-AZUL CELESTE",
        "img": "produtos/6269.jpg",
-       "saldo": 63
+       "saldo": 62
       },
       {
        "cod": 3021,
@@ -11953,7 +11946,7 @@
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 3026,
@@ -12000,6 +11993,58 @@
      "preco": 10.9,
      "img": "produtos/3029.jpg",
      "saldo": 50
+    },
+    {
+     "cod": 3570,
+     "nome": "GUACHE 250ML EVIDENT",
+     "marca": "EVIDENT",
+     "preco": 8.9,
+     "img": "produtos/3570.jpg",
+     "saldo": 24,
+     "cores": [
+      {
+       "cod": 3570,
+       "cor": "Azul Royal",
+       "nome": "GUACHE 250ML EVIDENT AZUL ROYAL",
+       "img": "produtos/3570.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3030,
+       "cor": "Branca",
+       "nome": "GUACHE 250ML EVIDENT BRANCA",
+       "img": "produtos/3030.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3031,
+       "cor": "Laranja",
+       "nome": "GUACHE 250ML EVIDENT LARANJA",
+       "img": "produtos/3031.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3571,
+       "cor": "Preto",
+       "nome": "GUACHE 250ML EVIDENT PRETO",
+       "img": "produtos/3571.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3032,
+       "cor": "Verde Bandeira",
+       "nome": "GUACHE 250ML EVIDENT VERDE BANDEIRA",
+       "img": "produtos/3032.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 3739,
+       "cor": "Vermelho",
+       "nome": "GUACHE 250ML EVIDENT VERMELHO",
+       "img": "produtos/3739.jpg",
+       "saldo": 24
+      }
+     ]
     },
     {
      "cod": 3033,
@@ -16078,7 +16123,7 @@
        "cor": "Lilas",
        "nome": "EVA GLITER-LILAS",
        "img": "produtos/4830.jpg",
-       "saldo": 116
+       "saldo": 117
       },
       {
        "cod": 1219,
@@ -16099,7 +16144,7 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 176
+       "saldo": 177
       },
       {
        "cod": 1222,
@@ -19554,7 +19599,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/1472.jpg",
-     "saldo": 285
+     "saldo": 286
     },
     {
      "cod": 7695,
@@ -21563,7 +21608,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 400
+     "saldo": 375
     },
     {
      "cod": 14406,
@@ -22665,7 +22710,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 29
+     "saldo": 25
     },
     {
      "cod": 2491,
@@ -22673,7 +22718,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 408
+     "saldo": 407
     },
     {
      "cod": 2489,
@@ -23523,7 +23568,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/1367.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 14322,
@@ -24711,7 +24756,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 2700,
@@ -28451,7 +28496,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 28
+     "saldo": 30
     },
     {
      "cod": 1198,
