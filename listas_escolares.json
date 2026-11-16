@@ -12483,12 +12483,12 @@
       {
        "descricao": "1 caderno quadriculado",
        "qtd": 1,
-       "cod": 11634,
-       "produto": "CADERNO QUADRIC. CD 40F-DOMINGUINHOS",
+       "cod": 14783,
+       "produto": "CADERNO 1X1 QUADRIC. CD 80F-ANIMATIVA",
        "marca": "ANIMATIVA",
-       "preco": 14.9,
-       "obs": "Caderno quadriculado capa dura, 40 folhas.",
-       "foto": "listas/fotos/11634.jpg",
+       "preco": 11.9,
+       "obs": "Caderno quadriculado capa dura Animativa, 80 folhas.",
+       "foto": "listas/fotos/14783.jpg",
        "grupo": "Cadernos"
       },
       {
@@ -21644,5 +21644,5 @@
    ]
   }
  ],
- "atualizado": "16/11/2026 14:16"
+ "atualizado": "16/11/2026 15:48"
 }
