@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 837,
+     "saldo": 827,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 837
+       "saldo": 827
       },
       {
        "cod": 553,
@@ -1336,14 +1336,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/602.jpg",
-     "saldo": 6,
+     "saldo": 5,
      "cores": [
       {
        "cod": 602,
        "cor": "Azul",
        "nome": "CANETA PILOT COMUM-AZUL",
        "img": "produtos/602.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 603,
@@ -3558,7 +3558,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 2658,
@@ -4719,7 +4719,7 @@
      "marca": "LORIGRAF",
      "preco": 23.9,
      "img": "produtos/14311.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 12512,
@@ -5816,7 +5816,7 @@
      "marca": "SD",
      "preco": 34.9,
      "img": "produtos/13099.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 5734,
@@ -6076,7 +6076,7 @@
      "marca": "SD",
      "preco": 45.9,
      "img": "produtos/13098.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 7767,
@@ -7534,7 +7534,7 @@
      "marca": "SD",
      "preco": 13.9,
      "img": "produtos/13115.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 10884,
@@ -8410,7 +8410,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/7690.jpg",
-     "saldo": 85
+     "saldo": 75
     },
     {
      "cod": 813,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 179
+     "saldo": 168
     },
     {
      "cod": 2007,
@@ -18356,7 +18356,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7339
+     "saldo": 7329
     },
     {
      "cod": 1054,
@@ -19010,14 +19010,14 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 52,
+     "saldo": 50,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 52
+       "saldo": 50
       },
       {
        "cod": 6623,
@@ -21583,7 +21583,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 170
+     "saldo": 169
     },
     {
      "cod": 945,
@@ -21615,7 +21615,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2629
+     "saldo": 2604
     },
     {
      "cod": 14414,
@@ -21687,7 +21687,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 299
+     "saldo": 249
     },
     {
      "cod": 14405,
@@ -21767,7 +21767,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 958,
@@ -21935,7 +21935,7 @@
      "marca": "ULTRA",
      "preco": 8.9,
      "img": "produtos/3698.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 14233,
@@ -22557,7 +22557,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 236
+     "saldo": 233
     },
     {
      "cod": 3731,
@@ -22669,7 +22669,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 459
+     "saldo": 456
     },
     {
      "cod": 4146,
@@ -22685,7 +22685,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 396
+     "saldo": 393
     },
     {
      "cod": 2489,
@@ -22819,7 +22819,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 647
+     "saldo": 643
     },
     {
      "cod": 880,
@@ -22891,7 +22891,7 @@
      "marca": "PRAFESTA",
      "preco": 6.9,
      "img": "produtos/1881.jpg",
-     "saldo": 37
+     "saldo": 35
     },
     {
      "cod": 10444,
@@ -22945,7 +22945,7 @@
      "marca": "PRAFESTA",
      "preco": 12.9,
      "img": "produtos/2507.jpg",
-     "saldo": 120
+     "saldo": 122
     },
     {
      "cod": 11829,
@@ -23025,7 +23025,7 @@
      "marca": "RIOPLASTIC",
      "preco": 19.9,
      "img": "produtos/2510.jpg",
-     "saldo": 13
+     "saldo": 11
     },
     {
      "cod": 4573,
@@ -25689,7 +25689,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 373
+     "saldo": 363
     },
     {
      "cod": 2826,
@@ -26213,7 +26213,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 115
+     "saldo": 111
     },
     {
      "cod": 4427,
@@ -26467,7 +26467,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 962
+     "saldo": 961
     },
     {
      "cod": 2900,
@@ -26521,7 +26521,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 841
+     "saldo": 785
     },
     {
      "cod": 6646,
@@ -29197,7 +29197,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/10988.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 8296,
@@ -29441,7 +29441,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 9748,
@@ -31165,7 +31165,7 @@
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/11547.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 11536,
@@ -31205,14 +31205,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 302,
+     "saldo": 290,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 302
+       "saldo": 290
       },
       {
        "cod": 6051,
