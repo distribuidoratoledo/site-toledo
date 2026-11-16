@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 131
+       "saldo": 128
       },
       {
        "cod": 563,
@@ -3232,14 +3232,14 @@
        "cor": "Preto",
        "nome": "PINCEL COMPACTOR-PRETO",
        "img": "produtos/2331.jpg",
-       "saldo": 355
+       "saldo": 352
       },
       {
        "cod": 2333,
        "cor": "Vermelho",
        "nome": "PINCEL COMPACTOR-VERMELHO",
        "img": "produtos/2333.jpg",
-       "saldo": 238
+       "saldo": 235
       }
      ]
     },
@@ -3561,7 +3561,7 @@
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 22
+       "saldo": 20
       }
      ]
     }
@@ -5725,7 +5725,7 @@
      "marca": "CREDEAL",
      "preco": 19.9,
      "img": "produtos/8402.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 12767,
@@ -8775,7 +8775,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 318
+     "saldo": 317
     },
     {
      "cod": 11926,
@@ -11220,7 +11220,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 213
+     "saldo": 212
     },
     {
      "cod": 2007,
@@ -11450,7 +11450,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 377
+     "saldo": 327
     },
     {
      "cod": 2139,
@@ -25000,7 +25000,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 771
+     "saldo": 731
     },
     {
      "cod": 2705,
@@ -25896,7 +25896,7 @@
        "cor": "Azul Escuro",
        "nome": "SACOLA PH 30X40 C/50-AZUL ESCURO",
        "img": "produtos/3672.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 3958,
@@ -30448,7 +30448,7 @@
      "marca": "MAPED",
      "preco": 2.9,
      "img": "produtos/11562.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 11584,
