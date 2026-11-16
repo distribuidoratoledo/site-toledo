@@ -5346,7 +5346,7 @@
      "marca": "SD",
      "preco": 37.9,
      "img": "produtos/8782.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 6564,
@@ -5450,7 +5450,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/12400.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 12438,
@@ -5590,7 +5590,7 @@
        "cor": "Preto",
        "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
        "img": "produtos/13205.jpg",
-       "saldo": 28
+       "saldo": 27
       }
      ]
     },
@@ -5954,7 +5954,7 @@
        "cor": "Roxo",
        "nome": "CADERNO 1X1 80F-NEON ROXO",
        "img": "produtos/5618.jpg",
-       "saldo": 9
+       "saldo": 8
       }
      ]
     },
@@ -13224,6 +13224,14 @@
      "saldo": 3
     },
     {
+     "cod": 13708,
+     "nome": "ETIQUETADORA MX5500-LETRON",
+     "marca": "LETRON",
+     "preco": 59.9,
+     "img": "produtos/13708.jpg",
+     "saldo": 10
+    },
+    {
      "cod": 13371,
      "nome": "SELO CONVITE AMARELO 12MM C/210",
      "marca": "PIMACO",
@@ -19915,7 +19923,7 @@
     },
     {
      "cod": 14651,
-     "nome": "BRINQ. CORDA DE PULAR NYLON C/2MT",
+     "nome": "BRINQUEDO CORDA DE PULAR  NYLON C/2MT",
      "marca": "",
      "preco": 9.9,
      "img": "produtos/14651.jpg",
@@ -21935,7 +21943,7 @@
      "marca": "TOTALPLAST",
      "preco": 4.9,
      "img": "produtos/2923.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 7351,
@@ -22841,7 +22849,7 @@
      "cod": 7659,
      "nome": "COLHER AÇAI C/50 LONGA ROXA",
      "marca": "PLAZAPEL",
-     "preco": 13.9,
+     "preco": 17.9,
      "img": "produtos/7659.jpg",
      "saldo": 29
     },
@@ -22891,7 +22899,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 396
+     "saldo": 395
     },
     {
      "cod": 14417,
@@ -23089,7 +23097,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 230
+     "saldo": 229
     },
     {
      "cod": 2516,
@@ -23741,7 +23749,7 @@
      "marca": "COPOPLAST",
      "preco": 1.2,
      "img": "produtos/10303.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 2550,
@@ -25307,7 +25315,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 183
+     "saldo": 182
     },
     {
      "cod": 10062,
@@ -25777,7 +25785,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 906
+     "saldo": 904
     },
     {
      "cod": 10972,
@@ -26119,7 +26127,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 194
+     "saldo": 193
     }
    ]
   },
@@ -26229,7 +26237,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 251,
