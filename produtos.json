@@ -1301,7 +1301,7 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/596.jpg",
-     "saldo": 15
+     "saldo": 11
     },
     {
      "cod": 4392,
@@ -4131,7 +4131,7 @@
      "marca": "MERCUR",
      "preco": 1.2,
      "img": "produtos/4341.jpg",
-     "saldo": 90
+     "saldo": 80
     },
     {
      "cod": 279,
@@ -4303,7 +4303,7 @@
      "marca": "MERCUR",
      "preco": 0.6,
      "img": "produtos/293.jpg",
-     "saldo": 418
+     "saldo": 414
     },
     {
      "cod": 3225,
@@ -6041,7 +6041,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8395.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 12963,
@@ -7329,7 +7329,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO DESENHO CD 80F-(VERMELHO)",
        "img": "produtos/13763.jpg",
-       "saldo": 107
+       "saldo": 106
       }
      ]
     },
@@ -7645,7 +7645,7 @@
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
        "img": "produtos/12455.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 9321,
@@ -9119,7 +9119,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1285
+     "saldo": 1277
     },
     {
      "cod": 4389,
@@ -11744,7 +11744,7 @@
      "marca": "SOUZA",
      "preco": 110.9,
      "img": "produtos/2592.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 14337,
@@ -12017,58 +12017,6 @@
      "preco": 10.9,
      "img": "produtos/3029.jpg",
      "saldo": 50
-    },
-    {
-     "cod": 3570,
-     "nome": "GUACHE 250ML EVIDENT",
-     "marca": "EVIDENT",
-     "preco": 8.9,
-     "img": "produtos/3570.jpg",
-     "saldo": 24,
-     "cores": [
-      {
-       "cod": 3570,
-       "cor": "Azul Royal",
-       "nome": "GUACHE 250ML EVIDENT AZUL ROYAL",
-       "img": "produtos/3570.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3030,
-       "cor": "Branca",
-       "nome": "GUACHE 250ML EVIDENT BRANCA",
-       "img": "produtos/3030.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3031,
-       "cor": "Laranja",
-       "nome": "GUACHE 250ML EVIDENT LARANJA",
-       "img": "produtos/3031.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3571,
-       "cor": "Preto",
-       "nome": "GUACHE 250ML EVIDENT PRETO",
-       "img": "produtos/3571.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3032,
-       "cor": "Verde Bandeira",
-       "nome": "GUACHE 250ML EVIDENT VERDE BANDEIRA",
-       "img": "produtos/3032.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3739,
-       "cor": "Vermelho",
-       "nome": "GUACHE 250ML EVIDENT VERMELHO",
-       "img": "produtos/3739.jpg",
-       "saldo": 24
-      }
-     ]
     },
     {
      "cod": 3033,
@@ -21608,7 +21556,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 832
+     "saldo": 232
     },
     {
      "cod": 938,
@@ -21640,7 +21588,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6288
+     "saldo": 38
     },
     {
      "cod": 944,
@@ -21680,7 +21628,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 1070
+     "saldo": 70
     },
     {
      "cod": 949,
@@ -21696,7 +21644,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 148
+     "saldo": 28
     },
     {
      "cod": 8806,
@@ -21715,28 +21663,12 @@
      "saldo": 291
     },
     {
-     "cod": 14408,
-     "nome": "COPO 500ML PS C/50-COPOMAIS",
-     "marca": "COPOMAIS",
-     "preco": 10.9,
-     "img": "produtos/14408.jpg",
-     "saldo": 120
-    },
-    {
      "cod": 954,
      "nome": "COPO 500ML PS C/50-TOTAL",
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/954.jpg",
      "saldo": 432
-    },
-    {
-     "cod": 14403,
-     "nome": "COPO 50ML PS C/100-COPOMAIS",
-     "marca": "COPOMAIS",
-     "preco": 2.9,
-     "img": "produtos/14403.jpg",
-     "saldo": 1000
     },
     {
      "cod": 3342,
@@ -21752,7 +21684,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 218
+     "saldo": 68
     },
     {
      "cod": 960,
@@ -21920,7 +21852,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 526
+     "saldo": 126
     },
     {
      "cod": 2923,
@@ -21944,7 +21876,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 531
+     "saldo": 131
     },
     {
      "cod": 2934,
@@ -22094,7 +22026,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 364
+     "saldo": 360
     },
     {
      "cod": 177,
@@ -22502,7 +22434,7 @@
      "marca": "ISOMAX",
      "preco": 10.9,
      "img": "produtos/772.jpg",
-     "saldo": 177
+     "saldo": 161
     },
     {
      "cod": 773,
@@ -22518,7 +22450,7 @@
      "marca": "ISOMAX",
      "preco": 13.9,
      "img": "produtos/774.jpg",
-     "saldo": 71
+     "saldo": 65
     },
     {
      "cod": 775,
@@ -22614,7 +22546,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 239
+     "saldo": 236
     },
     {
      "cod": 3731,
@@ -22718,7 +22650,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 82
+     "saldo": 80
     },
     {
      "cod": 2937,
@@ -22726,7 +22658,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 470
+     "saldo": 463
     },
     {
      "cod": 4146,
@@ -22742,7 +22674,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 406
+     "saldo": 400
     },
     {
      "cod": 2489,
@@ -22782,7 +22714,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 131
+     "saldo": 127
     },
     {
      "cod": 4129,
@@ -22790,7 +22722,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 119
+     "saldo": 115
     },
     {
      "cod": 5005,
@@ -23114,7 +23046,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 523
+     "saldo": 123
     },
     {
      "cod": 7343,
@@ -23130,7 +23062,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 595
+     "saldo": 195
     },
     {
      "cod": 13873,
@@ -23750,7 +23682,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 4018
+     "saldo": 1018
     },
     {
      "cod": 3857,
@@ -23758,7 +23690,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1236
+     "saldo": 236
     },
     {
      "cod": 2552,
@@ -23766,7 +23698,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 435
+     "saldo": 185
     },
     {
      "cod": 3898,
@@ -23782,7 +23714,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 1526
+     "saldo": 526
     },
     {
      "cod": 11873,
@@ -24764,7 +24696,7 @@
      "marca": "LANCHERO",
      "preco": 10.9,
      "img": "produtos/14415.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2699,
@@ -26056,7 +25988,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 782
+     "saldo": 762
     },
     {
      "cod": 6825,
@@ -26072,7 +26004,7 @@
      "marca": "",
      "preco": 42.9,
      "img": "produtos/3964.jpg",
-     "saldo": 46
+     "saldo": 47
     },
     {
      "cod": 2877,
@@ -26286,7 +26218,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 8226
+     "saldo": 8126
     },
     {
      "cod": 11788,
@@ -26468,7 +26400,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 97
+     "saldo": 98
     },
     {
      "cod": 2905,
@@ -26664,7 +26596,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 10990,
@@ -29134,7 +29066,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 647
+     "saldo": 646
     },
     {
      "cod": 1786,
@@ -30147,41 +30079,21 @@
    "nome": "Apontador",
    "itens": [
     {
-     "cod": 14626,
-     "nome": "APONTADOR ACRILEX 1F C/D-(22406) CORES",
-     "marca": "ACRILEX",
-     "preco": 7.9,
-     "img": "produtos/14626.jpg",
-     "saldo": 48,
-     "controle": [
-      "AZUL",
-      "PINK",
-      "PRETO",
-      "VERDE-ÁGUA"
-     ],
-     "saldo_cor": {
-      "AZUL": 12,
-      "PINK": 12,
-      "PRETO": 12,
-      "VERDE-ÁGUA": 12
-     }
-    },
-    {
      "cod": 14627,
      "nome": "APONTADOR ACRILEX 2F C/D-(22417) CORES",
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/14627.jpg",
-     "saldo": 48,
+     "saldo": 23,
      "controle": [
       "LILAS",
       "ROSA",
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "LILAS": 16,
-      "ROSA": 16,
-      "VERDE-ÁGUA": 16
+      "LILAS": 7,
+      "ROSA": 8,
+      "VERDE-ÁGUA": 8
      }
     },
     {
@@ -30190,32 +30102,14 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/14628.jpg",
-     "saldo": 46,
+     "saldo": 28,
      "controle": [
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
-      "ROSA": 22,
-      "ROXO": 24
-     }
-    },
-    {
-     "cod": 14629,
-     "nome": "APONTADOR ACRILEX 2F C/D-(22419) CORES",
-     "marca": "ACRILEX",
-     "preco": 9.9,
-     "img": "produtos/14629.jpg",
-     "saldo": 47,
-     "controle": [
-      "ROSA",
-      "ROXO",
-      "VERDE-ÁGUA"
-     ],
-     "saldo_cor": {
-      "ROSA": 16,
-      "ROXO": 16,
-      "VERDE-ÁGUA": 15
+      "ROSA": 13,
+      "ROXO": 15
      }
     },
     {
@@ -30224,16 +30118,16 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/14630.jpg",
-     "saldo": 47,
+     "saldo": 19,
      "controle": [
       "AMARELO",
       "ROSA",
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AMARELO": 16,
-      "ROSA": 16,
-      "VERDE-ÁGUA": 15
+      "AMARELO": 6,
+      "ROSA": 7,
+      "VERDE-ÁGUA": 6
      }
     },
     {
@@ -30258,7 +30152,7 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11861.jpg",
-     "saldo": 25
+     "saldo": 27
     },
     {
      "cod": 12246,
@@ -30266,31 +30160,15 @@
      "marca": "BRW",
      "preco": 8.9,
      "img": "produtos/12246.jpg",
-     "saldo": 2
+     "saldo": 3
     },
     {
-     "cod": 10530,
-     "nome": "APONTADOR CIS (1F) C/D+BORR (TREND)",
+     "cod": 10523,
+     "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/PRATA (TREND)",
      "marca": "CIS",
      "preco": 9.9,
-     "img": "produtos/10530.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 10530,
-       "cor": "Roxo / Dourado",
-       "nome": "APONTADOR CIS (1F) C/D+BORR-ROXO/DOURADO (TREND)",
-       "img": "produtos/10530.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 10650,
-       "cor": "Verde / Dourado",
-       "nome": "APONTADOR CIS (1F) C/D+BORR-VERDE/DOURADO (TREND)",
-       "img": "produtos/10650.jpg",
-       "saldo": 5
-      }
-     ]
+     "img": "produtos/10523.jpg",
+     "saldo": 4
     },
     {
      "cod": 10614,
@@ -30298,15 +30176,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10614.jpg",
-     "saldo": 10
-    },
-    {
-     "cod": 10788,
-     "nome": "APONTADOR CIS C/D MINI-ROSA",
-     "marca": "LEO E LEO",
-     "preco": 1.2,
-     "img": "produtos/10788.jpg",
-     "saldo": 3
+     "saldo": 30
     },
     {
      "cod": 10647,
@@ -30314,14 +30184,14 @@
      "marca": "CIS",
      "preco": 12.9,
      "img": "produtos/10647.jpg",
-     "saldo": 28,
+     "saldo": 49,
      "cores": [
       {
        "cod": 10647,
        "cor": "Laranja / Azul",
        "nome": "APONTADOR CIS C/D SPIRO 2F-LARANJA/AZUL",
        "img": "produtos/10647.jpg",
-       "saldo": 28
+       "saldo": 49
       },
       {
        "cod": 8158,
@@ -30329,13 +30199,6 @@
        "nome": "APONTADOR CIS C/D SPIRO 2F-LILAS/ROSA",
        "img": "produtos/8158.jpg",
        "saldo": 5
-      },
-      {
-       "cod": 8159,
-       "cor": "Verde / Azul",
-       "nome": "APONTADOR CIS C/D SPIRO 2F-VERDE/AZUL",
-       "img": "produtos/8159.jpg",
-       "saldo": 25
       }
      ]
     },
@@ -30345,7 +30208,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/4811.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 13032,
@@ -30353,87 +30216,23 @@
      "marca": "FABER",
      "preco": 11.9,
      "img": "produtos/13032.jpg",
-     "saldo": 2
+     "saldo": 3
     },
     {
      "cod": 8464,
-     "nome": "APONTADOR FABER C/D ELIPSE",
+     "nome": "APONTADOR FABER C/D ELIPSE-PRETO",
      "marca": "FABER",
      "preco": 7.9,
      "img": "produtos/8464.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 8464,
-       "cor": "Preto",
-       "nome": "APONTADOR FABER C/D ELIPSE-PRETO",
-       "img": "produtos/8464.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 8463,
-       "cor": "Vermelho",
-       "nome": "APONTADOR FABER C/D ELIPSE-VERMELHO",
-       "img": "produtos/8463.jpg",
-       "saldo": 8
-      }
-     ]
+     "saldo": 9
     },
     {
-     "cod": 8736,
-     "nome": "APONTADOR FABER C/D POSTER-BRANCO/PRETO",
-     "marca": "FABER",
-     "preco": 4.9,
-     "img": "produtos/8736.jpg",
-     "saldo": 8
-    },
-    {
-     "cod": 5214,
-     "nome": "APONTADOR FABER C/D TRADIC.GLITER",
+     "cod": 5211,
+     "nome": "APONTADOR FABER C/D TRADIC.GLITER-AZUL",
      "marca": "FABER",
      "preco": 6.5,
-     "img": "produtos/5214.jpg",
-     "saldo": 6,
-     "cores": [
-      {
-       "cod": 5214,
-       "cor": "Roxo",
-       "nome": "APONTADOR FABER C/D TRADIC.GLITER-ROXO",
-       "img": "produtos/5214.jpg",
-       "saldo": 6
-      },
-      {
-       "cod": 5212,
-       "cor": "Verde",
-       "nome": "APONTADOR FABER C/D TRADIC.GLITER-VERDE",
-       "img": "produtos/5212.jpg",
-       "saldo": 6
-      }
-     ]
-    },
-    {
-     "cod": 3146,
-     "nome": "APONTADOR FABER C/D TRADIC.NEON",
-     "marca": "FABER",
-     "preco": 6.5,
-     "img": "produtos/3146.jpg",
-     "saldo": 7,
-     "cores": [
-      {
-       "cod": 3146,
-       "cor": "Laranja",
-       "nome": "APONTADOR FABER C/D TRADIC.NEON-LARANJA",
-       "img": "produtos/3146.jpg",
-       "saldo": 7
-      },
-      {
-       "cod": 3147,
-       "cor": "Rosa",
-       "nome": "APONTADOR FABER C/D TRADIC.NEON-ROSA",
-       "img": "produtos/3147.jpg",
-       "saldo": 7
-      }
-     ]
+     "img": "produtos/5211.jpg",
+     "saldo": 22
     },
     {
      "cod": 5216,
@@ -30441,7 +30240,7 @@
      "marca": "FABER",
      "preco": 6.5,
      "img": "produtos/5216.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 3155,
@@ -30457,127 +30256,56 @@
      "marca": "FABER",
      "preco": 11.9,
      "img": "produtos/53.jpg",
-     "saldo": 20
+     "saldo": 29
     },
     {
      "cod": 13029,
-     "nome": "APONTADOR FABER C/D UNICORNIO",
+     "nome": "APONTADOR FABER C/D UNICORNIO-ROSA",
      "marca": "FABER",
      "preco": 11.9,
      "img": "produtos/13029.jpg",
-     "saldo": 4,
-     "cores": [
-      {
-       "cod": 13029,
-       "cor": "Rosa",
-       "nome": "APONTADOR FABER C/D UNICORNIO-ROSA",
-       "img": "produtos/13029.jpg",
-       "saldo": 4
-      },
-      {
-       "cod": 13030,
-       "cor": "Roxo",
-       "nome": "APONTADOR FABER C/D UNICORNIO-ROXO",
-       "img": "produtos/13030.jpg",
-       "saldo": 11
-      }
-     ]
+     "saldo": 14
     },
     {
-     "cod": 10278,
-     "nome": "APONTADOR FABER C/D VAI E VEM-ROSA",
+     "cod": 10279,
+     "nome": "APONTADOR FABER C/D VAI E VEM",
      "marca": "FABER",
      "preco": 13.9,
-     "img": "produtos/10278.jpg",
-     "saldo": 10
-    },
-    {
-     "cod": 5207,
-     "nome": "APONTADOR FABER C/D+BORR PASTEL",
-     "marca": "FABER",
-     "preco": 10.9,
-     "img": "produtos/5207.jpg",
-     "saldo": 4,
+     "img": "produtos/10279.jpg",
+     "saldo": 8,
      "cores": [
       {
-       "cod": 5207,
+       "cod": 10279,
        "cor": "Azul",
-       "nome": "APONTADOR FABER C/D+BORR-AZUL PASTEL",
-       "img": "produtos/5207.jpg",
-       "saldo": 4
+       "nome": "APONTADOR FABER C/D VAI E VEM-AZUL",
+       "img": "produtos/10279.jpg",
+       "saldo": 8
       },
       {
-       "cod": 5209,
-       "cor": "Verde",
-       "nome": "APONTADOR FABER C/D+BORR-VERDE PASTEL",
-       "img": "produtos/5209.jpg",
-       "saldo": 1
-      }
-     ]
-    },
-    {
-     "cod": 3174,
-     "nome": "APONTADOR FABER S/D",
-     "marca": "FABER",
-     "preco": 1.8,
-     "img": "produtos/3174.jpg",
-     "saldo": 3,
-     "cores": [
-      {
-       "cod": 3174,
+       "cod": 10278,
        "cor": "Rosa",
-       "nome": "APONTADOR FABER S/D-ROSA",
-       "img": "produtos/3174.jpg",
-       "saldo": 3
-      },
-      {
-       "cod": 3175,
-       "cor": "Vermelho",
-       "nome": "APONTADOR FABER S/D-VERMELHO",
-       "img": "produtos/3175.jpg",
-       "saldo": 4
+       "nome": "APONTADOR FABER C/D VAI E VEM-ROSA",
+       "img": "produtos/10278.jpg",
+       "saldo": 30
       }
      ]
     },
     {
-     "cod": 7598,
-     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL",
+     "cod": 7601,
+     "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-LARANJA",
      "marca": "LEO E LEO",
      "preco": 0.8,
-     "img": "produtos/7598.jpg",
-     "saldo": 2,
-     "cores": [
-      {
-       "cod": 7598,
-       "cor": "Amarelo",
-       "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-AMARELO",
-       "img": "produtos/7598.jpg",
-       "saldo": 2
-      },
-      {
-       "cod": 7601,
-       "cor": "Laranja",
-       "nome": "APONTADOR LEO C/D BLOCO 40 PASTEL-LARANJA",
-       "img": "produtos/7601.jpg",
-       "saldo": 5
-      }
-     ]
+     "img": "produtos/7601.jpg",
+     "saldo": 8
     },
     {
-     "cod": 7587,
+     "cod": 7588,
      "nome": "APONTADOR LEO C/D BLOCO 60",
      "marca": "LEO E LEO",
      "preco": 1.0,
-     "img": "produtos/7587.jpg",
-     "saldo": 1,
+     "img": "produtos/7588.jpg",
+     "saldo": 35,
      "cores": [
-      {
-       "cod": 7587,
-       "cor": "Azul",
-       "nome": "APONTADOR LEO C/D BLOCO 60-AZUL",
-       "img": "produtos/7587.jpg",
-       "saldo": 1
-      },
       {
        "cod": 7588,
        "cor": "Laranja",
@@ -30590,7 +30318,7 @@
        "cor": "Preto",
        "nome": "APONTADOR LEO C/D BLOCO 60-PRETO",
        "img": "produtos/7590.jpg",
-       "saldo": 39
+       "saldo": 40
       },
       {
        "cod": 7589,
@@ -30604,14 +30332,14 @@
        "cor": "Roxo",
        "nome": "APONTADOR LEO C/D BLOCO 60-ROXO",
        "img": "produtos/7592.jpg",
-       "saldo": 45
+       "saldo": 46
       },
       {
        "cod": 7591,
        "cor": "Verde",
        "nome": "APONTADOR LEO C/D BLOCO 60-VERDE",
        "img": "produtos/7591.jpg",
-       "saldo": 35
+       "saldo": 65
       }
      ]
     },
@@ -30629,28 +30357,28 @@
      "marca": "LEO E LEO",
      "preco": 0.5,
      "img": "produtos/7545.jpg",
-     "saldo": 10,
+     "saldo": 3,
      "cores": [
       {
        "cod": 7545,
        "cor": "Azul",
        "nome": "APONTADOR LEO C/D MINI-AZUL",
        "img": "produtos/7545.jpg",
-       "saldo": 10
+       "saldo": 3
       },
       {
        "cod": 7546,
        "cor": "Laranja",
        "nome": "APONTADOR LEO C/D MINI-LARANJA",
        "img": "produtos/7546.jpg",
-       "saldo": 16
+       "saldo": 15
       },
       {
        "cod": 7547,
        "cor": "Rosa",
        "nome": "APONTADOR LEO C/D MINI-ROSA",
        "img": "produtos/7547.jpg",
-       "saldo": 90
+       "saldo": 95
       },
       {
        "cod": 7548,
@@ -30667,35 +30395,35 @@
      "marca": "LEO E LEO",
      "preco": 0.4,
      "img": "produtos/3189.jpg",
-     "saldo": 26,
+     "saldo": 25,
      "cores": [
       {
        "cod": 3189,
        "cor": "Azul",
        "nome": "APONTADOR LEO S/D REDONDO-AZUL",
        "img": "produtos/3189.jpg",
-       "saldo": 26
+       "saldo": 25
       },
       {
        "cod": 7596,
        "cor": "Preto",
        "nome": "APONTADOR LEO S/D REDONDO-PRETO",
        "img": "produtos/7596.jpg",
-       "saldo": 32
+       "saldo": 41
       },
       {
        "cod": 7594,
        "cor": "Rosa",
        "nome": "APONTADOR LEO S/D REDONDO-ROSA",
        "img": "produtos/7594.jpg",
-       "saldo": 22
+       "saldo": 20
       },
       {
        "cod": 7595,
        "cor": "Roxo",
        "nome": "APONTADOR LEO S/D REDONDO-ROXO",
        "img": "produtos/7595.jpg",
-       "saldo": 55
+       "saldo": 52
       },
       {
        "cod": 3190,
@@ -30712,7 +30440,15 @@
      "marca": "MAPED",
      "preco": 2.9,
      "img": "produtos/11562.jpg",
-     "saldo": 8
+     "saldo": 7
+    },
+    {
+     "cod": 11584,
+     "nome": "APONTADOR MAPED C/D 1F-CANHOTO ROSA",
+     "marca": "MAPED",
+     "preco": 4.9,
+     "img": "produtos/11584.jpg",
+     "saldo": 17
     },
     {
      "cod": 13687,
@@ -30744,7 +30480,7 @@
      "marca": "MAPED",
      "preco": 11.9,
      "img": "produtos/11550.jpg",
-     "saldo": 10
+     "saldo": 11
     },
     {
      "cod": 7886,
@@ -30752,7 +30488,7 @@
      "marca": "MAPED",
      "preco": 3.9,
      "img": "produtos/7886.jpg",
-     "saldo": 21
+     "saldo": 23
     },
     {
      "cod": 7954,
@@ -30760,28 +30496,28 @@
      "marca": "MAPED",
      "preco": 2.0,
      "img": "produtos/7954.jpg",
-     "saldo": 46,
+     "saldo": 47,
      "cores": [
       {
        "cod": 7954,
        "cor": "Azul",
        "nome": "APONTADOR MAPED S/D PASTEL-AZUL",
        "img": "produtos/7954.jpg",
-       "saldo": 46
+       "saldo": 47
       },
       {
        "cod": 3192,
        "cor": "Lilas",
        "nome": "APONTADOR MAPED S/D PASTEL-LILAS",
        "img": "produtos/3192.jpg",
-       "saldo": 38
+       "saldo": 42
       },
       {
        "cod": 3193,
        "cor": "Rosa",
        "nome": "APONTADOR MAPED S/D PASTEL-ROSA",
        "img": "produtos/3193.jpg",
-       "saldo": 82
+       "saldo": 81
       }
      ]
     },
@@ -30807,7 +30543,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/12286.jpg",
-     "saldo": 5
+     "saldo": 6
     },
     {
      "cod": 12284,
@@ -30815,39 +30551,15 @@
      "marca": "MOLIN",
      "preco": 11.9,
      "img": "produtos/12284.jpg",
-     "saldo": 28
+     "saldo": 34
     },
     {
-     "cod": 12379,
-     "nome": "APONTADOR MOLIN C/D 2F-LOVE BORBOLETAS VERDE",
-     "marca": "MOLIN",
-     "preco": 15.9,
-     "img": "produtos/12379.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12347,
-     "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID",
+     "cod": 12349,
+     "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID VERDE",
      "marca": "MOLIN",
      "preco": 14.9,
-     "img": "produtos/12347.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 12347,
-       "cor": "Marrom",
-       "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID MARROM",
-       "img": "produtos/12347.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 12349,
-       "cor": "Verde",
-       "nome": "APONTADOR MOLIN C/D 2F-LOVE GRID VERDE",
-       "img": "produtos/12349.jpg",
-       "saldo": 2
-      }
-     ]
+     "img": "produtos/12349.jpg",
+     "saldo": 3
     },
     {
      "cod": 12317,
@@ -30866,58 +30578,12 @@
      "saldo": 2
     },
     {
-     "cod": 3169,
-     "nome": "APONTADOR TILIBRA C/D 1F-HAPPY",
-     "marca": "TILIBRA",
-     "preco": 6.9,
-     "img": "produtos/3169.jpg",
-     "saldo": 26,
-     "cores": [
-      {
-       "cod": 3169,
-       "cor": "Azul",
-       "nome": "APONTADOR TILIBRA C/D 1F-HAPPY AZUL",
-       "img": "produtos/3169.jpg",
-       "saldo": 26
-      },
-      {
-       "cod": 3170,
-       "cor": "Lilas",
-       "nome": "APONTADOR TILIBRA C/D 1F-HAPPY LILAS",
-       "img": "produtos/3170.jpg",
-       "saldo": 18
-      },
-      {
-       "cod": 3171,
-       "cor": "Rosa",
-       "nome": "APONTADOR TILIBRA C/D 1F-HAPPY ROSA",
-       "img": "produtos/3171.jpg",
-       "saldo": 26
-      },
-      {
-       "cod": 3172,
-       "cor": "Verde",
-       "nome": "APONTADOR TILIBRA C/D 1F-HAPPY VERDE",
-       "img": "produtos/3172.jpg",
-       "saldo": 28
-      }
-     ]
-    },
-    {
      "cod": 13137,
      "nome": "APONTADOR TILIBRA C/D 2F WEST VILLAGE",
      "marca": "TILIBRA",
      "preco": 12.9,
      "img": "produtos/13137.jpg",
-     "saldo": 16
-    },
-    {
-     "cod": 13135,
-     "nome": "APONTADOR TILIBRA C/D 2F-SOHO AZUL",
-     "marca": "TILIBRA",
-     "preco": 12.9,
-     "img": "produtos/13135.jpg",
-     "saldo": 4
+     "saldo": 20
     },
     {
      "cod": 13133,
@@ -30933,7 +30599,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14551.jpg",
-     "saldo": 71,
+     "saldo": 72,
      "controle": [
       "AZUL",
       "ROSA",
@@ -30942,7 +30608,7 @@
      ],
      "saldo_cor": {
       "AZUL": 17,
-      "ROSA": 18,
+      "ROSA": 19,
       "ROXO": 18,
       "VERMELHO": 18
      }
@@ -30953,7 +30619,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
-     "saldo": 83,
+     "saldo": 44,
      "controle": [
       "AZUL",
       "LILAS",
@@ -30961,59 +30627,27 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AZUL": 23,
-      "LILAS": 11,
-      "ROSA": 16,
-      "VERDE": 33
+      "AZUL": 12,
+      "LILAS": 6,
+      "ROSA": 8,
+      "VERDE": 18
      }
     },
     {
      "cod": 12725,
-     "nome": "APONTADOR TRIS C/D 1F-BATMAN",
+     "nome": "APONTADOR TRIS C/D 1F-BATMAN AMARELO",
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/12725.jpg",
-     "saldo": 17,
-     "cores": [
-      {
-       "cod": 12725,
-       "cor": "Amarelo",
-       "nome": "APONTADOR TRIS C/D 1F-BATMAN AMARELO",
-       "img": "produtos/12725.jpg",
-       "saldo": 17
-      },
-      {
-       "cod": 12726,
-       "cor": "Azul",
-       "nome": "APONTADOR TRIS C/D 1F-BATMAN AZUL",
-       "img": "produtos/12726.jpg",
-       "saldo": 15
-      }
-     ]
+     "saldo": 32
     },
     {
-     "cod": 12715,
-     "nome": "APONTADOR TRIS C/D 1F-FROZEN",
+     "cod": 12716,
+     "nome": "APONTADOR TRIS C/D 1F-FROZEN ROSA",
      "marca": "TRIS",
      "preco": 5.9,
-     "img": "produtos/12715.jpg",
-     "saldo": 19,
-     "cores": [
-      {
-       "cod": 12715,
-       "cor": "Azul",
-       "nome": "APONTADOR TRIS C/D 1F-FROZEN AZUL",
-       "img": "produtos/12715.jpg",
-       "saldo": 19
-      },
-      {
-       "cod": 12716,
-       "cor": "Rosa",
-       "nome": "APONTADOR TRIS C/D 1F-FROZEN ROSA",
-       "img": "produtos/12716.jpg",
-       "saldo": 19
-      }
-     ]
+     "img": "produtos/12716.jpg",
+     "saldo": 37
     },
     {
      "cod": 12678,
@@ -31032,76 +30666,20 @@
      "saldo": 4
     },
     {
-     "cod": 12722,
-     "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS",
+     "cod": 12723,
+     "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS LARANJA",
      "marca": "TRIS",
      "preco": 7.9,
-     "img": "produtos/12722.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 12722,
-       "cor": "Azul",
-       "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS AZUL",
-       "img": "produtos/12722.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 12723,
-       "cor": "Laranja",
-       "nome": "APONTADOR TRIS C/D 1F-HOT WHEELS LARANJA",
-       "img": "produtos/12723.jpg",
-       "saldo": 14
-      }
-     ]
+     "img": "produtos/12723.jpg",
+     "saldo": 25
     },
     {
-     "cod": 12729,
-     "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTICA",
-     "marca": "TRIS",
-     "preco": 7.9,
-     "img": "produtos/12729.jpg",
-     "saldo": 6,
-     "cores": [
-      {
-       "cod": 12729,
-       "cor": "Azul",
-       "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTIÇA AZUL",
-       "img": "produtos/12729.jpg",
-       "saldo": 6
-      },
-      {
-       "cod": 12728,
-       "cor": "Verde",
-       "nome": "APONTADOR TRIS C/D 1F-LIGA DA JUSTIÇA VERDE",
-       "img": "produtos/12728.jpg",
-       "saldo": 11
-      }
-     ]
-    },
-    {
-     "cod": 13380,
-     "nome": "APONTADOR TRIS C/D 1F-MARIE",
+     "cod": 13381,
+     "nome": "APONTADOR TRIS C/D 1F-MARIE ROSA",
      "marca": "TRIS",
      "preco": 6.9,
-     "img": "produtos/13380.jpg",
-     "saldo": 6,
-     "cores": [
-      {
-       "cod": 13380,
-       "cor": "Lilas",
-       "nome": "APONTADOR TRIS C/D 1F-MARIE LILAS",
-       "img": "produtos/13380.jpg",
-       "saldo": 6
-      },
-      {
-       "cod": 13381,
-       "cor": "Rosa",
-       "nome": "APONTADOR TRIS C/D 1F-MARIE ROSA",
-       "img": "produtos/13381.jpg",
-       "saldo": 3
-      }
-     ]
+     "img": "produtos/13381.jpg",
+     "saldo": 8
     },
     {
      "cod": 12689,
@@ -31110,6 +30688,14 @@
      "preco": 6.9,
      "img": "produtos/12689.jpg",
      "saldo": 83
+    },
+    {
+     "cod": 12638,
+     "nome": "APONTADOR TRIS C/D 1F-ROSA (SU263)",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/12638.jpg",
+     "saldo": 39
     },
     {
      "cod": 14607,
@@ -31130,14 +30716,6 @@
       "ROSA": 9,
       "ROXO": 9
      }
-    },
-    {
-     "cod": 12718,
-     "nome": "APONTADOR TRIS C/D 2F-PATRULHA CANINA",
-     "marca": "TRIS",
-     "preco": 9.9,
-     "img": "produtos/12718.jpg",
-     "saldo": 1
     },
     {
      "cod": 14586,
@@ -31176,42 +30754,12 @@
      }
     },
     {
-     "cod": 12676,
-     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC",
+     "cod": 12675,
+     "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC LILAS",
      "marca": "TRIS",
      "preco": 12.9,
-     "img": "produtos/12676.jpg",
-     "saldo": 8,
-     "cores": [
-      {
-       "cod": 12676,
-       "cor": "Amarelo",
-       "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC AMARELO",
-       "img": "produtos/12676.jpg",
-       "saldo": 8
-      },
-      {
-       "cod": 12675,
-       "cor": "Lilas",
-       "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC LILAS",
-       "img": "produtos/12675.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 12673,
-       "cor": "Rosa",
-       "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC ROSA",
-       "img": "produtos/12673.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 12674,
-       "cor": "Verde",
-       "nome": "APONTADOR TRIS C/D+BORR 1F-GIARDINO HOLIC VERDE",
-       "img": "produtos/12674.jpg",
-       "saldo": 4
-      }
-     ]
+     "img": "produtos/12675.jpg",
+     "saldo": 14
     },
     {
      "cod": 14554,
@@ -31237,16 +30785,16 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/14568.jpg",
-     "saldo": 23,
+     "saldo": 43,
      "controle": [
       "BRANCO",
       "CINZA",
       "PRETO"
      ],
      "saldo_cor": {
-      "BRANCO": 7,
-      "CINZA": 8,
-      "PRETO": 8
+      "BRANCO": 13,
+      "CINZA": 15,
+      "PRETO": 15
      }
     },
     {
@@ -31275,7 +30823,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14609.jpg",
-     "saldo": 29,
+     "saldo": 31,
      "controle": [
       "AZUL",
       "PRETO",
@@ -31283,10 +30831,10 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AZUL": 7,
+      "AZUL": 8,
       "PRETO": 7,
       "VERDE": 7,
-      "VERMELHO": 8
+      "VERMELHO": 9
      }
     },
     {
@@ -31295,14 +30843,14 @@
      "marca": "TRIS",
      "preco": 12.9,
      "img": "produtos/14610.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "controle": [
       "MARROM",
       "ROSA"
      ],
      "saldo_cor": {
       "MARROM": 11,
-      "ROSA": 12
+      "ROSA": 11
      }
     },
     {
