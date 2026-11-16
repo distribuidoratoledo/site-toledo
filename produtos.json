@@ -317,7 +317,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/5300.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 10629,
@@ -858,7 +858,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/572.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 573,
@@ -2892,7 +2892,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1677.jpg",
-     "saldo": 18
+     "saldo": 12
     }
    ]
   },
@@ -4102,7 +4102,7 @@
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 12771,
@@ -7319,14 +7319,14 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12411.jpg",
-     "saldo": 69,
+     "saldo": 68,
      "cores": [
       {
        "cod": 12411,
        "cor": "Azul",
        "nome": "CADERNO DESENHO CD 80F-(AZUL)",
        "img": "produtos/12411.jpg",
-       "saldo": 69
+       "saldo": 68
       },
       {
        "cod": 12431,
@@ -9122,7 +9122,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 269
+     "saldo": 267
     },
     {
      "cod": 1313,
@@ -10019,7 +10019,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 13
+     "saldo": 413
     },
     {
      "cod": 3911,
@@ -10799,7 +10799,7 @@
        "cor": "Preto",
        "nome": "COLORSETE A4 C/50 PRETO",
        "img": "produtos/2058.jpg",
-       "saldo": 11
+       "saldo": 10
       },
       {
        "cod": 2059,
@@ -11039,7 +11039,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/7736.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 2085,
@@ -11151,7 +11151,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/5986.jpg",
-     "saldo": 75
+     "saldo": 73
     },
     {
      "cod": 6114,
@@ -11215,7 +11215,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 85
+     "saldo": 91
     },
     {
      "cod": 2016,
@@ -11333,7 +11333,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 192
+     "saldo": 189
     },
     {
      "cod": 4344,
@@ -12112,15 +12112,15 @@
      "cod": 10991,
      "nome": "PINCEL CHATO 0",
      "marca": "",
-     "preco": 2.3,
+     "preco": 1.9,
      "img": "produtos/10991.jpg",
-     "saldo": 151
+     "saldo": 150
     },
     {
      "cod": 10992,
      "nome": "PINCEL CHATO 02",
      "marca": "",
-     "preco": 2.4,
+     "preco": 2.0,
      "img": "produtos/10992.jpg",
      "saldo": 146
     },
@@ -12128,7 +12128,7 @@
      "cod": 10371,
      "nome": "PINCEL CHATO 04",
      "marca": "",
-     "preco": 2.6,
+     "preco": 2.2,
      "img": "produtos/10371.jpg",
      "saldo": 144
     },
@@ -12136,7 +12136,7 @@
      "cod": 11000,
      "nome": "PINCEL CHATO 06",
      "marca": "",
-     "preco": 3.5,
+     "preco": 2.3,
      "img": "produtos/11000.jpg",
      "saldo": 144
     },
@@ -12144,7 +12144,7 @@
      "cod": 10999,
      "nome": "PINCEL CHATO 08",
      "marca": "TIGRE",
-     "preco": 3.9,
+     "preco": 2.4,
      "img": "produtos/10999.jpg",
      "saldo": 180
     },
@@ -12152,7 +12152,7 @@
      "cod": 6378,
      "nome": "PINCEL CHATO 10",
      "marca": "TIGRE",
-     "preco": 4.5,
+     "preco": 2.5,
      "img": "produtos/6378.jpg",
      "saldo": 181
     },
@@ -12160,7 +12160,7 @@
      "cod": 10997,
      "nome": "PINCEL CHATO 12",
      "marca": "",
-     "preco": 4.9,
+     "preco": 2.8,
      "img": "produtos/10997.jpg",
      "saldo": 184
     },
@@ -12168,7 +12168,7 @@
      "cod": 10998,
      "nome": "PINCEL CHATO 14",
      "marca": "",
-     "preco": 5.5,
+     "preco": 3.0,
      "img": "produtos/10998.jpg",
      "saldo": 181
     },
@@ -12176,15 +12176,15 @@
      "cod": 10994,
      "nome": "PINCEL CHATO 16",
      "marca": "",
-     "preco": 6.5,
+     "preco": 3.2,
      "img": "produtos/10994.jpg",
-     "saldo": 192
+     "saldo": 191
     },
     {
      "cod": 10995,
      "nome": "PINCEL CHATO 18",
      "marca": "",
-     "preco": 6.9,
+     "preco": 5.0,
      "img": "produtos/10995.jpg",
      "saldo": 86
     },
@@ -12192,7 +12192,7 @@
      "cod": 10996,
      "nome": "PINCEL CHATO 20",
      "marca": "",
-     "preco": 7.9,
+     "preco": 6.9,
      "img": "produtos/10996.jpg",
      "saldo": 162
     },
@@ -12200,7 +12200,7 @@
      "cod": 10993,
      "nome": "PINCEL CHATO 22",
      "marca": "",
-     "preco": 10.9,
+     "preco": 9.9,
      "img": "produtos/10993.jpg",
      "saldo": 30
     },
@@ -12208,7 +12208,7 @@
      "cod": 10372,
      "nome": "PINCEL CHATO 24",
      "marca": "",
-     "preco": 12.9,
+     "preco": 10.9,
      "img": "produtos/10372.jpg",
      "saldo": 99
     },
@@ -14542,7 +14542,7 @@
      "marca": "ACP",
      "preco": 25.9,
      "img": "produtos/6195.jpg",
-     "saldo": 347
+     "saldo": 345
     },
     {
      "cod": 14202,
@@ -15778,7 +15778,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 138
+     "saldo": 135
     },
     {
      "cod": 1144,
@@ -16122,7 +16122,7 @@
        "cor": "Lilas",
        "nome": "EVA GLITER-LILAS",
        "img": "produtos/4830.jpg",
-       "saldo": 112
+       "saldo": 97
       },
       {
        "cod": 1219,
@@ -16189,7 +16189,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 29
+     "saldo": 22
     },
     {
      "cod": 1228,
@@ -18276,7 +18276,7 @@
      "marca": "SCRITY",
      "preco": 0.7,
      "img": "produtos/1048.jpg",
-     "saldo": 1175
+     "saldo": 1110
     },
     {
      "cod": 1050,
@@ -19274,7 +19274,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 14261,
@@ -19606,7 +19606,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/1472.jpg",
-     "saldo": 286
+     "saldo": 285
     },
     {
      "cod": 7695,
@@ -19774,7 +19774,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/3538.jpg",
-     "saldo": 759
+     "saldo": 758
     },
     {
      "cod": 12731,
@@ -20373,7 +20373,7 @@
      "marca": "FOXLUX",
      "preco": 12.9,
      "img": "produtos/6962.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 6961,
@@ -20712,19 +20712,11 @@
      "saldo": 1
     },
     {
-     "cod": 10645,
-     "nome": "FICHARIO DAC-ALL BLACK 192F",
+     "cod": 12483,
+     "nome": "FICHARIO DAC REBECCA BONBON 192F",
      "marca": "DAC",
-     "preco": 169.9,
-     "img": "produtos/10645.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 6271,
-     "nome": "FICHARIO DAC-BUBBLE ROSA 192F",
-     "marca": "DAC",
-     "preco": 99.9,
-     "img": "produtos/6271.jpg",
+     "preco": 69.9,
+     "img": "produtos/12483.jpg",
      "saldo": 1
     },
     {
@@ -23829,7 +23821,7 @@
      "marca": "PITPRATOS",
      "preco": 25.9,
      "img": "produtos/2561.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2562,
@@ -23877,7 +23869,7 @@
      "marca": "PITPRATOS",
      "preco": 1.1,
      "img": "produtos/13700.jpg",
-     "saldo": 30
+     "saldo": 10
     },
     {
      "cod": 13701,
@@ -25123,7 +25115,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 2709,
@@ -25131,7 +25123,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 3651,
@@ -26277,7 +26269,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 144
+     "saldo": 142
     },
     {
      "cod": 6965,
@@ -26515,7 +26507,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 2906,
@@ -26539,7 +26531,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 177
+     "saldo": 176
     },
     {
      "cod": 4314,
@@ -26595,7 +26587,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 82
+     "saldo": 81
     }
    ]
   },
@@ -29009,7 +29001,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 343
+     "saldo": 342
     },
     {
      "cod": 2608,
@@ -30057,7 +30049,7 @@
      "marca": "BRILHUS",
      "preco": 1.9,
      "img": "produtos/1133.jpg",
-     "saldo": 119
+     "saldo": 117
     },
     {
      "cod": 11787,
