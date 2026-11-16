@@ -3232,14 +3232,14 @@
        "cor": "Preto",
        "nome": "PINCEL COMPACTOR-PRETO",
        "img": "produtos/2331.jpg",
-       "saldo": 357
+       "saldo": 355
       },
       {
        "cod": 2333,
        "cor": "Vermelho",
        "nome": "PINCEL COMPACTOR-VERMELHO",
        "img": "produtos/2333.jpg",
-       "saldo": 240
+       "saldo": 238
       }
      ]
     },
@@ -3547,7 +3547,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 56
+       "saldo": 51
       },
       {
        "cod": 2658,
@@ -4131,7 +4131,7 @@
      "marca": "MERCUR",
      "preco": 1.2,
      "img": "produtos/4341.jpg",
-     "saldo": 80
+     "saldo": 90
     },
     {
      "cod": 279,
@@ -4139,7 +4139,7 @@
      "marca": "MERCUR",
      "preco": 0.9,
      "img": "produtos/279.jpg",
-     "saldo": 2333
+     "saldo": 2323
     },
     {
      "cod": 281,
@@ -20653,6 +20653,14 @@
      "saldo": 1
     },
     {
+     "cod": 6271,
+     "nome": "FICHARIO DAC-BUBBLE ROSA 192F",
+     "marca": "DAC",
+     "preco": 99.9,
+     "img": "produtos/6271.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 12477,
      "nome": "FICHARIO DAC-COLEGIAL ENJOY 48F",
      "marca": "DAC",
@@ -22026,7 +22034,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 360
+     "saldo": 359
     },
     {
      "cod": 177,
@@ -24110,7 +24118,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 451
+     "saldo": 441
     },
     {
      "cod": 14268,
@@ -24696,7 +24704,7 @@
      "marca": "LANCHERO",
      "preco": 10.9,
      "img": "produtos/14415.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 2699,
@@ -24704,7 +24712,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 2700,
@@ -24992,7 +25000,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 801
+     "saldo": 771
     },
     {
      "cod": 2705,
@@ -25456,7 +25464,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 681
+     "saldo": 671
     },
     {
      "cod": 2808,
@@ -26652,7 +26660,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 1278,
@@ -29886,7 +29894,7 @@
      "marca": "ENCOPA",
      "preco": 21.9,
      "img": "produtos/89.jpg",
-     "saldo": 32
+     "saldo": 30
     },
     {
      "cod": 168,
