@@ -9130,7 +9130,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1266
+     "saldo": 1261
     },
     {
      "cod": 4389,
@@ -10353,7 +10353,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 2604,
@@ -11215,7 +11215,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 2016,
@@ -12170,7 +12170,7 @@
      "marca": "",
      "preco": 6.5,
      "img": "produtos/10994.jpg",
-     "saldo": 193
+     "saldo": 192
     },
     {
      "cod": 10995,
@@ -15946,7 +15946,7 @@
      "marca": "TRAMONTINA",
      "preco": 15.9,
      "img": "produtos/6721.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 2963,
@@ -16091,7 +16091,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 95
+       "saldo": 94
       },
       {
        "cod": 4830,
@@ -16126,7 +16126,7 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 18
+       "saldo": 13
       },
       {
        "cod": 1223,
@@ -16366,7 +16366,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 284
+     "saldo": 234
     },
     {
      "cod": 6999,
@@ -18348,7 +18348,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 13789
+     "saldo": 13539
     },
     {
      "cod": 1051,
@@ -18696,14 +18696,14 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/67.jpg",
-     "saldo": 105,
+     "saldo": 104,
      "cores": [
       {
        "cod": 67,
        "cor": "Amarelo",
        "nome": "ARQUIVO MORTO (DUPLO)-AMARELO",
        "img": "produtos/67.jpg",
-       "saldo": 105
+       "saldo": 104
       },
       {
        "cod": 68,
@@ -18717,7 +18717,7 @@
        "cor": "Verde",
        "nome": "ARQUIVO MORTO (DUPLO)-VERDE",
        "img": "produtos/5170.jpg",
-       "saldo": 147
+       "saldo": 145
       },
       {
        "cod": 5169,
@@ -19010,14 +19010,14 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 50,
+     "saldo": 49,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 50
+       "saldo": 49
       },
       {
        "cod": 6623,
@@ -19031,14 +19031,14 @@
        "cor": "Rosa",
        "nome": "POST-IT 76X76 C/100 ROSA",
        "img": "produtos/6621.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 6622,
        "cor": "Verde",
        "nome": "POST-IT 76X76 C/100 VERDE",
        "img": "produtos/6622.jpg",
-       "saldo": 60
+       "saldo": 59
       }
      ]
     },
@@ -19360,7 +19360,7 @@
      "marca": "TODO LIVRO",
      "preco": 5.9,
      "img": "produtos/14663.jpg",
-     "saldo": 49
+     "saldo": 45
     },
     {
      "cod": 14662,
@@ -21591,7 +21591,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 300
+     "saldo": 250
     },
     {
      "cod": 14406,
@@ -21679,7 +21679,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/954.jpg",
-     "saldo": 432
+     "saldo": 426
     },
     {
      "cod": 3342,
@@ -22557,7 +22557,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 233
+     "saldo": 231
     },
     {
      "cod": 3731,
@@ -22589,7 +22589,7 @@
      "marca": "ISOMAX",
      "preco": 16.9,
      "img": "produtos/2460.jpg",
-     "saldo": 17
+     "saldo": 13
     },
     {
      "cod": 2461,
@@ -22669,7 +22669,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 456
+     "saldo": 455
     },
     {
      "cod": 4146,
@@ -22685,7 +22685,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 393
+     "saldo": 392
     },
     {
      "cod": 2489,
@@ -22819,7 +22819,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 643
+     "saldo": 641
     },
     {
      "cod": 880,
@@ -22915,7 +22915,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/9914.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 14191,
@@ -24121,7 +24121,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 441
+     "saldo": 431
     },
     {
      "cod": 14268,
@@ -24177,7 +24177,7 @@
      "marca": "LIDER",
      "preco": 35.9,
      "img": "produtos/13006.jpg",
-     "saldo": 18
+     "saldo": 15
     }
    ]
   },
@@ -24557,7 +24557,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 11675,
@@ -25331,7 +25331,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 139
+     "saldo": 137
     },
     {
      "cod": 2766,
@@ -25475,7 +25475,7 @@
      "marca": "KROMASA",
      "preco": 1.8,
      "img": "produtos/2808.jpg",
-     "saldo": 1934
+     "saldo": 1933
     },
     {
      "cod": 9185,
@@ -25991,7 +25991,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 349
+     "saldo": 342
     },
     {
      "cod": 2875,
@@ -25999,7 +25999,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 760
+     "saldo": 750
     },
     {
      "cod": 6825,
@@ -26443,7 +26443,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 178
+     "saldo": 177
     },
     {
      "cod": 4314,
@@ -26467,7 +26467,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 961
+     "saldo": 960
     },
     {
      "cod": 2900,
@@ -26585,7 +26585,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 636
+     "saldo": 606
     },
     {
      "cod": 236,
@@ -26655,7 +26655,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 1277,
@@ -29165,7 +29165,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 8295,
@@ -29339,7 +29339,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 255
+     "saldo": 251
     },
     {
      "cod": 2152,
@@ -29363,7 +29363,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 295
+     "saldo": 290
     },
     {
      "cod": 2157,
@@ -31025,7 +31025,7 @@
      "marca": "CIS",
      "preco": 3.0,
      "img": "produtos/1827.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 12733,
@@ -31219,14 +31219,14 @@
        "cor": "Azul",
        "nome": "MARCA TEXTO MASTERPRINT-AZUL",
        "img": "produtos/6051.jpg",
-       "saldo": 92
+       "saldo": 91
       },
       {
        "cod": 6052,
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 117
+       "saldo": 116
       },
       {
        "cod": 6053,
