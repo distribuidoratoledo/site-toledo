@@ -218,31 +218,29 @@
       font-variant-numeric: tabular-nums; }
     /* Black Friday (16/11/2026) */
     section.bf-banner { max-width: none; width: auto; }
-    .bf-banner { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 1.4rem 2rem;
-      margin: 1rem max(16px, 1.2rem) 0; padding: 1.3rem 2rem; border-radius: 22px; color: #fff;
-      background: linear-gradient(135deg, #0b0b0b 0%, #1d1d1d 60%, #2a2400 100%);
+    /* 16/11/2026: "quero o texto black friday grande e centralizado no card" */
+    .bf-banner { display: flex; flex-direction: column; align-items: center; text-align: center; gap: .55rem;
+      margin: 1rem max(16px, 1.2rem) 0; padding: 1.4rem 1.4rem 1.5rem; border-radius: 22px; color: #fff;
+      background: radial-gradient(ellipse at center, #262200 0%, #111 55%, #050505 100%);
       border: 3px solid #ffd400; box-shadow: 0 8px 22px rgba(0,0,0,.22); }
     .bf-banner[hidden] { display: none; }
-    .bf-marca { display: flex; flex-direction: column; line-height: .92; font-weight: 900; letter-spacing: .04em;
-      padding-right: 2rem; border-right: 2px solid rgba(255,212,0,.45); }
-    .bf-marca span:first-child { color: #fff; font-size: clamp(1.6rem, 3.4vw, 2.5rem); }
-    .bf-marca span:last-child { color: #ffd400; font-size: clamp(1.6rem, 3.4vw, 2.5rem); }
-    .bf-banner .bf-txt, .bf-banner h2 { text-align: left; }
+    .bf-marca { display: flex; justify-content: center; gap: .9rem; font-weight: 900; letter-spacing: .06em; line-height: 1;
+      font-size: clamp(2.6rem, 8vw, 5.2rem); text-shadow: 0 3px 0 rgba(0,0,0,.45); }
+    .bf-marca span:first-child { color: #fff; }
+    .bf-marca span:last-child { color: #ffd400; }
+    .bf-banner .bf-txt, .bf-banner h2 { text-align: center; }
     .bf-banner .bf-selo, .bf-banner .bf-por { white-space: nowrap; }
-    .bf-banner h2 { margin: 0 0 .25rem; font-size: clamp(1.25rem, 2.8vw, 1.9rem); font-weight: 800; color: #fff; }
+    .bf-banner h2 { margin: .15rem 0 .2rem; font-size: clamp(1.2rem, 3vw, 1.9rem); font-weight: 800; color: #fff; }
     .bf-banner h2 b { color: #ffd400; }
-    .bf-banner .bf-cats { margin: 0 0 .45rem; font-size: clamp(.95rem, 2vw, 1.1rem); color: #f1f1f1; }
+    .bf-banner .bf-cats { margin: 0 0 .35rem; font-size: clamp(.95rem, 2vw, 1.12rem); color: #f1f1f1; }
     .bf-banner .bf-regra { margin: 0; font-size: .88rem; color: #cfcfcf; line-height: 1.7; }
     .bf-banner .bf-regra .bf-selo { font-size: .62rem; }
     .bf-banner .bf-regra .bf-por { font-size: .8rem; padding: 0 .35rem; }
-    .bf-btn { background: #ffd400; color: #111; border: 0; border-radius: 999px; padding: .85rem 1.8rem; font-weight: 800;
-      font-size: 1rem; cursor: pointer; white-space: nowrap; }
+    .bf-btn { background: #ffd400; color: #111; border: 0; border-radius: 999px; padding: .85rem 2.2rem; font-weight: 800;
+      font-size: 1.05rem; cursor: pointer; white-space: nowrap; margin-top: .35rem; }
     @media (max-width: 760px) {
-      .bf-banner { grid-template-columns: 1fr; text-align: center; padding: 1.1rem 1.1rem 1.2rem; gap: .8rem; }
-      .bf-marca { flex-direction: row; justify-content: center; gap: .4rem; padding: 0 0 .7rem; border-right: 0;
-        border-bottom: 2px solid rgba(255,212,0,.45); }
-      .bf-btn { justify-self: center; }
-      .bf-banner .bf-txt, .bf-banner h2 { text-align: center; }
+      .bf-marca { gap: .5rem; }
+      .bf-banner { padding: 1.1rem 1rem 1.2rem; }
     }
     .bf-btn:hover { background: #ffe34d; }
     .bf-selo { display: inline-block; background: #111; color: #ffd400; font-size: .68rem; font-weight: 800; letter-spacing: .05em;
