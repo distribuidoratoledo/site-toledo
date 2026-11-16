@@ -208,6 +208,26 @@
       letter-spacing: .4px; }
     .jan-cod { font-size: .8rem; color: #6b7687; margin-top: 4px;
       font-variant-numeric: tabular-nums; }
+    /* Black Friday (16/11/2026) */
+    .bf-banner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+      margin: 1rem max(16px, 1.2rem) 0; padding: 1.2rem 1.6rem; border-radius: 22px; background: #111; color: #fff;
+      border: 3px solid #ffd400; box-shadow: 0 6px 18px rgba(0,0,0,.18); }
+    .bf-banner[hidden] { display: none; }
+    .bf-banner .bf-tag { display: inline-block; background: #ffd400; color: #111; font-weight: 900; letter-spacing: .08em;
+      padding: .2rem .7rem; border-radius: 8px; font-size: .9rem; }
+    .bf-banner h2 { margin: .45rem 0 .2rem; font-size: clamp(1.4rem, 4vw, 2.3rem); font-weight: 800; color: #fff; }
+    .bf-banner h2 b { color: #ffd400; }
+    .bf-banner p { margin: 0; font-size: clamp(.95rem, 2.4vw, 1.15rem); opacity: .92; }
+    .bf-btn { background: #ffd400; color: #111; border: 0; border-radius: 999px; padding: .8rem 1.6rem; font-weight: 800;
+      font-size: 1rem; cursor: pointer; }
+    .bf-btn:hover { background: #ffe34d; }
+    .bf-selo { display: inline-block; background: #111; color: #ffd400; font-size: .68rem; font-weight: 800; letter-spacing: .05em;
+      text-transform: uppercase; padding: .12rem .45rem; border-radius: 6px; margin-right: .35rem; vertical-align: middle; }
+    .bf-de { color: #8a95a6; text-decoration: line-through; font-weight: 500; font-size: .85em; margin-right: .35rem; }
+    .bf-por { background: #ffd400; color: #111; font-weight: 800; padding: .05rem .4rem; border-radius: 6px; white-space: nowrap; }
+    .preco.bf, .jan-preco.bf, .dest-preco.bf { color: #111; line-height: 1.9; }
+    .bf-un { color: #111; } .bf-un s { color: #8a95a6; }
+    #lista-cat li.bf-li { background: #111; color: #ffd400; font-weight: 800; border-radius: 8px; }
     .jan-preco { font-size: 1.6rem; font-weight: 800; color: #e01e3c; margin: 12px 0 4px; }
     .jan-cores { margin: 14px 0 6px; }
     .jan-cores b { display: block; font-size: .74rem; text-transform: uppercase;
@@ -898,6 +918,15 @@
 
   <!-- ===== Faixa de DESTAQUES — largura total, de ponta a ponta ===== -->
   <div id="inicio">
+    <!-- BLACK FRIDAY 50% OFF (16/11/2026): card no topo, as Listas Escolares logo abaixo. Some com BF_ATIVA = false. -->
+    <section class="bf-banner" id="bf-banner" aria-label="Black Friday">
+      <div class="bf-txt">
+        <span class="bf-tag">BLACK FRIDAY</span>
+        <h2><b>50% OFF</b> em todos os</h2>
+        <p>Cadernos · Fichários · Estojos · Mochilas de Carrinho</p>
+      </div>
+      <button type="button" class="bf-btn" onclick="verBlackFriday()">Ver ofertas</button>
+    </section>
     <!-- Listas Escolares no lugar dos Destaques: aparece no modo de teste e, para todos, quando LISTAS_NA_HOME = true -->
     <section class="home-listas" id="home-listas" aria-label="Listas Escolares 2027">
       <iframe id="hl-quadro" title="Listas Escolares 2027" scrolling="no"></iframe>
@@ -924,6 +953,7 @@
       <h3>Categorias</h3>
       <input type="text" id="busca-cat" placeholder="Pesquisar categoria...">
       <ul id="lista-cat">
+        <li class="sub bf-li" data-cat="black-friday">Black Friday · 50% OFF</li>
         <li class="grupo">Papelaria</li>
         <li class="sub" data-cat="adesivos">Adesivos</li>
         <li class="sub" data-cat="agenda">Agenda</li>
@@ -1153,6 +1183,39 @@
     // CADA CÓDIGO DE COR APONTA PARA A FAMÍLIA. Antes só o código da
     // primeira cor abria a família; um destaque ou um link com o código do
     // roxo abria o roxo sozinho, sem as outras cores.
+    /* ===== BLACK FRIDAY 50% OFF (Adriana, 16/11/2026) =====
+       "todos cadernos, fichários, estojos, mochilas carrinho estão na promoção off 50% ... cada item ganhe a
+       informação de promoção black friday, deixe o valor antigo e colocar o valor novo com destaque de amarelo".
+       O preço do Sankhya fica em preco_antigo e o preco passa a ser a metade: carrinho, total, WhatsApp e o pedido
+       que vai para o Sankhya usam o preço novo. Para encerrar: BF_ATIVA = false. */
+    var BF_ATIVA = true;
+    function ehBF(p) {
+      var n = String(p.nome || '').toUpperCase();
+      return /^CADERNO\b/.test(n) || /^FICH[AÁ]RIO\b/.test(n) || /^ESTOJO\b/.test(n) || /MOCHILA CARRINHO/.test(n);
+    }
+    function marcarBF(p) {
+      if (!BF_ATIVA || p.bf || !(p.preco > 0) || !ehBF(p)) { return false; }
+      p.preco_antigo = p.preco; p.preco = Math.round(p.preco * 50) / 100; p.bf = true; return true;
+    }
+    var BF_CAT = { slug: 'black-friday', nome: 'Black Friday · 50% OFF', itens: [] };
+    (function () {
+      for (var i = 0; i < CATALOGO.length; i++) {
+        for (var j = 0; j < CATALOGO[i].itens.length; j++) { if (marcarBF(CATALOGO[i].itens[j])) { BF_CAT.itens.push(CATALOGO[i].itens[j]); } }
+      }
+      if (typeof DESTAQUES !== 'undefined') { DESTAQUES.forEach(marcarBF); }
+      if (!BF_ATIVA) { var b = document.getElementById('bf-banner'); if (b) { b.hidden = true; } }
+    })();
+    function precoHtml(p) {
+      if (!p.bf) { return moeda(p.preco); }
+      return '<span class="bf-selo">Black Friday</span><span class="bf-de">' + moeda(p.preco_antigo) + '</span>'
+           + '<span class="bf-por">' + moeda(p.preco) + '</span>';
+    }
+    function verBlackFriday() {
+      itens.forEach(function (i) { i.classList.toggle('ativo', i.getAttribute('data-cat') === 'black-friday'); });
+      CAT_ATUAL = BF_CAT; MARCAS_SEL = {}; mostrarFiltrado(false);
+      document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
+    }
+
     var PRODUTOS = {}, COR_DO_CODIGO = {};
     (function () {
       for (var i = 0; i < CATALOGO.length; i++) {
@@ -1202,7 +1265,7 @@
              (p.cores
                 ? '<div class="bolinhas"><span>' + p.cores.map(function (c) { return c.cor; }).join(' · ') + '</span></div>'
                 : '<p class="prod-cod">Código: ' + p.cod + '</p>') +
-             '<p class="preco">' + moeda(p.preco) + '</p>' +
+             '<p class="preco' + (p.bf ? ' bf' : '') + '">' + precoHtml(p) + '</p>' +
              htmlSaldo(sd, 'prod-saldo') +
              (p.cores || p.controle
                 ? '<button class="btn-mini" type="button" onclick="abrirProduto(' + p.cod + ')">Escolher a cor</button>'
@@ -1256,6 +1319,7 @@
     }
 
     function mostrarCategoria(slug, nome) {
+      if (slug === 'black-friday') { verBlackFriday(); return; }
       var cat = null;
       for (var i = 0; i < CATALOGO.length; i++) { if (CATALOGO[i].slug === slug) { cat = CATALOGO[i]; break; } }
       if (!cat) {
@@ -1616,7 +1680,7 @@
         + '<h3>' + p.nome + '</h3>'
         + (p.marca ? '<div class="jan-marca">' + p.marca + '</div>' : '')
         + '<div class="jan-cod">Código: ' + atual.cod + '</div>'
-        + '<div class="jan-preco">' + moeda(p.preco) + '</div>'
+        + '<div class="jan-preco' + (p.bf ? ' bf' : '') + '">' + precoHtml(p) + '</div>'
         + htmlSaldo(p.controle ? (p.saldo_cor ? p.saldo_cor[p.controle[janCor]] : null)
                     : (p.cores ? p.cores[janCor].saldo : p.saldo), 'jan-saldo')
         + cores
@@ -1652,7 +1716,7 @@
       if (typeof cod === 'string' && cod.indexOf('|') > 0) {
         var pc = cod.split('|'), pp = PRODUTOS[pc[0]];
         if (!pp || !pp.controle || pp.controle.indexOf(pc[1]) < 0) { return null; }
-        return { cod: pp.cod, chave: cod, cor: pc[1], nome: pp.nome + ' - cor ' + nomeCor(pc[1]), img: pp.img, preco: pp.preco,
+        return { cod: pp.cod, chave: cod, cor: pc[1], nome: pp.nome + ' - cor ' + nomeCor(pc[1]), img: pp.img, preco: pp.preco, bf: pp.bf, preco_antigo: pp.preco_antigo,
                  saldo: pp.saldo_cor ? pp.saldo_cor[pc[1]] : null };
       }
       var p = PRODUTOS[cod];
@@ -1660,9 +1724,9 @@
       if (p.controle) { return null; }
       if (p.cores) {
         var c = p.cores[COR_DO_CODIGO[cod] || 0];
-        return { cod: cod, nome: c.nome, img: c.img, preco: p.preco, saldo: c.saldo };
+        return { cod: cod, nome: c.nome, img: c.img, preco: p.preco, bf: p.bf, preco_antigo: p.preco_antigo, saldo: c.saldo };
       }
-      return { cod: cod, nome: p.nome, img: p.img, preco: p.preco, saldo: p.saldo };
+      return { cod: cod, nome: p.nome, img: p.img, preco: p.preco, bf: p.bf, preco_antigo: p.preco_antigo, saldo: p.saldo };
     }
 
     function colocar(cod, qtd) {
@@ -2176,6 +2240,7 @@
           + '<input type="number" min="1" value="' + x.qtd + '" onchange="fixarQtd(\'' + x.cod + '\',this.value)" aria-label="Quantidade">'
           + '<button type="button" onclick="mudarQtd(\'' + x.cod + '\',1)" aria-label="Mais">+</button></span></div>'
           + '<div class="dir"><span class="tot">' + moeda(i.preco * x.qtd) + '</span>'
+          + (i.bf ? '<span class="un bf-un">Black Friday \u00b7 de <s>' + moeda(i.preco_antigo) + '</s></span>' : '')
           + '<span class="un">' + moeda(i.preco) + ' cada</span>'
           + '<button class="tirar" type="button" onclick="tirar(\'' + x.cod + '\')">Remover</button></div>'
           + '</div>';
@@ -2334,7 +2399,7 @@
                '\ud83d\udc64 *VENDEDORA: ' + (DADOS.vendedora || '') + '*', ''];
       CARRINHO.forEach(function (x) {
         var i = itemDoCodigo(x.cod);
-        t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd)
+        t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + (i.bf ? 'BLACK FRIDAY de ' + moeda(i.preco_antigo) + ' por ' : '') + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd)
           + (i.saldo != null && x.qtd > i.saldo ? ' \u26a0\ufe0f estoque ' + i.saldo + ', confirmar' : ''));
       });
       t.push('', 'Total dos produtos: ' + moeda(totalCarrinho()));
@@ -2542,7 +2607,7 @@
              '<div class="foto">' + foto + '</div>' +
              (p.marca ? '<div class="dest-marca">' + p.marca + '</div>' : '') +
              '<div class="dest-nome">' + p.nome + '</div>' +
-             (p.preco > 0 ? '<div class="dest-preco">' + moeda(p.preco) + '</div>' : '') +
+             (p.preco > 0 ? '<div class="dest-preco' + (p.bf ? ' bf' : '') + '">' + precoHtml(p) + '</div>' : '') +
              '</div>';
     }
     (function montarEsteira() {
