@@ -409,6 +409,7 @@
     .bt-limpar { color: #b0394d; }
     .car-pagto-rodape { text-align: center; font-weight: 800; color: var(--vermelho); font-size: .86rem;
       text-transform: uppercase; letter-spacing: .5px; margin-bottom: 8px; }
+    .car-passos { margin: 6px 2px 0; font-size: .8rem; color: #1a2f52; text-align: center; line-height: 1.4; }
     .car-enviar { width: 100%; border: 0; border-radius: 10px; background: #25d366; color: #fff;
       font: inherit; font-weight: 800; font-size: 1rem; padding: 14px; cursor: pointer; }
     .car-enviar:hover { background: #1eb455; }
@@ -2498,7 +2499,10 @@
         + '<div class="car-frete"><span>Prazo estimado de ' + (DADOS.entrega === 'retirar' ? 'retirada' : 'entrega') + '</span><b>' + textoPrazo() + '</b></div>'
         + (urgente() ? '<div class="car-pagto-rodape">Entrega r\u00e1pida: pagamento por PIX</div>'
                      : '<div class="car-pagto-rodape">Pagamento no ato da ' + (DADOS.entrega === 'retirar' ? 'retirada' : 'entrega') + '</div>')
-        + '<button class="car-enviar" type="button" onclick="enviarPedido()">Enviar pedido pelo WhatsApp \u00b7 ' + moeda(final) + '</button>';
+        + '<button class="car-enviar" type="button" onclick="enviarPedido()">Enviar pedido pelo WhatsApp \u00b7 ' + moeda(final) + '</button>'
+        /* 16/11/2026: "isso está bem claro pra o cliente?" -- os 2 passos avisados ANTES do clique */
+        + '<p class="car-passos"><b>1.</b> Clique em \u201cEnviar pedido pelo WhatsApp\u201d \u00b7 <b>2.</b> No WhatsApp, aperte <b>ENVIAR</b>. '
+        + 'O pedido s\u00f3 \u00e9 conclu\u00eddo depois do passo 2.</p>';
     }
 
     function montarPedido() {
