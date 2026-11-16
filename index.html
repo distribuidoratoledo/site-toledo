@@ -2402,6 +2402,10 @@
         t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + (i.bf ? 'BLACK FRIDAY de ' + moeda(i.preco_antigo) + ' por ' : '') + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd)
           + (i.saldo != null && x.qtd > i.saldo ? ' \u26a0\ufe0f estoque ' + i.saldo + ', confirmar' : ''));
       });
+      /* Black Friday (16/11/2026): "precisa informar na venda pra chegar na vendedora no zap que nao pode dar mais desconto nesse item" */
+      if (CARRINHO.some(function (x) { var i = itemDoCodigo(x.cod); return i && i.bf; })) {
+        t.push('', '⚠️ *ATENÇÃO VENDEDORA: itens BLACK FRIDAY (50% OFF) já estão com o desconto máximo. NÃO pode dar mais desconto nesses itens.*');
+      }
       t.push('', 'Total dos produtos: ' + moeda(totalCarrinho()));
       if (DADOS.entrega === 'entrega') {
         var fr = freteDoPedido();
@@ -2455,7 +2459,7 @@
                                                     documentos: docsConvenioOk() ? 'enviados' : 'apresentar' } : null,
         docs_sessao: DADOS.pagto === 'Conv\u00eanio' ? (DADOS.docsSessao || '') : '',
         pagamento_detalhe: textoPagamento(), obs: (DADOS.obs || '').trim(),
-        itens: CARRINHO.map(function (x) { var i = itemDoCodigo(x.cod); return { cod: i.cod, qtd: x.qtd, preco: i.preco, cor: i.cor || null }; }),
+        itens: CARRINHO.map(function (x) { var i = itemDoCodigo(x.cod); return { cod: i.cod, qtd: x.qtd, preco: i.preco, cor: i.cor || null, black_friday: i.bf ? 'SIM - sem desconto extra' : null }; }),
         total: totalFinal(),
         /* texto completo do pedido: a loja recebe pela rotina mesmo se o cliente nao apertar Enviar no WhatsApp
            (10/11/2026, pedido 660392 chegou so' com o numero do Sankhya) */
