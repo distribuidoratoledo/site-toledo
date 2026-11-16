@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 826,
+     "saldo": 770,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 826
+       "saldo": 770
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 246
+       "saldo": 243
       }
      ]
     },
@@ -2178,7 +2178,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1081
+     "saldo": 1076
     },
     {
      "cod": 1670,
@@ -5624,7 +5624,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8253.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 5610,
@@ -7728,7 +7728,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 3249,
@@ -8418,7 +8418,7 @@
      "marca": "LEO E LEO",
      "preco": 5.5,
      "img": "produtos/813.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 11622,
@@ -8738,7 +8738,7 @@
      "marca": "APLICOLA",
      "preco": 12.9,
      "img": "produtos/14420.jpg",
-     "saldo": 180
+     "saldo": 179
     },
     {
      "cod": 818,
@@ -8896,7 +8896,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4198
+     "saldo": 4193
     },
     {
      "cod": 14619,
@@ -9130,7 +9130,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1256
+     "saldo": 1254
     },
     {
      "cod": 4389,
@@ -9184,7 +9184,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 45
+     "saldo": 42
     },
     {
      "cod": 1519,
@@ -9192,7 +9192,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 1520,
@@ -9736,7 +9736,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 6716,
@@ -9901,7 +9901,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 91
+     "saldo": 89
     }
    ]
   },
@@ -10051,7 +10051,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 3479,
@@ -10749,7 +10749,7 @@
      "marca": "GRIFFE",
      "preco": 18.9,
      "img": "produtos/4765.jpg",
-     "saldo": 97
+     "saldo": 95
     },
     {
      "cod": 2051,
@@ -10900,7 +10900,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 63
+       "saldo": 62
       },
       {
        "cod": 2045,
@@ -11167,7 +11167,7 @@
      "marca": "",
      "preco": 15.0,
      "img": "produtos/3580.jpg",
-     "saldo": 49
+     "saldo": 47
     },
     {
      "cod": 6844,
@@ -11191,7 +11191,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 732
+     "saldo": 731
     },
     {
      "cod": 5082,
@@ -11199,7 +11199,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 31
+     "saldo": 29
     },
     {
      "cod": 4502,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 155
+     "saldo": 148
     },
     {
      "cod": 2007,
@@ -11277,7 +11277,7 @@
      "marca": "CHAMEX",
      "preco": 11.9,
      "img": "produtos/2012.jpg",
-     "saldo": 45
+     "saldo": 42
     },
     {
      "cod": 2017,
@@ -11325,7 +11325,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 211
+     "saldo": 209
     },
     {
      "cod": 2100,
@@ -13928,7 +13928,7 @@
      "marca": "KIT",
      "preco": 10.9,
      "img": "produtos/13579.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 13782,
@@ -15655,7 +15655,7 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg",
-     "saldo": 109
+     "saldo": 107
     },
     {
      "cod": 4432,
@@ -15778,7 +15778,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 140
+     "saldo": 138
     },
     {
      "cod": 1144,
@@ -15962,7 +15962,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 411
+     "saldo": 409
     },
     {
      "cod": 6721,
@@ -18474,7 +18474,7 @@
      "marca": "USA FOLIEN",
      "preco": 10.9,
      "img": "produtos/8715.jpg",
-     "saldo": 14
+     "saldo": 12
     },
     {
      "cod": 659,
@@ -18986,7 +18986,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/6618.jpg",
-     "saldo": 25
+     "saldo": 22
     },
     {
      "cod": 2478,
@@ -19915,11 +19915,11 @@
     },
     {
      "cod": 14651,
-     "nome": "BRINQUEDO CORDA DE PULAR  NYLON C/2MT",
-     "marca": "CARLU",
-     "preco": 16.9,
+     "nome": "BRINQ. CORDA DE PULAR NYLON C/2MT",
+     "marca": "",
+     "preco": 9.9,
      "img": "produtos/14651.jpg",
-     "saldo": 16
+     "saldo": 41
     },
     {
      "cod": 14653,
@@ -21679,7 +21679,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2576
+     "saldo": 2551
     },
     {
      "cod": 14414,
@@ -23057,7 +23057,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 6315,
@@ -24255,7 +24255,7 @@
      "marca": "",
      "preco": 2.45,
      "img": "produtos/31.jpg",
-     "saldo": 174
+     "saldo": 149
     },
     {
      "cod": 34,
@@ -25099,7 +25099,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 730
+     "saldo": 690
     },
     {
      "cod": 2705,
@@ -26071,7 +26071,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2426
+     "saldo": 2416
     },
     {
      "cod": 6821,
@@ -26079,7 +26079,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 854
+     "saldo": 849
     },
     {
      "cod": 6855,
@@ -26103,7 +26103,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 668
+     "saldo": 667
     },
     {
      "cod": 3964,
@@ -26941,7 +26941,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 404
+     "saldo": 399
     },
     {
      "cod": 4937,
@@ -29459,7 +29459,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 274
+     "saldo": 273
     },
     {
      "cod": 2157,
