@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2049
+       "saldo": 2047
       },
       {
        "cod": 554,
@@ -2186,7 +2186,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 13799,
@@ -2226,14 +2226,14 @@
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10560.jpg",
-     "saldo": 6,
+     "saldo": 5,
      "cores": [
       {
        "cod": 10560,
        "cor": "Preto",
        "nome": "LAPIS ESCREVER CIS SPIRO-PRETO",
        "img": "produtos/10560.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 10561,
@@ -3143,7 +3143,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-PRETO",
        "img": "produtos/2339.jpg",
-       "saldo": 212
+       "saldo": 211
       },
       {
        "cod": 9972,
@@ -4102,7 +4102,7 @@
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 12771,
@@ -8126,7 +8126,7 @@
      "marca": "JOCAR/CIS",
      "preco": 4.9,
      "img": "produtos/2575.jpg",
-     "saldo": 13
+     "saldo": 7
     }
    ]
   },
@@ -8514,7 +8514,7 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/831.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 832,
@@ -10659,14 +10659,14 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2032.jpg",
-     "saldo": 215,
+     "saldo": 214,
      "cores": [
       {
        "cod": 2032,
        "cor": "Amarela",
        "nome": "CARTOLINA-AMARELA",
        "img": "produtos/2032.jpg",
-       "saldo": 215
+       "saldo": 214
       },
       {
        "cod": 2033,
@@ -10872,14 +10872,14 @@
        "cor": "Azul Escuro",
        "nome": "COLORSETE-AZUL ESCURO",
        "img": "produtos/2039.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 2041,
        "cor": "Laranja",
        "nome": "COLORSETE-LARANJA",
        "img": "produtos/2041.jpg",
-       "saldo": 147
+       "saldo": 146
       },
       {
        "cod": 4182,
@@ -10928,7 +10928,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 127
+       "saldo": 126
       }
      ]
     },
@@ -11022,7 +11022,7 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 30
+       "saldo": 29
       },
       {
        "cod": 2081,
@@ -11039,7 +11039,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/7736.jpg",
-     "saldo": 77
+     "saldo": 76
     },
     {
      "cod": 2085,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 211
+     "saldo": 201
     },
     {
      "cod": 2007,
@@ -11325,7 +11325,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 212
+     "saldo": 211
     },
     {
      "cod": 2100,
@@ -22437,7 +22437,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 166
+     "saldo": 165
     },
     {
      "cod": 770,
@@ -22477,7 +22477,7 @@
      "marca": "ISOMAX",
      "preco": 16.9,
      "img": "produtos/775.jpg",
-     "saldo": 115
+     "saldo": 114
     },
     {
      "cod": 776,
@@ -23971,7 +23971,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 34
+     "saldo": 31
     },
     {
      "cod": 7070,
@@ -25219,7 +25219,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 187
+     "saldo": 184
     },
     {
      "cod": 10062,
@@ -25999,7 +25999,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 350
+     "saldo": 349
     },
     {
      "cod": 2875,
@@ -26007,7 +26007,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 762
+     "saldo": 760
     },
     {
      "cod": 6825,
@@ -26475,7 +26475,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 963
+     "saldo": 962
     },
     {
      "cod": 2900,
