@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 770,
+     "saldo": 769,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 770
+       "saldo": 769
       },
       {
        "cod": 553,
@@ -2641,7 +2641,7 @@
      "marca": "MAPED",
      "preco": 1.9,
      "img": "produtos/13305.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 7860,
@@ -2752,7 +2752,7 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
-     "saldo": 30,
+     "saldo": 29,
      "controle": [
       "AZUL",
       "CINZA",
@@ -2762,7 +2762,7 @@
      "saldo_cor": {
       "AZUL": 9,
       "CINZA": 8,
-      "ROSA": 5,
+      "ROSA": 4,
       "VERDE-ÁGUA": 8
      }
     },
@@ -3716,7 +3716,7 @@
      "marca": "CIS",
      "preco": 12.9,
      "img": "produtos/14438.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 14237,
@@ -8204,7 +8204,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 14110,
@@ -8778,7 +8778,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14523.jpg",
-     "saldo": 240
+     "saldo": 239
     },
     {
      "cod": 822,
@@ -9839,7 +9839,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 126
+     "saldo": 125
     },
     {
      "cod": 6632,
@@ -11349,7 +11349,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 6667,
@@ -11881,7 +11881,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 151
+     "saldo": 150
     },
     {
      "cod": 11626,
@@ -16136,7 +16136,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 167
+       "saldo": 165
       },
       {
        "cod": 1221,
@@ -16164,7 +16164,7 @@
        "cor": "Verde Claro",
        "nome": "EVA GLITER-VERDE CLARO",
        "img": "produtos/5366.jpg",
-       "saldo": 104
+       "saldo": 103
       },
       {
        "cod": 1226,
@@ -16189,7 +16189,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 1228,
@@ -16246,7 +16246,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 97
+       "saldo": 92
       },
       {
        "cod": 1235,
@@ -20713,7 +20713,7 @@
     },
     {
      "cod": 12483,
-     "nome": "FICHARIO DAC REBECCA BONBON 192F",
+     "nome": "FICHARIO ESCOLAR DAC REBECCA BONBON 192F",
      "marca": "DAC",
      "preco": 69.9,
      "img": "produtos/12483.jpg",
@@ -20721,7 +20721,7 @@
     },
     {
      "cod": 12477,
-     "nome": "FICHARIO DAC-COLEGIAL ENJOY 48F",
+     "nome": "FICHARIO ESCOLAR DAC-COLEGIAL ENJOY 48F",
      "marca": "DAC",
      "preco": 59.9,
      "img": "produtos/12477.jpg",
@@ -20729,7 +20729,7 @@
     },
     {
      "cod": 12486,
-     "nome": "FICHARIO DAC-COLEGIAL HARRY POTTER 144F",
+     "nome": "FICHARIO ESCOLAR DAC-COLEGIAL HARRY POTTER 144F",
      "marca": "DAC",
      "preco": 119.9,
      "img": "produtos/12486.jpg",
@@ -20737,7 +20737,7 @@
     },
     {
      "cod": 12481,
-     "nome": "FICHARIO DAC-ENJOY 48F",
+     "nome": "FICHARIO ESCOLAR DAC-ENJOY 48F",
      "marca": "DAC",
      "preco": 112.9,
      "img": "produtos/12481.jpg",
@@ -20745,7 +20745,7 @@
     },
     {
      "cod": 12492,
-     "nome": "FICHARIO DAC-MINNIE 48F",
+     "nome": "FICHARIO ESCOLAR DAC-MINNIE 48F",
      "marca": "DAC",
      "preco": 154.9,
      "img": "produtos/12492.jpg",
@@ -20753,7 +20753,7 @@
     },
     {
      "cod": 12480,
-     "nome": "FICHARIO DAC-SO CUTE 48F",
+     "nome": "FICHARIO ESCOLAR DAC-SO CUTE 48F",
      "marca": "DAC",
      "preco": 79.9,
      "img": "produtos/12480.jpg",
@@ -20761,7 +20761,7 @@
     },
     {
      "cod": 12479,
-     "nome": "FICHARIO DAC-STITCH ROXO 48F",
+     "nome": "FICHARIO ESCOLAR DAC-STITCH ROXO 48F",
      "marca": "DAC",
      "preco": 138.9,
      "img": "produtos/12479.jpg",
@@ -22717,7 +22717,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 75
+     "saldo": 72
     },
     {
      "cod": 2937,
@@ -22725,7 +22725,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 447
+     "saldo": 446
     },
     {
      "cod": 4146,
@@ -22741,7 +22741,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 386
+     "saldo": 385
     },
     {
      "cod": 2489,
@@ -25091,7 +25091,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 690
+     "saldo": 730
     },
     {
      "cod": 2705,
@@ -26523,7 +26523,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2350
+     "saldo": 2349
     },
     {
      "cod": 2896,
@@ -27747,7 +27747,7 @@
        "cor": "Prata",
        "nome": "LAÇO PRONTO (G)-PRATA",
        "img": "produtos/11917.jpg",
-       "saldo": 101
+       "saldo": 100
       }
      ]
     },
@@ -28345,7 +28345,7 @@
      "marca": "GERSELE",
      "preco": 0.7,
      "img": "produtos/2774.jpg",
-     "saldo": 282
+     "saldo": 281
     },
     {
      "cod": 2776,
@@ -29221,7 +29221,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4396.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 4551,
@@ -29545,7 +29545,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/10666.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 11659,
