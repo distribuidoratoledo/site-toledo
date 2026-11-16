@@ -58,8 +58,10 @@
       {
        "descricao": "1 copo com tampa",
        "qtd": 1,
-       "status": "em_breve",
-       "obs": "Em breve na loja"
+       "cod": 14645,
+       "produto": "COPO INFANTIL ESCOLAR C/BICO 220ML-VERDE",
+       "preco": 4.9,
+       "foto": "listas/fotos/14645.jpg"
       },
       {
        "descricao": "1 toalha de mão",
@@ -21644,5 +21646,5 @@
    ]
   }
  ],
- "atualizado": "16/11/2026 15:58"
+ "atualizado": "16/11/2026 15:59"
 }
