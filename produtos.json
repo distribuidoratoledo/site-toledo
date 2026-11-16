@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 957,
+     "saldo": 956,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 957
+       "saldo": 956
       },
       {
        "cod": 553,
@@ -9134,7 +9134,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1300
+     "saldo": 1285
     },
     {
      "cod": 4389,
@@ -10553,7 +10553,7 @@
      "marca": "GRIFFE",
      "preco": 2.9,
      "img": "produtos/738.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 5083,
@@ -10684,7 +10684,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 214
+       "saldo": 213
       },
       {
        "cod": 2035,
@@ -15390,7 +15390,7 @@
      "marca": "PLASCONY",
      "preco": 21.9,
      "img": "produtos/14203.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 5181,
@@ -16124,7 +16124,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 177
+       "saldo": 176
       },
       {
        "cod": 1221,
@@ -16145,7 +16145,7 @@
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 114
+       "saldo": 113
       },
       {
        "cod": 5366,
@@ -16159,7 +16159,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 196
+       "saldo": 195
       }
      ]
     },
@@ -16199,7 +16199,7 @@
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 235
+       "saldo": 232
       },
       {
        "cod": 1231,
@@ -18328,7 +18328,7 @@
      "marca": "SCRITY",
      "preco": 0.25,
      "img": "produtos/1038.jpg",
-     "saldo": 12357
+     "saldo": 12352
     },
     {
      "cod": 1040,
@@ -19254,7 +19254,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 14261,
@@ -21582,6 +21582,22 @@
      "saldo": 397
     },
     {
+     "cod": 943,
+     "nome": "COPO 200ML PP C/100-COPOBRAS",
+     "marca": "COPOBRAS",
+     "preco": 6.9,
+     "img": "produtos/943.jpg",
+     "saldo": 250
+    },
+    {
+     "cod": 945,
+     "nome": "COPO 200ML PS C/100-COPOFLEX",
+     "marca": "COPOFLEX",
+     "preco": 4.9,
+     "img": "produtos/945.jpg",
+     "saldo": 400
+    },
+    {
      "cod": 14406,
      "nome": "COPO 200ML PS C/100-COPOJU",
      "marca": "COPOJU",
@@ -21668,6 +21684,14 @@
      "preco": 11.9,
      "img": "produtos/954.jpg",
      "saldo": 432
+    },
+    {
+     "cod": 3342,
+     "nome": "COPO 50ML PS C/100-COPOPLAST",
+     "marca": "COPOPLAST",
+     "preco": 3.5,
+     "img": "produtos/3342.jpg",
+     "saldo": 300
     },
     {
      "cod": 14405,
@@ -21859,7 +21883,7 @@
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/7351.jpg",
-     "saldo": 29
+     "saldo": 25
     },
     {
      "cod": 14412,
@@ -22641,7 +22665,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 85
+     "saldo": 83
     },
     {
      "cod": 2937,
@@ -22649,7 +22673,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 484
+     "saldo": 474
     },
     {
      "cod": 4146,
@@ -22665,7 +22689,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 419
+     "saldo": 412
     },
     {
      "cod": 3887,
@@ -22673,14 +22697,6 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 2489,
-     "nome": "PT104 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 31.9,
-     "img": "produtos/2489.jpg",
      "saldo": 1
     },
     {
@@ -22807,7 +22823,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 657
+     "saldo": 653
     },
     {
      "cod": 880,
@@ -23061,7 +23077,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 199
+     "saldo": 195
     },
     {
      "cod": 13873,
@@ -23587,7 +23603,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 73
+     "saldo": 72
     },
     {
      "cod": 1376,
@@ -25623,7 +25639,7 @@
      "marca": "",
      "preco": 11.9,
      "img": "produtos/7173.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 4058,
@@ -25987,7 +26003,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 403
+     "saldo": 400
     },
     {
      "cod": 2875,
@@ -26145,7 +26161,7 @@
      "marca": "HIPERROLL",
      "preco": 16.9,
      "img": "produtos/13853.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 252,
@@ -26423,7 +26439,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2906.jpg",
-     "saldo": 116
+     "saldo": 115
     },
     {
      "cod": 2895,
@@ -27525,7 +27541,7 @@
        "cor": "Ouro / Dourado",
        "nome": "FITILHO 50MT OURO/DOURADO",
        "img": "produtos/4778.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 4779,
@@ -27539,7 +27555,7 @@
        "cor": "Prata",
        "nome": "FITILHO 50MT PRATA",
        "img": "produtos/1325.jpg",
-       "saldo": 11
+       "saldo": 10
       },
       {
        "cod": 1326,
@@ -28861,7 +28877,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/192.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 193,
@@ -29225,7 +29241,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 316
+     "saldo": 315
     },
     {
      "cod": 7275,
@@ -32412,6 +32428,13 @@
    "marca": "ECO",
    "preco": 69.9,
    "img": "produtos/1363.jpg"
+  },
+  {
+   "cod": 945,
+   "nome": "COPO 200ML PS C/100-COPOFLEX",
+   "marca": "COPOFLEX",
+   "preco": 4.9,
+   "img": "produtos/945.jpg"
   },
   {
    "cod": 2491,
