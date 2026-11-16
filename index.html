@@ -1579,13 +1579,13 @@
        divide em ate 6x, ele escolhe). limite = valor maximo do convenio (o resto e' pago de outra forma na entrega).
        OMPI entrou a parte: "valor maximo pra compra R$ 110,00". */
     /* envio dos documentos pelo site: liga quando o App da Web do Google tiver a versao com acao 'doc' (14/11/2026) */
-    var DOCS_CONVENIO_ATIVO = false;
+    var DOCS_CONVENIO_ATIVO = true;   // 16/11/2026: ligado — ela autorizou o Drive; os links vão na mensagem do pedido
     /* DOCUMENTOS DO CONVENIO PELO WHATSAPP (Adriana, 16/11/2026): "não precisa guardar as fotos do documento e da autorização,
        apenas deixe obrigatório que o cliente coloque no quadro ... dois quadros, cada um para o seu doc específico, assim vai
        chegar no zap para a vendedora, ela mesma encaminha pra nossa pasta de documentos". Os arquivos ficam só na memória da
        página (não vão para o Drive nem para o aparelho) e, depois do pedido, o botão "Enviar os documentos no WhatsApp" abre o
        compartilhar do celular com os dois anexos. No computador, o cliente anexa pelo clipe do WhatsApp. */
-    var DOCS_CONV_ZAP = true;
+    var DOCS_CONV_ZAP = false;   // 16/11/2026: trocado pelos links do Drive (no computador o WhatsApp não aceita anexo vindo do site)
     var DOCS_ARQ = {};
     var CONVENIOS = [
       { n: 'ASK DO BRASIL', p: 6, m: 50, aviso: 'Compras até 20/02.' },
@@ -1917,6 +1917,12 @@
       return Math.max(1, Math.min(c.p, Math.floor(valorConvenio() / c.m + 1e-9)));
     }
     function parcelasConvenio() { return Math.min(parseInt(DADOS.parcConv, 10) || 1, parcelasConvenioPossiveis()); }
+    /* links dos 2 documentos na mensagem do pedido (16/11/2026): a vendedora abre no LuChat e encaminha para a pasta de
+       documentos. Pasta privada no Drive da conta da loja: abre logado na conta telemktoledo. */
+    function linksDocsConv() {
+      var d = DADOS.docsConv || {}, u = function (id) { return id ? 'https://drive.google.com/file/d/' + id + '/view' : '(sem link)'; };
+      return 'conferir antes de liberar. Autorização do convênio: ' + u(d.autorizacao_id) + ' | Documento com foto: ' + u(d.documento_id);
+    }
     function docsConvenioOk() {
       if (DOCS_CONV_ZAP) { return !!(DOCS_ARQ.documento && DOCS_ARQ.autorizacao); }
       var d = DADOS.docsConv || {}; return d.documento === 'ok' && d.autorizacao === 'ok';
@@ -1932,7 +1938,7 @@
         return 'Convênio empresa (' + (DADOS.convenio || '').trim() + ') ' + nc + 'x de ' + moeda(vc / nc) + ' sem juros'
           + (resto > 0 ? ' + ' + moeda(resto) + ' acima do limite, pagos na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + ' de outra forma' : '')
           + ' - documentos: ' + (DOCS_CONV_ZAP ? 'autorização do convênio e documento com foto vão anexados nesta conversa logo depois do pedido (conferir antes de liberar e encaminhar para a pasta de documentos)'
-              : docsConvenioOk() ? 'enviados pelo site (conferir antes de liberar)' : 'APRESENTAR autorização do convênio e documento com foto');
+              : docsConvenioOk() ? linksDocsConv() : 'APRESENTAR autorização do convênio e documento com foto');
       }
       if (DADOS.pagto === 'Dinheiro') {
         return 'Dinheiro' + ((DADOS.troco || '').trim() ? ' (troco para ' + DADOS.troco.trim() + ')' : '');
@@ -2203,7 +2209,7 @@
           + '<input type="file" accept="image/*,application/pdf" onchange="escolherDocConv(this,\'' + tipo + '\')"></label>';
       }
       h += '<div class="conv-docs"><p class="car-nota" style="margin-top:6px"><b>Documentos do conveniado.</b> A vendedora confere antes de liberar o pedido.'
-        + ' Os arquivos ficam guardados em \u00e1rea privada da Toledo, s\u00f3 para esta confer\u00eancia.</p>'
+        + ' Os arquivos ficam guardados em \u00e1rea privada da Toledo, s\u00f3 para esta confer\u00eancia, e chegam para a vendedora junto com o pedido.</p>'
         + caixa('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'a autoriza\u00e7\u00e3o da empresa para esta compra')
         + caixa('documento', 'Documento com foto', 'identidade, CNH, passaporte etc.')
         + '</div>';
@@ -2231,7 +2237,10 @@
         fetch(PEDIDOS_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=utf-8' },
           body: JSON.stringify({ acao: 'doc', sessao: DADOS.docsSessao, tipo: tipo, mime: mime, base64: b64 }) })
           .then(function (r) { return r.json(); })
-          .then(function (j) { marcaDocConv(tipo, j && j.ok ? 'ok' : 'erro'); })
+          .then(function (j) {
+            if (j && j.ok && j.id) { DADOS.docsConv = DADOS.docsConv || {}; DADOS.docsConv[tipo + '_id'] = j.id; }
+            marcaDocConv(tipo, j && j.ok ? 'ok' : 'erro');
+          })
           .catch(function () { marcaDocConv(tipo, 'erro'); });
       };
       var rd = new FileReader();
