@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 806,
+     "saldo": 804,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 806
+       "saldo": 804
       },
       {
        "cod": 556,
@@ -670,6 +670,14 @@
      "saldo": 7
     },
     {
+     "cod": 14460,
+     "nome": "CANETA GEL  MOLIN-CHOCOLATE",
+     "marca": "MOLIN",
+     "preco": 1.9,
+     "img": "produtos/14460.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 10256,
      "nome": "CANETA GEL ART GLITER JOCAR-ROXO",
      "marca": "JOCAR",
@@ -727,10 +735,66 @@
     },
     {
      "cod": 14465,
-     "nome": "CANETA GEL MOLIN-AZUL",
+     "nome": "CANETA GEL MOLIN",
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14465.jpg",
+     "saldo": 24,
+     "cores": [
+      {
+       "cod": 14465,
+       "cor": "Azul",
+       "nome": "CANETA GEL MOLIN-AZUL",
+       "img": "produtos/14465.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 14466,
+       "cor": "Preta",
+       "nome": "CANETA GEL MOLIN-PRETA",
+       "img": "produtos/14466.jpg",
+       "saldo": 36
+      }
+     ]
+    },
+    {
+     "cod": 14469,
+     "nome": "CANETA GEL MOLIN-CINZA",
+     "marca": "MOLIN",
+     "preco": 1.9,
+     "img": "produtos/14469.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 14467,
+     "nome": "CANETA GEL MOLIN NEON",
+     "marca": "MOLIN",
+     "preco": 1.9,
+     "img": "produtos/14467.jpg",
+     "saldo": 24,
+     "cores": [
+      {
+       "cod": 14467,
+       "cor": "Laranja",
+       "nome": "CANETA GEL MOLIN-LARANJA NEON",
+       "img": "produtos/14467.jpg",
+       "saldo": 24
+      },
+      {
+       "cod": 14468,
+       "cor": "Rosa",
+       "nome": "CANETA GEL MOLIN-ROSA NEON",
+       "img": "produtos/14468.jpg",
+       "saldo": 24
+      }
+     ]
+    },
+    {
+     "cod": 14462,
+     "nome": "CANETA GEL MOLIN-VERDE OLIVA",
+     "marca": "MOLIN",
+     "preco": 1.9,
+     "img": "produtos/14462.jpg",
      "saldo": 24
     },
     {
@@ -797,28 +861,13 @@
      "saldo": 24
     },
     {
-     "cod": 14460,
-     "nome": "CANETA GEL/CONVITE MOLIN-CHOCOLATE",
-     "marca": "MOLIN",
-     "preco": 9.5,
-     "img": "produtos/14460.jpg",
-     "saldo": 24
-    },
-    {
-     "cod": 14469,
+     "cod": 573,
      "nome": "CANETA GEL/CONVITE MOLIN",
      "marca": "MOLIN",
      "preco": 9.5,
-     "img": "produtos/14469.jpg",
+     "img": "produtos/573.jpg",
      "saldo": 24,
      "cores": [
-      {
-       "cod": 14469,
-       "cor": "Cinza",
-       "nome": "CANETA GEL/CONVITE MOLIN-CINZA",
-       "img": "produtos/14469.jpg",
-       "saldo": 24
-      },
       {
        "cod": 573,
        "cor": "Ouro",
@@ -832,47 +881,8 @@
        "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
        "img": "produtos/574.jpg",
        "saldo": 34
-      },
-      {
-       "cod": 14466,
-       "cor": "Preta",
-       "nome": "CANETA GEL/CONVITE MOLIN-PRETA",
-       "img": "produtos/14466.jpg",
-       "saldo": 36
       }
      ]
-    },
-    {
-     "cod": 14467,
-     "nome": "CANETA GEL/CONVITE MOLIN NEON",
-     "marca": "MOLIN",
-     "preco": 9.5,
-     "img": "produtos/14467.jpg",
-     "saldo": 24,
-     "cores": [
-      {
-       "cod": 14467,
-       "cor": "Laranja",
-       "nome": "CANETA GEL/CONVITE MOLIN-LARANJA NEON",
-       "img": "produtos/14467.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 14468,
-       "cor": "Rosa",
-       "nome": "CANETA GEL/CONVITE MOLIN-ROSA NEON",
-       "img": "produtos/14468.jpg",
-       "saldo": 24
-      }
-     ]
-    },
-    {
-     "cod": 14462,
-     "nome": "CANETA GEL/CONVITE MOLIN-VERDE OLIVA",
-     "marca": "MOLIN",
-     "preco": 9.5,
-     "img": "produtos/14462.jpg",
-     "saldo": 24
     },
     {
      "cod": 14597,
@@ -3209,7 +3219,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.SLIM.JOCAR-VERMELHO",
        "img": "produtos/7532.jpg",
-       "saldo": 377
+       "saldo": 376
       }
      ]
     },
@@ -3548,7 +3558,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 54
+       "saldo": 52
       },
       {
        "cod": 2658,
@@ -8994,7 +9004,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 360
+     "saldo": 359
     },
     {
      "cod": 1294,
@@ -9829,7 +9839,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 128
+     "saldo": 126
     },
     {
      "cod": 6632,
@@ -9961,7 +9971,7 @@
      "marca": "THOMPSON",
      "preco": 13.9,
      "img": "produtos/14356.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 1532,
@@ -10670,7 +10680,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 213
+       "saldo": 212
       },
       {
        "cod": 2035,
@@ -13529,7 +13539,7 @@
      "marca": "MAXCRIL",
      "preco": 31.9,
      "img": "produtos/1014.jpg",
-     "saldo": 133
+     "saldo": 123
     },
     {
      "cod": 1013,
@@ -13727,7 +13737,7 @@
      "marca": "ACP",
      "preco": 9.9,
      "img": "produtos/1818.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 4101,
@@ -16220,7 +16230,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 98
+       "saldo": 97
       },
       {
        "cod": 1235,
@@ -16248,7 +16258,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 76
+       "saldo": 74
       },
       {
        "cod": 1239,
@@ -16283,7 +16293,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 340
+       "saldo": 339
       },
       {
        "cod": 1244,
@@ -18210,7 +18220,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 27023
+     "saldo": 26023
     },
     {
      "cod": 1098,
@@ -19029,7 +19039,7 @@
        "cor": "Rosa",
        "nome": "POST-IT 76X76 C/100 ROSA",
        "img": "produtos/6621.jpg",
-       "saldo": 60
+       "saldo": 59
       },
       {
        "cod": 6622,
@@ -21597,7 +21607,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 38
+     "saldo": 32
     },
     {
      "cod": 944,
@@ -22539,7 +22549,7 @@
      "marca": "ULTRA",
      "preco": 69.9,
      "img": "produtos/4037.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 3924,
@@ -22881,7 +22891,7 @@
      "marca": "RIOFESTA",
      "preco": 4.9,
      "img": "produtos/4277.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 1881,
@@ -23691,7 +23701,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1018
+     "saldo": 1012
     },
     {
      "cod": 3857,
@@ -23699,7 +23709,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 236
+     "saldo": 231
     },
     {
      "cod": 2552,
@@ -24127,7 +24137,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 2475
+     "saldo": 2473
     },
     {
      "cod": 1553,
@@ -24651,7 +24661,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 62
+     "saldo": 61
     }
    ]
   },
@@ -26099,7 +26109,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 184
+     "saldo": 182
     },
     {
      "cod": 13859,
@@ -26605,7 +26615,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 79
+     "saldo": 68
     },
     {
      "cod": 10990,
@@ -26661,7 +26671,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 1278,
@@ -28397,7 +28407,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 262
+     "saldo": 261
     },
     {
      "cod": 1155,
@@ -28509,7 +28519,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6323.jpg",
-     "saldo": 309
+     "saldo": 308
     },
     {
      "cod": 6851,
