@@ -6577,7 +6577,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 63
+     "saldo": 59
     },
     {
      "cod": 6295,
@@ -6769,7 +6769,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 55
+     "saldo": 53
     },
     {
      "cod": 12978,
@@ -6809,7 +6809,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12440.jpg",
-     "saldo": 41
+     "saldo": 38
     },
     {
      "cod": 6296,
@@ -7023,7 +7023,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 3244,
@@ -11947,7 +11947,7 @@
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 46
+       "saldo": 45
       },
       {
        "cod": 12686,
@@ -11968,7 +11968,7 @@
        "cor": "Lilas",
        "nome": "GUACHE 250ML ACRILEX-LILAS",
        "img": "produtos/11882.jpg",
-       "saldo": 91
+       "saldo": 90
       },
       {
        "cod": 11881,
@@ -12186,7 +12186,7 @@
      "marca": "",
      "preco": 5.0,
      "img": "produtos/10995.jpg",
-     "saldo": 86
+     "saldo": 85
     },
     {
      "cod": 10996,
@@ -19518,7 +19518,7 @@
      "marca": "REZENDE",
      "preco": 13.9,
      "img": "produtos/13713.jpg",
-     "saldo": 88
+     "saldo": 86
     },
     {
      "cod": 14435,
@@ -19558,21 +19558,21 @@
      "marca": "DELTA",
      "preco": 7.9,
      "img": "produtos/1465.jpg",
-     "saldo": 26,
+     "saldo": 25,
      "cores": [
       {
        "cod": 1465,
        "cor": "Branco",
        "nome": "GIZ DELTA C/64 BRANCO",
        "img": "produtos/1465.jpg",
-       "saldo": 26
+       "saldo": 25
       },
       {
        "cod": 6465,
        "cor": "Colorido",
        "nome": "GIZ DELTA C/64 COLORIDO",
        "img": "produtos/6465.jpg",
-       "saldo": 36
+       "saldo": 35
       }
      ]
     },
@@ -19919,7 +19919,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/14651.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 14653,
@@ -30170,6 +30170,26 @@
    "nome": "Apontador",
    "itens": [
     {
+     "cod": 14626,
+     "nome": "APONTADOR ACRILEX 1F C/D-(22406) CORES",
+     "marca": "ACRILEX",
+     "preco": 7.9,
+     "img": "produtos/14626.jpg",
+     "saldo": 48,
+     "controle": [
+      "AZUL",
+      "PINK",
+      "PRETO",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "AZUL": 12,
+      "PINK": 12,
+      "PRETO": 12,
+      "VERDE-ÁGUA": 12
+     }
+    },
+    {
      "cod": 14627,
      "nome": "APONTADOR ACRILEX 2F C/D-(22417) CORES",
      "marca": "ACRILEX",
@@ -30201,6 +30221,24 @@
      "saldo_cor": {
       "ROSA": 13,
       "ROXO": 15
+     }
+    },
+    {
+     "cod": 14629,
+     "nome": "APONTADOR ACRILEX 2F C/D-(22419) CORES",
+     "marca": "ACRILEX",
+     "preco": 9.9,
+     "img": "produtos/14629.jpg",
+     "saldo": 47,
+     "controle": [
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "ROSA": 16,
+      "ROXO": 16,
+      "VERDE-ÁGUA": 15
      }
     },
     {
