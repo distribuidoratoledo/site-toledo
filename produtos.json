@@ -472,7 +472,7 @@
        "cor": "Vermelha",
        "nome": "CANETA CIS SPIRO-VERMELHA",
        "img": "produtos/568.jpg",
-       "saldo": 50
+       "saldo": 48
       }
      ]
     },
@@ -3547,7 +3547,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 51
+       "saldo": 54
       },
       {
        "cod": 2658,
@@ -8583,7 +8583,7 @@
      "marca": "TEKBOND",
      "preco": 14.9,
      "img": "produtos/4930.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 7159,
@@ -8607,7 +8607,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 846,
@@ -10714,7 +10714,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 90
+       "saldo": 89
       },
       {
        "cod": 758,
@@ -11314,7 +11314,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 213
+     "saldo": 212
     },
     {
      "cod": 2100,
@@ -11458,7 +11458,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/2139.jpg",
-     "saldo": 650
+     "saldo": 648
     },
     {
      "cod": 2140,
@@ -15470,7 +15470,7 @@
      "marca": "POLIBRAS",
      "preco": 59.9,
      "img": "produtos/2270.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 2271,
@@ -19231,7 +19231,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 11832,
@@ -22458,7 +22458,7 @@
      "marca": "ISOMAX",
      "preco": 13.9,
      "img": "produtos/774.jpg",
-     "saldo": 65
+     "saldo": 47
     },
     {
      "cod": 775,
@@ -25472,7 +25472,7 @@
      "marca": "KROMASA",
      "preco": 1.8,
      "img": "produtos/2808.jpg",
-     "saldo": 1964
+     "saldo": 1934
     },
     {
      "cod": 9185,
@@ -25686,7 +25686,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 423
+     "saldo": 373
     },
     {
      "cod": 2826,
@@ -29360,7 +29360,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 315
+     "saldo": 305
     },
     {
      "cod": 2157,
