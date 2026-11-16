@@ -209,17 +209,33 @@
     .jan-cod { font-size: .8rem; color: #6b7687; margin-top: 4px;
       font-variant-numeric: tabular-nums; }
     /* Black Friday (16/11/2026) */
-    .bf-banner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
-      margin: 1rem max(16px, 1.2rem) 0; padding: 1.2rem 1.6rem; border-radius: 22px; background: #111; color: #fff;
-      border: 3px solid #ffd400; box-shadow: 0 6px 18px rgba(0,0,0,.18); }
+    section.bf-banner { max-width: none; width: auto; }
+    .bf-banner { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 1.4rem 2rem;
+      margin: 1rem max(16px, 1.2rem) 0; padding: 1.3rem 2rem; border-radius: 22px; color: #fff;
+      background: linear-gradient(135deg, #0b0b0b 0%, #1d1d1d 60%, #2a2400 100%);
+      border: 3px solid #ffd400; box-shadow: 0 8px 22px rgba(0,0,0,.22); }
     .bf-banner[hidden] { display: none; }
-    .bf-banner .bf-tag { display: inline-block; background: #ffd400; color: #111; font-weight: 900; letter-spacing: .08em;
-      padding: .2rem .7rem; border-radius: 8px; font-size: .9rem; }
-    .bf-banner h2 { margin: .45rem 0 .2rem; font-size: clamp(1.4rem, 4vw, 2.3rem); font-weight: 800; color: #fff; }
+    .bf-marca { display: flex; flex-direction: column; line-height: .92; font-weight: 900; letter-spacing: .04em;
+      padding-right: 2rem; border-right: 2px solid rgba(255,212,0,.45); }
+    .bf-marca span:first-child { color: #fff; font-size: clamp(1.6rem, 3.4vw, 2.5rem); }
+    .bf-marca span:last-child { color: #ffd400; font-size: clamp(1.6rem, 3.4vw, 2.5rem); }
+    .bf-banner .bf-txt, .bf-banner h2 { text-align: left; }
+    .bf-banner .bf-selo, .bf-banner .bf-por { white-space: nowrap; }
+    .bf-banner h2 { margin: 0 0 .25rem; font-size: clamp(1.25rem, 2.8vw, 1.9rem); font-weight: 800; color: #fff; }
     .bf-banner h2 b { color: #ffd400; }
-    .bf-banner p { margin: 0; font-size: clamp(.95rem, 2.4vw, 1.15rem); opacity: .92; }
-    .bf-btn { background: #ffd400; color: #111; border: 0; border-radius: 999px; padding: .8rem 1.6rem; font-weight: 800;
-      font-size: 1rem; cursor: pointer; }
+    .bf-banner .bf-cats { margin: 0 0 .45rem; font-size: clamp(.95rem, 2vw, 1.1rem); color: #f1f1f1; }
+    .bf-banner .bf-regra { margin: 0; font-size: .88rem; color: #cfcfcf; line-height: 1.7; }
+    .bf-banner .bf-regra .bf-selo { font-size: .62rem; }
+    .bf-banner .bf-regra .bf-por { font-size: .8rem; padding: 0 .35rem; }
+    .bf-btn { background: #ffd400; color: #111; border: 0; border-radius: 999px; padding: .85rem 1.8rem; font-weight: 800;
+      font-size: 1rem; cursor: pointer; white-space: nowrap; }
+    @media (max-width: 760px) {
+      .bf-banner { grid-template-columns: 1fr; text-align: center; padding: 1.1rem 1.1rem 1.2rem; gap: .8rem; }
+      .bf-marca { flex-direction: row; justify-content: center; gap: .4rem; padding: 0 0 .7rem; border-right: 0;
+        border-bottom: 2px solid rgba(255,212,0,.45); }
+      .bf-btn { justify-self: center; }
+      .bf-banner .bf-txt, .bf-banner h2 { text-align: center; }
+    }
     .bf-btn:hover { background: #ffe34d; }
     .bf-selo { display: inline-block; background: #111; color: #ffd400; font-size: .68rem; font-weight: 800; letter-spacing: .05em;
       text-transform: uppercase; padding: .12rem .45rem; border-radius: 6px; margin-right: .35rem; vertical-align: middle; }
@@ -920,10 +936,11 @@
   <div id="inicio">
     <!-- BLACK FRIDAY 50% OFF (16/11/2026): card no topo, as Listas Escolares logo abaixo. Some com BF_ATIVA = false. -->
     <section class="bf-banner" id="bf-banner" aria-label="Black Friday">
+      <div class="bf-marca"><span>BLACK</span><span>FRIDAY</span></div>
       <div class="bf-txt">
-        <span class="bf-tag">BLACK FRIDAY</span>
-        <h2><b>50% OFF</b> em todos os</h2>
-        <p>Cadernos · Fichários · Estojos · Mochilas de Carrinho</p>
+        <h2><b>50% OFF</b> em produtos selecionados</h2>
+        <p class="bf-cats">Cadernos, fichários, estojos e mochilas de carrinho</p>
+        <p class="bf-regra">Estão na promoção somente os itens com a etiqueta <span class="bf-selo">Black Friday</span> e o preço em <span class="bf-por">amarelo</span>.</p>
       </div>
       <button type="button" class="bf-btn" onclick="verBlackFriday()">Ver ofertas</button>
     </section>
@@ -1189,9 +1206,17 @@
        O preço do Sankhya fica em preco_antigo e o preco passa a ser a metade: carrinho, total, WhatsApp e o pedido
        que vai para o Sankhya usam o preço novo. Para encerrar: BF_ATIVA = false. */
     var BF_ATIVA = true;
+    /* CADERNOS: NAO SAO TODOS (16/11/2026: "tire a informação de todos os cadernos pois não são todos ... cadernos
+       lisos, Alibom ... não estão na promoção"). So' os 194 do custo reduzido (-30% e -20%, 11 a 14/11/2026,
+       automacoes/ajuste_custo/previa_cadernos_menos20_2026-11-14.json). */
+    var BF_CADERNOS = {};
+    '339,340,351,392,420,3243,3244,5146,5610,5612,5613,5615,5616,5617,5618,5622,5623,5624,5626,5627,5628,5734,5736,5738,5739,5840,5844,5846,5847,5877,5881,5882,5895,5902,5911,5912,5914,5915,5928,5960,5965,5968,5970,6060,6061,6063,6083,6535,6564,7742,7760,7764,7765,7767,7771,7773,7783,7784,7790,8129,8138,8148,8244,8247,8250,8252,8253,8255,8384,8385,8386,8395,8401,8402,8782,8889,8892,8895,8899,8900,8921,8922,9324,9325,9329,9335,10466,10491,10894,10896,10898,10903,10926,10927,10933,11289,11291,11294,11296,11298,11302,11304,11307,11310,11421,11423,11425,11432,11438,11440,11443,11444,11450,11453,11460,12387,12388,12400,12401,12402,12403,12414,12415,12436,12437,12438,12439,12468,12554,12761,12762,12763,12764,12765,12766,12767,12777,12780,12794,12812,12814,12836,12837,12841,12842,12845,12846,12857,12858,12861,12889,12890,12894,12895,12896,12899,12905,12906,12909,12910,12911,12963,12964,12969,12982,12983,12988,13059,13098,13099,13102,13103,13164,13168,13179,13180,13181,13184,13200,13201,13203,13204,13205,13206,13207,13209,13210,13212,13213,13214,13215,13217,13218,13789'.split(',').forEach(function (c) { BF_CADERNOS[c] = 1; });
     function ehBF(p) {
       var n = String(p.nome || '').toUpperCase();
-      return /^CADERNO\b/.test(n) || /^FICH[AÁ]RIO\b/.test(n) || /^ESTOJO\b/.test(n) || /MOCHILA CARRINHO/.test(n);
+      if (/^CADERNO\b/.test(n)) {
+        return !!(BF_CADERNOS[p.cod] || (p.cores && p.cores.some(function (c) { return BF_CADERNOS[c.cod]; })));
+      }
+      return /^FICH[AÁ]RIO\b/.test(n) || /^ESTOJO\b/.test(n) || /MOCHILA CARRINHO/.test(n);
     }
     function marcarBF(p) {
       if (!BF_ATIVA || p.bf || !(p.preco > 0) || !ehBF(p)) { return false; }
