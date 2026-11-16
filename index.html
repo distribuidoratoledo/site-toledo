@@ -177,8 +177,16 @@
       background: var(--cor-clara); color: #9aa6b6; font-size: 0.8rem;
       display: flex; align-items: center; justify-content: center;
     }
-    .prod h4 { color: var(--azul); font-size: 0.92rem; margin-bottom: 0.2rem; line-height: 1.3; }
-    .prod .prod-marca { font-size: 0.78rem; color: #8792a4; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 0.4rem; }
+    .prod h4 { color: var(--azul); font-size: 0.92rem; margin: 0 0 0.1rem; line-height: 1.3; }
+    .prod .prod-marca { font-size: 0.74rem; color: #8792a4; text-transform: uppercase; letter-spacing: 0.4px; margin: 0 0 0.05rem; line-height: 1.3; }
+    .prod .bf-faixa { margin: -0.2rem -0.2rem 0.6rem; padding: 0.3rem 0.5rem; border-radius: 8px; background: #111; color: #ffd400;
+      font-size: 0.74rem; font-weight: 800; letter-spacing: 0.08em; text-align: center; }
+    .prod .bf-faixa b { color: #fff; margin-left: 0.25rem; }
+    .prod.bf-card { border-color: #ffd400; }
+    .prod .preco.bf { display: flex; align-items: center; justify-content: center; gap: 0.45rem; flex-wrap: wrap;
+      margin: 0.15rem 0 0.7rem; line-height: 1.3; }
+    .prod .preco.bf .bf-de { margin: 0; }
+    .prod .preco.bf .bf-por { font-size: 1.05rem; padding: 0.1rem 0.5rem; }
 
     /* ---- cartão com cores, janela do produto e carrinho ---- */
     .prod .foto-cx { position: relative; cursor: zoom-in; }
@@ -404,7 +412,7 @@
       font: inherit; font-weight: 800; font-size: 1rem; padding: 14px; cursor: pointer; }
     .car-enviar:hover { background: #1eb455; }
 
-    .prod .prod-cod { font-size: 0.75rem; color: #6b7687; letter-spacing: 0.3px; margin-bottom: 0.35rem; font-variant-numeric: tabular-nums; }
+    .prod .prod-cod { font-size: 0.72rem; color: #6b7687; letter-spacing: 0.3px; margin: 0 0 0.5rem; line-height: 1.3; font-variant-numeric: tabular-nums; }
     .prod .preco { color: var(--vermelho); font-weight: 700; margin-bottom: 0.8rem; font-size: 0.95rem; }
     /* SALDO NO PRODUTO (Adriana, 10/11/2026): estoque no cartao e na janela; saldo baixo = amarelo + aviso */
     .prod-saldo { font-size: 0.78rem; color: #6b7686; margin: -0.5rem 0 0.6rem; }
@@ -1230,9 +1238,9 @@
       if (typeof DESTAQUES !== 'undefined') { DESTAQUES.forEach(marcarBF); }
       if (!BF_ATIVA) { var b = document.getElementById('bf-banner'); if (b) { b.hidden = true; } }
     })();
-    function precoHtml(p) {
+    function precoHtml(p, semSelo) {
       if (!p.bf) { return moeda(p.preco); }
-      return '<span class="bf-selo">Black Friday</span><span class="bf-de">' + moeda(p.preco_antigo) + '</span>'
+      return (semSelo ? '' : '<span class="bf-selo">Black Friday</span>') + '<span class="bf-de">' + moeda(p.preco_antigo) + '</span>'
            + '<span class="bf-por">' + moeda(p.preco) + '</span>';
     }
     function verBlackFriday() {
@@ -1280,7 +1288,8 @@
            + (p.cores ? '<span class="selo-cores">' + p.cores.length + ' cores</span>' : '')
            + '</div>';
       var sd = saldoDoCard(p);
-      return '<div class="prod' + (sd != null && sd <= SALDO_BAIXO ? ' saldo-baixo' : '') + '">' + foto +
+      return '<div class="prod' + (sd != null && sd <= SALDO_BAIXO ? ' saldo-baixo' : '') + (p.bf ? ' bf-card' : '') + '">'
+             + (p.bf ? '<div class="bf-faixa">BLACK FRIDAY <b>50% OFF</b></div>' : '') + foto +
              '<h4>' + p.nome + '</h4>' +
              (p.marca ? '<p class="prod-marca">' + p.marca + '</p>' : '') +
              // O CODIGO DO SANKHYA NA VITRINE. Ele so' aparecia depois, dentro
@@ -1290,7 +1299,7 @@
              (p.cores
                 ? '<div class="bolinhas"><span>' + p.cores.map(function (c) { return c.cor; }).join(' · ') + '</span></div>'
                 : '<p class="prod-cod">Código: ' + p.cod + '</p>') +
-             '<p class="preco' + (p.bf ? ' bf' : '') + '">' + precoHtml(p) + '</p>' +
+             '<p class="preco' + (p.bf ? ' bf' : '') + '">' + precoHtml(p, true) + '</p>' +
              htmlSaldo(sd, 'prod-saldo') +
              (p.cores || p.controle
                 ? '<button class="btn-mini" type="button" onclick="abrirProduto(' + p.cod + ')">Escolher a cor</button>'
