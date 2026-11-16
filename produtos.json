@@ -472,7 +472,7 @@
        "cor": "Vermelha",
        "nome": "CANETA CIS SPIRO-VERMELHA",
        "img": "produtos/568.jpg",
-       "saldo": 48
+       "saldo": 47
       }
      ]
     },
@@ -726,6 +726,14 @@
      "saldo": 1
     },
     {
+     "cod": 14465,
+     "nome": "CANETA GEL MOLIN-AZUL",
+     "marca": "MOLIN",
+     "preco": 5.9,
+     "img": "produtos/14465.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 5240,
      "nome": "CANETA GEL PAPER MATE",
      "marca": "PAPER MATE",
@@ -781,20 +789,29 @@
      "saldo": 3
     },
     {
-     "cod": 14465,
+     "cod": 572,
+     "nome": "CANETA GEL/CONVITE MOLIN-BRANCA",
+     "marca": "MOLIN",
+     "preco": 10.9,
+     "img": "produtos/572.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 14460,
+     "nome": "CANETA GEL/CONVITE MOLIN-CHOCOLATE",
+     "marca": "MOLIN",
+     "preco": 9.5,
+     "img": "produtos/14460.jpg",
+     "saldo": 24
+    },
+    {
+     "cod": 14469,
      "nome": "CANETA GEL/CONVITE MOLIN",
      "marca": "MOLIN",
      "preco": 9.5,
-     "img": "produtos/14465.jpg",
+     "img": "produtos/14469.jpg",
      "saldo": 24,
      "cores": [
-      {
-       "cod": 14465,
-       "cor": "Azul",
-       "nome": "CANETA GEL/CONVITE MOLIN-AZUL",
-       "img": "produtos/14465.jpg",
-       "saldo": 24
-      },
       {
        "cod": 14469,
        "cor": "Cinza",
@@ -824,22 +841,6 @@
        "saldo": 36
       }
      ]
-    },
-    {
-     "cod": 572,
-     "nome": "CANETA GEL/CONVITE MOLIN-BRANCA",
-     "marca": "MOLIN",
-     "preco": 10.9,
-     "img": "produtos/572.jpg",
-     "saldo": 24
-    },
-    {
-     "cod": 14460,
-     "nome": "CANETA GEL/CONVITE MOLIN-CHOCOLATE",
-     "marca": "MOLIN",
-     "preco": 9.5,
-     "img": "produtos/14460.jpg",
-     "saldo": 24
     },
     {
      "cod": 14467,
@@ -3585,7 +3586,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1503.jpg",
-     "saldo": 460
+     "saldo": 459
     },
     {
      "cod": 4463,
@@ -8869,7 +8870,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 801
+     "saldo": 800
     },
     {
      "cod": 4438,
@@ -8893,7 +8894,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 735
+     "saldo": 733
     },
     {
      "cod": 1021,
@@ -9103,7 +9104,7 @@
      "marca": "ADELBRAS",
      "preco": 20.9,
      "img": "produtos/11807.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 6836,
@@ -9111,7 +9112,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 298
+     "saldo": 276
     },
     {
      "cod": 1313,
@@ -9820,7 +9821,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/7685.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 982,
@@ -9890,7 +9891,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 92
+     "saldo": 91
     }
    ]
   },
@@ -10222,7 +10223,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 172
+     "saldo": 168
     },
     {
      "cod": 1977,
@@ -11482,7 +11483,7 @@
      "marca": "VMP",
      "preco": 0.8,
      "img": "produtos/2142.jpg",
-     "saldo": 240
+     "saldo": 239
     },
     {
      "cod": 2143,
@@ -18777,7 +18778,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 124
+     "saldo": 118
     }
    ]
   },
@@ -19365,7 +19366,7 @@
      "marca": "TODOLIVRO",
      "preco": 1.8,
      "img": "produtos/14662.jpg",
-     "saldo": 198
+     "saldo": 195
     },
     {
      "cod": 13556,
@@ -19461,7 +19462,7 @@
      "marca": "TODO LIVRO",
      "preco": 1.5,
      "img": "produtos/14658.jpg",
-     "saldo": 190
+     "saldo": 188
     },
     {
      "cod": 5281,
@@ -20212,7 +20213,7 @@
      "marca": "BORAKIBORA",
      "preco": 17.9,
      "img": "produtos/10143.jpg",
-     "saldo": 15
+     "saldo": 25
     },
     {
      "cod": 14362,
@@ -20936,7 +20937,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/13628.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 11514,
@@ -21612,7 +21613,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2681
+     "saldo": 2654
     },
     {
      "cod": 14414,
@@ -21884,7 +21885,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 131
+     "saldo": 126
     },
     {
      "cod": 2934,
@@ -22666,7 +22667,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 462
+     "saldo": 460
     },
     {
      "cod": 4146,
@@ -22682,7 +22683,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 399
+     "saldo": 397
     },
     {
      "cod": 2489,
@@ -22816,7 +22817,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 649
+     "saldo": 647
     },
     {
      "cod": 880,
@@ -23054,7 +23055,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 123
+     "saldo": 118
     },
     {
      "cod": 7343,
@@ -26194,7 +26195,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 298
+     "saldo": 295
     },
     {
      "cod": 6966,
@@ -27168,7 +27169,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/109.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 4727,
@@ -27421,7 +27422,7 @@
        "cor": "Prata",
        "nome": "FITA CETIM N2 10MMX10MT-PRATA",
        "img": "produtos/14132.jpg",
-       "saldo": 5
+       "saldo": 3
       },
       {
        "cod": 13754,
@@ -27533,7 +27534,7 @@
        "cor": "Pink",
        "nome": "FITILHO 50MT PINK",
        "img": "produtos/4779.jpg",
-       "saldo": 9
+       "saldo": 7
       },
       {
        "cod": 1325,
@@ -28014,7 +28015,7 @@
      "marca": "GERSELE",
      "preco": 1.5,
      "img": "produtos/9257.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 262,
@@ -28942,7 +28943,7 @@
      "marca": "THEGA",
      "preco": 15.9,
      "img": "produtos/14135.jpg",
-     "saldo": 49
+     "saldo": 45
     }
    ]
   },
@@ -29130,7 +29131,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4396.jpg",
-     "saldo": 26
+     "saldo": 24
     },
     {
      "cod": 4551,
@@ -29352,7 +29353,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 249
+     "saldo": 247
     },
     {
      "cod": 6529,
@@ -31869,7 +31870,7 @@
      "marca": "LEOARTE",
      "preco": 5.9,
      "img": "produtos/922.jpg",
-     "saldo": 25
+     "saldo": 22
     },
     {
      "cod": 6558,
