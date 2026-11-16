@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 956,
+     "saldo": 856,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 956
+       "saldo": 856
       },
       {
        "cod": 553,
@@ -2975,7 +2975,7 @@
      "marca": "LEO E LEO",
      "preco": 6.9,
      "img": "produtos/7530.jpg",
-     "saldo": 132
+     "saldo": 127
     },
     {
      "cod": 7528,
@@ -4130,7 +4130,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1984
+     "saldo": 1982
     },
     {
      "cod": 4341,
@@ -8510,7 +8510,7 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/831.jpg",
-     "saldo": 64
+     "saldo": 62
     },
     {
      "cod": 832,
@@ -8590,7 +8590,7 @@
      "marca": "TEKBOND",
      "preco": 14.9,
      "img": "produtos/4930.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 7159,
@@ -8694,7 +8694,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.0,
      "img": "produtos/3318.jpg",
-     "saldo": 76
+     "saldo": 74
     },
     {
      "cod": 14601,
@@ -8758,7 +8758,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 323
+     "saldo": 322
     },
     {
      "cod": 11926,
@@ -8900,7 +8900,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4213
+     "saldo": 4200
     },
     {
      "cod": 14619,
@@ -9110,7 +9110,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 11807,
@@ -9118,7 +9118,7 @@
      "marca": "ADELBRAS",
      "preco": 20.9,
      "img": "produtos/11807.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 6836,
@@ -10047,7 +10047,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 69
+     "saldo": 65
     },
     {
      "cod": 6612,
@@ -10803,7 +10803,7 @@
        "cor": "Preto",
        "nome": "COLORSETE A4 C/50 PRETO",
        "img": "produtos/2058.jpg",
-       "saldo": 14
+       "saldo": 11
       },
       {
        "cod": 2059,
@@ -10942,14 +10942,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 108,
+     "saldo": 106,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 108
+       "saldo": 106
       },
       {
        "cod": 2069,
@@ -10977,7 +10977,7 @@
        "cor": "Laranja",
        "nome": "CREPOM LARANJA",
        "img": "produtos/4715.jpg",
-       "saldo": 79
+       "saldo": 77
       },
       {
        "cod": 5076,
@@ -11026,7 +11026,7 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 32
+       "saldo": 30
       },
       {
        "cod": 2081,
@@ -11235,7 +11235,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 234
+     "saldo": 221
     },
     {
      "cod": 2007,
@@ -11313,7 +11313,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 11784,
@@ -16103,7 +16103,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 96
+       "saldo": 95
       },
       {
        "cod": 4830,
@@ -16124,7 +16124,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 176
+       "saldo": 174
       },
       {
        "cod": 1221,
@@ -16159,7 +16159,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 195
+       "saldo": 185
       }
      ]
     },
@@ -18224,7 +18224,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 27073
+     "saldo": 27023
     },
     {
      "cod": 1098,
@@ -19254,7 +19254,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 14261,
@@ -19278,7 +19278,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 325
+     "saldo": 324
     }
    ]
   },
@@ -21571,7 +21571,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 232
+     "saldo": 832
     },
     {
      "cod": 938,
@@ -21603,7 +21603,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 38
+     "saldo": 6288
     },
     {
      "cod": 944,
@@ -21619,7 +21619,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2706
+     "saldo": 2681
     },
     {
      "cod": 14414,
@@ -21643,7 +21643,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 90
+     "saldo": 1090
     },
     {
      "cod": 949,
@@ -21659,7 +21659,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 28
+     "saldo": 148
     },
     {
      "cod": 8806,
@@ -21678,12 +21678,28 @@
      "saldo": 291
     },
     {
+     "cod": 14408,
+     "nome": "COPO 500ML PS C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 10.9,
+     "img": "produtos/14408.jpg",
+     "saldo": 120
+    },
+    {
      "cod": 954,
      "nome": "COPO 500ML PS C/50-TOTAL",
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/954.jpg",
      "saldo": 432
+    },
+    {
+     "cod": 14403,
+     "nome": "COPO 50ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 2.9,
+     "img": "produtos/14403.jpg",
+     "saldo": 1000
     },
     {
      "cod": 3342,
@@ -21699,7 +21715,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 68
+     "saldo": 218
     },
     {
      "cod": 960,
@@ -21867,7 +21883,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 126
+     "saldo": 526
     },
     {
      "cod": 2923,
@@ -21891,7 +21907,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 131
+     "saldo": 531
     },
     {
      "cod": 2934,
@@ -22449,7 +22465,7 @@
      "marca": "ISOMAX",
      "preco": 10.9,
      "img": "produtos/772.jpg",
-     "saldo": 187
+     "saldo": 177
     },
     {
      "cod": 773,
@@ -22561,7 +22577,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 254
+     "saldo": 239
     },
     {
      "cod": 3731,
@@ -23061,7 +23077,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 123
+     "saldo": 523
     },
     {
      "cod": 7343,
@@ -23077,7 +23093,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 195
+     "saldo": 595
     },
     {
      "cod": 13873,
@@ -23705,7 +23721,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1018
+     "saldo": 4018
     },
     {
      "cod": 3857,
@@ -23713,7 +23729,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 236
+     "saldo": 1236
     },
     {
      "cod": 2552,
@@ -23721,7 +23737,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 185
+     "saldo": 435
     },
     {
      "cod": 3898,
@@ -23737,7 +23753,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 526
+     "saldo": 1526
     },
     {
      "cod": 11873,
@@ -25111,7 +25127,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 64
+     "saldo": 62
     },
     {
      "cod": 2718,
@@ -25255,7 +25271,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 138
+     "saldo": 136
     },
     {
      "cod": 8160,
@@ -26027,7 +26043,7 @@
      "marca": "",
      "preco": 42.9,
      "img": "produtos/3964.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 2877,
@@ -26113,7 +26129,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 186
+     "saldo": 185
     },
     {
      "cod": 13859,
@@ -26153,7 +26169,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 138
+     "saldo": 136
     },
     {
      "cod": 13853,
@@ -26423,7 +26439,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 2905,
@@ -26455,7 +26471,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 179
+     "saldo": 178
     },
     {
      "cod": 4314,
@@ -26597,7 +26613,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 756
+     "saldo": 696
     },
     {
      "cod": 236,
@@ -28507,7 +28523,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 508
+     "saldo": 503
     },
     {
      "cod": 6324,
@@ -31902,14 +31918,6 @@
      "preco": 9.9,
      "img": "produtos/2394.jpg",
      "saldo": 30
-    },
-    {
-     "cod": 13930,
-     "nome": "PLACA SINALIZ-PROIBIDO ESTACIONAR GARAGEM",
-     "marca": "GRESPAN",
-     "preco": 8.9,
-     "img": "produtos/13930.jpg",
-     "saldo": 1
     },
     {
      "cod": 12137,
