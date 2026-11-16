@@ -490,21 +490,21 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 871,
+     "saldo": 869,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 871
+       "saldo": 869
       },
       {
        "cod": 570,
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 732
+       "saldo": 730
       },
       {
        "cod": 571,
@@ -2526,7 +2526,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 547
+     "saldo": 546
     },
     {
      "cod": 5836,
@@ -2542,7 +2542,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 670
+     "saldo": 669
     },
     {
      "cod": 14124,
@@ -2849,14 +2849,14 @@
      "marca": "FABER",
      "preco": 2.0,
      "img": "produtos/3507.jpg",
-     "saldo": 76,
+     "saldo": 75,
      "cores": [
       {
        "cod": 3507,
        "cor": "Lilas",
        "nome": "LAPIS FABER GRIP-LILAS",
        "img": "produtos/3507.jpg",
-       "saldo": 76
+       "saldo": 75
       },
       {
        "cod": 3508,
@@ -3925,7 +3925,7 @@
      "marca": "LEO E LEO",
      "preco": 0.7,
      "img": "produtos/275.jpg",
-     "saldo": 464
+     "saldo": 463
     },
     {
      "cod": 277,
@@ -5066,7 +5066,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10903.jpg",
-     "saldo": 115
+     "saldo": 113
     },
     {
      "cod": 8255,
@@ -5122,7 +5122,7 @@
      "marca": "CREDEAL",
      "preco": 15.9,
      "img": "produtos/11432.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 12846,
@@ -5613,7 +5613,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8253.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 5610,
@@ -6041,7 +6041,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8395.jpg",
-     "saldo": 15
+     "saldo": 13
     },
     {
      "cod": 12963,
@@ -6049,7 +6049,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/12963.jpg",
-     "saldo": 71
+     "saldo": 67
     },
     {
      "cod": 351,
@@ -8011,7 +8011,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/787.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 790,
@@ -8642,20 +8642,20 @@
      "saldo": 9
     },
     {
+     "cod": 14421,
+     "nome": "COLA LIQUIDA 1000GR-APLICOLA",
+     "marca": "APLICOLA",
+     "preco": 22.9,
+     "img": "produtos/14421.jpg",
+     "saldo": 240
+    },
+    {
      "cod": 823,
      "nome": "COLA LIQUIDA 1000GR-CASCOREZ",
      "marca": "CASCOREZ",
      "preco": 58.9,
      "img": "produtos/823.jpg",
      "saldo": 11
-    },
-    {
-     "cod": 825,
-     "nome": "COLA LIQUIDA 1000GR-NEW MAGIC",
-     "marca": "NEW MAGIC",
-     "preco": 23.9,
-     "img": "produtos/825.jpg",
-     "saldo": 0
     },
     {
      "cod": 815,
@@ -8672,6 +8672,14 @@
      "preco": 6.9,
      "img": "produtos/816.jpg",
      "saldo": 282
+    },
+    {
+     "cod": 14418,
+     "nome": "COLA LIQUIDA 40GR-APLICOLA",
+     "marca": "APLICOLA",
+     "preco": 1.9,
+     "img": "produtos/14418.jpg",
+     "saldo": 720
     },
     {
      "cod": 7903,
@@ -8714,6 +8722,14 @@
      "saldo": 40
     },
     {
+     "cod": 14420,
+     "nome": "COLA LIQUIDA 500GR-APLICOLA",
+     "marca": "APLICOLA",
+     "preco": 12.9,
+     "img": "produtos/14420.jpg",
+     "saldo": 180
+    },
+    {
      "cod": 818,
      "nome": "COLA LIQUIDA 500GR-CASCOREZ",
      "marca": "CASCOREZ",
@@ -8728,6 +8744,14 @@
      "preco": 12.9,
      "img": "produtos/819.jpg",
      "saldo": 16
+    },
+    {
+     "cod": 14419,
+     "nome": "COLA LIQUIDA 90GR-APLICOLA",
+     "marca": "APLICOLA",
+     "preco": 2.9,
+     "img": "produtos/14419.jpg",
+     "saldo": 1920
     },
     {
      "cod": 7904,
@@ -8751,7 +8775,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 322
+     "saldo": 318
     },
     {
      "cod": 11926,
@@ -8861,7 +8885,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4199
+     "saldo": 4198
     },
     {
      "cod": 14619,
@@ -9701,7 +9725,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 54
+     "saldo": 52
     },
     {
      "cod": 6716,
@@ -9772,7 +9796,7 @@
      "marca": "MERCUR",
      "preco": 19.9,
      "img": "produtos/981.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 11867,
@@ -10270,7 +10294,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1982.jpg",
-     "saldo": 69
+     "saldo": 66
     },
     {
      "cod": 1983,
@@ -11196,7 +11220,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 215
+     "saldo": 213
     },
     {
      "cod": 2007,
@@ -11314,7 +11338,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 6667,
@@ -22694,7 +22718,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 83
+     "saldo": 82
     },
     {
      "cod": 2937,
@@ -22702,7 +22726,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 471
+     "saldo": 470
     },
     {
      "cod": 4146,
@@ -22710,7 +22734,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 2491,
@@ -22718,7 +22742,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 407
+     "saldo": 406
     },
     {
      "cod": 2489,
@@ -22734,7 +22758,7 @@
      "marca": "COPOPLAST",
      "preco": 29.9,
      "img": "produtos/7352.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14323,
@@ -22782,7 +22806,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 96
+     "saldo": 92
     },
     {
      "cod": 4733,
@@ -22790,7 +22814,7 @@
      "marca": "TOTAPLAST",
      "preco": 8.9,
      "img": "produtos/4733.jpg",
-     "saldo": 20
+     "saldo": 16
     },
     {
      "cod": 13885,
@@ -23165,20 +23189,12 @@
      "saldo": 96
     },
     {
-     "cod": 11691,
-     "nome": "POTE RETANG. 500ML C/24-TOTALPLAST",
-     "marca": "TOTALPLAST",
-     "preco": 21.9,
-     "img": "produtos/11691.jpg",
-     "saldo": 4
-    },
-    {
      "cod": 11690,
      "nome": "POTE RETANG. 750ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 51
+     "saldo": 48
     },
     {
      "cod": 2524,
@@ -25420,7 +25436,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/4939.jpg",
-     "saldo": 579
+     "saldo": 577
     },
     {
      "cod": 4940,
@@ -25730,7 +25746,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 424
+     "saldo": 423
     },
     {
      "cod": 2826,
@@ -25822,7 +25838,7 @@
        "cor": "Prata",
        "nome": "SACOLA PH 20X30 C/50-PRATA",
        "img": "produtos/3670.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 13963,
@@ -29938,7 +29954,7 @@
      "marca": "ENCOPA",
      "preco": 21.9,
      "img": "produtos/89.jpg",
-     "saldo": 35
+     "saldo": 32
     },
     {
      "cod": 168,
