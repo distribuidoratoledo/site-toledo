@@ -535,6 +535,192 @@
      ]
     },
     {
+     "id": "ceme-periodo2",
+     "ano": "2º Período (5 anos)",
+     "orcamento": 662862,
+     "itens": [
+      {
+       "descricao": "1 caixa de lápis de cor 24 cores para o 1º semestre",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor 24 cores para o 2º semestre",
+       "qtd": 1,
+       "cod": 1659,
+       "produto": "LAPIS 24CORES-MAPED",
+       "marca": "MAPED",
+       "preco": 28.9,
+       "foto": "listas/fotos/1659.jpg"
+      },
+      {
+       "descricao": "8 lápis pretos (4 para o 1º semestre e 4 para o 2º semestre)",
+       "qtd": 8,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg"
+      },
+      {
+       "descricao": "2 borrachas macias",
+       "qtd": 2,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg"
+      },
+      {
+       "descricao": "1 tesourinha sem ponta e de boa qualidade",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg"
+      },
+      {
+       "descricao": "1 apontador",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg"
+      },
+      {
+       "descricao": "1 caixa de giz de cera (BIG giz de cera)",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12 (SEXTAVADO)",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "obs": "Gizão Acrilex com 12 cores.",
+       "foto": "listas/fotos/1472.jpg"
+      },
+      {
+       "descricao": "1 caixa de tinta guache 12 cores",
+       "qtd": 1,
+       "cod": 3017,
+       "produto": "GUACHE 15ML C/12-ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 14.9,
+       "foto": "listas/fotos/3017.jpg"
+      },
+      {
+       "descricao": "1 pincel número 10 (chato)",
+       "qtd": 1,
+       "cod": 6378,
+       "produto": "PINCEL CHATO 10",
+       "marca": "TIGRE",
+       "preco": 4.5,
+       "foto": "listas/fotos/6378.jpg"
+      },
+      {
+       "descricao": "1 bolsinha para guardar os lápis (modelo simples, com poucas divisórias)",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "foto": "listas/fotos/8223.jpg"
+      },
+      {
+       "descricao": "1 cola de 90 g",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg"
+      },
+      {
+       "descricao": "1 pasta com alça",
+       "qtd": 1,
+       "cod": 1805,
+       "produto": "MALETA ESCOLAR 4CM-AZUL",
+       "marca": "POLIBRAS",
+       "preco": 19.9,
+       "foto": "listas/fotos/1805.jpg"
+      },
+      {
+       "descricao": "1 caixa de massinha para modelagem 15 cores à base de amido",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "A escola pede caixa com 15 unidades; a nossa caixa tem 12.",
+       "foto": "listas/fotos/1877.jpg"
+      },
+      {
+       "descricao": "1 livrinho de literatura em caixa alta",
+       "qtd": 1,
+       "cod": 14663,
+       "produto": "LIVRO INFAN.MEUS PRIMEIROS VALORES",
+       "marca": "TODO LIVRO",
+       "preco": 5.9,
+       "foto": "listas/fotos/14663.jpg"
+      },
+      {
+       "descricao": "1 jogo pedagógico de acordo com a idade da criança",
+       "qtd": 1,
+       "cod": 6043,
+       "produto": "BRINQUEDO PEDAG.MONTE BLOQUINHOS C/32",
+       "marca": "GGB PLAST",
+       "preco": 11.9,
+       "foto": "listas/fotos/6043.jpg"
+      },
+      {
+       "descricao": "1 revista em quadrinhos",
+       "qtd": 1,
+       "cod": 13546,
+       "produto": "GIBI DISNEY DIVERSOS",
+       "marca": "CULTURAMA",
+       "preco": 6.9,
+       "foto": "listas/fotos/13546.jpg"
+      },
+      {
+       "descricao": "1 garrafinha para água (enviada diariamente)",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "foto": "listas/fotos/10798.jpg"
+      },
+      {
+       "descricao": "1 toalha de mão (enviada semanalmente)",
+       "qtd": 1,
+       "cod": 8382,
+       "produto": "TOALHINHA ESCOLAR",
+       "marca": "CLAMATEX",
+       "preco": 8.9,
+       "foto": "listas/fotos/8382.jpg"
+      },
+      {
+       "descricao": "1 rolo de etiqueta para marcar o material com o nome do aluno",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Etiqueta preço média (rolo).",
+       "foto": "listas/fotos/6324.jpg"
+      }
+     ],
+     "observacoes": [
+      "A escola não permite mochila de rodinha na Educação Infantil (Maternal 1 ao 2º período).",
+      "Todo o material deve ser marcado com o nome da criança, inclusive o uniforme.",
+      "Início das aulas: 02/02/2027 (terça-feira)."
+     ]
+    },
+    {
      "original": "listas/originais/ceme-ano1.pdf",
      "id": "ceme-ano1",
      "ano": "1º Ano",
@@ -21639,5 +21825,5 @@
    ]
   }
  ],
- "atualizado": "16/11/2026 16:54"
+ "atualizado": "16/11/2026 17:13"
 }
