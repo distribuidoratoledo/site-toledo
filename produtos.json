@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2047
+       "saldo": 2032
       },
       {
        "cod": 554,
@@ -451,7 +451,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 86
+       "saldo": 84
       },
       {
        "cod": 566,
@@ -3628,7 +3628,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 36
+     "saldo": 48
     },
     {
      "cod": 12247,
@@ -8618,7 +8618,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 846,
@@ -8912,21 +8912,21 @@
      "marca": "ADELBRAS",
      "preco": 1.5,
      "img": "produtos/1021.jpg",
-     "saldo": 546,
+     "saldo": 545,
      "cores": [
       {
        "cod": 1021,
        "cor": "Amarelo",
        "nome": "DUREX COLOR.12X10M-AMARELO",
        "img": "produtos/1021.jpg",
-       "saldo": 546
+       "saldo": 545
       },
       {
        "cod": 1022,
        "cor": "Azul",
        "nome": "DUREX COLOR.12X10M-AZUL",
        "img": "produtos/1022.jpg",
-       "saldo": 425
+       "saldo": 423
       },
       {
        "cod": 1023,
@@ -8940,7 +8940,7 @@
        "cor": "Rosa",
        "nome": "DUREX COLOR.12X10M-ROSA",
        "img": "produtos/1025.jpg",
-       "saldo": 209
+       "saldo": 208
       },
       {
        "cod": 1026,
@@ -8954,7 +8954,7 @@
        "cor": "Vermelho",
        "nome": "DUREX COLOR.12X10M-VERMELHO",
        "img": "produtos/1027.jpg",
-       "saldo": 553
+       "saldo": 551
       }
      ]
     },
@@ -9074,7 +9074,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 134
+     "saldo": 133
     },
     {
      "cod": 1020,
@@ -9130,7 +9130,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1271
+     "saldo": 1266
     },
     {
      "cod": 4389,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 181
+     "saldo": 180
     },
     {
      "cod": 2007,
@@ -12028,51 +12028,6 @@
      "preco": 10.9,
      "img": "produtos/3029.jpg",
      "saldo": 50
-    },
-    {
-     "cod": 3570,
-     "nome": "GUACHE 250ML EVIDENT",
-     "marca": "EVIDENT",
-     "preco": 8.9,
-     "img": "produtos/3570.jpg",
-     "saldo": 24,
-     "cores": [
-      {
-       "cod": 3570,
-       "cor": "Azul Royal",
-       "nome": "GUACHE 250ML EVIDENT AZUL ROYAL",
-       "img": "produtos/3570.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3030,
-       "cor": "Branca",
-       "nome": "GUACHE 250ML EVIDENT BRANCA",
-       "img": "produtos/3030.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3031,
-       "cor": "Laranja",
-       "nome": "GUACHE 250ML EVIDENT LARANJA",
-       "img": "produtos/3031.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3571,
-       "cor": "Preto",
-       "nome": "GUACHE 250ML EVIDENT PRETO",
-       "img": "produtos/3571.jpg",
-       "saldo": 24
-      },
-      {
-       "cod": 3032,
-       "cor": "Verde Bandeira",
-       "nome": "GUACHE 250ML EVIDENT VERDE BANDEIRA",
-       "img": "produtos/3032.jpg",
-       "saldo": 24
-      }
-     ]
     },
     {
      "cod": 3033,
@@ -18265,7 +18220,7 @@
      "marca": "SCRITY",
      "preco": 0.15,
      "img": "produtos/1098.jpg",
-     "saldo": 272
+     "saldo": 172
     },
     {
      "cod": 1039,
@@ -18441,7 +18396,7 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1062.jpg",
-     "saldo": 8287
+     "saldo": 8267
     },
     {
      "cod": 3386,
@@ -21628,7 +21583,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 250
+     "saldo": 225
     },
     {
      "cod": 945,
@@ -21644,7 +21599,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 32
+     "saldo": 30
     },
     {
      "cod": 944,
@@ -22074,7 +22029,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/4617.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 4060,
@@ -25064,7 +25019,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 980
+     "saldo": 979
     },
     {
      "cod": 2707,
@@ -25072,7 +25027,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 2709,
@@ -25360,7 +25315,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 295
+     "saldo": 293
     },
     {
      "cod": 14426,
@@ -26700,7 +26655,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 1277,
@@ -26850,7 +26805,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 693
+     "saldo": 692
     },
     {
      "cod": 2760,
@@ -28674,7 +28629,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/14230.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 7836,
@@ -28966,7 +28921,7 @@
      "marca": "REDINHA",
      "preco": 3.5,
      "img": "produtos/2608.jpg",
-     "saldo": 9
+     "saldo": 5
     },
     {
      "cod": 2609,
@@ -29360,7 +29315,7 @@
      "marca": "TENDERLY",
      "preco": 12.9,
      "img": "produtos/13944.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 12118,
@@ -29408,7 +29363,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 305
+     "saldo": 295
     },
     {
      "cod": 2157,
@@ -29575,14 +29530,6 @@
      "saldo": 1
     },
     {
-     "cod": 9680,
-     "nome": "PORTA COPO 50ML-ESMALTADO (GLOBO)",
-     "marca": "GLOBO",
-     "preco": 35.9,
-     "img": "produtos/9680.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 9681,
      "nome": "PORTA COPO 50ML-INOX (GLOBO)",
      "marca": "GLOBO",
@@ -29644,7 +29591,7 @@
      "marca": "BELL PLUS",
      "preco": 45.9,
      "img": "produtos/6345.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2651,
