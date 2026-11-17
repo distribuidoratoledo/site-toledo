@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 692,
+     "saldo": 691,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 692
+       "saldo": 691
       },
       {
        "cod": 553,
@@ -6833,7 +6833,7 @@
      "marca": "SD",
      "preco": 19.9,
      "img": "produtos/8550.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 12806,
@@ -12266,7 +12266,7 @@
      "marca": "TIGRE",
      "preco": 3.9,
      "img": "produtos/6046.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 2673,
@@ -13563,7 +13563,7 @@
      "marca": "MAXCRIL",
      "preco": 46.9,
      "img": "produtos/1013.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 14489,
@@ -18634,7 +18634,7 @@
      "marca": "GRESPAN",
      "preco": 16.9,
      "img": "produtos/7400.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 13982,
@@ -23543,7 +23543,7 @@
      "marca": "",
      "preco": 66.9,
      "img": "produtos/1368.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 14427,
@@ -25235,7 +25235,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 10061,
@@ -25523,7 +25523,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 2806,
@@ -25761,7 +25761,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 358
+     "saldo": 348
     },
     {
      "cod": 2826,
@@ -26055,7 +26055,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 827
+     "saldo": 825
     },
     {
      "cod": 6855,
@@ -26888,14 +26888,6 @@
      "saldo": 864
     },
     {
-     "cod": 2761,
-     "nome": "SACO KRAFT 3KG C/100 (CAIXA)",
-     "marca": "IEC",
-     "preco": 9.9,
-     "img": "produtos/2761.jpg",
-     "saldo": 0
-    },
-    {
      "cod": 4936,
      "nome": "SACO KRAFT 3KG C/100 (FARDO)",
      "marca": "CHIARA",
@@ -27109,7 +27101,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 11952,
@@ -28567,7 +28559,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 492
+     "saldo": 490
     },
     {
      "cod": 6323,
@@ -28985,7 +28977,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 342
+     "saldo": 341
     },
     {
      "cod": 2608,
@@ -31897,7 +31889,7 @@
        "cor": "Azul Claro",
        "nome": "CONTACT LISO-AZUL CLARO",
        "img": "produtos/7636.jpg",
-       "saldo": 52
+       "saldo": 50
       },
       {
        "cod": 10000,
@@ -32038,7 +32030,7 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg",
-     "saldo": 1458
+     "saldo": 1456
     },
     {
      "cod": 14579,
