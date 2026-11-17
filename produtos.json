@@ -49,14 +49,14 @@
      "marca": "BIC",
      "preco": 3.9,
      "img": "produtos/3794.jpg",
-     "saldo": 37,
+     "saldo": 36,
      "cores": [
       {
        "cod": 3794,
        "cor": "Azul",
        "nome": "CANETA BIC BOLD 1.6-AZUL",
        "img": "produtos/3794.jpg",
-       "saldo": 37
+       "saldo": 36
       },
       {
        "cod": 550,
@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 124
+       "saldo": 114
       },
       {
        "cod": 563,
@@ -1328,14 +1328,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/603.jpg",
-     "saldo": 36,
+     "saldo": 33,
      "cores": [
       {
        "cod": 603,
        "cor": "Preta",
        "nome": "CANETA PILOT COMUM-PRETA",
        "img": "produtos/603.jpg",
-       "saldo": 36
+       "saldo": 33
       },
       {
        "cod": 604,
@@ -1352,14 +1352,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/605.jpg",
-     "saldo": 17,
+     "saldo": 14,
      "cores": [
       {
        "cod": 605,
        "cor": "Azul",
        "nome": "CANETA PILOT GRIP 0.7-AZUL",
        "img": "produtos/605.jpg",
-       "saldo": 17
+       "saldo": 14
       },
       {
        "cod": 606,
@@ -4250,7 +4250,7 @@
      "marca": "MERCUR",
      "preco": 2.5,
      "img": "produtos/3223.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 13084,
@@ -5721,6 +5721,14 @@
      "preco": 21.9,
      "img": "produtos/11443.jpg",
      "saldo": 4
+    },
+    {
+     "cod": 10469,
+     "nome": "CADERNO 1X1 80F-FUTEBOL (SCORE) CONNECT",
+     "marca": "TILIBRA",
+     "preco": 26.9,
+     "img": "produtos/10469.jpg",
+     "saldo": 1
     },
     {
      "cod": 8402,
@@ -8880,7 +8888,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 2008
+     "saldo": 2003
     },
     {
      "cod": 1031,
@@ -9122,7 +9130,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1113
+     "saldo": 1111
     },
     {
      "cod": 4389,
@@ -9130,7 +9138,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 700
+     "saldo": 695
     },
     {
      "cod": 1317,
@@ -9176,7 +9184,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 1519,
@@ -10035,7 +10043,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 6612,
@@ -10321,7 +10329,7 @@
      "marca": "TILIBRA",
      "preco": 4.0,
      "img": "produtos/2602.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 2605,
@@ -10385,7 +10393,7 @@
      "marca": "TILIBRA",
      "preco": 2.3,
      "img": "produtos/3097.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 3099,
@@ -11223,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 110
+     "saldo": 106
     },
     {
      "cod": 2007,
@@ -14177,14 +14185,6 @@
      "preco": 25.9,
      "img": "produtos/2648.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 4065,
-     "nome": "RELOGIO PAREDE 24,5CM REDONDO PRETO",
-     "marca": "AMBIENTE",
-     "preco": 25.9,
-     "img": "produtos/4065.jpg",
-     "saldo": 1
     },
     {
      "cod": 12095,
@@ -19234,7 +19234,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 14261,
@@ -21615,7 +21615,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6212
+     "saldo": 6211
     },
     {
      "cod": 944,
@@ -21631,7 +21631,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2454
+     "saldo": 2451
     },
     {
      "cod": 14414,
@@ -21671,7 +21671,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 28
+     "saldo": 26
     },
     {
      "cod": 8806,
@@ -22851,7 +22851,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 636
+     "saldo": 634
     },
     {
      "cod": 880,
@@ -23717,7 +23717,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 998
+     "saldo": 988
     },
     {
      "cod": 3857,
@@ -25171,7 +25171,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 2718,
@@ -25777,7 +25777,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 4362,
@@ -25785,7 +25785,7 @@
      "marca": "PACKFORT",
      "preco": 25.9,
      "img": "produtos/4362.jpg",
-     "saldo": 197
+     "saldo": 196
     },
     {
      "cod": 2837,
@@ -26253,7 +26253,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 124
+     "saldo": 122
     },
     {
      "cod": 6965,
@@ -26293,7 +26293,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 90
+     "saldo": 87
     },
     {
      "cod": 6857,
@@ -26507,7 +26507,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2347
+     "saldo": 2346
     },
     {
      "cod": 2896,
@@ -26539,7 +26539,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 937
+     "saldo": 936
     },
     {
      "cod": 2900,
@@ -26547,7 +26547,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 79
+     "saldo": 78
     },
     {
      "cod": 2901,
@@ -26743,7 +26743,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 119
+     "saldo": 118
     },
     {
      "cod": 3427,
@@ -29403,7 +29403,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 249
+     "saldo": 247
     },
     {
      "cod": 2152,
@@ -29419,7 +29419,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 227
+     "saldo": 223
     },
     {
      "cod": 6529,
@@ -31299,14 +31299,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 288,
+     "saldo": 284,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 288
+       "saldo": 284
       },
       {
        "cod": 6051,
