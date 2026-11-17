@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 804,
+     "saldo": 803,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 804
+       "saldo": 803
       },
       {
        "cod": 556,
@@ -4656,14 +4656,14 @@
      "marca": "LORIGRAF",
      "preco": 23.9,
      "img": "produtos/14313.jpg",
-     "saldo": 17,
+     "saldo": 16,
      "cores": [
       {
        "cod": 14313,
        "cor": "Azul",
        "nome": "AGENDA COMERCIAL ESPIRAL 352FLS AZUL",
        "img": "produtos/14313.jpg",
-       "saldo": 17
+       "saldo": 16
       },
       {
        "cod": 14312,
@@ -7641,7 +7641,7 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 79
+       "saldo": 78
       },
       {
        "cod": 12455,
@@ -8738,7 +8738,7 @@
      "marca": "CASCOREZ",
      "preco": 32.9,
      "img": "produtos/818.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 819,
@@ -8988,7 +8988,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 524
+     "saldo": 523
     },
     {
      "cod": 1293,
@@ -9122,7 +9122,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1116
+     "saldo": 1114
     },
     {
      "cod": 4389,
@@ -11453,7 +11453,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 297
+     "saldo": 197
     },
     {
      "cod": 2139,
@@ -15639,7 +15639,7 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 4432,
@@ -16155,7 +16155,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 263
+       "saldo": 261
       }
      ]
     },
@@ -21021,7 +21021,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 1478,
@@ -23979,7 +23979,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 31
+     "saldo": 26
     },
     {
      "cod": 7070,
@@ -26039,7 +26039,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2388
+     "saldo": 2386
     },
     {
      "cod": 6821,
@@ -26047,7 +26047,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 825
+     "saldo": 824
     },
     {
      "cod": 6855,
@@ -26063,7 +26063,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 722
+     "saldo": 721
     },
     {
      "cod": 6825,
@@ -26253,7 +26253,7 @@
      "marca": "HIPER ROLL",
      "preco": 39.9,
      "img": "produtos/6965.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 254,
@@ -29489,7 +29489,7 @@
      "marca": "",
      "preco": 17.9,
      "img": "produtos/9829.jpg",
-     "saldo": 27
+     "saldo": 25
     },
     {
      "cod": 6754,
