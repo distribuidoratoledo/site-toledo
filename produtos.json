@@ -135,7 +135,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/7292.jpg",
-     "saldo": 102
+     "saldo": 100
     },
     {
      "cod": 555,
@@ -568,14 +568,14 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/576.jpg",
-     "saldo": 95,
+     "saldo": 94,
      "cores": [
       {
        "cod": 576,
        "cor": "Azul",
        "nome": "CANETA FABER TRILUX-AZUL",
        "img": "produtos/576.jpg",
-       "saldo": 95
+       "saldo": 94
       },
       {
        "cod": 5398,
@@ -2757,7 +2757,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 33,
+     "saldo": 31,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2769,10 +2769,10 @@
      "saldo_cor": {
       "AMARELO": 8,
       "AZUL": 5,
-      "LILAS": 5,
+      "LILAS": 4,
       "ROSA": 7,
       "SALMÃO": 4,
-      "VERDE": 4
+      "VERDE": 3
      }
     },
     {
@@ -2979,7 +2979,7 @@
      "marca": "LEO E LEO",
      "preco": 4.9,
      "img": "produtos/7529.jpg",
-     "saldo": 49
+     "saldo": 47
     },
     {
      "cod": 8069,
@@ -3065,7 +3065,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 3604,
@@ -3274,7 +3274,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR. BRW-VERMELHO",
        "img": "produtos/11856.jpg",
-       "saldo": 10
+       "saldo": 11
       }
      ]
     },
@@ -3944,7 +3944,7 @@
      "marca": "LEO E LEO",
      "preco": 0.25,
      "img": "produtos/278.jpg",
-     "saldo": 327
+     "saldo": 325
     },
     {
      "cod": 14556,
@@ -4933,7 +4933,7 @@
      "marca": "CREDEAL",
      "preco": 49.9,
      "img": "produtos/12554.jpg",
-     "saldo": 18
+     "saldo": 16
     },
     {
      "cod": 12437,
@@ -5173,7 +5173,7 @@
      "marca": "SD",
      "preco": 53.9,
      "img": "produtos/13168.jpg",
-     "saldo": 10
+     "saldo": 7
     },
     {
      "cod": 12401,
@@ -7688,7 +7688,7 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/438.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 12456,
@@ -7728,7 +7728,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 3249,
@@ -7918,7 +7918,7 @@
      "marca": "BACCHI",
      "preco": 8.5,
      "img": "produtos/3314.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 781,
@@ -8330,7 +8330,7 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/14591.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 805,
@@ -8346,7 +8346,7 @@
      "marca": "LEO E LEO",
      "preco": 1.3,
      "img": "produtos/808.jpg",
-     "saldo": 192
+     "saldo": 190
     },
     {
      "cod": 807,
@@ -8794,7 +8794,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 10944,
@@ -9090,7 +9090,7 @@
      "marca": "FOXLUX",
      "preco": 4.9,
      "img": "produtos/6521.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 11717,
@@ -9122,7 +9122,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 253
+     "saldo": 252
     },
     {
      "cod": 1313,
@@ -9130,7 +9130,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1111
+     "saldo": 1110
     },
     {
      "cod": 4389,
@@ -9758,7 +9758,7 @@
        "cor": "Branca",
        "nome": "CORRETIVO CANETA 8ML MERCUR (BRANCA)",
        "img": "produtos/978.jpg",
-       "saldo": 72
+       "saldo": 71
       },
       {
        "cod": 7906,
@@ -10687,7 +10687,7 @@
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 82
+       "saldo": 81
       },
       {
        "cod": 2036,
@@ -10851,14 +10851,14 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 317,
+     "saldo": 313,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 317
+       "saldo": 313
       },
       {
        "cod": 4181,
@@ -10928,7 +10928,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 115
+       "saldo": 113
       }
      ]
     },
@@ -11001,7 +11001,7 @@
        "cor": "Preto",
        "nome": "CREPOM PRETO",
        "img": "produtos/4788.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 7379,
@@ -11325,7 +11325,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 207
+     "saldo": 206
     },
     {
      "cod": 2100,
@@ -11349,7 +11349,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 48
+     "saldo": 13
     },
     {
      "cod": 6667,
@@ -12458,7 +12458,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/2954.jpg",
-     "saldo": 195
+     "saldo": 193
     },
     {
      "cod": 2955,
@@ -13856,7 +13856,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/14688.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 7493,
@@ -14898,7 +14898,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/14441.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 6744,
@@ -16293,7 +16293,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 338
+       "saldo": 336
       },
       {
        "cod": 1244,
@@ -21911,7 +21911,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 126
+     "saldo": 124
     },
     {
      "cod": 2934,
@@ -22248,20 +22248,12 @@
      "saldo": 1
     },
     {
-     "cod": 9922,
-     "nome": "BOLA ISOPOR 90MM (MACIÇA)",
-     "marca": "ISOMAX",
-     "preco": 5.5,
-     "img": "produtos/9922.jpg",
-     "saldo": 12
-    },
-    {
      "cod": 9931,
      "nome": "BOLO FAKE 15X10CM",
      "marca": "ISOMAX",
      "preco": 3.9,
      "img": "produtos/9931.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 9932,
@@ -22693,7 +22685,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 428
+     "saldo": 427
     },
     {
      "cod": 4146,
@@ -22709,7 +22701,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 373
+     "saldo": 372
     },
     {
      "cod": 3887,
@@ -22749,7 +22741,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3536.jpg",
-     "saldo": 103
+     "saldo": 99
     },
     {
      "cod": 3989,
@@ -22851,7 +22843,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 634
+     "saldo": 633
     },
     {
      "cod": 880,
@@ -22978,14 +22970,6 @@
      "preco": 12.9,
      "img": "produtos/2507.jpg",
      "saldo": 122
-    },
-    {
-     "cod": 2493,
-     "nome": "POTE (KIT) 1000ML C/24-RIOPLASTIC",
-     "marca": "RIOPLASTIC",
-     "preco": 32.9,
-     "img": "produtos/2493.jpg",
-     "saldo": 1
     },
     {
      "cod": 11829,
@@ -25539,7 +25523,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 661
+     "saldo": 660
     },
     {
      "cod": 2808,
@@ -25753,7 +25737,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 893
+     "saldo": 883
     },
     {
      "cod": 10972,
@@ -25761,7 +25745,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 346
+     "saldo": 336
     },
     {
      "cod": 2826,
@@ -25777,7 +25761,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 91
+     "saldo": 89
     },
     {
      "cod": 4362,
@@ -26221,7 +26205,7 @@
      "marca": "HIPERROLL",
      "preco": 16.9,
      "img": "produtos/13853.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 252,
@@ -26869,7 +26853,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 667
+     "saldo": 662
     },
     {
      "cod": 2760,
@@ -26941,7 +26925,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2784.jpg",
-     "saldo": 149
+     "saldo": 144
     },
     {
      "cod": 2785,
@@ -31482,7 +31466,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 142,
+     "saldo": 138,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31493,11 +31477,11 @@
      ],
      "saldo_cor": {
       "AMARELO": 24,
-      "AZUL": 23,
+      "AZUL": 22,
       "LARANJA": 24,
-      "LILAS": 23,
+      "LILAS": 21,
       "ROSA": 24,
-      "VERDE": 24
+      "VERDE": 23
      }
     },
     {
@@ -32071,14 +32055,6 @@
    "nome": "Capa Pronta para Caderno",
    "itens": [
     {
-     "cod": 668,
-     "nome": "CAPA PRONTA BROCH. C/5 (80/60FL)",
-     "marca": "MAXI P.",
-     "preco": 12.5,
-     "img": "produtos/668.jpg",
-     "saldo": 50
-    },
-    {
      "cod": 667,
      "nome": "PROTETOR  ALIBOM. CART.C/5-CAPA PRONTA",
      "marca": "MAXI P.",
@@ -32093,6 +32069,14 @@
      "preco": 12.5,
      "img": "produtos/3728.jpg",
      "saldo": 11
+    },
+    {
+     "cod": 668,
+     "nome": "PROTETOR BROCH. C/5 (80/60FL)-CAPA PRONTA",
+     "marca": "MAXI P.",
+     "preco": 12.5,
+     "img": "produtos/668.jpg",
+     "saldo": 50
     },
     {
      "cod": 670,
