@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 640,
+     "saldo": 590,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 640
+       "saldo": 590
       },
       {
        "cod": 553,
@@ -3536,14 +3536,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 130,
+     "saldo": 118,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 130
+       "saldo": 118
       },
       {
        "cod": 2657,
@@ -8140,7 +8140,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 508,
@@ -9893,7 +9893,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 89
+     "saldo": 88
     }
    ]
   },
@@ -11223,7 +11223,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 98
+     "saldo": 84
     },
     {
      "cod": 2007,
@@ -18188,7 +18188,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 23943
+     "saldo": 22943
     },
     {
      "cod": 1098,
@@ -18922,7 +18922,7 @@
      "marca": "MP/JOC/NFX",
      "preco": 11.9,
      "img": "produtos/6619.jpg",
-     "saldo": 138
+     "saldo": 137
     },
     {
      "cod": 2477,
@@ -21583,7 +21583,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 832
+     "saldo": 232
     },
     {
      "cod": 938,
@@ -21615,7 +21615,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 12491
+     "saldo": 6241
     },
     {
      "cod": 944,
@@ -21631,7 +21631,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2460
+     "saldo": 2454
     },
     {
      "cod": 14414,
@@ -21655,7 +21655,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 1063
+     "saldo": 63
     },
     {
      "cod": 949,
@@ -21671,7 +21671,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 148
+     "saldo": 28
     },
     {
      "cod": 8806,
@@ -21690,14 +21690,6 @@
      "saldo": 291
     },
     {
-     "cod": 14408,
-     "nome": "COPO 500ML PS C/50-COPOMAIS",
-     "marca": "COPOMAIS",
-     "preco": 10.9,
-     "img": "produtos/14408.jpg",
-     "saldo": 120
-    },
-    {
      "cod": 954,
      "nome": "COPO 500ML PS C/50-TOTAL",
      "marca": "TOTALPLAST",
@@ -21711,7 +21703,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 2000
+     "saldo": 1000
     },
     {
      "cod": 3342,
@@ -21727,7 +21719,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 217
+     "saldo": 67
     },
     {
      "cod": 960,
@@ -21895,7 +21887,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 526
+     "saldo": 126
     },
     {
      "cod": 2923,
@@ -21919,7 +21911,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 526
+     "saldo": 126
     },
     {
      "cod": 2934,
@@ -23089,7 +23081,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 515
+     "saldo": 115
     },
     {
      "cod": 7343,
@@ -23105,7 +23097,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 595
+     "saldo": 195
     },
     {
      "cod": 13873,
@@ -23717,7 +23709,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 4002
+     "saldo": 1002
     },
     {
      "cod": 3857,
@@ -23725,7 +23717,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1226
+     "saldo": 226
     },
     {
      "cod": 2552,
@@ -23733,7 +23725,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 435
+     "saldo": 185
     },
     {
      "cod": 3898,
@@ -23749,7 +23741,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 1522
+     "saldo": 522
     },
     {
      "cod": 11873,
@@ -25219,7 +25211,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2722.jpg",
-     "saldo": 66
+     "saldo": 60
     },
     {
      "cod": 2723,
@@ -25699,7 +25691,7 @@
      "marca": "",
      "preco": 11.9,
      "img": "produtos/7173.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 4058,
@@ -26055,7 +26047,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 824
+     "saldo": 724
     },
     {
      "cod": 6855,
@@ -26095,7 +26087,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 189
+     "saldo": 187
     }
    ]
   },
