@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 537,
+     "saldo": 535,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 537
+       "saldo": 535
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2013
+       "saldo": 2012
       },
       {
        "cod": 554,
@@ -950,7 +950,7 @@
      "marca": "TRIS",
      "preco": 16.9,
      "img": "produtos/14550.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "AZUL",
       "ROSA",
@@ -959,7 +959,7 @@
      ],
      "saldo_cor": {
       "AZUL": 6,
-      "ROSA": 6,
+      "ROSA": 5,
       "ROXO": 6,
       "VERDE-ÁGUA": 6
      }
@@ -3596,7 +3596,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 565
+     "saldo": 564
     },
     {
      "cod": 1507,
@@ -6060,7 +6060,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/12963.jpg",
-     "saldo": 67
+     "saldo": 65
     },
     {
      "cod": 351,
@@ -7159,7 +7159,7 @@
      "marca": "MAXIMA",
      "preco": 14.9,
      "img": "produtos/8384.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 8386,
@@ -8602,7 +8602,7 @@
      "marca": "ALMASUPER",
      "preco": 9.9,
      "img": "produtos/7159.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 844,
@@ -8706,7 +8706,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.0,
      "img": "produtos/3318.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 14601,
@@ -9122,7 +9122,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 251
+     "saldo": 231
     },
     {
      "cod": 1313,
@@ -9592,7 +9592,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 466
+     "saldo": 465
     },
     {
      "cod": 10030,
@@ -10593,7 +10593,7 @@
        "cor": "Branco",
        "nome": "CARTAO-BRANCO",
        "img": "produtos/3308.jpg",
-       "saldo": 47
+       "saldo": 46
       },
       {
        "cod": 744,
@@ -11231,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 2007,
@@ -11309,7 +11309,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 11784,
@@ -11349,7 +11349,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 13
+     "saldo": 8
     },
     {
      "cod": 6667,
@@ -11982,7 +11982,7 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 55
+       "saldo": 54
       },
       {
        "cod": 3025,
@@ -12378,7 +12378,7 @@
      "marca": "COLORE",
      "preco": 24.9,
      "img": "produtos/4716.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 8786,
@@ -12847,13 +12847,6 @@
        "nome": "TINTA TECIDO 37ML-PRETO",
        "img": "produtos/3011.jpg",
        "saldo": 1
-      },
-      {
-       "cod": 3014,
-       "cor": "Verde Bandeira",
-       "nome": "TINTA TECIDO 37ML-VERDE BANDEIRA",
-       "img": "produtos/3014.jpg",
-       "saldo": 1
       }
      ]
     },
@@ -13269,7 +13262,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/4334.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 2907,
@@ -14264,7 +14257,7 @@
      "marca": "MASTERPRIN",
      "preco": 39.9,
      "img": "produtos/6627.jpg",
-     "saldo": 39
+     "saldo": 37
     }
    ]
   },
@@ -14810,14 +14803,14 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/6799.jpg",
-     "saldo": 8,
+     "saldo": 7,
      "cores": [
       {
        "cod": 6799,
        "cor": "Amarela",
        "nome": "PASTA L A4 AMARELA",
        "img": "produtos/6799.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 6800,
@@ -15920,7 +15913,7 @@
        "cor": "Rosa",
        "nome": "TESOURA S/P ACRILEX-ROSA (LETRAS)",
        "img": "produtos/12737.jpg",
-       "saldo": 45
+       "saldo": 44
       }
      ]
     },
@@ -16113,7 +16106,7 @@
        "cor": "Marrom",
        "nome": "EVA GLITER-MARROM",
        "img": "produtos/1219.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 1220,
@@ -16134,7 +16127,7 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 1223,
@@ -16181,14 +16174,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 249,
+     "saldo": 248,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 249
+       "saldo": 248
       },
       {
        "cod": 1230,
@@ -16202,7 +16195,7 @@
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg",
-       "saldo": 127
+       "saldo": 126
       },
       {
        "cod": 6669,
@@ -16223,7 +16216,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 126
+       "saldo": 125
       },
       {
        "cod": 1233,
@@ -16237,7 +16230,7 @@
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 323
+       "saldo": 321
       },
       {
        "cod": 1236,
@@ -16251,7 +16244,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 70
+       "saldo": 69
       },
       {
        "cod": 1238,
@@ -16286,21 +16279,21 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 197
+       "saldo": 196
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 336
+       "saldo": 334
       },
       {
        "cod": 1244,
        "cor": "Vermelho",
        "nome": "EVA LISO-VERMELHO",
        "img": "produtos/1244.jpg",
-       "saldo": 205
+       "saldo": 204
       }
      ]
     },
@@ -20947,7 +20940,7 @@
      "marca": "VMP",
      "preco": 3.9,
      "img": "produtos/7.jpg",
-     "saldo": 291
+     "saldo": 290
     },
     {
      "cod": 13698,
@@ -21802,6 +21795,14 @@
      "saldo": 41
     },
     {
+     "cod": 7011,
+     "nome": "COPO TERMICO 70ML C/20-TOTAL (ISOPOR)",
+     "marca": "TOTALPLAST",
+     "preco": 3.9,
+     "img": "produtos/7011.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 9745,
      "nome": "COPO TERMICO 85ML C/50-VABENE (PAPEL)",
      "marca": "VABENE",
@@ -22021,7 +22022,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/4617.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 4060,
@@ -22653,7 +22654,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 427
+     "saldo": 426
     },
     {
      "cod": 4146,
@@ -22669,7 +22670,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 372
+     "saldo": 371
     },
     {
      "cod": 3887,
@@ -24597,7 +24598,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 218
+     "saldo": 217
     },
     {
      "cod": 7305,
@@ -25083,7 +25084,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2712.jpg",
-     "saldo": 206
+     "saldo": 205
     },
     {
      "cod": 2711,
@@ -28025,7 +28026,7 @@
      "marca": "GERSELE",
      "preco": 1.5,
      "img": "produtos/9257.jpg",
-     "saldo": 20
+     "saldo": 16
     },
     {
      "cod": 262,
