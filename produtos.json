@@ -1686,6 +1686,14 @@
      ]
     },
     {
+     "cod": 11570,
+     "nome": "CANETINHA C/10-MAPED MAGIC",
+     "marca": "MAPED",
+     "preco": 25.9,
+     "img": "produtos/11570.jpg",
+     "saldo": 12
+    },
+    {
      "cod": 10612,
      "nome": "CANETINHA C/12-CIS",
      "marca": "CIS",
@@ -1695,27 +1703,27 @@
     },
     {
      "cod": 13054,
-     "nome": "CANETINHA C/12-CIS (HIDROCOR)",
+     "nome": "CANETINHA C/12-CIS HIDROCOR",
      "marca": "CIS",
      "preco": 15.9,
      "img": "produtos/13054.jpg",
      "saldo": 14
     },
     {
-     "cod": 12959,
-     "nome": "CANETINHA C/12-FABER MAGIC (10 CORES+2MAGICAS)",
-     "marca": "FABER",
-     "preco": 24.9,
-     "img": "produtos/12959.jpg",
-     "saldo": 10
-    },
-    {
      "cod": 6775,
-     "nome": "CANETINHA C/12-MIRIM COMPACTOR",
+     "nome": "CANETINHA C/12-COMPACTOR",
      "marca": "COMPACTOR",
      "preco": 12.9,
      "img": "produtos/6775.jpg",
      "saldo": 48
+    },
+    {
+     "cod": 12959,
+     "nome": "CANETINHA C/12-FABER MAGIC",
+     "marca": "FABER",
+     "preco": 24.9,
+     "img": "produtos/12959.jpg",
+     "saldo": 10
     },
     {
      "cod": 12306,
@@ -1727,7 +1735,7 @@
     },
     {
      "cod": 14475,
-     "nome": "CANETINHA C/12-MOLIN BRUSH DUO (PASTEL)",
+     "nome": "CANETINHA C/12-MOLIN BRUSH DUO",
      "marca": "MOLIN",
      "preco": 49.9,
      "img": "produtos/14475.jpg",
@@ -1742,20 +1750,20 @@
      "saldo": 3
     },
     {
-     "cod": 11542,
-     "nome": "CANETINHA C/24 MAPED OCEAN DECORADA",
-     "marca": "MAPED",
-     "preco": 39.9,
-     "img": "produtos/11542.jpg",
-     "saldo": 7
-    },
-    {
      "cod": 13055,
-     "nome": "CANETINHA C/24-CIS (HIDROCOR)",
+     "nome": "CANETINHA C/24-CIS",
      "marca": "CIS",
      "preco": 26.9,
      "img": "produtos/13055.jpg",
      "saldo": 16
+    },
+    {
+     "cod": 11542,
+     "nome": "CANETINHA C/24-MAPED OCEAN",
+     "marca": "MAPED",
+     "preco": 39.9,
+     "img": "produtos/11542.jpg",
+     "saldo": 7
     },
     {
      "cod": 11568,
@@ -1764,14 +1772,6 @@
      "preco": 45.9,
      "img": "produtos/11568.jpg",
      "saldo": 25
-    },
-    {
-     "cod": 11570,
-     "nome": "CANETINHA MAPED C/8 + 2 MAGIC",
-     "marca": "MAPED",
-     "preco": 25.9,
-     "img": "produtos/11570.jpg",
-     "saldo": 12
     },
     {
      "cod": 5239,
@@ -2887,7 +2887,7 @@
    "itens": [
     {
      "cod": 13268,
-     "nome": "CANETINHA C/10 + 1-MAPED AQUA",
+     "nome": "CANETINHA C/10-MAPED AQUA",
      "marca": "MAPED",
      "preco": 26.9,
      "img": "produtos/13268.jpg",
@@ -2903,15 +2903,23 @@
     },
     {
      "cod": 4759,
-     "nome": "CANETINHA C/12-FABER (VAI E VEM)",
+     "nome": "CANETINHA C/12-FABER VAI E VEM",
      "marca": "FABER",
      "preco": 49.9,
      "img": "produtos/4759.jpg",
      "saldo": 9
     },
     {
+     "cod": 7530,
+     "nome": "CANETINHA C/12-LEO",
+     "marca": "LEO E LEO",
+     "preco": 6.9,
+     "img": "produtos/7530.jpg",
+     "saldo": 127
+    },
+    {
      "cod": 5279,
-     "nome": "CANETINHA C/12-TRIS (TONS VIBRANTES)",
+     "nome": "CANETINHA C/12-TRIS",
      "marca": "TRIS",
      "preco": 18.9,
      "img": "produtos/5279.jpg",
@@ -2927,15 +2935,23 @@
     },
     {
      "cod": 10056,
-     "nome": "CANETINHA C/24-GATTE KIDS",
+     "nome": "CANETINHA C/24-GATTE",
      "marca": "MAKE+",
      "preco": 14.9,
      "img": "produtos/10056.jpg",
      "saldo": 1
     },
     {
+     "cod": 7528,
+     "nome": "CANETINHA C/24-LEO",
+     "marca": "LEO E LEO",
+     "preco": 12.9,
+     "img": "produtos/7528.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 13379,
-     "nome": "CANETINHA C/24-TRIS (TONS VIBRANTES)",
+     "nome": "CANETINHA C/24-TRIS",
      "marca": "TRIS",
      "preco": 35.9,
      "img": "produtos/13379.jpg",
@@ -2943,7 +2959,7 @@
     },
     {
      "cod": 12682,
-     "nome": "CANETINHA C/36-TRIS (TONS VIBRANTES)",
+     "nome": "CANETINHA C/36-TRIS",
      "marca": "TRIS",
      "preco": 59.9,
      "img": "produtos/12682.jpg",
@@ -2958,36 +2974,20 @@
      "saldo": 74
     },
     {
-     "cod": 8069,
-     "nome": "CANETINHA C/6-TILIBRA MINI JUMBO",
-     "marca": "TILIBRA",
-     "preco": 19.9,
-     "img": "produtos/8069.jpg",
-     "saldo": 13
-    },
-    {
-     "cod": 7530,
-     "nome": "CANETINHA PLUS C/12-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 6.9,
-     "img": "produtos/7530.jpg",
-     "saldo": 127
-    },
-    {
-     "cod": 7528,
-     "nome": "CANETINHA PLUS C/24-LEO E LEO",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/7528.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 7529,
-     "nome": "CANETINHA PLUS C/6-LEO E LEO",
+     "nome": "CANETINHA C/6-LEO",
      "marca": "LEO E LEO",
      "preco": 4.9,
      "img": "produtos/7529.jpg",
      "saldo": 49
+    },
+    {
+     "cod": 8069,
+     "nome": "CANETINHA C/6-TILIBRA",
+     "marca": "TILIBRA",
+     "preco": 19.9,
+     "img": "produtos/8069.jpg",
+     "saldo": 13
     },
     {
      "cod": 7526,
@@ -3260,21 +3260,21 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11855.jpg",
-     "saldo": 66,
+     "saldo": 65,
      "cores": [
       {
        "cod": 11855,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
        "img": "produtos/11855.jpg",
-       "saldo": 66
+       "saldo": 65
       },
       {
        "cod": 11856,
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR. BRW-VERMELHO",
        "img": "produtos/11856.jpg",
-       "saldo": 11
+       "saldo": 10
       }
      ]
     },
@@ -6172,7 +6172,7 @@
      "marca": "SD",
      "preco": 35.9,
      "img": "produtos/5914.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 13215,
@@ -10549,7 +10549,7 @@
      "marca": "MINASPEL",
      "preco": 1.5,
      "img": "produtos/5083.jpg",
-     "saldo": 84
+     "saldo": 78
     },
     {
      "cod": 740,
@@ -11223,7 +11223,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 111
+     "saldo": 110
     },
     {
      "cod": 2007,
@@ -11939,7 +11939,7 @@
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 45
+       "saldo": 44
       },
       {
        "cod": 12686,
@@ -16064,14 +16064,14 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 56,
+     "saldo": 55,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 4829,
@@ -16120,7 +16120,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 244
+       "saldo": 243
       },
       {
        "cod": 1221,
@@ -16173,7 +16173,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 1228,
@@ -21007,7 +21007,7 @@
        "cor": "Azul Turquesa",
        "nome": "GLITER 3GR-AZUL TURQUESA",
        "img": "produtos/10923.jpg",
-       "saldo": 88
+       "saldo": 87
       },
       {
        "cod": 10285,
@@ -21028,7 +21028,7 @@
        "cor": "Pink",
        "nome": "GLITER 3GR-PINK",
        "img": "produtos/1478.jpg",
-       "saldo": 190
+       "saldo": 189
       },
       {
        "cod": 1479,
@@ -21615,7 +21615,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6215
+     "saldo": 6212
     },
     {
      "cod": 944,
@@ -22749,7 +22749,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3536.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 3989,
@@ -23701,7 +23701,7 @@
      "marca": "ULTRA",
      "preco": 19.9,
      "img": "produtos/11813.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 10303,
@@ -25355,7 +25355,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 208
+     "saldo": 207
     },
     {
      "cod": 8100,
@@ -25379,7 +25379,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 2737,
@@ -27219,7 +27219,7 @@
      "marca": "BOLI BOLI",
      "preco": 7.9,
      "img": "produtos/108.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 109,
@@ -29197,7 +29197,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4396.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 4551,
@@ -29205,7 +29205,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4551.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 8293,
@@ -29269,7 +29269,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/8296.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 10989,
@@ -29403,7 +29403,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 250
+     "saldo": 249
     },
     {
      "cod": 2152,
@@ -29419,7 +29419,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 228
+     "saldo": 227
     },
     {
      "cod": 6529,
