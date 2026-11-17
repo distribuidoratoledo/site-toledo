@@ -4010,7 +4010,7 @@
      "marca": "FABER",
      "preco": 8.9,
      "img": "produtos/284.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 10389,
@@ -5592,7 +5592,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13207.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 8247,
@@ -5784,7 +5784,7 @@
      "marca": "SD",
      "preco": 28.9,
      "img": "produtos/13789.jpg",
-     "saldo": 7
+     "saldo": 4
     },
     {
      "cod": 7765,
@@ -5856,7 +5856,7 @@
      "marca": "CREDEAL",
      "preco": 27.9,
      "img": "produtos/11450.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 13164,
@@ -5988,7 +5988,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13209.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 12905,
@@ -8426,7 +8426,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11622.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 814,
@@ -10680,7 +10680,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 208
+       "saldo": 205
       },
       {
        "cod": 2035,
@@ -17785,14 +17785,6 @@
      "marca": "XERYUS",
      "preco": 43.9,
      "img": "produtos/13323.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 13312,
-     "nome": "ESTOJO XERYUS 2F-ESPORTIVO DC PRETO",
-     "marca": "XERYUS",
-     "preco": 69.9,
-     "img": "produtos/13312.jpg",
      "saldo": 1
     },
     {
@@ -31447,7 +31439,7 @@
     },
     {
      "cod": 14565,
-     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
+     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE AM/LARANJA",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
