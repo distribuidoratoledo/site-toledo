@@ -858,7 +858,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/572.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 573,
@@ -10225,7 +10225,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 167
+     "saldo": 165
     },
     {
      "cod": 1977,
@@ -10233,7 +10233,7 @@
      "marca": "TILIBRA",
      "preco": 4.5,
      "img": "produtos/1977.jpg",
-     "saldo": 136
+     "saldo": 135
     },
     {
      "cod": 4320,
@@ -10672,7 +10672,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 211
+       "saldo": 210
       },
       {
        "cod": 2035,
@@ -10843,14 +10843,14 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 319,
+     "saldo": 317,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 319
+       "saldo": 317
       },
       {
        "cod": 4181,
@@ -10864,7 +10864,7 @@
        "cor": "Azul Escuro",
        "nome": "COLORSETE-AZUL ESCURO",
        "img": "produtos/2039.jpg",
-       "saldo": 58
+       "saldo": 56
       },
       {
        "cod": 2041,
@@ -10906,7 +10906,7 @@
        "cor": "Verde Bandeira",
        "nome": "COLORSETE-VERDE BANDEIRA",
        "img": "produtos/2047.jpg",
-       "saldo": 3
+       "saldo": 2
       },
       {
        "cod": 2048,
@@ -11151,7 +11151,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 541
+     "saldo": 535
     },
     {
      "cod": 3580,
@@ -11833,7 +11833,7 @@
      "marca": "LEO E LEO",
      "preco": 9.9,
      "img": "produtos/6237.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 12338,
@@ -12114,7 +12114,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/10992.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 10371,
@@ -12154,7 +12154,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/10997.jpg",
-     "saldo": 184
+     "saldo": 183
     },
     {
      "cod": 10998,
@@ -13221,7 +13221,7 @@
      "marca": "LETRON",
      "preco": 59.9,
      "img": "produtos/13708.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 13371,
@@ -13403,7 +13403,7 @@
      "marca": "NITRON",
      "preco": 16.9,
      "img": "produtos/10723.jpg",
-     "saldo": 75
+     "saldo": 73
     },
     {
      "cod": 6197,
@@ -13515,14 +13515,14 @@
      "marca": "MAXCRIL",
      "preco": 1.0,
      "img": "produtos/778.jpg",
-     "saldo": 104,
+     "saldo": 4,
      "cores": [
       {
        "cod": 778,
        "cor": "Branco",
        "nome": "CHAVEIRO MAXCRIL BRANCO",
        "img": "produtos/778.jpg",
-       "saldo": 104
+       "saldo": 4
       },
       {
        "cod": 3309,
@@ -15036,31 +15036,7 @@
      "marca": "PLASCONY",
      "preco": 4.9,
      "img": "produtos/6065.jpg",
-     "saldo": 90
-    },
-    {
-     "cod": 13817,
-     "nome": "PASTA PP 1CM POLIBRAS",
-     "marca": "",
-     "preco": 3.5,
-     "img": "produtos/13817.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 13817,
-       "cor": "Azul",
-       "nome": "PASTA PP 1CM POLIBRAS-AZUL",
-       "img": "produtos/13817.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 13818,
-       "cor": "Vermelha",
-       "nome": "PASTA PP 1CM POLIBRAS-VERMELHA",
-       "img": "produtos/13818.jpg",
-       "saldo": 1
-      }
-     ]
+     "saldo": 89
     },
     {
      "cod": 5176,
@@ -15099,6 +15075,14 @@
        "saldo": 49
       }
      ]
+    },
+    {
+     "cod": 13818,
+     "nome": "PASTA PP 1CM POLIBRAS-VERMELHA",
+     "marca": "",
+     "preco": 3.5,
+     "img": "produtos/13818.jpg",
+     "saldo": 1
     },
     {
      "cod": 2231,
@@ -15215,7 +15199,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/3592.jpg",
-     "saldo": 242
+     "saldo": 239
     },
     {
      "cod": 12933,
@@ -22053,7 +22037,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/7462.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 4618,
@@ -23623,7 +23607,7 @@
      "marca": "SANPACK",
      "preco": 72.9,
      "img": "produtos/1374.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 1375,
@@ -25179,7 +25163,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 2718,
@@ -25737,7 +25721,7 @@
      "marca": "GRESPAN",
      "preco": 2.9,
      "img": "produtos/7487.jpg",
-     "saldo": 99
+     "saldo": 94
     },
     {
      "cod": 7486,
@@ -25745,7 +25729,7 @@
      "marca": "GRESPAN",
      "preco": 2.5,
      "img": "produtos/7486.jpg",
-     "saldo": 645
+     "saldo": 640
     },
     {
      "cod": 2823,
@@ -25785,7 +25769,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 104
+     "saldo": 94
     },
     {
      "cod": 4362,
@@ -26055,7 +26039,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2389
+     "saldo": 2388
     },
     {
      "cod": 6821,
@@ -26103,7 +26087,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 191
+     "saldo": 189
     }
    ]
   },
@@ -26237,7 +26221,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 83
+     "saldo": 79
     },
     {
      "cod": 13855,
@@ -26261,7 +26245,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 142
+     "saldo": 127
     },
     {
      "cod": 6965,
@@ -26277,7 +26261,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 295
+     "saldo": 274
     },
     {
      "cod": 6966,
@@ -26309,7 +26293,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 7826
+     "saldo": 7726
     },
     {
      "cod": 11788,
@@ -26727,7 +26711,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 1273,
@@ -28463,7 +28447,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 261
+     "saldo": 260
     },
     {
      "cod": 1155,
@@ -28511,7 +28495,7 @@
      "marca": "PRIMUS",
      "preco": 19.9,
      "img": "produtos/1197.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 1195,
@@ -28535,7 +28519,7 @@
      "marca": "PRIMUS",
      "preco": 38.9,
      "img": "produtos/1167.jpg",
-     "saldo": 46
+     "saldo": 44
     },
     {
      "cod": 1166,
@@ -29001,7 +28985,7 @@
      "marca": "REDINHA",
      "preco": 8.9,
      "img": "produtos/2609.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 2610,
@@ -29017,7 +29001,7 @@
      "marca": "THEGA",
      "preco": 15.9,
      "img": "produtos/14135.jpg",
-     "saldo": 45
+     "saldo": 43
     }
    ]
   },
@@ -29047,7 +29031,7 @@
      "marca": "MAMUTH",
      "preco": 18.9,
      "img": "produtos/1495.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 1498,
@@ -29221,7 +29205,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 10304,
@@ -31250,7 +31234,7 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO JOCAR-ROSA",
        "img": "produtos/11016.jpg",
-       "saldo": 40
+       "saldo": 38
       },
       {
        "cod": 14355,
