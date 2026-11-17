@@ -278,12 +278,12 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular Faber-Castell",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg"
+       "foto": "listas/fotos/13608.jpg"
       },
       {
        "descricao": "1 lápis preto de escrever jumbo triangular",
@@ -365,12 +365,12 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores jumbo triangular (1º semestre)",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg"
+       "foto": "listas/fotos/13608.jpg"
       },
       {
        "descricao": "1 lápis preto jumbo triangular",
@@ -2722,12 +2722,12 @@
       {
        "descricao": "1 caixa de lápis de cor jumbo",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso coletivo"
       },
       {
@@ -3131,12 +3131,12 @@
       {
        "descricao": "1 caixa de lápis de cor jumbo 12 cores",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -3494,11 +3494,11 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores",
        "qtd": 1,
-       "cod": 7699,
-       "produto": "LAPIS 12CORES-ACRILEX",
-       "marca": "ACRILEX",
-       "preco": 9.9,
-       "foto": "listas/fotos/7699.jpg",
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -3839,11 +3839,11 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores",
        "qtd": 1,
-       "cod": 7699,
-       "produto": "LAPIS 12CORES-ACRILEX",
-       "marca": "ACRILEX",
-       "preco": 9.9,
-       "foto": "listas/fotos/7699.jpg",
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -4234,11 +4234,11 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores",
        "qtd": 1,
-       "cod": 7699,
-       "produto": "LAPIS 12CORES-ACRILEX",
-       "marca": "ACRILEX",
-       "preco": 9.9,
-       "foto": "listas/fotos/7699.jpg",
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -4664,11 +4664,11 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores",
        "qtd": 1,
-       "cod": 7699,
-       "produto": "LAPIS 12CORES-ACRILEX",
-       "marca": "ACRILEX",
-       "preco": 9.9,
-       "foto": "listas/fotos/7699.jpg",
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -5073,11 +5073,11 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores",
        "qtd": 1,
-       "cod": 7699,
-       "produto": "LAPIS 12CORES-ACRILEX",
-       "marca": "ACRILEX",
-       "preco": 9.9,
-       "foto": "listas/fotos/7699.jpg",
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -5510,11 +5510,11 @@
       {
        "descricao": "1 caixa de lápis de cor 12 cores",
        "qtd": 1,
-       "cod": 7699,
-       "produto": "LAPIS 12CORES-ACRILEX",
-       "marca": "ACRILEX",
-       "preco": 9.9,
-       "foto": "listas/fotos/7699.jpg",
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uso individual"
       },
       {
@@ -6458,12 +6458,12 @@
       {
        "descricao": "Lápis de cor aquarelável",
        "qtd": 1,
-       "cod": 1642,
-       "produto": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
-       "marca": "ACRILEX",
-       "preco": 14.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor aquarelável Acrilex com 12 cores.",
-       "foto": "listas/fotos/1642.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Deverá ser entregue para a professora"
       },
       {
@@ -6813,12 +6813,12 @@
       {
        "descricao": "Lápis de cor aquarelável",
        "qtd": 1,
-       "cod": 1642,
-       "produto": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
-       "marca": "ACRILEX",
-       "preco": 14.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor aquarelável Acrilex com 12 cores.",
-       "foto": "listas/fotos/1642.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Deverá ser entregue para a professora"
       },
       {
@@ -7188,12 +7188,12 @@
       {
        "descricao": "Lápis de cor aquarelável",
        "qtd": 1,
-       "cod": 1642,
-       "produto": "LAPIS 12CORES-ACRILEX (AQUARELAVEL)",
-       "marca": "ACRILEX",
-       "preco": 14.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor aquarelável Acrilex com 12 cores.",
-       "foto": "listas/fotos/1642.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Deverá ser entregue para a professora"
       },
       {
@@ -7573,12 +7573,12 @@
       {
        "descricao": "Caixa de lápis de cor JUMBO",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores. Precisa de reposição durante o ano.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Materiais de uso individual"
       },
       {
@@ -7868,12 +7868,12 @@
       {
        "descricao": "Caixa de lápis de cor Jumbo – 12 cores",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores. Precisa de reposição durante o ano.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Materiais de uso individual"
       },
       {
@@ -12936,12 +12936,12 @@
       {
        "descricao": "Lápis de cor jumbo, caixa com 12",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Materiais"
       },
       {
@@ -13260,12 +13260,12 @@
       {
        "descricao": "Lápis de cor jumbo, caixa com 12",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Materiais"
       },
       {
@@ -13581,12 +13581,12 @@
       {
        "descricao": "Lápis de cor jumbo, caixa com 12",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Materiais"
       },
       {
@@ -17379,12 +17379,12 @@
       {
        "descricao": "1 caixa de lápis de cor grosso",
        "qtd": 1,
-       "cod": 13745,
-       "produto": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-       "marca": "MAPED",
-       "preco": 19.9,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
        "obs": "Lápis de cor jumbo Maped com 12 cores.",
-       "foto": "listas/fotos/13745.jpg",
+       "foto": "listas/fotos/13608.jpg",
        "grupo": "Uma mochila de uso diário contendo",
        "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
       },
@@ -21815,5 +21815,5 @@
    ]
   }
  ],
- "atualizado": "17/11/2026 14:20"
+ "atualizado": "17/11/2026 15:11"
 }
