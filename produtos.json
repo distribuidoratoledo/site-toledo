@@ -3557,7 +3557,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 49
+       "saldo": 46
       },
       {
        "cod": 2658,
@@ -8125,7 +8125,7 @@
      "marca": "JOCAR/CIS",
      "preco": 4.9,
      "img": "produtos/2575.jpg",
-     "saldo": 7
+     "saldo": 3
     }
    ]
   },
@@ -8593,7 +8593,7 @@
      "marca": "TEKBOND",
      "preco": 14.9,
      "img": "produtos/4930.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 7159,
@@ -8793,7 +8793,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 10944,
@@ -8995,7 +8995,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 540
+     "saldo": 534
     },
     {
      "cod": 1293,
@@ -10018,7 +10018,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 463
+     "saldo": 461
     },
     {
      "cod": 3911,
@@ -10648,7 +10648,7 @@
        "cor": "Vermelho",
        "nome": "CARTAO-VERMELHO",
        "img": "produtos/751.jpg",
-       "saldo": 36
+       "saldo": 33
       }
      ]
     },
@@ -10672,7 +10672,7 @@
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 107
+       "saldo": 106
       },
       {
        "cod": 2034,
@@ -10850,21 +10850,21 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 321,
+     "saldo": 319,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 321
+       "saldo": 319
       },
       {
        "cod": 4181,
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 119
+       "saldo": 118
       },
       {
        "cod": 2039,
@@ -10892,7 +10892,7 @@
        "cor": "Marrom",
        "nome": "COLORSETE-MARROM",
        "img": "produtos/2043.jpg",
-       "saldo": 74
+       "saldo": 72
       },
       {
        "cod": 2044,
@@ -10920,14 +10920,14 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE-VERDE CLARO",
        "img": "produtos/2048.jpg",
-       "saldo": 137
+       "saldo": 132
       },
       {
        "cod": 2050,
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 116
+       "saldo": 115
       }
      ]
     },
@@ -10937,14 +10937,14 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 104,
+     "saldo": 103,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 104
+       "saldo": 103
       },
       {
        "cod": 2069,
@@ -10958,7 +10958,7 @@
        "cor": "Azul Escuro",
        "nome": "CREPOM AZUL ESCURO",
        "img": "produtos/2070.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 4786,
@@ -11028,7 +11028,7 @@
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 233
+       "saldo": 231
       }
      ]
     },
@@ -11046,28 +11046,28 @@
      "marca": "V.M.P",
      "preco": 1.0,
      "img": "produtos/2085.jpg",
-     "saldo": 173,
+     "saldo": 172,
      "cores": [
       {
        "cod": 2085,
        "cor": "Amarelo",
        "nome": "FANTASIA-AMARELO",
        "img": "produtos/2085.jpg",
-       "saldo": 173
+       "saldo": 172
       },
       {
        "cod": 2086,
        "cor": "Azul Claro",
        "nome": "FANTASIA-AZUL CLARO",
        "img": "produtos/2086.jpg",
-       "saldo": 96
+       "saldo": 95
       },
       {
        "cod": 2088,
        "cor": "Laranja",
        "nome": "FANTASIA-LARANJA",
        "img": "produtos/2088.jpg",
-       "saldo": 86
+       "saldo": 85
       },
       {
        "cod": 2089,
@@ -11088,14 +11088,14 @@
        "cor": "Verde",
        "nome": "FANTASIA-VERDE",
        "img": "produtos/2091.jpg",
-       "saldo": 137
+       "saldo": 136
       },
       {
        "cod": 2092,
        "cor": "Vermelho",
        "nome": "FANTASIA-VERMELHO",
        "img": "produtos/2092.jpg",
-       "saldo": 128
+       "saldo": 127
       }
      ]
     },
@@ -11308,7 +11308,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 11784,
@@ -11332,7 +11332,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 229
+     "saldo": 228
     },
     {
      "cod": 4344,
@@ -12185,7 +12185,7 @@
      "marca": "",
      "preco": 5.0,
      "img": "produtos/10995.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 10996,
@@ -15825,7 +15825,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 112
+     "saldo": 109
     },
     {
      "cod": 2959,
@@ -16178,7 +16178,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 273
+       "saldo": 263
       }
      ]
     },
@@ -19049,35 +19049,35 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 49,
+     "saldo": 48,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 49
+       "saldo": 48
       },
       {
        "cod": 6623,
        "cor": "Azul",
        "nome": "POST-IT 76X76 C/100 AZUL",
        "img": "produtos/6623.jpg",
-       "saldo": 73
+       "saldo": 72
       },
       {
        "cod": 6621,
        "cor": "Rosa",
        "nome": "POST-IT 76X76 C/100 ROSA",
        "img": "produtos/6621.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 6622,
        "cor": "Verde",
        "nome": "POST-IT 76X76 C/100 VERDE",
        "img": "produtos/6622.jpg",
-       "saldo": 59
+       "saldo": 58
       }
      ]
     },
@@ -20404,7 +20404,7 @@
      "marca": "FOXLUX",
      "preco": 12.9,
      "img": "produtos/5978.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 3999,
@@ -21662,7 +21662,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 944,
@@ -22890,7 +22890,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 394
+     "saldo": 391
     },
     {
      "cod": 14417,
@@ -23112,7 +23112,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 118
+     "saldo": 115
     },
     {
      "cod": 7343,
@@ -23192,7 +23192,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 2524,
@@ -23748,7 +23748,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1012
+     "saldo": 1002
     },
     {
      "cod": 3857,
@@ -24168,7 +24168,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 329
+     "saldo": 327
     },
     {
      "cod": 3951,
@@ -24176,7 +24176,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 431
+     "saldo": 428
     },
     {
      "cod": 14268,
@@ -24596,7 +24596,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 247
+     "saldo": 246
     },
     {
      "cod": 3932,
@@ -24668,7 +24668,7 @@
      "marca": "THEOTO",
      "preco": 5.9,
      "img": "produtos/1118.jpg",
-     "saldo": 116
+     "saldo": 115
     },
     {
      "cod": 7237,
@@ -24676,7 +24676,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 221
+     "saldo": 218
     },
     {
      "cod": 7305,
@@ -26172,7 +26172,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 244,
@@ -26236,7 +26236,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 251,
@@ -26908,7 +26908,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 677
+     "saldo": 672
     },
     {
      "cod": 2760,
@@ -26924,7 +26924,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 869
+     "saldo": 864
     },
     {
      "cod": 2761,
@@ -28598,7 +28598,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 501
+     "saldo": 500
     },
     {
      "cod": 6324,
@@ -28606,7 +28606,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 498
+     "saldo": 492
     },
     {
      "cod": 6323,
@@ -29078,7 +29078,7 @@
      "marca": "MAMUTH",
      "preco": 18.9,
      "img": "produtos/1495.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 1498,
@@ -29442,7 +29442,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 251
+     "saldo": 250
     },
     {
      "cod": 2152,
@@ -29466,7 +29466,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1472
+     "saldo": 1461
     },
     {
      "cod": 2157,
@@ -31296,7 +31296,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR-VERDE",
        "img": "produtos/14355.jpg",
-       "saldo": 33
+       "saldo": 32
       }
      ]
     },
