@@ -451,7 +451,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 82
+       "saldo": 80
       },
       {
        "cod": 566,
@@ -1460,7 +1460,7 @@
        "cor": "Preta",
        "nome": "CANETA PILOT S.GRIP 0.7-PRETA",
        "img": "produtos/615.jpg",
-       "saldo": 17
+       "saldo": 16
       },
       {
        "cod": 616,
@@ -1861,7 +1861,7 @@
     },
     {
      "cod": 6288,
-     "nome": "LAPIS 12CORES-BIC EVOLUTION (JUMBO)",
+     "nome": "LAPIS 12CORES-BIC (JUMBO)",
      "marca": "BIC",
      "preco": 23.9,
      "img": "produtos/6288.jpg",
@@ -1892,20 +1892,20 @@
      "saldo": 22
     },
     {
+     "cod": 3496,
+     "nome": "LAPIS 12CORES-LEO (JUMBO)",
+     "marca": "LEO E LEO",
+     "preco": 12.9,
+     "img": "produtos/3496.jpg",
+     "saldo": 5
+    },
+    {
      "cod": 1650,
      "nome": "LAPIS 12CORES-LEO E LEO (SEXTAVADO)",
      "marca": "LEO E LEO",
      "preco": 5.9,
      "img": "produtos/1650.jpg",
      "saldo": 81
-    },
-    {
-     "cod": 3496,
-     "nome": "LAPIS 12CORES-LEO E LEO-(JUMBO)",
-     "marca": "LEO E LEO",
-     "preco": 12.9,
-     "img": "produtos/3496.jpg",
-     "saldo": 5
     },
     {
      "cod": 7710,
@@ -1924,20 +1924,20 @@
      "saldo": 33
     },
     {
+     "cod": 13745,
+     "nome": "LAPIS 12CORES-MAPED (JUMBO)",
+     "marca": "MAPED",
+     "preco": 19.9,
+     "img": "produtos/13745.jpg",
+     "saldo": 83
+    },
+    {
      "cod": 6455,
      "nome": "LAPIS 12CORES-MAPED AQUARELAVEL (PINCEL)",
      "marca": "MAPED",
      "preco": 34.9,
      "img": "produtos/6455.jpg",
      "saldo": 17
-    },
-    {
-     "cod": 13745,
-     "nome": "LAPIS 12CORES-MAPED JUNGLE FEVER (JUMBO)",
-     "marca": "MAPED",
-     "preco": 19.9,
-     "img": "produtos/13745.jpg",
-     "saldo": 83
     },
     {
      "cod": 11529,
@@ -1948,20 +1948,20 @@
      "saldo": 102
     },
     {
+     "cod": 8986,
+     "nome": "LAPIS 12CORES-NORMA (JUMBO)",
+     "marca": "NORMA",
+     "preco": 29.9,
+     "img": "produtos/8986.jpg",
+     "saldo": 21
+    },
+    {
      "cod": 8985,
      "nome": "LAPIS 12CORES-NORMA+1 APONTADOR",
      "marca": "NORMA",
      "preco": 19.9,
      "img": "produtos/8985.jpg",
      "saldo": 36
-    },
-    {
-     "cod": 8986,
-     "nome": "LAPIS 12CORES-NORMA+1 APONTADOR (JUMBO)",
-     "marca": "NORMA",
-     "preco": 29.9,
-     "img": "produtos/8986.jpg",
-     "saldo": 21
     },
     {
      "cod": 13608,
@@ -1978,6 +1978,14 @@
      "preco": 9.9,
      "img": "produtos/5697.jpg",
      "saldo": 5
+    },
+    {
+     "cod": 14585,
+     "nome": "LAPIS 12CORES-TRIS (JUMBO)",
+     "marca": "TRIS",
+     "preco": 25.9,
+     "img": "produtos/14585.jpg",
+     "saldo": 72
     },
     {
      "cod": 12626,
@@ -2010,14 +2018,6 @@
      "preco": 26.9,
      "img": "produtos/14583.jpg",
      "saldo": 12
-    },
-    {
-     "cod": 14585,
-     "nome": "LAPIS 12CORES-TRIS+1 APONTADOR (JUMBO)",
-     "marca": "TRIS",
-     "preco": 25.9,
-     "img": "produtos/14585.jpg",
-     "saldo": 72
     },
     {
      "cod": 1657,
@@ -10043,7 +10043,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 3479,
@@ -11223,7 +11223,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 112
+     "saldo": 111
     },
     {
      "cod": 2007,
@@ -18324,7 +18324,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 13513
+     "saldo": 13504
     },
     {
      "cod": 1051,
@@ -18634,7 +18634,7 @@
      "marca": "PROLAM",
      "preco": 10.9,
      "img": "produtos/13980.jpg",
-     "saldo": 185
+     "saldo": 184
     },
     {
      "cod": 2422,
@@ -22597,7 +22597,7 @@
      "marca": "COPOPLAST",
      "preco": 31.9,
      "img": "produtos/1569.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 5937,
@@ -22685,7 +22685,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 2937,
@@ -22693,7 +22693,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 430
+     "saldo": 429
     },
     {
      "cod": 4146,
@@ -22980,12 +22980,20 @@
      "saldo": 122
     },
     {
+     "cod": 2493,
+     "nome": "POTE (KIT) 1000ML C/24-RIOPLASTIC",
+     "marca": "RIOPLASTIC",
+     "preco": 32.9,
+     "img": "produtos/2493.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 11829,
      "nome": "POTE (KIT) 1000ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11829.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 14028,
@@ -24075,7 +24083,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/6861.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 10002,
@@ -24091,7 +24099,7 @@
      "marca": "",
      "preco": 35.9,
      "img": "produtos/4322.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 5063,
@@ -24099,7 +24107,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/5063.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 6101,
@@ -25155,7 +25163,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2715.jpg",
-     "saldo": 122
+     "saldo": 119
     },
     {
      "cod": 2717,
@@ -25785,7 +25793,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 467
+     "saldo": 464
     },
     {
      "cod": 2838,
@@ -25801,7 +25809,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 448
+     "saldo": 445
     },
     {
      "cod": 2840,
@@ -25809,7 +25817,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2840.jpg",
-     "saldo": 209
+     "saldo": 207
     },
     {
      "cod": 3848,
@@ -26047,7 +26055,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 724
+     "saldo": 719
     },
     {
      "cod": 6855,
@@ -26055,7 +26063,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 295
+     "saldo": 290
     },
     {
      "cod": 2875,
@@ -26467,7 +26475,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2903.jpg",
-     "saldo": 217
+     "saldo": 216
     },
     {
      "cod": 2904,
@@ -26531,7 +26539,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 938
+     "saldo": 937
     },
     {
      "cod": 2900,
@@ -26649,7 +26657,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 436
+     "saldo": 406
     },
     {
      "cod": 236,
@@ -26711,7 +26719,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 1273,
@@ -26933,7 +26941,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2784.jpg",
-     "saldo": 150
+     "saldo": 149
     },
     {
      "cod": 2785,
@@ -26941,7 +26949,7 @@
      "marca": "IEC",
      "preco": 5.9,
      "img": "produtos/2785.jpg",
-     "saldo": 171
+     "saldo": 166
     },
     {
      "cod": 2786,
@@ -26949,7 +26957,7 @@
      "marca": "IEC",
      "preco": 6.9,
      "img": "produtos/2786.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 13529,
@@ -28913,7 +28921,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/196.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 192,
@@ -29331,7 +29339,7 @@
      "marca": "INTERFORTY",
      "preco": 89.9,
      "img": "produtos/2103.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 2104,
@@ -29347,7 +29355,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 146
+     "saldo": 144
     },
     {
      "cod": 9017,
