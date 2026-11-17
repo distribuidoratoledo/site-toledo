@@ -9114,7 +9114,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 258
+     "saldo": 253
     },
     {
      "cod": 1313,
@@ -10345,7 +10345,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 83
+     "saldo": 81
     },
     {
      "cod": 2604,
@@ -21583,7 +21583,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 232
+     "saldo": 832
     },
     {
      "cod": 938,
@@ -21615,7 +21615,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6245
+     "saldo": 12491
     },
     {
      "cod": 944,
@@ -21655,7 +21655,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 66
+     "saldo": 1063
     },
     {
      "cod": 949,
@@ -21671,7 +21671,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 28
+     "saldo": 148
     },
     {
      "cod": 8806,
@@ -21690,6 +21690,14 @@
      "saldo": 291
     },
     {
+     "cod": 14408,
+     "nome": "COPO 500ML PS C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 10.9,
+     "img": "produtos/14408.jpg",
+     "saldo": 120
+    },
+    {
      "cod": 954,
      "nome": "COPO 500ML PS C/50-TOTAL",
      "marca": "TOTALPLAST",
@@ -21703,7 +21711,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 1000
+     "saldo": 2000
     },
     {
      "cod": 3342,
@@ -21719,7 +21727,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 67
+     "saldo": 217
     },
     {
      "cod": 960,
@@ -21887,7 +21895,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 126
+     "saldo": 526
     },
     {
      "cod": 2923,
@@ -21911,7 +21919,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 126
+     "saldo": 526
     },
     {
      "cod": 2934,
@@ -23081,7 +23089,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 115
+     "saldo": 515
     },
     {
      "cod": 7343,
@@ -23097,7 +23105,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 195
+     "saldo": 595
     },
     {
      "cod": 13873,
@@ -23709,7 +23717,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 1002
+     "saldo": 4002
     },
     {
      "cod": 3857,
@@ -23717,7 +23725,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 226
+     "saldo": 1226
     },
     {
      "cod": 2552,
@@ -23725,7 +23733,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 185
+     "saldo": 435
     },
     {
      "cod": 3898,
@@ -23741,7 +23749,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 522
+     "saldo": 1522
     },
     {
      "cod": 11873,
@@ -24129,7 +24137,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 315
+     "saldo": 314
     },
     {
      "cod": 3951,
@@ -24137,7 +24145,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 428
+     "saldo": 378
     },
     {
      "cod": 14268,
@@ -27005,7 +27013,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/3675.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 2802,
@@ -29403,7 +29411,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 192
+     "saldo": 190
     },
     {
      "cod": 2153,
