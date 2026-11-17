@@ -41,7 +41,7 @@
      "marca": "BIC",
      "preco": 13.9,
      "img": "produtos/548.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 3794,
@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 590,
+     "saldo": 537,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 590
+       "saldo": 537
       },
       {
        "cod": 553,
@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 128
+       "saldo": 124
       },
       {
        "cod": 563,
@@ -1002,7 +1002,7 @@
      "marca": "BRW",
      "preco": 15.9,
      "img": "produtos/8823.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 13931,
@@ -2163,7 +2163,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1060
+     "saldo": 1039
     },
     {
      "cod": 1670,
@@ -2757,7 +2757,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 45,
+     "saldo": 33,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2768,11 +2768,11 @@
      ],
      "saldo_cor": {
       "AMARELO": 8,
-      "AZUL": 8,
-      "LILAS": 8,
+      "AZUL": 5,
+      "LILAS": 5,
       "ROSA": 7,
-      "SALMÃO": 7,
-      "VERDE": 7
+      "SALMÃO": 4,
+      "VERDE": 4
      }
     },
     {
@@ -3003,7 +3003,7 @@
      "marca": "COMPACTOR",
      "preco": 29.9,
      "img": "produtos/6467.jpg",
-     "saldo": 339
+     "saldo": 338
     },
     {
      "cod": 1582,
@@ -3121,14 +3121,14 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg",
-     "saldo": 70,
+     "saldo": 68,
      "cores": [
       {
        "cod": 2338,
        "cor": "Azul",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
        "img": "produtos/2338.jpg",
-       "saldo": 70
+       "saldo": 68
       },
       {
        "cod": 2339,
@@ -3260,14 +3260,14 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11855.jpg",
-     "saldo": 67,
+     "saldo": 66,
      "cores": [
       {
        "cod": 11855,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
        "img": "produtos/11855.jpg",
-       "saldo": 67
+       "saldo": 66
       },
       {
        "cod": 11856,
@@ -3596,7 +3596,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 566
+     "saldo": 565
     },
     {
      "cod": 1507,
@@ -3620,7 +3620,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 12247,
@@ -3896,14 +3896,14 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
-     "saldo": 92,
+     "saldo": 91,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 30,
+      "AZUL": 29,
       "ROSA": 31,
       "ROXO": 31
      }
@@ -4126,7 +4126,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1982
+     "saldo": 1978
     },
     {
      "cod": 4341,
@@ -4226,7 +4226,7 @@
      "marca": "MERCUR",
      "preco": 3.0,
      "img": "produtos/7917.jpg",
-     "saldo": 501
+     "saldo": 499
     },
     {
      "cod": 13077,
@@ -4234,7 +4234,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13077.jpg",
-     "saldo": 167
+     "saldo": 164
     },
     {
      "cod": 14522,
@@ -4670,7 +4670,7 @@
        "cor": "Preto",
        "nome": "AGENDA COMERCIAL ESPIRAL 352FLS PRETO",
        "img": "produtos/14312.jpg",
-       "saldo": 21
+       "saldo": 20
       }
      ]
     },
@@ -5069,7 +5069,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10903.jpg",
-     "saldo": 112
+     "saldo": 109
     },
     {
      "cod": 8255,
@@ -5077,7 +5077,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 12910,
@@ -6585,7 +6585,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12441.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 10901,
@@ -7039,7 +7039,7 @@
      "marca": "S.DOMINGOS",
      "preco": 18.9,
      "img": "produtos/5877.jpg",
-     "saldo": 47
+     "saldo": 45
     },
     {
      "cod": 5882,
@@ -7047,7 +7047,7 @@
      "marca": "SD",
      "preco": 18.9,
      "img": "produtos/5882.jpg",
-     "saldo": 40
+     "saldo": 33
     },
     {
      "cod": 8889,
@@ -7311,14 +7311,14 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12411.jpg",
-     "saldo": 68,
+     "saldo": 67,
      "cores": [
       {
        "cod": 12411,
        "cor": "Azul",
        "nome": "CADERNO DESENHO CD 80F-(AZUL)",
        "img": "produtos/12411.jpg",
-       "saldo": 68
+       "saldo": 67
       },
       {
        "cod": 12431,
@@ -7648,7 +7648,7 @@
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
        "img": "produtos/12455.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 9321,
@@ -8022,7 +8022,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 797,
@@ -8562,7 +8562,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/836.jpg",
-     "saldo": 111
+     "saldo": 110
     },
     {
      "cod": 7704,
@@ -8570,7 +8570,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/7704.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 837,
@@ -8722,7 +8722,7 @@
      "marca": "ACRILEX",
      "preco": 22.9,
      "img": "produtos/12625.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 14420,
@@ -8778,7 +8778,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 317
+     "saldo": 315
     },
     {
      "cod": 11926,
@@ -8842,7 +8842,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/12735.jpg",
-     "saldo": 143
+     "saldo": 142
     },
     {
      "cod": 9819,
@@ -8939,7 +8939,7 @@
        "cor": "Verde",
        "nome": "DUREX COLOR.12X10M-VERDE",
        "img": "produtos/1026.jpg",
-       "saldo": 435
+       "saldo": 434
       },
       {
        "cod": 1027,
@@ -9106,7 +9106,7 @@
      "marca": "ADELBRAS",
      "preco": 20.9,
      "img": "produtos/11807.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 6836,
@@ -9122,7 +9122,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1114
+     "saldo": 1113
     },
     {
      "cod": 4389,
@@ -9232,7 +9232,7 @@
      "marca": "MAPED",
      "preco": 65.9,
      "img": "produtos/5148.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 11573,
@@ -9388,7 +9388,7 @@
      "marca": "MAXCRIL",
      "preco": 11.9,
      "img": "produtos/4846.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 4847,
@@ -10011,7 +10011,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 461
+     "saldo": 460
     },
     {
      "cod": 3911,
@@ -10864,7 +10864,7 @@
        "cor": "Azul Escuro",
        "nome": "COLORSETE-AZUL ESCURO",
        "img": "produtos/2039.jpg",
-       "saldo": 56
+       "saldo": 54
       },
       {
        "cod": 2041,
@@ -11014,14 +11014,14 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 231
+       "saldo": 229
       }
      ]
     },
@@ -11207,7 +11207,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 81
+     "saldo": 71
     },
     {
      "cod": 2016,
@@ -11223,7 +11223,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 84
+     "saldo": 82
     },
     {
      "cod": 2007,
@@ -11259,7 +11259,7 @@
        "cor": "Verde",
        "nome": "PAPEL A4 COLOR. C/100-VERDE",
        "img": "produtos/6313.jpg",
-       "saldo": 55
+       "saldo": 54
       }
      ]
     },
@@ -11269,7 +11269,7 @@
      "marca": "CHAMEX",
      "preco": 11.9,
      "img": "produtos/2012.jpg",
-     "saldo": 45
+     "saldo": 39
     },
     {
      "cod": 2017,
@@ -11317,7 +11317,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 208
+     "saldo": 207
     },
     {
      "cod": 2100,
@@ -11873,7 +11873,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 150
+     "saldo": 149
     },
     {
      "cod": 11626,
@@ -12138,7 +12138,7 @@
      "marca": "TIGRE",
      "preco": 2.4,
      "img": "produtos/10999.jpg",
-     "saldo": 180
+     "saldo": 179
     },
     {
      "cod": 6378,
@@ -14526,7 +14526,7 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/6196.jpg",
-     "saldo": 259
+     "saldo": 258
     },
     {
      "cod": 6951,
@@ -14842,14 +14842,14 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/4152.jpg",
-     "saldo": 169,
+     "saldo": 165,
      "cores": [
       {
        "cod": 4152,
        "cor": "Cristal",
        "nome": "PASTA L A4 CRISTAL",
        "img": "produtos/4152.jpg",
-       "saldo": 169
+       "saldo": 165
       },
       {
        "cod": 6798,
@@ -15104,7 +15104,7 @@
        "cor": "Fume",
        "nome": "PASTA PP 1CM-FUME",
        "img": "produtos/6797.jpg",
-       "saldo": 27
+       "saldo": 26
       }
      ]
     },
@@ -15346,7 +15346,7 @@
      "marca": "PLASCONY",
      "preco": 12.9,
      "img": "produtos/14207.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 12934,
@@ -15946,7 +15946,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 409
+     "saldo": 408
     },
     {
      "cod": 6721,
@@ -16127,7 +16127,7 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 177
+       "saldo": 176
       },
       {
        "cod": 1222,
@@ -16181,14 +16181,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 250,
+     "saldo": 249,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 250
+       "saldo": 249
       },
       {
        "cod": 1230,
@@ -16223,7 +16223,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 127
+       "saldo": 126
       },
       {
        "cod": 1233,
@@ -16293,14 +16293,14 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 339
+       "saldo": 338
       },
       {
        "cod": 1244,
        "cor": "Vermelho",
        "nome": "EVA LISO-VERMELHO",
        "img": "produtos/1244.jpg",
-       "saldo": 206
+       "saldo": 205
       }
      ]
     },
@@ -16398,7 +16398,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3069.jpg",
-     "saldo": 850
+     "saldo": 848
     },
     {
      "cod": 3070,
@@ -18188,7 +18188,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22943
+     "saldo": 22533
     },
     {
      "cod": 1098,
@@ -18426,7 +18426,7 @@
      "marca": "USA FOLIEN",
      "preco": 10.9,
      "img": "produtos/8715.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 659,
@@ -18634,7 +18634,7 @@
      "marca": "PROLAM",
      "preco": 10.9,
      "img": "produtos/13980.jpg",
-     "saldo": 186
+     "saldo": 185
     },
     {
      "cod": 2422,
@@ -19218,7 +19218,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/8808.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 11833,
@@ -19234,7 +19234,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 14261,
@@ -19320,7 +19320,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 88
+     "saldo": 86
     },
     {
      "cod": 14657,
@@ -22157,7 +22157,7 @@
      "marca": "ISOMAX",
      "preco": 1.6,
      "img": "produtos/9909.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 9929,
@@ -22173,7 +22173,7 @@
      "marca": "ISOMAX",
      "preco": 1.9,
      "img": "produtos/9910.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 9930,
@@ -22197,7 +22197,7 @@
      "marca": "ISOMAX",
      "preco": 3.9,
      "img": "produtos/9912.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 9913,
@@ -22245,7 +22245,7 @@
      "marca": "ISOMAX",
      "preco": 3.5,
      "img": "produtos/9921.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 9922,
@@ -24153,7 +24153,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 48
+     "saldo": 128
     },
     {
      "cod": 11295,
@@ -24177,7 +24177,7 @@
      "marca": "SANTEPEL",
      "preco": 5.9,
      "img": "produtos/1555.jpg",
-     "saldo": 131
+     "saldo": 179
     },
     {
      "cod": 13007,
@@ -24231,7 +24231,7 @@
      "marca": "",
      "preco": 5.45,
      "img": "produtos/3151.jpg",
-     "saldo": 139
+     "saldo": 137
     },
     {
      "cod": 4676,
@@ -25745,7 +25745,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 894
+     "saldo": 893
     },
     {
      "cod": 10972,
@@ -26055,7 +26055,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 296
+     "saldo": 295
     },
     {
      "cod": 2875,
@@ -26063,7 +26063,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 721
+     "saldo": 720
     },
     {
      "cod": 6825,
@@ -26071,7 +26071,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 660
+     "saldo": 658
     },
     {
      "cod": 3964,
@@ -26649,7 +26649,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 444
+     "saldo": 440
     },
     {
      "cod": 236,
@@ -26711,7 +26711,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 37
+     "saldo": 35
     },
     {
      "cod": 1273,
@@ -26719,7 +26719,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 1278,
@@ -26735,7 +26735,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 3427,
@@ -26861,7 +26861,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 672
+     "saldo": 667
     },
     {
      "cod": 2760,
@@ -27219,7 +27219,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/109.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 4727,
@@ -29205,7 +29205,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 7
+     "saldo": 5
     },
     {
      "cod": 10304,
@@ -29221,7 +29221,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 8295,
@@ -30073,7 +30073,7 @@
      "marca": "TIBA",
      "preco": 9.9,
      "img": "produtos/3543.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 9849,
@@ -30207,14 +30207,14 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/14630.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "controle": [
       "AMARELO",
       "ROSA",
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AMARELO": 16,
+      "AMARELO": 15,
       "ROSA": 15,
       "VERDE-ÁGUA": 15
      }
@@ -31241,7 +31241,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR-VERDE",
        "img": "produtos/14355.jpg",
-       "saldo": 32
+       "saldo": 31
       }
      ]
     },
