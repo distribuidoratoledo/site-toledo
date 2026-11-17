@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 704,
+     "saldo": 692,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 704
+       "saldo": 692
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2028
+       "saldo": 2014
       },
       {
        "cod": 554,
@@ -1323,20 +1323,13 @@
      "saldo": 1
     },
     {
-     "cod": 602,
+     "cod": 603,
      "nome": "CANETA PILOT COMUM",
      "marca": "PILOT",
      "preco": 11.9,
-     "img": "produtos/602.jpg",
-     "saldo": 6,
+     "img": "produtos/603.jpg",
+     "saldo": 36,
      "cores": [
-      {
-       "cod": 602,
-       "cor": "Azul",
-       "nome": "CANETA PILOT COMUM-AZUL",
-       "img": "produtos/602.jpg",
-       "saldo": 6
-      },
       {
        "cod": 603,
        "cor": "Preta",
@@ -2170,7 +2163,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1075
+     "saldo": 1060
     },
     {
      "cod": 1670,
@@ -8995,7 +8988,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 525
+     "saldo": 524
     },
     {
      "cod": 1293,
@@ -11206,7 +11199,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 2015,
@@ -14541,7 +14534,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/6951.jpg",
-     "saldo": 194
+     "saldo": 192
     },
     {
      "cod": 6195,
@@ -15277,7 +15270,7 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14209.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 10020,
@@ -15331,14 +15324,14 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14205.jpg",
-     "saldo": 47,
+     "saldo": 46,
      "cores": [
       {
        "cod": 14205,
        "cor": "Azul",
        "nome": "PASTA PP 5CM PLASCONY-AZUL",
        "img": "produtos/14205.jpg",
-       "saldo": 47
+       "saldo": 46
       },
       {
        "cod": 14444,
@@ -19249,7 +19242,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 11832,
@@ -20550,7 +20543,7 @@
      "marca": "",
      "preco": 0.7,
      "img": "produtos/986.jpg",
-     "saldo": 354
+     "saldo": 343
     },
     {
      "cod": 8902,
@@ -22914,7 +22907,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 337
+     "saldo": 336
     },
     {
      "cod": 1444,
@@ -23687,14 +23680,6 @@
      "preco": 26.9,
      "img": "produtos/14621.jpg",
      "saldo": 4
-    },
-    {
-     "cod": 1970,
-     "nome": "MOLHEIRA (PET)-C/10",
-     "marca": "FNS",
-     "preco": 4.0,
-     "img": "produtos/1970.jpg",
-     "saldo": 4
     }
    ]
   },
@@ -23844,7 +23829,7 @@
      "marca": "PITPRATOS",
      "preco": 41.9,
      "img": "produtos/2565.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2566,
@@ -29292,7 +29277,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/8296.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 10989,
