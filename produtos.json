@@ -2522,7 +2522,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 546
+     "saldo": 543
     },
     {
      "cod": 5836,
@@ -2538,7 +2538,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 668
+     "saldo": 665
     },
     {
      "cod": 14124,
@@ -5346,7 +5346,7 @@
      "marca": "TILIBRA",
      "preco": 21.9,
      "img": "produtos/6564.jpg",
-     "saldo": 27
+     "saldo": 25
     },
     {
      "cod": 10466,
@@ -5402,7 +5402,7 @@
      "marca": "SD",
      "preco": 51.9,
      "img": "produtos/12964.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 13181,
@@ -6140,7 +6140,7 @@
      "marca": "SAO DOMING",
      "preco": 26.9,
      "img": "produtos/5915.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 12836,
@@ -7942,7 +7942,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 788,
@@ -8180,7 +8180,7 @@
      "marca": "DOTAD",
      "preco": 15.9,
      "img": "produtos/9567.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 10235,
@@ -8308,7 +8308,7 @@
      "marca": "INK ROLLER",
      "preco": 21.9,
      "img": "produtos/2665.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 2667,
@@ -8346,7 +8346,7 @@
      "marca": "LEO E LEO",
      "preco": 1.3,
      "img": "produtos/808.jpg",
-     "saldo": 190
+     "saldo": 188
     },
     {
      "cod": 807,
@@ -9122,7 +9122,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 252
+     "saldo": 251
     },
     {
      "cod": 1313,
@@ -9184,7 +9184,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 1519,
@@ -9312,7 +9312,7 @@
      "marca": "THOMPSON",
      "preco": 69.9,
      "img": "produtos/1528.jpg",
-     "saldo": 5
+     "saldo": 4
     }
    ]
   },
@@ -9887,7 +9887,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 71
+     "saldo": 68
     }
    ]
   },
@@ -9963,7 +9963,7 @@
      "marca": "ACC",
      "preco": 14.9,
      "img": "produtos/3475.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 14356,
@@ -10043,7 +10043,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 6612,
@@ -11947,7 +11947,7 @@
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 44
+       "saldo": 43
       },
       {
        "cod": 12686,
@@ -17629,14 +17629,6 @@
      "saldo": 4
     },
     {
-     "cod": 14532,
-     "nome": "ESTOJO MOLIN SWEET LOVE-1F ROSA",
-     "marca": "MOLIN",
-     "preco": 37.9,
-     "img": "produtos/14532.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 14533,
      "nome": "ESTOJO MOLIN SWEET LOVE-1F SOFT BLACK",
      "marca": "MOLIN",
@@ -17760,7 +17752,7 @@
      "marca": "SESTINI",
      "preco": 89.9,
      "img": "produtos/11072.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 6435,
@@ -17800,7 +17792,7 @@
      "marca": "XERYUS",
      "preco": 56.9,
      "img": "produtos/13319.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 13323,
@@ -17943,14 +17935,6 @@
      "preco": 69.9,
      "img": "produtos/8574.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 11590,
-     "nome": "LANCHEIRA LUXCEL-VERDE LA49137UP",
-     "marca": "LUXCEL",
-     "preco": 99.9,
-     "img": "produtos/11590.jpg",
-     "saldo": 1
     },
     {
      "cod": 8358,
@@ -18105,14 +18089,6 @@
      "saldo": 1
     },
     {
-     "cod": 11028,
-     "nome": "LANCHEIRA SESTINI-PAUL FRANK ESMERALDA 075765-28",
-     "marca": "SESTINI",
-     "preco": 169.9,
-     "img": "produtos/11028.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 11019,
      "nome": "LANCHEIRA SESTINI-X JOANINHA 066129-00",
      "marca": "SESTINI",
@@ -18188,7 +18164,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22533
+     "saldo": 22484
     },
     {
      "cod": 1098,
@@ -21569,7 +21545,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 28
+     "saldo": 23
     }
    ]
   },
@@ -21631,7 +21607,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2451
+     "saldo": 2426
     },
     {
      "cod": 14414,
@@ -21824,14 +21800,6 @@
      "preco": 10.9,
      "img": "produtos/3348.jpg",
      "saldo": 41
-    },
-    {
-     "cod": 7011,
-     "nome": "COPO TERMICO 70ML C/20-TOTAL (ISOPOR)",
-     "marca": "TOTALPLAST",
-     "preco": 3.9,
-     "img": "produtos/7011.jpg",
-     "saldo": 2
     },
     {
      "cod": 9745,
@@ -22573,7 +22541,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 224
+     "saldo": 214
     },
     {
      "cod": 3731,
@@ -22581,7 +22549,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 272
+     "saldo": 267
     },
     {
      "cod": 1569,
@@ -24881,7 +24849,7 @@
      "marca": "TIBA",
      "preco": 6.9,
      "img": "produtos/14675.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 14674,
@@ -25363,7 +25331,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 60
+     "saldo": 55
     },
     {
      "cod": 2737,
@@ -25499,7 +25467,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 189
+     "saldo": 190
     },
     {
      "cod": 4948,
@@ -25635,7 +25603,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/7176.jpg",
-     "saldo": 211
+     "saldo": 207
     },
     {
      "cod": 7175,
@@ -25785,7 +25753,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 433
+     "saldo": 431
     },
     {
      "cod": 2839,
@@ -26055,7 +26023,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 720
+     "saldo": 653
     },
     {
      "cod": 6825,
@@ -28535,7 +28503,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 500
+     "saldo": 496
     },
     {
      "cod": 6324,
@@ -29181,7 +29149,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4396.jpg",
-     "saldo": 12
+     "saldo": 7
     },
     {
      "cod": 4551,
@@ -30913,16 +30881,16 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/14568.jpg",
-     "saldo": 43,
+     "saldo": 23,
      "controle": [
       "BRANCO",
       "CINZA",
       "PRETO"
      ],
      "saldo_cor": {
-      "BRANCO": 13,
-      "CINZA": 15,
-      "PRETO": 15
+      "BRANCO": 7,
+      "CINZA": 8,
+      "PRETO": 8
      }
     },
     {
@@ -31486,7 +31454,7 @@
     },
     {
      "cod": 14565,
-     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE AM/LARANJA",
+     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
