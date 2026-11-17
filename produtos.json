@@ -1484,28 +1484,28 @@
      "marca": "PILOT",
      "preco": 12.9,
      "img": "produtos/617.jpg",
-     "saldo": 12,
+     "saldo": 11,
      "cores": [
       {
        "cod": 617,
        "cor": "Azul",
        "nome": "CANETA PILOT S.GRIP 1.0-AZUL",
        "img": "produtos/617.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 618,
        "cor": "Preta",
        "nome": "CANETA PILOT S.GRIP 1.0-PRETA",
        "img": "produtos/618.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 619,
        "cor": "Vermelha",
        "nome": "CANETA PILOT S.GRIP 1.0-VERMELHA",
        "img": "produtos/619.jpg",
-       "saldo": 32
+       "saldo": 31
       }
      ]
     },
@@ -2764,7 +2764,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2777,7 +2777,7 @@
       "AMARELO": 8,
       "AZUL": 8,
       "LILAS": 8,
-      "ROSA": 8,
+      "ROSA": 7,
       "SALMÃO": 7,
       "VERDE": 7
      }
@@ -3187,7 +3187,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.RECAR.MASTERPRINT-VERMELHO",
        "img": "produtos/6640.jpg",
-       "saldo": 115
+       "saldo": 114
       }
      ]
     },
@@ -3543,14 +3543,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 131,
+     "saldo": 130,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 131
+       "saldo": 130
       },
       {
        "cod": 2657,
@@ -3927,7 +3927,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/12701.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 275,
@@ -3999,7 +3999,7 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14606.jpg",
-     "saldo": 20,
+     "saldo": 19,
      "controle": [
       "LARANJA",
       "ROSA",
@@ -4007,7 +4007,7 @@
      ],
      "saldo_cor": {
       "LARANJA": 5,
-      "ROSA": 8,
+      "ROSA": 7,
       "ROXO": 7
      }
     },
@@ -8895,7 +8895,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4165
+     "saldo": 4161
     },
     {
      "cod": 14619,
@@ -9129,7 +9129,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1125
+     "saldo": 1122
     },
     {
      "cod": 4389,
@@ -11230,7 +11230,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 2007,
@@ -11348,7 +11348,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 51
+     "saldo": 48
     },
     {
      "cod": 6667,
@@ -19268,6 +19268,14 @@
      "saldo": 59
     },
     {
+     "cod": 8808,
+     "nome": "PISTOLA COLA QUENTE PEQUENA",
+     "marca": "",
+     "preco": 19.9,
+     "img": "produtos/8808.jpg",
+     "saldo": 11
+    },
+    {
      "cod": 11833,
      "nome": "REFIL COLA QUENTE FINO C/1KG",
      "marca": "",
@@ -19281,7 +19289,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 14261,
@@ -21460,7 +21468,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14612.jpg",
-     "saldo": 36,
+     "saldo": 35,
      "controle": [
       "AZUL",
       "PINK",
@@ -21469,7 +21477,7 @@
      ],
      "saldo_cor": {
       "AZUL": 9,
-      "PINK": 9,
+      "PINK": 8,
       "ROSA": 9,
       "ROXO": 9
      }
@@ -21654,7 +21662,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 150
+     "saldo": 144
     },
     {
      "cod": 14406,
@@ -21678,7 +21686,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2501
+     "saldo": 2491
     },
     {
      "cod": 14414,
@@ -22100,7 +22108,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 358
+     "saldo": 357
     },
     {
      "cod": 177,
@@ -22620,7 +22628,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 227
+     "saldo": 226
     },
     {
      "cod": 3731,
@@ -22628,7 +22636,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 274
+     "saldo": 273
     },
     {
      "cod": 1569,
@@ -22676,7 +22684,7 @@
      "marca": "",
      "preco": 77.9,
      "img": "produtos/2531.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 8365,
@@ -22724,7 +22732,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 2937,
@@ -22732,7 +22740,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 439
+     "saldo": 433
     },
     {
      "cod": 4146,
@@ -22748,7 +22756,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 381
+     "saldo": 375
     },
     {
      "cod": 2489,
@@ -24066,7 +24074,7 @@
      "marca": "SANTECK",
      "preco": 34.9,
      "img": "produtos/12125.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 6985,
@@ -24168,7 +24176,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 327
+     "saldo": 326
     },
     {
      "cod": 3951,
@@ -24192,7 +24200,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 58
+     "saldo": 48
     },
     {
      "cod": 11295,
@@ -24596,7 +24604,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 246
+     "saldo": 244
     },
     {
      "cod": 3932,
@@ -24620,7 +24628,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 11675,
@@ -24904,7 +24912,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 14678,
@@ -25210,7 +25218,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2718.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 2716,
@@ -25658,7 +25666,7 @@
      "marca": "ALIPROT",
      "preco": 219.9,
      "img": "produtos/4203.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 14514,
@@ -25730,7 +25738,7 @@
      "marca": "",
      "preco": 11.9,
      "img": "produtos/7173.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 4058,
@@ -26030,14 +26038,14 @@
        "cor": "Rosa",
        "nome": "SACOLA PH 30X40 C/50-ROSA",
        "img": "produtos/4326.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 2858,
        "cor": "Verde Claro",
        "nome": "SACOLA PH 30X40 C/50-VERDE CLARO",
        "img": "produtos/2858.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 2859,
@@ -26546,7 +26554,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 172
+     "saldo": 171
     },
     {
      "cod": 4314,
@@ -26578,7 +26586,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 2901,
@@ -26688,7 +26696,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 506
+     "saldo": 504
     },
     {
      "cod": 236,
@@ -26812,7 +26820,7 @@
      "marca": "CHIARA",
      "preco": 32.9,
      "img": "produtos/7134.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 2703,
@@ -28845,6 +28853,14 @@
    "nome": "Caixas Organizadoras",
    "itens": [
     {
+     "cod": 14784,
+     "nome": "CAIXA ORGANIZADORA 11,5L-BEGE",
+     "marca": "JAGUAR",
+     "preco": 40.9,
+     "img": "produtos/14784.jpg",
+     "saldo": 6
+    },
+    {
      "cod": 14127,
      "nome": "CAIXA ORGANIZADORA 15L-CINZA",
      "marca": "JAGUAR",
@@ -29332,7 +29348,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 306
+     "saldo": 305
     },
     {
      "cod": 7275,
@@ -29458,7 +29474,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 234
+     "saldo": 228
     },
     {
      "cod": 6529,
@@ -30870,7 +30886,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/13381.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 12689,
@@ -32109,7 +32125,7 @@
      "marca": "VMP",
      "preco": 27.9,
      "img": "produtos/13558.jpg",
-     "saldo": 4
+     "saldo": 3
     }
    ]
   },
