@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 670,
+     "saldo": 704,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 670
+       "saldo": 704
       },
       {
        "cod": 553,
@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 864,
+     "saldo": 852,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 864
+       "saldo": 852
       },
       {
        "cod": 570,
@@ -1642,14 +1642,14 @@
      "marca": "UNI-BALL",
      "preco": 16.9,
      "img": "produtos/8750.jpg",
-     "saldo": 52,
+     "saldo": 51,
      "cores": [
       {
        "cod": 8750,
        "cor": "Azul",
        "nome": "CANETA UNIBALL UB-155 DELUXE MICRO-AZUL",
        "img": "produtos/8750.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 10571,
@@ -2170,7 +2170,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1048
+     "saldo": 1075
     },
     {
      "cod": 1670,
@@ -2232,7 +2232,7 @@
        "cor": "Rosa",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROSA",
        "img": "produtos/10561.jpg",
-       "saldo": 9
+       "saldo": 8
       },
       {
        "cod": 10562,
@@ -2246,7 +2246,7 @@
        "cor": "Verde",
        "nome": "LAPIS ESCREVER CIS SPIRO-VERDE",
        "img": "produtos/10563.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 10564,
@@ -3211,7 +3211,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 137
+       "saldo": 136
       },
       {
        "cod": 7532,
@@ -3564,14 +3564,14 @@
        "cor": "Verde",
        "nome": "RETRO 2.0 PILOT-VERDE",
        "img": "produtos/2658.jpg",
-       "saldo": 25
+       "saldo": 24
       },
       {
        "cod": 2659,
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 19
+       "saldo": 18
       }
      ]
     }
@@ -3979,7 +3979,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14544.jpg",
-     "saldo": 36,
+     "saldo": 35,
      "controle": [
       "LILAS",
       "ROSA",
@@ -3988,7 +3988,7 @@
      ],
      "saldo_cor": {
       "LILAS": 9,
-      "ROSA": 9,
+      "ROSA": 8,
       "SALMÃO": 9,
       "VERDE": 9
      }
@@ -4273,7 +4273,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14622.jpg",
-     "saldo": 108
+     "saldo": 107
     },
     {
      "cod": 13083,
@@ -7655,7 +7655,7 @@
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
        "img": "produtos/12455.jpg",
-       "saldo": 26
+       "saldo": 13
       },
       {
        "cod": 9321,
@@ -8029,7 +8029,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 797,
@@ -8895,7 +8895,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4160
+     "saldo": 4159
     },
     {
      "cod": 14619,
@@ -9003,7 +9003,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 358
+     "saldo": 357
     },
     {
      "cod": 1294,
@@ -9121,7 +9121,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 260
+     "saldo": 258
     },
     {
      "cod": 1313,
@@ -9129,7 +9129,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1117
+     "saldo": 1116
     },
     {
      "cod": 4389,
@@ -11230,7 +11230,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 2007,
@@ -14740,7 +14740,7 @@
        "cor": "Branca",
        "nome": "PASTA GRAMPO TRILHO BRANCA",
        "img": "produtos/2220.jpg",
-       "saldo": 31
+       "saldo": 28
       },
       {
        "cod": 2221,
@@ -14849,14 +14849,14 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/4152.jpg",
-     "saldo": 179,
+     "saldo": 169,
      "cores": [
       {
        "cod": 4152,
        "cor": "Cristal",
        "nome": "PASTA L A4 CRISTAL",
        "img": "produtos/4152.jpg",
-       "saldo": 179
+       "saldo": 169
       },
       {
        "cod": 6798,
@@ -18355,7 +18355,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7329
+     "saldo": 7319
     },
     {
      "cod": 1054,
@@ -21638,7 +21638,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 20
+     "saldo": 6245
     },
     {
      "cod": 944,
@@ -21721,6 +21721,14 @@
      "saldo": 426
     },
     {
+     "cod": 14403,
+     "nome": "COPO 50ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 2.9,
+     "img": "produtos/14403.jpg",
+     "saldo": 1000
+    },
+    {
      "cod": 3342,
      "nome": "COPO 50ML PS C/100-COPOPLAST",
      "marca": "COPOPLAST",
@@ -21750,7 +21758,7 @@
      "marca": "CRISTALCOP",
      "preco": 7.9,
      "img": "produtos/12557.jpg",
-     "saldo": 25
+     "saldo": 23
     },
     {
      "cod": 7322,
@@ -26308,7 +26316,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 8026
+     "saldo": 7826
     },
     {
      "cod": 11788,
@@ -26546,7 +26554,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 958
+     "saldo": 938
     },
     {
      "cod": 2900,
@@ -26735,14 +26743,6 @@
      "preco": 6.9,
      "img": "produtos/1273.jpg",
      "saldo": 61
-    },
-    {
-     "cod": 1277,
-     "nome": "FILME PVC 38X300M",
-     "marca": "",
-     "preco": 56.9,
-     "img": "produtos/1277.jpg",
-     "saldo": 1
     },
     {
      "cod": 1278,
@@ -27116,7 +27116,7 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/6103.jpg",
-     "saldo": 32
+     "saldo": 27
     },
     {
      "cod": 7057,
@@ -29276,7 +29276,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 10988,
@@ -30186,16 +30186,16 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/14627.jpg",
-     "saldo": 23,
+     "saldo": 48,
      "controle": [
       "LILAS",
       "ROSA",
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "LILAS": 7,
-      "ROSA": 8,
-      "VERDE-ÁGUA": 8
+      "LILAS": 16,
+      "ROSA": 16,
+      "VERDE-ÁGUA": 16
      }
     },
     {
@@ -30204,14 +30204,14 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/14628.jpg",
-     "saldo": 28,
+     "saldo": 46,
      "controle": [
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
-      "ROSA": 13,
-      "ROXO": 15
+      "ROSA": 22,
+      "ROXO": 24
      }
     },
     {
@@ -30238,16 +30238,16 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/14630.jpg",
-     "saldo": 18,
+     "saldo": 46,
      "controle": [
       "AMARELO",
       "ROSA",
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AMARELO": 6,
-      "ROSA": 6,
-      "VERDE-ÁGUA": 6
+      "AMARELO": 16,
+      "ROSA": 15,
+      "VERDE-ÁGUA": 15
      }
     },
     {
@@ -30537,7 +30537,7 @@
        "cor": "Rosa",
        "nome": "APONTADOR LEO C/D MINI-ROSA",
        "img": "produtos/7547.jpg",
-       "saldo": 95
+       "saldo": 94
       },
       {
        "cod": 7548,
