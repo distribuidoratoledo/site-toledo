@@ -3065,7 +3065,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 54
+       "saldo": 52
       },
       {
        "cod": 3604,
@@ -3550,7 +3550,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 46
+       "saldo": 45
       },
       {
        "cod": 2658,
@@ -8022,7 +8022,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 797,
@@ -8030,7 +8030,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/797.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 14697,
@@ -8888,7 +8888,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4159
+     "saldo": 4158
     },
     {
      "cod": 14619,
@@ -14152,7 +14152,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 154
+     "saldo": 152
     },
     {
      "cod": 7644,
@@ -14550,14 +14550,14 @@
      "marca": "PLASCONY",
      "preco": 19.9,
      "img": "produtos/14202.jpg",
-     "saldo": 10,
+     "saldo": 9,
      "cores": [
       {
        "cod": 14202,
        "cor": "Amarelo",
        "nome": "PASTA CATALOGO TRANSP. C/20 (AMARELO)",
        "img": "produtos/14202.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 12929,
@@ -15090,14 +15090,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 17,
+     "saldo": 14,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 17
+       "saldo": 14
       },
       {
        "cod": 6797,
@@ -15778,7 +15778,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/7200.jpg",
-     "saldo": 124
+     "saldo": 114
     },
     {
      "cod": 7201,
@@ -15786,7 +15786,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 89
+     "saldo": 87
     },
     {
      "cod": 13124,
@@ -16120,7 +16120,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 264
+       "saldo": 244
       },
       {
        "cod": 1221,
@@ -18196,7 +18196,7 @@
      "marca": "SCRITY",
      "preco": 0.15,
      "img": "produtos/1098.jpg",
-     "saldo": 172
+     "saldo": 142
     },
     {
      "cod": 1039,
@@ -18308,7 +18308,7 @@
      "marca": "SCRITY",
      "preco": 0.3,
      "img": "produtos/1042.jpg",
-     "saldo": 5370
+     "saldo": 5365
     },
     {
      "cod": 1045,
@@ -18756,7 +18756,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 118
+     "saldo": 113
     }
    ]
   },
@@ -19258,7 +19258,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 323
+     "saldo": 322
     }
    ]
   },
@@ -21591,7 +21591,7 @@
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/938.jpg",
-     "saldo": 397
+     "saldo": 396
     },
     {
      "cod": 943,
@@ -21663,7 +21663,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 910
+     "saldo": 907
     },
     {
      "cod": 14407,
@@ -22685,7 +22685,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 67
+     "saldo": 66
     },
     {
      "cod": 2937,
@@ -22693,7 +22693,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 429
+     "saldo": 428
     },
     {
      "cod": 4146,
@@ -24137,7 +24137,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 314
+     "saldo": 312
     },
     {
      "cod": 3951,
@@ -24653,7 +24653,7 @@
      "marca": "VABENE",
      "preco": 23.9,
      "img": "produtos/7305.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 1995,
@@ -25539,7 +25539,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 671
+     "saldo": 661
     },
     {
      "cod": 2808,
@@ -26047,7 +26047,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2386
+     "saldo": 2384
     },
     {
      "cod": 6821,
@@ -26055,7 +26055,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 719
+     "saldo": 717
     },
     {
      "cod": 6855,
@@ -26349,7 +26349,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 40
+     "saldo": 50
     }
    ]
   },
@@ -29031,7 +29031,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 1495,
@@ -29157,7 +29157,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/9179.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 7488,
