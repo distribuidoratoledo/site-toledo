@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 852,
+     "saldo": 850,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 852
+       "saldo": 850
       },
       {
        "cod": 570,
@@ -3620,7 +3620,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 12247,
@@ -3748,7 +3748,7 @@
      "marca": "COMPACTOR",
      "preco": 9.9,
      "img": "produtos/14376.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 14437,
@@ -3896,7 +3896,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
-     "saldo": 90,
+     "saldo": 87,
      "controle": [
       "AZUL",
       "ROSA",
@@ -3904,7 +3904,7 @@
      ],
      "saldo_cor": {
       "AZUL": 29,
-      "ROSA": 31,
+      "ROSA": 28,
       "ROXO": 30
      }
     }
@@ -3963,7 +3963,7 @@
       "AZUL": 12,
       "ROSA": 12,
       "ROXO": 12,
-      "VERDE-ÁGUA": 12
+      "VERDE-ÁGUA": 11
      }
     },
     {
@@ -4701,7 +4701,7 @@
        "cor": "Preto",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS PRETO",
        "img": "produtos/14314.jpg",
-       "saldo": 43
+       "saldo": 42
       }
      ]
     },
@@ -6585,7 +6585,7 @@
      "marca": "TILIBRA",
      "preco": 33.9,
      "img": "produtos/6295.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 12441,
@@ -6745,7 +6745,7 @@
      "marca": "SD",
      "preco": 29.9,
      "img": "produtos/8235.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 5726,
@@ -7159,7 +7159,7 @@
      "marca": "MAXIMA",
      "preco": 14.9,
      "img": "produtos/8384.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 8386,
@@ -7942,7 +7942,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 788,
@@ -8038,7 +8038,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/797.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 14697,
@@ -8148,7 +8148,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 508,
@@ -8602,7 +8602,7 @@
      "marca": "TEKBOND",
      "preco": 12.9,
      "img": "produtos/844.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 845,
@@ -8610,7 +8610,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 846,
@@ -8880,7 +8880,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1973
+     "saldo": 1963
     },
     {
      "cod": 1031,
@@ -9004,7 +9004,7 @@
      "marca": "ADELBRAS",
      "preco": 15.9,
      "img": "produtos/1294.jpg",
-     "saldo": 222
+     "saldo": 220
     },
     {
      "cod": 6761,
@@ -10225,7 +10225,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 165
+     "saldo": 164
     },
     {
      "cod": 1977,
@@ -11231,14 +11231,14 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 30,
+     "saldo": 29,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 30
+       "saldo": 29
       },
       {
        "cod": 3975,
@@ -17555,7 +17555,7 @@
      "marca": "LUXCEL",
      "preco": 107.9,
      "img": "produtos/12419.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 12420,
@@ -17579,7 +17579,7 @@
      "marca": "LUXCEL",
      "preco": 107.9,
      "img": "produtos/12421.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 12852,
@@ -18819,7 +18819,7 @@
      "marca": "PAPER MULT",
      "preco": 4.5,
      "img": "produtos/215.jpg",
-     "saldo": 102
+     "saldo": 99
     },
     {
      "cod": 6963,
@@ -18931,7 +18931,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/6624.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 6620,
@@ -21560,7 +21560,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6165
+     "saldo": 6159
     },
     {
      "cod": 944,
@@ -21576,7 +21576,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2426
+     "saldo": 2422
     },
     {
      "cod": 14414,
@@ -21640,7 +21640,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/954.jpg",
-     "saldo": 426
+     "saldo": 406
     },
     {
      "cod": 14403,
@@ -21648,7 +21648,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 998
+     "saldo": 997
     },
     {
      "cod": 3342,
@@ -21656,7 +21656,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 244
+     "saldo": 242
     },
     {
      "cod": 14405,
@@ -21664,7 +21664,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 67
+     "saldo": 65
     },
     {
      "cod": 960,
@@ -21736,7 +21736,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 192
+     "saldo": 191
     },
     {
      "cod": 958,
@@ -21904,7 +21904,7 @@
      "marca": "ULTRA",
      "preco": 8.9,
      "img": "produtos/3698.jpg",
-     "saldo": 119
+     "saldo": 118
     },
     {
      "cod": 14233,
@@ -22630,7 +22630,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 402
+     "saldo": 401
     },
     {
      "cod": 4146,
@@ -22638,7 +22638,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 305
+     "saldo": 254
     },
     {
      "cod": 2491,
@@ -22646,7 +22646,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 349
+     "saldo": 348
     },
     {
      "cod": 3887,
@@ -22654,7 +22654,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 283
+     "saldo": 232
     },
     {
      "cod": 2489,
@@ -22788,7 +22788,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 620
+     "saldo": 617
     },
     {
      "cod": 880,
@@ -22796,7 +22796,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 388
+     "saldo": 386
     },
     {
      "cod": 14417,
@@ -22844,7 +22844,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 126
+     "saldo": 125
     },
     {
      "cod": 4277,
@@ -22994,7 +22994,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 223
+     "saldo": 222
     },
     {
      "cod": 2516,
@@ -23646,7 +23646,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 988
+     "saldo": 984
     },
     {
      "cod": 3857,
@@ -23654,7 +23654,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 219
+     "saldo": 213
     },
     {
      "cod": 2552,
@@ -23678,7 +23678,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 519
+     "saldo": 517
     },
     {
      "cod": 11873,
@@ -23702,7 +23702,7 @@
      "marca": "COPOPLAST",
      "preco": 5.9,
      "img": "produtos/2556.jpg",
-     "saldo": 39
+     "saldo": 36
     },
     {
      "cod": 2558,
@@ -23916,7 +23916,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 26
+     "saldo": 20
     },
     {
      "cod": 7070,
@@ -23988,7 +23988,7 @@
      "marca": "ABN",
      "preco": 66.9,
      "img": "produtos/481.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 6987,
@@ -23996,7 +23996,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 10001,
@@ -24176,7 +24176,7 @@
      "marca": "",
      "preco": 66.9,
      "img": "produtos/4676.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 39,
@@ -24486,7 +24486,7 @@
      "marca": "INOVEN",
      "preco": 5.9,
      "img": "produtos/11897.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 3301,
@@ -24574,7 +24574,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 217
+     "saldo": 216
     },
     {
      "cod": 7305,
@@ -25012,7 +25012,7 @@
      "marca": "ROMA P.",
      "preco": 5.9,
      "img": "produtos/2705.jpg",
-     "saldo": 857
+     "saldo": 856
     },
     {
      "cod": 2706,
@@ -25020,7 +25020,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 977
+     "saldo": 976
     },
     {
      "cod": 2707,
@@ -25604,7 +25604,7 @@
      "marca": "GRESPAN",
      "preco": 3.9,
      "img": "produtos/7177.jpg",
-     "saldo": 208
+     "saldo": 188
     },
     {
      "cod": 7171,
@@ -26190,7 +26190,7 @@
      "marca": "HIPER ROLL",
      "preco": 39.9,
      "img": "produtos/6965.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 254,
@@ -26444,7 +26444,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 171
+     "saldo": 169
     },
     {
      "cod": 4314,
@@ -28646,7 +28646,7 @@
      "marca": "ANTARES",
      "preco": 53.9,
      "img": "produtos/4681.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 7148,
@@ -28686,7 +28686,7 @@
      "marca": "TRITEC",
      "preco": 129.9,
      "img": "produtos/1778.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 7838,
@@ -29070,7 +29070,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 646
+     "saldo": 644
     },
     {
      "cod": 1786,
@@ -29284,7 +29284,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 9017,
@@ -29324,7 +29324,7 @@
      "marca": "SULLEG",
      "preco": 7.9,
      "img": "produtos/14357.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 2154,
@@ -29348,7 +29348,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 221
+     "saldo": 216
     },
     {
      "cod": 6529,
@@ -29356,7 +29356,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1449
+     "saldo": 1445
     },
     {
      "cod": 2157,
@@ -29419,14 +29419,6 @@
      "preco": 4.9,
      "img": "produtos/2000.jpg",
      "saldo": 21
-    },
-    {
-     "cod": 4215,
-     "nome": "PERFEX 50 PANOS VERDE (28X50CM)",
-     "marca": "INOVEN",
-     "preco": 19.9,
-     "img": "produtos/4215.jpg",
-     "saldo": 1
     },
     {
      "cod": 9829,
@@ -30700,7 +30692,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
-     "saldo": 44,
+     "saldo": 43,
      "controle": [
       "AZUL",
       "LILAS",
@@ -30708,7 +30700,7 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AZUL": 12,
+      "AZUL": 11,
       "LILAS": 6,
       "ROSA": 8,
       "VERDE": 18
@@ -30768,7 +30760,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/12689.jpg",
-     "saldo": 83
+     "saldo": 82
     },
     {
      "cod": 12638,
@@ -31419,7 +31411,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 138,
+     "saldo": 132,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31429,12 +31421,12 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 24,
-      "AZUL": 22,
-      "LARANJA": 24,
-      "LILAS": 21,
-      "ROSA": 24,
-      "VERDE": 23
+      "AMARELO": 23,
+      "AZUL": 21,
+      "LARANJA": 23,
+      "LILAS": 20,
+      "ROSA": 23,
+      "VERDE": 22
      }
     },
     {
