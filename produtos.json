@@ -5797,7 +5797,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8253.jpg",
-     "saldo": 14
+     "saldo": 9
     },
     {
      "cod": 14726,
@@ -6021,7 +6021,7 @@
      "marca": "CADERSIL",
      "preco": 31.9,
      "img": "produtos/12845.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 5736,
@@ -6086,14 +6086,6 @@
      "preco": 14.9,
      "img": "produtos/5734.jpg",
      "saldo": 243
-    },
-    {
-     "cod": 5844,
-     "nome": "CADERNO 1X1 80F-MAGIC CONNECT",
-     "marca": "TILIBRA",
-     "preco": 27.9,
-     "img": "produtos/5844.jpg",
-     "saldo": 1
     },
     {
      "cod": 5881,
@@ -6305,7 +6297,7 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/5613.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 12841,
@@ -6353,7 +6345,7 @@
      "marca": "TILIBRA",
      "preco": 28.9,
      "img": "produtos/7767.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 8895,
@@ -6979,7 +6971,7 @@
      "marca": "S. DOMINGO",
      "preco": 31.9,
      "img": "produtos/8103.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 8245,
@@ -7267,7 +7259,7 @@
      "marca": "SD",
      "preco": 24.9,
      "img": "produtos/12978.jpg",
-     "saldo": 24
+     "saldo": 21
     },
     {
      "cod": 12980,
@@ -7347,7 +7339,7 @@
      "marca": "SAO DOMING",
      "preco": 22.9,
      "img": "produtos/12979.jpg",
-     "saldo": 6
+     "saldo": 2
     },
     {
      "cod": 14750,
@@ -7451,7 +7443,7 @@
      "marca": "SD",
      "preco": 29.9,
      "img": "produtos/12971.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 8766,
@@ -15727,14 +15719,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 214,
+     "saldo": 213,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 214
+       "saldo": 213
       },
       {
        "cod": 6797,
