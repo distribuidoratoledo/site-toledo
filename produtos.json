@@ -2171,7 +2171,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 13799,
@@ -6124,7 +6124,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8895.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 10926,
@@ -9296,7 +9296,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 217
+     "saldo": 216
     },
     {
      "cod": 1313,
@@ -16340,14 +16340,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 246,
+     "saldo": 241,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 246
+       "saldo": 241
       },
       {
        "cod": 1230,
@@ -16501,7 +16501,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3060.jpg",
-     "saldo": 496
+     "saldo": 493
     },
     {
      "cod": 3062,
@@ -26783,7 +26783,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 87
+     "saldo": 67
     },
     {
      "cod": 10990,
@@ -30991,13 +30991,13 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/14553.jpg",
-     "saldo": 32,
+     "saldo": 31,
      "controle": [
       "AMARELO",
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 16,
+      "AMARELO": 15,
       "VERDE": 16
      }
     },
