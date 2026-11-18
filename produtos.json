@@ -214,7 +214,7 @@
      "marca": "CIS",
      "preco": 2.9,
      "img": "produtos/10580.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 10500,
@@ -521,7 +521,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/14374.jpg",
-     "saldo": 207
+     "saldo": 206
     },
     {
      "cod": 5084,
@@ -568,14 +568,14 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/576.jpg",
-     "saldo": 94,
+     "saldo": 92,
      "cores": [
       {
        "cod": 576,
        "cor": "Azul",
        "nome": "CANETA FABER TRILUX-AZUL",
        "img": "produtos/576.jpg",
-       "saldo": 94
+       "saldo": 92
       },
       {
        "cod": 5398,
@@ -1414,14 +1414,14 @@
      "marca": "PILOT",
      "preco": 12.9,
      "img": "produtos/611.jpg",
-     "saldo": 27,
+     "saldo": 26,
      "cores": [
       {
        "cod": 611,
        "cor": "Azul",
        "nome": "CANETA PILOT GRIP 1.6-AZUL",
        "img": "produtos/611.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 612,
@@ -1446,14 +1446,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/614.jpg",
-     "saldo": 13,
+     "saldo": 12,
      "cores": [
       {
        "cod": 614,
        "cor": "Azul",
        "nome": "CANETA PILOT S.GRIP 0.7-AZUL",
        "img": "produtos/614.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 615,
@@ -2171,7 +2171,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 36
+     "saldo": 34
     },
     {
      "cod": 13799,
@@ -3550,7 +3550,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 41
+       "saldo": 37
       },
       {
        "cod": 2658,
@@ -3564,7 +3564,7 @@
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 17
+       "saldo": 16
       }
      ]
     }
@@ -3596,7 +3596,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 564
+     "saldo": 560
     },
     {
      "cod": 1507,
@@ -3708,7 +3708,7 @@
      "marca": "CIS",
      "preco": 12.9,
      "img": "produtos/14438.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 14237,
@@ -3952,7 +3952,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14556.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4056,35 +4056,35 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/3214.jpg",
-     "saldo": 98,
+     "saldo": 97,
      "cores": [
       {
        "cod": 3214,
        "cor": "Amarela",
        "nome": "BORRACHA FABER C/CP NEON-AMARELA",
        "img": "produtos/3214.jpg",
-       "saldo": 98
+       "saldo": 97
       },
       {
        "cod": 3215,
        "cor": "Laranja",
        "nome": "BORRACHA FABER C/CP NEON-LARANJA",
        "img": "produtos/3215.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 3216,
        "cor": "Rosa",
        "nome": "BORRACHA FABER C/CP NEON-ROSA",
        "img": "produtos/3216.jpg",
-       "saldo": 24
+       "saldo": 23
       },
       {
        "cod": 3217,
        "cor": "Verde",
        "nome": "BORRACHA FABER C/CP NEON-VERDE",
        "img": "produtos/3217.jpg",
-       "saldo": 12
+       "saldo": 11
       }
      ]
     },
@@ -4142,7 +4142,7 @@
      "marca": "MERCUR",
      "preco": 0.9,
      "img": "produtos/279.jpg",
-     "saldo": 2323
+     "saldo": 2321
     },
     {
      "cod": 281,
@@ -5434,7 +5434,7 @@
      "marca": "SD",
      "preco": 52.9,
      "img": "produtos/13059.jpg",
-     "saldo": 13
+     "saldo": 11
     },
     {
      "cod": 12400,
@@ -5736,7 +5736,7 @@
      "marca": "CREDEAL",
      "preco": 19.9,
      "img": "produtos/8402.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 12767,
@@ -5816,7 +5816,7 @@
      "marca": "SD",
      "preco": 34.9,
      "img": "produtos/13099.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 5734,
@@ -6108,7 +6108,7 @@
      "marca": "SD",
      "preco": 39.9,
      "img": "produtos/12969.jpg",
-     "saldo": 23
+     "saldo": 15
     },
     {
      "cod": 12415,
@@ -7534,7 +7534,7 @@
      "marca": "SD",
      "preco": 13.9,
      "img": "produtos/13115.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 10884,
@@ -9098,7 +9098,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 11807,
@@ -9728,7 +9728,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 6716,
@@ -9767,7 +9767,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 345
+     "saldo": 344
     },
     {
      "cod": 12290,
@@ -9823,7 +9823,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/7685.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 982,
@@ -9863,7 +9863,7 @@
      "marca": "JOCAR",
      "preco": 3.9,
      "img": "produtos/7549.jpg",
-     "saldo": 108
+     "saldo": 107
     },
     {
      "cod": 4212,
@@ -11231,35 +11231,35 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 29,
+     "saldo": 28,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 29
+       "saldo": 28
       },
       {
        "cod": 3975,
        "cor": "Azul",
        "nome": "PAPEL A4 COLOR. C/100-AZUL",
        "img": "produtos/3975.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 6314,
        "cor": "Rosa",
        "nome": "PAPEL A4 COLOR. C/100-ROSA",
        "img": "produtos/6314.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 6313,
        "cor": "Verde",
        "nome": "PAPEL A4 COLOR. C/100-VERDE",
        "img": "produtos/6313.jpg",
-       "saldo": 54
+       "saldo": 53
       }
      ]
     },
@@ -13348,7 +13348,7 @@
      "marca": "MAXCRIL",
      "preco": 79.9,
      "img": "produtos/171.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 7502,
@@ -13905,7 +13905,7 @@
      "marca": "MAXCRIL",
      "preco": 10.9,
      "img": "produtos/2465.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 13579,
@@ -14649,7 +14649,7 @@
        "cor": "Azul",
        "nome": "PASTA ENVELOPE A4-AZUL NEON",
        "img": "produtos/10023.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 10025,
@@ -15723,7 +15723,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/1139.jpg",
-     "saldo": 34
+     "saldo": 30
     },
     {
      "cod": 3390,
@@ -15739,7 +15739,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 134
+     "saldo": 132
     },
     {
      "cod": 1144,
@@ -16375,7 +16375,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3069.jpg",
-     "saldo": 848
+     "saldo": 823
     },
     {
      "cod": 3070,
@@ -18701,7 +18701,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 113
+     "saldo": 93
     }
    ]
   },
@@ -19385,7 +19385,7 @@
      "marca": "CULTURAMA",
      "preco": 4.9,
      "img": "produtos/14655.jpg",
-     "saldo": 155
+     "saldo": 152
     },
     {
      "cod": 12465,
@@ -21560,7 +21560,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6159
+     "saldo": 6134
     },
     {
      "cod": 944,
@@ -22510,7 +22510,7 @@
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 3947,
@@ -22630,7 +22630,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 401
+     "saldo": 400
     },
     {
      "cod": 4146,
@@ -25020,7 +25020,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 976
+     "saldo": 956
     },
     {
      "cod": 2707,
@@ -25028,7 +25028,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 35
+     "saldo": 37
     },
     {
      "cod": 2709,
@@ -25636,7 +25636,7 @@
      "marca": "GRESPAN",
      "preco": 17.9,
      "img": "produtos/4058.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 4045,
@@ -25682,7 +25682,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 882
+     "saldo": 872
     },
     {
      "cod": 10972,
@@ -26230,7 +26230,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 7626
+     "saldo": 7526
     },
     {
      "cod": 11788,
@@ -26436,7 +26436,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2346
+     "saldo": 2344
     },
     {
      "cod": 2896,
@@ -26468,7 +26468,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 933
+     "saldo": 929
     },
     {
      "cod": 2900,
@@ -28258,7 +28258,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 325
+     "saldo": 324
     },
     {
      "cod": 2779,
@@ -28906,7 +28906,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 341
+     "saldo": 321
     },
     {
      "cod": 2608,
@@ -29206,7 +29206,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/10989.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 1874,
@@ -29222,7 +29222,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 304
+     "saldo": 301
     },
     {
      "cod": 7275,
@@ -31411,7 +31411,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 132,
+     "saldo": 128,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31421,12 +31421,12 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 23,
-      "AZUL": 21,
+      "AMARELO": 22,
+      "AZUL": 20,
       "LARANJA": 23,
       "LILAS": 20,
-      "ROSA": 23,
-      "VERDE": 22
+      "ROSA": 22,
+      "VERDE": 21
      }
     },
     {
