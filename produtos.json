@@ -905,8 +905,8 @@
       "ROSA"
      ],
      "saldo_cor": {
-      "BRANCO": 10,
-      "LILAS": 10,
+      "BRANCO": 9,
+      "LILAS": 9,
       "ROSA": 9
      }
     },
@@ -1849,7 +1849,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/7699.jpg",
-     "saldo": 159
+     "saldo": 155
     },
     {
      "cod": 1642,
@@ -2171,7 +2171,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 13799,
@@ -3596,7 +3596,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 560
+     "saldo": 558
     },
     {
      "cod": 1507,
@@ -3652,7 +3652,7 @@
      "marca": "COMPACTOR",
      "preco": 8.9,
      "img": "produtos/7034.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 14442,
@@ -3724,7 +3724,7 @@
      "marca": "COMPACTOR",
      "preco": 8.9,
      "img": "produtos/7038.jpg",
-     "saldo": 164
+     "saldo": 161
     },
     {
      "cod": 14371,
@@ -7122,6 +7122,14 @@
      "saldo": 2
     },
     {
+     "cod": 417,
+     "nome": "CADERNO CD S/P 80F TILIBRA (AZUL)",
+     "marca": "TILIBRA",
+     "preco": 10.9,
+     "img": "produtos/417.jpg",
+     "saldo": 100
+    },
+    {
      "cod": 11482,
      "nome": "CADERNO CD S/P 96F JANDAIA (VERMELHO)",
      "marca": "JANDAIA",
@@ -7513,6 +7521,30 @@
      "saldo": 1
     },
     {
+     "cod": 12782,
+     "nome": "CADERNO INTELIG. (G) TILIDISCO ACADEMIE PRETO CONNECT C/160F",
+     "marca": "TILIBRA",
+     "preco": 119.9,
+     "img": "produtos/12782.jpg",
+     "saldo": 6
+    },
+    {
+     "cod": 12785,
+     "nome": "CADERNO INTELIG. (G) TILIDISCO MAGIC CONNECT C/160F",
+     "marca": "TILIBRA",
+     "preco": 119.9,
+     "img": "produtos/12785.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 8720,
+     "nome": "CADERNO INTELIG. (G) TILIDISCO WEST VILLAGE CONNECT C/160F",
+     "marca": "TILIBRA",
+     "preco": 119.0,
+     "img": "produtos/8720.jpg",
+     "saldo": 2
+    },
+    {
      "cod": 11377,
      "nome": "CADERNO MUSICA GRD CD 64F-TAMOIO",
      "marca": "TAMOIO",
@@ -7526,7 +7558,7 @@
      "marca": "TILIBRA",
      "preco": 32.9,
      "img": "produtos/5670.jpg",
-     "saldo": 2
+     "saldo": 42
     },
     {
      "cod": 13115,
@@ -7809,6 +7841,14 @@
      "preco": 19.9,
      "img": "produtos/8905.jpg",
      "saldo": 4
+    },
+    {
+     "cod": 7819,
+     "nome": "REFIL INTELIG. (G) TILIDISCO 80F",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/7819.jpg",
+     "saldo": 75
     },
     {
      "cod": 11463,
@@ -8172,7 +8212,7 @@
      "marca": "DOTAD",
      "preco": 12.9,
      "img": "produtos/14284.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 9567,
@@ -8778,7 +8818,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 313
+     "saldo": 307
     },
     {
      "cod": 11926,
@@ -9184,7 +9224,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 1520,
@@ -9584,7 +9624,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 464
+     "saldo": 463
     },
     {
      "cod": 10030,
@@ -9893,7 +9933,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 88
+     "saldo": 86
     }
    ]
   },
@@ -11223,7 +11263,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 50
+     "saldo": 45
     },
     {
      "cod": 2007,
@@ -13086,7 +13126,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/5746.jpg",
-     "saldo": 1
+     "saldo": 201
     },
     {
      "cod": 7481,
@@ -15787,7 +15827,7 @@
      "marca": "TRAMONTINA",
      "preco": 24.9,
      "img": "produtos/2959.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 6635,
@@ -17625,7 +17665,7 @@
        "cor": "Preto",
        "nome": "ESTOJO MT 1F TRANSPARENTE-PRETO",
        "img": "produtos/10881.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 10880,
@@ -18309,7 +18349,7 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1062.jpg",
-     "saldo": 8267
+     "saldo": 6267
     },
     {
      "cod": 3386,
@@ -19543,7 +19583,7 @@
      "marca": "LEO E LEO",
      "preco": 5.9,
      "img": "produtos/7509.jpg",
-     "saldo": 186
+     "saldo": 183
     },
     {
      "cod": 11629,
@@ -20546,6 +20586,14 @@
    "nome": "Ficha e Fichário",
    "itens": [
     {
+     "cod": 12810,
+     "nome": "CADERNO ARGOLADO (M) COLEG-SOHO 80F",
+     "marca": "TILIBRA",
+     "preco": 69.9,
+     "img": "produtos/12810.jpg",
+     "saldo": 2
+    },
+    {
      "cod": 1254,
      "nome": "FICHA CONTA CORRENTE 4X6 C/100",
      "marca": "TILIBRA",
@@ -20743,7 +20791,7 @@
      "marca": "TILIBRA",
      "preco": 14.9,
      "img": "produtos/5849.jpg",
-     "saldo": 1
+     "saldo": 76
     },
     {
      "cod": 2620,
@@ -21561,7 +21609,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2422
+     "saldo": 2420
     },
     {
      "cod": 14414,
@@ -24535,7 +24583,7 @@
      "marca": "M. E MOTA",
      "preco": 6.9,
      "img": "produtos/1113.jpg",
-     "saldo": 77
+     "saldo": 76
     },
     {
      "cod": 7108,
@@ -25005,7 +25053,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 946
+     "saldo": 945
     },
     {
      "cod": 2707,
@@ -26975,7 +27023,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10104.jpg",
-     "saldo": 129
+     "saldo": 128
     },
     {
      "cod": 2804,
@@ -29341,7 +29389,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1439
+     "saldo": 1438
     },
     {
      "cod": 2157,
@@ -30346,7 +30394,7 @@
      "marca": "LEO E LEO",
      "preco": 0.8,
      "img": "produtos/7601.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 7588,
