@@ -250,7 +250,7 @@
       background: radial-gradient(ellipse at center, #262200 0%, #111 55%, #050505 100%); border: 3px solid #ffd400;
       box-shadow: 0 8px 22px rgba(0,0,0,.22); }
     .bf-topo .bf-marca { font-size: clamp(2.4rem, 7vw, 4rem); }
-    .bf-topo .bf-topo-off { margin: .2rem 0 .3rem; font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 900; color: #ffd400; line-height: 1; letter-spacing: .02em; }
+    .bf-topo .bf-topo-off { margin: .2rem 0 0; font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 900; color: #ffd400; line-height: 1; letter-spacing: .02em; }
     .bf-topo .bf-topo-sub { margin: 0; font-size: .92rem; color: #e6e6e6; }
     .bf-selo { display: inline-block; background: #111; color: #ffd400; font-size: .68rem; font-weight: 800; letter-spacing: .05em;
       text-transform: uppercase; padding: .12rem .45rem; border-radius: 6px; margin-right: .35rem; vertical-align: middle; }
@@ -1363,8 +1363,7 @@
       /* 18/11/2026: "destaque essa parte usando os mesmos criterios dessa tela inicial" -- o topo da lista Black Friday
          segue o card da tela inicial (fundo preto, BLACK branco, FRIDAY e 50% OFF em amarelo) */
       var topo = CAT_ATUAL === BF_CAT
-        ? '<div class="bf-topo"><div class="bf-marca"><span>BLACK</span><span>FRIDAY</span></div><p class="bf-topo-off">50% OFF</p>'
-          + '<p class="bf-topo-sub">' + esc(sub) + '</p></div>'
+        ? '<div class="bf-topo"><div class="bf-marca"><span>BLACK</span><span>FRIDAY</span></div><p class="bf-topo-off">50% OFF</p></div>'   // 18/11/2026: frase de produtos retirada a pedido
         : '<h3 class="titulo-cat">' + esc(titulo) + '</h3><p class="sub-cat">' + esc(sub) + '</p>';
       painel.innerHTML = topo +
         (lista.length ? '<div class="grid-produtos">' + lista.map(cardProduto).join('') + '</div>'
