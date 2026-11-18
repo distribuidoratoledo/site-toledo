@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 800,
+     "saldo": 798,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 800
+       "saldo": 798
       },
       {
        "cod": 556,
@@ -3522,7 +3522,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 59
+     "saldo": 57
     },
     {
      "cod": 2652,
@@ -3582,7 +3582,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 34
+       "saldo": 33
       },
       {
        "cod": 2658,
@@ -4209,7 +4209,7 @@
       "AZUL": 49,
       "LILAS": 40,
       "ROSA": 40,
-      "VERDE-ÁGUA": 50
+      "VERDE-ÁGUA": 49
      }
     },
     {
@@ -5000,6 +5000,14 @@
      "saldo": 2
     },
     {
+     "cod": 14708,
+     "nome": "CADERNO 10X1 160F-BLOOM",
+     "marca": "TILIBRA",
+     "preco": 29.9,
+     "img": "produtos/14708.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 5970,
      "nome": "CADERNO 10X1 160F-BOM D+ FEMININO",
      "marca": "SD",
@@ -5195,7 +5203,7 @@
      "cod": 5840,
      "nome": "CADERNO 10X1 160F-LUNIX",
      "marca": "TILIBRA",
-     "preco": 23.9,
+     "preco": 25.9,
      "img": "produtos/5840.jpg",
      "saldo": 70
     },
@@ -5509,10 +5517,18 @@
      "saldo": 35
     },
     {
+     "cod": 14700,
+     "nome": "CADERNO 10X1 160F-ZIP COLORS",
+     "marca": "TILIBRA",
+     "preco": 25.9,
+     "img": "produtos/14700.jpg",
+     "saldo": 120
+    },
+    {
      "cod": 7742,
      "nome": "CADERNO 10X1 160F-ZIP PRETO",
      "marca": "TILIBRA",
-     "preco": 27.9,
+     "preco": 25.9,
      "img": "produtos/7742.jpg",
      "saldo": 93
     },
@@ -5659,6 +5675,14 @@
      "saldo": 8
     },
     {
+     "cod": 14703,
+     "nome": "CADERNO 1X1 80F-BLOOM",
+     "marca": "TILIBRA",
+     "preco": 17.9,
+     "img": "produtos/14703.jpg",
+     "saldo": 64
+    },
+    {
      "cod": 8253,
      "nome": "CADERNO 1X1 80F-BOTANICAL",
      "marca": "CREDEAL",
@@ -5745,6 +5769,14 @@
      "preco": 30.9,
      "img": "produtos/5895.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14706,
+     "nome": "CADERNO 1X1 80F-ESPORTES SCORE",
+     "marca": "TILIBRA",
+     "preco": 17.9,
+     "img": "produtos/14706.jpg",
+     "saldo": 20
     },
     {
      "cod": 10469,
@@ -5878,7 +5910,7 @@
      "cod": 5734,
      "nome": "CADERNO 1X1 80F-LUNIX",
      "marca": "TILIBRA",
-     "preco": 13.9,
+     "preco": 14.9,
      "img": "produtos/5734.jpg",
      "saldo": 243
     },
@@ -6159,6 +6191,14 @@
      "saldo": 1
     },
     {
+     "cod": 14707,
+     "nome": "CADERNO 1X1 80F-SUMMER",
+     "marca": "TILIBRA",
+     "preco": 17.9,
+     "img": "produtos/14707.jpg",
+     "saldo": 32
+    },
+    {
      "cod": 10926,
      "nome": "CADERNO 1X1 80F-TIPODELA",
      "marca": "CREDEAL",
@@ -6207,6 +6247,14 @@
      "saldo": 2
     },
     {
+     "cod": 14699,
+     "nome": "CADERNO 1X1 80F-ZIP COLORS",
+     "marca": "TILIBRA",
+     "preco": 14.9,
+     "img": "produtos/14699.jpg",
+     "saldo": 240
+    },
+    {
      "cod": 7825,
      "nome": "CADERNO 1X1 80F-ZIP PRETO",
      "marca": "TILIBRA",
@@ -6239,6 +6287,22 @@
      "saldo": 4
     },
     {
+     "cod": 14704,
+     "nome": "CADERNO 1X1 96F-LIKE + FEMININO",
+     "marca": "TILIBRA",
+     "preco": 19.9,
+     "img": "produtos/14704.jpg",
+     "saldo": 64
+    },
+    {
+     "cod": 14705,
+     "nome": "CADERNO 1X1 96F-LIKE + MASCULINO",
+     "marca": "TILIBRA",
+     "preco": 19.9,
+     "img": "produtos/14705.jpg",
+     "saldo": 64
+    },
+    {
      "cod": 12387,
      "nome": "CADERNO 20X1 280F-ESSENCIALE PRETO",
      "marca": "CREDEAL",
@@ -6263,12 +6327,28 @@
      "saldo": 4
     },
     {
+     "cod": 14701,
+     "nome": "CADERNO 20X1 320F-LUNIX",
+     "marca": "TILIBRA",
+     "preco": 51.9,
+     "img": "produtos/14701.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 7780,
      "nome": "CADERNO 20X1 320F-WEST VILLAGE",
      "marca": "TILIBRA",
      "preco": 62.9,
      "img": "produtos/7780.jpg",
      "saldo": 8
+    },
+    {
+     "cod": 14702,
+     "nome": "CADERNO 20X1 320F-ZIP COLORS",
+     "marca": "TILIBRA",
+     "preco": 51.9,
+     "img": "produtos/14702.jpg",
+     "saldo": 36
     },
     {
      "cod": 13215,
@@ -8776,7 +8856,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/836.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 7704,
@@ -8984,7 +9064,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14523.jpg",
-     "saldo": 239
+     "saldo": 238
     },
     {
      "cod": 822,
@@ -9336,7 +9416,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1035
+     "saldo": 1030
     },
     {
      "cod": 4389,
@@ -11176,7 +11256,7 @@
        "cor": "Pink",
        "nome": "CREPOM PINK",
        "img": "produtos/6733.jpg",
-       "saldo": 61
+       "saldo": 60
       },
       {
        "cod": 4788,
@@ -11389,7 +11469,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 2015,
@@ -18143,7 +18223,7 @@
      "marca": "SESTINI",
      "preco": 69.9,
      "img": "produtos/11064.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 11038,
@@ -19369,7 +19449,7 @@
      "marca": "TODOLIVRO",
      "preco": 1.8,
      "img": "produtos/14662.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 13556,
@@ -19449,7 +19529,7 @@
      "marca": "CULTURAMA",
      "preco": 4.9,
      "img": "produtos/14655.jpg",
-     "saldo": 152
+     "saldo": 151
     },
     {
      "cod": 12465,
@@ -19511,7 +19591,7 @@
      "marca": "TRIS",
      "preco": 22.9,
      "img": "produtos/14569.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 14576,
@@ -19913,7 +19993,7 @@
      "marca": "YINS",
      "preco": 9.9,
      "img": "produtos/14781.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 219,
@@ -21391,7 +21471,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14612.jpg",
-     "saldo": 34,
+     "saldo": 33,
      "controle": [
       "AZUL",
       "PINK",
@@ -21401,7 +21481,7 @@
      "saldo_cor": {
       "AZUL": 8,
       "PINK": 8,
-      "ROSA": 9,
+      "ROSA": 8,
       "ROXO": 9
      }
     }
@@ -21545,7 +21625,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 232
+     "saldo": 229
     },
     {
      "cod": 938,
@@ -21569,7 +21649,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 133
+     "saldo": 131
     },
     {
      "cod": 14406,
@@ -21673,7 +21753,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 242
+     "saldo": 241
     },
     {
      "cod": 14405,
@@ -21849,7 +21929,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 126
+     "saldo": 123
     },
     {
      "cod": 2923,
@@ -21873,7 +21953,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 124
+     "saldo": 122
     },
     {
      "cod": 2934,
@@ -22535,7 +22615,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 212
+     "saldo": 211
     },
     {
      "cod": 3731,
@@ -22782,14 +22862,6 @@
      "preco": 12.9,
      "img": "produtos/11964.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 881,
-     "nome": "COLHER LITTLE COFFEE C/200 PRAFESTA",
-     "marca": "PRAFESTA",
-     "preco": 10.9,
-     "img": "produtos/881.jpg",
-     "saldo": 3
     },
     {
      "cod": 9085,
@@ -25493,7 +25565,7 @@
      "marca": "KROMASA",
      "preco": 1.8,
      "img": "produtos/2808.jpg",
-     "saldo": 1933
+     "saldo": 1923
     },
     {
      "cod": 9185,
@@ -26625,7 +26697,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 10990,
@@ -27478,7 +27550,7 @@
        "cor": "Vermelho",
        "nome": "FITA CETIM N3 15MMX10MT-VERMELHO",
        "img": "produtos/6008.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 9076,
@@ -28275,7 +28347,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 274
+     "saldo": 273
     },
     {
      "cod": 2779,
@@ -30127,14 +30199,14 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/14628.jpg",
-     "saldo": 45,
+     "saldo": 44,
      "controle": [
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
       "ROSA": 22,
-      "ROXO": 23
+      "ROXO": 22
      }
     },
     {
