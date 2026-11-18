@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2011
+       "saldo": 2009
       },
       {
        "cod": 554,
@@ -1571,7 +1571,7 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/625.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 632,
@@ -2036,10 +2036,18 @@
      "saldo": 12
     },
     {
+     "cod": 14806,
+     "nome": "LAPIS 24 CORES-BIC SEXTAVADO",
+     "marca": "BIC",
+     "preco": 19.9,
+     "img": "produtos/14806.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 13447,
      "nome": "LAPIS 24CORES-CIS",
      "marca": "CIS",
-     "preco": 19.9,
+     "preco": 18.9,
      "img": "produtos/13447.jpg",
      "saldo": 24
     },
@@ -2805,11 +2813,10 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 17,
+     "saldo": 15,
      "controle": [
       "AMARELO",
       "AZUL",
-      "LILAS",
       "ROSA",
       "SALMÃO",
       "VERDE"
@@ -2817,8 +2824,7 @@
      "saldo_cor": {
       "AMARELO": 6,
       "AZUL": 2,
-      "LILAS": 1,
-      "ROSA": 4,
+      "ROSA": 3,
       "SALMÃO": 3,
       "VERDE": 1
      }
@@ -3976,7 +3982,7 @@
      "marca": "LEO E LEO",
      "preco": 0.7,
      "img": "produtos/275.jpg",
-     "saldo": 457
+     "saldo": 455
     },
     {
      "cod": 277,
@@ -6908,6 +6914,22 @@
      ]
     },
     {
+     "cod": 14737,
+     "nome": "CADERNO CD 48F-KIDS FEMININO",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/14737.jpg",
+     "saldo": 50
+    },
+    {
+     "cod": 14738,
+     "nome": "CADERNO CD 48F-KIDS MASCULINO",
+     "marca": "TILIBRA",
+     "preco": 12.9,
+     "img": "produtos/14738.jpg",
+     "saldo": 50
+    },
+    {
      "cod": 9989,
      "nome": "CADERNO CD 80F TILIBRA",
      "marca": "TILIBRA",
@@ -6999,6 +7021,14 @@
      "preco": 10.9,
      "img": "produtos/11276.jpg",
      "saldo": 8
+    },
+    {
+     "cod": 14739,
+     "nome": "CADERNO CD 80F-BLOOM",
+     "marca": "TILIBRA",
+     "preco": 18.9,
+     "img": "produtos/14739.jpg",
+     "saldo": 25
     },
     {
      "cod": 12786,
@@ -7439,10 +7469,18 @@
      "saldo": 4
     },
     {
+     "cod": 14740,
+     "nome": "CADERNO CD 96F-KIDS FEMININO",
+     "marca": "TILIBRA",
+     "preco": 19.9,
+     "img": "produtos/14740.jpg",
+     "saldo": 100
+    },
+    {
      "cod": 389,
      "nome": "CADERNO CD 96F-KIDS MASCULINO",
      "marca": "TILIBRA",
-     "preco": 18.9,
+     "preco": 19.9,
      "img": "produtos/389.jpg",
      "saldo": 100
     },
@@ -8094,7 +8132,7 @@
      "cod": 12802,
      "nome": "CADERNO PEQ. CD 80F-CAPIVARA CAPYCLUB",
      "marca": "TILIBRA",
-     "preco": 15.9,
+     "preco": 16.9,
      "img": "produtos/12802.jpg",
      "saldo": 20
     },
@@ -8105,6 +8143,22 @@
      "preco": 11.9,
      "img": "produtos/13148.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14742,
+     "nome": "CADERNO PEQ. CD 80F-DINOSSAURO RAPTOR",
+     "marca": "TILIBRA",
+     "preco": 14.9,
+     "img": "produtos/14742.jpg",
+     "saldo": 15
+    },
+    {
+     "cod": 14741,
+     "nome": "CADERNO PEQ. CD 80F-JOLIE",
+     "marca": "TILIBRA",
+     "preco": 16.9,
+     "img": "produtos/14741.jpg",
+     "saldo": 15
     },
     {
      "cod": 11479,
@@ -8118,7 +8172,7 @@
      "cod": 11473,
      "nome": "CADERNO PEQ. CD 80F-SOHO",
      "marca": "TILIBRA",
-     "preco": 15.9,
+     "preco": 16.9,
      "img": "produtos/11473.jpg",
      "saldo": 20
     },
@@ -8296,6 +8350,30 @@
      "saldo": 1
     },
     {
+     "cod": 14736,
+     "nome": "CADERNO TILIBOM  CD 80F (VERMELHO)",
+     "marca": "TILIBRA",
+     "preco": 15.9,
+     "img": "produtos/14736.jpg",
+     "saldo": 650
+    },
+    {
+     "cod": 14735,
+     "nome": "CADERNO TILIBOM CD 80F (VERDE)",
+     "marca": "TILIBRA",
+     "preco": 15.9,
+     "img": "produtos/14735.jpg",
+     "saldo": 245
+    },
+    {
+     "cod": 14734,
+     "nome": "CADERNO TILIBOM CD S/P 80F (AZUL)",
+     "marca": "TILIBRA",
+     "preco": 15.9,
+     "img": "produtos/14734.jpg",
+     "saldo": 100
+    },
+    {
      "cod": 8905,
      "nome": "REFIL INTELIG. (G) LISO C/30FL",
      "marca": "C.INTELIGE",
@@ -8307,7 +8385,7 @@
      "cod": 7819,
      "nome": "REFIL INTELIG. (G) TILIDISCO 80F",
      "marca": "TILIBRA",
-     "preco": 24.9,
+     "preco": 27.9,
      "img": "produtos/7819.jpg",
      "saldo": 75
     },
@@ -8315,7 +8393,7 @@
      "cod": 14733,
      "nome": "REFIL INTELIG. (G) TILIDISCO COLORIDO 50F",
      "marca": "TILIBRA",
-     "preco": 29.9,
+     "preco": 26.9,
      "img": "produtos/14733.jpg",
      "saldo": 25
     },
@@ -10077,7 +10155,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 463
+     "saldo": 462
     },
     {
      "cod": 10030,
@@ -11364,7 +11442,7 @@
        "cor": "Laranja",
        "nome": "COLORSETE-LARANJA",
        "img": "produtos/2041.jpg",
-       "saldo": 146
+       "saldo": 142
       },
       {
        "cod": 4182,
@@ -11385,7 +11463,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 62
+       "saldo": 60
       },
       {
        "cod": 2045,
@@ -11684,7 +11762,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 81
+     "saldo": 80
     },
     {
      "cod": 4502,
@@ -11716,7 +11794,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 18
+     "saldo": 19
     },
     {
      "cod": 2007,
@@ -12495,7 +12573,7 @@
        "cor": "Vinho",
        "nome": "GUACHE 250ML ACRILEX-VINHO",
        "img": "produtos/12684.jpg",
-       "saldo": 98
+       "saldo": 97
       },
       {
        "cod": 3027,
@@ -12951,7 +13029,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/2955.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 12550,
@@ -14927,6 +15005,14 @@
      "saldo": 7
     },
     {
+     "cod": 14803,
+     "nome": "PASTA AZ AZUL-CHIES",
+     "marca": "CHIES",
+     "preco": 49.9,
+     "img": "produtos/14803.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 2197,
      "nome": "PASTA AZ TIGRADA-POLYCART",
      "marca": "POLYCART",
@@ -16582,7 +16668,7 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 108
+       "saldo": 106
       },
       {
        "cod": 1223,
@@ -16650,7 +16736,7 @@
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg",
-       "saldo": 126
+       "saldo": 125
       },
       {
        "cod": 6669,
@@ -18676,7 +18762,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 12494
+     "saldo": 12493
     },
     {
      "cod": 1051,
@@ -18786,21 +18872,21 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 212,
+     "saldo": 211,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 212
+       "saldo": 211
       },
       {
        "cod": 661,
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 254
+       "saldo": 253
       }
      ]
     },
@@ -20006,7 +20092,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/14432.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "controle": [
       "AZUL",
       "DOURADO",
@@ -20017,7 +20103,7 @@
      ],
      "saldo_cor": {
       "AZUL": 3,
-      "DOURADO": 4,
+      "DOURADO": 3,
       "PRATA": 4,
       "ROSA": 4,
       "ROXO": 4,
@@ -21600,7 +21686,7 @@
      "cod": 25,
      "nome": "ALMOFADA CARIMBO Nº3 RADEX-AZUL",
      "marca": "RADEX",
-     "preco": 10.5,
+     "preco": 11.9,
      "img": "produtos/25.jpg",
      "saldo": 12
     },
@@ -25364,7 +25450,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 31
+     "saldo": 33
     },
     {
      "cod": 2709,
@@ -25972,7 +26058,7 @@
      "marca": "GRESPAN",
      "preco": 17.9,
      "img": "produtos/4058.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 4045,
@@ -26558,7 +26644,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 87
+     "saldo": 90
     },
     {
      "cod": 6857,
@@ -26922,7 +27008,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 157
+     "saldo": 97
     },
     {
      "cod": 236,
@@ -26944,7 +27030,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 61
+     "saldo": 59
     },
     {
      "cod": 10990,
@@ -27455,14 +27541,6 @@
      "saldo": 2
     },
     {
-     "cod": 6713,
-     "nome": "BALAO LISO LARANJA C/50 Nº6,5",
-     "marca": "",
-     "preco": 8.9,
-     "img": "produtos/6713.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 98,
      "nome": "BALAO LISO OURO C/50 SAO ROQUE Nº 7",
      "marca": "SAO ROQUE",
@@ -27484,7 +27562,7 @@
      "marca": "BOLI BOLI",
      "preco": 7.9,
      "img": "produtos/108.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 109,
@@ -31404,7 +31482,7 @@
     },
     {
      "cod": 13796,
-     "nome": "MARCA TEXTO CIS (RETRATIL)",
+     "nome": "MARCA TEXTO (RETRATIL) CIS",
      "marca": "CIS",
      "preco": 6.9,
      "img": "produtos/13796.jpg",
@@ -31413,21 +31491,21 @@
       {
        "cod": 13796,
        "cor": "Amarelo",
-       "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
+       "nome": "MARCA TEXTO (RETRATIL) CIS-AMARELO",
        "img": "produtos/13796.jpg",
        "saldo": 73
       },
       {
        "cod": 13795,
        "cor": "Rosa",
-       "nome": "MARCA TEXTO CIS-ROSA (RETRATIL)",
+       "nome": "MARCA TEXTO (RETRATIL) CIS-ROSA",
        "img": "produtos/13795.jpg",
        "saldo": 75
       },
       {
        "cod": 13800,
        "cor": "Verde",
-       "nome": "MARCA TEXTO CIS-VERDE (RETRATIL)",
+       "nome": "MARCA TEXTO (RETRATIL) CIS-VERDE",
        "img": "produtos/13800.jpg",
        "saldo": 106
       }
@@ -31641,7 +31719,7 @@
     },
     {
      "cod": 14672,
-     "nome": "MARCA TEXTO MOLIN LOVE MY CHERRY-CORES (PONTA DUPLA)",
+     "nome": "MARCA TEXTO MOLIN L CHERRY-CORES (PONTA DUPLA)",
      "marca": "MOLIN",
      "preco": 9.9,
      "img": "produtos/14672.jpg",
