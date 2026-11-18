@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 480,
+     "saldo": 477,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 480
+       "saldo": 477
       },
       {
        "cod": 553,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 798,
+     "saldo": 797,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 798
+       "saldo": 797
       },
       {
        "cod": 556,
@@ -897,7 +897,7 @@
      "marca": "TRIS",
      "preco": 21.9,
      "img": "produtos/14545.jpg",
-     "saldo": 27,
+     "saldo": 26,
      "controle": [
       "BRANCO",
       "LILAS",
@@ -3641,7 +3641,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1503.jpg",
-     "saldo": 458
+     "saldo": 457
     },
     {
      "cod": 4463,
@@ -3705,7 +3705,7 @@
      "marca": "COMPACTOR",
      "preco": 8.9,
      "img": "produtos/7034.jpg",
-     "saldo": 152
+     "saldo": 151
     },
     {
      "cod": 14442,
@@ -7038,6 +7038,14 @@
      "saldo": 20
     },
     {
+     "cod": 14756,
+     "nome": "CADERNO CD 80F-CAMARO E CORVETTE",
+     "marca": "TILIBRA",
+     "preco": 36.9,
+     "img": "produtos/14756.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 12786,
      "nome": "CADERNO CD 80F-CAPIVARA CAPYCLUB",
      "marca": "TILIBRA",
@@ -7086,6 +7094,14 @@
      "saldo": 2
     },
     {
+     "cod": 14754,
+     "nome": "CADERNO CD 80F-FORMULA 1 SPEED",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/14754.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 5658,
      "nome": "CADERNO CD 80F-HE MAN",
      "marca": "TILIBRA",
@@ -7113,7 +7129,7 @@
      "cod": 7796,
      "nome": "CADERNO CD 80F-HOT WHEELS",
      "marca": "TILIBRA",
-     "preco": 38.9,
+     "preco": 39.9,
      "img": "produtos/7796.jpg",
      "saldo": 28
     },
@@ -7132,6 +7148,14 @@
      "preco": 36.9,
      "img": "produtos/11480.jpg",
      "saldo": 31
+    },
+    {
+     "cod": 14753,
+     "nome": "CADERNO CD 80F-ICE CUTE",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/14753.jpg",
+     "saldo": 25
     },
     {
      "cod": 6294,
@@ -7428,6 +7452,14 @@
      "preco": 24.9,
      "img": "produtos/8766.jpg",
      "saldo": 27
+    },
+    {
+     "cod": 14752,
+     "nome": "CADERNO CD 80F-WEST VILLAGE",
+     "marca": "TILIBRA",
+     "preco": 28.9,
+     "img": "produtos/14752.jpg",
+     "saldo": 20
     },
     {
      "cod": 12863,
@@ -8200,6 +8232,14 @@
      "saldo": 15
     },
     {
+     "cod": 14755,
+     "nome": "CADERNO PEQ. CD 80F-GATINHOS MOFUSAND",
+     "marca": "TILIBRA",
+     "preco": 19.9,
+     "img": "produtos/14755.jpg",
+     "saldo": 15
+    },
+    {
      "cod": 14741,
      "nome": "CADERNO PEQ. CD 80F-JOLIE",
      "marca": "TILIBRA",
@@ -8862,7 +8902,7 @@
      "marca": "LETRON",
      "preco": 18.9,
      "img": "produtos/14110.jpg",
-     "saldo": 19
+     "saldo": 13
     },
     {
      "cod": 3283,
@@ -9068,7 +9108,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11622.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 814,
@@ -9826,7 +9866,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 1520,
@@ -9834,7 +9874,7 @@
      "marca": "JOCAR",
      "preco": 29.9,
      "img": "produtos/1520.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 1522,
@@ -11732,14 +11772,14 @@
      "marca": "CROMUS",
      "preco": 1.5,
      "img": "produtos/2115.jpg",
-     "saldo": 66,
+     "saldo": 65,
      "cores": [
       {
        "cod": 2115,
        "cor": "Azul",
        "nome": "LAMINADO-AZUL",
        "img": "produtos/2115.jpg",
-       "saldo": 66
+       "saldo": 65
       },
       {
        "cod": 2116,
@@ -11760,14 +11800,14 @@
        "cor": "Verde",
        "nome": "LAMINADO-VERDE",
        "img": "produtos/2118.jpg",
-       "saldo": 79
+       "saldo": 78
       },
       {
        "cod": 2119,
        "cor": "Vermelho",
        "nome": "LAMINADO-VERMELHO",
        "img": "produtos/2119.jpg",
-       "saldo": 65
+       "saldo": 64
       }
      ]
     },
@@ -11801,7 +11841,7 @@
      "marca": "MINASPEL",
      "preco": 29.9,
      "img": "produtos/6844.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 8404,
@@ -11817,7 +11857,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 713
+     "saldo": 712
     },
     {
      "cod": 5082,
@@ -13841,14 +13881,6 @@
      "preco": 49.9,
      "img": "produtos/7402.jpg",
      "saldo": 3
-    },
-    {
-     "cod": 13708,
-     "nome": "ETIQUETADORA MX5500-LETRON",
-     "marca": "LETRON",
-     "preco": 59.9,
-     "img": "produtos/13708.jpg",
-     "saldo": 10
     },
     {
      "cod": 13371,
@@ -16375,7 +16407,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/7200.jpg",
-     "saldo": 114
+     "saldo": 113
     },
     {
      "cod": 7201,
@@ -16745,7 +16777,7 @@
        "cor": "Verde Claro",
        "nome": "EVA GLITER-VERDE CLARO",
        "img": "produtos/5366.jpg",
-       "saldo": 103
+       "saldo": 113
       },
       {
        "cod": 1226,
@@ -16770,7 +16802,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 116
+     "saldo": 106
     },
     {
      "cod": 1228,
@@ -19821,7 +19853,7 @@
      "marca": "TODO LIVRO",
      "preco": 5.9,
      "img": "produtos/14663.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 14662,
@@ -20107,7 +20139,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14434.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -20119,7 +20151,7 @@
      "saldo_cor": {
       "AMARELO": 4,
       "AZUL": 4,
-      "ROSA": 4,
+      "ROSA": 3,
       "ROXO": 4,
       "VERDE": 4,
       "VERMELHO": 3
@@ -20405,7 +20437,7 @@
      "marca": "PAIS&FILHO",
      "preco": 17.9,
      "img": "produtos/6107.jpg",
-     "saldo": 2
+     "saldo": 52
     },
     {
      "cod": 14648,
@@ -20541,7 +20573,7 @@
      "marca": "PAIS E FIL",
      "preco": 23.9,
      "img": "produtos/6086.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 14642,
@@ -20645,7 +20677,7 @@
      "marca": "AQUARELA B",
      "preco": 28.9,
      "img": "produtos/14361.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 14360,
@@ -21447,14 +21479,14 @@
      "marca": "LANTECOR",
      "preco": 1.0,
      "img": "produtos/1475.jpg",
-     "saldo": 34,
+     "saldo": 33,
      "cores": [
       {
        "cod": 1475,
        "cor": "Azul Escuro",
        "nome": "GLITER 3GR-AZUL ESCURO",
        "img": "produtos/1475.jpg",
-       "saldo": 34
+       "saldo": 33
       },
       {
        "cod": 10923,
@@ -21475,7 +21507,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 1478,
@@ -21510,14 +21542,14 @@
        "cor": "Verde",
        "nome": "GLITER 3GR-VERDE",
        "img": "produtos/1483.jpg",
-       "saldo": 83
+       "saldo": 82
       },
       {
        "cod": 1484,
        "cor": "Vermelho",
        "nome": "GLITER 3GR-VERMELHO",
        "img": "produtos/1484.jpg",
-       "saldo": 28
+       "saldo": 27
       }
      ]
     },
@@ -28727,7 +28759,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 406
+     "saldo": 405
     },
     {
      "cod": 2777,
@@ -28735,7 +28767,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 273
+     "saldo": 272
     },
     {
      "cod": 2779,
