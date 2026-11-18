@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2012
+       "saldo": 2011
       },
       {
        "cod": 554,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 801,
+     "saldo": 800,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 801
+       "saldo": 800
       },
       {
        "cod": 556,
@@ -529,7 +529,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/5084.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 10288,
@@ -1103,7 +1103,7 @@
        "cor": "Preta",
        "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
        "img": "produtos/588.jpg",
-       "saldo": 30
+       "saldo": 29
       },
       {
        "cod": 14725,
@@ -2041,7 +2041,7 @@
      "marca": "TRIS",
      "preco": 24.9,
      "img": "produtos/12627.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 14584,
@@ -2163,7 +2163,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1016
+     "saldo": 1014
     },
     {
      "cod": 1670,
@@ -2538,7 +2538,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 663
+     "saldo": 653
     },
     {
      "cod": 14124,
@@ -3490,7 +3490,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 2652,
@@ -4126,7 +4126,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1978
+     "saldo": 1977
     },
     {
      "cod": 4341,
@@ -4166,7 +4166,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14520.jpg",
-     "saldo": 180,
+     "saldo": 179,
      "controle": [
       "AZUL",
       "LILAS",
@@ -4174,7 +4174,7 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 50,
+      "AZUL": 49,
       "LILAS": 40,
       "ROSA": 40,
       "VERDE-ÁGUA": 50
@@ -7680,7 +7680,7 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/13719.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 438,
@@ -11183,7 +11183,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 730
+     "saldo": 720
     },
     {
      "cod": 5082,
@@ -13246,7 +13246,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/4334.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 2907,
@@ -13262,7 +13262,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/4335.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 2908,
@@ -13302,7 +13302,7 @@
      "marca": "PIM/REFL",
      "preco": 6.9,
      "img": "produtos/13743.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 9783,
@@ -15648,7 +15648,7 @@
      "marca": "CROMUS",
      "preco": 18.9,
      "img": "produtos/2741.jpg",
-     "saldo": 29
+     "saldo": 27
     },
     {
      "cod": 2744,
@@ -15656,7 +15656,7 @@
      "marca": "",
      "preco": 44.9,
      "img": "produtos/2744.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 9784,
@@ -15779,7 +15779,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 107
+     "saldo": 110
     },
     {
      "cod": 2959,
@@ -18851,7 +18851,7 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6625.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 6626,
@@ -19742,13 +19742,6 @@
        "nome": "MASSA POTE ACRILEX 500GR-AMARELO PESSEGO",
        "img": "produtos/11391.jpg",
        "saldo": 7
-      },
-      {
-       "cod": 11392,
-       "cor": "Azul",
-       "nome": "MASSA POTE ACRILEX 500GR-AZUL",
-       "img": "produtos/11392.jpg",
-       "saldo": 1
       },
       {
        "cod": 11395,
@@ -21552,7 +21545,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 134
+     "saldo": 133
     },
     {
      "cod": 14406,
@@ -21560,7 +21553,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6134
+     "saldo": 6132
     },
     {
      "cod": 944,
@@ -21752,7 +21745,7 @@
      "marca": "TOTAL",
      "preco": 5.9,
      "img": "produtos/6814.jpg",
-     "saldo": 100
+     "saldo": 97
     },
     {
      "cod": 10120,
@@ -21928,7 +21921,7 @@
      "marca": "VABENE",
      "preco": 4.9,
      "img": "produtos/9746.jpg",
-     "saldo": 17
+     "saldo": 14
     },
     {
      "cod": 9749,
@@ -24606,7 +24599,7 @@
      "marca": "THEOTO",
      "preco": 3.0,
      "img": "produtos/3864.jpg",
-     "saldo": 112
+     "saldo": 110
     },
     {
      "cod": 3882,
@@ -26086,7 +26079,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 185
+     "saldo": 183
     },
     {
      "cod": 13857,
@@ -26094,7 +26087,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 144
+     "saldo": 142
     },
     {
      "cod": 13856,
@@ -26586,7 +26579,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 314
+     "saldo": 284
     },
     {
      "cod": 236,
@@ -26640,7 +26633,7 @@
      "marca": "DISPAFILM",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1272,
@@ -27014,7 +27007,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6102.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 6103,
@@ -28772,7 +28765,7 @@
      "marca": "ERCA PLAST",
      "preco": 62.9,
      "img": "produtos/7026.jpg",
-     "saldo": 7
+     "saldo": 5
     },
     {
      "cod": 4455,
@@ -29356,7 +29349,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1440
+     "saldo": 1439
     },
     {
      "cod": 2157,
@@ -30858,14 +30851,14 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/14568.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "controle": [
       "BRANCO",
       "CINZA",
       "PRETO"
      ],
      "saldo_cor": {
-      "BRANCO": 7,
+      "BRANCO": 6,
       "CINZA": 8,
       "PRETO": 8
      }
