@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 803,
+     "saldo": 801,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 803
+       "saldo": 801
       },
       {
        "cod": 556,
@@ -9122,7 +9122,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1110
+     "saldo": 1050
     },
     {
      "cod": 4389,
@@ -11223,7 +11223,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 72
+     "saldo": 50
     },
     {
      "cod": 2007,
@@ -11317,7 +11317,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 206
+     "saldo": 205
     },
     {
      "cod": 2100,
@@ -14527,14 +14527,14 @@
      "marca": "PLASCONY",
      "preco": 19.9,
      "img": "produtos/14202.jpg",
-     "saldo": 9,
+     "saldo": 8,
      "cores": [
       {
        "cod": 14202,
        "cor": "Amarelo",
        "nome": "PASTA CATALOGO TRANSP. C/20 (AMARELO)",
        "img": "produtos/14202.jpg",
-       "saldo": 9
+       "saldo": 8
       },
       {
        "cod": 12929,
@@ -15013,7 +15013,7 @@
      "marca": "PLASCONY",
      "preco": 4.9,
      "img": "produtos/6065.jpg",
-     "saldo": 89
+     "saldo": 80
     },
     {
      "cod": 5176,
@@ -15347,7 +15347,7 @@
      "marca": "POLIBRAS",
      "preco": 3.9,
      "img": "produtos/2260.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 7166,
@@ -18684,7 +18684,7 @@
        "cor": "Verde",
        "nome": "ARQUIVO MORTO OFICIO-VERDE",
        "img": "produtos/77.jpg",
-       "saldo": 228
+       "saldo": 227
       },
       {
        "cod": 5171,
@@ -18701,7 +18701,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 93
+     "saldo": 91
     }
    ]
   },
@@ -19163,7 +19163,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/8808.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 11833,
@@ -21552,7 +21552,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 144
+     "saldo": 134
     },
     {
      "cod": 14406,
@@ -22630,7 +22630,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 400
+     "saldo": 399
     },
     {
      "cod": 4146,
@@ -22646,7 +22646,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 348
+     "saldo": 347
     },
     {
      "cod": 3887,
@@ -23980,7 +23980,7 @@
      "marca": "ABN",
      "preco": 57.9,
      "img": "produtos/6986.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 481,
@@ -23996,7 +23996,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 10001,
@@ -24066,7 +24066,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 309
+     "saldo": 307
     },
     {
      "cod": 3951,
@@ -25028,7 +25028,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 37
+     "saldo": 35
     },
     {
      "cod": 2709,
@@ -26444,7 +26444,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 169
+     "saldo": 168
     },
     {
      "cod": 4314,
@@ -26452,7 +26452,7 @@
      "marca": "GERAPLAST",
      "preco": 96.9,
      "img": "produtos/4314.jpg",
-     "saldo": 140
+     "saldo": 139
     },
     {
      "cod": 2897,
@@ -26814,7 +26814,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 862
+     "saldo": 857
     },
     {
      "cod": 4936,
@@ -26822,7 +26822,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 419
+     "saldo": 414
     },
     {
      "cod": 2762,
@@ -28114,7 +28114,7 @@
      "marca": "CROMUS",
      "preco": 14.9,
      "img": "produtos/13582.jpg",
-     "saldo": 6
+     "saldo": 7
     },
     {
      "cod": 13571,
@@ -28930,7 +28930,7 @@
      "marca": "REDINHA",
      "preco": 9.9,
      "img": "produtos/2610.jpg",
-     "saldo": 16
+     "saldo": 13
     },
     {
      "cod": 14135,
@@ -29316,7 +29316,7 @@
      "marca": "NOAH PAPER",
      "preco": 107.9,
      "img": "produtos/12118.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 14357,
@@ -29356,7 +29356,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1445
+     "saldo": 1440
     },
     {
      "cod": 2157,
