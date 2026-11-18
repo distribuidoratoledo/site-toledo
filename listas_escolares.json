@@ -2494,7 +2494,6 @@
        "qtd": 1,
        "cod": 1225,
        "produto": "EVA GLITER-VERDE BANDEIRA/GRAMA",
-       "marca": "MAKE +",
        "preco": 3.9,
        "foto": "listas/fotos/1225.jpg",
        "grupo": "Uso coletivo"
@@ -4931,7 +4930,6 @@
        "qtd": 1,
        "cod": 1225,
        "produto": "EVA GLITER-VERDE BANDEIRA/GRAMA",
-       "marca": "MAKE +",
        "preco": 3.9,
        "foto": "listas/fotos/1225.jpg",
        "grupo": "Uso coletivo"
@@ -8454,7 +8452,6 @@
        "qtd": 2,
        "cod": 1225,
        "produto": "EVA GLITER-VERDE BANDEIRA/GRAMA",
-       "marca": "MAKE +",
        "preco": 3.9,
        "foto": "listas/fotos/1225.jpg",
        "grupo": "Materiais para atividades artísticas"
@@ -21815,5 +21812,5 @@
    ]
   }
  ],
- "atualizado": "17/11/2026 18:20"
+ "atualizado": "18/11/2026 16:40"
 }
