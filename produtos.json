@@ -3589,21 +3589,21 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 234,
+     "saldo": 235,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 234
+       "saldo": 235
       },
       {
        "cod": 2657,
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 273
+       "saldo": 274
       },
       {
        "cod": 2658,
@@ -3617,7 +3617,7 @@
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 15
+       "saldo": 16
       }
      ]
     }
@@ -4287,7 +4287,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13077.jpg",
-     "saldo": 164
+     "saldo": 163
     },
     {
      "cod": 14522,
@@ -6329,7 +6329,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/12963.jpg",
-     "saldo": 65
+     "saldo": 58
     },
     {
      "cod": 351,
@@ -6353,7 +6353,7 @@
      "marca": "TILIBRA",
      "preco": 28.9,
      "img": "produtos/7767.jpg",
-     "saldo": 36
+     "saldo": 33
     },
     {
      "cod": 8895,
@@ -7102,6 +7102,14 @@
      "saldo": 20
     },
     {
+     "cod": 14757,
+     "nome": "CADERNO CD 80F-GATINHOS MOFUSAND",
+     "marca": "TILIBRA",
+     "preco": 36.9,
+     "img": "produtos/14757.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 5658,
      "nome": "CADERNO CD 80F-HE MAN",
      "marca": "TILIBRA",
@@ -7241,7 +7249,7 @@
      "cod": 12776,
      "nome": "CADERNO CD 80F-NASA",
      "marca": "TILIBRA",
-     "preco": 38.9,
+     "preco": 36.9,
      "img": "produtos/12776.jpg",
      "saldo": 26
     },
@@ -7297,7 +7305,7 @@
      "cod": 6296,
      "nome": "CADERNO CD 80F-PRINCESAS",
      "marca": "TILIBRA",
-     "preco": 37.9,
+     "preco": 39.9,
      "img": "produtos/6296.jpg",
      "saldo": 17
     },
@@ -9812,7 +9820,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1028
+     "saldo": 1027
     },
     {
      "cod": 4389,
@@ -11604,28 +11612,28 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 103,
+     "saldo": 101,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 103
+       "saldo": 101
       },
       {
        "cod": 2069,
        "cor": "Azul Claro",
        "nome": "CREPOM AZUL CLARO",
        "img": "produtos/2069.jpg",
-       "saldo": 57
+       "saldo": 55
       },
       {
        "cod": 2070,
        "cor": "Azul Escuro",
        "nome": "CREPOM AZUL ESCURO",
        "img": "produtos/2070.jpg",
-       "saldo": 57
+       "saldo": 56
       },
       {
        "cod": 4786,
@@ -11639,7 +11647,7 @@
        "cor": "Laranja",
        "nome": "CREPOM LARANJA",
        "img": "produtos/4715.jpg",
-       "saldo": 75
+       "saldo": 73
       },
       {
        "cod": 5076,
@@ -11660,7 +11668,7 @@
        "cor": "Pink",
        "nome": "CREPOM PINK",
        "img": "produtos/6733.jpg",
-       "saldo": 60
+       "saldo": 57
       },
       {
        "cod": 4788,
@@ -11681,7 +11689,7 @@
        "cor": "Roxo",
        "nome": "CREPOM ROXO",
        "img": "produtos/7894.jpg",
-       "saldo": 67
+       "saldo": 65
       },
       {
        "cod": 2079,
@@ -11951,7 +11959,7 @@
      "marca": "MAXIMA",
      "preco": 1.0,
      "img": "produtos/2017.jpg",
-     "saldo": 254
+     "saldo": 253
     },
     {
      "cod": 2067,
@@ -19743,7 +19751,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 111
+     "saldo": 110
     },
     {
      "cod": 14261,
@@ -20227,7 +20235,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1562
+     "saldo": 1561
     },
     {
      "cod": 3538,
@@ -21855,7 +21863,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14573.jpg",
-     "saldo": 32,
+     "saldo": 30,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -21864,8 +21872,8 @@
      ],
      "saldo_cor": {
       "AMARELO": 7,
-      "AZUL": 8,
-      "ROSA": 9,
+      "AZUL": 7,
+      "ROSA": 8,
       "VERMELHO": 8
      }
     },
@@ -22531,7 +22539,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 353
+     "saldo": 352
     },
     {
      "cod": 177,
