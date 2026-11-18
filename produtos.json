@@ -9280,7 +9280,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 132
+     "saldo": 131
     },
     {
      "cod": 1020,
@@ -9368,14 +9368,6 @@
    "slug": "grampeador",
    "nome": "Grampeador",
    "itens": [
-    {
-     "cod": 10579,
-     "nome": "GRAMPEADOR CIS OFFICE ALICATE 25F (S-150)",
-     "marca": "CIS",
-     "preco": 59.9,
-     "img": "produtos/10579.jpg",
-     "saldo": 4
-    },
     {
      "cod": 10540,
      "nome": "GRAMPEADOR CIS OFFICE ALICATE 45F (S-170)",
@@ -9549,14 +9541,6 @@
      "preco": 15.9,
      "img": "produtos/2301.jpg",
      "saldo": 13
-    },
-    {
-     "cod": 7028,
-     "nome": "PERFURADOR PAPEL 30F FRAMA",
-     "marca": "FRAMA",
-     "preco": 54.9,
-     "img": "produtos/7028.jpg",
-     "saldo": 1
     },
     {
      "cod": 2303,
@@ -10416,14 +10400,6 @@
      "preco": 4.5,
      "img": "produtos/882.jpg",
      "saldo": 60
-    },
-    {
-     "cod": 4924,
-     "nome": "BLOCO CONTRATO DE LOCAÇAO (FOLHA)",
-     "marca": "GRIFFE",
-     "preco": 0.5,
-     "img": "produtos/4924.jpg",
-     "saldo": 5
     },
     {
      "cod": 991,
@@ -11437,7 +11413,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 38
+     "saldo": 18
     },
     {
      "cod": 2007,
@@ -14873,21 +14849,21 @@
      "marca": "POLYCART",
      "preco": 3.5,
      "img": "produtos/2218.jpg",
-     "saldo": 49,
+     "saldo": 9,
      "cores": [
       {
        "cod": 2218,
        "cor": "Amarela",
        "nome": "PASTA GRAMPO TRILHO-AMARELA",
        "img": "produtos/2218.jpg",
-       "saldo": 49
+       "saldo": 9
       },
       {
        "cod": 2219,
        "cor": "Azul",
        "nome": "PASTA GRAMPO TRILHO AZUL",
        "img": "produtos/2219.jpg",
-       "saldo": 84
+       "saldo": 44
       },
       {
        "cod": 2220,
@@ -16691,7 +16667,7 @@
      "marca": "LUXCEL",
      "preco": 139.9,
      "img": "produtos/13668.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 13670,
@@ -16892,14 +16868,6 @@
      "saldo": 1
     },
     {
-     "cod": 8304,
-     "nome": "LANCHEIRA XERYUS-GUARDIOES DA GALAXIA X",
-     "marca": "XERYUS",
-     "preco": 119.9,
-     "img": "produtos/8304.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 8241,
      "nome": "LANCHEIRA XERYUS-LIGA DA JUSTIÇA X1",
      "marca": "XERYUS",
@@ -16916,20 +16884,12 @@
      "saldo": 1
     },
     {
-     "cod": 1884,
-     "nome": "MOCHILA CARRINHO DERMIWIL-CARROS 37333",
-     "marca": "DERMIWIL",
-     "preco": 329.9,
-     "img": "produtos/1884.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13660,
      "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA CANINA AZUL (IC42032PA-AZ)",
      "marca": "LUXCEL",
      "preco": 290.0,
      "img": "produtos/13660.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 13659,
@@ -17240,14 +17200,6 @@
    "nome": "Estojo",
    "itens": [
     {
-     "cod": 13304,
-     "nome": "ESTOJO BOX XERYUS-MINNIE TEEN TRIPLE PUFFER NUDE",
-     "marca": "XERYUS",
-     "preco": 79.9,
-     "img": "produtos/13304.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13303,
      "nome": "ESTOJO BOX XERYUS-PATRULHA CANINA SE",
      "marca": "XERYUS",
@@ -17355,7 +17307,7 @@
      "marca": "DAC",
      "preco": 38.9,
      "img": "produtos/10711.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 8204,
@@ -17785,7 +17737,7 @@
        "cor": "Preto",
        "nome": "ESTOJO MT 1F TRANSPARENTE-PRETO",
        "img": "produtos/10881.jpg",
-       "saldo": 4
+       "saldo": 1
       },
       {
        "cod": 10880,
@@ -18272,14 +18224,6 @@
    "nome": "Envelope",
    "itens": [
     {
-     "cod": 7170,
-     "nome": "CARTAO CASAMENTO DIVERSOS",
-     "marca": "BELLO CARD",
-     "preco": 3.0,
-     "img": "produtos/7170.jpg",
-     "saldo": 4
-    },
-    {
      "cod": 1065,
      "nome": "ENV. CARTA S/CEP 114X162 (COF 010)",
      "marca": "",
@@ -18405,7 +18349,7 @@
      "marca": "SCRITY",
      "preco": 0.3,
      "img": "produtos/1042.jpg",
-     "saldo": 5360
+     "saldo": 5340
     },
     {
      "cod": 1045,
@@ -18526,14 +18470,6 @@
      "saldo": 11
     },
     {
-     "cod": 659,
-     "nome": "CAPA ENCADERNAÇÃO A3 C/10 PRETA",
-     "marca": "FOCOPLAST",
-     "preco": 8.0,
-     "img": "produtos/659.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 660,
      "nome": "CAPA ENCADERNACAO A4 C/10",
      "marca": "PROLAM",
@@ -18556,14 +18492,6 @@
        "saldo": 254
       }
      ]
-    },
-    {
-     "cod": 14063,
-     "nome": "CAPA ENCADERNAÇAO A4 C/100 CRISTAL + 100 PRETA",
-     "marca": "MARES",
-     "preco": 124.9,
-     "img": "produtos/14063.jpg",
-     "saldo": 1
     },
     {
      "cod": 1036,
@@ -18861,14 +18789,6 @@
    "slug": "bloco-postit",
    "nome": "Bloco e Post-it",
    "itens": [
-    {
-     "cod": 12994,
-     "nome": "BLOCO CD 80F-HAPPEN",
-     "marca": "SD",
-     "preco": 31.9,
-     "img": "produtos/12994.jpg",
-     "saldo": 2
-    },
     {
      "cod": 12991,
      "nome": "BLOCO CD 80F-SWEET CHERRY",
@@ -19355,7 +19275,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 321
+     "saldo": 320
     }
    ]
   },
@@ -19363,14 +19283,6 @@
    "slug": "livros",
    "nome": "Livros",
    "itens": [
-    {
-     "cod": 999,
-     "nome": "DICIONARIO ESPANHOL SILVEIRA BUENO",
-     "marca": "SILVEIRA B",
-     "preco": 42.9,
-     "img": "produtos/999.jpg",
-     "saldo": 1
-    },
     {
      "cod": 998,
      "nome": "DICIONARIO ESPANHOL-DLC",
@@ -20033,7 +19945,7 @@
      "marca": "PAIS&FILHO",
      "preco": 17.9,
      "img": "produtos/6107.jpg",
-     "saldo": 52
+     "saldo": 2
     },
     {
      "cod": 14648,
@@ -20065,7 +19977,7 @@
      "marca": "COLUNA",
      "preco": 19.9,
      "img": "produtos/306.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 13512,
@@ -20620,14 +20532,6 @@
      "saldo": 193
     },
     {
-     "cod": 8902,
-     "nome": "CRACHA HORIZONTAL+PRESILHA",
-     "marca": "DAC",
-     "preco": 2.0,
-     "img": "produtos/8902.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 6796,
      "nome": "CRACHA VERTICAL + PRESILHA (10X7CM)",
      "marca": "DAC",
@@ -20712,14 +20616,6 @@
      "preco": 69.9,
      "img": "produtos/12810.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 1254,
-     "nome": "FICHA CONTA CORRENTE 4X6 C/100",
-     "marca": "TILIBRA",
-     "preco": 6.5,
-     "img": "produtos/1254.jpg",
-     "saldo": 1
     },
     {
      "cod": 1255,
@@ -20935,7 +20831,7 @@
      "marca": "DAC",
      "preco": 15.9,
      "img": "produtos/8709.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 5651,
@@ -21382,22 +21278,6 @@
      ]
     },
     {
-     "cod": 9293,
-     "nome": "CARIMBO ESCOLAR CIS ATENCAO-AZUL",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/9293.jpg",
-     "saldo": 2
-    },
-    {
-     "cod": 9292,
-     "nome": "CARIMBO ESCOLAR CIS PARABENS-AZUL",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/9292.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 9495,
      "nome": "CARIMBO ESCOLAR CIS-BRINCADEIRAS",
      "marca": "CIS",
@@ -21562,28 +21442,12 @@
    "nome": "Lixa",
    "itens": [
     {
-     "cod": 11287,
-     "nome": "LIXA AGUA 120",
-     "marca": "TATU",
-     "preco": 2.5,
-     "img": "produtos/11287.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 1769,
      "nome": "LIXA AGUA 80",
      "marca": "TATU",
      "preco": 2.0,
      "img": "produtos/1769.jpg",
      "saldo": 54
-    },
-    {
-     "cod": 3522,
-     "nome": "LIXA MADEIRA 150",
-     "marca": "TATU",
-     "preco": 1.0,
-     "img": "produtos/3522.jpg",
-     "saldo": 1
     },
     {
      "cod": 3523,
@@ -21729,7 +21593,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2420
+     "saldo": 2395
     },
     {
      "cod": 14414,
@@ -25875,7 +25739,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 463
+     "saldo": 453
     },
     {
      "cod": 2838,
@@ -26311,7 +26175,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 77
+     "saldo": 75
     },
     {
      "cod": 13855,
@@ -26565,7 +26429,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 98
+     "saldo": 95
     },
     {
      "cod": 2905,
@@ -26739,7 +26603,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 192
+     "saldo": 187
     },
     {
      "cod": 236,
@@ -29437,7 +29301,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 143
+     "saldo": 142
     },
     {
      "cod": 9017,
@@ -29493,7 +29357,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 189
+     "saldo": 179
     },
     {
      "cod": 2153,
@@ -29509,7 +29373,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1434
+     "saldo": 1429
     },
     {
      "cod": 2157,
@@ -29571,7 +29435,7 @@
      "marca": "ENCOPA",
      "preco": 4.9,
      "img": "produtos/2000.jpg",
-     "saldo": 21
+     "saldo": 16
     },
     {
      "cod": 9829,
@@ -31696,7 +31560,7 @@
      "marca": "GRESPAN",
      "preco": 8.9,
      "img": "produtos/2390.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 2383,
@@ -31704,7 +31568,7 @@
      "marca": "GRESPAN",
      "preco": 9.9,
      "img": "produtos/2383.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 14325,
