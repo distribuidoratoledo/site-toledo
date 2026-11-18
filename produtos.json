@@ -854,20 +854,19 @@
     },
     {
      "cod": 572,
-     "nome": "CANETA GEL/CONVITE MOLIN-BRANCA",
-     "marca": "MOLIN",
-     "preco": 10.9,
-     "img": "produtos/572.jpg",
-     "saldo": 22
-    },
-    {
-     "cod": 573,
      "nome": "CANETA GEL/CONVITE MOLIN",
      "marca": "MOLIN",
      "preco": 9.5,
-     "img": "produtos/573.jpg",
-     "saldo": 24,
+     "img": "produtos/572.jpg",
+     "saldo": 22,
      "cores": [
+      {
+       "cod": 572,
+       "cor": "Branca",
+       "nome": "CANETA GEL/CONVITE MOLIN-BRANCA",
+       "img": "produtos/572.jpg",
+       "saldo": 22
+      },
       {
        "cod": 573,
        "cor": "Ouro",
@@ -906,7 +905,7 @@
      ],
      "saldo_cor": {
       "BRANCO": 9,
-      "LILAS": 9,
+      "LILAS": 8,
       "ROSA": 9
      }
     },
@@ -2071,7 +2070,7 @@
      "cod": 1658,
      "nome": "LAPIS 24CORES-LEO E LEO",
      "marca": "LEO E LEO",
-     "preco": 10.9,
+     "preco": 12.9,
      "img": "produtos/1658.jpg",
      "saldo": 24
     },
@@ -7031,12 +7030,28 @@
      "saldo": 25
     },
     {
+     "cod": 14747,
+     "nome": "CADERNO CD 80F-BROWNIE",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/14747.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 12786,
      "nome": "CADERNO CD 80F-CAPIVARA CAPYCLUB",
      "marca": "TILIBRA",
-     "preco": 27.9,
+     "preco": 28.9,
      "img": "produtos/12786.jpg",
      "saldo": 35
+    },
+    {
+     "cod": 14745,
+     "nome": "CADERNO CD 80F-CEREJA AMARENA",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/14745.jpg",
+     "saldo": 20
     },
     {
      "cod": 12796,
@@ -7053,6 +7068,14 @@
      "preco": 19.9,
      "img": "produtos/12418.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14749,
+     "nome": "CADERNO CD 80F-DINOSSAURO RAPTOR",
+     "marca": "TILIBRA",
+     "preco": 24.9,
+     "img": "produtos/14749.jpg",
+     "saldo": 25
     },
     {
      "cod": 5929,
@@ -7114,7 +7137,7 @@
      "cod": 6294,
      "nome": "CADERNO CD 80F-JOLIE",
      "marca": "TILIBRA",
-     "preco": 26.9,
+     "preco": 28.9,
      "img": "produtos/6294.jpg",
      "saldo": 25
     },
@@ -7295,6 +7318,14 @@
      "saldo": 6
     },
     {
+     "cod": 14750,
+     "nome": "CADERNO CD 80F-SOHO",
+     "marca": "TILIBRA",
+     "preco": 28.9,
+     "img": "produtos/14750.jpg",
+     "saldo": 25
+    },
+    {
      "cod": 5662,
      "nome": "CADERNO CD 80F-SONIC",
      "marca": "TILIBRA",
@@ -7351,6 +7382,14 @@
      "saldo": 26
     },
     {
+     "cod": 14751,
+     "nome": "CADERNO CD 80F-TOOTS TINY MAGIC",
+     "marca": "TILIBRA",
+     "preco": 28.9,
+     "img": "produtos/14751.jpg",
+     "saldo": 25
+    },
+    {
      "cod": 12405,
      "nome": "CADERNO CD 80F-TURMA DA LALA",
      "marca": "CREDEAL",
@@ -7365,6 +7404,14 @@
      "preco": 24.9,
      "img": "produtos/12990.jpg",
      "saldo": 10
+    },
+    {
+     "cod": 14746,
+     "nome": "CADERNO CD 80F-UNICORNIO BLINK",
+     "marca": "TILIBRA",
+     "preco": 28.9,
+     "img": "produtos/14746.jpg",
+     "saldo": 20
     },
     {
      "cod": 12971,
@@ -8174,6 +8221,22 @@
      "marca": "TILIBRA",
      "preco": 16.9,
      "img": "produtos/11473.jpg",
+     "saldo": 20
+    },
+    {
+     "cod": 14743,
+     "nome": "CADERNO PEQ. CD 80F-TOOTS TINY MAGIC",
+     "marca": "TILIBRA",
+     "preco": 16.9,
+     "img": "produtos/14743.jpg",
+     "saldo": 15
+    },
+    {
+     "cod": 14744,
+     "nome": "CADERNO PEQ. CD 80F-WEST VILLAGE",
+     "marca": "TILIBRA",
+     "preco": 16.9,
+     "img": "produtos/14744.jpg",
      "saldo": 20
     },
     {
@@ -9309,7 +9372,7 @@
      "marca": "ACRILEX",
      "preco": 22.9,
      "img": "produtos/12625.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 14420,
@@ -9559,7 +9622,7 @@
      "marca": "ADELBRAS",
      "preco": 2.0,
      "img": "produtos/1291.jpg",
-     "saldo": 250
+     "saldo": 248
     },
     {
      "cod": 11652,
@@ -11754,7 +11817,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 714
+     "saldo": 713
     },
     {
      "cod": 5082,
@@ -11778,7 +11841,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 2016,
@@ -11904,7 +11967,7 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg",
-     "saldo": 35
+     "saldo": 36
     },
     {
      "cod": 2113,
@@ -12566,7 +12629,7 @@
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
        "img": "produtos/3028.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 12684,
@@ -12590,7 +12653,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/5763.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 3029,
@@ -12598,7 +12661,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3029.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 3033,
@@ -12741,7 +12804,7 @@
      "marca": "",
      "preco": 3.2,
      "img": "produtos/10994.jpg",
-     "saldo": 191
+     "saldo": 190
     },
     {
      "cod": 10995,
@@ -12757,7 +12820,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/10996.jpg",
-     "saldo": 162
+     "saldo": 161
     },
     {
      "cod": 10993,
@@ -13785,7 +13848,7 @@
      "marca": "LETRON",
      "preco": 59.9,
      "img": "produtos/13708.jpg",
-     "saldo": 8
+     "saldo": 10
     },
     {
      "cod": 13371,
@@ -16654,7 +16717,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 242
+       "saldo": 241
       },
       {
        "cod": 1221,
@@ -16689,7 +16752,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 243
+       "saldo": 241
       }
      ]
     },
@@ -16715,14 +16778,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 241,
+     "saldo": 240,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 241
+       "saldo": 240
       },
       {
        "cod": 1230,
@@ -16764,14 +16827,14 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 88
+       "saldo": 85
       },
       {
        "cod": 1235,
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 320
+       "saldo": 319
       },
       {
        "cod": 1236,
@@ -16792,7 +16855,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 221
+       "saldo": 219
       },
       {
        "cod": 1239,
@@ -19632,7 +19695,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/8808.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 11833,
@@ -19648,7 +19711,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 112
+     "saldo": 111
     },
     {
      "cod": 14261,
@@ -20756,7 +20819,7 @@
      "marca": "FOXLUX",
      "preco": 12.9,
      "img": "produtos/5978.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 3999,
@@ -21412,7 +21475,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 18
+       "saldo": 13
       },
       {
        "cod": 1478,
@@ -22182,7 +22245,7 @@
      "marca": "TOTAL",
      "preco": 5.9,
      "img": "produtos/6814.jpg",
-     "saldo": 100
+     "saldo": 98
     },
     {
      "cod": 10120,
@@ -22444,7 +22507,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 97
+     "saldo": 96
     },
     {
      "cod": 3772,
@@ -22548,7 +22611,7 @@
      "marca": "ISOMAX",
      "preco": 1.9,
      "img": "produtos/9910.jpg",
-     "saldo": 29
+     "saldo": 27
     },
     {
      "cod": 9930,
@@ -22956,7 +23019,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 266
+     "saldo": 264
     },
     {
      "cod": 1569,
@@ -23052,7 +23115,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 2937,
@@ -23060,7 +23123,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 394
+     "saldo": 388
     },
     {
      "cod": 4146,
@@ -23076,7 +23139,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 345
+     "saldo": 340
     },
     {
      "cod": 3887,
@@ -24972,7 +25035,7 @@
      "marca": "M. E MOTA",
      "preco": 6.9,
      "img": "produtos/1113.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 7108,
@@ -24996,7 +25059,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 216
+     "saldo": 215
     },
     {
      "cod": 7305,
@@ -25450,7 +25513,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 33
+     "saldo": 31
     },
     {
      "cod": 2709,
@@ -25554,7 +25617,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 114
+     "saldo": 113
     },
     {
      "cod": 2720,
@@ -25578,7 +25641,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2723.jpg",
-     "saldo": 285
+     "saldo": 284
     },
     {
      "cod": 2721,
@@ -26866,7 +26929,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 168
+     "saldo": 166
     },
     {
      "cod": 4314,
@@ -27348,7 +27411,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10105.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 11347,
@@ -27586,7 +27649,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/3195.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 100,
@@ -27602,7 +27665,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/3196.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 128,
@@ -28894,7 +28957,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 496
+     "saldo": 491
     },
     {
      "cod": 6324,
@@ -29256,7 +29319,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/195.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 196,
@@ -29374,7 +29437,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 1495,
@@ -29636,7 +29699,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 299
+     "saldo": 294
     },
     {
      "cod": 7275,
