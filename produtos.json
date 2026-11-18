@@ -1304,7 +1304,7 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/596.jpg",
-     "saldo": 11
+     "saldo": 5
     },
     {
      "cod": 4392,
@@ -2163,7 +2163,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1036
+     "saldo": 1016
     },
     {
      "cod": 1670,
@@ -2180,14 +2180,6 @@
      "preco": 2.5,
      "img": "produtos/13799.jpg",
      "saldo": 80
-    },
-    {
-     "cod": 13053,
-     "nome": "LAPIS ESCREVER CIS FANTASIA DIVERTIDA C/BORRACHA",
-     "marca": "CIS",
-     "preco": 4.9,
-     "img": "produtos/13053.jpg",
-     "saldo": 1
     },
     {
      "cod": 10475,
@@ -3544,28 +3536,28 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 118,
+     "saldo": 115,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 118
+       "saldo": 115
       },
       {
        "cod": 2657,
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 42
+       "saldo": 41
       },
       {
        "cod": 2658,
        "cor": "Verde",
        "nome": "RETRO 2.0 PILOT-VERDE",
        "img": "produtos/2658.jpg",
-       "saldo": 24
+       "saldo": 23
       },
       {
        "cod": 2659,
@@ -5109,7 +5101,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/8252.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 12780,
@@ -5450,7 +5442,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/12400.jpg",
-     "saldo": 6
+     "saldo": 4
     },
     {
      "cod": 12438,
@@ -7657,7 +7649,7 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 78
+       "saldo": 76
       },
       {
        "cod": 12455,
@@ -8888,7 +8880,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1983
+     "saldo": 1973
     },
     {
      "cod": 1031,
@@ -10673,7 +10665,7 @@
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 106
+       "saldo": 105
       },
       {
        "cod": 2034,
@@ -10687,7 +10679,7 @@
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 81
+       "saldo": 80
       },
       {
        "cod": 2036,
@@ -11231,7 +11223,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 92
+     "saldo": 72
     },
     {
      "cod": 2007,
@@ -21568,7 +21560,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6169
+     "saldo": 6165
     },
     {
      "cod": 944,
@@ -21616,7 +21608,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 907
+     "saldo": 906
     },
     {
      "cod": 14407,
@@ -21656,7 +21648,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 1000
+     "saldo": 998
     },
     {
      "cod": 3342,
@@ -22638,7 +22630,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 413
+     "saldo": 402
     },
     {
      "cod": 4146,
@@ -22654,7 +22646,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 360
+     "saldo": 349
     },
     {
      "cod": 3887,
@@ -22796,7 +22788,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 623
+     "saldo": 620
     },
     {
      "cod": 880,
@@ -22852,7 +22844,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 128
+     "saldo": 126
     },
     {
      "cod": 4277,
@@ -23002,7 +22994,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 225
+     "saldo": 223
     },
     {
      "cod": 2516,
@@ -23568,7 +23560,7 @@
      "marca": "",
      "preco": 52.9,
      "img": "produtos/1376.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 9164,
@@ -24074,7 +24066,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 310
+     "saldo": 309
     },
     {
      "cod": 3951,
@@ -25028,7 +25020,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 979
+     "saldo": 977
     },
     {
      "cod": 2707,
@@ -25698,7 +25690,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 329
+     "saldo": 325
     },
     {
      "cod": 2826,
@@ -26222,7 +26214,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 111
+     "saldo": 107
     },
     {
      "cod": 4427,
@@ -26476,7 +26468,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 934
+     "saldo": 933
     },
     {
      "cod": 2900,
@@ -26594,7 +26586,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 316
+     "saldo": 314
     },
     {
      "cod": 236,
@@ -29429,6 +29421,14 @@
      "saldo": 21
     },
     {
+     "cod": 4215,
+     "nome": "PERFEX 50 PANOS VERDE (28X50CM)",
+     "marca": "INOVEN",
+     "preco": 19.9,
+     "img": "produtos/4215.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 9829,
      "nome": "PERFEX 50P AZUL/VERDE",
      "marca": "",
@@ -31236,14 +31236,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 284,
+     "saldo": 281,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 284
+       "saldo": 281
       },
       {
        "cod": 6051,
