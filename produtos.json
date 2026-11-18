@@ -1892,6 +1892,22 @@
      "saldo": 22
     },
     {
+     "cod": 5227,
+     "nome": "LAPIS 12CORES-FABER (JUMBO)",
+     "marca": "FABER",
+     "preco": 49.9,
+     "img": "produtos/5227.jpg",
+     "saldo": 36
+    },
+    {
+     "cod": 1646,
+     "nome": "LAPIS 12CORES-FABER+1LAPIS/1CAN/1BOR/1AP.",
+     "marca": "FABER",
+     "preco": 18.9,
+     "img": "produtos/1646.jpg",
+     "saldo": 360
+    },
+    {
      "cod": 3496,
      "nome": "LAPIS 12CORES-LEO (JUMBO)",
      "marca": "LEO E LEO",
@@ -2082,6 +2098,14 @@
      "preco": 59.9,
      "img": "produtos/14625.jpg",
      "saldo": 36
+    },
+    {
+     "cod": 1664,
+     "nome": "LAPIS 48CORES-FABER",
+     "marca": "FABER",
+     "preco": 106.9,
+     "img": "produtos/1664.jpg",
+     "saldo": 12
     },
     {
      "cod": 12740,
@@ -9296,7 +9320,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 212
+     "saldo": 211
     },
     {
      "cod": 1313,
@@ -9304,7 +9328,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1040
+     "saldo": 1035
     },
     {
      "cod": 4389,
@@ -15838,7 +15862,7 @@
      "marca": "",
      "preco": 44.9,
      "img": "produtos/2744.jpg",
-     "saldo": 3
+     "saldo": 5
     },
     {
      "cod": 9784,
@@ -15961,7 +15985,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 2959,
@@ -16008,7 +16032,7 @@
      ],
      "saldo_cor": {
       "LILAS": 24,
-      "ROSA": 24
+      "ROSA": 23
      }
     },
     {
@@ -21823,7 +21847,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 997
+     "saldo": 947
     },
     {
      "cod": 3342,
@@ -21927,7 +21951,7 @@
      "marca": "TOTAL",
      "preco": 5.9,
      "img": "produtos/6814.jpg",
-     "saldo": 97
+     "saldo": 100
     },
     {
      "cod": 10120,
@@ -22103,7 +22127,7 @@
      "marca": "VABENE",
      "preco": 4.9,
      "img": "produtos/9746.jpg",
-     "saldo": 14
+     "saldo": 17
     },
     {
      "cod": 9749,
@@ -22197,7 +22221,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 179,
@@ -24701,7 +24725,7 @@
      "marca": "INOVEN",
      "preco": 6.9,
      "img": "produtos/11675.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 11676,
@@ -26783,7 +26807,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 64
+     "saldo": 62
     },
     {
      "cod": 10990,
@@ -28425,7 +28449,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 407
+     "saldo": 406
     },
     {
      "cod": 2777,
@@ -28663,7 +28687,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 490
+     "saldo": 480
     },
     {
      "cod": 6323,
@@ -30319,7 +30343,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/14630.jpg",
-     "saldo": 44,
+     "saldo": 43,
      "controle": [
       "AMARELO",
       "ROSA",
@@ -30327,7 +30351,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 15,
-      "ROSA": 14,
+      "ROSA": 13,
       "VERDE-ÁGUA": 15
      }
     },
@@ -31129,7 +31153,7 @@
      "marca": "COMPACTOR",
      "preco": 17.9,
      "img": "produtos/14377.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14241,
@@ -31530,7 +31554,7 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO PILOT-ROSA",
        "img": "produtos/1832.jpg",
-       "saldo": 72
+       "saldo": 71
       },
       {
        "cod": 1833,
