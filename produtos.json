@@ -2211,42 +2211,42 @@
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10560.jpg",
-     "saldo": 5,
+     "saldo": 3,
      "cores": [
       {
        "cod": 10560,
        "cor": "Preto",
        "nome": "LAPIS ESCREVER CIS SPIRO-PRETO",
        "img": "produtos/10560.jpg",
-       "saldo": 5
+       "saldo": 3
       },
       {
        "cod": 10561,
        "cor": "Rosa",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROSA",
        "img": "produtos/10561.jpg",
-       "saldo": 8
+       "saldo": 6
       },
       {
        "cod": 10562,
        "cor": "Roxo",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROXO",
        "img": "produtos/10562.jpg",
-       "saldo": 7
+       "saldo": 5
       },
       {
        "cod": 10563,
        "cor": "Verde",
        "nome": "LAPIS ESCREVER CIS SPIRO-VERDE",
        "img": "produtos/10563.jpg",
-       "saldo": 14
+       "saldo": 11
       },
       {
        "cod": 10564,
        "cor": "Vermelho",
        "nome": "LAPIS ESCREVER CIS SPIRO-VERMELHO",
        "img": "produtos/10564.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -6467,7 +6467,7 @@
      "marca": "FORONI",
      "preco": 3.9,
      "img": "produtos/13538.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 11486,
@@ -7918,7 +7918,7 @@
      "marca": "BACCHI",
      "preco": 8.5,
      "img": "produtos/3314.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 781,
@@ -8030,7 +8030,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 797,
@@ -8038,7 +8038,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/797.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 14697,
@@ -8338,7 +8338,7 @@
      "marca": "LEO E LEO",
      "preco": 1.3,
      "img": "produtos/808.jpg",
-     "saldo": 188
+     "saldo": 186
     },
     {
      "cod": 807,
@@ -11183,7 +11183,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 720
+     "saldo": 719
     },
     {
      "cod": 5082,
@@ -11301,7 +11301,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 11784,
@@ -19921,7 +19921,7 @@
      "marca": "GGB PLAST",
      "preco": 19.9,
      "img": "produtos/13512.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 9441,
@@ -19985,7 +19985,7 @@
      "marca": "PAIS E FIL",
      "preco": 31.9,
      "img": "produtos/11370.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 11354,
@@ -20121,7 +20121,7 @@
      "marca": "AQUARELA B",
      "preco": 28.9,
      "img": "produtos/14361.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 14360,
@@ -20225,7 +20225,7 @@
      "marca": "PAIS&FILHO",
      "preco": 21.9,
      "img": "produtos/13566.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 9339,
@@ -25405,7 +25405,7 @@
      "marca": "KROMASA",
      "preco": 13.9,
      "img": "produtos/4943.jpg",
-     "saldo": 248
+     "saldo": 247
     },
     {
      "cod": 4944,
@@ -26135,7 +26135,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 136
+     "saldo": 133
     },
     {
      "cod": 13853,
@@ -26429,7 +26429,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2344
+     "saldo": 2343
     },
     {
      "cod": 2896,
@@ -26461,7 +26461,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 929
+     "saldo": 928
     },
     {
      "cod": 2900,
@@ -27549,7 +27549,7 @@
        "cor": "Verde Escuro",
        "nome": "FITILHO 50MT VERDE ESCURO",
        "img": "produtos/1331.jpg",
-       "saldo": 10
+       "saldo": 9
       }
      ]
     },
@@ -28251,7 +28251,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 324
+     "saldo": 274
     },
     {
      "cod": 2779,
@@ -29341,7 +29341,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 216
+     "saldo": 215
     },
     {
      "cod": 6529,
