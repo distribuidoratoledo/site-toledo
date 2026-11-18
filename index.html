@@ -2187,15 +2187,15 @@
           var f = DOCS_ARQ[tipo];
           return '<label class="conv-doc' + (f ? ' ok' : '') + '" ondragover="event.preventDefault();this.classList.add(\'sobre\')"'
             + ' ondragleave="this.classList.remove(\'sobre\')" ondrop="soltarDocConv(event,\'' + tipo + '\')">'
-            + '<b>' + titulo + (opcional ? '' : ' *') + '</b><span>' + ajuda + '</span><em>' + (f ? '\u2705 ' + esc(f.name || 'arquivo escolhido') + ' (toque para trocar)'
-              : 'Toque para escolher ou tirar uma foto, ou arraste o arquivo para c\u00e1') + '</em>'
+            + '<b>' + titulo + (opcional ? '' : ' *') + '</b><span>' + ajuda + '</span><em>' + (f ? '\u2705 ' + esc(f.name || 'arquivo escolhido') + '. Toque para trocar.'
+              : 'Toque para escolher o arquivo ou tirar uma foto. No computador, voc\u00ea tamb\u00e9m pode arrastar o arquivo at\u00e9 aqui.') + '</em>'
             + '<input type="file" accept="image/*,application/pdf" onchange="escolherDocConv(this,\'' + tipo + '\')"></label>';
         };
         return h + '<div class="conv-docs"><p class="car-nota" style="margin-top:6px"><b>Documentos do conveniado (obrigat\u00f3rios).</b>'
           + ' Eles v\u00e3o junto com o pedido no WhatsApp da vendedora, que confere antes de liberar. Se quem est\u00e1 comprando for o dependente, envie tamb\u00e9m o documento dele.</p>'
-          + cx('documento', 'Documento do titular do conv\u00eanio', 'identidade, CNH ou passaporte de quem \u00e9 o conveniado')
-          + cx('dependente', 'Documento do dependente', 's\u00f3 se quem est\u00e1 comprando n\u00e3o for o titular: identidade, CNH ou passaporte', true)
-          + cx('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'a autoriza\u00e7\u00e3o da empresa para esta compra')
+          + cx('documento', 'Documento do titular do conv\u00eanio', 'Identidade, CNH ou passaporte do titular do conv\u00eanio.')
+          + cx('dependente', 'Documento do dependente', 'Necess\u00e1rio apenas quando a compra for feita pelo dependente. Identidade, CNH ou passaporte.', true)
+          + cx('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'Autoriza\u00e7\u00e3o emitida pela empresa para esta compra.')
           + '</div>';
       }
       if (!DOCS_CONVENIO_ATIVO) {
@@ -2205,19 +2205,19 @@
       var d = DADOS.docsConv || {};
       function caixa(tipo, titulo, ajuda, opcional) {
         var st = d[tipo], txt = st === 'ok' ? '\u2705 Recebido' : st === 'enviando' ? 'Enviando\u2026' : st === 'erro'
-          ? '\u26a0\ufe0f N\u00e3o foi poss\u00edvel enviar. Tente de novo ou apresente na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + '.'
-          : 'Toque para escolher ou tirar uma foto, ou arraste o arquivo para c\u00e1';
+          ? '\u26a0\ufe0f N\u00e3o foi poss\u00edvel enviar o arquivo. Tente novamente ou apresente o documento na ' + (DADOS.entrega === 'entrega' ? 'entrega' : 'retirada') + '.'
+          : 'Toque para escolher o arquivo ou tirar uma foto. No computador, voc\u00ea tamb\u00e9m pode arrastar o arquivo at\u00e9 aqui.';
         return '<label class="conv-doc' + (st === 'ok' ? ' ok' : '') + '" ondragover="event.preventDefault();this.classList.add(\'sobre\')"'
           + ' ondragleave="this.classList.remove(\'sobre\')" ondrop="soltarDocConv(event,\'' + tipo + '\')">'
           + '<b>' + titulo + (opcional ? '' : ' *') + '</b><span>' + ajuda + '</span><em>' + txt + '</em>'
           + '<input type="file" accept="image/*,application/pdf" onchange="escolherDocConv(this,\'' + tipo + '\')"></label>';
       }
-      h += '<div class="conv-docs"><p class="car-nota" style="margin-top:6px"><b>Documentos do conveniado.</b> A vendedora confere antes de liberar o pedido.'
-        + ' Se quem est\u00e1 comprando for o dependente, envie tamb\u00e9m o documento dele.'
-        + ' Os arquivos ficam guardados em \u00e1rea privada da Toledo, s\u00f3 para esta confer\u00eancia, e chegam para a vendedora junto com o pedido.</p>'
-        + caixa('documento', 'Documento do titular do conv\u00eanio', 'identidade, CNH ou passaporte de quem \u00e9 o conveniado')
-        + caixa('dependente', 'Documento do dependente', 's\u00f3 se quem est\u00e1 comprando n\u00e3o for o titular: identidade, CNH ou passaporte', true)
-        + caixa('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'a autoriza\u00e7\u00e3o da empresa para esta compra')
+      h += '<div class="conv-docs"><p class="car-nota" style="margin-top:6px"><b>Documentos do conveniado.</b> A vendedora confere os documentos antes de liberar o pedido.'
+        + ' Se a compra for feita pelo dependente, envie tamb\u00e9m o documento dele.'
+        + ' Os arquivos ficam guardados em \u00e1rea privada da Toledo, exclusivamente para esta confer\u00eancia, e s\u00e3o encaminhados \u00e0 vendedora junto com o pedido.</p>'
+        + caixa('documento', 'Documento do titular do conv\u00eanio', 'Identidade, CNH ou passaporte do titular do conv\u00eanio.')
+        + caixa('dependente', 'Documento do dependente', 'Necess\u00e1rio apenas quando a compra for feita pelo dependente. Identidade, CNH ou passaporte.', true)
+        + caixa('autorizacao', 'Autoriza\u00e7\u00e3o do conv\u00eanio', 'Autoriza\u00e7\u00e3o emitida pela empresa para esta compra.')
         + '</div>';
       return h;
     }
@@ -2385,9 +2385,9 @@
     }
 
     function textoPrazo() {
-      if (urgente()) { return 'at\u00e9 2 horas ap\u00f3s o pagamento'; }
+      if (urgente()) { return 'At\u00e9 2 horas ap\u00f3s o pagamento'; }
       var p = DADOS.entrega === 'retirar' ? PRAZO_RETIRADA : PRAZO_ENTREGA;
-      return p || 'a confirmar pela equipe';
+      return p || 'A confirmar pela equipe';
     }
 
     /* NUMERO DO PEDIDO DO SITE. O numero do Sankhya so' existe depois que o
