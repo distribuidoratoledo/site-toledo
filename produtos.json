@@ -49,21 +49,21 @@
      "marca": "BIC",
      "preco": 3.9,
      "img": "produtos/3794.jpg",
-     "saldo": 36,
+     "saldo": 35,
      "cores": [
       {
        "cod": 3794,
        "cor": "Azul",
        "nome": "CANETA BIC BOLD 1.6-AZUL",
        "img": "produtos/3794.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 550,
        "cor": "Preta",
        "nome": "CANETA BIC BOLD 1.6-PRETA",
        "img": "produtos/550.jpg",
-       "saldo": 38
+       "saldo": 37
       },
       {
        "cod": 551,
@@ -2033,7 +2033,7 @@
      "marca": "MAPED",
      "preco": 28.9,
      "img": "produtos/1659.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 12627,
@@ -2757,7 +2757,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 31,
+     "saldo": 27,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2767,10 +2767,10 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 8,
-      "AZUL": 5,
-      "LILAS": 4,
-      "ROSA": 7,
+      "AMARELO": 7,
+      "AZUL": 4,
+      "LILAS": 3,
+      "ROSA": 6,
       "SALMÃO": 4,
       "VERDE": 3
      }
@@ -3620,7 +3620,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 12247,
@@ -3848,7 +3848,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/14690.jpg",
-     "saldo": 24,
+     "saldo": 22,
      "controle": [
       "AZUL",
       "LILAS",
@@ -3857,8 +3857,8 @@
      ],
      "saldo_cor": {
       "AZUL": 6,
-      "LILAS": 6,
-      "ROSA": 6,
+      "LILAS": 5,
+      "ROSA": 5,
       "VERDE-ÁGUA": 6
      }
     },
@@ -4360,7 +4360,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 66,
+     "saldo": 65,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4369,7 +4369,7 @@
      ],
      "saldo_cor": {
       "AZUL": 16,
-      "ROSA": 17,
+      "ROSA": 16,
       "ROXO": 16,
       "VERDE-ÁGUA": 17
      }
@@ -4989,7 +4989,7 @@
      "marca": "CADERSIL",
      "preco": 41.9,
      "img": "produtos/12899.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 8129,
@@ -5021,7 +5021,7 @@
      "marca": "CADERSIL",
      "preco": 38.9,
      "img": "produtos/12896.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 12894,
@@ -5117,7 +5117,7 @@
      "marca": "SD",
      "preco": 41.9,
      "img": "produtos/6535.jpg",
-     "saldo": 19
+     "saldo": 17
     },
     {
      "cod": 11432,
@@ -5386,7 +5386,7 @@
      "marca": "CREDEAL",
      "preco": 28.9,
      "img": "produtos/8401.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 7773,
@@ -5600,7 +5600,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8247.jpg",
-     "saldo": 23
+     "saldo": 19
     },
     {
      "cod": 12403,
@@ -5744,7 +5744,7 @@
      "marca": "TILIBRA",
      "preco": 28.9,
      "img": "produtos/12767.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 13179,
@@ -5896,7 +5896,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13201.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 5965,
@@ -6036,7 +6036,7 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/5613.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 12841,
@@ -6108,7 +6108,7 @@
      "marca": "SD",
      "preco": 39.9,
      "img": "produtos/12969.jpg",
-     "saldo": 15
+     "saldo": 13
     },
     {
      "cod": 12415,
@@ -9114,7 +9114,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 232
+     "saldo": 222
     },
     {
      "cod": 1313,
@@ -16132,7 +16132,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 251
+       "saldo": 249
       }
      ]
     },
@@ -16150,7 +16150,7 @@
      "marca": "MAKE +",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 19
+     "saldo": 17
     },
     {
      "cod": 1228,
@@ -18875,7 +18875,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/6618.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 2478,
@@ -22703,7 +22703,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 4733,
@@ -22821,7 +22821,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 336
+     "saldo": 335
     },
     {
      "cod": 1444,
@@ -23655,7 +23655,7 @@
      "marca": "COPOPLAST",
      "preco": 3.9,
      "img": "produtos/3898.jpg",
-     "saldo": 640
+     "saldo": 636
     },
     {
      "cod": 2553,
@@ -24313,7 +24313,7 @@
      "marca": "PRAVIAGEM",
      "preco": 177.9,
      "img": "produtos/14192.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 7818,
@@ -26215,7 +26215,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 7426
+     "saldo": 7326
     },
     {
      "cod": 11788,
@@ -26999,7 +26999,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6102.jpg",
-     "saldo": 44
+     "saldo": 42
     },
     {
      "cod": 6103,
@@ -27039,7 +27039,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/6860.jpg",
-     "saldo": 25
+     "saldo": 22
     },
     {
      "cod": 2829,
@@ -30095,14 +30095,14 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/14628.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "controle": [
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
       "ROSA": 22,
-      "ROXO": 24
+      "ROXO": 23
      }
     },
     {
@@ -30459,7 +30459,7 @@
        "cor": "Preto",
        "nome": "APONTADOR LEO S/D REDONDO-PRETO",
        "img": "produtos/7596.jpg",
-       "saldo": 41
+       "saldo": 31
       },
       {
        "cod": 7594,
