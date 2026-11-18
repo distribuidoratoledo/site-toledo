@@ -1795,7 +1795,7 @@
      "marca": "COMPACTOR",
      "preco": 16.9,
      "img": "produtos/14370.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 10826,
@@ -1884,6 +1884,14 @@
      "saldo": 12
     },
     {
+     "cod": 1646,
+     "nome": "LAPIS 12CORES-FABER",
+     "marca": "FABER",
+     "preco": 18.9,
+     "img": "produtos/1646.jpg",
+     "saldo": 360
+    },
+    {
      "cod": 12914,
      "nome": "LAPIS 12CORES-FABER (2 BICOLOR)",
      "marca": "FABER",
@@ -1898,14 +1906,6 @@
      "preco": 49.9,
      "img": "produtos/5227.jpg",
      "saldo": 36
-    },
-    {
-     "cod": 1646,
-     "nome": "LAPIS 12CORES-FABER+1LAPIS/1CAN/1BOR/1AP.",
-     "marca": "FABER",
-     "preco": 18.9,
-     "img": "produtos/1646.jpg",
-     "saldo": 360
     },
     {
      "cod": 3496,
@@ -2036,6 +2036,14 @@
      "saldo": 12
     },
     {
+     "cod": 14807,
+     "nome": "LAPIS 24CORES-FABER",
+     "marca": "FABER",
+     "preco": 49.9,
+     "img": "produtos/14807.jpg",
+     "saldo": 72
+    },
+    {
      "cod": 1657,
      "nome": "LAPIS 24CORES-FABER (JUMBO)",
      "marca": "FABER",
@@ -2129,7 +2137,7 @@
      "marca": "TRIS",
      "preco": 16.9,
      "img": "produtos/4871.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 10301,
@@ -2219,7 +2227,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10636.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 10477,
@@ -2412,7 +2420,7 @@
        "cor": "Preto",
        "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
        "img": "produtos/8415.jpg",
-       "saldo": 37
+       "saldo": 36
       }
      ]
     },
@@ -2642,7 +2650,7 @@
      "marca": "MAPED",
      "preco": 2.9,
      "img": "produtos/7862.jpg",
-     "saldo": 116
+     "saldo": 114
     },
     {
      "cod": 13305,
@@ -2781,7 +2789,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 23,
+     "saldo": 19,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2791,12 +2799,12 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 7,
-      "AZUL": 4,
+      "AMARELO": 6,
+      "AZUL": 3,
       "LILAS": 1,
       "ROSA": 4,
       "SALMÃO": 4,
-      "VERDE": 3
+      "VERDE": 1
      }
     },
     {
@@ -3089,7 +3097,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 51
+       "saldo": 49
       },
       {
        "cod": 3604,
@@ -6799,7 +6807,7 @@
      "marca": "SD",
      "preco": 29.9,
      "img": "produtos/12973.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 8246,
@@ -6823,7 +6831,7 @@
      "marca": "SD",
      "preco": 31.9,
      "img": "produtos/12981.jpg",
-     "saldo": 13
+     "saldo": 6
     },
     {
      "cod": 10490,
@@ -7023,7 +7031,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/13170.jpg",
-     "saldo": 29
+     "saldo": 26
     },
     {
      "cod": 12405,
@@ -9094,7 +9102,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4144
+     "saldo": 4143
     },
     {
      "cod": 14619,
@@ -10447,7 +10455,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 2283,
@@ -16025,7 +16033,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/14637.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "controle": [
       "LILAS",
       "ROSA"
@@ -17508,14 +17516,6 @@
      "saldo": 2
     },
     {
-     "cod": 12528,
-     "nome": "ESTOJO DAC BOX-PATRULHA CANINA",
-     "marca": "DAC",
-     "preco": 49.9,
-     "img": "produtos/12528.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 10782,
      "nome": "ESTOJO DAC BOX-POOH",
      "marca": "DAC",
@@ -17561,7 +17561,7 @@
      "marca": "LUXCEL",
      "preco": 73.9,
      "img": "produtos/13446.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13650,
@@ -17649,7 +17649,7 @@
      "marca": "LUXCEL",
      "preco": 79.9,
      "img": "produtos/12867.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 12423,
@@ -17673,14 +17673,6 @@
      "marca": "LUXCEL",
      "preco": 74.9,
      "img": "produtos/12424.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 13585,
-     "nome": "ESTOJO LUXCEL 3F-UP4YOU AZUL (ET49625UP-AZ)",
-     "marca": "LUXCEL",
-     "preco": 69.9,
-     "img": "produtos/13585.jpg",
      "saldo": 1
     },
     {
@@ -17762,14 +17754,6 @@
      "preco": 107.9,
      "img": "produtos/12419.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 12420,
-     "nome": "ESTOJO LUXCEL BOX-STITCH ROSA (ET50084SC-RA)",
-     "marca": "LUXCEL",
-     "preco": 107.9,
-     "img": "produtos/12420.jpg",
-     "saldo": 1
     },
     {
      "cod": 12421,
@@ -18467,7 +18451,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 13504
+     "saldo": 13494
     },
     {
      "cod": 1051,
@@ -18769,7 +18753,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 326
+     "saldo": 325
     },
     {
      "cod": 13980,
@@ -19081,7 +19065,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/6618.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 2478,
@@ -20151,7 +20135,7 @@
      "marca": "COLUNA",
      "preco": 23.9,
      "img": "produtos/8074.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 14646,
@@ -22725,7 +22709,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 267
+     "saldo": 266
     },
     {
      "cod": 1569,
@@ -22821,7 +22805,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 2937,
@@ -22829,7 +22813,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 398
+     "saldo": 397
     },
     {
      "cod": 4146,
@@ -25667,7 +25651,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 650
+     "saldo": 649
     },
     {
      "cod": 2808,
@@ -29151,7 +29135,7 @@
      "marca": "MAMUTH",
      "preco": 35.9,
      "img": "produtos/1493.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 1494,
@@ -29555,7 +29539,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1438
+     "saldo": 1434
     },
     {
      "cod": 2157,
