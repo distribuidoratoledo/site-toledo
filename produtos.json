@@ -2041,7 +2041,7 @@
      "marca": "TRIS",
      "preco": 24.9,
      "img": "produtos/12627.jpg",
-     "saldo": 93
+     "saldo": 91
     },
     {
      "cod": 14584,
@@ -2137,16 +2137,16 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
-     "saldo": 34,
+     "saldo": 32,
      "controle": [
       "AZUL",
       "PRETO",
       "ROSA"
      ],
      "saldo_cor": {
-      "AZUL": 12,
+      "AZUL": 11,
       "PRETO": 10,
-      "ROSA": 12
+      "ROSA": 11
      }
     },
     {
@@ -2163,7 +2163,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1014
+     "saldo": 1008
     },
     {
      "cod": 1670,
@@ -2757,7 +2757,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 27,
+     "saldo": 23,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2769,8 +2769,8 @@
      "saldo_cor": {
       "AMARELO": 7,
       "AZUL": 4,
-      "LILAS": 3,
-      "ROSA": 6,
+      "LILAS": 1,
+      "ROSA": 4,
       "SALMÃO": 4,
       "VERDE": 3
      }
@@ -4266,7 +4266,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14622.jpg",
-     "saldo": 107
+     "saldo": 105
     },
     {
      "cod": 13083,
@@ -6393,7 +6393,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO ALIBOM. CD 80F-VERMELHO",
        "img": "produtos/366.jpg",
-       "saldo": 25
+       "saldo": 15
       }
      ]
     },
@@ -6663,7 +6663,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12441.jpg",
-     "saldo": 50
+     "saldo": 40
     },
     {
      "cod": 10901,
@@ -7277,7 +7277,7 @@
      "marca": "MAXIMA",
      "preco": 14.9,
      "img": "produtos/6083.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 420,
@@ -7823,7 +7823,7 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 76
+       "saldo": 75
       },
       {
        "cod": 12455,
@@ -7844,7 +7844,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO PEQ. CD 96F (VERMELHO)",
        "img": "produtos/9322.jpg",
-       "saldo": 27
+       "saldo": 26
       }
      ]
     },
@@ -8504,7 +8504,7 @@
      "marca": "TRIS",
      "preco": 9.9,
      "img": "produtos/14591.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 805,
@@ -8640,14 +8640,14 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14604.jpg",
-     "saldo": 45,
+     "saldo": 44,
      "controle": [
       "LILAS",
       "ROSA"
      ],
      "saldo_cor": {
       "LILAS": 22,
-      "ROSA": 23
+      "ROSA": 22
      }
     },
     {
@@ -8728,7 +8728,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/834.jpg",
-     "saldo": 102
+     "saldo": 101
     },
     {
      "cod": 835,
@@ -8736,7 +8736,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 83
+     "saldo": 82
     },
     {
      "cod": 836,
@@ -8752,7 +8752,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/7704.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 837,
@@ -8760,7 +8760,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/837.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 4930,
@@ -8960,7 +8960,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 307
+     "saldo": 305
     },
     {
      "cod": 11926,
@@ -9296,7 +9296,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 216
+     "saldo": 215
     },
     {
      "cod": 1313,
@@ -9586,7 +9586,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/1136.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 1135,
@@ -9602,7 +9602,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/1137.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 5768,
@@ -9816,7 +9816,7 @@
      "marca": "ACRIMET",
      "preco": 6.9,
      "img": "produtos/6342.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 3714,
@@ -11451,7 +11451,7 @@
      "marca": "CHAMEX",
      "preco": 11.9,
      "img": "produtos/2012.jpg",
-     "saldo": 39
+     "saldo": 29
     },
     {
      "cod": 2017,
@@ -11499,7 +11499,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 205
+     "saldo": 204
     },
     {
      "cod": 2100,
@@ -12055,7 +12055,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 149
+     "saldo": 147
     },
     {
      "cod": 11626,
@@ -15774,7 +15774,7 @@
      "marca": "DAC",
      "preco": 29.9,
      "img": "produtos/4921.jpg",
-     "saldo": 8
+     "saldo": 4
     },
     {
      "cod": 4922,
@@ -18307,7 +18307,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22484
+     "saldo": 22476
     },
     {
      "cod": 1098,
@@ -18745,7 +18745,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 327
+     "saldo": 326
     },
     {
      "cod": 13980,
@@ -19353,7 +19353,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 14261,
@@ -19733,7 +19733,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11629.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 11628,
@@ -19845,7 +19845,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1564
+     "saldo": 1562
     },
     {
      "cod": 3538,
@@ -21347,7 +21347,7 @@
      "marca": "LEO E LEO",
      "preco": 18.9,
      "img": "produtos/7555.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 13315,
@@ -22173,7 +22173,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/4617.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 4060,
@@ -23273,7 +23273,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 47
+     "saldo": 42
     },
     {
      "cod": 2524,
@@ -24447,7 +24447,7 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 1344,
@@ -24773,7 +24773,7 @@
      "marca": "ASSETE",
      "preco": 8.9,
      "img": "produtos/1999.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 3864,
@@ -25467,7 +25467,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8100.jpg",
-     "saldo": 181
+     "saldo": 180
     },
     {
      "cod": 2735,
@@ -26761,7 +26761,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 284
+     "saldo": 252
     },
     {
      "cod": 236,
@@ -29539,7 +29539,7 @@
      "marca": "INTERFORTY",
      "preco": 129.9,
      "img": "produtos/2157.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 2156,
@@ -29609,7 +29609,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 9748,
@@ -30951,7 +30951,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14607.jpg",
-     "saldo": 35,
+     "saldo": 33,
      "controle": [
       "AZUL",
       "LARANJA",
@@ -30959,9 +30959,9 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 8,
+      "AZUL": 7,
       "LARANJA": 9,
-      "ROSA": 9,
+      "ROSA": 8,
       "ROXO": 9
      }
     },
