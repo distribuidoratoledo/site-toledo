@@ -1905,7 +1905,7 @@
      "marca": "LEO E LEO",
      "preco": 5.9,
      "img": "produtos/1650.jpg",
-     "saldo": 81
+     "saldo": 80
     },
     {
      "cod": 7710,
@@ -2163,7 +2163,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1039
+     "saldo": 1036
     },
     {
      "cod": 1670,
@@ -2180,6 +2180,14 @@
      "preco": 2.5,
      "img": "produtos/13799.jpg",
      "saldo": 80
+    },
+    {
+     "cod": 13053,
+     "nome": "LAPIS ESCREVER CIS FANTASIA DIVERTIDA C/BORRACHA",
+     "marca": "CIS",
+     "preco": 4.9,
+     "img": "produtos/13053.jpg",
+     "saldo": 1
     },
     {
      "cod": 10475,
@@ -2538,7 +2546,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 665
+     "saldo": 663
     },
     {
      "cod": 14124,
@@ -3928,7 +3936,7 @@
      "marca": "LEO E LEO",
      "preco": 0.7,
      "img": "produtos/275.jpg",
-     "saldo": 458
+     "saldo": 457
     },
     {
      "cod": 277,
@@ -6337,7 +6345,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO ALIBOM. CD 80F-VERMELHO",
        "img": "produtos/366.jpg",
-       "saldo": 26
+       "saldo": 25
       }
      ]
     },
@@ -8778,7 +8786,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 314
+     "saldo": 313
     },
     {
      "cod": 11926,
@@ -8880,7 +8888,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1993
+     "saldo": 1983
     },
     {
      "cod": 1031,
@@ -11223,7 +11231,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 93
+     "saldo": 92
     },
     {
      "cod": 2007,
@@ -18277,7 +18285,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7319
+     "saldo": 7316
     },
     {
      "cod": 1054,
@@ -18819,7 +18827,7 @@
      "marca": "PAPER MULT",
      "preco": 4.5,
      "img": "produtos/215.jpg",
-     "saldo": 104
+     "saldo": 102
     },
     {
      "cod": 6963,
@@ -21560,7 +21568,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6179
+     "saldo": 6169
     },
     {
      "cod": 944,
@@ -22630,7 +22638,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 416
+     "saldo": 413
     },
     {
      "cod": 4146,
@@ -22646,7 +22654,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 364
+     "saldo": 360
     },
     {
      "cod": 3887,
@@ -22694,7 +22702,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 123
+     "saldo": 122
     },
     {
      "cod": 4129,
@@ -22702,7 +22710,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 112
+     "saldo": 111
     },
     {
      "cod": 5005,
@@ -25068,7 +25076,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 314
+     "saldo": 313
     },
     {
      "cod": 13027,
@@ -25452,7 +25460,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 2806,
@@ -25855,7 +25863,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 25X35 C/50-PRETA",
        "img": "produtos/9878.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 9964,
@@ -26468,7 +26476,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 935
+     "saldo": 934
     },
     {
      "cod": 2900,
@@ -28210,7 +28218,7 @@
      "marca": "GESELE",
      "preco": 0.8,
      "img": "produtos/1340.jpg",
-     "saldo": 444
+     "saldo": 424
     },
     {
      "cod": 3674,
@@ -28866,7 +28874,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/193.jpg",
-     "saldo": 12
+     "saldo": 8
     },
     {
      "cod": 194,
@@ -29174,7 +29182,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/1801.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 12279,
@@ -29214,7 +29222,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 3085,
@@ -29340,7 +29348,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 190
+     "saldo": 189
     },
     {
      "cod": 2153,
@@ -29348,7 +29356,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 223
+     "saldo": 221
     },
     {
      "cod": 6529,
