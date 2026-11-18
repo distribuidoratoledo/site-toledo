@@ -246,6 +246,12 @@
       .bf-banner { padding: 1.1rem 1rem 1.2rem; }
     }
     .bf-btn:hover { background: #ffe34d; }
+    .bf-topo { text-align: center; margin: 0 0 1.2rem; padding: 1rem 1rem 1.1rem; border-radius: 18px; color: #fff;
+      background: radial-gradient(ellipse at center, #262200 0%, #111 55%, #050505 100%); border: 3px solid #ffd400;
+      box-shadow: 0 8px 22px rgba(0,0,0,.22); }
+    .bf-topo .bf-marca { font-size: clamp(2.4rem, 7vw, 4rem); }
+    .bf-topo .bf-topo-off { margin: .2rem 0 .3rem; font-size: clamp(1.6rem, 4.5vw, 2.4rem); font-weight: 900; color: #ffd400; line-height: 1; letter-spacing: .02em; }
+    .bf-topo .bf-topo-sub { margin: 0; font-size: .92rem; color: #e6e6e6; }
     .bf-selo { display: inline-block; background: #111; color: #ffd400; font-size: .68rem; font-weight: 800; letter-spacing: .05em;
       text-transform: uppercase; padding: .12rem .45rem; border-radius: 6px; margin-right: .35rem; vertical-align: middle; }
     .bf-de { color: #8a95a6; text-decoration: line-through; font-weight: 500; font-size: .85em; margin-right: .35rem; }
@@ -1353,8 +1359,14 @@
       if (!CAT_ATUAL && !sel.length) { gradeInicial(); pintarMarcas(); return; }
       var lista = itensBase().filter(function (p) { return !sel.length || MARCAS_SEL[chaveMarca(p.marca)]; });
       var titulo = CAT_ATUAL ? CAT_ATUAL.nome : 'Marcas escolhidas';
-      var sub = lista.length + ' produtos' + (sel.length ? ' · ' + sel.map(rotuloMarca).join(', ') : '') + ' · clique para consultar no WhatsApp';
-      painel.innerHTML = '<h3 class="titulo-cat">' + esc(titulo) + '</h3><p class="sub-cat">' + esc(sub) + '</p>' +
+      var sub = lista.length + ' produtos' + (sel.length ? ' · ' + sel.map(rotuloMarca).join(', ') : '') + '. Clique no produto para consultar pelo WhatsApp.';
+      /* 18/11/2026: "destaque essa parte usando os mesmos criterios dessa tela inicial" -- o topo da lista Black Friday
+         segue o card da tela inicial (fundo preto, BLACK branco, FRIDAY e 50% OFF em amarelo) */
+      var topo = CAT_ATUAL === BF_CAT
+        ? '<div class="bf-topo"><div class="bf-marca"><span>BLACK</span><span>FRIDAY</span></div><p class="bf-topo-off">50% OFF</p>'
+          + '<p class="bf-topo-sub">' + esc(sub) + '</p></div>'
+        : '<h3 class="titulo-cat">' + esc(titulo) + '</h3><p class="sub-cat">' + esc(sub) + '</p>';
+      painel.innerHTML = topo +
         (lista.length ? '<div class="grid-produtos">' + lista.map(cardProduto).join('') + '</div>'
                       : '<p>Nenhum produto destas marcas nesta categoria.</p>');
       pintarMarcas();
@@ -2706,7 +2718,7 @@
         painel.innerHTML = '<h3 class="titulo-cat">' + termo + '</h3>' +
           '<p class="sub-cat">' + achados.length +
           (achados.length === 1 ? ' produto encontrado' : ' produtos encontrados') +
-          ' · clique para consultar no WhatsApp</p>' +
+          '. Clique no produto para consultar pelo WhatsApp.</p>' +
           '<div class="grid-produtos">' + achados.map(cardProduto).join('') + '</div>';
       }
       document.getElementById('produtos').scrollIntoView({ behavior: 'smooth' });
