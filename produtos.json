@@ -9004,7 +9004,7 @@
      "marca": "ADELBRAS",
      "preco": 15.9,
      "img": "produtos/1294.jpg",
-     "saldo": 220
+     "saldo": 219
     },
     {
      "cod": 6761,
@@ -16132,7 +16132,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 261
+       "saldo": 251
       }
      ]
     },
@@ -17563,14 +17563,6 @@
      "marca": "LUXCEL",
      "preco": 107.9,
      "img": "produtos/12420.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12818,
-     "nome": "ESTOJO LUXCEL BOX-STITCH ROXO (ET50074SC-RX)",
-     "marca": "LUXCEL",
-     "preco": 107.9,
-     "img": "produtos/12818.jpg",
      "saldo": 1
     },
     {
@@ -19179,7 +19171,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 115
+     "saldo": 113
     },
     {
      "cod": 14261,
@@ -21553,7 +21545,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6132
+     "saldo": 6127
     },
     {
      "cod": 944,
@@ -21633,7 +21625,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/954.jpg",
-     "saldo": 406
+     "saldo": 400
     },
     {
      "cod": 14403,
@@ -22877,7 +22869,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/9914.jpg",
-     "saldo": 59
+     "saldo": 54
     },
     {
      "cod": 14191,
@@ -22955,7 +22947,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 6315,
@@ -24123,7 +24115,7 @@
      "marca": "LIDER",
      "preco": 35.9,
      "img": "produtos/13006.jpg",
-     "saldo": 15
+     "saldo": 14
     }
    ]
   },
@@ -24487,7 +24479,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 244
+     "saldo": 243
     },
     {
      "cod": 3932,
@@ -24709,7 +24701,7 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 14415,
@@ -24725,7 +24717,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 2700,
@@ -25013,7 +25005,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 956
+     "saldo": 946
     },
     {
      "cod": 2707,
@@ -25325,7 +25317,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 136
+     "saldo": 134
     },
     {
      "cod": 2766,
@@ -26207,7 +26199,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 107
+     "saldo": 103
     },
     {
      "cod": 4427,
@@ -26223,7 +26215,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 7526
+     "saldo": 7426
     },
     {
      "cod": 11788,
@@ -26397,7 +26389,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2903.jpg",
-     "saldo": 216
+     "saldo": 214
     },
     {
      "cod": 2904,
@@ -28915,7 +28907,7 @@
      "marca": "REDINHA",
      "preco": 8.9,
      "img": "produtos/2609.jpg",
-     "saldo": 11
+     "saldo": 9
     },
     {
      "cod": 2610,
@@ -29443,7 +29435,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/10666.jpg",
-     "saldo": 36
+     "saldo": 32
     },
     {
      "cod": 11659,
