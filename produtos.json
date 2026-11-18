@@ -430,7 +430,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 114
+       "saldo": 104
       },
       {
        "cod": 563,
@@ -2036,6 +2036,14 @@
      "saldo": 12
     },
     {
+     "cod": 13447,
+     "nome": "LAPIS 24CORES-CIS",
+     "marca": "CIS",
+     "preco": 19.9,
+     "img": "produtos/13447.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 14807,
      "nome": "LAPIS 24CORES-FABER",
      "marca": "FABER",
@@ -2052,12 +2060,20 @@
      "saldo": 2
     },
     {
+     "cod": 1658,
+     "nome": "LAPIS 24CORES-LEO E LEO",
+     "marca": "LEO E LEO",
+     "preco": 10.9,
+     "img": "produtos/1658.jpg",
+     "saldo": 24
+    },
+    {
      "cod": 1659,
      "nome": "LAPIS 24CORES-MAPED",
      "marca": "MAPED",
      "preco": 28.9,
      "img": "produtos/1659.jpg",
-     "saldo": 3
+     "saldo": 27
     },
     {
      "cod": 12627,
@@ -2769,7 +2785,7 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
-     "saldo": 29,
+     "saldo": 27,
      "controle": [
       "AZUL",
       "CINZA",
@@ -2777,10 +2793,10 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 9,
+      "AZUL": 8,
       "CINZA": 8,
       "ROSA": 4,
-      "VERDE-ÁGUA": 8
+      "VERDE-ÁGUA": 7
      }
     },
     {
@@ -2789,7 +2805,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 19,
+     "saldo": 17,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -2800,10 +2816,10 @@
      ],
      "saldo_cor": {
       "AMARELO": 6,
-      "AZUL": 3,
+      "AZUL": 2,
       "LILAS": 1,
       "ROSA": 4,
-      "SALMÃO": 4,
+      "SALMÃO": 3,
       "VERDE": 1
      }
     },
@@ -3568,21 +3584,21 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 114,
+     "saldo": 234,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 114
+       "saldo": 234
       },
       {
        "cod": 2657,
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 33
+       "saldo": 273
       },
       {
        "cod": 2658,
@@ -5032,6 +5048,14 @@
      "saldo": 29
     },
     {
+     "cod": 14729,
+     "nome": "CADERNO 10X1 160F-BRIDGERTON CONNECT",
+     "marca": "TILIBRA",
+     "preco": 67.9,
+     "img": "produtos/14729.jpg",
+     "saldo": 8
+    },
+    {
      "cod": 14723,
      "nome": "CADERNO 10X1 160F-CAPIVARA CAPYCLUB",
      "marca": "TILIBRA",
@@ -5056,6 +5080,14 @@
      "saldo": 4
     },
     {
+     "cod": 14730,
+     "nome": "CADERNO 10X1 160F-COCA COLA CONNECT",
+     "marca": "TILIBRA",
+     "preco": 67.9,
+     "img": "produtos/14730.jpg",
+     "saldo": 8
+    },
+    {
      "cod": 12814,
      "nome": "CADERNO 10X1 160F-COLEG. SOHO",
      "marca": "TILIBRA",
@@ -5067,7 +5099,7 @@
      "cod": 12812,
      "nome": "CADERNO 10X1 160F-COLEG. WEST VILLAGE",
      "marca": "TILIBRA",
-     "preco": 39.9,
+     "preco": 43.9,
      "img": "produtos/12812.jpg",
      "saldo": 13
     },
@@ -5150,6 +5182,14 @@
      "preco": 23.9,
      "img": "produtos/11423.jpg",
      "saldo": 16
+    },
+    {
+     "cod": 14731,
+     "nome": "CADERNO 10X1 160F-GATINHOS MOFUSAND",
+     "marca": "TILIBRA",
+     "preco": 72.9,
+     "img": "produtos/14731.jpg",
+     "saldo": 8
     },
     {
      "cod": 8252,
@@ -5318,6 +5358,14 @@
      "preco": 31.9,
      "img": "produtos/5902.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14732,
+     "nome": "CADERNO 10X1 160F-NASA",
+     "marca": "TILIBRA",
+     "preco": 67.9,
+     "img": "produtos/14732.jpg",
+     "saldo": 8
     },
     {
      "cod": 5623,
@@ -5750,7 +5798,7 @@
      "cod": 14726,
      "nome": "CADERNO 1X1 80F-BRIDGERTON CONNECT",
      "marca": "TILIBRA",
-     "preco": 44.9,
+     "preco": 42.9,
      "img": "produtos/14726.jpg",
      "saldo": 20
     },
@@ -5760,6 +5808,14 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/14718.jpg",
+     "saldo": 20
+    },
+    {
+     "cod": 14727,
+     "nome": "CADERNO 1X1 80F-CAMARO E CORVETTE CONNECT",
+     "marca": "TILIBRA",
+     "preco": 42.9,
+     "img": "produtos/14727.jpg",
      "saldo": 20
     },
     {
@@ -5798,7 +5854,7 @@
      "cod": 10468,
      "nome": "CADERNO 1X1 80F-COCA COLA",
      "marca": "TILIBRA",
-     "preco": 39.9,
+     "preco": 42.9,
      "img": "produtos/10468.jpg",
      "saldo": 12
     },
@@ -5913,6 +5969,14 @@
      "preco": 21.9,
      "img": "produtos/11443.jpg",
      "saldo": 4
+    },
+    {
+     "cod": 14728,
+     "nome": "CADERNO 1X1 80F-GATINHOS MOFUSAND",
+     "marca": "TILIBRA",
+     "preco": 42.9,
+     "img": "produtos/14728.jpg",
+     "saldo": 12
     },
     {
      "cod": 8402,
@@ -6102,7 +6166,7 @@
      "cod": 12768,
      "nome": "CADERNO 1X1 80F-NASA",
      "marca": "TILIBRA",
-     "preco": 41.9,
+     "preco": 42.9,
      "img": "produtos/12768.jpg",
      "saldo": 20
     },
@@ -6622,13 +6686,20 @@
      ]
     },
     {
-     "cod": 365,
+     "cod": 364,
      "nome": "CADERNO ALIBOM. CD 80F",
      "marca": "MAXIMA",
      "preco": 15.9,
-     "img": "produtos/365.jpg",
-     "saldo": 156,
+     "img": "produtos/364.jpg",
+     "saldo": 40,
      "cores": [
+      {
+       "cod": 364,
+       "cor": "Azul",
+       "nome": "CADERNO ALIBOM. CD 80F-AZUL",
+       "img": "produtos/364.jpg",
+       "saldo": 40
+      },
       {
        "cod": 365,
        "cor": "Verde",
@@ -6641,7 +6712,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO ALIBOM. CD 80F-VERMELHO",
        "img": "produtos/366.jpg",
-       "saldo": 15
+       "saldo": 165
       }
      ]
     },
@@ -8241,6 +8312,14 @@
      "saldo": 75
     },
     {
+     "cod": 14733,
+     "nome": "REFIL INTELIG. (G) TILIDISCO COLORIDO 50F",
+     "marca": "TILIBRA",
+     "preco": 29.9,
+     "img": "produtos/14733.jpg",
+     "saldo": 25
+    },
+    {
      "cod": 11463,
      "nome": "REFIL INTELIG. (G) TILIDISCO LOVELAND 50F",
      "marca": "TILIBRA",
@@ -9080,7 +9159,7 @@
      "marca": "APLICOLA",
      "preco": 22.9,
      "img": "produtos/14421.jpg",
-     "saldo": 240
+     "saldo": 210
     },
     {
      "cod": 823,
@@ -9302,7 +9381,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 778
+     "saldo": 776
     },
     {
      "cod": 4438,
@@ -9318,7 +9397,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4141
+     "saldo": 4128
     },
     {
      "cod": 14619,
@@ -9402,7 +9481,7 @@
      "marca": "ADELBRAS",
      "preco": 2.0,
      "img": "produtos/1291.jpg",
-     "saldo": 400
+     "saldo": 250
     },
     {
      "cod": 11652,
@@ -9552,7 +9631,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 1030
+     "saldo": 1028
     },
     {
      "cod": 4389,
@@ -9686,7 +9765,7 @@
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/1525.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 11872,
@@ -10934,6 +11013,14 @@
      ]
     },
     {
+     "cod": 673,
+     "nome": "CARBONO 1F CIS AZUL",
+     "marca": "CIS",
+     "preco": 0.8,
+     "img": "produtos/673.jpg",
+     "saldo": 500
+    },
+    {
      "cod": 674,
      "nome": "CARBONO 2F CIS AZUL",
      "marca": "CIS",
@@ -11597,7 +11684,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 31
+     "saldo": 81
     },
     {
      "cod": 4502,
@@ -11605,7 +11692,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 5
+     "saldo": 55
     },
     {
      "cod": 2015,
@@ -11651,7 +11738,7 @@
        "cor": "Azul",
        "nome": "PAPEL A4 COLOR. C/100-AZUL",
        "img": "produtos/3975.jpg",
-       "saldo": 3
+       "saldo": 28
       },
       {
        "cod": 6314,
@@ -11739,7 +11826,7 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2113,
@@ -11747,7 +11834,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 4
+     "saldo": 204
     },
     {
      "cod": 6667,
@@ -13623,6 +13710,14 @@
      "saldo": 8
     },
     {
+     "cod": 13371,
+     "nome": "SELO CONVITE AMARELO 12MM C/210",
+     "marca": "PIMACO",
+     "preco": 6.9,
+     "img": "produtos/13371.jpg",
+     "saldo": 30
+    },
+    {
      "cod": 13372,
      "nome": "SELO CONVITE AZUL 12MM C/210",
      "marca": "PIMACO",
@@ -14777,7 +14872,7 @@
        "cor": "Azul",
        "nome": "PASTA ABA ELAST.PAPEL-AZUL",
        "img": "produtos/2184.jpg",
-       "saldo": 22
+       "saldo": 82
       },
       {
        "cod": 2185,
@@ -14837,7 +14932,7 @@
      "marca": "POLYCART",
      "preco": 25.9,
      "img": "produtos/2197.jpg",
-     "saldo": 28
+     "saldo": 52
     },
     {
      "cod": 11939,
@@ -15443,21 +15538,21 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 14,
+     "saldo": 214,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 14
+       "saldo": 214
       },
       {
        "cod": 6797,
        "cor": "Fume",
        "nome": "PASTA PP 1CM-FUME",
        "img": "produtos/6797.jpg",
-       "saldo": 26
+       "saldo": 126
       }
      ]
     },
@@ -16163,7 +16258,7 @@
      "marca": "TRAMONTINA",
      "preco": 24.9,
      "img": "produtos/2959.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 6635,
@@ -16307,7 +16402,7 @@
      "marca": "TRAMONTINA",
      "preco": 15.9,
      "img": "produtos/6721.jpg",
-     "saldo": 49
+     "saldo": 47
     },
     {
      "cod": 2963,
@@ -16417,14 +16512,14 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 55,
+     "saldo": 155,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 55
+       "saldo": 155
       },
       {
        "cod": 4829,
@@ -16487,7 +16582,7 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 8
+       "saldo": 108
       },
       {
        "cod": 1223,
@@ -16526,7 +16621,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 16
+     "saldo": 116
     },
     {
      "cod": 1228,
@@ -16604,14 +16699,14 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 66
+       "saldo": 166
       },
       {
        "cod": 1238,
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 71
+       "saldo": 221
       },
       {
        "cod": 1239,
@@ -19411,7 +19506,7 @@
      "marca": "ETIQ PLAST",
      "preco": 54.9,
      "img": "produtos/1333.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 2368,
@@ -19443,7 +19538,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 8808,
@@ -19491,7 +19586,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 320
+     "saldo": 316
     }
    ]
   },
@@ -20809,7 +20904,7 @@
      "marca": "",
      "preco": 1.4,
      "img": "produtos/2577.jpg",
-     "saldo": 900
+     "saldo": 700
     },
     {
      "cod": 988,
@@ -21432,6 +21527,14 @@
    "nome": "Compasso",
    "itens": [
     {
+     "cod": 4725,
+     "nome": "COMPASSO LEO E LEO METALICO",
+     "marca": "LEO E LEO",
+     "preco": 10.9,
+     "img": "produtos/4725.jpg",
+     "saldo": 12
+    },
+    {
      "cod": 7555,
      "nome": "COMPASSO LEO E LEO TECNICO PRECISION",
      "marca": "LEO E LEO",
@@ -21492,6 +21595,14 @@
        "saldo": 11
       }
      ]
+    },
+    {
+     "cod": 25,
+     "nome": "ALMOFADA CARIMBO Nº3 RADEX-AZUL",
+     "marca": "RADEX",
+     "preco": 10.5,
+     "img": "produtos/25.jpg",
+     "saldo": 12
     },
     {
      "cod": 9495,
@@ -22855,7 +22966,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 61
+     "saldo": 59
     },
     {
      "cod": 2937,
@@ -22863,7 +22974,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 397
+     "saldo": 394
     },
     {
      "cod": 4146,
@@ -22879,7 +22990,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 346
+     "saldo": 345
     },
     {
      "cod": 3887,
@@ -23187,7 +23298,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 6315,
@@ -23943,7 +24054,7 @@
      "marca": "PITPRATOS",
      "preco": 99.9,
      "img": "produtos/2559.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 2561,
@@ -24997,7 +25108,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/5909.jpg",
-     "saldo": 21
+     "saldo": 19
     }
    ]
   },
@@ -25301,7 +25412,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/13027.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 2714,
@@ -25325,7 +25436,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 2718,
@@ -25437,7 +25548,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 182
+     "saldo": 181
     },
     {
      "cod": 10062,
@@ -26455,7 +26566,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 7326
+     "saldo": 6820
     },
     {
      "cod": 11788,
@@ -27746,7 +27857,7 @@
        "cor": "Pink",
        "nome": "FITILHO 50MT PINK",
        "img": "produtos/4779.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 1325,
@@ -28459,7 +28570,7 @@
      "marca": "GERSELE",
      "preco": 0.5,
      "img": "produtos/2773.jpg",
-     "saldo": 568
+     "saldo": 558
     },
     {
      "cod": 2774,
@@ -31183,7 +31294,7 @@
     },
     {
      "cod": 14241,
-     "nome": "KIT MARCA TEXTO MAPED TONS PASTEL C/4",
+     "nome": "KIT MARCA TEXTO MAPED C/4-TONS PASTEL",
      "marca": "MAPED",
      "preco": 18.9,
      "img": "produtos/14241.jpg",
@@ -31191,7 +31302,7 @@
     },
     {
      "cod": 11517,
-     "nome": "KIT MARCA TEXTO MAPED TONS PASTEL C/6",
+     "nome": "KIT MARCA TEXTO MAPED C/6-TONS PASTEL",
      "marca": "MAPED",
      "preco": 33.9,
      "img": "produtos/11517.jpg",
@@ -31199,7 +31310,7 @@
     },
     {
      "cod": 12241,
-     "nome": "MARCA TEXTO BRW GEL",
+     "nome": "MARCA TEXTO (GEL) BRW",
      "marca": "BRW",
      "preco": 4.9,
      "img": "produtos/12241.jpg",
@@ -31208,41 +31319,88 @@
       {
        "cod": 12241,
        "cor": "Amarelo",
-       "nome": "MARCA TEXTO BRW GEL-AMARELO",
+       "nome": "MARCA TEXTO (GEL) BRW-AMARELO",
        "img": "produtos/12241.jpg",
        "saldo": 41
       },
       {
        "cod": 12220,
        "cor": "Laranja",
-       "nome": "MARCA TEXTO BRW GEL-LARANJA",
+       "nome": "MARCA TEXTO (GEL) BRW-LARANJA",
        "img": "produtos/12220.jpg",
        "saldo": 4
       },
       {
        "cod": 12226,
        "cor": "Verde",
-       "nome": "MARCA TEXTO BRW GEL-VERDE",
+       "nome": "MARCA TEXTO (GEL) BRW-VERDE",
        "img": "produtos/12226.jpg",
-       "saldo": 17
+       "saldo": 14
       }
      ]
     },
     {
-     "cod": 13803,
-     "nome": "MARCA TEXTO CIS LUMINI MINI SCENTS-VERDE",
+     "cod": 8499,
+     "nome": "MARCA TEXTO (GEL) CIS-AMARELO PASTEL",
      "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/13803.jpg",
-     "saldo": 3
+     "preco": 9.9,
+     "img": "produtos/8499.jpg",
+     "saldo": 11
     },
     {
-     "cod": 1825,
-     "nome": "MARCA TEXTO CIS-AMARELO",
-     "marca": "CIS",
-     "preco": 3.9,
-     "img": "produtos/1825.jpg",
-     "saldo": 5
+     "cod": 1847,
+     "nome": "MARCA TEXTO (GEL) FABER",
+     "marca": "FABER",
+     "preco": 12.9,
+     "img": "produtos/1847.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 1847,
+       "cor": "Amarelo",
+       "nome": "MARCA TEXTO (GEL) FABER-AMARELO",
+       "img": "produtos/1847.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 1848,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO (GEL) FABER-ROSA",
+       "img": "produtos/1848.jpg",
+       "saldo": 66
+      },
+      {
+       "cod": 6899,
+       "cor": "Verde",
+       "nome": "MARCA TEXTO (GEL) FABER-VERDE",
+       "img": "produtos/6899.jpg",
+       "saldo": 20
+      }
+     ]
+    },
+    {
+     "cod": 9132,
+     "nome": "MARCA TEXTO (GEL) TRIS TWIST",
+     "marca": "TRIS",
+     "preco": 6.9,
+     "img": "produtos/9132.jpg",
+     "saldo": 20,
+     "cores": [
+      {
+       "cod": 9132,
+       "cor": "Amarelo",
+       "nome": "MARCA TEXTO (GEL) TRIS TWIST-AMARELO",
+       "img": "produtos/9132.jpg",
+       "saldo": 20
+      },
+      {
+       "cod": 9137,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO (GEL) TRIS TWIST-ROSA",
+       "img": "produtos/9137.jpg",
+       "saldo": 20
+      }
+     ]
     },
     {
      "cod": 13796,
@@ -31250,14 +31408,14 @@
      "marca": "CIS",
      "preco": 6.9,
      "img": "produtos/13796.jpg",
-     "saldo": 74,
+     "saldo": 73,
      "cores": [
       {
        "cod": 13796,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO CIS-AMARELO (RETRATIL)",
        "img": "produtos/13796.jpg",
-       "saldo": 74
+       "saldo": 73
       },
       {
        "cod": 13795,
@@ -31276,12 +31434,28 @@
      ]
     },
     {
-     "cod": 1827,
-     "nome": "MARCA TEXTO CIS-VERDE",
+     "cod": 1826,
+     "nome": "MARCA TEXTO CIS",
      "marca": "CIS",
      "preco": 3.0,
-     "img": "produtos/1827.jpg",
-     "saldo": 61
+     "img": "produtos/1826.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 1826,
+       "cor": "Rosa",
+       "nome": "MARCA TEXTO CIS-ROSA",
+       "img": "produtos/1826.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 1827,
+       "cor": "Verde",
+       "nome": "MARCA TEXTO CIS-VERDE",
+       "img": "produtos/1827.jpg",
+       "saldo": 62
+      }
+     ]
     },
     {
      "cod": 12733,
@@ -31290,54 +31464,6 @@
      "preco": 5.9,
      "img": "produtos/12733.jpg",
      "saldo": 76
-    },
-    {
-     "cod": 8499,
-     "nome": "MARCA TEXTO GEL AMARELO PASTEL-CIS",
-     "marca": "CIS",
-     "preco": 9.9,
-     "img": "produtos/8499.jpg",
-     "saldo": 14
-    },
-    {
-     "cod": 1847,
-     "nome": "MARCA TEXTO GEL AMARELO-FABER",
-     "marca": "FABER",
-     "preco": 12.9,
-     "img": "produtos/1847.jpg",
-     "saldo": 2
-    },
-    {
-     "cod": 9132,
-     "nome": "MARCA TEXTO GEL AMARELO-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9132.jpg",
-     "saldo": 70
-    },
-    {
-     "cod": 1848,
-     "nome": "MARCA TEXTO GEL ROSA-FABER",
-     "marca": "FABER",
-     "preco": 12.9,
-     "img": "produtos/1848.jpg",
-     "saldo": 60
-    },
-    {
-     "cod": 9137,
-     "nome": "MARCA TEXTO GEL ROSA-TRIS TWIST",
-     "marca": "TRIS",
-     "preco": 6.9,
-     "img": "produtos/9137.jpg",
-     "saldo": 70
-    },
-    {
-     "cod": 6899,
-     "nome": "MARCA TEXTO GEL VERDE-FABER",
-     "marca": "FABER",
-     "preco": 12.9,
-     "img": "produtos/6899.jpg",
-     "saldo": 20
     },
     {
      "cod": 10381,
@@ -31359,21 +31485,14 @@
        "cor": "Azul",
        "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-AZUL",
        "img": "produtos/10385.jpg",
-       "saldo": 24
+       "saldo": 9
       },
       {
        "cod": 10386,
        "cor": "Laranja",
        "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-LARANJA",
        "img": "produtos/10386.jpg",
-       "saldo": 17
-      },
-      {
-       "cod": 10382,
-       "cor": "Lilas",
-       "nome": "MARCA TEXTO JOCAR PASTEL MINI PICOLE-LILAS",
-       "img": "produtos/10382.jpg",
-       "saldo": 13
+       "saldo": 16
       },
       {
        "cod": 10384,
@@ -31390,28 +31509,28 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/13364.jpg",
-     "saldo": 183,
+     "saldo": 117,
      "cores": [
       {
        "cod": 13364,
        "cor": "Laranja",
        "nome": "MARCA TEXTO JOCAR-LARANJA",
        "img": "produtos/13364.jpg",
-       "saldo": 183
+       "saldo": 117
       },
       {
        "cod": 11016,
        "cor": "Rosa",
        "nome": "MARCA TEXTO JOCAR-ROSA",
        "img": "produtos/11016.jpg",
-       "saldo": 38
+       "saldo": 37
       },
       {
        "cod": 14355,
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR-VERDE",
        "img": "produtos/14355.jpg",
-       "saldo": 31
+       "saldo": 30
       }
      ]
     },
@@ -31421,7 +31540,7 @@
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/11547.jpg",
-     "saldo": 9
+     "saldo": 6
     },
     {
      "cod": 11536,
@@ -31429,7 +31548,7 @@
      "marca": "MAPED",
      "preco": 6.9,
      "img": "produtos/11536.jpg",
-     "saldo": 79
+     "saldo": 17
     },
     {
      "cod": 11571,
@@ -31451,7 +31570,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO MAPED PASTEL-VERDE",
        "img": "produtos/12197.jpg",
-       "saldo": 3
+       "saldo": 10
       }
      ]
     },
@@ -31461,28 +31580,28 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 281,
+     "saldo": 332,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 281
+       "saldo": 332
       },
       {
        "cod": 6051,
        "cor": "Azul",
        "nome": "MARCA TEXTO MASTERPRINT-AZUL",
        "img": "produtos/6051.jpg",
-       "saldo": 90
+       "saldo": 65
       },
       {
        "cod": 6052,
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 115
+       "saldo": 116
       },
       {
        "cod": 6053,
@@ -31506,7 +31625,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14526.jpg",
-     "saldo": 69,
+     "saldo": 70,
      "controle": [
       "AZUL",
       "LILAS",
@@ -31522,7 +31641,7 @@
     },
     {
      "cod": 14672,
-     "nome": "MARCA TEXTO MOLIN LOVE MY CHERRY(PONTA DUPLA)",
+     "nome": "MARCA TEXTO MOLIN LOVE MY CHERRY-CORES (PONTA DUPLA)",
      "marca": "MOLIN",
      "preco": 9.9,
      "img": "produtos/14672.jpg",
@@ -31566,69 +31685,37 @@
        "cor": "Azul",
        "nome": "MARCA TEXTO PILOT-AZUL",
        "img": "produtos/1830.jpg",
-       "saldo": 125
+       "saldo": 124
       },
       {
        "cod": 1831,
        "cor": "Laranja",
        "nome": "MARCA TEXTO PILOT-LARANJA",
        "img": "produtos/1831.jpg",
-       "saldo": 44
+       "saldo": 37
       },
       {
        "cod": 1832,
        "cor": "Rosa",
        "nome": "MARCA TEXTO PILOT-ROSA",
        "img": "produtos/1832.jpg",
-       "saldo": 71
+       "saldo": 72
       },
       {
        "cod": 1833,
        "cor": "Verde",
        "nome": "MARCA TEXTO PILOT-VERDE",
        "img": "produtos/1833.jpg",
-       "saldo": 70
+       "saldo": 64
       },
       {
        "cod": 12147,
        "cor": "Violeta",
        "nome": "MARCA TEXTO PILOT-VIOLETA",
        "img": "produtos/12147.jpg",
-       "saldo": 63
+       "saldo": 60
       }
      ]
-    },
-    {
-     "cod": 8775,
-     "nome": "MARCA TEXTO STABILO DISPLAY NEON",
-     "marca": "STABILO",
-     "preco": 6.9,
-     "img": "produtos/8775.jpg",
-     "saldo": 3,
-     "cores": [
-      {
-       "cod": 8775,
-       "cor": "Amarelo",
-       "nome": "MARCA TEXTO STABILO DISPLAY-AMARELO NEON",
-       "img": "produtos/8775.jpg",
-       "saldo": 3
-      },
-      {
-       "cod": 8776,
-       "cor": "Laranja",
-       "nome": "MARCA TEXTO STABILO DISPLAY-LARANJA NEON",
-       "img": "produtos/8776.jpg",
-       "saldo": 2
-      }
-     ]
-    },
-    {
-     "cod": 8763,
-     "nome": "MARCA TEXTO STABILO-CINZA QUENTE",
-     "marca": "STABILO",
-     "preco": 15.9,
-     "img": "produtos/8763.jpg",
-     "saldo": 1
     },
     {
      "cod": 13609,
@@ -31636,11 +31723,11 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13609.jpg",
-     "saldo": 18
+     "saldo": 15
     },
     {
      "cod": 11735,
-     "nome": "MARCA TEXTO TRIS FLASH PASTEL CORES",
+     "nome": "MARCA TEXTO TRIS FLASH PASTEL-CORES",
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
@@ -31664,7 +31751,7 @@
     },
     {
      "cod": 14565,
-     "nome": "MARCA TEXTO TRIS-HOLIC FLUX DOUBLE CORES",
+     "nome": "MARCA TEXTO TRIS HOLIC FLUX DOUBLE-CORES",
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
@@ -31682,7 +31769,7 @@
     },
     {
      "cod": 14562,
-     "nome": "MARCA TEXTO TRIS-HOLIC OVERLAY CORES",
+     "nome": "MARCA TEXTO TRIS HOLIC OVERLAY-CORES",
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14562.jpg",
