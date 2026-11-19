@@ -4902,7 +4902,7 @@
      "marca": "PANAMERICA",
      "preco": 4.5,
      "img": "produtos/319.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 13535,
@@ -9828,7 +9828,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4084
+     "saldo": 4082
     },
     {
      "cod": 14619,
@@ -10054,7 +10054,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 138
+     "saldo": 135
     },
     {
      "cod": 1313,
@@ -11157,7 +11157,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 64
+     "saldo": 60
     },
     {
      "cod": 2283,
@@ -12107,7 +12107,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 712
+     "saldo": 711
     },
     {
      "cod": 5082,
@@ -14712,12 +14712,28 @@
      "saldo": 1
     },
     {
-     "cod": 4858,
-     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE PRETO",
+     "cod": 1989,
+     "nome": "ORGAN. TRIPLO MAXCRIL OFFICE",
      "marca": "MAXCRIL",
      "preco": 86.9,
-     "img": "produtos/4858.jpg",
-     "saldo": 7
+     "img": "produtos/1989.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 1989,
+       "cor": "Fume",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE FUME",
+       "img": "produtos/1989.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 4858,
+       "cor": "Preto",
+       "nome": "ORGAN. TRIPLO MAXCRIL OFFICE PRETO",
+       "img": "produtos/4858.jpg",
+       "saldo": 7
+      }
+     ]
     },
     {
      "cod": 1985,
@@ -18947,7 +18963,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22476
+     "saldo": 22446
     },
     {
      "cod": 1098,
@@ -22287,7 +22303,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 227
+     "saldo": 226
     },
     {
      "cod": 938,
@@ -22591,7 +22607,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 2923,
@@ -23389,7 +23405,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 364
+     "saldo": 363
     },
     {
      "cod": 4146,
@@ -23405,7 +23421,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 325
+     "saldo": 324
     },
     {
      "cod": 3887,
@@ -24825,7 +24841,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 299
+     "saldo": 297
     },
     {
      "cod": 3951,
@@ -25365,7 +25381,7 @@
      "marca": "THEOTO",
      "preco": 3.0,
      "img": "produtos/3864.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 3882,
@@ -25561,7 +25577,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 14678,
@@ -25987,7 +26003,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2729.jpg",
-     "saldo": 205
+     "saldo": 204
     },
     {
      "cod": 2730,
@@ -26171,7 +26187,7 @@
      "marca": "KROMASA",
      "preco": 13.9,
      "img": "produtos/4943.jpg",
-     "saldo": 247
+     "saldo": 245
     },
     {
      "cod": 4944,
@@ -26481,7 +26497,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 450
+     "saldo": 448
     },
     {
      "cod": 2838,
@@ -26735,7 +26751,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2367
+     "saldo": 2366
     },
     {
      "cod": 6821,
@@ -26743,7 +26759,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 499
+     "saldo": 498
     },
     {
      "cod": 6855,
@@ -26909,7 +26925,7 @@
      "marca": "HIPERROLL",
      "preco": 16.9,
      "img": "produtos/13853.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 252,
@@ -26989,7 +27005,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 6408
+     "saldo": 6308
     },
     {
      "cod": 11788,
@@ -27037,7 +27053,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 2150
+     "saldo": 2146
     },
     {
      "cod": 5547,
@@ -29209,7 +29225,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 470
+     "saldo": 460
     },
     {
      "cod": 6323,
@@ -29887,7 +29903,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 8295,
@@ -32584,7 +32600,7 @@
      "marca": "LEOTACK",
      "preco": 5.9,
      "img": "produtos/919.jpg",
-     "saldo": 14
+     "saldo": 12
     },
     {
      "cod": 920,
