@@ -3253,7 +3253,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 133
+       "saldo": 132
       },
       {
        "cod": 7532,
@@ -3637,7 +3637,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1503.jpg",
-     "saldo": 457
+     "saldo": 454
     },
     {
      "cod": 4463,
@@ -3685,7 +3685,7 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4555.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 9001,
@@ -10070,7 +10070,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 693
+     "saldo": 691
     },
     {
      "cod": 1317,
@@ -14125,6 +14125,14 @@
      "saldo": 3
     },
     {
+     "cod": 13708,
+     "nome": "ETIQUETADORA MX5500-LETRON",
+     "marca": "LETRON",
+     "preco": 59.9,
+     "img": "produtos/13708.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 13371,
      "nome": "SELO CONVITE AMARELO 12MM C/210",
      "marca": "PIMACO",
@@ -16125,7 +16133,7 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14209.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 10020,
@@ -16304,7 +16312,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/2265.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 2266,
@@ -16970,7 +16978,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 94
+       "saldo": 92
       },
       {
        "cod": 4830,
@@ -16991,7 +16999,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 230
+       "saldo": 227
       },
       {
        "cod": 1221,
@@ -17026,7 +17034,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 196
+       "saldo": 190
       }
      ]
     },
@@ -17073,7 +17081,7 @@
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg",
-       "saldo": 124
+       "saldo": 122
       },
       {
        "cod": 6669,
@@ -19931,7 +19939,7 @@
      "marca": "SD",
      "preco": 6.9,
      "img": "produtos/13220.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 14655,
@@ -19939,7 +19947,7 @@
      "marca": "CULTURAMA",
      "preco": 4.9,
      "img": "produtos/14655.jpg",
-     "saldo": 151
+     "saldo": 146
     },
     {
      "cod": 12465,
@@ -19955,7 +19963,7 @@
      "marca": "TODO LIVRO",
      "preco": 1.5,
      "img": "produtos/14658.jpg",
-     "saldo": 188
+     "saldo": 186
     },
     {
      "cod": 5281,
@@ -20113,7 +20121,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11629.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 11628,
@@ -21431,7 +21439,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/13638.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 13628,
@@ -22131,7 +22139,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 866
+     "saldo": 806
     },
     {
      "cod": 14407,
@@ -22259,7 +22267,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 188
+     "saldo": 128
     },
     {
      "cod": 958,
@@ -22868,14 +22876,6 @@
      "saldo": 1
     },
     {
-     "cod": 7362,
-     "nome": "CAIXA ISOPOR VACINA 0,4ML (250GR)",
-     "marca": "ISOMAX",
-     "preco": 4.9,
-     "img": "produtos/7362.jpg",
-     "saldo": 7
-    },
-    {
      "cod": 7363,
      "nome": "CAIXA ISOPOR VACINA 0,8ML (500GR)",
      "marca": "ISOMAX",
@@ -23161,7 +23161,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 242
+     "saldo": 236
     },
     {
      "cod": 2491,
@@ -23177,7 +23177,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 215
+     "saldo": 209
     },
     {
      "cod": 2489,
@@ -23429,7 +23429,7 @@
      "marca": "PRAFESTA",
      "preco": 12.9,
      "img": "produtos/2507.jpg",
-     "saldo": 122
+     "saldo": 120
     },
     {
      "cod": 11829,
@@ -23608,6 +23608,14 @@
      "saldo": 96
     },
     {
+     "cod": 2513,
+     "nome": "POTE RETANG. 500ML C/24-PRAFESTA",
+     "marca": "PRAFESTA",
+     "preco": 23.9,
+     "img": "produtos/2513.jpg",
+     "saldo": 18
+    },
+    {
      "cod": 14823,
      "nome": "POTE RETANG. 500ML C/25-ULTRA",
      "marca": "ULTRA",
@@ -23621,7 +23629,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 2524,
@@ -23955,7 +23963,7 @@
      "marca": "PACKFORM",
      "preco": 69.9,
      "img": "produtos/5266.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 7074,
@@ -24169,7 +24177,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 984
+     "saldo": 934
     },
     {
      "cod": 3857,
@@ -24471,7 +24479,7 @@
      "marca": "SANTECK",
      "preco": 12.9,
      "img": "produtos/9058.jpg",
-     "saldo": 27
+     "saldo": 24
     },
     {
      "cod": 12122,
@@ -25017,7 +25025,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 241
+     "saldo": 238
     },
     {
      "cod": 3932,
@@ -25999,7 +26007,7 @@
      "marca": "KROMASA",
      "preco": 1.8,
      "img": "produtos/2808.jpg",
-     "saldo": 1923
+     "saldo": 1921
     },
     {
      "cod": 9185,
@@ -26665,7 +26673,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 124
+     "saldo": 122
     },
     {
      "cod": 13853,
@@ -26681,7 +26689,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 63
+     "saldo": 61
     },
     {
      "cod": 13855,
@@ -26753,7 +26761,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 6308
+     "saldo": 6302
     },
     {
      "cod": 11788,
@@ -26879,7 +26887,7 @@
      "marca": "GERAPLAST",
      "preco": 29.9,
      "img": "produtos/2888.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 2889,
@@ -27023,7 +27031,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 187
+     "saldo": 186
     },
     {
      "cod": 2902,
@@ -27101,7 +27109,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1045
+     "saldo": 985
     },
     {
      "cod": 236,
@@ -27313,7 +27321,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 634
+     "saldo": 629
     },
     {
      "cod": 2760,
@@ -27329,7 +27337,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 845
+     "saldo": 835
     },
     {
      "cod": 4936,
@@ -27337,7 +27345,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 414
+     "saldo": 412
     },
     {
      "cod": 2762,
@@ -27345,7 +27353,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 288
+     "saldo": 283
     },
     {
      "cod": 4937,
@@ -29849,7 +29857,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1385
+     "saldo": 1384
     },
     {
      "cod": 2157,
@@ -30251,7 +30259,7 @@
      "marca": "BELL PLUS",
      "preco": 48.9,
      "img": "produtos/3072.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 3073,
@@ -31277,7 +31285,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14607.jpg",
-     "saldo": 33,
+     "saldo": 32,
      "controle": [
       "AZUL",
       "LARANJA",
@@ -31285,7 +31293,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 7,
+      "AZUL": 6,
       "LARANJA": 9,
       "ROSA": 8,
       "ROXO": 9
