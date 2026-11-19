@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1603,
+     "saldo": 1553,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1603
+       "saldo": 1553
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 2009
+       "saldo": 1959
       },
       {
        "cod": 554,
@@ -897,7 +897,7 @@
      "marca": "TRIS",
      "preco": 21.9,
      "img": "produtos/14545.jpg",
-     "saldo": 26,
+     "saldo": 25,
      "controle": [
       "BRANCO",
       "LILAS",
@@ -905,7 +905,7 @@
      ],
      "saldo_cor": {
       "BRANCO": 9,
-      "LILAS": 8,
+      "LILAS": 7,
       "ROSA": 9
      }
     },
@@ -1102,7 +1102,7 @@
        "cor": "Preta",
        "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
        "img": "produtos/588.jpg",
-       "saldo": 29
+       "saldo": 27
       },
       {
        "cod": 14725,
@@ -1263,7 +1263,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14481.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 14476,
@@ -1303,7 +1303,7 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/596.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 4392,
@@ -3004,7 +3004,7 @@
      "marca": "TRIS",
      "preco": 35.9,
      "img": "produtos/13379.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 12682,
@@ -3170,28 +3170,28 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg",
-     "saldo": 68,
+     "saldo": 67,
      "cores": [
       {
        "cod": 2338,
        "cor": "Azul",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
        "img": "produtos/2338.jpg",
-       "saldo": 68
+       "saldo": 67
       },
       {
        "cod": 2339,
        "cor": "Preto",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-PRETO",
        "img": "produtos/2339.jpg",
-       "saldo": 211
+       "saldo": 210
       },
       {
        "cod": 9972,
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-VERMELHO",
        "img": "produtos/9972.jpg",
-       "saldo": 188
+       "saldo": 187
       }
      ]
     },
@@ -4878,7 +4878,7 @@
      "marca": "PANAMERICA",
      "preco": 1.5,
      "img": "produtos/315.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 13533,
@@ -5246,7 +5246,7 @@
      "marca": "SD",
      "preco": 41.9,
      "img": "produtos/6535.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 11432,
@@ -7946,7 +7946,7 @@
      "cod": 8242,
      "nome": "CADERNO DESENHO CD 60F-FOXY KIDS",
      "marca": "CREDEAL",
-     "preco": 7.95,
+     "preco": 7.9,
      "img": "produtos/8242.jpg",
      "saldo": 8
     },
@@ -8113,7 +8113,7 @@
      "cod": 8398,
      "nome": "CADERNO DESENHO CD 80F-LALA PETS",
      "marca": "CREDEAL",
-     "preco": 7.45,
+     "preco": 7.9,
      "img": "produtos/8398.jpg",
      "saldo": 2
     },
@@ -8121,7 +8121,7 @@
      "cod": 11488,
      "nome": "CADERNO DESENHO CD 80F-LULUCA",
      "marca": "TILIBRA",
-     "preco": 17.95,
+     "preco": 17.9,
      "img": "produtos/11488.jpg",
      "saldo": 3
     },
@@ -8137,7 +8137,7 @@
      "cod": 8887,
      "nome": "CADERNO DESENHO CD 80F-PET FUN",
      "marca": "CREDEAL",
-     "preco": 8.95,
+     "preco": 8.9,
      "img": "produtos/8887.jpg",
      "saldo": 5
     },
@@ -8153,7 +8153,7 @@
      "cod": 12897,
      "nome": "CADERNO DESENHO CD 80F-POM POM",
      "marca": "CADERSIL",
-     "preco": 9.95,
+     "preco": 9.9,
      "img": "produtos/12897.jpg",
      "saldo": 4
     },
@@ -8161,7 +8161,7 @@
      "cod": 7831,
      "nome": "CADERNO DESENHO CD 80F-PRINCESAS",
      "marca": "TILIBRA",
-     "preco": 17.95,
+     "preco": 17.9,
      "img": "produtos/7831.jpg",
      "saldo": 4
     },
@@ -8169,7 +8169,7 @@
      "cod": 11489,
      "nome": "CADERNO DESENHO CD 80F-REI LEAO",
      "marca": "TILIBRA",
-     "preco": 12.45,
+     "preco": 12.9,
      "img": "produtos/11489.jpg",
      "saldo": 1
     },
@@ -8185,7 +8185,7 @@
      "cod": 11448,
      "nome": "CADERNO DESENHO CD 80F-SUPER DINO",
      "marca": "CREDEAL",
-     "preco": 9.45,
+     "preco": 9.9,
      "img": "produtos/11448.jpg",
      "saldo": 28
     },
@@ -8193,7 +8193,7 @@
      "cod": 8813,
      "nome": "CADERNO DESENHO CD 80F-UNICORNIO BLINK",
      "marca": "TILIBRA",
-     "preco": 14.45,
+     "preco": 14.9,
      "img": "produtos/8813.jpg",
      "saldo": 1
     },
@@ -8201,7 +8201,7 @@
      "cod": 8815,
      "nome": "CADERNO DESENHO CD 80F-WANDINHA",
      "marca": "TILIBRA",
-     "preco": 21.45,
+     "preco": 21.9,
      "img": "produtos/8815.jpg",
      "saldo": 8
     },
@@ -9224,7 +9224,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/2664.jpg",
-     "saldo": 13
+     "saldo": 8
     },
     {
      "cod": 2666,
@@ -9726,7 +9726,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 10944,
@@ -10196,7 +10196,7 @@
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/1525.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 11872,
@@ -10779,7 +10779,7 @@
      "marca": "ACRILEX",
      "preco": 5.9,
      "img": "produtos/7684.jpg",
-     "saldo": 60
+     "saldo": 58
     },
     {
      "cod": 7549,
@@ -10959,7 +10959,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 51
+     "saldo": 45
     },
     {
      "cod": 6612,
@@ -11854,21 +11854,21 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/2068.jpg",
-     "saldo": 100,
+     "saldo": 99,
      "cores": [
       {
        "cod": 2068,
        "cor": "Amarelo",
        "nome": "CREPOM AMARELO",
        "img": "produtos/2068.jpg",
-       "saldo": 100
+       "saldo": 99
       },
       {
        "cod": 2069,
        "cor": "Azul Claro",
        "nome": "CREPOM AZUL CLARO",
        "img": "produtos/2069.jpg",
-       "saldo": 55
+       "saldo": 54
       },
       {
        "cod": 2070,
@@ -11889,7 +11889,7 @@
        "cor": "Laranja",
        "nome": "CREPOM LARANJA",
        "img": "produtos/4715.jpg",
-       "saldo": 72
+       "saldo": 71
       },
       {
        "cod": 5076,
@@ -11910,7 +11910,7 @@
        "cor": "Pink",
        "nome": "CREPOM PINK",
        "img": "produtos/6733.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 4788,
@@ -11955,7 +11955,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/7736.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 2085,
@@ -12142,6 +12142,14 @@
      "saldo": 5
     },
     {
+     "cod": 9052,
+     "nome": "PAPEL A4 C/500 PRIMUS",
+     "marca": "PRIMUS",
+     "preco": 25.9,
+     "img": "produtos/9052.jpg",
+     "saldo": 980
+    },
+    {
      "cod": 2007,
      "nome": "PAPEL A4 COLOR. C/100",
      "marca": "CHAMEQUINH",
@@ -12257,7 +12265,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 204
+     "saldo": 198
     },
     {
      "cod": 6667,
@@ -12757,7 +12765,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 233
+     "saldo": 232
     },
     {
      "cod": 11627,
@@ -13014,7 +13022,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/10992.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 10371,
@@ -13030,7 +13038,7 @@
      "marca": "",
      "preco": 2.3,
      "img": "produtos/11000.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 10999,
@@ -13070,7 +13078,7 @@
      "marca": "",
      "preco": 3.2,
      "img": "produtos/10994.jpg",
-     "saldo": 190
+     "saldo": 189
     },
     {
      "cod": 10995,
@@ -15029,7 +15037,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 149
+     "saldo": 147
     },
     {
      "cod": 7644,
@@ -17112,7 +17120,7 @@
        "cor": "Rosa Claro / Bebe",
        "nome": "EVA LISO-ROSA CLARO/BEBE",
        "img": "produtos/1239.jpg",
-       "saldo": 158
+       "saldo": 155
       },
       {
        "cod": 1240,
@@ -17165,7 +17173,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3058.jpg",
-     "saldo": 586
+     "saldo": 576
     },
     {
      "cod": 7000,
@@ -17237,7 +17245,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/6999.jpg",
-     "saldo": 346
+     "saldo": 336
     },
     {
      "cod": 3067,
@@ -17269,7 +17277,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/14258.jpg",
-     "saldo": 50
+     "saldo": 40
     },
     {
      "cod": 3071,
@@ -19961,7 +19969,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 14261,
@@ -22311,7 +22319,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6046
+     "saldo": 6021
     },
     {
      "cod": 944,
@@ -23269,7 +23277,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 207
+     "saldo": 206
     },
     {
      "cod": 3731,
@@ -23381,7 +23389,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 373
+     "saldo": 369
     },
     {
      "cod": 4146,
@@ -23397,7 +23405,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 333
+     "saldo": 329
     },
     {
      "cod": 3887,
@@ -23445,7 +23453,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 121
+     "saldo": 119
     },
     {
      "cod": 4129,
@@ -23453,7 +23461,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 110
+     "saldo": 108
     },
     {
      "cod": 5005,
@@ -24817,7 +24825,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 302
+     "saldo": 301
     },
     {
      "cod": 3951,
@@ -26203,7 +26211,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 2806,
@@ -27265,7 +27273,7 @@
      "marca": "PRIMUS",
      "preco": 1.9,
      "img": "produtos/222.jpg",
-     "saldo": 501
+     "saldo": 471
     },
     {
      "cod": 5871,
@@ -27314,6 +27322,14 @@
      "preco": 8.5,
      "img": "produtos/6097.jpg",
      "saldo": 144
+    },
+    {
+     "cod": 3204,
+     "nome": "BOBINA 79MM PRIMUS 30M (BRANCA)",
+     "marca": "PRIMUS",
+     "preco": 4.9,
+     "img": "produtos/3204.jpg",
+     "saldo": 1435
     },
     {
      "cod": 236,
@@ -27525,7 +27541,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 646
+     "saldo": 634
     },
     {
      "cod": 2760,
@@ -27541,7 +27557,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 852
+     "saldo": 845
     },
     {
      "cod": 4936,
@@ -28113,7 +28129,7 @@
        "cor": "Branco",
        "nome": "FITA CETIM N2 10MMX10MT-BRANCO",
        "img": "produtos/14130.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 14132,
@@ -28132,26 +28148,19 @@
      ]
     },
     {
-     "cod": 9067,
+     "cod": 9070,
      "nome": "FITA CETIM N3 15MMX10MT",
-     "marca": "PROGRESSO",
+     "marca": "GITEX",
      "preco": 7.9,
-     "img": "produtos/9067.jpg",
-     "saldo": 1,
+     "img": "produtos/9070.jpg",
+     "saldo": 5,
      "cores": [
-      {
-       "cod": 9067,
-       "cor": "Amarelo Ouro",
-       "nome": "FITA CETIM N3 15MMX10MT-AMARELO OURO",
-       "img": "produtos/9067.jpg",
-       "saldo": 1
-      },
       {
        "cod": 9070,
        "cor": "Laranja",
        "nome": "FITA CETIM N3 15MMX10MT-LARANJA",
        "img": "produtos/9070.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 10904,
@@ -28165,13 +28174,6 @@
        "cor": "Rosa Escuro / Pink",
        "nome": "FITA CETIM N3 15MMX10MT-ROSA ESCURO/PINK",
        "img": "produtos/9072.jpg",
-       "saldo": 2
-      },
-      {
-       "cod": 6008,
-       "cor": "Vermelho",
-       "nome": "FITA CETIM N3 15MMX10MT-VERMELHO",
-       "img": "produtos/6008.jpg",
        "saldo": 1
       },
       {
@@ -28179,7 +28181,7 @@
        "cor": "Vinho",
        "nome": "FITA CETIM N3 15MMX10MT-VINHO",
        "img": "produtos/9076.jpg",
-       "saldo": 4
+       "saldo": 3
       }
      ]
     },
@@ -29191,7 +29193,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 446
+     "saldo": 441
     },
     {
      "cod": 6324,
@@ -29781,7 +29783,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 640
+     "saldo": 639
     },
     {
      "cod": 1786,
@@ -29995,7 +29997,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 138
+     "saldo": 131
     },
     {
      "cod": 9017,
@@ -30067,7 +30069,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1412
+     "saldo": 1401
     },
     {
      "cod": 2157,
