@@ -41,7 +41,7 @@
      "marca": "BIC",
      "preco": 13.9,
      "img": "produtos/548.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 3794,
@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1605,
+     "saldo": 1603,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1605
+       "saldo": 1603
       },
       {
        "cod": 553,
@@ -2593,7 +2593,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 653
+     "saldo": 650
     },
     {
      "cod": 14124,
@@ -4175,7 +4175,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1977
+     "saldo": 1976
     },
     {
      "cod": 4341,
@@ -4283,7 +4283,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13077.jpg",
-     "saldo": 163
+     "saldo": 160
     },
     {
      "cod": 14522,
@@ -5190,7 +5190,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10903.jpg",
-     "saldo": 109
+     "saldo": 106
     },
     {
      "cod": 8255,
@@ -5198,7 +5198,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 79
+     "saldo": 72
     },
     {
      "cod": 12910,
@@ -7031,7 +7031,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 59
+     "saldo": 54
     },
     {
      "cod": 6295,
@@ -7311,7 +7311,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 12978,
@@ -7628,7 +7628,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 47
+     "saldo": 43
     },
     {
      "cod": 3244,
@@ -7988,28 +7988,28 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/12411.jpg",
-     "saldo": 67,
+     "saldo": 66,
      "cores": [
       {
        "cod": 12411,
        "cor": "Azul",
        "nome": "CADERNO DESENHO CD 80F-(AZUL)",
        "img": "produtos/12411.jpg",
-       "saldo": 67
+       "saldo": 66
       },
       {
        "cod": 12431,
        "cor": "Preto",
        "nome": "CADERNO DESENHO CD 80F-(PRETO)",
        "img": "produtos/12431.jpg",
-       "saldo": 93
+       "saldo": 92
       },
       {
        "cod": 13763,
        "cor": "Vermelho",
        "nome": "CADERNO DESENHO CD 80F-(VERMELHO)",
        "img": "produtos/13763.jpg",
-       "saldo": 106
+       "saldo": 105
       }
      ]
     },
@@ -9820,7 +9820,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4098
+     "saldo": 4095
     },
     {
      "cod": 14619,
@@ -10054,7 +10054,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 923
+     "saldo": 922
     },
     {
      "cod": 4389,
@@ -10304,7 +10304,7 @@
      "marca": "MAXCRIL",
      "preco": 11.9,
      "img": "produtos/4846.jpg",
-     "saldo": 73
+     "saldo": 71
     },
     {
      "cod": 4847,
@@ -10524,7 +10524,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14594.jpg",
-     "saldo": 34,
+     "saldo": 33,
      "controle": [
       "AZUL",
       "CRISTAL",
@@ -10533,7 +10533,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "CRISTAL": 12,
-      "ROSA": 10
+      "ROSA": 9
      }
     },
     {
@@ -12115,7 +12115,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 51
+     "saldo": 45
     },
     {
      "cod": 2015,
@@ -12123,7 +12123,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 32
+     "saldo": 30
     },
     {
      "cod": 2016,
@@ -13922,7 +13922,7 @@
      "marca": "TILIBRA",
      "preco": 5.9,
      "img": "produtos/3411.jpg",
-     "saldo": 146
+     "saldo": 144
     },
     {
      "cod": 11490,
@@ -16793,7 +16793,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 408
+     "saldo": 407
     },
     {
      "cod": 6721,
@@ -17002,7 +17002,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 241
+       "saldo": 196
       }
      ]
     },
@@ -17157,7 +17157,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3057.jpg",
-     "saldo": 386
+     "saldo": 382
     },
     {
      "cod": 3058,
@@ -17954,14 +17954,6 @@
        "saldo": 1
       }
      ]
-    },
-    {
-     "cod": 13375,
-     "nome": "ESTOJO CLIO BOX-REBECCA BONBON",
-     "marca": "CLIO STYLE",
-     "preco": 69.9,
-     "img": "produtos/13375.jpg",
-     "saldo": 3
     },
     {
      "cod": 8213,
@@ -23101,7 +23093,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 45
+     "saldo": 42
     },
     {
      "cod": 7364,
@@ -25357,7 +25349,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 57
+     "saldo": 56
     }
    ]
   },
@@ -30129,7 +30121,7 @@
      "marca": "",
      "preco": 17.9,
      "img": "produtos/9829.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 6754,
