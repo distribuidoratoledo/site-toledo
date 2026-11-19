@@ -2218,7 +2218,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1008
+     "saldo": 1006
     },
     {
      "cod": 1670,
@@ -4175,7 +4175,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1976
+     "saldo": 1974
     },
     {
      "cod": 4341,
@@ -5230,7 +5230,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/8252.jpg",
-     "saldo": 18
+     "saldo": 15
     },
     {
      "cod": 12780,
@@ -5603,7 +5603,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/12400.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 5609,
@@ -7549,7 +7549,7 @@
      "cod": 397,
      "nome": "CADERNO CD 96F TILIBRA",
      "marca": "TILIBRA",
-     "preco": 13.9,
+     "preco": 14.9,
      "img": "produtos/397.jpg",
      "saldo": 43,
      "cores": [
@@ -11149,7 +11149,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 84
+     "saldo": 64
     },
     {
      "cod": 2283,
@@ -12209,7 +12209,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 11784,
@@ -12306,14 +12306,6 @@
      "preco": 28.0,
      "img": "produtos/2130.jpg",
      "saldo": 1
-    },
-    {
-     "cod": 3583,
-     "nome": "PAPEL PARANA N.80 100X80CM",
-     "marca": "SANTECK",
-     "preco": 13.9,
-     "img": "produtos/3583.jpg",
-     "saldo": 43
     },
     {
      "cod": 2133,
@@ -15029,7 +15021,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 151
+     "saldo": 149
     },
     {
      "cod": 7644,
@@ -15355,14 +15347,14 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/4153.jpg",
-     "saldo": 558,
+     "saldo": 557,
      "cores": [
       {
        "cod": 4153,
        "cor": "Cristal",
        "nome": "PASTA CANALETA A4 CRISTAL",
        "img": "produtos/4153.jpg",
-       "saldo": 558
+       "saldo": 557
       },
       {
        "cod": 11014,
@@ -16486,7 +16478,7 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg",
-     "saldo": 156
+     "saldo": 154
     },
     {
      "cod": 4432,
@@ -26003,7 +25995,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 158
+     "saldo": 156
     },
     {
      "cod": 3652,
@@ -26417,7 +26409,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 859
+     "saldo": 857
     },
     {
      "cod": 10972,
@@ -27597,7 +27589,7 @@
      "marca": "IEC",
      "preco": 6.9,
      "img": "produtos/2786.jpg",
-     "saldo": 194
+     "saldo": 189
     },
     {
      "cod": 13529,
