@@ -2856,11 +2856,11 @@
       {
        "descricao": "1 folha de EVA glitter amarelo",
        "qtd": 1,
-       "cod": 8929,
-       "produto": "EVA GLITER-AMARELO",
-       "marca": "MAKE+",
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "foto": "listas/fotos/8929.jpg",
+       "obs": "Não temos o glitter amarelo; vai o dourado.",
+       "foto": "listas/fotos/1220.jpg",
        "grupo": "Uso coletivo"
       },
       {
@@ -4541,11 +4541,11 @@
       {
        "descricao": "1 folha de EVA glitter amarelo",
        "qtd": 1,
-       "cod": 8929,
-       "produto": "EVA GLITER-AMARELO",
-       "marca": "MAKE+",
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "foto": "listas/fotos/8929.jpg",
+       "obs": "Não temos o glitter amarelo; vai o dourado.",
+       "foto": "listas/fotos/1220.jpg",
        "grupo": "Uso coletivo"
       },
       {
@@ -9747,11 +9747,11 @@
       {
        "descricao": "Folha de E.V.A 40x60 amarelo com glitter",
        "qtd": 1,
-       "cod": 8929,
-       "produto": "EVA GLITER-AMARELO",
-       "marca": "MAKE+",
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "foto": "listas/fotos/8929.jpg",
+       "obs": "Não temos o glitter amarelo; vai o dourado.",
+       "foto": "listas/fotos/1220.jpg",
        "grupo": "Materiais para atividades artísticas"
       },
       {
@@ -16508,11 +16508,11 @@
       {
        "descricao": "Folha de EVA com glitter amarelo",
        "qtd": 1,
-       "cod": 8929,
-       "produto": "EVA GLITER-AMARELO",
-       "marca": "MAKE+",
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "foto": "listas/fotos/8929.jpg",
+       "obs": "Não temos o glitter amarelo; vai o dourado.",
+       "foto": "listas/fotos/1220.jpg",
        "grupo": "Materiais"
       },
       {
@@ -16826,11 +16826,11 @@
       {
        "descricao": "Folha de EVA com glitter amarelo",
        "qtd": 1,
-       "cod": 8929,
-       "produto": "EVA GLITER-AMARELO",
-       "marca": "MAKE+",
+       "cod": 1220,
+       "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "foto": "listas/fotos/8929.jpg",
+       "obs": "Não temos o glitter amarelo; vai o dourado.",
+       "foto": "listas/fotos/1220.jpg",
        "grupo": "Materiais"
       },
       {
@@ -22787,5 +22787,5 @@
    ]
   }
  ],
- "atualizado": "19/11/2026 15:40"
+ "atualizado": "19/11/2026 15:44"
 }
