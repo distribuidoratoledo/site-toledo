@@ -5759,6 +5759,981 @@
    ]
   },
   {
+   "id": "anglo",
+   "nome": "Colégio Anglo de Sete Lagoas",
+   "listas": [
+    {
+     "original": "listas/originais/anglo-ano1.pdf",
+     "id": "anglo-ano1",
+     "ano": "1º Ano",
+     "orcamento": 664151,
+     "itens": [
+      {
+       "descricao": "6 cadernos brochurão 60 folhas Alibombom vermelho cartonado, numerados 1, 2, 3, X, com pauta (não usar capa dura)",
+       "qtd": 6,
+       "cod": 369,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERMELHO",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Português, Matemática, Ciências, Geografia/História (juntos), Literatura e Inglês.",
+       "foto": "listas/fotos/369.jpg",
+       "grupo": "Cadernos"
+      },
+      {
+       "descricao": "1 agenda grande com espaço para as tarefas de casa",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper, 160 folhas. Modelo de amostra: temos outros modelos.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 estojo (simples e leve)",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 zíper.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "4 lápis de escrever (não é aceita lapiseira)",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 borracha macia",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7547.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 cola líquida 90 g (não usar cola bastão)",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "2 canetas permanentes pretas (ponta média 2,0 mm), com nome",
+       "qtd": 2,
+       "cod": 7533,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-PRETO",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar preto.",
+       "foto": "listas/fotos/7533.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra com 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 estojo de massinha 12 cores (Acrilex soft), trazer no 1º dia de aula",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pasta catálogo preta com plásticos para organizar as avaliações",
+       "qtd": 1,
+       "cod": 6950,
+       "produto": "PASTA CATALOGO PRETA C/10",
+       "preco": 16.9,
+       "obs": "Pasta catálogo preta com 10 plásticos.",
+       "foto": "listas/fotos/6950.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caixa de pincel atômico 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "obs": "Jogo de pincel Big Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deve ser apresentado no 1º dia de aula com a identificação do aluno.",
+      "Os cadernos devem ser encapados na cor de referência da série (azul) e etiquetados com o nome das matérias.",
+      "Será solicitado um livro de literatura infantil no decorrer da 1ª etapa.",
+      "Início das aulas: 2 de fevereiro de 2027 (terça-feira), apenas para o 1º ano."
+     ],
+     "idade": "6 anos"
+    },
+    {
+     "original": "listas/originais/anglo-ano2.pdf",
+     "id": "anglo-ano2",
+     "ano": "2º Ano",
+     "orcamento": 664152,
+     "itens": [
+      {
+       "descricao": "6 cadernos brochurão 60 folhas Alibombom verde, numerados 1, 2, 3, com pauta e capa cartonada (não usar capa dura)",
+       "qtd": 6,
+       "cod": 368,
+       "produto": "CADERNO ALIBOM. CART. 60F-VERDE",
+       "marca": "MAXIMA",
+       "preco": 10.9,
+       "obs": "Cadernos Alibombom lançamento Tilibra, consulte a vendedora!! Língua Portuguesa/Produção de texto, Matemática, Ciências, Geografia/História (juntos), Literatura e Inglês.",
+       "foto": "listas/fotos/368.jpg",
+       "grupo": "Cadernos"
+      },
+      {
+       "descricao": "1 agenda 2027 com espaço para as tarefas de casa",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper, 160 folhas. Modelo de amostra: temos outros modelos.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 estojo (simples e leve)",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 zíper.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "4 lápis de escrever (não é aceita lapiseira)",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 borracha macia",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7547.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 cola líquida",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra com 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 caneta marca-texto amarela",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 caneta Futura preta ponta fina",
+       "qtd": 1,
+       "cod": 559,
+       "produto": "CANETA CIS FINE FUTURA PRETA",
+       "marca": "CIS",
+       "preco": 6.9,
+       "foto": "listas/fotos/559.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 caixa de pincel atômico 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "obs": "Jogo de pincel Big Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "No estojo"
+      },
+      {
+       "descricao": "1 pacote de papel 60 kg A4 branco (trazer no 1º dia de aula)",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 minidicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pasta de arquivo preta com plásticos para organizar as avaliações (nome na capa)",
+       "qtd": 1,
+       "cod": 6950,
+       "produto": "PASTA CATALOGO PRETA C/10",
+       "preco": 16.9,
+       "obs": "Pasta catálogo preta com 10 plásticos.",
+       "foto": "listas/fotos/6950.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deve ser apresentado no 1º dia de aula com a identificação do aluno.",
+      "Os cadernos devem ser encapados na cor de referência da série (amarelo) e etiquetados com o nome das matérias.",
+      "Será solicitado um livro de literatura infantil no decorrer da 1ª etapa.",
+      "Início das aulas: 3 de fevereiro de 2027 (quarta-feira)."
+     ],
+     "idade": "7 anos"
+    },
+    {
+     "original": "listas/originais/anglo-ano3.pdf",
+     "id": "anglo-ano3",
+     "ano": "3º Ano",
+     "orcamento": 664153,
+     "itens": [
+      {
+       "descricao": "7 cadernos brochurão 96 folhas",
+       "qtd": 7,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal. Cor de amostra: escolha a cor desejada. Matemática, Língua Portuguesa, Ciências, Geografia/História, Literatura, Produção de Texto e Inglês.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos"
+      },
+      {
+       "descricao": "1 agenda 2027 (com espaço)",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper, 160 folhas. Modelo de amostra: temos outros modelos.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 estojo (simples e leve)",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 zíper.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "4 lápis de escrever (não é aceita lapiseira)",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 borracha macia",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7547.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 cola líquida",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta permanente preta (trazer com nome no 1º dia de aula)",
+       "qtd": 1,
+       "cod": 7533,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-PRETO",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar preto.",
+       "foto": "listas/fotos/7533.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta marca-texto amarela ou verde",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra com 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 minidicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pacote de Colorset branco 60 kg A4 (não é papel sulfite), trazer no 1º dia de aula",
+       "qtd": 1,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4 branco com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caixa de pincel atômico 12 cores",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "obs": "Jogo de pincel Big Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pasta de arquivo preta com plásticos para organizar as avaliações",
+       "qtd": 1,
+       "cod": 6950,
+       "produto": "PASTA CATALOGO PRETA C/10",
+       "preco": 16.9,
+       "obs": "Pasta catálogo preta com 10 plásticos.",
+       "foto": "listas/fotos/6950.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deve ser apresentado no 1º dia de aula com a identificação do aluno.",
+      "Os cadernos devem ser encapados na cor de referência da série (vermelho) e etiquetados com o nome das matérias.",
+      "O livro para a biblioteca de classe será adquirido no início do ano letivo.",
+      "Início das aulas: 3 de fevereiro de 2027 (quarta-feira)."
+     ],
+     "idade": "8 anos"
+    },
+    {
+     "original": "listas/originais/anglo-ano4.pdf",
+     "id": "anglo-ano4",
+     "ano": "4º Ano",
+     "orcamento": 664154,
+     "itens": [
+      {
+       "descricao": "8 cadernos brochurão 96 folhas (não é aceito caderno espiral)",
+       "qtd": 8,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal. Cor de amostra: escolha a cor desejada. Matemática, Língua Portuguesa, Ciências, Geografia, História, Literatura, Produção de Texto e Inglês.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos"
+      },
+      {
+       "descricao": "1 agenda 2027 (com espaço)",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper, 160 folhas. Modelo de amostra: temos outros modelos.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 estojo (simples e leve)",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 zíper.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "4 lápis de escrever (não é aceita lapiseira)",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 borracha macia",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7547.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 cola líquida ou bastão",
+       "qtd": 1,
+       "cod": 808,
+       "produto": "COLA BASTAO 10GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 1.3,
+       "obs": "Cola bastão Leo e Leo 10 g.",
+       "foto": "listas/fotos/808.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta permanente preta",
+       "qtd": 1,
+       "cod": 7533,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-PRETO",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar preto.",
+       "foto": "listas/fotos/7533.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta marca-texto verde ou amarela",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra com 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 minidicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pacote de Colorset A4 (não é papel sulfite), trazer no 1º dia de aula",
+       "qtd": 1,
+       "cod": 2051,
+       "produto": "COLORSETE A4 C/50 AMARELO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A4 com 50 folhas. Cor de amostra: escolha amarelo, vermelho ou laranja.",
+       "foto": "listas/fotos/2051.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico colorido, 12 cores (nome no estojo)",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "obs": "Jogo de pincel Big Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pasta catálogo preta com plásticos para organizar as avaliações",
+       "qtd": 1,
+       "cod": 6950,
+       "produto": "PASTA CATALOGO PRETA C/10",
+       "preco": 16.9,
+       "obs": "Pasta catálogo preta com 10 plásticos.",
+       "foto": "listas/fotos/6950.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deve ser apresentado no 1º dia de aula com a identificação do aluno.",
+      "Os cadernos devem ser encapados na cor de referência da série (verde) e etiquetados com o nome das matérias.",
+      "Não será aceito caderno espiral.",
+      "O livro para a biblioteca de classe e de cada etapa será indicado no início do ano letivo.",
+      "Início das aulas: 3 de fevereiro de 2027 (quarta-feira)."
+     ],
+     "idade": "9 anos"
+    },
+    {
+     "original": "listas/originais/anglo-ano5.pdf",
+     "id": "anglo-ano5",
+     "ano": "5º Ano",
+     "orcamento": 664155,
+     "itens": [
+      {
+       "descricao": "8 cadernos brochurão 96 folhas (não é aceito caderno espiral)",
+       "qtd": 8,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal. Cor de amostra: escolha a cor desejada. Matemática, Língua Portuguesa, Ciências, Geografia, História, Literatura, Produção de Texto e Inglês.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Cadernos"
+      },
+      {
+       "descricao": "1 agenda 2027 (com espaço)",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper, 160 folhas. Modelo de amostra: temos outros modelos.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 estojo (simples e leve)",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 zíper.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "4 lápis de escrever (não é aceita lapiseira)",
+       "qtd": 4,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta marca-texto",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 borracha macia",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7547.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 cola líquida ou bastão",
+       "qtd": 1,
+       "cod": 808,
+       "produto": "COLA BASTAO 10GR-LEO E LEO",
+       "marca": "LEO E LEO",
+       "preco": 1.3,
+       "obs": "Cola bastão Leo e Leo 10 g.",
+       "foto": "listas/fotos/808.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 régua 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta permanente preta",
+       "qtd": 1,
+       "cod": 7533,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-PRETO",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar preto.",
+       "foto": "listas/fotos/7533.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta marca-texto verde ou amarela",
+       "qtd": 1,
+       "cod": 6050,
+       "produto": "MARCA TEXTO MASTERPRINT-AMARELO",
+       "marca": "MASTERPRIN",
+       "preco": 2.0,
+       "foto": "listas/fotos/6050.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra com 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 minidicionário",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 21.9,
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pacote de Colorset A4 (não é papel sulfite), trazer no 1º dia de aula",
+       "qtd": 1,
+       "cod": 2054,
+       "produto": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A4 com 50 folhas. Cor de amostra: escolha azul, verde, rosa ou roxo.",
+       "foto": "listas/fotos/2054.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 conjunto de pincel atômico colorido, 12 cores (nome no estojo)",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "obs": "Jogo de pincel Big Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 pasta catálogo preta com plásticos para organizar as avaliações",
+       "qtd": 1,
+       "cod": 6950,
+       "produto": "PASTA CATALOGO PRETA C/10",
+       "preco": 16.9,
+       "obs": "Pasta catálogo preta com 10 plásticos.",
+       "foto": "listas/fotos/6950.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Todo o material deve ser apresentado no 1º dia de aula com a identificação do aluno.",
+      "Os cadernos devem ser encapados na cor de referência da série (azul-escuro) e etiquetados com o nome das matérias.",
+      "Não será aceito caderno espiral.",
+      "O livro para a biblioteca de classe e de cada etapa será indicado no início do ano letivo.",
+      "Início das aulas: 3 de fevereiro de 2027 (quarta-feira)."
+     ],
+     "idade": "10 anos"
+    }
+   ]
+  },
+  {
    "id": "elitemaster",
    "nome": "Colégio Elite Master",
    "listas": [
@@ -21812,5 +22787,5 @@
    ]
   }
  ],
- "atualizado": "19/11/2026 14:25"
+ "atualizado": "19/11/2026 15:20"
 }
