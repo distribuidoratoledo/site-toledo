@@ -14010,7 +14010,7 @@
        "cod": 417,
        "produto": "CADERNO CD S/P 80F TILIBRA (AZUL)",
        "marca": "TILIBRA",
-       "preco": 10.9,
+       "preco": 11.9,
        "obs": "Caderno capa dura sem pauta 80 folhas Tilibra azul. Não temos caderno sem pauta na cor laranja.",
        "foto": "listas/fotos/417.jpg",
        "grupo": "Materiais"
@@ -14327,7 +14327,7 @@
        "cod": 417,
        "produto": "CADERNO CD S/P 80F TILIBRA (AZUL)",
        "marca": "TILIBRA",
-       "preco": 10.9,
+       "preco": 11.9,
        "obs": "Caderno capa dura sem pauta 80 folhas Tilibra azul. Não temos caderno sem pauta na cor laranja.",
        "foto": "listas/fotos/417.jpg",
        "grupo": "Materiais"
@@ -17905,7 +17905,7 @@
        "cod": 417,
        "produto": "CADERNO CD S/P 80F TILIBRA (AZUL)",
        "marca": "TILIBRA",
-       "preco": 10.9,
+       "preco": 11.9,
        "foto": "listas/fotos/417.jpg",
        "grupo": "Uma mochila de uso diário contendo",
        "grupo_aviso": "Temos mochilas de costas reforçadas a partir de R$ 79,90"
@@ -21812,5 +21812,5 @@
    ]
   }
  ],
- "atualizado": "18/11/2026 16:40"
+ "atualizado": "19/11/2026 09:00"
 }
