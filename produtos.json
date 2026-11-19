@@ -3239,28 +3239,28 @@
      "marca": "JOCAR",
      "preco": 2.5,
      "img": "produtos/7579.jpg",
-     "saldo": 414,
+     "saldo": 413,
      "cores": [
       {
        "cod": 7579,
        "cor": "Azul",
        "nome": "PINCEL ATOM.SLIM.JOCAR-AZUL",
        "img": "produtos/7579.jpg",
-       "saldo": 414
+       "saldo": 413
       },
       {
        "cod": 7533,
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 135
+       "saldo": 134
       },
       {
        "cod": 7532,
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.SLIM.JOCAR-VERMELHO",
        "img": "produtos/7532.jpg",
-       "saldo": 376
+       "saldo": 375
       }
      ]
     },
@@ -9797,7 +9797,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 764
+     "saldo": 761
     },
     {
      "cod": 4438,
@@ -10493,7 +10493,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 462
+     "saldo": 461
     },
     {
      "cod": 10030,
@@ -12116,7 +12116,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 2016,
@@ -15412,7 +15412,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/6951.jpg",
-     "saldo": 191
+     "saldo": 190
     },
     {
      "cod": 6195,
@@ -16047,7 +16047,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/3592.jpg",
-     "saldo": 239
+     "saldo": 235
     },
     {
      "cod": 12933,
@@ -16273,7 +16273,7 @@
      "marca": "POLIBRAS",
      "preco": 29.9,
      "img": "produtos/2264.jpg",
-     "saldo": 32
+     "saldo": 28
     },
     {
      "cod": 2265,
@@ -16968,7 +16968,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 241
+       "saldo": 240
       },
       {
        "cod": 1221,
@@ -17029,14 +17029,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 240,
+     "saldo": 239,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 240
+       "saldo": 239
       },
       {
        "cod": 1230,
@@ -17050,7 +17050,7 @@
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg",
-       "saldo": 125
+       "saldo": 124
       },
       {
        "cod": 6669,
@@ -17141,7 +17141,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 330
+       "saldo": 329
       },
       {
        "cod": 1244,
@@ -20040,7 +20040,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 86
+     "saldo": 85
     },
     {
      "cod": 14657,
@@ -22304,7 +22304,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6068
+     "saldo": 6067
     },
     {
      "cod": 944,
@@ -25868,7 +25868,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 2720,
@@ -26076,7 +26076,7 @@
      "marca": "KROMASA",
      "preco": 2.9,
      "img": "produtos/2766.jpg",
-     "saldo": 711
+     "saldo": 710
     },
     {
      "cod": 2767,
@@ -26132,7 +26132,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4941.jpg",
-     "saldo": 323
+     "saldo": 320
     },
     {
      "cod": 4942,
@@ -26870,7 +26870,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 251,
@@ -27172,7 +27172,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2343
+     "saldo": 2340
     },
     {
      "cod": 2896,
@@ -27204,7 +27204,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 928
+     "saldo": 923
     },
     {
      "cod": 2900,
@@ -27360,7 +27360,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 31
+     "saldo": 29
     },
     {
      "cod": 1273,
@@ -27574,7 +27574,7 @@
      "marca": "IEC",
      "preco": 3.9,
      "img": "produtos/2783.jpg",
-     "saldo": 194
+     "saldo": 179
     },
     {
      "cod": 2784,
@@ -27758,7 +27758,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 6860,
@@ -28698,7 +28698,7 @@
      "marca": "GERSELE",
      "preco": 1.5,
      "img": "produtos/9257.jpg",
-     "saldo": 16
+     "saldo": 8
     },
     {
      "cod": 262,
@@ -28906,7 +28906,7 @@
      "marca": "GESELE",
      "preco": 0.8,
      "img": "produtos/1340.jpg",
-     "saldo": 424
+     "saldo": 406
     },
     {
      "cod": 3674,
@@ -29926,7 +29926,7 @@
      "marca": "VABENE",
      "preco": 9.9,
      "img": "produtos/7275.jpg",
-     "saldo": 91
+     "saldo": 90
     }
    ]
   },
@@ -29980,7 +29980,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 142
+     "saldo": 139
     },
     {
      "cod": 9017,
@@ -30280,7 +30280,7 @@
      "marca": "BELL PLUS",
      "preco": 45.9,
      "img": "produtos/6345.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 2651,
