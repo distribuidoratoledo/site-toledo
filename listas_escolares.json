@@ -2859,7 +2859,6 @@
        "cod": 1220,
        "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "obs": "Não temos o glitter amarelo; vai o dourado.",
        "foto": "listas/fotos/1220.jpg",
        "grupo": "Uso coletivo"
       },
@@ -4544,7 +4543,6 @@
        "cod": 1220,
        "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "obs": "Não temos o glitter amarelo; vai o dourado.",
        "foto": "listas/fotos/1220.jpg",
        "grupo": "Uso coletivo"
       },
@@ -9750,7 +9748,6 @@
        "cod": 1220,
        "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "obs": "Não temos o glitter amarelo; vai o dourado.",
        "foto": "listas/fotos/1220.jpg",
        "grupo": "Materiais para atividades artísticas"
       },
@@ -16511,7 +16508,6 @@
        "cod": 1220,
        "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "obs": "Não temos o glitter amarelo; vai o dourado.",
        "foto": "listas/fotos/1220.jpg",
        "grupo": "Materiais"
       },
@@ -16829,7 +16825,6 @@
        "cod": 1220,
        "produto": "EVA GLITER-OURO",
        "preco": 3.9,
-       "obs": "Não temos o glitter amarelo; vai o dourado.",
        "foto": "listas/fotos/1220.jpg",
        "grupo": "Materiais"
       },
@@ -22787,5 +22782,5 @@
    ]
   }
  ],
- "atualizado": "19/11/2026 15:44"
+ "atualizado": "19/11/2026 15:49"
 }
