@@ -444,14 +444,14 @@
        "cor": "Lilas",
        "nome": "CANETA CIS SPIRO-LILAS",
        "img": "produtos/564.jpg",
-       "saldo": 78
+       "saldo": 77
       },
       {
        "cod": 565,
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 80
+       "saldo": 79
       },
       {
        "cod": 566,
@@ -1730,7 +1730,7 @@
      "marca": "MOLIN",
      "preco": 16.9,
      "img": "produtos/12306.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 14475,
@@ -4609,7 +4609,7 @@
      "marca": "TILIBRA",
      "preco": 29.9,
      "img": "produtos/14273.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 14277,
@@ -7565,7 +7565,7 @@
        "cor": "Azul",
        "nome": "CADERNO CD 96F TILIBRA (AZUL)",
        "img": "produtos/398.jpg",
-       "saldo": 37
+       "saldo": 36
       },
       {
        "cod": 399,
@@ -9813,7 +9813,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4105
+     "saldo": 4098
     },
     {
      "cod": 14619,
@@ -14623,7 +14623,7 @@
      "marca": "ACP",
      "preco": 21.9,
      "img": "produtos/1821.jpg",
-     "saldo": 8
+     "saldo": 9
     },
     {
      "cod": 6569,
@@ -20152,7 +20152,7 @@
      "marca": "SD",
      "preco": 6.9,
      "img": "produtos/13220.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 14655,
@@ -23462,7 +23462,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 88
+     "saldo": 84
     },
     {
      "cod": 4733,
@@ -23470,7 +23470,7 @@
      "marca": "TOTAPLAST",
      "preco": 8.9,
      "img": "produtos/4733.jpg",
-     "saldo": 15
+     "saldo": 11
     },
     {
      "cod": 13885,
@@ -23572,7 +23572,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 335
+     "saldo": 333
     },
     {
      "cod": 1444,
@@ -24008,7 +24008,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 635
+     "saldo": 629
     },
     {
      "cod": 1415,
@@ -25262,7 +25262,7 @@
      "marca": "INOVEN",
      "preco": 6.9,
      "img": "produtos/11675.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 11676,
@@ -26442,7 +26442,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 4362,
@@ -26450,7 +26450,7 @@
      "marca": "PACKFORT",
      "preco": 25.9,
      "img": "produtos/4362.jpg",
-     "saldo": 195
+     "saldo": 193
     },
     {
      "cod": 2837,
@@ -28946,7 +28946,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 405
+     "saldo": 404
     },
     {
      "cod": 2777,
@@ -28970,7 +28970,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 528
+     "saldo": 527
     },
     {
      "cod": 6912,
