@@ -8922,7 +8922,7 @@
      "marca": "ACC",
      "preco": 9.9,
      "img": "produtos/801.jpg",
-     "saldo": 9
+     "saldo": 6
     },
     {
      "cod": 5242,
@@ -9828,7 +9828,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4082
+     "saldo": 4075
     },
     {
      "cod": 14619,
@@ -9928,7 +9928,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 520
+     "saldo": 517
     },
     {
      "cod": 1293,
@@ -10062,7 +10062,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 895
+     "saldo": 892
     },
     {
      "cod": 4389,
@@ -17942,6 +17942,14 @@
    "nome": "Estojo",
    "itens": [
     {
+     "cod": 13304,
+     "nome": "ESTOJO BOX XERYUS-MINNIE TEEN TRIPLE PUFFER NUDE",
+     "marca": "XERYUS",
+     "preco": 79.9,
+     "img": "produtos/13304.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 13303,
      "nome": "ESTOJO BOX XERYUS-PATRULHA CANINA SE",
      "marca": "XERYUS",
@@ -17950,74 +17958,12 @@
      "saldo": 2
     },
     {
-     "cod": 13057,
-     "nome": "ESTOJO CIS MOVE 1F",
-     "marca": "CIS",
-     "preco": 17.9,
-     "img": "produtos/13057.jpg",
-     "saldo": 2,
-     "cores": [
-      {
-       "cod": 13057,
-       "cor": "Azul / Roxo",
-       "nome": "ESTOJO CIS MOVE 1F-AZUL/ROXO",
-       "img": "produtos/13057.jpg",
-       "saldo": 2
-      },
-      {
-       "cod": 13058,
-       "cor": "Cinza / Preto",
-       "nome": "ESTOJO CIS MOVE 1F-CINZA/PRETO",
-       "img": "produtos/13058.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 13046,
-       "cor": "Rosa / Amarelo",
-       "nome": "ESTOJO CIS MOVE 1F-ROSA/AMARELO",
-       "img": "produtos/13046.jpg",
-       "saldo": 2
-      },
-      {
-       "cod": 13056,
-       "cor": "Verde / Azul",
-       "nome": "ESTOJO CIS MOVE 1F-VERDE/AZUL",
-       "img": "produtos/13056.jpg",
-       "saldo": 1
-      }
-     ]
-    },
-    {
-     "cod": 8213,
-     "nome": "ESTOJO DAC 1F",
-     "marca": "DAC",
-     "preco": 12.9,
-     "img": "produtos/8213.jpg",
-     "saldo": 4,
-     "cores": [
-      {
-       "cod": 8213,
-       "cor": "Azul",
-       "nome": "ESTOJO DAC 1F-AZUL",
-       "img": "produtos/8213.jpg",
-       "saldo": 4
-      },
-      {
-       "cod": 8203,
-       "cor": "Lilas",
-       "nome": "ESTOJO DAC 1F-LILAS",
-       "img": "produtos/8203.jpg",
-       "saldo": 2
-      }
-     ]
-    },
-    {
      "cod": 8200,
      "nome": "ESTOJO DAC 1F-BREEZE COLLAB CORES",
      "marca": "DAC",
      "preco": 45.9,
      "img": "produtos/8200.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 8199,
@@ -18025,14 +17971,6 @@
      "marca": "DAC",
      "preco": 45.9,
      "img": "produtos/8199.jpg",
-     "saldo": 3
-    },
-    {
-     "cod": 8216,
-     "nome": "ESTOJO DAC 1F-CRISTAL C/LILAS",
-     "marca": "DAC",
-     "preco": 12.9,
-     "img": "produtos/8216.jpg",
      "saldo": 1
     },
     {
@@ -18057,7 +17995,7 @@
      "marca": "DAC",
      "preco": 54.9,
      "img": "produtos/10735.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 10675,
@@ -18065,7 +18003,7 @@
      "marca": "DAC",
      "preco": 49.9,
      "img": "produtos/10675.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 12535,
@@ -18073,14 +18011,6 @@
      "marca": "DAC",
      "preco": 62.9,
      "img": "produtos/12535.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 10732,
-     "nome": "ESTOJO DAC 2F-CARROS",
-     "marca": "DAC",
-     "preco": 54.9,
-     "img": "produtos/10732.jpg",
      "saldo": 1
     },
     {
@@ -18092,28 +18022,12 @@
      "saldo": 1
     },
     {
-     "cod": 10808,
-     "nome": "ESTOJO DAC 2F-TRENDY",
-     "marca": "DAC",
-     "preco": 49.9,
-     "img": "produtos/10808.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 8224,
-     "nome": "ESTOJO DAC 3F-AZUL",
-     "marca": "DAC",
-     "preco": 16.9,
-     "img": "produtos/8224.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 10707,
      "nome": "ESTOJO DAC 3F-FLEX SORTIDO",
      "marca": "DAC",
      "preco": 69.9,
      "img": "produtos/10707.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 8206,
@@ -18121,7 +18035,7 @@
      "marca": "DAC",
      "preco": 72.9,
      "img": "produtos/8206.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 8207,
@@ -18129,7 +18043,7 @@
      "marca": "DAC",
      "preco": 72.9,
      "img": "produtos/8207.jpg",
-     "saldo": 1
+     "saldo": 2
     },
     {
      "cod": 12752,
@@ -18138,30 +18052,6 @@
      "preco": 74.9,
      "img": "produtos/12752.jpg",
      "saldo": 5
-    },
-    {
-     "cod": 8264,
-     "nome": "ESTOJO DAC BOX",
-     "marca": "DAC",
-     "preco": 49.9,
-     "img": "produtos/8264.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 8264,
-       "cor": "Lilas",
-       "nome": "ESTOJO DAC BOX-LILAS",
-       "img": "produtos/8264.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 8265,
-       "cor": "Preto",
-       "nome": "ESTOJO DAC BOX-PRETO",
-       "img": "produtos/8265.jpg",
-       "saldo": 1
-      }
-     ]
     },
     {
      "cod": 12532,
@@ -18177,31 +18067,7 @@
      "marca": "DAC",
      "preco": 99.9,
      "img": "produtos/10782.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 10725,
-     "nome": "ESTOJO DAC HEXAGONAL-LONNEY TUNES",
-     "marca": "DAC",
-     "preco": 49.9,
-     "img": "produtos/10725.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 8277,
-     "nome": "ESTOJO JKF 1F-CORES (TUBINHO)",
-     "marca": "JKF",
-     "preco": 5.9,
-     "img": "produtos/8277.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 8279,
-     "nome": "ESTOJO JKF 3F-CORES (LISO)",
-     "marca": "JKF",
-     "preco": 19.9,
-     "img": "produtos/8279.jpg",
-     "saldo": 1
+     "saldo": 2
     },
     {
      "cod": 13445,
@@ -18236,14 +18102,6 @@
      "saldo": 2
     },
     {
-     "cod": 12398,
-     "nome": "ESTOJO LUXCEL 2F-UP4YOU AZUL (ET49159UP-AZ)",
-     "marca": "LUXCEL",
-     "preco": 48.9,
-     "img": "produtos/12398.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13325,
      "nome": "ESTOJO LUXCEL 3F-AZUL STITCH (ET50055SC-AZ)",
      "marca": "LUXCEL",
@@ -18273,22 +18131,6 @@
      "marca": "LUXCEL",
      "preco": 65.9,
      "img": "produtos/12787.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 13657,
-     "nome": "ESTOJO LUXCEL 3F-LOUD VERDE (ET50245LD-VD)",
-     "marca": "LUXCEL",
-     "preco": 69.9,
-     "img": "produtos/13657.jpg",
-     "saldo": 4
-    },
-    {
-     "cod": 13428,
-     "nome": "ESTOJO LUXCEL 3F-LOUD VERDE (ET50255LD-VD)",
-     "marca": "LUXCEL",
-     "preco": 69.9,
-     "img": "produtos/13428.jpg",
      "saldo": 1
     },
     {
@@ -18353,7 +18195,7 @@
      "marca": "LUXCEL",
      "preco": 102.9,
      "img": "produtos/13349.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13350,
@@ -18396,36 +18238,12 @@
      "saldo": 2
     },
     {
-     "cod": 13424,
-     "nome": "ESTOJO LUXCEL BOX-STITCH AZUL (ET50054SC-AZ)",
-     "marca": "LUXCEL",
-     "preco": 96.9,
-     "img": "produtos/13424.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 12419,
      "nome": "ESTOJO LUXCEL BOX-STITCH PRETO (ET50084SC-PT)",
      "marca": "LUXCEL",
      "preco": 107.9,
      "img": "produtos/12419.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 12421,
-     "nome": "ESTOJO LUXCEL BOX-STITCH TURQUESA (ET50084SC-TQ)",
-     "marca": "LUXCEL",
-     "preco": 107.9,
-     "img": "produtos/12421.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12852,
-     "nome": "ESTOJO LUXCEL BOX-UP4YOU AZUL (ET49645UP-AZ)",
-     "marca": "LUXCEL",
-     "preco": 91.9,
-     "img": "produtos/12852.jpg",
-     "saldo": 1
     },
     {
      "cod": 14529,
@@ -18450,44 +18268,6 @@
      "preco": 36.9,
      "img": "produtos/14533.jpg",
      "saldo": 1
-    },
-    {
-     "cod": 10883,
-     "nome": "ESTOJO MT 1F TRANSPARENTE",
-     "marca": "MT KIDS",
-     "preco": 18.9,
-     "img": "produtos/10883.jpg",
-     "saldo": 4,
-     "cores": [
-      {
-       "cod": 10883,
-       "cor": "Azul",
-       "nome": "ESTOJO MT 1F TRANSPARENTE-AZUL",
-       "img": "produtos/10883.jpg",
-       "saldo": 4
-      },
-      {
-       "cod": 10881,
-       "cor": "Preto",
-       "nome": "ESTOJO MT 1F TRANSPARENTE-PRETO",
-       "img": "produtos/10881.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 10880,
-       "cor": "Rosa",
-       "nome": "ESTOJO MT 1F TRANSPARENTE-ROSA",
-       "img": "produtos/10880.jpg",
-       "saldo": 5
-      },
-      {
-       "cod": 10882,
-       "cor": "Roxo",
-       "nome": "ESTOJO MT 1F TRANSPARENTE-ROXO",
-       "img": "produtos/10882.jpg",
-       "saldo": 5
-      }
-     ]
     },
     {
      "cod": 5422,
@@ -18517,7 +18297,7 @@
        "cor": "Rosa",
        "nome": "ESTOJO MT BOX TRANSPARENTE-ROSA",
        "img": "produtos/10878.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -18527,21 +18307,21 @@
      "marca": "MT KIDS",
      "preco": 59.9,
      "img": "produtos/8021.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 8021,
        "cor": "Azul",
        "nome": "ESTOJO MT BOX-PATRULHA CANINA AZUL",
        "img": "produtos/8021.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 8024,
        "cor": "Rosa",
        "nome": "ESTOJO MT BOX-PATRULHA CANINA ROSA",
        "img": "produtos/8024.jpg",
-       "saldo": 3
+       "saldo": 2
       }
      ]
     },
@@ -18562,11 +18342,11 @@
      "saldo": 2
     },
     {
-     "cod": 11072,
-     "nome": "ESTOJO SESTINI BOX-CAPRICHO HYPE PRETO 076068-01",
-     "marca": "SESTINI",
-     "preco": 89.9,
-     "img": "produtos/11072.jpg",
+     "cod": 13112,
+     "nome": "ESTOJO SD 1F-LAVENDER",
+     "marca": "SD",
+     "preco": 19.9,
+     "img": "produtos/13112.jpg",
      "saldo": 1
     },
     {
@@ -18575,22 +18355,6 @@
      "marca": "SESTINI",
      "preco": 85.9,
      "img": "produtos/6435.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12605,
-     "nome": "ESTOJO XERYUS 1F-MICKEY PRETO-T03 14275",
-     "marca": "XERYUS",
-     "preco": 26.9,
-     "img": "produtos/12605.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12597,
-     "nome": "ESTOJO XERYUS 1F-MINNIE VERMELHO-T01 14236",
-     "marca": "XERYUS",
-     "preco": 26.9,
-     "img": "produtos/12597.jpg",
      "saldo": 1
     },
     {
@@ -18607,14 +18371,14 @@
      "marca": "XERYUS",
      "preco": 56.9,
      "img": "produtos/13319.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
-     "cod": 13323,
-     "nome": "ESTOJO XERYUS 2F-COLLEGE GAME GLITCH",
+     "cod": 13312,
+     "nome": "ESTOJO XERYUS 2F-ESPORTIVO DC PRETO",
      "marca": "XERYUS",
-     "preco": 43.9,
-     "img": "produtos/13323.jpg",
+     "preco": 69.9,
+     "img": "produtos/13312.jpg",
      "saldo": 1
     },
     {
@@ -18624,22 +18388,6 @@
      "preco": 75.9,
      "img": "produtos/13313.jpg",
      "saldo": 3
-    },
-    {
-     "cod": 12609,
-     "nome": "ESTOJO XERYUS 2F-MICKEY AZUL-T03 14281",
-     "marca": "XERYUS",
-     "preco": 26.9,
-     "img": "produtos/12609.jpg",
-     "saldo": 2
-    },
-    {
-     "cod": 12601,
-     "nome": "ESTOJO XERYUS 2F-MINNIE LILAS-T01 14243",
-     "marca": "XERYUS",
-     "preco": 19.9,
-     "img": "produtos/12601.jpg",
-     "saldo": 1
     },
     {
      "cod": 13307,
@@ -22289,7 +22037,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 19
+     "saldo": 18
     }
    ]
   },
@@ -22303,7 +22051,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 226
+     "saldo": 225
     },
     {
      "cod": 938,
@@ -22607,7 +22355,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 2923,
@@ -22631,7 +22379,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 122
+     "saldo": 119
     },
     {
      "cod": 2934,
@@ -23293,7 +23041,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 206
+     "saldo": 203
     },
     {
      "cod": 3731,
@@ -23405,7 +23153,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 363
+     "saldo": 362
     },
     {
      "cod": 4146,
@@ -23421,7 +23169,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 324
+     "saldo": 323
     },
     {
      "cod": 3887,
@@ -23493,7 +23241,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 83
+     "saldo": 82
     },
     {
      "cod": 4733,
@@ -23501,7 +23249,7 @@
      "marca": "TOTAPLAST",
      "preco": 8.9,
      "img": "produtos/4733.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 13885,
@@ -23555,7 +23303,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 534
+     "saldo": 530
     },
     {
      "cod": 880,
@@ -23785,7 +23533,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 113
+     "saldo": 110
     },
     {
      "cod": 7343,
@@ -24047,7 +23795,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 619
+     "saldo": 604
     },
     {
      "cod": 1415,
@@ -26363,7 +26111,7 @@
      "marca": "",
      "preco": 2.2,
      "img": "produtos/7175.jpg",
-     "saldo": 133
+     "saldo": 123
     },
     {
      "cod": 7172,
@@ -26465,7 +26213,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 274
+     "saldo": 271
     },
     {
      "cod": 2826,
@@ -27645,7 +27393,7 @@
      "marca": "IEC",
      "preco": 5.9,
      "img": "produtos/2785.jpg",
-     "saldo": 166
+     "saldo": 165
     },
     {
      "cod": 2786,
@@ -27765,7 +27513,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/2804.jpg",
-     "saldo": 135
+     "saldo": 134
     },
     {
      "cod": 2805,
@@ -29217,7 +28965,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 426
+     "saldo": 425
     },
     {
      "cod": 6324,
@@ -32907,13 +32655,6 @@
    "marca": "DAC",
    "preco": 45.9,
    "img": "produtos/8200.jpg"
-  },
-  {
-   "cod": 13657,
-   "nome": "ESTOJO LUXCEL 3F-LOUD VERDE (ET50245LD-VD)",
-   "marca": "LUXCEL",
-   "preco": 69.9,
-   "img": "produtos/13657.jpg"
   },
   {
    "cod": 2896,
