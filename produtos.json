@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 412,
+     "saldo": 411,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 412
+       "saldo": 411
       },
       {
        "cod": 553,
@@ -1183,7 +1183,7 @@
      "marca": "MOLIN",
      "preco": 18.9,
      "img": "produtos/14457.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 12328,
@@ -4886,7 +4886,7 @@
      "marca": "TAMOIO",
      "preco": 4.9,
      "img": "produtos/13533.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 6064,
@@ -9804,7 +9804,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 761
+     "saldo": 759
     },
     {
      "cod": 4438,
@@ -10046,7 +10046,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 199
+     "saldo": 198
     },
     {
      "cod": 1313,
@@ -12083,7 +12083,7 @@
      "marca": "MINASPEL",
      "preco": 29.9,
      "img": "produtos/6844.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 8404,
@@ -12107,7 +12107,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 79
+     "saldo": 80
     },
     {
      "cod": 4502,
@@ -12115,7 +12115,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 2015,
@@ -12616,14 +12616,6 @@
      "preco": 139.9,
      "img": "produtos/6700.jpg",
      "saldo": 3
-    },
-    {
-     "cod": 3996,
-     "nome": "QUADRO BRANCO 60X40 (AL)",
-     "marca": "SOUZ/STALO",
-     "preco": 59.9,
-     "img": "produtos/3996.jpg",
-     "saldo": 2
     },
     {
      "cod": 2585,
@@ -16155,7 +16147,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/3929.jpg",
-     "saldo": 192
+     "saldo": 191
     },
     {
      "cod": 14205,
@@ -16225,7 +16217,7 @@
      "marca": "POLIBRAS",
      "preco": 3.9,
      "img": "produtos/2260.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 7166,
@@ -19115,7 +19107,7 @@
      "marca": "SCRITY",
      "preco": 0.9,
      "img": "produtos/1058.jpg",
-     "saldo": 1320
+     "saldo": 1314
     },
     {
      "cod": 1060,
@@ -19123,7 +19115,7 @@
      "marca": "SCRITY",
      "preco": 1.3,
      "img": "produtos/1060.jpg",
-     "saldo": 200
+     "saldo": 135
     },
     {
      "cod": 1062,
@@ -19905,7 +19897,7 @@
      "marca": "NYBC",
      "preco": 32.9,
      "img": "produtos/13101.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 1333,
@@ -19913,7 +19905,7 @@
      "marca": "ETIQ PLAST",
      "preco": 54.9,
      "img": "produtos/1333.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 2368,
@@ -23729,7 +23721,7 @@
      "marca": "RIOPLASTIC",
      "preco": 19.9,
      "img": "produtos/2510.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 4573,
@@ -24659,7 +24651,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 7070,
@@ -26425,7 +26417,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 860
+     "saldo": 859
     },
     {
      "cod": 10972,
@@ -26727,7 +26719,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 501
+     "saldo": 500
     },
     {
      "cod": 6855,
@@ -30003,7 +29995,7 @@
      "marca": "PREMIUM",
      "preco": 12.9,
      "img": "produtos/2107.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 13944,
