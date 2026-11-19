@@ -2830,7 +2830,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1673.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 1674,
@@ -2862,7 +2862,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1676.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 5835,
@@ -6494,6 +6494,14 @@
      "preco": 19.9,
      "img": "produtos/14705.jpg",
      "saldo": 64
+    },
+    {
+     "cod": 14783,
+     "nome": "CADERNO 1X1 QUADRIC. CD 80F-ANIMATIVA",
+     "marca": "ANIMATIVA",
+     "preco": 12.9,
+     "img": "produtos/14783.jpg",
+     "saldo": 40
     },
     {
      "cod": 12387,
@@ -16566,7 +16574,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/3656.jpg",
-     "saldo": 21
+     "saldo": 18
     }
    ]
   },
@@ -17012,7 +17020,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 1228,
@@ -20050,6 +20058,14 @@
      "saldo": 2
     },
     {
+     "cod": 14801,
+     "nome": "LIVRO INFAN.MEU PRIMEIRO CONTO DE FADA",
+     "marca": "TODO LIVRO",
+     "preco": 4.9,
+     "img": "produtos/14801.jpg",
+     "saldo": 144
+    },
+    {
      "cod": 14663,
      "nome": "LIVRO INFAN.MEUS PRIMEIROS VALORES",
      "marca": "TODO LIVRO",
@@ -22271,7 +22287,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 169
+     "saldo": 167
     },
     {
      "cod": 945,
@@ -22287,7 +22303,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6055
+     "saldo": 6053
     },
     {
      "cod": 944,
@@ -24547,7 +24563,7 @@
      "marca": "FIDELI PAR",
      "preco": 21.9,
      "img": "produtos/7019.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 7020,
@@ -24555,7 +24571,7 @@
      "marca": "ABN",
      "preco": 28.9,
      "img": "produtos/7020.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 7021,
@@ -25715,7 +25731,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 665,
@@ -29122,14 +29138,6 @@
      "saldo": 4
     },
     {
-     "cod": 1195,
-     "nome": "ETIQUETA ETIQUETAD.MX5500 C/10",
-     "marca": "",
-     "preco": 24.9,
-     "img": "produtos/1195.jpg",
-     "saldo": 30
-    },
-    {
      "cod": 1198,
      "nome": "ETIQUETA ETIQUETAD.OPEN P6 C/10 PRIMUS",
      "marca": "PRIMUS",
@@ -29639,7 +29647,7 @@
      "marca": "MAMUTH",
      "preco": 35.9,
      "img": "produtos/1493.jpg",
-     "saldo": 47
+     "saldo": 107
     },
     {
      "cod": 1494,
@@ -29647,7 +29655,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 89
+     "saldo": 239
     },
     {
      "cod": 1495,
@@ -29655,7 +29663,7 @@
      "marca": "MAMUTH",
      "preco": 18.9,
      "img": "produtos/1495.jpg",
-     "saldo": 46
+     "saldo": 106
     },
     {
      "cod": 1498,
