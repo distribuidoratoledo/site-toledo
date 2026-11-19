@@ -521,7 +521,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/14374.jpg",
-     "saldo": 205
+     "saldo": 204
     },
     {
      "cod": 5084,
@@ -1445,14 +1445,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/614.jpg",
-     "saldo": 12,
+     "saldo": 11,
      "cores": [
       {
        "cod": 614,
        "cor": "Azul",
        "nome": "CANETA PILOT S.GRIP 0.7-AZUL",
        "img": "produtos/614.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 615,
@@ -1466,7 +1466,7 @@
        "cor": "Vermelha",
        "nome": "CANETA PILOT S.GRIP 0.7-VERMELHA",
        "img": "produtos/616.jpg",
-       "saldo": 19
+       "saldo": 18
       }
      ]
     },
@@ -2792,7 +2792,7 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
-     "saldo": 27,
+     "saldo": 26,
      "controle": [
       "AZUL",
       "CINZA",
@@ -2801,7 +2801,7 @@
      ],
      "saldo_cor": {
       "AZUL": 8,
-      "CINZA": 8,
+      "CINZA": 7,
       "ROSA": 4,
       "VERDE-ÁGUA": 7
      }
@@ -3114,7 +3114,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 49
+       "saldo": 47
       },
       {
        "cod": 3604,
@@ -3585,14 +3585,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 235,
+     "saldo": 232,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 235
+       "saldo": 232
       },
       {
        "cod": 2657,
@@ -4183,7 +4183,7 @@
      "marca": "MERCUR",
      "preco": 1.2,
      "img": "produtos/4341.jpg",
-     "saldo": 90
+     "saldo": 88
     },
     {
      "cod": 279,
@@ -6277,7 +6277,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13209.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 12905,
@@ -8589,7 +8589,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 3249,
@@ -8680,14 +8680,6 @@
      "saldo": 400
     },
     {
-     "cod": 14736,
-     "nome": "CADERNO TILIBOM  CD 80F (VERMELHO)",
-     "marca": "TILIBRA",
-     "preco": 15.9,
-     "img": "produtos/14736.jpg",
-     "saldo": 650
-    },
-    {
      "cod": 14763,
      "nome": "CADERNO TILIBOM CART. 60F (AZUL)",
      "marca": "TILIBRA",
@@ -8696,20 +8688,35 @@
      "saldo": 100
     },
     {
-     "cod": 14735,
-     "nome": "CADERNO TILIBOM CD 80F (VERDE)",
-     "marca": "TILIBRA",
-     "preco": 15.9,
-     "img": "produtos/14735.jpg",
-     "saldo": 245
-    },
-    {
      "cod": 14734,
-     "nome": "CADERNO TILIBOM CD S/P 80F (AZUL)",
+     "nome": "CADERNO TILIBOM CD 80F",
      "marca": "TILIBRA",
-     "preco": 15.9,
+     "preco": 16.9,
      "img": "produtos/14734.jpg",
-     "saldo": 100
+     "saldo": 100,
+     "cores": [
+      {
+       "cod": 14734,
+       "cor": "Azul",
+       "nome": "CADERNO TILIBOM CD 80F (AZUL)",
+       "img": "produtos/14734.jpg",
+       "saldo": 100
+      },
+      {
+       "cod": 14735,
+       "cor": "Verde",
+       "nome": "CADERNO TILIBOM CD 80F (VERDE)",
+       "img": "produtos/14735.jpg",
+       "saldo": 245
+      },
+      {
+       "cod": 14736,
+       "cor": "Vermelho",
+       "nome": "CADERNO TILIBOM CD 80F (VERMELHO)",
+       "img": "produtos/14736.jpg",
+       "saldo": 650
+      }
+     ]
     },
     {
      "cod": 8905,
@@ -9097,7 +9104,7 @@
      "marca": "DOTAD",
      "preco": 12.9,
      "img": "produtos/14284.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 9567,
@@ -9663,7 +9670,7 @@
      "marca": "CASCOREZ",
      "preco": 32.9,
      "img": "produtos/818.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 819,
@@ -10047,7 +10054,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 926
+     "saldo": 923
     },
     {
      "cod": 4389,
@@ -10780,7 +10787,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 133
+     "saldo": 132
     },
     {
      "cod": 2618,
@@ -12774,7 +12781,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 11626,
@@ -19722,35 +19729,35 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 28,
+     "saldo": 23,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 28
+       "saldo": 23
       },
       {
        "cod": 6623,
        "cor": "Azul",
        "nome": "POST-IT 76X76 C/100 AZUL",
        "img": "produtos/6623.jpg",
-       "saldo": 72
+       "saldo": 67
       },
       {
        "cod": 6621,
        "cor": "Rosa",
        "nome": "POST-IT 76X76 C/100 ROSA",
        "img": "produtos/6621.jpg",
-       "saldo": 57
+       "saldo": 52
       },
       {
        "cod": 6622,
        "cor": "Verde",
        "nome": "POST-IT 76X76 C/100 VERDE",
        "img": "produtos/6622.jpg",
-       "saldo": 58
+       "saldo": 53
       }
      ]
     },
@@ -20040,7 +20047,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 14657,
@@ -23046,7 +23053,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/6946.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 8229,
@@ -23730,7 +23737,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 218
+     "saldo": 216
     },
     {
      "cod": 2516,
@@ -25016,7 +25023,7 @@
      "marca": "MELLO",
      "preco": 139.9,
      "img": "produtos/1344.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 1345,
@@ -25868,7 +25875,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 112
+     "saldo": 111
     },
     {
      "cod": 2720,
@@ -26636,7 +26643,7 @@
        "cor": "Azul Escuro",
        "nome": "SACOLA PH 30X40 C/50-AZUL ESCURO",
        "img": "produtos/3672.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 3958,
@@ -26664,7 +26671,7 @@
        "cor": "Rosa",
        "nome": "SACOLA PH 30X40 C/50-ROSA",
        "img": "produtos/4326.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 2858,
@@ -32005,7 +32012,7 @@
      "marca": "MOLIN",
      "preco": 9.9,
      "img": "produtos/14672.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 14691,
