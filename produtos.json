@@ -1936,7 +1936,7 @@
      "marca": "MAPED",
      "preco": 12.9,
      "img": "produtos/7705.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 13745,
@@ -3648,14 +3648,6 @@
      "saldo": 556
     },
     {
-     "cod": 1507,
-     "nome": "GRAFITE 0.7 PENTEL B C/12",
-     "marca": "PENTEL",
-     "preco": 5.9,
-     "img": "produtos/1507.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 1509,
      "nome": "GRAFITE 0.9 FABER B/2B C/24",
      "marca": "FABER",
@@ -4175,7 +4167,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1974
+     "saldo": 1972
     },
     {
      "cod": 4341,
@@ -6891,7 +6883,7 @@
      "marca": "FORONI",
      "preco": 3.9,
      "img": "produtos/13538.jpg",
-     "saldo": 38
+     "saldo": 36
     },
     {
      "cod": 11486,
@@ -10204,7 +10196,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/11872.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 9090,
@@ -10967,7 +10959,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 3479,
@@ -14757,7 +14749,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/14688.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 7493,
@@ -19365,7 +19357,7 @@
      "marca": "PAPER MULT",
      "preco": 4.5,
      "img": "produtos/215.jpg",
-     "saldo": 98
+     "saldo": 95
     },
     {
      "cod": 6963,
@@ -19851,7 +19843,7 @@
      "marca": "TODOLIVRO",
      "preco": 1.8,
      "img": "produtos/14662.jpg",
-     "saldo": 194
+     "saldo": 186
     },
     {
      "cod": 13556,
@@ -19931,7 +19923,7 @@
      "marca": "CULTURAMA",
      "preco": 4.9,
      "img": "produtos/14655.jpg",
-     "saldo": 146
+     "saldo": 144
     },
     {
      "cod": 12465,
@@ -20057,7 +20049,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/1472.jpg",
-     "saldo": 285
+     "saldo": 284
     },
     {
      "cod": 7695,
@@ -20129,7 +20121,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14434.jpg",
-     "saldo": 22,
+     "saldo": 21,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -20141,7 +20133,7 @@
      "saldo_cor": {
       "AMARELO": 4,
       "AZUL": 4,
-      "ROSA": 3,
+      "ROSA": 2,
       "ROXO": 4,
       "VERDE": 4,
       "VERMELHO": 3
@@ -20153,7 +20145,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14433.jpg",
-     "saldo": 22,
+     "saldo": 21,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -20164,7 +20156,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 3,
-      "AZUL": 3,
+      "AZUL": 2,
       "PRETO": 4,
       "ROXO": 4,
       "VERDE": 4,
@@ -20217,7 +20209,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1560
+     "saldo": 1559
     },
     {
      "cod": 3538,
@@ -21665,7 +21657,7 @@
      "marca": "REFLEX",
      "preco": 2.9,
      "img": "produtos/2580.jpg",
-     "saldo": 26
+     "saldo": 14
     },
     {
      "cod": 2581,
@@ -21673,7 +21665,7 @@
      "marca": "REFLEX",
      "preco": 2.9,
      "img": "produtos/2581.jpg",
-     "saldo": 31
+     "saldo": 30
     }
    ]
   },
@@ -22572,14 +22564,6 @@
      "saldo": 9
     },
     {
-     "cod": 9924,
-     "nome": "BOLA ISOPOR 100MM (OCA)",
-     "marca": "ISOMAX",
-     "preco": 5.9,
-     "img": "produtos/9924.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 9907,
      "nome": "BOLA ISOPOR 15MM C/5 (MACIÇA)",
      "marca": "ISOMAX",
@@ -22681,7 +22665,7 @@
      "marca": "ISOMAX",
      "preco": 3.9,
      "img": "produtos/9920.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 9921,
@@ -23129,7 +23113,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 336
+     "saldo": 335
     },
     {
      "cod": 4146,
@@ -23137,7 +23121,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 230
+     "saldo": 229
     },
     {
      "cod": 2491,
@@ -23145,7 +23129,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 301
+     "saldo": 300
     },
     {
      "cod": 3887,
@@ -23153,7 +23137,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 2489,
@@ -23185,7 +23169,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3536.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 3989,
@@ -23225,7 +23209,7 @@
      "marca": "TOTAPLAST",
      "preco": 8.9,
      "img": "produtos/4733.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 13885,
@@ -23955,7 +23939,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 7045,
@@ -25009,7 +24993,7 @@
      "marca": "PLASTSUL",
      "preco": 8.9,
      "img": "produtos/3932.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 4668,
@@ -25017,7 +25001,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/4668.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 654,
@@ -25073,7 +25057,7 @@
      "marca": "THEOTO",
      "preco": 5.9,
      "img": "produtos/1118.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 7237,
@@ -25775,7 +25759,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 154
+     "saldo": 153
     },
     {
      "cod": 3652,
@@ -26189,7 +26173,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 825
+     "saldo": 824
     },
     {
      "cod": 10972,
@@ -26959,7 +26943,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 163
+     "saldo": 162
     },
     {
      "cod": 4314,
@@ -26991,7 +26975,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 2901,
@@ -27093,7 +27077,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8820
+     "saldo": 8790
     },
     {
      "cod": 236,
@@ -27305,7 +27289,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 627
+     "saldo": 626
     },
     {
      "cod": 2760,
@@ -28107,14 +28091,14 @@
      "marca": "MAKE+",
      "preco": 1.0,
      "img": "produtos/11924.jpg",
-     "saldo": 32,
+     "saldo": 31,
      "cores": [
       {
        "cod": 11924,
        "cor": "Branco",
        "nome": "LAÇO PRONTO (G)-BRANCO",
        "img": "produtos/11924.jpg",
-       "saldo": 32
+       "saldo": 31
       },
       {
        "cod": 11917,
@@ -28131,14 +28115,14 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
-     "saldo": 62,
+     "saldo": 61,
      "cores": [
       {
        "cod": 11919,
        "cor": "Rosa",
        "nome": "LAÇO PRONTO (GG)-ROSA",
        "img": "produtos/11919.jpg",
-       "saldo": 62
+       "saldo": 61
       },
       {
        "cod": 11918,
@@ -28751,7 +28735,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 525
+     "saldo": 523
     },
     {
      "cod": 6912,
@@ -29911,7 +29895,7 @@
      "marca": "",
      "preco": 17.9,
      "img": "produtos/9829.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 6754,
@@ -31369,7 +31353,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14552.jpg",
-     "saldo": 15,
+     "saldo": 14,
      "controle": [
       "AZUL",
       "LILAS",
@@ -31380,7 +31364,7 @@
       "AZUL": 3,
       "LILAS": 4,
       "ROSA": 4,
-      "VERMELHO": 4
+      "VERMELHO": 3
      }
     },
     {
@@ -31729,14 +31713,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 332,
+     "saldo": 331,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 332
+       "saldo": 331
       },
       {
        "cod": 6051,
