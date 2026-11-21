@@ -2617,7 +2617,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 163
+     "saldo": 139
     },
     {
      "cod": 6355,
@@ -9550,7 +9550,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 846,
@@ -9828,7 +9828,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4054
+     "saldo": 4052
     },
     {
      "cod": 14619,
@@ -10062,7 +10062,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 888
+     "saldo": 887
     },
     {
      "cod": 4389,
@@ -10196,7 +10196,7 @@
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/1525.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 11872,
@@ -10652,7 +10652,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 48
+     "saldo": 46
     },
     {
      "cod": 6716,
@@ -10691,7 +10691,7 @@
      "marca": "JOCAR",
      "preco": 8.9,
      "img": "produtos/7291.jpg",
-     "saldo": 344
+     "saldo": 343
     },
     {
      "cod": 12290,
@@ -12131,7 +12131,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2016,
@@ -16985,7 +16985,7 @@
        "cor": "Lilas",
        "nome": "EVA GLITER-LILAS",
        "img": "produtos/4830.jpg",
-       "saldo": 96
+       "saldo": 93
       },
       {
        "cod": 1219,
@@ -22259,7 +22259,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3338.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 953,
@@ -22267,7 +22267,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 128
+     "saldo": 127
     },
     {
      "cod": 958,
@@ -23049,7 +23049,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 202
+     "saldo": 201
     },
     {
      "cod": 3731,
@@ -23161,7 +23161,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 339
+     "saldo": 338
     },
     {
      "cod": 4146,
@@ -23177,7 +23177,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 303
+     "saldo": 302
     },
     {
      "cod": 3887,
@@ -23287,7 +23287,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 226
+     "saldo": 223
     },
     {
      "cod": 11964,
@@ -23311,7 +23311,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 521
+     "saldo": 520
     },
     {
      "cod": 880,
@@ -23335,7 +23335,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/11601.jpg",
-     "saldo": 136
+     "saldo": 133
     },
     {
      "cod": 8466,
@@ -23359,7 +23359,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 333
+     "saldo": 330
     },
     {
      "cod": 1444,
@@ -24241,7 +24241,7 @@
      "marca": "COPOPLAST",
      "preco": 5.9,
      "img": "produtos/2556.jpg",
-     "saldo": 36
+     "saldo": 26
     },
     {
      "cod": 2558,
@@ -24683,7 +24683,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/30.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 31,
@@ -25057,7 +25057,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 11675,
@@ -25105,7 +25105,7 @@
      "marca": "THEOTO",
      "preco": 5.9,
      "img": "produtos/1118.jpg",
-     "saldo": 114
+     "saldo": 113
     },
     {
      "cod": 7237,
@@ -25231,7 +25231,7 @@
      "marca": "GRILO",
      "preco": 24.9,
      "img": "produtos/2696.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 9113,
@@ -25575,7 +25575,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 3651,
@@ -26221,7 +26221,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 837
+     "saldo": 835
     },
     {
      "cod": 10972,
@@ -26261,7 +26261,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 448
+     "saldo": 447
     },
     {
      "cod": 2838,
@@ -26769,7 +26769,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 6296
+     "saldo": 6196
     },
     {
      "cod": 11788,
@@ -26809,7 +26809,7 @@
      "marca": "CEPELMA",
      "preco": 14.9,
      "img": "produtos/2084.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 2112,
@@ -27125,7 +27125,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8910
+     "saldo": 8850
     },
     {
      "cod": 236,
@@ -27179,7 +27179,7 @@
      "marca": "DISPAFILM",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
-     "saldo": 6
+     "saldo": 4
     },
     {
      "cod": 1272,
@@ -27195,7 +27195,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 60
+     "saldo": 59
     },
     {
      "cod": 1278,
@@ -27593,7 +27593,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/6860.jpg",
-     "saldo": 16
+     "saldo": 14
     },
     {
      "cod": 2829,
@@ -28759,7 +28759,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 404
+     "saldo": 400
     },
     {
      "cod": 2777,
@@ -29675,7 +29675,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 8295,
@@ -29715,7 +29715,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/8296.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 10989,
@@ -29739,7 +29739,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 288
+     "saldo": 287
     },
     {
      "cod": 7275,
@@ -30519,7 +30519,7 @@
      "marca": "GIFO",
      "preco": 8.9,
      "img": "produtos/3542.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 3543,
