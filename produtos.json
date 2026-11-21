@@ -143,28 +143,28 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 797,
+     "saldo": 796,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 797
+       "saldo": 796
       },
       {
        "cod": 556,
        "cor": "Preta",
        "nome": "CANETA BIC FINE PLUS-PRETA",
        "img": "produtos/556.jpg",
-       "saldo": 506
+       "saldo": 503
       },
       {
        "cod": 557,
        "cor": "Vermelha",
        "nome": "CANETA BIC FINE PLUS-VERMELHA",
        "img": "produtos/557.jpg",
-       "saldo": 387
+       "saldo": 386
       }
      ]
     },
@@ -1840,7 +1840,7 @@
      "marca": "MAPED",
      "preco": 12.9,
      "img": "produtos/7707.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 7699,
@@ -3944,7 +3944,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 27,
+      "AZUL": 26,
       "ROSA": 28,
       "ROXO": 29
      }
@@ -6915,7 +6915,7 @@
      "marca": "TILIBRA",
      "preco": 23.9,
      "img": "produtos/11485.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14765,
@@ -9446,7 +9446,7 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/832.jpg",
-     "saldo": 125
+     "saldo": 124
     },
     {
      "cod": 7905,
@@ -9494,7 +9494,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/836.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 7704,
@@ -9558,7 +9558,7 @@
      "marca": "NEW MAGIC",
      "preco": 5.9,
      "img": "produtos/7841.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 7842,
@@ -9734,7 +9734,7 @@
      "marca": "S. BONDER",
      "preco": 8.9,
      "img": "produtos/848.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 4049,
@@ -9804,7 +9804,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 748
+     "saldo": 746
     },
     {
      "cod": 4438,
@@ -10100,7 +10100,7 @@
      "marca": "JOCAR",
      "preco": 13.9,
      "img": "produtos/1518.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 1519,
@@ -10951,7 +10951,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 6612,
@@ -12099,7 +12099,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 710
+     "saldo": 708
     },
     {
      "cod": 5082,
@@ -12115,7 +12115,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 2015,
@@ -15141,7 +15141,7 @@
      "marca": "CAVIA",
      "preco": 18.9,
      "img": "produtos/3687.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 2915,
@@ -15149,7 +15149,7 @@
      "marca": "JOCAR",
      "preco": 15.9,
      "img": "produtos/2915.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 6627,
@@ -16673,7 +16673,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 2959,
@@ -16935,14 +16935,14 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 154,
+     "saldo": 150,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 154
+       "saldo": 150
       },
       {
        "cod": 4829,
@@ -16952,18 +16952,11 @@
        "saldo": 115
       },
       {
-       "cod": 1216,
-       "cor": "Azul Escuro",
-       "nome": "EVA GLITER-AZUL ESCURO",
-       "img": "produtos/1216.jpg",
-       "saldo": 3
-      },
-      {
        "cod": 1217,
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 146
+       "saldo": 145
       },
       {
        "cod": 9160,
@@ -20627,7 +20620,7 @@
      "marca": "KENDY BRIN",
      "preco": 71.9,
      "img": "produtos/14639.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 13718,
@@ -22051,7 +22044,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 12266
+     "saldo": 6016
     },
     {
      "cod": 944,
@@ -22147,7 +22140,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 1897
+     "saldo": 897
     },
     {
      "cod": 3342,
@@ -22219,7 +22212,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3338.jpg",
-     "saldo": 29
+     "saldo": 9
     },
     {
      "cod": 953,
@@ -22561,7 +22554,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/9923.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 9907,
@@ -26353,7 +26346,7 @@
        "cor": "Rosa Pink",
        "nome": "SACOLA PH 25X35 C/50-ROSA PINK",
        "img": "produtos/9964.jpg",
-       "saldo": 7
+       "saldo": 6
       },
       {
        "cod": 9963,
@@ -26419,7 +26412,7 @@
        "cor": "Rosa",
        "nome": "SACOLA PH 30X40 C/50-ROSA",
        "img": "produtos/4326.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 2858,
@@ -26697,7 +26690,7 @@
      "marca": "",
      "preco": 49.9,
      "img": "produtos/6966.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 255,
@@ -26999,7 +26992,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 75
+     "saldo": 74
     }
    ]
   },
@@ -27069,7 +27062,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1012
+     "saldo": 1007
     },
     {
      "cod": 235,
@@ -27289,7 +27282,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 626
+     "saldo": 621
     },
     {
      "cod": 2760,
@@ -27489,7 +27482,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/2804.jpg",
-     "saldo": 134
+     "saldo": 133
     },
     {
      "cod": 2805,
@@ -27497,7 +27490,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/2805.jpg",
-     "saldo": 170
+     "saldo": 168
     },
     {
      "cod": 6102,
@@ -28719,7 +28712,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 272
+     "saldo": 263
     },
     {
      "cod": 2779,
@@ -29809,7 +29802,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 169
+     "saldo": 168
     },
     {
      "cod": 2153,
