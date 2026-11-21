@@ -2192,7 +2192,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
-     "saldo": 32,
+     "saldo": 31,
      "controle": [
       "AZUL",
       "PRETO",
@@ -2201,7 +2201,7 @@
      "saldo_cor": {
       "AZUL": 11,
       "PRETO": 10,
-      "ROSA": 11
+      "ROSA": 10
      }
     },
     {
@@ -2681,7 +2681,7 @@
      "marca": "MAPED",
      "preco": 1.9,
      "img": "produtos/13305.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 7860,
@@ -3937,14 +3937,14 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
-     "saldo": 84,
+     "saldo": 82,
      "controle": [
       "AZUL",
       "ROSA",
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 26,
+      "AZUL": 25,
       "ROSA": 28,
       "ROXO": 29
      }
@@ -3993,7 +3993,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14556.jpg",
-     "saldo": 47,
+     "saldo": 45,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4001,7 +4001,7 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 12,
+      "AZUL": 10,
       "ROSA": 12,
       "ROXO": 12,
       "VERDE-ÁGUA": 11
@@ -4167,7 +4167,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1972
+     "saldo": 1971
     },
     {
      "cod": 4341,
@@ -7391,7 +7391,7 @@
      "marca": "TILIBRA",
      "preco": 38.9,
      "img": "produtos/12806.jpg",
-     "saldo": 13
+     "saldo": 8
     },
     {
      "cod": 12979,
@@ -7487,7 +7487,7 @@
      "marca": "SD",
      "preco": 24.9,
      "img": "produtos/12990.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 14746,
@@ -8589,7 +8589,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 3249,
@@ -9342,7 +9342,7 @@
      "marca": "LEO E LEO",
      "preco": 5.5,
      "img": "produtos/813.jpg",
-     "saldo": 143
+     "saldo": 141
     },
     {
      "cod": 11622,
@@ -10046,7 +10046,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 124
+     "saldo": 123
     },
     {
      "cod": 1313,
@@ -10124,7 +10124,7 @@
      "marca": "JOCAR",
      "preco": 32.9,
      "img": "produtos/1522.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 1523,
@@ -11665,14 +11665,14 @@
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/2051.jpg",
-     "saldo": 32,
+     "saldo": 31,
      "cores": [
       {
        "cod": 2051,
        "cor": "Amarelo",
        "nome": "COLORSETE A4 C/50 AMARELO",
        "img": "produtos/2051.jpg",
-       "saldo": 32
+       "saldo": 31
       },
       {
        "cod": 2054,
@@ -12353,7 +12353,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/7098.jpg",
-     "saldo": 421
+     "saldo": 419
     },
     {
      "cod": 2137,
@@ -15557,7 +15557,7 @@
        "cor": "Rosa",
        "nome": "PASTA ENVELOPE A4-ROSA NEON",
        "img": "produtos/10022.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -15907,7 +15907,7 @@
      "marca": "PLASCONY",
      "preco": 4.9,
      "img": "produtos/6065.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 5176,
@@ -15975,7 +15975,7 @@
        "cor": "Fume",
        "nome": "PASTA PP 1CM-FUME",
        "img": "produtos/6797.jpg",
-       "saldo": 126
+       "saldo": 125
       }
      ]
     },
@@ -18864,7 +18864,7 @@
      "marca": "SCRITY",
      "preco": 0.9,
      "img": "produtos/1058.jpg",
-     "saldo": 1314
+     "saldo": 1313
     },
     {
      "cod": 1060,
@@ -18904,7 +18904,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1094.jpg",
-     "saldo": 393
+     "saldo": 392
     },
     {
      "cod": 1095,
@@ -19694,7 +19694,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/8808.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 11833,
@@ -19788,7 +19788,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 84
+     "saldo": 82
     },
     {
      "cod": 14657,
@@ -19828,7 +19828,7 @@
      "marca": "TODO LIVRO",
      "preco": 5.9,
      "img": "produtos/14663.jpg",
-     "saldo": 44
+     "saldo": 41
     },
     {
      "cod": 14662,
@@ -20202,7 +20202,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1559
+     "saldo": 1558
     },
     {
      "cod": 3538,
@@ -23336,7 +23336,7 @@
      "marca": "GOLDEPLAST",
      "preco": 7.9,
      "img": "produtos/10444.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 14129,
@@ -23382,7 +23382,7 @@
      "marca": "PRAFESTA",
      "preco": 12.9,
      "img": "produtos/2507.jpg",
-     "saldo": 120
+     "saldo": 116
     },
     {
      "cod": 11829,
@@ -23398,7 +23398,7 @@
      "marca": "RIOPLASTIC",
      "preco": 9.9,
      "img": "produtos/2495.jpg",
-     "saldo": 199
+     "saldo": 194
     },
     {
      "cod": 14028,
@@ -25472,7 +25472,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 665,
@@ -26928,7 +26928,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2318
+     "saldo": 2317
     },
     {
      "cod": 2896,
@@ -27062,7 +27062,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1007
+     "saldo": 977
     },
     {
      "cod": 235,
@@ -30400,7 +30400,7 @@
      "marca": "SHANGRI-LA",
      "preco": 36.9,
      "img": "produtos/1111.jpg",
-     "saldo": 9
+     "saldo": 6
     },
     {
      "cod": 1133,
