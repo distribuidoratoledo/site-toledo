@@ -2577,7 +2577,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 543
+     "saldo": 542
     },
     {
      "cod": 5836,
@@ -3645,7 +3645,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 558
+     "saldo": 557
     },
     {
      "cod": 1507,
@@ -3985,7 +3985,7 @@
      "marca": "LEO E LEO",
      "preco": 0.5,
      "img": "produtos/277.jpg",
-     "saldo": 189
+     "saldo": 188
     },
     {
      "cod": 278,
@@ -9606,7 +9606,7 @@
      "marca": "PRITT",
      "preco": 12.9,
      "img": "produtos/815.jpg",
-     "saldo": 245
+     "saldo": 244
     },
     {
      "cod": 816,
@@ -16905,7 +16905,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14588.jpg",
-     "saldo": 237
+     "saldo": 236
     }
    ]
   },
@@ -22126,6 +22126,14 @@
      "saldo": 2220
     },
     {
+     "cod": 14414,
+     "nome": "COPO 250ML PS C/100-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 6.9,
+     "img": "produtos/14414.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 947,
      "nome": "COPO 300ML PP C/100-COPOBRAS",
      "marca": "COPOBRAS",
@@ -22275,7 +22283,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/958.jpg",
-     "saldo": 174
+     "saldo": 173
     },
     {
      "cod": 6814,
@@ -22451,7 +22459,7 @@
      "marca": "TOTAL",
      "preco": 8.9,
      "img": "produtos/11907.jpg",
-     "saldo": 148
+     "saldo": 147
     },
     {
      "cod": 9746,
@@ -23161,7 +23169,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 338
+     "saldo": 337
     },
     {
      "cod": 4146,
@@ -23177,7 +23185,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 302
+     "saldo": 301
     },
     {
      "cod": 3887,
@@ -23613,7 +23621,7 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 2513,
@@ -25551,7 +25559,7 @@
      "marca": "ROMA P.",
      "preco": 5.9,
      "img": "produtos/2705.jpg",
-     "saldo": 856
+     "saldo": 844
     },
     {
      "cod": 2706,
@@ -25767,7 +25775,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2729.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 2730,
@@ -26221,7 +26229,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 835
+     "saldo": 825
     },
     {
      "cod": 10972,
@@ -26229,7 +26237,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 252
+     "saldo": 242
     },
     {
      "cod": 2826,
@@ -26245,7 +26253,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 67
+     "saldo": 57
     },
     {
      "cod": 4362,
@@ -26253,7 +26261,7 @@
      "marca": "PACKFORT",
      "preco": 25.9,
      "img": "produtos/4362.jpg",
-     "saldo": 193
+     "saldo": 183
     },
     {
      "cod": 2837,
@@ -26523,7 +26531,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 393
+     "saldo": 392
     },
     {
      "cod": 6855,
@@ -26531,7 +26539,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 251
+     "saldo": 250
     },
     {
      "cod": 2875,
@@ -26617,7 +26625,7 @@
      "marca": "CEPELMA",
      "preco": 49.9,
      "img": "produtos/244.jpg",
-     "saldo": 108
+     "saldo": 107
     },
     {
      "cod": 13858,
@@ -27015,7 +27023,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 911
+     "saldo": 910
     },
     {
      "cod": 2900,
@@ -27069,7 +27077,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 2234
+     "saldo": 2178
     },
     {
      "cod": 6646,
@@ -27117,7 +27125,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1042
+     "saldo": 1012
     },
     {
      "cod": 235,
@@ -27125,7 +27133,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8850
+     "saldo": 8820
     },
     {
      "cod": 236,
@@ -27369,7 +27377,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 283
+     "saldo": 278
     },
     {
      "cod": 4937,
@@ -29415,7 +29423,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 321
+     "saldo": 320
     },
     {
      "cod": 2608,
@@ -30519,7 +30527,7 @@
      "marca": "GIFO",
      "preco": 8.9,
      "img": "produtos/3542.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 3543,
