@@ -2080,7 +2080,7 @@
      "marca": "MAPED",
      "preco": 28.9,
      "img": "produtos/1659.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 12627,
@@ -2593,7 +2593,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 650
+     "saldo": 646
     },
     {
      "cod": 14124,
@@ -4465,7 +4465,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14563.jpg",
-     "saldo": 48,
+     "saldo": 46,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -4886,7 +4886,7 @@
      "marca": "TAMOIO",
      "preco": 4.9,
      "img": "produtos/13533.jpg",
-     "saldo": 34
+     "saldo": 32
     },
     {
      "cod": 6064,
@@ -7031,7 +7031,7 @@
      "marca": "S. DOMINGO",
      "preco": 31.9,
      "img": "produtos/8103.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 8245,
@@ -7279,7 +7279,7 @@
      "marca": "TILIBRA",
      "preco": 26.9,
      "img": "produtos/5850.jpg",
-     "saldo": 21
+     "saldo": 17
     },
     {
      "cod": 12808,
@@ -7295,7 +7295,7 @@
      "marca": "SD",
      "preco": 29.9,
      "img": "produtos/8235.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 5726,
@@ -7351,7 +7351,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/6336.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 12440,
@@ -8123,7 +8123,7 @@
      "marca": "TILIBRA",
      "preco": 17.9,
      "img": "produtos/11488.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 5853,
@@ -8155,7 +8155,7 @@
      "marca": "CADERSIL",
      "preco": 9.9,
      "img": "produtos/12897.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 7831,
@@ -8398,7 +8398,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO PEQ. CD 48F (VERMELHO)",
        "img": "produtos/12449.jpg",
-       "saldo": 51
+       "saldo": 50
       }
      ]
     },
@@ -9710,7 +9710,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14523.jpg",
-     "saldo": 238
+     "saldo": 237
     },
     {
      "cod": 822,
@@ -9936,7 +9936,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 352
+     "saldo": 347
     },
     {
      "cod": 1294,
@@ -13014,7 +13014,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/10991.jpg",
-     "saldo": 149
+     "saldo": 147
     },
     {
      "cod": 10992,
@@ -13046,7 +13046,7 @@
      "marca": "TIGRE",
      "preco": 2.4,
      "img": "produtos/10999.jpg",
-     "saldo": 178
+     "saldo": 177
     },
     {
      "cod": 6378,
@@ -13054,7 +13054,7 @@
      "marca": "TIGRE",
      "preco": 2.5,
      "img": "produtos/6378.jpg",
-     "saldo": 172
+     "saldo": 170
     },
     {
      "cod": 10997,
@@ -13078,7 +13078,7 @@
      "marca": "",
      "preco": 3.2,
      "img": "produtos/10994.jpg",
-     "saldo": 187
+     "saldo": 184
     },
     {
      "cod": 10995,
@@ -13102,7 +13102,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/10993.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 10372,
@@ -13110,7 +13110,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/10372.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 2364,
@@ -20273,14 +20273,14 @@
      "marca": "ACRILEX",
      "preco": 18.9,
      "img": "produtos/11390.jpg",
-     "saldo": 4,
+     "saldo": 3,
      "cores": [
       {
        "cod": 11390,
        "cor": "Amarelo Limao",
        "nome": "MASSA POTE ACRILEX 500GR-AMARELO LIMAO",
        "img": "produtos/11390.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 11391,
@@ -20301,14 +20301,14 @@
        "cor": "Verde",
        "nome": "MASSA POTE ACRILEX 500GR-VERDE",
        "img": "produtos/11398.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 11382,
        "cor": "Vermelho",
        "nome": "MASSA POTE ACRILEX 500GR-VERMELHO",
        "img": "produtos/11382.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 11399,
@@ -21497,7 +21497,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 12
+       "saldo": 9
       },
       {
        "cod": 1478,
@@ -21539,7 +21539,7 @@
        "cor": "Vermelho",
        "nome": "GLITER 3GR-VERMELHO",
        "img": "produtos/1484.jpg",
-       "saldo": 27
+       "saldo": 24
       }
      ]
     },
@@ -22043,7 +22043,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 225
+     "saldo": 825
     },
     {
      "cod": 938,
@@ -22075,7 +22075,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 6016
+     "saldo": 12266
     },
     {
      "cod": 944,
@@ -22115,7 +22115,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 37
+     "saldo": 1037
     },
     {
      "cod": 949,
@@ -22131,7 +22131,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 26
+     "saldo": 146
     },
     {
      "cod": 8806,
@@ -22150,6 +22150,14 @@
      "saldo": 291
     },
     {
+     "cod": 14408,
+     "nome": "COPO 500ML PS C/50-COPOMAIS",
+     "marca": "COPOMAIS",
+     "preco": 10.9,
+     "img": "produtos/14408.jpg",
+     "saldo": 120
+    },
+    {
      "cod": 954,
      "nome": "COPO 500ML PS C/50-TOTAL",
      "marca": "TOTALPLAST",
@@ -22163,7 +22171,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 897
+     "saldo": 1897
     },
     {
      "cod": 3342,
@@ -22179,7 +22187,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14405.jpg",
-     "saldo": 53
+     "saldo": 203
     },
     {
      "cod": 960,
@@ -22339,7 +22347,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 119
+     "saldo": 519
     },
     {
      "cod": 2923,
@@ -22363,7 +22371,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 119
+     "saldo": 519
     },
     {
      "cod": 2934,
@@ -22513,7 +22521,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 351
+     "saldo": 345
     },
     {
      "cod": 177,
@@ -22865,7 +22873,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 7364,
@@ -23429,7 +23437,7 @@
      "marca": "RIOPLASTIC",
      "preco": 9.9,
      "img": "produtos/2495.jpg",
-     "saldo": 200
+     "saldo": 199
     },
     {
      "cod": 14028,
@@ -23517,7 +23525,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 110
+     "saldo": 510
     },
     {
      "cod": 7343,
@@ -23533,7 +23541,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 195
+     "saldo": 595
     },
     {
      "cod": 13873,
@@ -24161,7 +24169,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 934
+     "saldo": 3934
     },
     {
      "cod": 3857,
@@ -24169,7 +24177,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 213
+     "saldo": 1213
     },
     {
      "cod": 2552,
@@ -24177,7 +24185,7 @@
      "marca": "COPOPLAST",
      "preco": 2.9,
      "img": "produtos/2552.jpg",
-     "saldo": 185
+     "saldo": 435
     },
     {
      "cod": 3898,
@@ -24193,7 +24201,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 507
+     "saldo": 1507
     },
     {
      "cod": 11873,
@@ -24581,7 +24589,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 293
+     "saldo": 291
     },
     {
      "cod": 3951,
@@ -24795,7 +24803,7 @@
      "marca": "MELLO",
      "preco": 139.9,
      "img": "produtos/1344.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 1345,
@@ -25543,7 +25551,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 2709,
@@ -25783,7 +25791,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 155
+     "saldo": 154
     },
     {
      "cod": 3652,
@@ -26023,7 +26031,7 @@
      "marca": "",
      "preco": 88.9,
      "img": "produtos/14184.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 14185,
@@ -26213,7 +26221,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2826.jpg",
-     "saldo": 101
+     "saldo": 91
     },
     {
      "cod": 2827,
@@ -26697,7 +26705,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 107
+     "saldo": 104
     },
     {
      "cod": 6965,
@@ -28759,7 +28767,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 527
+     "saldo": 525
     },
     {
      "cod": 6912,
