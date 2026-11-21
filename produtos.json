@@ -739,14 +739,14 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14465.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "cores": [
       {
        "cod": 14465,
        "cor": "Azul",
        "nome": "CANETA GEL MOLIN-AZUL",
        "img": "produtos/14465.jpg",
-       "saldo": 24
+       "saldo": 23
       },
       {
        "cod": 14466,
@@ -3547,14 +3547,14 @@
      "marca": "PILOT",
      "preco": 10.9,
      "img": "produtos/2652.jpg",
-     "saldo": 105,
+     "saldo": 103,
      "cores": [
       {
        "cod": 2652,
        "cor": "Azul",
        "nome": "RETRO 1.0 PILOT-AZUL",
        "img": "produtos/2652.jpg",
-       "saldo": 105
+       "saldo": 103
       },
       {
        "cod": 2653,
@@ -3568,14 +3568,14 @@
        "cor": "Verde",
        "nome": "RETRO 1.0 PILOT-VERDE",
        "img": "produtos/2654.jpg",
-       "saldo": 140
+       "saldo": 138
       },
       {
        "cod": 2655,
        "cor": "Vermelho",
        "nome": "RETRO 1.0 PILOT-VERMELHO",
        "img": "produtos/2655.jpg",
-       "saldo": 59
+       "saldo": 57
       }
      ]
     },
@@ -3645,7 +3645,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 557
+     "saldo": 556
     },
     {
      "cod": 1507,
@@ -6573,7 +6573,7 @@
      "marca": "SD",
      "preco": 49.9,
      "img": "produtos/13215.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 5912,
@@ -7039,7 +7039,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 54
+     "saldo": 52
     },
     {
      "cod": 6295,
@@ -7071,7 +7071,7 @@
      "marca": "PAULISTA",
      "preco": 10.9,
      "img": "produtos/11276.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 14739,
@@ -7319,7 +7319,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 52
+     "saldo": 50
     },
     {
      "cod": 12978,
@@ -7636,7 +7636,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 3244,
@@ -7676,7 +7676,7 @@
      "marca": "S.DOMINGOS",
      "preco": 18.9,
      "img": "produtos/5877.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 5882,
@@ -9042,7 +9042,7 @@
      "marca": "JOCAR",
      "preco": 1.9,
      "img": "produtos/7554.jpg",
-     "saldo": 28
+     "saldo": 16
     },
     {
      "cod": 12223,
@@ -12131,7 +12131,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 2016,
@@ -12781,7 +12781,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 11626,
@@ -15435,7 +15435,7 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/6196.jpg",
-     "saldo": 258
+     "saldo": 257
     },
     {
      "cod": 6951,
@@ -15451,7 +15451,7 @@
      "marca": "ACP",
      "preco": 25.9,
      "img": "produtos/6195.jpg",
-     "saldo": 345
+     "saldo": 343
     },
     {
      "cod": 14202,
@@ -16225,7 +16225,7 @@
      "marca": "PLASCONY",
      "preco": 12.9,
      "img": "produtos/14207.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 12934,
@@ -16673,7 +16673,7 @@
      "marca": "TILIBRA",
      "preco": 9.9,
      "img": "produtos/13124.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 6633,
@@ -16943,14 +16943,14 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 155,
+     "saldo": 154,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 155
+       "saldo": 154
       },
       {
        "cod": 4829,
@@ -19405,7 +19405,7 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6626.jpg",
-     "saldo": 18
+     "saldo": 16
     },
     {
      "cod": 6619,
@@ -20563,7 +20563,7 @@
      "marca": "PAIS E FIL",
      "preco": 23.9,
      "img": "produtos/6086.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 14642,
@@ -21113,7 +21113,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/1257.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 1258,
@@ -21121,7 +21121,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/1258.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 1259,
@@ -21129,7 +21129,7 @@
      "marca": "",
      "preco": 20.9,
      "img": "produtos/1259.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 1260,
@@ -21137,7 +21137,7 @@
      "marca": "GRIFFE",
      "preco": 26.9,
      "img": "produtos/1260.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 5041,
@@ -21145,14 +21145,6 @@
      "marca": "GRAFIMAR",
      "preco": 12.5,
      "img": "produtos/5041.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12483,
-     "nome": "FICHARIO ESCOLAR DAC REBECCA BONBON 192F",
-     "marca": "DAC",
-     "preco": 69.9,
-     "img": "produtos/12483.jpg",
      "saldo": 1
     },
     {
@@ -21178,14 +21170,6 @@
      "preco": 112.9,
      "img": "produtos/12481.jpg",
      "saldo": 3
-    },
-    {
-     "cod": 12492,
-     "nome": "FICHARIO ESCOLAR DAC-MINNIE 48F",
-     "marca": "DAC",
-     "preco": 154.9,
-     "img": "produtos/12492.jpg",
-     "saldo": 1
     },
     {
      "cod": 12480,
@@ -22593,7 +22577,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/9924.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 9907,
@@ -23493,7 +23477,7 @@
      "marca": "RIOPLASTIC",
      "preco": 19.9,
      "img": "produtos/2510.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 4573,
@@ -23597,7 +23581,7 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 2513,
@@ -23613,7 +23597,7 @@
      "marca": "ULTRA",
      "preco": 17.9,
      "img": "produtos/14823.jpg",
-     "saldo": 176
+     "saldo": 174
     },
     {
      "cod": 11690,
@@ -25967,7 +25951,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 189
+     "saldo": 188
     },
     {
      "cod": 4948,
@@ -26343,14 +26327,14 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/9961.jpg",
-     "saldo": 3,
+     "saldo": 2,
      "cores": [
       {
        "cod": 9961,
        "cor": "Azul Escuro",
        "nome": "SACOLA PH 25X35 C/50-AZUL ESCURO",
        "img": "produtos/9961.jpg",
-       "saldo": 3
+       "saldo": 2
       },
       {
        "cod": 9877,
@@ -26507,7 +26491,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 387
+     "saldo": 386
     },
     {
      "cod": 6855,
@@ -26967,7 +26951,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2328
+     "saldo": 2318
     },
     {
      "cod": 2896,
@@ -31493,7 +31477,7 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO (GEL) BRW-LARANJA",
        "img": "produtos/12220.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 12226,
