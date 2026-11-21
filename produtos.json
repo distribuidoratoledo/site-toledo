@@ -196,7 +196,7 @@
        "cor": "Vermelha",
        "nome": "CANETA CIS 0.7-VERMELHA",
        "img": "produtos/10831.jpg",
-       "saldo": 239
+       "saldo": 238
       }
      ]
     },
@@ -1049,14 +1049,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 20,
+     "saldo": 19,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 9370,
@@ -1102,7 +1102,7 @@
        "cor": "Preta",
        "nome": "CANETA KILOMETRICA 0.7-PRETA (FINA)",
        "img": "produtos/588.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 14725,
@@ -1714,7 +1714,7 @@
      "marca": "COMPACTOR",
      "preco": 12.9,
      "img": "produtos/6775.jpg",
-     "saldo": 48
+     "saldo": 46
     },
     {
      "cod": 12959,
@@ -2226,7 +2226,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 29
+     "saldo": 25
     },
     {
      "cod": 13799,
@@ -3599,7 +3599,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 271
+       "saldo": 269
       },
       {
        "cod": 2658,
@@ -4409,7 +4409,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 64,
+     "saldo": 62,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4417,10 +4417,10 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 16,
+      "AZUL": 15,
       "ROSA": 16,
       "ROXO": 15,
-      "VERDE-ÁGUA": 17
+      "VERDE-ÁGUA": 16
      }
     },
     {
@@ -4472,9 +4472,9 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AMARELO": 16,
+      "AMARELO": 15,
       "AZUL": 16,
-      "VERMELHO": 16
+      "VERMELHO": 15
      }
     },
     {
@@ -5038,7 +5038,7 @@
      "marca": "CREDEAL",
      "preco": 23.9,
      "img": "produtos/11438.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 12439,
@@ -5499,7 +5499,7 @@
      "marca": "TILIBRA",
      "preco": 21.9,
      "img": "produtos/6564.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 10466,
@@ -5539,7 +5539,7 @@
      "marca": "CREDEAL",
      "preco": 28.9,
      "img": "produtos/8401.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 7773,
@@ -6939,21 +6939,21 @@
      "marca": "SAO DOMING",
      "preco": 9.9,
      "img": "produtos/11342.jpg",
-     "saldo": 184,
+     "saldo": 181,
      "cores": [
       {
        "cod": 11342,
        "cor": "Azul",
        "nome": "CADERNO CD 48F S/D (AZUL)",
        "img": "produtos/11342.jpg",
-       "saldo": 184
+       "saldo": 181
       },
       {
        "cod": 11343,
        "cor": "Verde",
        "nome": "CADERNO CD 48F S/D (VERDE)",
        "img": "produtos/11343.jpg",
-       "saldo": 139
+       "saldo": 136
       },
       {
        "cod": 11344,
@@ -7573,7 +7573,7 @@
        "cor": "Azul",
        "nome": "CADERNO CD 96F TILIBRA (AZUL)",
        "img": "produtos/398.jpg",
-       "saldo": 36
+       "saldo": 33
       },
       {
        "cod": 399,
@@ -7597,14 +7597,14 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/14760.jpg",
-     "saldo": 100,
+     "saldo": 97,
      "cores": [
       {
        "cod": 14760,
        "cor": "Laranja",
        "nome": "CADERNO CD 96F TILIBRA (LARANJA)",
        "img": "produtos/14760.jpg",
-       "saldo": 100
+       "saldo": 97
       },
       {
        "cod": 14761,
@@ -8035,7 +8035,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/8884.jpg",
-     "saldo": 19
+     "saldo": 17
     },
     {
      "cod": 14769,
@@ -8518,14 +8518,14 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 75
+       "saldo": 74
       },
       {
        "cod": 12455,
        "cor": "Laranja",
        "nome": "CADERNO PEQ. CD 96F (LARANJA)",
        "img": "produtos/12455.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 9321,
@@ -9630,7 +9630,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/7903.jpg",
-     "saldo": 240
+     "saldo": 238
     },
     {
      "cod": 3318,
@@ -10054,7 +10054,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 125
+     "saldo": 124
     },
     {
      "cod": 1313,
@@ -10410,7 +10410,7 @@
      "marca": "MAXCRIL",
      "preco": 2.9,
      "img": "produtos/7498.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 14593,
@@ -10763,7 +10763,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6632.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 983,
@@ -11715,7 +11715,7 @@
        "cor": "Preto",
        "nome": "COLORSETE A4 C/50 PRETO",
        "img": "produtos/2058.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 2059,
@@ -11743,7 +11743,7 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE A4 C/50 VERDE CLARO",
        "img": "produtos/2064.jpg",
-       "saldo": 57
+       "saldo": 56
       },
       {
        "cod": 2065,
@@ -11781,7 +11781,7 @@
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 118
+       "saldo": 116
       },
       {
        "cod": 2039,
@@ -11844,7 +11844,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 113
+       "saldo": 112
       }
      ]
     },
@@ -11875,7 +11875,7 @@
        "cor": "Azul Escuro",
        "nome": "CREPOM AZUL ESCURO",
        "img": "produtos/2070.jpg",
-       "saldo": 55
+       "saldo": 54
       },
       {
        "cod": 4786,
@@ -12107,7 +12107,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 711
+     "saldo": 710
     },
     {
      "cod": 5082,
@@ -12131,7 +12131,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 21
+     "saldo": 19
     },
     {
      "cod": 2016,
@@ -12273,7 +12273,7 @@
      "marca": "GRIFFE",
      "preco": 13.9,
      "img": "produtos/6667.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 11515,
@@ -12709,7 +12709,7 @@
      "marca": "ACRILEX",
      "preco": 25.9,
      "img": "produtos/6241.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 12239,
@@ -12765,7 +12765,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 232
+     "saldo": 231
     },
     {
      "cod": 11627,
@@ -12781,7 +12781,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/3018.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 11626,
@@ -12847,7 +12847,7 @@
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 41
+       "saldo": 40
       },
       {
        "cod": 12686,
@@ -12889,7 +12889,7 @@
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 57
+       "saldo": 56
       },
       {
        "cod": 3026,
@@ -13078,7 +13078,7 @@
      "marca": "",
      "preco": 3.2,
      "img": "produtos/10994.jpg",
-     "saldo": 189
+     "saldo": 187
     },
     {
      "cod": 10995,
@@ -13118,7 +13118,7 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/2364.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 10737,
@@ -13174,7 +13174,7 @@
      "marca": "TIGRE",
      "preco": 3.9,
      "img": "produtos/6046.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 2673,
@@ -13358,7 +13358,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/2954.jpg",
-     "saldo": 193
+     "saldo": 191
     },
     {
      "cod": 2955,
@@ -14528,7 +14528,7 @@
      "marca": "MAXCRIL",
      "preco": 1.6,
      "img": "produtos/9254.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 1117,
@@ -16825,7 +16825,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 407
+     "saldo": 406
     },
     {
      "cod": 6721,
@@ -16865,7 +16865,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14596.jpg",
-     "saldo": 71,
+     "saldo": 70,
      "controle": [
       "AZUL",
       "ROSA",
@@ -16874,7 +16874,7 @@
      ],
      "saldo_cor": {
       "AZUL": 18,
-      "ROSA": 17,
+      "ROSA": 16,
       "ROXO": 18,
       "VERDE": 18
      }
@@ -16885,7 +16885,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14587.jpg",
-     "saldo": 235,
+     "saldo": 234,
      "controle": [
       "AZUL",
       "ROSA",
@@ -16893,7 +16893,7 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AZUL": 80,
+      "AZUL": 79,
       "ROSA": 78,
       "ROXO": 38,
       "VERDE": 39
@@ -17109,7 +17109,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 85
+       "saldo": 83
       },
       {
        "cod": 1235,
@@ -17165,14 +17165,14 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 196
+       "saldo": 195
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 329
+       "saldo": 328
       },
       {
        "cod": 1244,
@@ -18190,14 +18190,6 @@
      "saldo": 1
     },
     {
-     "cod": 13349,
-     "nome": "ESTOJO LUXCEL BOX-BARBIE PINK (ET49934BB-PK)",
-     "marca": "LUXCEL",
-     "preco": 102.9,
-     "img": "produtos/13349.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13350,
      "nome": "ESTOJO LUXCEL BOX-BARBIE PRETO (ET49934BB-PT)",
      "marca": "LUXCEL",
@@ -18279,27 +18271,11 @@
     },
     {
      "cod": 13090,
-     "nome": "ESTOJO MT BOX TRANSPARENTE",
+     "nome": "ESTOJO MT BOX TRANSPARENTE-NUDE",
      "marca": "MT KIDS",
      "preco": 59.9,
      "img": "produtos/13090.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 13090,
-       "cor": "Nude",
-       "nome": "ESTOJO MT BOX TRANSPARENTE-NUDE",
-       "img": "produtos/13090.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 10878,
-       "cor": "Rosa",
-       "nome": "ESTOJO MT BOX TRANSPARENTE-ROSA",
-       "img": "produtos/10878.jpg",
-       "saldo": 1
-      }
-     ]
+     "saldo": 1
     },
     {
      "cod": 8021,
@@ -19555,7 +19531,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14599.jpg",
-     "saldo": 60,
+     "saldo": 59,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -19569,7 +19545,7 @@
       "AZUL": 10,
       "LARANJA": 10,
       "ROSA": 10,
-      "ROXO": 10,
+      "ROXO": 9,
       "VERDE": 10
      }
     },
@@ -22243,7 +22219,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/6922.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 11814,
@@ -22267,7 +22243,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 127
+     "saldo": 103
     },
     {
      "cod": 958,
@@ -23161,7 +23137,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 337
+     "saldo": 336
     },
     {
      "cod": 4146,
@@ -26515,7 +26491,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2366
+     "saldo": 2361
     },
     {
      "cod": 6821,
@@ -26523,7 +26499,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 392
+     "saldo": 387
     },
     {
      "cod": 6855,
@@ -26975,7 +26951,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2906.jpg",
-     "saldo": 115
+     "saldo": 113
     },
     {
      "cod": 2895,
@@ -27015,7 +26991,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 910
+     "saldo": 909
     },
     {
      "cod": 2900,
@@ -31217,7 +31193,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14608.jpg",
-     "saldo": 42,
+     "saldo": 41,
      "controle": [
       "AZUL",
       "LILAS",
@@ -31226,7 +31202,7 @@
      ],
      "saldo_cor": {
       "AZUL": 11,
-      "LILAS": 6,
+      "LILAS": 5,
       "ROSA": 7,
       "VERDE": 18
      }
@@ -31775,14 +31751,14 @@
        "cor": "Azul",
        "nome": "MARCA TEXTO MASTERPRINT-AZUL",
        "img": "produtos/6051.jpg",
-       "saldo": 65
+       "saldo": 64
       },
       {
        "cod": 6052,
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 115
+       "saldo": 114
       },
       {
        "cod": 6053,
@@ -31806,7 +31782,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14526.jpg",
-     "saldo": 70,
+     "saldo": 68,
      "controle": [
       "AZUL",
       "LILAS",
@@ -31816,8 +31792,8 @@
      "saldo_cor": {
       "AZUL": 17,
       "LILAS": 17,
-      "ROSA": 17,
-      "VERDE": 18
+      "ROSA": 16,
+      "VERDE": 17
      }
     },
     {
