@@ -2218,7 +2218,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1004
+     "saldo": 904
     },
     {
      "cod": 1670,
@@ -4345,7 +4345,7 @@
      "marca": "MERCUR",
      "preco": 0.6,
      "img": "produtos/293.jpg",
-     "saldo": 414
+     "saldo": 314
     },
     {
      "cod": 3225,
@@ -9818,7 +9818,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4044
+     "saldo": 4031
     },
     {
      "cod": 14619,
@@ -23128,7 +23128,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 327
+     "saldo": 325
     },
     {
      "cod": 4146,
@@ -23144,7 +23144,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 298
+     "saldo": 296
     },
     {
      "cod": 3887,
@@ -23452,7 +23452,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11826.jpg",
-     "saldo": 15
+     "saldo": 17
     },
     {
      "cod": 11827,
@@ -24050,7 +24050,7 @@
      "marca": "SANPACK",
      "preco": 72.9,
      "img": "produtos/1374.jpg",
-     "saldo": 18
+     "saldo": 16
     },
     {
      "cod": 1375,
@@ -26204,7 +26204,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 232
+     "saldo": 222
     },
     {
      "cod": 2826,
@@ -26449,7 +26449,7 @@
        "cor": "Rosa",
        "nome": "SACOLA PH 30X40 C/50-ROSA",
        "img": "produtos/4326.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 2858,
