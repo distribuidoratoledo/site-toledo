@@ -104,28 +104,28 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1316,
+     "saldo": 1314,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1316
+       "saldo": 1314
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1953
+       "saldo": 1952
       },
       {
        "cod": 554,
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 239
+       "saldo": 234
       }
      ]
     },
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 790,
+     "saldo": 789,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 790
+       "saldo": 789
       },
       {
        "cod": 556,
@@ -2994,7 +2994,7 @@
      "marca": "LEO E LEO",
      "preco": 6.9,
      "img": "produtos/7530.jpg",
-     "saldo": 127
+     "saldo": 126
     },
     {
      "cod": 5279,
@@ -8634,7 +8634,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 3249,
@@ -11732,7 +11732,7 @@
        "cor": "Azul Royal / Azul Escuro",
        "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
        "img": "produtos/2054.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 2055,
@@ -12200,7 +12200,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 932
+     "saldo": 929
     },
     {
      "cod": 2007,
@@ -12246,7 +12246,7 @@
      "marca": "CHAMEX",
      "preco": 11.9,
      "img": "produtos/2012.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 2017,
@@ -15122,7 +15122,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 136
+     "saldo": 135
     },
     {
      "cod": 7644,
@@ -16726,7 +16726,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 87
+     "saldo": 85
     },
     {
      "cod": 13124,
@@ -16750,7 +16750,7 @@
      "marca": "TRAMONTINA",
      "preco": 24.9,
      "img": "produtos/2959.jpg",
-     "saldo": 55
+     "saldo": 52
     },
     {
      "cod": 6635,
@@ -16966,7 +16966,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14588.jpg",
-     "saldo": 236
+     "saldo": 235
     }
    ]
   },
@@ -17315,7 +17315,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 215
+     "saldo": 213
     },
     {
      "cod": 6999,
@@ -19914,14 +19914,6 @@
      "preco": 1.8,
      "img": "produtos/14662.jpg",
      "saldo": 186
-    },
-    {
-     "cod": 13556,
-     "nome": "LIVRO INFANTIL COLORIR GIGANTE-ARCA DE NOE",
-     "marca": "VALE DAS L",
-     "preco": 7.9,
-     "img": "produtos/13556.jpg",
-     "saldo": 4
     },
     {
      "cod": 13557,
@@ -23507,7 +23499,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2516,
@@ -25701,7 +25693,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 79
+     "saldo": 77
     },
     {
      "cod": 10061,
@@ -25765,7 +25757,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2729.jpg",
-     "saldo": 203
+     "saldo": 201
     },
     {
      "cod": 2730,
@@ -25821,7 +25813,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 143
+     "saldo": 142
     },
     {
      "cod": 8100,
@@ -26275,7 +26267,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 430
+     "saldo": 415
     },
     {
      "cod": 2840,
@@ -26568,7 +26560,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 182
+     "saldo": 179
     }
    ]
   },
@@ -26630,7 +26622,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 180
+     "saldo": 162
     },
     {
      "cod": 13857,
@@ -26638,7 +26630,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 134
+     "saldo": 122
     },
     {
      "cod": 13856,
@@ -26646,7 +26638,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 173
+     "saldo": 161
     },
     {
      "cod": 13859,
@@ -26678,7 +26670,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 251,
@@ -26710,7 +26702,7 @@
      "marca": "HIPERROLL",
      "preco": 21.9,
      "img": "produtos/13855.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 253,
@@ -26980,7 +26972,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2305
+     "saldo": 2304
     },
     {
      "cod": 2896,
@@ -27012,7 +27004,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 895
+     "saldo": 894
     },
     {
      "cod": 2900,
@@ -27122,7 +27114,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8513
+     "saldo": 7973
     },
     {
      "cod": 236,
@@ -27224,7 +27216,7 @@
      "marca": "",
      "preco": 119.9,
      "img": "produtos/1282.jpg",
-     "saldo": 19
+     "saldo": 17
     }
    ]
   },
@@ -28986,7 +28978,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 433
+     "saldo": 431
     },
     {
      "cod": 6323,
