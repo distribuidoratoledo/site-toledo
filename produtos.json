@@ -2649,7 +2649,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 129
+     "saldo": 123
     },
     {
      "cod": 6355,
@@ -3283,7 +3283,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 122
+       "saldo": 119
       },
       {
        "cod": 7532,
@@ -3682,7 +3682,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 553
+     "saldo": 552
     },
     {
      "cod": 1509,
@@ -3698,7 +3698,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 12247,
@@ -3810,7 +3810,7 @@
      "marca": "COMPACTOR",
      "preco": 8.9,
      "img": "produtos/14371.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 14372,
@@ -3962,7 +3962,7 @@
      "marca": "MOLIN",
      "preco": 4.9,
      "img": "produtos/14689.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -3972,7 +3972,7 @@
      "saldo_cor": {
       "AMARELO": 6,
       "AZUL": 6,
-      "ROSA": 6,
+      "ROSA": 5,
       "VERDE-ÁGUA": 6
      }
     },
@@ -4392,7 +4392,7 @@
      "marca": "MERCUR",
      "preco": 0.6,
      "img": "produtos/293.jpg",
-     "saldo": 314
+     "saldo": 309
     },
     {
      "cod": 3225,
@@ -5235,7 +5235,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 12910,
@@ -6997,7 +6997,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO CD 48F S/D (VERMELHO)",
        "img": "produtos/11344.jpg",
-       "saldo": 92
+       "saldo": 91
       }
      ]
     },
@@ -8160,7 +8160,7 @@
      "marca": "TILIBRA",
      "preco": 17.9,
      "img": "produtos/11488.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 5853,
@@ -8895,7 +8895,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/781.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 783,
@@ -8983,7 +8983,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/782.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 787,
@@ -9007,7 +9007,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/797.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 14697,
@@ -10067,7 +10067,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 11807,
@@ -10083,7 +10083,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 93
+     "saldo": 92
     },
     {
      "cod": 1313,
@@ -10091,7 +10091,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 780
+     "saldo": 680
     },
     {
      "cod": 4389,
@@ -10824,7 +10824,7 @@
      "marca": "JOCAR",
      "preco": 3.9,
      "img": "produtos/7549.jpg",
-     "saldo": 107
+     "saldo": 105
     },
     {
      "cod": 4212,
@@ -10964,7 +10964,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1536.jpg",
-     "saldo": 231
+     "saldo": 228
     },
     {
      "cod": 1537,
@@ -11362,7 +11362,7 @@
      "marca": "GRIFFE",
      "preco": 19.9,
      "img": "produtos/7756.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 3589,
@@ -12144,7 +12144,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 700
+     "saldo": 698
     },
     {
      "cod": 5082,
@@ -16694,7 +16694,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 130
+     "saldo": 128
     },
     {
      "cod": 1144,
@@ -21121,7 +21121,7 @@
      "marca": "REFLEX",
      "preco": 1.5,
      "img": "produtos/988.jpg",
-     "saldo": 29
+     "saldo": 9
     }
    ]
   },
@@ -21175,7 +21175,7 @@
      "marca": "GRIFFE",
      "preco": 26.9,
      "img": "produtos/1260.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 5041,
@@ -22097,7 +22097,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5973
+     "saldo": 5972
     },
     {
      "cod": 944,
@@ -26488,7 +26488,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2345
+     "saldo": 2343
     },
     {
      "cod": 6821,
@@ -26496,7 +26496,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 337
+     "saldo": 327
     },
     {
      "cod": 6855,
@@ -26504,7 +26504,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 231
+     "saldo": 221
     },
     {
      "cod": 2875,
@@ -26512,7 +26512,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 609
+     "saldo": 599
     },
     {
      "cod": 6825,
@@ -28986,7 +28986,7 @@
      "marca": "PRIMUS",
      "preco": 59.9,
      "img": "produtos/1207.jpg",
-     "saldo": 15
+     "saldo": 14
     }
    ]
   },
@@ -31755,7 +31755,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14526.jpg",
-     "saldo": 68,
+     "saldo": 67,
      "controle": [
       "AZUL",
       "LILAS",
@@ -31764,7 +31764,7 @@
      ],
      "saldo_cor": {
       "AZUL": 17,
-      "LILAS": 17,
+      "LILAS": 16,
       "ROSA": 16,
       "VERDE": 17
      }
