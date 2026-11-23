@@ -1920,7 +1920,7 @@
      "marca": "FABER",
      "preco": 18.9,
      "img": "produtos/1646.jpg",
-     "saldo": 360
+     "saldo": 359
     },
     {
      "cod": 12914,
@@ -2649,7 +2649,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 139
+     "saldo": 129
     },
     {
      "cod": 6355,
@@ -3144,7 +3144,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 47
+       "saldo": 45
       },
       {
        "cod": 3604,
@@ -3200,21 +3200,21 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg",
-     "saldo": 65,
+     "saldo": 64,
      "cores": [
       {
        "cod": 2338,
        "cor": "Azul",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
        "img": "produtos/2338.jpg",
-       "saldo": 65
+       "saldo": 64
       },
       {
        "cod": 2339,
        "cor": "Preto",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-PRETO",
        "img": "produtos/2339.jpg",
-       "saldo": 210
+       "saldo": 208
       },
       {
        "cod": 9972,
@@ -4252,7 +4252,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14520.jpg",
-     "saldo": 177,
+     "saldo": 176,
      "controle": [
       "AZUL",
       "LILAS",
@@ -8187,14 +8187,6 @@
      "saldo": 8
     },
     {
-     "cod": 12897,
-     "nome": "CADERNO DESENHO CD 80F-POM POM",
-     "marca": "CADERSIL",
-     "preco": 9.9,
-     "img": "produtos/12897.jpg",
-     "saldo": 3
-    },
-    {
      "cod": 7831,
      "nome": "CADERNO DESENHO CD 80F-PRINCESAS",
      "marca": "TILIBRA",
@@ -8634,7 +8626,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 3249,
@@ -9731,7 +9723,7 @@
      "marca": "APLICOLA",
      "preco": 2.9,
      "img": "produtos/14419.jpg",
-     "saldo": 1918
+     "saldo": 1917
     },
     {
      "cod": 7904,
@@ -9973,7 +9965,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 346
+     "saldo": 345
     },
     {
      "cod": 1294,
@@ -10099,7 +10091,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 781
+     "saldo": 780
     },
     {
      "cod": 4389,
@@ -10553,7 +10545,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 447
+     "saldo": 446
     },
     {
      "cod": 10030,
@@ -12278,7 +12270,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 11784,
@@ -12486,7 +12478,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2146.jpg",
-     "saldo": 457
+     "saldo": 456
     },
     {
      "cod": 2147,
@@ -16966,7 +16958,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14588.jpg",
-     "saldo": 235
+     "saldo": 234
     }
    ]
   },
@@ -17088,7 +17080,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 170
+       "saldo": 169
       }
      ]
     },
@@ -19803,7 +19795,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 316
+     "saldo": 315
     }
    ]
   },
@@ -23231,7 +23223,7 @@
      "marca": "TOTAPLAST",
      "preco": 14.9,
      "img": "produtos/4734.jpg",
-     "saldo": 77
+     "saldo": 75
     },
     {
      "cod": 4733,
@@ -24796,14 +24788,6 @@
      "saldo": 10
     },
     {
-     "cod": 1344,
-     "nome": "FORMA ALUM D5 (170X215) 1.100ML C/100-MELLO",
-     "marca": "MELLO",
-     "preco": 139.9,
-     "img": "produtos/1344.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 1345,
      "nome": "FORMA ALUM D5 (170X224) 1.100ML C/100-BOREDA",
      "marca": "BOREDA",
@@ -25669,7 +25653,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2722.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 2723,
@@ -26670,7 +26654,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 118
+     "saldo": 116
     },
     {
      "cod": 13853,
@@ -27020,7 +27004,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 186
+     "saldo": 185
     },
     {
      "cod": 2902,
@@ -27558,7 +27542,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 23
+     "saldo": 20
     },
     {
      "cod": 6860,
@@ -27628,7 +27612,7 @@
      "marca": "SAO ROQUE",
      "preco": 16.9,
      "img": "produtos/98.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 99,
@@ -28174,7 +28158,7 @@
        "cor": "Prata",
        "nome": "LAÇO PRONTO (M)-PRATA",
        "img": "produtos/11931.jpg",
-       "saldo": 224
+       "saldo": 214
       },
       {
        "cod": 11932,
@@ -28588,7 +28572,7 @@
      "marca": "CRISTINA",
      "preco": 8.9,
      "img": "produtos/11997.jpg",
-     "saldo": 13
+     "saldo": 11
     },
     {
      "cod": 13582,
@@ -28660,7 +28644,7 @@
      "marca": "CRISTINA",
      "preco": 7.9,
      "img": "produtos/13576.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 11990,
@@ -28922,7 +28906,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 1198,
@@ -31499,28 +31483,28 @@
      "marca": "FABER",
      "preco": 12.9,
      "img": "produtos/1847.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 1847,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO (GEL) FABER-AMARELO",
        "img": "produtos/1847.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 1848,
        "cor": "Rosa",
        "nome": "MARCA TEXTO (GEL) FABER-ROSA",
        "img": "produtos/1848.jpg",
-       "saldo": 66
+       "saldo": 65
       },
       {
        "cod": 6899,
        "cor": "Verde",
        "nome": "MARCA TEXTO (GEL) FABER-VERDE",
        "img": "produtos/6899.jpg",
-       "saldo": 20
+       "saldo": 19
       }
      ]
     },
