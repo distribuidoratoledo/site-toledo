@@ -734,6 +734,14 @@
      "saldo": 1
     },
     {
+     "cod": 14399,
+     "nome": "CANETA GEL COMPACTOR-DOURADA",
+     "marca": "COMPACOTOR",
+     "preco": 6.9,
+     "img": "produtos/14399.jpg",
+     "saldo": 72
+    },
+    {
      "cod": 14465,
      "nome": "CANETA GEL MOLIN",
      "marca": "MOLIN",
@@ -957,12 +965,28 @@
      "saldo": 3
     },
     {
-     "cod": 5598,
-     "nome": "CANETA GEL/CONVITE COMPACTOR-PRATA",
+     "cod": 14400,
+     "nome": "CANETA GEL/CONVITE COMPACTOR",
      "marca": "COMPACOTOR",
      "preco": 6.9,
-     "img": "produtos/5598.jpg",
-     "saldo": 72
+     "img": "produtos/14400.jpg",
+     "saldo": 72,
+     "cores": [
+      {
+       "cod": 14400,
+       "cor": "Branca",
+       "nome": "CANETA GEL/CONVITE COMPACTOR-BRANCA",
+       "img": "produtos/14400.jpg",
+       "saldo": 72
+      },
+      {
+       "cod": 5598,
+       "cor": "Prata",
+       "nome": "CANETA GEL/CONVITE COMPACTOR-PRATA",
+       "img": "produtos/5598.jpg",
+       "saldo": 72
+      }
+     ]
     },
     {
      "cod": 572,
@@ -3322,14 +3346,14 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11855.jpg",
-     "saldo": 65,
+     "saldo": 64,
      "cores": [
       {
        "cod": 11855,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR. BRW-PRETO",
        "img": "produtos/11855.jpg",
-       "saldo": 65
+       "saldo": 64
       },
       {
        "cod": 11856,
@@ -6150,7 +6174,7 @@
      "marca": "CREDEAL",
      "preco": 27.9,
      "img": "produtos/11450.jpg",
-     "saldo": 18
+     "saldo": 12
     },
     {
      "cod": 13164,
@@ -7276,7 +7300,7 @@
      "marca": "SD",
      "preco": 31.9,
      "img": "produtos/12981.jpg",
-     "saldo": 6
+     "saldo": 3
     },
     {
      "cod": 10490,
@@ -7476,7 +7500,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/8107.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 13170,
@@ -7484,7 +7508,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/13170.jpg",
-     "saldo": 26
+     "saldo": 24
     },
     {
      "cod": 14751,
@@ -9731,7 +9755,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 299
+     "saldo": 296
     },
     {
      "cod": 11926,
@@ -9841,7 +9865,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4010
+     "saldo": 3984
     },
     {
      "cod": 14619,
@@ -12128,7 +12152,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 702
+     "saldo": 700
     },
     {
      "cod": 5082,
@@ -12136,7 +12160,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 4502,
@@ -12278,7 +12302,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 234
+     "saldo": 232
     },
     {
      "cod": 4344,
@@ -15318,21 +15342,21 @@
      "marca": "POLYCART",
      "preco": 3.9,
      "img": "produtos/2183.jpg",
-     "saldo": 54,
+     "saldo": 44,
      "cores": [
       {
        "cod": 2183,
        "cor": "Amarelo",
        "nome": "PASTA ABA ELAST.PAPEL-AMARELO",
        "img": "produtos/2183.jpg",
-       "saldo": 54
+       "saldo": 44
       },
       {
        "cod": 2184,
        "cor": "Azul",
        "nome": "PASTA ABA ELAST.PAPEL-AZUL",
        "img": "produtos/2184.jpg",
-       "saldo": 82
+       "saldo": 77
       },
       {
        "cod": 2185,
@@ -15367,7 +15391,7 @@
        "cor": "Verde",
        "nome": "PASTA ABA ELAST.PAPEL-VERDE",
        "img": "produtos/2190.jpg",
-       "saldo": 62
+       "saldo": 57
       },
       {
        "cod": 2191,
@@ -16341,7 +16365,7 @@
      "marca": "POLIBRAS",
      "preco": 29.9,
      "img": "produtos/2264.jpg",
-     "saldo": 28
+     "saldo": 26
     },
     {
      "cod": 2265,
@@ -18385,7 +18409,7 @@
      "marca": "XERYUS",
      "preco": 75.9,
      "img": "produtos/13313.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 13307,
@@ -18409,7 +18433,7 @@
      "marca": "XERYUS",
      "preco": 65.9,
      "img": "produtos/13308.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13327,
@@ -18987,21 +19011,21 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 208,
+     "saldo": 206,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 208
+       "saldo": 206
       },
       {
        "cod": 661,
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 251
+       "saldo": 249
       }
      ]
     },
@@ -19763,7 +19787,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 14261,
@@ -22051,7 +22075,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 17
+     "saldo": 16
     }
    ]
   },
@@ -22113,7 +22137,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1869
+     "saldo": 1819
     },
     {
      "cod": 14414,
@@ -22217,7 +22241,7 @@
      "marca": "COPOPLAST",
      "preco": 7.9,
      "img": "produtos/960.jpg",
-     "saldo": 47
+     "saldo": 44
     },
     {
      "cod": 12557,
@@ -22511,7 +22535,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 610
+     "saldo": 607
     },
     {
      "cod": 4617,
@@ -22527,7 +22551,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 341
+     "saldo": 337
     },
     {
      "cod": 177,
@@ -22559,7 +22583,7 @@
      "marca": "COPOPLAST",
      "preco": 25.9,
      "img": "produtos/180.jpg",
-     "saldo": 31
+     "saldo": 28
     },
     {
      "cod": 181,
@@ -22967,7 +22991,7 @@
      "marca": "",
      "preco": 46.9,
      "img": "produtos/7139.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 3991,
@@ -23031,7 +23055,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 262
+     "saldo": 258
     },
     {
      "cod": 1569,
@@ -23389,7 +23413,7 @@
      "marca": "PRAFESTA",
      "preco": 31.9,
      "img": "produtos/14191.jpg",
-     "saldo": 37
+     "saldo": 33
     }
    ]
   },
@@ -23953,7 +23977,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 50
+     "saldo": 48
     },
     {
      "cod": 7045,
@@ -24477,7 +24501,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 15
+     "saldo": 12
     },
     {
      "cod": 6986,
@@ -24517,7 +24541,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/6861.jpg",
-     "saldo": 49
+     "saldo": 37
     },
     {
      "cod": 10002,
@@ -24571,7 +24595,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 285
+     "saldo": 273
     },
     {
      "cod": 3951,
@@ -25007,7 +25031,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 233
+     "saldo": 232
     },
     {
      "cod": 3932,
@@ -25307,7 +25331,7 @@
      "marca": "DECOPLAST",
      "preco": 72.9,
      "img": "produtos/1450.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 1452,
@@ -25315,7 +25339,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 14678,
@@ -26536,7 +26560,7 @@
      "marca": "",
      "preco": 42.9,
      "img": "produtos/3964.jpg",
-     "saldo": 43
+     "saldo": 40
     },
     {
      "cod": 2877,
@@ -26726,7 +26750,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 67
+     "saldo": 59
     },
     {
      "cod": 4427,
@@ -26790,7 +26814,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 2102
+     "saldo": 2100
     },
     {
      "cod": 5547,
@@ -26964,7 +26988,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 157
+     "saldo": 155
     },
     {
      "cod": 4314,
@@ -27098,7 +27122,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8543
+     "saldo": 8513
     },
     {
      "cod": 236,
@@ -29434,7 +29458,7 @@
      "marca": "MAMUTH",
      "preco": 35.9,
      "img": "produtos/1493.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 1494,
@@ -29696,7 +29720,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 261
+     "saldo": 260
     },
     {
      "cod": 7275,
@@ -29758,7 +29782,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 111
+     "saldo": 110
     },
     {
      "cod": 9017,
@@ -29830,7 +29854,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1348
+     "saldo": 1338
     },
     {
      "cod": 2157,
