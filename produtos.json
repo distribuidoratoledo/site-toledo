@@ -2056,7 +2056,7 @@
      "marca": "FABER",
      "preco": 49.9,
      "img": "produtos/14807.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 1657,
@@ -2218,7 +2218,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 1005
+     "saldo": 1004
     },
     {
      "cod": 1670,
@@ -4165,7 +4165,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1970
+     "saldo": 1969
     },
     {
      "cod": 4341,
@@ -9134,7 +9134,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 14110,
@@ -14152,7 +14152,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/14802.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 13372,
@@ -14240,7 +14240,7 @@
      "marca": "PIM/REFL",
      "preco": 6.9,
      "img": "produtos/13743.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 9783,
@@ -14256,7 +14256,7 @@
      "marca": "PIM/REFL",
      "preco": 6.9,
      "img": "produtos/14668.jpg",
-     "saldo": 5
+     "saldo": 4
     }
    ]
   },
@@ -18964,14 +18964,14 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 209,
+     "saldo": 208,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 209
+       "saldo": 208
       },
       {
        "cod": 661,
@@ -22984,7 +22984,7 @@
      "marca": "",
      "preco": 136.9,
      "img": "produtos/1010.jpg",
-     "saldo": 2
+     "saldo": 6
     },
     {
      "cod": 5987,
@@ -23596,7 +23596,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 2524,
@@ -24430,7 +24430,7 @@
      "marca": "SANTECK",
      "preco": 6.9,
      "img": "produtos/7071.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 9057,
@@ -24738,7 +24738,7 @@
      "marca": "PITPRATOS",
      "preco": 3.9,
      "img": "produtos/187.jpg",
-     "saldo": 48
+     "saldo": 168
     },
     {
      "cod": 188,
@@ -25806,7 +25806,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 48
+     "saldo": 42
     },
     {
      "cod": 2737,
@@ -26419,7 +26419,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 30X40 C/50-PRETA",
        "img": "produtos/2857.jpg",
-       "saldo": 7
+       "saldo": 5
       },
       {
        "cod": 4326,
@@ -26464,7 +26464,7 @@
        "cor": "Rosa Bebe",
        "nome": "SACOLA PH 40X50 C/50-ROSA BEBE",
        "img": "produtos/14516.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -26664,15 +26664,7 @@
      "marca": "HIPERROLL",
      "preco": 21.9,
      "img": "produtos/13855.jpg",
-     "saldo": 49
-    },
-    {
-     "cod": 6968,
-     "nome": "BOBINA PICOT. 30X40 C/400-HIP/DIF",
-     "marca": "DIFFATTO",
-     "preco": 28.9,
-     "img": "produtos/6968.jpg",
-     "saldo": 1
+     "saldo": 50
     },
     {
      "cod": 253,
@@ -26696,7 +26688,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 270
+     "saldo": 256
     },
     {
      "cod": 6966,
@@ -26720,7 +26712,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 87
+     "saldo": 75
     },
     {
      "cod": 6857,
@@ -29690,7 +29682,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 285
+     "saldo": 284
     },
     {
      "cod": 7275,
@@ -30670,7 +30662,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10614.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 10647,
