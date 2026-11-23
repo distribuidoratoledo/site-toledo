@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1314,
+     "saldo": 1319,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1314
+       "saldo": 1319
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1952
+       "saldo": 1953
       },
       {
        "cod": 554,
@@ -1311,7 +1311,7 @@
      "marca": "MOLIN",
      "preco": 7.9,
      "img": "produtos/14482.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 14471,
@@ -3674,7 +3674,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1503.jpg",
-     "saldo": 454
+     "saldo": 455
     },
     {
      "cod": 4463,
@@ -3738,7 +3738,7 @@
      "marca": "FABER",
      "preco": 8.9,
      "img": "produtos/14442.jpg",
-     "saldo": 19
+     "saldo": 20
     },
     {
      "cod": 7037,
@@ -4260,7 +4260,7 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 49,
+      "AZUL": 48,
       "LILAS": 39,
       "ROSA": 40,
       "VERDE-ÁGUA": 49
@@ -6394,7 +6394,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/351.jpg",
-     "saldo": 3
+     "saldo": 4
     },
     {
      "cod": 13098,
@@ -9771,7 +9771,7 @@
      "marca": "REND/LEO",
      "preco": 15.9,
      "img": "produtos/10944.jpg",
-     "saldo": 2
+     "saldo": 3
     },
     {
      "cod": 848,
@@ -9865,7 +9865,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3958
+     "saldo": 3960
     },
     {
      "cod": 14619,
@@ -10107,7 +10107,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 685
+     "saldo": 686
     },
     {
      "cod": 1317,
@@ -11266,7 +11266,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/1983.jpg",
-     "saldo": 104
+     "saldo": 105
     },
     {
      "cod": 2601,
@@ -12935,7 +12935,7 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 52
+       "saldo": 53
       },
       {
        "cod": 3025,
@@ -13115,7 +13115,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/10997.jpg",
-     "saldo": 183
+     "saldo": 184
     },
     {
      "cod": 10998,
@@ -17053,7 +17053,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 226
+       "saldo": 228
       },
       {
        "cod": 1221,
@@ -17184,14 +17184,14 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 166
+       "saldo": 170
       },
       {
        "cod": 1238,
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 219
+       "saldo": 220
       },
       {
        "cod": 1239,
@@ -18202,14 +18202,6 @@
      "preco": 79.9,
      "img": "produtos/12867.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 12423,
-     "nome": "ESTOJO LUXCEL 3F-STITCH ROSA (ET50085SC-RA)",
-     "marca": "LUXCEL",
-     "preco": 74.9,
-     "img": "produtos/12423.jpg",
-     "saldo": 1
     },
     {
      "cod": 12868,
@@ -21765,7 +21757,7 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4337.jpg",
-     "saldo": 40
+     "saldo": 39
     }
    ]
   },
@@ -25885,7 +25877,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/2768.jpg",
-     "saldo": 315
+     "saldo": 275
     },
     {
      "cod": 2769,
@@ -26219,7 +26211,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 19
+     "saldo": 119
     },
     {
      "cod": 2826,
@@ -26742,7 +26734,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 59
+     "saldo": 47
     },
     {
      "cod": 4427,
@@ -26750,7 +26742,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 66
+     "saldo": 57
     },
     {
      "cod": 6857,
@@ -26758,7 +26750,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5466
+     "saldo": 5464
     },
     {
      "cod": 11788,
@@ -27036,7 +27028,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 73
+     "saldo": 72
     }
    ]
   },
@@ -27326,7 +27318,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 610
+     "saldo": 585
     },
     {
      "cod": 4285,
@@ -27334,7 +27326,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 826
+     "saldo": 801
     },
     {
      "cod": 4936,
@@ -30811,7 +30803,7 @@
      "marca": "FABER",
      "preco": 11.9,
      "img": "produtos/53.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 13029,
