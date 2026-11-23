@@ -104,28 +104,28 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1384,
+     "saldo": 1383,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1384
+       "saldo": 1383
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1957
+       "saldo": 1956
       },
       {
        "cod": 554,
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 240
+       "saldo": 239
       }
      ]
     },
@@ -8508,7 +8508,7 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 73
+       "saldo": 72
       },
       {
        "cod": 12455,
@@ -9540,7 +9540,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 846,
@@ -10044,7 +10044,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 107
+     "saldo": 106
     },
     {
      "cod": 1313,
@@ -11866,7 +11866,7 @@
        "cor": "Azul Claro",
        "nome": "CREPOM AZUL CLARO",
        "img": "produtos/2069.jpg",
-       "saldo": 54
+       "saldo": 53
       },
       {
        "cod": 2070,
@@ -11901,7 +11901,7 @@
        "cor": "Marrom",
        "nome": "CREPOM MARROM",
        "img": "produtos/4787.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 6733,
@@ -11936,7 +11936,7 @@
        "cor": "Verde Bandeira",
        "nome": "CREPOM VERDE BANDEIRA",
        "img": "produtos/2079.jpg",
-       "saldo": 25
+       "saldo": 24
       },
       {
        "cod": 2081,
@@ -12105,7 +12105,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 704
+     "saldo": 703
     },
     {
      "cod": 5082,
@@ -12121,7 +12121,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 2015,
@@ -12247,7 +12247,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 203
+     "saldo": 201
     },
     {
      "cod": 2100,
@@ -12375,7 +12375,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 197
+     "saldo": 172
     },
     {
      "cod": 2139,
@@ -12888,7 +12888,7 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 53
+       "saldo": 52
       },
       {
        "cod": 3025,
@@ -12909,7 +12909,7 @@
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
        "img": "produtos/3028.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 12684,
@@ -12933,7 +12933,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/5763.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 3029,
@@ -13060,7 +13060,7 @@
      "marca": "TIGRE",
      "preco": 2.5,
      "img": "produtos/6378.jpg",
-     "saldo": 170
+     "saldo": 169
     },
     {
      "cod": 10997,
@@ -19716,7 +19716,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/8808.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2616,
@@ -19740,7 +19740,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 14261,
@@ -20168,7 +20168,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14433.jpg",
-     "saldo": 21,
+     "saldo": 20,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -20179,7 +20179,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 3,
-      "AZUL": 2,
+      "AZUL": 1,
       "PRETO": 4,
       "ROXO": 4,
       "VERDE": 4,
@@ -20971,7 +20971,7 @@
        "cor": "Verde",
        "nome": "LACRE 16CM C/100-VERDE",
        "img": "produtos/1599.jpg",
-       "saldo": 11
+       "saldo": 10
       },
       {
        "cod": 1600,
@@ -22090,7 +22090,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2219
+     "saldo": 2069
     },
     {
      "cod": 14414,
@@ -22904,7 +22904,7 @@
      "marca": "ISOMAX",
      "preco": 10.9,
      "img": "produtos/772.jpg",
-     "saldo": 169
+     "saldo": 168
     },
     {
      "cod": 773,
@@ -23278,7 +23278,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 517
+     "saldo": 477
     },
     {
      "cod": 880,
@@ -23334,7 +23334,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 100
+     "saldo": 60
     },
     {
      "cod": 4277,
@@ -24144,7 +24144,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 3934
+     "saldo": 3634
     },
     {
      "cod": 3857,
@@ -24414,7 +24414,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 19
+     "saldo": 16
     },
     {
      "cod": 7070,
@@ -24422,7 +24422,7 @@
      "marca": "SANTECK",
      "preco": 4.9,
      "img": "produtos/7070.jpg",
-     "saldo": 92
+     "saldo": 89
     },
     {
      "cod": 7071,
@@ -24564,7 +24564,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 289
+     "saldo": 285
     },
     {
      "cod": 3951,
@@ -25112,7 +25112,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 56
+     "saldo": 55
     }
    ]
   },
@@ -26180,7 +26180,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 814
+     "saldo": 812
     },
     {
      "cod": 10972,
@@ -26188,7 +26188,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 234
+     "saldo": 232
     },
     {
      "cod": 2826,
@@ -27520,7 +27520,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 38
+     "saldo": 35
     },
     {
      "cod": 11952,
@@ -29674,7 +29674,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 3085,
@@ -29744,7 +29744,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 121
+     "saldo": 111
     },
     {
      "cod": 9017,
@@ -29816,7 +29816,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1363
+     "saldo": 1362
     },
     {
      "cod": 2157,
