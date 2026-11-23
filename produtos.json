@@ -451,7 +451,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 78
+       "saldo": 77
       },
       {
        "cod": 566,
@@ -955,6 +955,14 @@
      "preco": 8.9,
      "img": "produtos/10042.jpg",
      "saldo": 3
+    },
+    {
+     "cod": 5598,
+     "nome": "CANETA GEL/CONVITE COMPACTOR-PRATA",
+     "marca": "COMPACOTOR",
+     "preco": 6.9,
+     "img": "produtos/5598.jpg",
+     "saldo": 72
     },
     {
      "cod": 572,
@@ -2577,7 +2585,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 541
+     "saldo": 539
     },
     {
      "cod": 5836,
@@ -3285,6 +3293,13 @@
        "saldo": 352
       },
       {
+       "cod": 2332,
+       "cor": "Verde",
+       "nome": "PINCEL COMPACTOR-VERDE",
+       "img": "produtos/2332.jpg",
+       "saldo": 72
+      },
+      {
        "cod": 2333,
        "cor": "Vermelho",
        "nome": "PINCEL COMPACTOR-VERMELHO",
@@ -3597,7 +3612,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 267
+       "saldo": 264
       },
       {
        "cod": 2658,
@@ -3780,6 +3795,14 @@
      "preco": 3.9,
      "img": "produtos/14372.jpg",
      "saldo": 69
+    },
+    {
+     "cod": 14380,
+     "nome": "LAPISEIRA 0.7-COMPACTOR LOOP TONS PASTEIS",
+     "marca": "COMPACTOR",
+     "preco": 3.9,
+     "img": "produtos/14380.jpg",
+     "saldo": 108
     },
     {
      "cod": 14376,
@@ -9926,7 +9949,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 347
+     "saldo": 346
     },
     {
      "cod": 1294,
@@ -12105,7 +12128,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 703
+     "saldo": 702
     },
     {
      "cod": 5082,
@@ -19132,7 +19155,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 273
+     "saldo": 263
     },
     {
      "cod": 13980,
@@ -25774,7 +25797,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 8100,
@@ -25838,7 +25861,7 @@
      "marca": "KROMASA",
      "preco": 14.9,
      "img": "produtos/2767.jpg",
-     "saldo": 235
+     "saldo": 231
     },
     {
      "cod": 2768,
@@ -25870,7 +25893,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/4939.jpg",
-     "saldo": 543
+     "saldo": 542
     },
     {
      "cod": 4940,
@@ -25902,7 +25925,7 @@
      "marca": "KROMASA",
      "preco": 13.9,
      "img": "produtos/4943.jpg",
-     "saldo": 244
+     "saldo": 243
     },
     {
      "cod": 4944,
@@ -26172,7 +26195,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 762
+     "saldo": 732
     },
     {
      "cod": 10972,
@@ -26473,7 +26496,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2354
+     "saldo": 2344
     },
     {
      "cod": 6821,
@@ -26481,7 +26504,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 357
+     "saldo": 337
     },
     {
      "cod": 6855,
@@ -26489,7 +26512,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 236
+     "saldo": 231
     },
     {
      "cod": 2875,
@@ -26639,7 +26662,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 122
+     "saldo": 118
     },
     {
      "cod": 13853,
@@ -26671,7 +26694,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 100
+     "saldo": 94
     },
     {
      "cod": 6965,
@@ -26687,7 +26710,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 246
+     "saldo": 239
     },
     {
      "cod": 6966,
@@ -26711,7 +26734,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 75
+     "saldo": 66
     },
     {
      "cod": 6857,
@@ -27097,7 +27120,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 199
+     "saldo": 188
     },
     {
      "cod": 10990,
@@ -27161,7 +27184,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 115
+     "saldo": 114
     },
     {
      "cod": 3427,
@@ -27287,7 +27310,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 615
+     "saldo": 610
     },
     {
      "cod": 4285,
@@ -27295,7 +27318,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 831
+     "saldo": 826
     },
     {
      "cod": 4936,
@@ -28725,7 +28748,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 523
+     "saldo": 518
     },
     {
      "cod": 6912,
@@ -31730,7 +31753,7 @@
        "cor": "Vermelho",
        "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
        "img": "produtos/6637.jpg",
-       "saldo": 96
+       "saldo": 95
       }
      ]
     },
