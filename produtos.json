@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1383,
+     "saldo": 1377,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1383
+       "saldo": 1377
       },
       {
        "cod": 553,
@@ -22258,7 +22258,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/958.jpg",
-     "saldo": 172
+     "saldo": 171
     },
     {
      "cod": 6814,
@@ -22984,7 +22984,7 @@
      "marca": "",
      "preco": 136.9,
      "img": "produtos/1010.jpg",
-     "saldo": 6
+     "saldo": 8
     },
     {
      "cod": 5987,
@@ -23460,7 +23460,15 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 3
+     "saldo": 17
+    },
+    {
+     "cod": 14835,
+     "nome": "POTE (KIT) 350ML C/25-GALVANOTEK",
+     "marca": "GALVANOTEK",
+     "preco": 16.9,
+     "img": "produtos/14835.jpg",
+     "saldo": 24
     },
     {
      "cod": 2510,
@@ -23564,7 +23572,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11683.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 11682,
@@ -24596,7 +24604,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 102
+     "saldo": 101
     },
     {
      "cod": 14698,
@@ -24642,7 +24650,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/30.jpg",
-     "saldo": 13
+     "saldo": 25
     },
     {
      "cod": 31,
@@ -24650,7 +24658,7 @@
      "marca": "",
      "preco": 2.45,
      "img": "produtos/31.jpg",
-     "saldo": 145
+     "saldo": 143
     },
     {
      "cod": 34,
@@ -24698,7 +24706,7 @@
      "marca": "VABENE",
      "preco": 6.9,
      "img": "produtos/80.jpg",
-     "saldo": 31
+     "saldo": 71
     },
     {
      "cod": 82,
@@ -24714,7 +24722,7 @@
      "marca": "MELLO",
      "preco": 9.5,
      "img": "produtos/83.jpg",
-     "saldo": 6
+     "saldo": 46
     },
     {
      "cod": 4394,
@@ -24733,12 +24741,20 @@
      "saldo": 981
     },
     {
+     "cod": 186,
+     "nome": "BANDEJA LAMINADA N4 (27X33)",
+     "marca": "PITPRATOS",
+     "preco": 2.5,
+     "img": "produtos/186.jpg",
+     "saldo": 200
+    },
+    {
      "cod": 187,
      "nome": "BANDEJA LAMINADA N5 (34X40)",
      "marca": "PITPRATOS",
      "preco": 3.9,
      "img": "produtos/187.jpg",
-     "saldo": 168
+     "saldo": 248
     },
     {
      "cod": 188,
@@ -24992,7 +25008,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 238
+     "saldo": 233
     },
     {
      "cod": 3932,
@@ -25292,7 +25308,7 @@
      "marca": "DECOPLAST",
      "preco": 72.9,
      "img": "produtos/1450.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 1452,
@@ -26273,14 +26289,21 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 20X30 C/50-DOURADA",
        "img": "produtos/2845.jpg",
-       "saldo": 4
+       "saldo": 24
       },
       {
        "cod": 3670,
        "cor": "Prata",
        "nome": "SACOLA PH 20X30 C/50-PRATA",
        "img": "produtos/3670.jpg",
-       "saldo": 11
+       "saldo": 30
+      },
+      {
+       "cod": 4550,
+       "cor": "Preta",
+       "nome": "SACOLA PH 20X30 C/50-PRETA",
+       "img": "produtos/4550.jpg",
+       "saldo": 20
       },
       {
        "cod": 13963,
@@ -26353,7 +26376,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 25X35 C/50-PRETA",
        "img": "produtos/9878.jpg",
-       "saldo": 18
+       "saldo": 28
       },
       {
        "cod": 9964,
@@ -26405,21 +26428,21 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 30X40 C/50-DOURADA",
        "img": "produtos/3958.jpg",
-       "saldo": 4
+       "saldo": 22
       },
       {
        "cod": 2854,
        "cor": "Prata",
        "nome": "SACOLA PH 30X40 C/50-PRATA",
        "img": "produtos/2854.jpg",
-       "saldo": 6
+       "saldo": 13
       },
       {
        "cod": 2857,
        "cor": "Preta",
        "nome": "SACOLA PH 30X40 C/50-PRETA",
        "img": "produtos/2857.jpg",
-       "saldo": 5
+       "saldo": 15
       },
       {
        "cod": 4326,
@@ -26482,7 +26505,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 362
+     "saldo": 357
     },
     {
      "cod": 6855,
@@ -26934,7 +26957,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2317
+     "saldo": 2307
     },
     {
      "cod": 2896,
@@ -27289,14 +27312,6 @@
      "preco": 5.9,
      "img": "produtos/4935.jpg",
      "saldo": 615
-    },
-    {
-     "cod": 2760,
-     "nome": "SACO KRAFT 2KG C/100 (CAIXA)",
-     "marca": "IEC",
-     "preco": 8.9,
-     "img": "produtos/2760.jpg",
-     "saldo": 1
     },
     {
      "cod": 4285,
@@ -28964,7 +28979,7 @@
      "marca": "READY",
      "preco": 2.0,
      "img": "produtos/6851.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 3939,
@@ -29712,7 +29727,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 56
+     "saldo": 50
     },
     {
      "cod": 2102,
@@ -29816,7 +29831,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1362
+     "saldo": 1358
     },
     {
      "cod": 2157,
@@ -30398,7 +30413,7 @@
      "marca": "SHANGRI-LA",
      "preco": 36.9,
      "img": "produtos/1111.jpg",
-     "saldo": 6
+     "saldo": 4
     },
     {
      "cod": 1133,
