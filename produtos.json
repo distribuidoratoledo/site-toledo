@@ -3636,7 +3636,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 264
+       "saldo": 263
       },
       {
        "cod": 2658,
@@ -3738,7 +3738,7 @@
      "marca": "FABER",
      "preco": 8.9,
      "img": "produtos/14442.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 7037,
@@ -6538,7 +6538,7 @@
      "marca": "ANIMATIVA",
      "preco": 12.9,
      "img": "produtos/14783.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 12387,
@@ -11178,7 +11178,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 162
+     "saldo": 157
     },
     {
      "cod": 1977,
@@ -25893,7 +25893,7 @@
      "marca": "KROMASA",
      "preco": 4.9,
      "img": "produtos/4940.jpg",
-     "saldo": 636
+     "saldo": 626
     },
     {
      "cod": 4941,
@@ -26085,7 +26085,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/7176.jpg",
-     "saldo": 207
+     "saldo": 197
     },
     {
      "cod": 7175,
@@ -28970,7 +28970,7 @@
      "marca": "READY",
      "preco": 2.0,
      "img": "produtos/6851.jpg",
-     "saldo": 143
+     "saldo": 133
     },
     {
      "cod": 3939,
