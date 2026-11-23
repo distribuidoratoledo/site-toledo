@@ -2812,16 +2812,16 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 11,
+     "saldo": 9,
      "controle": [
       "AMARELO",
       "ROSA",
       "SALMÃO"
      ],
      "saldo_cor": {
-      "AMARELO": 6,
+      "AMARELO": 5,
       "ROSA": 2,
-      "SALMÃO": 3
+      "SALMÃO": 2
      }
     },
     {
@@ -9080,7 +9080,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 508,
@@ -10054,7 +10054,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 887
+     "saldo": 882
     },
     {
      "cod": 4389,
@@ -10228,7 +10228,7 @@
      "marca": "THOMPSON",
      "preco": 69.9,
      "img": "produtos/1528.jpg",
-     "saldo": 8
+     "saldo": 12
     }
    ]
   },
@@ -12241,7 +12241,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 214
+     "saldo": 234
     },
     {
      "cod": 4344,
@@ -13922,7 +13922,7 @@
      "marca": "TILIBRA",
      "preco": 5.9,
      "img": "produtos/3411.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 11490,
@@ -16478,7 +16478,7 @@
      "marca": "MP",
      "preco": 42.9,
      "img": "produtos/4919.jpg",
-     "saldo": 14
+     "saldo": 26
     },
     {
      "cod": 4920,
@@ -16689,7 +16689,7 @@
      "marca": "TRAMONTINA",
      "preco": 24.9,
      "img": "produtos/2959.jpg",
-     "saldo": 58
+     "saldo": 56
     },
     {
      "cod": 6635,
@@ -18712,7 +18712,7 @@
      "marca": "SCRITY",
      "preco": 0.15,
      "img": "produtos/1098.jpg",
-     "saldo": 142
+     "saldo": 73
     },
     {
      "cod": 1039,
@@ -22014,7 +22014,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 18
+     "saldo": 17
     }
    ]
   },
@@ -22044,7 +22044,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 166
+     "saldo": 16
     },
     {
      "cod": 945,
@@ -22738,7 +22738,7 @@
      "marca": "ISOMAX",
      "preco": 188.9,
      "img": "produtos/6945.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 7725,
@@ -23114,7 +23114,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 41
+     "saldo": 38
     },
     {
      "cod": 2937,
@@ -23122,7 +23122,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 329
+     "saldo": 323
     },
     {
      "cod": 4146,
@@ -23130,7 +23130,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 2491,
@@ -23138,7 +23138,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 298
+     "saldo": 294
     },
     {
      "cod": 3887,
@@ -23900,7 +23900,7 @@
      "marca": "ECOPLAST",
      "preco": 68.9,
      "img": "produtos/1362.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 1363,
@@ -25286,7 +25286,7 @@
      "marca": "DECOPLAST",
      "preco": 152.9,
      "img": "produtos/1454.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 1450,
@@ -26112,7 +26112,7 @@
      "marca": "GRESPAN",
      "preco": 4.9,
      "img": "produtos/7171.jpg",
-     "saldo": 102
+     "saldo": 92
     },
     {
      "cod": 4057,
@@ -26174,7 +26174,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 2824,
@@ -26296,7 +26296,7 @@
        "cor": "Rosa Pink",
        "nome": "SACOLA PH 20X30 C/50-ROSA PINK",
        "img": "produtos/2852.jpg",
-       "saldo": 1
+       "saldo": 2
       },
       {
        "cod": 3849,
@@ -26476,7 +26476,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2358
+     "saldo": 2354
     },
     {
      "cod": 6821,
@@ -26484,7 +26484,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 383
+     "saldo": 381
     },
     {
      "cod": 6855,
@@ -26920,7 +26920,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 95
+     "saldo": 94
     },
     {
      "cod": 2905,
@@ -26952,7 +26952,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 159
+     "saldo": 157
     },
     {
      "cod": 4314,
@@ -27108,7 +27108,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 244
+     "saldo": 236
     },
     {
      "cod": 10990,
@@ -28124,14 +28124,14 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
-     "saldo": 61,
+     "saldo": 71,
      "cores": [
       {
        "cod": 11919,
        "cor": "Rosa",
        "nome": "LAÇO PRONTO (GG)-ROSA",
        "img": "produtos/11919.jpg",
-       "saldo": 61
+       "saldo": 71
       },
       {
        "cod": 11918,
@@ -29722,7 +29722,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 2102,
