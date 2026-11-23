@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1496,
+     "saldo": 1396,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1496
+       "saldo": 1396
       },
       {
        "cod": 553,
@@ -1303,7 +1303,7 @@
      "marca": "JOCAR",
      "preco": 7.9,
      "img": "produtos/596.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 4392,
@@ -2812,15 +2812,13 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 9,
+     "saldo": 7,
      "controle": [
       "AMARELO",
-      "ROSA",
       "SALMÃO"
      ],
      "saldo_cor": {
       "AMARELO": 5,
-      "ROSA": 2,
       "SALMÃO": 2
      }
     },
@@ -3215,7 +3213,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.RECAR.MASTERPRINT-PRETO",
        "img": "produtos/6639.jpg",
-       "saldo": 275
+       "saldo": 273
       },
       {
        "cod": 6641,
@@ -3229,7 +3227,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.RECAR.MASTERPRINT-VERMELHO",
        "img": "produtos/6640.jpg",
-       "saldo": 114
+       "saldo": 112
       }
      ]
     },
@@ -3364,21 +3362,21 @@
      "marca": "MASTERPRIN",
      "preco": 4.5,
      "img": "produtos/7731.jpg",
-     "saldo": 217,
+     "saldo": 216,
      "cores": [
       {
        "cod": 7731,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
        "img": "produtos/7731.jpg",
-       "saldo": 217
+       "saldo": 216
       },
       {
        "cod": 7732,
        "cor": "Verde",
        "nome": "PINCEL Q.BRC RECAR.MASTERPRINT-VERDE",
        "img": "produtos/7732.jpg",
-       "saldo": 58
+       "saldo": 57
       }
      ]
     },
@@ -3585,14 +3583,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 227,
+     "saldo": 224,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 227
+       "saldo": 224
       },
       {
        "cod": 2657,
@@ -3661,7 +3659,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 12247,
@@ -4167,7 +4165,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1971
+     "saldo": 1970
     },
     {
      "cod": 4341,
@@ -6228,7 +6226,7 @@
        "cor": "Preto",
        "nome": "CADERNO 1X1 80F-NEON PRETO",
        "img": "produtos/5847.jpg",
-       "saldo": 30
+       "saldo": 29
       },
       {
        "cod": 5618,
@@ -8510,7 +8508,7 @@
        "cor": "Azul",
        "nome": "CADERNO PEQ. CD 96F (AZUL)",
        "img": "produtos/9319.jpg",
-       "saldo": 74
+       "saldo": 73
       },
       {
        "cod": 12455,
@@ -9710,7 +9708,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 303
+     "saldo": 301
     },
     {
      "cod": 11926,
@@ -9804,7 +9802,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 746
+     "saldo": 735
     },
     {
      "cod": 4438,
@@ -9998,7 +9996,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 129
+     "saldo": 127
     },
     {
      "cod": 1020,
@@ -10006,7 +10004,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 6521,
@@ -10046,7 +10044,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 1313,
@@ -10054,7 +10052,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 882
+     "saldo": 876
     },
     {
      "cod": 4389,
@@ -10062,7 +10060,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 688
+     "saldo": 685
     },
     {
      "cod": 1317,
@@ -12123,7 +12121,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 2016,
@@ -12543,7 +12541,7 @@
      "marca": "MASTERPRIN",
      "preco": 6.9,
      "img": "produtos/6636.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 42,
@@ -12615,7 +12613,7 @@
      "marca": "SOUZ/STALO",
      "preco": 139.9,
      "img": "produtos/6700.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 2585,
@@ -14272,7 +14270,7 @@
      "marca": "MAXCRIL",
      "preco": 79.9,
      "img": "produtos/171.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7502,
@@ -15061,7 +15059,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 148
+     "saldo": 147
     },
     {
      "cod": 7644,
@@ -15944,7 +15942,7 @@
        "cor": "Rosa",
        "nome": "PASTA PP 1CM POLIBRAS-ROSA PASTEL",
        "img": "produtos/11002.jpg",
-       "saldo": 32
+       "saldo": 31
       },
       {
        "cod": 11003,
@@ -16681,7 +16679,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 108
+     "saldo": 106
     },
     {
      "cod": 2959,
@@ -20780,7 +20778,7 @@
      "marca": "PAIS E FIL",
      "preco": 26.9,
      "img": "produtos/9339.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 14656,
@@ -22028,7 +22026,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 820
+     "saldo": 819
     },
     {
      "cod": 938,
@@ -22332,7 +22330,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 519
+     "saldo": 518
     },
     {
      "cod": 2923,
@@ -23122,7 +23120,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 323
+     "saldo": 322
     },
     {
      "cod": 4146,
@@ -23138,7 +23136,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 294
+     "saldo": 293
     },
     {
      "cod": 3887,
@@ -23598,7 +23596,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 2524,
@@ -24052,7 +24050,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 1376,
@@ -26190,7 +26188,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 236
+     "saldo": 234
     },
     {
      "cod": 2826,
@@ -26484,7 +26482,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 381
+     "saldo": 376
     },
     {
      "cod": 6855,
@@ -26492,7 +26490,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 247
+     "saldo": 242
     },
     {
      "cod": 2875,
@@ -26500,7 +26498,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 641
+     "saldo": 611
     },
     {
      "cod": 6825,
@@ -26508,7 +26506,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 647
+     "saldo": 637
     },
     {
      "cod": 3964,
@@ -26730,7 +26728,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5976
+     "saldo": 5776
     },
     {
      "cod": 11788,
@@ -26778,7 +26776,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 2114
+     "saldo": 2113
     },
     {
      "cod": 5547,
@@ -27108,7 +27106,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 236
+     "saldo": 216
     },
     {
      "cod": 10990,
@@ -30860,7 +30858,7 @@
        "cor": "Rosa",
        "nome": "APONTADOR LEO C/D BLOCO 60-ROSA",
        "img": "produtos/7589.jpg",
-       "saldo": 39
+       "saldo": 38
       },
       {
        "cod": 7592,
@@ -31078,7 +31076,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/12286.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 12284,
