@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1389,
+     "saldo": 1384,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1389
+       "saldo": 1384
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1958
+       "saldo": 1957
       },
       {
        "cod": 554,
@@ -490,28 +490,28 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 849,
+     "saldo": 846,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 849
+       "saldo": 846
       },
       {
        "cod": 570,
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 721
+       "saldo": 718
       },
       {
        "cod": 571,
        "cor": "Vermelha",
        "nome": "CANETA COMPACTOR-VERMELHA",
        "img": "produtos/571.jpg",
-       "saldo": 501
+       "saldo": 498
       }
      ]
     },
@@ -3691,7 +3691,7 @@
      "marca": "COMPACTOR",
      "preco": 8.9,
      "img": "produtos/7034.jpg",
-     "saldo": 151
+     "saldo": 150
     },
     {
      "cod": 14442,
@@ -8587,7 +8587,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 3249,
@@ -9918,7 +9918,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 515
+     "saldo": 514
     },
     {
      "cod": 1293,
@@ -10044,7 +10044,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 111
+     "saldo": 108
     },
     {
      "cod": 1313,
@@ -12113,7 +12113,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 43
+     "saldo": 41
     },
     {
      "cod": 2015,
@@ -12137,7 +12137,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1240
+     "saldo": 1239
     },
     {
      "cod": 9052,
@@ -16998,7 +16998,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 227
+       "saldo": 226
       },
       {
        "cod": 1221,
@@ -17019,7 +17019,7 @@
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 107
+       "saldo": 105
       },
       {
        "cod": 5366,
@@ -23120,7 +23120,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 322
+     "saldo": 328
     },
     {
      "cod": 4146,
@@ -23136,7 +23136,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 293
+     "saldo": 299
     },
     {
      "cod": 3887,
@@ -26474,7 +26474,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 375
+     "saldo": 370
     },
     {
      "cod": 6855,
@@ -26720,7 +26720,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5676
+     "saldo": 5666
     },
     {
      "cod": 11788,
@@ -26768,7 +26768,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 2112
+     "saldo": 2102
     },
     {
      "cod": 5547,
@@ -27076,7 +27076,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8753
+     "saldo": 8723
     },
     {
      "cod": 236,
@@ -27208,7 +27208,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/6847.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 7142,
@@ -27232,7 +27232,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2750.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 7181,
@@ -27536,7 +27536,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 6860,
@@ -28900,7 +28900,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 1198,
@@ -28948,7 +28948,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 445
+     "saldo": 444
     },
     {
      "cod": 6323,
@@ -29682,7 +29682,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 287
+     "saldo": 286
     },
     {
      "cod": 7275,
