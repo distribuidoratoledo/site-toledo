@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 789,
+     "saldo": 788,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 789
+       "saldo": 788
       },
       {
        "cod": 556,
@@ -2824,7 +2824,7 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
-     "saldo": 26,
+     "saldo": 24,
      "controle": [
       "AZUL",
       "CINZA",
@@ -2832,9 +2832,9 @@
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AZUL": 8,
+      "AZUL": 7,
       "CINZA": 7,
-      "ROSA": 4,
+      "ROSA": 3,
       "VERDE-ÁGUA": 7
      }
     },
@@ -4360,7 +4360,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13083.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 7919,
@@ -8578,7 +8578,7 @@
      "marca": "TILIBRA",
      "preco": 15.9,
      "img": "produtos/13719.jpg",
-     "saldo": 112
+     "saldo": 111
     },
     {
      "cod": 438,
@@ -9739,7 +9739,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14523.jpg",
-     "saldo": 237
+     "saldo": 236
     },
     {
      "cod": 822,
@@ -9747,7 +9747,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 296
+     "saldo": 295
     },
     {
      "cod": 11926,
@@ -9965,7 +9965,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 345
+     "saldo": 344
     },
     {
      "cod": 1294,
@@ -11004,7 +11004,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 3479,
@@ -11510,7 +11510,7 @@
      "marca": "MINASPEL",
      "preco": 1.5,
      "img": "produtos/5083.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 740,
@@ -11947,7 +11947,7 @@
        "cor": "Pink",
        "nome": "CREPOM PINK",
        "img": "produtos/6733.jpg",
-       "saldo": 55
+       "saldo": 53
       },
       {
        "cod": 4788,
@@ -12192,7 +12192,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 929
+     "saldo": 926
     },
     {
      "cod": 2007,
@@ -12270,7 +12270,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 11784,
@@ -19515,7 +19515,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/6624.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 6620,
@@ -20061,7 +20061,7 @@
        "cor": "Colorido",
        "nome": "GIZ DELTA C/64 COLORIDO",
        "img": "produtos/6465.jpg",
-       "saldo": 34
+       "saldo": 33
       }
      ]
     },
@@ -28716,7 +28716,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 399
+     "saldo": 397
     },
     {
      "cod": 2777,
@@ -29932,7 +29932,7 @@
      "marca": "GAL",
      "preco": 5.9,
      "img": "produtos/3668.jpg",
-     "saldo": 40
+     "saldo": 38
     }
    ]
   },
