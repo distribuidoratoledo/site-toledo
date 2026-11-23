@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1371,
+     "saldo": 1366,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1371
+       "saldo": 1366
       },
       {
        "cod": 553,
@@ -3331,21 +3331,21 @@
      "marca": "COMPACTOR",
      "preco": 10.9,
      "img": "produtos/14366.jpg",
-     "saldo": 280,
+     "saldo": 279,
      "cores": [
       {
        "cod": 14366,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR. COMPACTOR-AZUL",
        "img": "produtos/14366.jpg",
-       "saldo": 280
+       "saldo": 279
       },
       {
        "cod": 14369,
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR. COMPACTOR-PRETO",
        "img": "produtos/14369.jpg",
-       "saldo": 430
+       "saldo": 429
       },
       {
        "cod": 14368,
@@ -9206,7 +9206,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3443.jpg",
-     "saldo": 71
+     "saldo": 61
     },
     {
      "cod": 2664,
@@ -9818,7 +9818,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4028
+     "saldo": 4010
     },
     {
      "cod": 14619,
@@ -10052,7 +10052,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 832
+     "saldo": 807
     },
     {
      "cod": 4389,
@@ -10965,7 +10965,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 3479,
@@ -11828,7 +11828,7 @@
        "cor": "Verde Bandeira",
        "nome": "COLORSETE-VERDE BANDEIRA",
        "img": "produtos/2047.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 2048,
@@ -14979,7 +14979,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/9144.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 14595,
@@ -16588,7 +16588,7 @@
      "marca": "GALA",
      "preco": 7.9,
      "img": "produtos/4437.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 2745,
@@ -16604,7 +16604,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4872.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 2746,
@@ -18718,7 +18718,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22436
+     "saldo": 22434
     },
     {
      "cod": 1098,
@@ -18814,7 +18814,7 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1070.jpg",
-     "saldo": 5463
+     "saldo": 4463
     },
     {
      "cod": 1038,
@@ -18854,7 +18854,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 11973
+     "saldo": 11723
     },
     {
      "cod": 1051,
@@ -22090,7 +22090,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 2069
+     "saldo": 1869
     },
     {
      "cod": 14414,
@@ -22178,7 +22178,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 231
+     "saldo": 181
     },
     {
      "cod": 14405,
@@ -22285,14 +22285,6 @@
      "saldo": 39
     },
     {
-     "cod": 7011,
-     "nome": "COPO TERMICO 70ML C/20-TOTAL (ISOPOR)",
-     "marca": "TOTALPLAST",
-     "preco": 3.9,
-     "img": "produtos/7011.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 9745,
      "nome": "COPO TERMICO 85ML C/50-VABENE (PAPEL)",
      "marca": "VABENE",
@@ -22387,14 +22379,6 @@
      "preco": 5.5,
      "img": "produtos/2935.jpg",
      "saldo": 5
-    },
-    {
-     "cod": 6187,
-     "nome": "TAMPA LISA 300/330ML (C/F) C/50-ALTACOPO",
-     "marca": "ALTACOPO",
-     "preco": 6.9,
-     "img": "produtos/6187.jpg",
-     "saldo": 18
     },
     {
      "cod": 11902,
@@ -22504,7 +22488,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 613
+     "saldo": 610
     },
     {
      "cod": 4617,
@@ -22520,7 +22504,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 342
+     "saldo": 341
     },
     {
      "cod": 177,
@@ -22536,7 +22520,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 138
+     "saldo": 135
     },
     {
      "cod": 179,
@@ -22952,7 +22936,7 @@
      "marca": "",
      "preco": 31.9,
      "img": "produtos/3733.jpg",
-     "saldo": 26
+     "saldo": 22
     },
     {
      "cod": 7139,
@@ -22984,7 +22968,7 @@
      "marca": "",
      "preco": 136.9,
      "img": "produtos/1010.jpg",
-     "saldo": 8
+     "saldo": 4
     },
     {
      "cod": 5987,
@@ -23455,14 +23439,6 @@
      "saldo": 17
     },
     {
-     "cod": 11827,
-     "nome": "POTE (KIT) 250ML C/24-TOTALPLAST",
-     "marca": "TOTALPLAST",
-     "preco": 11.9,
-     "img": "produtos/11827.jpg",
-     "saldo": 17
-    },
-    {
      "cod": 14835,
      "nome": "POTE (KIT) 350ML C/25-GALVANOTEK",
      "marca": "GALVANOTEK",
@@ -23794,7 +23770,7 @@
      "marca": "GALVANOTEK",
      "preco": 61.9,
      "img": "produtos/3957.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 5774,
@@ -23946,7 +23922,7 @@
      "marca": "ECO",
      "preco": 75.9,
      "img": "produtos/7074.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 9820,
@@ -23954,7 +23930,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 7045,
@@ -24746,7 +24722,7 @@
      "marca": "PITPRATOS",
      "preco": 2.5,
      "img": "produtos/186.jpg",
-     "saldo": 200
+     "saldo": 180
     },
     {
      "cod": 187,
@@ -24754,7 +24730,7 @@
      "marca": "PITPRATOS",
      "preco": 3.9,
      "img": "produtos/187.jpg",
-     "saldo": 248
+     "saldo": 218
     },
     {
      "cod": 188,
@@ -24762,7 +24738,7 @@
      "marca": "PITPRATOS",
      "preco": 4.9,
      "img": "produtos/188.jpg",
-     "saldo": 106
+     "saldo": 96
     },
     {
      "cod": 189,
@@ -24770,7 +24746,7 @@
      "marca": "PITPRATOS",
      "preco": 5.5,
      "img": "produtos/189.jpg",
-     "saldo": 61
+     "saldo": 56
     },
     {
      "cod": 190,
@@ -25502,7 +25478,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 94
+     "saldo": 89
     },
     {
      "cod": 665,
@@ -25518,7 +25494,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 720
+     "saldo": 718
     },
     {
      "cod": 2705,
@@ -25542,7 +25518,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 29
+     "saldo": 30
     },
     {
      "cod": 2709,
@@ -25550,7 +25526,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 3651,
@@ -25606,7 +25582,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2715.jpg",
-     "saldo": 119
+     "saldo": 118
     },
     {
      "cod": 2717,
@@ -25726,7 +25702,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 180
+     "saldo": 160
     },
     {
      "cod": 10062,
@@ -25822,7 +25798,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 42
+     "saldo": 32
     },
     {
      "cod": 2737,
@@ -25950,7 +25926,7 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg",
-     "saldo": 193
+     "saldo": 192
     },
     {
      "cod": 4947,
@@ -26196,7 +26172,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 812
+     "saldo": 762
     },
     {
      "cod": 10972,
@@ -26204,7 +26180,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 219
+     "saldo": 19
     },
     {
      "cod": 2826,
@@ -26607,7 +26583,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 181
+     "saldo": 180
     },
     {
      "cod": 13857,
@@ -26615,7 +26591,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 140
+     "saldo": 134
     },
     {
      "cod": 13856,
@@ -26623,7 +26599,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 180
+     "saldo": 173
     },
     {
      "cod": 13859,
@@ -26631,7 +26607,7 @@
      "marca": "HIPERROLL",
      "preco": 28.9,
      "img": "produtos/13859.jpg",
-     "saldo": 85
+     "saldo": 79
     },
     {
      "cod": 6937,
@@ -26679,7 +26655,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 59
+     "saldo": 55
     },
     {
      "cod": 13855,
@@ -26695,7 +26671,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 104
+     "saldo": 100
     },
     {
      "cod": 6965,
@@ -26711,7 +26687,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 256
+     "saldo": 246
     },
     {
      "cod": 6966,
@@ -26727,7 +26703,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 75
+     "saldo": 67
     },
     {
      "cod": 4427,
@@ -26759,7 +26735,7 @@
      "marca": "BOBPICOTE",
      "preco": 38.9,
      "img": "produtos/1337.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 1338,
@@ -27099,7 +27075,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8693
+     "saldo": 8543
     },
     {
      "cod": 236,
@@ -27193,7 +27169,7 @@
      "marca": "DISPAFILM",
      "preco": 98.9,
      "img": "produtos/3427.jpg",
-     "saldo": 20
+     "saldo": 16
     },
     {
      "cod": 1282,
@@ -27383,7 +27359,7 @@
      "marca": "IEC",
      "preco": 5.9,
      "img": "produtos/2785.jpg",
-     "saldo": 165
+     "saldo": 155
     },
     {
      "cod": 2786,
@@ -27551,7 +27527,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 26
+     "saldo": 23
     },
     {
      "cod": 6860,
@@ -27989,7 +27965,7 @@
        "cor": "Ouro / Dourado",
        "nome": "FITILHO 50MT OURO/DOURADO",
        "img": "produtos/4778.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 4779,
@@ -28939,7 +28915,7 @@
      "marca": "PRIMUS",
      "preco": 31.9,
      "img": "produtos/1166.jpg",
-     "saldo": 56
+     "saldo": 52
     },
     {
      "cod": 11419,
@@ -29413,7 +29389,7 @@
      "marca": "PRIMUS",
      "preco": 15.9,
      "img": "produtos/4673.jpg",
-     "saldo": 100
+     "saldo": 97
     },
     {
      "cod": 14135,
@@ -29435,7 +29411,7 @@
      "marca": "MAMUTH",
      "preco": 35.9,
      "img": "produtos/1493.jpg",
-     "saldo": 107
+     "saldo": 106
     },
     {
      "cod": 1494,
@@ -29697,7 +29673,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 283
+     "saldo": 261
     },
     {
      "cod": 7275,
@@ -29831,7 +29807,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1358
+     "saldo": 1348
     },
     {
      "cod": 2157,
