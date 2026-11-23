@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1497,
+     "saldo": 1496,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1497
+       "saldo": 1496
       },
       {
        "cod": 553,
@@ -490,14 +490,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 850,
+     "saldo": 849,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 850
+       "saldo": 849
       },
       {
        "cod": 570,
@@ -511,7 +511,7 @@
        "cor": "Vermelha",
        "nome": "CANETA COMPACTOR-VERMELHA",
        "img": "produtos/571.jpg",
-       "saldo": 502
+       "saldo": 501
       }
      ]
     },
@@ -2812,7 +2812,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 12,
+     "saldo": 11,
      "controle": [
       "AMARELO",
       "ROSA",
@@ -2820,7 +2820,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 6,
-      "ROSA": 3,
+      "ROSA": 2,
       "SALMÃO": 3
      }
     },
@@ -3599,7 +3599,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 269
+       "saldo": 267
       },
       {
        "cod": 2658,
@@ -3645,7 +3645,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 556
+     "saldo": 555
     },
     {
      "cod": 1509,
@@ -3833,7 +3833,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
-     "saldo": 45,
+     "saldo": 44,
      "controle": [
       "AZUL",
       "LILAS",
@@ -3843,7 +3843,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "LILAS": 11,
-      "ROSA": 10,
+      "ROSA": 9,
       "VERDE-ÁGUA": 12
      }
     },
@@ -4207,7 +4207,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14520.jpg",
-     "saldo": 178,
+     "saldo": 177,
      "controle": [
       "AZUL",
       "LILAS",
@@ -4216,7 +4216,7 @@
      ],
      "saldo_cor": {
       "AZUL": 49,
-      "LILAS": 40,
+      "LILAS": 39,
       "ROSA": 40,
       "VERDE-ÁGUA": 49
      }
@@ -4315,7 +4315,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13083.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 7919,
@@ -4561,7 +4561,7 @@
      "marca": "TILIBRA",
      "preco": 53.9,
      "img": "produtos/14270.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 7930,
@@ -4585,7 +4585,7 @@
      "marca": "TILIBRA",
      "preco": 89.9,
      "img": "produtos/4955.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 14274,
@@ -4665,7 +4665,7 @@
      "marca": "TILIBRA",
      "preco": 99.9,
      "img": "produtos/6040.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14278,
@@ -4689,7 +4689,7 @@
      "marca": "TILIBRA",
      "preco": 49.9,
      "img": "produtos/4957.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 3118,
@@ -4729,21 +4729,21 @@
      "marca": "LORIGRAF",
      "preco": 31.9,
      "img": "produtos/14315.jpg",
-     "saldo": 15,
+     "saldo": 14,
      "cores": [
       {
        "cod": 14315,
        "cor": "Azul Escuro",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS AZUL ESCURO",
        "img": "produtos/14315.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 14316,
        "cor": "Cinza",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS CINZA",
        "img": "produtos/14316.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 14314,
@@ -8589,7 +8589,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 3249,
@@ -9662,7 +9662,7 @@
      "marca": "APLICOLA",
      "preco": 12.9,
      "img": "produtos/14420.jpg",
-     "saldo": 179
+     "saldo": 178
     },
     {
      "cod": 818,
@@ -9718,7 +9718,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 10944,
@@ -10943,7 +10943,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/1538.jpg",
-     "saldo": 91
+     "saldo": 89
     },
     {
      "cod": 9505,
@@ -11595,14 +11595,14 @@
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 80
+       "saldo": 79
       },
       {
        "cod": 2036,
        "cor": "Verde",
        "nome": "CARTOLINA-VERDE",
        "img": "produtos/2036.jpg",
-       "saldo": 198
+       "saldo": 197
       }
      ]
     },
@@ -11633,7 +11633,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 69
+       "saldo": 59
       },
       {
        "cod": 758,
@@ -11759,14 +11759,14 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 313,
+     "saldo": 312,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 313
+       "saldo": 312
       },
       {
        "cod": 4181,
@@ -11794,7 +11794,7 @@
        "cor": "Lilas / Violeta",
        "nome": "COLORSETE-LILAS/VIOLETA",
        "img": "produtos/4182.jpg",
-       "saldo": 306
+       "saldo": 305
       },
       {
        "cod": 2043,
@@ -12099,7 +12099,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 708
+     "saldo": 707
     },
     {
      "cod": 5082,
@@ -12139,7 +12139,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 944
+     "saldo": 939
     },
     {
      "cod": 2007,
@@ -16978,7 +16978,7 @@
        "cor": "Lilas",
        "nome": "EVA GLITER-LILAS",
        "img": "produtos/4830.jpg",
-       "saldo": 93
+       "saldo": 92
       },
       {
        "cod": 1219,
@@ -17013,7 +17013,7 @@
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 108
+       "saldo": 107
       },
       {
        "cod": 5366,
@@ -21400,7 +21400,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/13636.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 13638,
@@ -22052,7 +22052,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 124
+     "saldo": 120
     },
     {
      "cod": 14406,
@@ -22140,7 +22140,7 @@
      "marca": "COPOMAIS",
      "preco": 10.9,
      "img": "produtos/14408.jpg",
-     "saldo": 120
+     "saldo": 115
     },
     {
      "cod": 954,
@@ -22514,7 +22514,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 3772,
@@ -23130,7 +23130,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 218
+     "saldo": 217
     },
     {
      "cod": 2491,
@@ -23146,7 +23146,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 191
+     "saldo": 190
     },
     {
      "cod": 2489,
@@ -23406,7 +23406,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11829.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 2495,
@@ -23454,7 +23454,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11827.jpg",
-     "saldo": 43
+     "saldo": 39
     },
     {
      "cod": 6315,
@@ -24630,7 +24630,7 @@
      "marca": "LIDER",
      "preco": 35.9,
      "img": "produtos/13006.jpg",
-     "saldo": 14
+     "saldo": 10
     }
    ]
   },
@@ -25066,7 +25066,7 @@
      "marca": "THEOTO",
      "preco": 5.9,
      "img": "produtos/1118.jpg",
-     "saldo": 110
+     "saldo": 108
     },
     {
      "cod": 7237,
@@ -25090,7 +25090,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/1995.jpg",
-     "saldo": 116
+     "saldo": 115
     },
     {
      "cod": 1999,
@@ -25664,7 +25664,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 83
+     "saldo": 79
     },
     {
      "cod": 10061,
@@ -26303,7 +26303,7 @@
        "cor": "Verde Limao",
        "nome": "SACOLA PH 20X30 C/50-VERDE LIMAO",
        "img": "produtos/3849.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 2847,
@@ -26554,7 +26554,7 @@
      "marca": "MP",
      "preco": 26.9,
      "img": "produtos/7678.jpg",
-     "saldo": 235
+     "saldo": 222
     },
     {
      "cod": 242,
@@ -26714,7 +26714,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 83
+     "saldo": 79
     },
     {
      "cod": 4427,
@@ -26984,7 +26984,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 73
+     "saldo": 72
     },
     {
      "cod": 2901,
@@ -27108,7 +27108,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 253
+     "saldo": 252
     },
     {
      "cod": 10990,
@@ -27172,7 +27172,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 3427,
@@ -28950,7 +28950,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 423
+     "saldo": 413
     },
     {
      "cod": 6324,
@@ -29615,14 +29615,6 @@
      "saldo": 25
     },
     {
-     "cod": 8293,
-     "nome": "LUVA NITRILICA-G C/100 PRETA SEM PO",
-     "marca": "",
-     "preco": 32.9,
-     "img": "produtos/8293.jpg",
-     "saldo": 3
-    },
-    {
      "cod": 10304,
      "nome": "LUVA NITRILICA-GG C/100 PRETA SEM PO",
      "marca": "",
@@ -29912,7 +29904,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 9748,
@@ -31873,7 +31865,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 123,
+     "saldo": 122,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31887,7 +31879,7 @@
       "AZUL": 19,
       "LARANJA": 22,
       "LILAS": 19,
-      "ROSA": 21,
+      "ROSA": 20,
       "VERDE": 20
      }
     },
