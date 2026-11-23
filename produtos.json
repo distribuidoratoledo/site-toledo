@@ -504,7 +504,7 @@
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 722
+       "saldo": 721
       },
       {
        "cod": 571,
@@ -521,7 +521,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/14374.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 5084,
@@ -3585,14 +3585,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 228,
+     "saldo": 227,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 228
+       "saldo": 227
       },
       {
        "cod": 2657,
@@ -3645,7 +3645,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 555
+     "saldo": 554
     },
     {
      "cod": 1509,
@@ -4013,7 +4013,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14544.jpg",
-     "saldo": 35,
+     "saldo": 34,
      "controle": [
       "LILAS",
       "ROSA",
@@ -4021,7 +4021,7 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "LILAS": 9,
+      "LILAS": 8,
       "ROSA": 8,
       "SALMÃO": 9,
       "VERDE": 9
@@ -8589,7 +8589,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 3249,
@@ -8874,7 +8874,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 788,
@@ -9470,7 +9470,7 @@
      "marca": "MARIPEL",
      "preco": 12.9,
      "img": "produtos/11623.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 834,
@@ -9812,7 +9812,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1922
+     "saldo": 1921
     },
     {
      "cod": 1031,
@@ -9820,7 +9820,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4046
+     "saldo": 4044
     },
     {
      "cod": 14619,
@@ -10188,7 +10188,7 @@
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/1525.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 11872,
@@ -10951,7 +10951,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 42
+     "saldo": 38
     },
     {
      "cod": 6612,
@@ -11808,7 +11808,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 60
+       "saldo": 52
       },
       {
        "cod": 2045,
@@ -12107,7 +12107,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 4502,
@@ -12139,7 +12139,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 937
+     "saldo": 933
     },
     {
      "cod": 2007,
@@ -15845,7 +15845,7 @@
        "cor": "Azul",
        "nome": "PASTA POLIONDA 4CM AZUL",
        "img": "produtos/3868.jpg",
-       "saldo": 43
+       "saldo": 42
       },
       {
        "cod": 3869,
@@ -18704,7 +18704,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22446
+     "saldo": 22436
     },
     {
      "cod": 1098,
@@ -19286,7 +19286,7 @@
      "marca": "USAPEL",
      "preco": 9.9,
      "img": "produtos/6689.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 8765,
@@ -19726,7 +19726,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 107
+     "saldo": 106
     },
     {
      "cod": 14261,
@@ -22060,7 +22060,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5981
+     "saldo": 5977
     },
     {
      "cod": 944,
@@ -22156,7 +22156,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 897
+     "saldo": 896
     },
     {
      "cod": 3342,
@@ -22220,7 +22220,7 @@
      "marca": "COPOZAN",
      "preco": 12.9,
      "img": "produtos/11814.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 3338,
@@ -23010,7 +23010,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 198
+     "saldo": 186
     },
     {
      "cod": 3731,
@@ -23114,7 +23114,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 2937,
@@ -23122,7 +23122,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 332
+     "saldo": 329
     },
     {
      "cod": 4146,
@@ -23130,7 +23130,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 217
+     "saldo": 204
     },
     {
      "cod": 2491,
@@ -23138,7 +23138,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 299
+     "saldo": 298
     },
     {
      "cod": 3887,
@@ -23146,7 +23146,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 190
+     "saldo": 177
     },
     {
      "cod": 2489,
@@ -25912,7 +25912,7 @@
      "marca": "KROMASA",
      "preco": 13.9,
      "img": "produtos/4943.jpg",
-     "saldo": 245
+     "saldo": 244
     },
     {
      "cod": 4944,
@@ -25968,7 +25968,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 648
+     "saldo": 645
     },
     {
      "cod": 2808,
@@ -26190,7 +26190,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 237
+     "saldo": 236
     },
     {
      "cod": 2826,
@@ -26658,7 +26658,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 61
+     "saldo": 59
     },
     {
      "cod": 13855,
@@ -26714,7 +26714,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 79
+     "saldo": 75
     },
     {
      "cod": 4427,
@@ -27086,7 +27086,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8755
+     "saldo": 8753
     },
     {
      "cod": 236,
@@ -27108,7 +27108,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 249
+     "saldo": 244
     },
     {
      "cod": 10990,
@@ -27298,7 +27298,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 616
+     "saldo": 615
     },
     {
      "cod": 2760,
@@ -27410,7 +27410,7 @@
      "marca": "",
      "preco": 52.9,
      "img": "produtos/7012.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 10455,
@@ -27977,7 +27977,7 @@
        "cor": "Lilas",
        "nome": "FITILHO 50MT LILAS",
        "img": "produtos/1324.jpg",
-       "saldo": 12
+       "saldo": 11
       },
       {
        "cod": 4778,
@@ -30906,14 +30906,14 @@
        "cor": "Laranja",
        "nome": "APONTADOR LEO C/D MINI-LARANJA",
        "img": "produtos/7546.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 7547,
        "cor": "Rosa",
        "nome": "APONTADOR LEO C/D MINI-ROSA",
        "img": "produtos/7547.jpg",
-       "saldo": 94
+       "saldo": 93
       },
       {
        "cod": 7548,
