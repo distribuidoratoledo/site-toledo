@@ -745,7 +745,7 @@
      "cod": 14465,
      "nome": "CANETA GEL MOLIN",
      "marca": "MOLIN",
-     "preco": 5.9,
+     "preco": 6.9,
      "img": "produtos/14465.jpg",
      "saldo": 23,
      "cores": [
@@ -1165,7 +1165,7 @@
      "cod": 14464,
      "nome": "CANETA LINE ART MOLIN-PRETA",
      "marca": "MOLIN",
-     "preco": 5.9,
+     "preco": 6.9,
      "img": "produtos/14464.jpg",
      "saldo": 24
     },
@@ -1293,7 +1293,7 @@
      "cod": 14481,
      "nome": "CANETA MOLIN LOVE DAISY-PRETA",
      "marca": "MOLIN",
-     "preco": 5.9,
+     "preco": 7.9,
      "img": "produtos/14481.jpg",
      "saldo": 34
     },
@@ -3682,7 +3682,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 554
+     "saldo": 553
     },
     {
      "cod": 1509,
@@ -3834,7 +3834,7 @@
      "marca": "COMPACTOR",
      "preco": 9.9,
      "img": "produtos/14376.jpg",
-     "saldo": 103
+     "saldo": 102
     },
     {
      "cod": 14437,
@@ -5235,7 +5235,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 12910,
@@ -9865,7 +9865,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3984
+     "saldo": 3958
     },
     {
      "cod": 14619,
@@ -9965,7 +9965,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 513
+     "saldo": 507
     },
     {
      "cod": 1293,
@@ -10091,7 +10091,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 98
+     "saldo": 93
     },
     {
      "cod": 1313,
@@ -10099,7 +10099,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 806
+     "saldo": 781
     },
     {
      "cod": 4389,
@@ -10553,7 +10553,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 457
+     "saldo": 447
     },
     {
      "cod": 10030,
@@ -12302,7 +12302,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 232
+     "saldo": 231
     },
     {
      "cod": 4344,
@@ -12422,7 +12422,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 172
+     "saldo": 167
     },
     {
      "cod": 2139,
@@ -15488,7 +15488,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/6950.jpg",
-     "saldo": 278
+     "saldo": 277
     },
     {
      "cod": 6196,
@@ -18765,7 +18765,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 22434
+     "saldo": 22429
     },
     {
      "cod": 1098,
@@ -18933,7 +18933,7 @@
      "marca": "SCRITY",
      "preco": 0.9,
      "img": "produtos/1058.jpg",
-     "saldo": 1313
+     "saldo": 1275
     },
     {
      "cod": 1060,
@@ -19945,7 +19945,7 @@
      "marca": "SD",
      "preco": 13.9,
      "img": "produtos/13221.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 13622,
@@ -19985,7 +19985,7 @@
      "marca": "CULTURAMA",
      "preco": 4.9,
      "img": "produtos/14655.jpg",
-     "saldo": 144
+     "saldo": 142
     },
     {
      "cod": 12465,
@@ -20095,7 +20095,7 @@
      "marca": "ACRILEX",
      "preco": 39.9,
      "img": "produtos/1473.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 1474,
@@ -23143,7 +23143,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 36
+     "saldo": 34
     },
     {
      "cod": 2937,
@@ -23151,7 +23151,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 315
+     "saldo": 311
     },
     {
      "cod": 4146,
@@ -23167,7 +23167,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 285
+     "saldo": 281
     },
     {
      "cod": 3887,
@@ -23301,7 +23301,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 471
+     "saldo": 451
     },
     {
      "cod": 880,
@@ -23969,7 +23969,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 48
+     "saldo": 49
     },
     {
      "cod": 7045,
@@ -24501,7 +24501,7 @@
      "marca": "ABN",
      "preco": 57.9,
      "img": "produtos/6986.jpg",
-     "saldo": 18
+     "saldo": 15
     },
     {
      "cod": 481,
@@ -24509,7 +24509,7 @@
      "marca": "ABN",
      "preco": 66.9,
      "img": "produtos/481.jpg",
-     "saldo": 20
+     "saldo": 14
     },
     {
      "cod": 6987,
@@ -24517,7 +24517,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 25
+     "saldo": 19
     },
     {
      "cod": 10001,
@@ -24587,7 +24587,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 273
+     "saldo": 263
     },
     {
      "cod": 3951,
@@ -24801,7 +24801,7 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg",
-     "saldo": 15
+     "saldo": 10
     },
     {
      "cod": 1344,
@@ -25597,7 +25597,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 312
+     "saldo": 313
     },
     {
      "cod": 13027,
@@ -25645,7 +25645,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 0
+     "saldo": 1
     },
     {
      "cod": 10060,
@@ -25741,7 +25741,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 160
+     "saldo": 161
     },
     {
      "cod": 10062,
@@ -26203,7 +26203,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 74
+     "saldo": 94
     },
     {
      "cod": 2824,
@@ -26251,7 +26251,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 447
+     "saldo": 442
     },
     {
      "cod": 2838,
@@ -26259,7 +26259,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 419
+     "saldo": 409
     },
     {
      "cod": 2839,
@@ -26512,7 +26512,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2344
+     "saldo": 2345
     },
     {
      "cod": 6821,
@@ -26598,7 +26598,7 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 243,
@@ -26606,7 +26606,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 119
+     "saldo": 115
     },
     {
      "cod": 244,
@@ -26670,7 +26670,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 2
+     "saldo": 3
     },
     {
      "cod": 251,
@@ -26790,7 +26790,7 @@
      "marca": "HIPERROLL",
      "preco": 43.9,
      "img": "produtos/1339.jpg",
-     "saldo": 9
+     "saldo": 6
     },
     {
      "cod": 2084,
@@ -26806,7 +26806,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 2100
+     "saldo": 1950
     },
     {
      "cod": 5547,
@@ -27106,7 +27106,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 977
+     "saldo": 973
     },
     {
      "cod": 235,
@@ -27216,7 +27216,7 @@
      "marca": "",
      "preco": 119.9,
      "img": "produtos/1282.jpg",
-     "saldo": 17
+     "saldo": 16
     }
    ]
   },
@@ -27358,7 +27358,7 @@
      "marca": "FORT-PACK",
      "preco": 13.9,
      "img": "produtos/4937.jpg",
-     "saldo": 71
+     "saldo": 66
     },
     {
      "cod": 4960,
@@ -29576,7 +29576,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/1786.jpg",
-     "saldo": 8
+     "saldo": 5
     },
     {
      "cod": 9179,
@@ -29846,7 +29846,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1328
+     "saldo": 1318
     },
     {
      "cod": 2157,
@@ -30668,7 +30668,7 @@
      "marca": "BRW",
      "preco": 3.9,
      "img": "produtos/11861.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 12246,
@@ -31607,7 +31607,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO CIS-VERDE",
        "img": "produtos/1827.jpg",
-       "saldo": 62
+       "saldo": 63
       }
      ]
     },
@@ -31805,7 +31805,7 @@
      "cod": 14691,
      "nome": "MARCA TEXTO MOLIN LOVE NEON-CORES",
      "marca": "MOLIN",
-     "preco": 8.9,
+     "preco": 11.9,
      "img": "produtos/14691.jpg",
      "saldo": 36,
      "controle": [
@@ -32433,7 +32433,7 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg",
-     "saldo": 1456
+     "saldo": 1458
     },
     {
      "cod": 14579,
