@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1377,
+     "saldo": 1371,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1377
+       "saldo": 1371
       },
       {
        "cod": 553,
@@ -157,7 +157,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC FINE PLUS-PRETA",
        "img": "produtos/556.jpg",
-       "saldo": 503
+       "saldo": 500
       },
       {
        "cod": 557,
@@ -9818,7 +9818,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 4031
+     "saldo": 4028
     },
     {
      "cod": 14619,
@@ -9918,7 +9918,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 514
+     "saldo": 513
     },
     {
      "cod": 1293,
@@ -10044,7 +10044,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 101
+     "saldo": 98
     },
     {
      "cod": 1313,
@@ -10793,7 +10793,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 132
+     "saldo": 129
     },
     {
      "cod": 2618,
@@ -12145,7 +12145,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1219
+     "saldo": 1209
     },
     {
      "cod": 9052,
@@ -22058,7 +22058,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 16
+     "saldo": 13
     },
     {
      "cod": 945,
@@ -22106,7 +22106,7 @@
      "marca": "COPOBRAS",
      "preco": 11.9,
      "img": "produtos/947.jpg",
-     "saldo": 43
+     "saldo": 40
     },
     {
      "cod": 14413,
@@ -23278,7 +23278,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 477
+     "saldo": 471
     },
     {
      "cod": 880,
@@ -24152,7 +24152,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 3634
+     "saldo": 3614
     },
     {
      "cod": 3857,
@@ -24604,7 +24604,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 101
+     "saldo": 95
     },
     {
      "cod": 14698,
@@ -25798,7 +25798,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 205
+     "saldo": 204
     },
     {
      "cod": 8100,
@@ -25830,7 +25830,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 290
+     "saldo": 289
     },
     {
      "cod": 14426,
@@ -26289,7 +26289,7 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 20X30 C/50-DOURADA",
        "img": "produtos/2845.jpg",
-       "saldo": 24
+       "saldo": 22
       },
       {
        "cod": 3670,
@@ -26957,7 +26957,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2306
+     "saldo": 2305
     },
     {
      "cod": 2896,
@@ -27121,7 +27121,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 212
+     "saldo": 199
     },
     {
      "cod": 10990,
@@ -27327,7 +27327,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 412
+     "saldo": 410
     },
     {
      "cod": 2762,
@@ -29697,7 +29697,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 284
+     "saldo": 283
     },
     {
      "cod": 7275,
@@ -29807,7 +29807,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 242
+     "saldo": 241
     },
     {
      "cod": 2152,
