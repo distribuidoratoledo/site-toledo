@@ -829,6 +829,110 @@
      ]
     },
     {
+     "cod": 14597,
+     "nome": "CANETA GEL TRIS HOLIC ALLBLACK",
+     "marca": "",
+     "preco": 14.9,
+     "img": "produtos/14597.jpg",
+     "saldo": 36
+    },
+    {
+     "cod": 14545,
+     "nome": "CANETA GEL TRIS HOLIC PIXIE BUTTERFLY-CORES",
+     "marca": "TRIS",
+     "preco": 21.9,
+     "img": "produtos/14545.jpg",
+     "saldo": 25,
+     "controle": [
+      "BRANCO",
+      "LILAS",
+      "ROSA"
+     ],
+     "saldo_cor": {
+      "BRANCO": 9,
+      "LILAS": 7,
+      "ROSA": 9
+     }
+    },
+    {
+     "cod": 14558,
+     "nome": "CANETA GEL TRIS NUVEM CORES",
+     "marca": "TRIS",
+     "preco": 18.9,
+     "img": "produtos/14558.jpg",
+     "saldo": 14,
+     "controle": [
+      "AZUL",
+      "AZUL CL",
+      "BRANCO"
+     ],
+     "saldo_cor": {
+      "AZUL": 4,
+      "AZUL CL": 5,
+      "BRANCO": 5
+     }
+    },
+    {
+     "cod": 14598,
+     "nome": "CANETA GEL TRIS ZIGZAG-CORES",
+     "marca": "",
+     "preco": 12.9,
+     "img": "produtos/14598.jpg",
+     "saldo": 35,
+     "controle": [
+      "AZUL",
+      "PRETO"
+     ],
+     "saldo_cor": {
+      "AZUL": 18,
+      "PRETO": 17
+     }
+    },
+    {
+     "cod": 14550,
+     "nome": "CANETA GEL TRIS-HOLIC PIXIE CORES",
+     "marca": "TRIS",
+     "preco": 16.9,
+     "img": "produtos/14550.jpg",
+     "saldo": 23,
+     "controle": [
+      "AZUL",
+      "ROSA",
+      "ROXO",
+      "VERDE-ÁGUA"
+     ],
+     "saldo_cor": {
+      "AZUL": 6,
+      "ROSA": 5,
+      "ROXO": 6,
+      "VERDE-ÁGUA": 6
+     }
+    },
+    {
+     "cod": 10568,
+     "nome": "CANETA GEL UNIBALL SIGNO",
+     "marca": "CIS",
+     "preco": 12.9,
+     "img": "produtos/10568.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 10568,
+       "cor": "Dourada",
+       "nome": "CANETA GEL UNIBALL SIGNO-DOURADA",
+       "img": "produtos/10568.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 10574,
+       "cor": "Prata",
+       "nome": "CANETA GEL UNIBALL SIGNO-PRATA",
+       "img": "produtos/10574.jpg",
+       "saldo": 3
+      }
+     ]
+    },
+    {
      "cod": 10039,
      "nome": "CANETA GEL/CONVITE 0.8 CIS-BRANCA (GELYX)",
      "marca": "CIS",
@@ -880,110 +984,6 @@
        "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
        "img": "produtos/574.jpg",
        "saldo": 34
-      }
-     ]
-    },
-    {
-     "cod": 14597,
-     "nome": "CANETA GEL/CONVITE TRIS HOLIC ALLBLACK",
-     "marca": "",
-     "preco": 14.9,
-     "img": "produtos/14597.jpg",
-     "saldo": 36
-    },
-    {
-     "cod": 14545,
-     "nome": "CANETA GEL/CONVITE TRIS HOLIC PIXIE BUTTERFLY-CORES",
-     "marca": "TRIS",
-     "preco": 21.9,
-     "img": "produtos/14545.jpg",
-     "saldo": 25,
-     "controle": [
-      "BRANCO",
-      "LILAS",
-      "ROSA"
-     ],
-     "saldo_cor": {
-      "BRANCO": 9,
-      "LILAS": 7,
-      "ROSA": 9
-     }
-    },
-    {
-     "cod": 14558,
-     "nome": "CANETA GEL/CONVITE TRIS NUVEM CORES",
-     "marca": "TRIS",
-     "preco": 18.9,
-     "img": "produtos/14558.jpg",
-     "saldo": 14,
-     "controle": [
-      "AZUL",
-      "AZUL CL",
-      "BRANCO"
-     ],
-     "saldo_cor": {
-      "AZUL": 4,
-      "AZUL CL": 5,
-      "BRANCO": 5
-     }
-    },
-    {
-     "cod": 14598,
-     "nome": "CANETA GEL/CONVITE TRIS ZIGZAG-CORES",
-     "marca": "",
-     "preco": 12.9,
-     "img": "produtos/14598.jpg",
-     "saldo": 35,
-     "controle": [
-      "AZUL",
-      "PRETO"
-     ],
-     "saldo_cor": {
-      "AZUL": 18,
-      "PRETO": 17
-     }
-    },
-    {
-     "cod": 14550,
-     "nome": "CANETA GEL/CONVITE TRIS-HOLIC PIXIE CORES",
-     "marca": "TRIS",
-     "preco": 16.9,
-     "img": "produtos/14550.jpg",
-     "saldo": 23,
-     "controle": [
-      "AZUL",
-      "ROSA",
-      "ROXO",
-      "VERDE-ÁGUA"
-     ],
-     "saldo_cor": {
-      "AZUL": 6,
-      "ROSA": 5,
-      "ROXO": 6,
-      "VERDE-ÁGUA": 6
-     }
-    },
-    {
-     "cod": 10568,
-     "nome": "CANETA GEL/CONVITE UNIBALL SIGNO",
-     "marca": "CIS",
-     "preco": 12.9,
-     "img": "produtos/10568.jpg",
-     "saldo": 1,
-     "cores": [
-      {
-       "cod": 10568,
-       "cor": "Dourada",
-       "nome": "CANETA GEL/CONVITE UNIBALL SIGNO-DOURADA",
-       "img": "produtos/10568.jpg",
-       "saldo": 1
-      },
-      {
-       "cod": 10574,
-       "cor": "Prata",
-       "nome": "CANETA GEL/CONVITE UNIBALL SIGNO-PRATA",
-       "img": "produtos/10574.jpg",
-       "saldo": 3
       }
      ]
     },
@@ -2828,7 +2828,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1673.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 1674,
@@ -2852,7 +2852,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/1675.jpg",
-     "saldo": 33
+     "saldo": 31
     },
     {
      "cod": 1676,
@@ -2868,7 +2868,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/5835.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 5406,
@@ -3098,14 +3098,14 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2343.jpg",
-     "saldo": 35,
+     "saldo": 31,
      "cores": [
       {
        "cod": 2343,
        "cor": "Azul",
        "nome": "PINCEL ATOM.1100 PILOT-AZUL",
        "img": "produtos/2343.jpg",
-       "saldo": 35
+       "saldo": 31
       },
       {
        "cod": 2344,
@@ -3583,14 +3583,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 224,
+     "saldo": 220,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 224
+       "saldo": 220
       },
       {
        "cod": 2657,
@@ -9596,7 +9596,7 @@
      "marca": "PRITT",
      "preco": 12.9,
      "img": "produtos/815.jpg",
-     "saldo": 244
+     "saldo": 243
     },
     {
      "cod": 816,
@@ -9604,7 +9604,7 @@
      "marca": "PRITT",
      "preco": 6.9,
      "img": "produtos/816.jpg",
-     "saldo": 281
+     "saldo": 280
     },
     {
      "cod": 14418,
@@ -9716,7 +9716,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 10944,
@@ -10853,7 +10853,7 @@
      "marca": "ACC",
      "preco": 16.9,
      "img": "produtos/5156.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 4050,
@@ -12145,7 +12145,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1239
+     "saldo": 1219
     },
     {
      "cod": 9052,
@@ -13236,7 +13236,7 @@
      "marca": "COLORE",
      "preco": 24.9,
      "img": "produtos/3679.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 3877,
@@ -17041,7 +17041,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 174
+       "saldo": 171
       }
      ]
     },
@@ -17059,7 +17059,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 105
+     "saldo": 102
     },
     {
      "cod": 1228,
@@ -17292,7 +17292,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3069.jpg",
-     "saldo": 773
+     "saldo": 771
     },
     {
      "cod": 3070,
@@ -17316,7 +17316,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3071.jpg",
-     "saldo": 753
+     "saldo": 751
     },
     {
      "cod": 5066,
@@ -19708,7 +19708,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 8808,
@@ -19740,7 +19740,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 14261,
@@ -22066,7 +22066,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 95
+     "saldo": 91
     },
     {
      "cod": 14406,
@@ -24596,7 +24596,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 128
+     "saldo": 126
     },
     {
      "cod": 11295,
@@ -25726,7 +25726,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 181
+     "saldo": 180
     },
     {
      "cod": 10062,
@@ -26204,7 +26204,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 222
+     "saldo": 219
     },
     {
      "cod": 2826,
@@ -26743,7 +26743,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5566
+     "saldo": 5466
     },
     {
      "cod": 11788,
@@ -26957,7 +26957,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2307
+     "saldo": 2306
     },
     {
      "cod": 2896,
@@ -27099,7 +27099,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 8723
+     "saldo": 8693
     },
     {
      "cod": 236,
@@ -28963,7 +28963,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 434
+     "saldo": 433
     },
     {
      "cod": 6323,
