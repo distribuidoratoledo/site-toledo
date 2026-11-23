@@ -2577,7 +2577,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 542
+     "saldo": 541
     },
     {
      "cod": 5836,
@@ -23016,7 +23016,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 186
+     "saldo": 185
     },
     {
      "cod": 3731,
@@ -23128,7 +23128,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 328
+     "saldo": 327
     },
     {
      "cod": 4146,
@@ -23144,7 +23144,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 299
+     "saldo": 298
     },
     {
      "cod": 3887,
@@ -23254,7 +23254,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 220
+     "saldo": 218
     },
     {
      "cod": 11964,
@@ -23572,7 +23572,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11683.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 11682,
@@ -26743,7 +26743,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5666
+     "saldo": 5566
     },
     {
      "cod": 11788,
@@ -29912,12 +29912,12 @@
      "saldo": 49
     },
     {
-     "cod": 9748,
-     "nome": "SACO CHAO ALVEJADO (40X60) 12BT",
-     "marca": "BOM PANO",
-     "preco": 6.9,
-     "img": "produtos/9748.jpg",
-     "saldo": 5
+     "cod": 6749,
+     "nome": "SACO CHAO ALVEJADO (40X60) 18BT",
+     "marca": "",
+     "preco": 5.9,
+     "img": "produtos/6749.jpg",
+     "saldo": 4
     },
     {
      "cod": 10666,
@@ -30956,7 +30956,7 @@
        "cor": "Rosa",
        "nome": "APONTADOR LEO S/D REDONDO-ROSA",
        "img": "produtos/7594.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 7595,
