@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1242,
+     "saldo": 1192,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1242
+       "saldo": 1192
       },
       {
        "cod": 553,
@@ -3590,7 +3590,7 @@
        "cor": "Preto",
        "nome": "RETRO 1.0 PILOT-PRETO",
        "img": "produtos/2653.jpg",
-       "saldo": 41
+       "saldo": 39
       },
       {
        "cod": 2654,
@@ -3674,7 +3674,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 552
+     "saldo": 550
     },
     {
      "cod": 1509,
@@ -9833,7 +9833,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 735
+     "saldo": 734
     },
     {
      "cod": 4438,
@@ -9933,7 +9933,7 @@
      "marca": "ADELBRAS",
      "preco": 2.0,
      "img": "produtos/1291.jpg",
-     "saldo": 247
+     "saldo": 246
     },
     {
      "cod": 11652,
@@ -11510,21 +11510,21 @@
      "marca": "GRIFFE",
      "preco": 1.6,
      "img": "produtos/740.jpg",
-     "saldo": 180,
+     "saldo": 178,
      "cores": [
       {
        "cod": 740,
        "cor": "Amarelo",
        "nome": "CARTAO-AMARELO",
        "img": "produtos/740.jpg",
-       "saldo": 180
+       "saldo": 178
       },
       {
        "cod": 741,
        "cor": "Azul Claro",
        "nome": "CARTAO-AZUL CLARO",
        "img": "produtos/741.jpg",
-       "saldo": 73
+       "saldo": 71
       },
       {
        "cod": 742,
@@ -11545,14 +11545,14 @@
        "cor": "Laranja",
        "nome": "CARTAO-LARANJA",
        "img": "produtos/744.jpg",
-       "saldo": 60
+       "saldo": 58
       },
       {
        "cod": 4180,
        "cor": "Lilas / Violeta",
        "nome": "CARTAO-LILAS/VIOLETA",
        "img": "produtos/4180.jpg",
-       "saldo": 71
+       "saldo": 70
       },
       {
        "cod": 746,
@@ -11573,14 +11573,14 @@
        "cor": "Rosa",
        "nome": "CARTAO-ROSA",
        "img": "produtos/748.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 749,
        "cor": "Verde Bandeira",
        "nome": "CARTAO-VERDE BANDEIRA",
        "img": "produtos/749.jpg",
-       "saldo": 104
+       "saldo": 103
       },
       {
        "cod": 5158,
@@ -12104,7 +12104,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 534
+     "saldo": 532
     },
     {
      "cod": 3580,
@@ -12394,7 +12394,7 @@
     },
     {
      "cod": 7098,
-     "nome": "SEDA AZUL ESCURO/ROYAL",
+     "nome": "SEDA AZUL ROYAL",
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/7098.jpg",
@@ -15173,14 +15173,6 @@
      "saldo": 0
     },
     {
-     "cod": 7531,
-     "nome": "SUPORTE DUREX GRD JOCAR",
-     "marca": "JOCAR",
-     "preco": 24.9,
-     "img": "produtos/7531.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 2912,
      "nome": "SUPORTE DUREX MEDIO JOCAR",
      "marca": "JOCAR",
@@ -16595,7 +16587,7 @@
      "marca": "CROMUS",
      "preco": 18.9,
      "img": "produtos/2741.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 2744,
@@ -17299,7 +17291,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 213
+     "saldo": 210
     },
     {
      "cod": 6999,
@@ -18744,14 +18736,6 @@
      "saldo": 20429
     },
     {
-     "cod": 1098,
-     "nome": "ENV. VISITA BRANCO (COF 050) SCRITY",
-     "marca": "SCRITY",
-     "preco": 0.15,
-     "img": "produtos/1098.jpg",
-     "saldo": 53
-    },
-    {
      "cod": 1039,
      "nome": "ENVELOPE BRC 162X229 (SOF 023)",
      "marca": "SCRITY",
@@ -18950,6 +18934,14 @@
      "preco": 0.5,
      "img": "produtos/1094.jpg",
      "saldo": 392
+    },
+    {
+     "cod": 1098,
+     "nome": "ENVELOPE VISITA BRANCO (COF 050) SCRITY",
+     "marca": "SCRITY",
+     "preco": 0.15,
+     "img": "produtos/1098.jpg",
+     "saldo": 500
     },
     {
      "cod": 1095,
@@ -22105,7 +22097,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1731
+     "saldo": 1631
     },
     {
      "cod": 14414,
@@ -22137,7 +22129,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 764
+     "saldo": 684
     },
     {
      "cod": 14407,
@@ -23127,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 299
+     "saldo": 289
     },
     {
      "cod": 4146,
@@ -23135,7 +23127,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 189
+     "saldo": 177
     },
     {
      "cod": 2491,
@@ -23143,7 +23135,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 271
+     "saldo": 261
     },
     {
      "cod": 3887,
@@ -23160,14 +23152,6 @@
      "preco": 31.9,
      "img": "produtos/2489.jpg",
      "saldo": 1
-    },
-    {
-     "cod": 7352,
-     "nome": "PT104 COPOPLAST C/100 (FUNDO)",
-     "marca": "COPOPLAST",
-     "preco": 29.9,
-     "img": "produtos/7352.jpg",
-     "saldo": 12
     },
     {
      "cod": 14323,
@@ -25071,7 +25055,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/1995.jpg",
-     "saldo": 115
+     "saldo": 110
     },
     {
      "cod": 1999,
@@ -25517,7 +25501,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 192
+     "saldo": 191
     },
     {
      "cod": 3651,
@@ -25533,7 +25517,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 2712,
@@ -26211,7 +26195,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 442
+     "saldo": 432
     },
     {
      "cod": 2838,
@@ -26219,7 +26203,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 408
+     "saldo": 398
     },
     {
      "cod": 2839,
@@ -26480,7 +26464,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 315
+     "saldo": 314
     },
     {
      "cod": 6855,
@@ -26488,7 +26472,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 219
+     "saldo": 218
     },
     {
      "cod": 2875,
@@ -26496,7 +26480,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 594
+     "saldo": 593
     },
     {
      "cod": 6825,
@@ -26670,7 +26654,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 90
+     "saldo": 84
     },
     {
      "cod": 6965,
@@ -26702,7 +26686,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 23
+     "saldo": 15
     },
     {
      "cod": 4427,
@@ -26964,7 +26948,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 891
+     "saldo": 889
     },
     {
      "cod": 2900,
@@ -27074,7 +27058,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7819
+     "saldo": 7789
     },
     {
      "cod": 236,
@@ -27160,7 +27144,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 107
+     "saldo": 105
     },
     {
      "cod": 3427,
@@ -29600,7 +29584,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 8294,
@@ -29608,7 +29592,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 8295,
@@ -29672,7 +29656,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 254
+     "saldo": 252
     },
     {
      "cod": 7275,
@@ -29806,7 +29790,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1301
+     "saldo": 1291
     },
     {
      "cod": 2157,
