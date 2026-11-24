@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1192,
+     "saldo": 1188,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1192
+       "saldo": 1188
       },
       {
        "cod": 553,
@@ -10075,7 +10075,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 76
+     "saldo": 71
     },
     {
      "cod": 1313,
@@ -10681,7 +10681,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 6716,
@@ -12382,7 +12382,7 @@
      "marca": "",
      "preco": 0.4,
      "img": "produtos/12760.jpg",
-     "saldo": 260
+     "saldo": 75
     },
     {
      "cod": 2135,
@@ -12390,7 +12390,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/2135.jpg",
-     "saldo": 403
+     "saldo": 503
     },
     {
      "cod": 7098,
@@ -12398,7 +12398,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/7098.jpg",
-     "saldo": 419
+     "saldo": 460
     },
     {
      "cod": 2137,
@@ -14357,7 +14357,7 @@
      "marca": "NITRON",
      "preco": 16.9,
      "img": "produtos/10723.jpg",
-     "saldo": 73
+     "saldo": 72
     },
     {
      "cod": 6197,
@@ -16678,7 +16678,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 128
+     "saldo": 127
     },
     {
      "cod": 1144,
@@ -18503,7 +18503,7 @@
      "marca": "LUXCEL",
      "preco": 81.9,
      "img": "produtos/12877.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 12506,
@@ -22081,7 +22081,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5922
+     "saldo": 5916
     },
     {
      "cod": 944,
@@ -22177,7 +22177,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 896
+     "saldo": 895
     },
     {
      "cod": 3342,
@@ -23111,7 +23111,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 2937,
@@ -23119,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 289
+     "saldo": 286
     },
     {
      "cod": 4146,
@@ -23127,7 +23127,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 177
+     "saldo": 175
     },
     {
      "cod": 2491,
@@ -23135,7 +23135,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 261
+     "saldo": 260
     },
     {
      "cod": 3887,
@@ -23143,7 +23143,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 171
+     "saldo": 169
     },
     {
      "cod": 2489,
@@ -23237,7 +23237,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 218
+     "saldo": 216
     },
     {
      "cod": 11964,
@@ -24531,7 +24531,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 254
+     "saldo": 253
     },
     {
      "cod": 3951,
@@ -24539,7 +24539,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 343
+     "saldo": 338
     },
     {
      "cod": 14268,
@@ -24563,7 +24563,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 94
+     "saldo": 92
     },
     {
      "cod": 14698,
@@ -25181,7 +25181,7 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg",
-     "saldo": 18
+     "saldo": 16
     },
     {
      "cod": 14415,
@@ -25197,7 +25197,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 2700,
@@ -25805,7 +25805,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 129
+     "saldo": 128
     },
     {
      "cod": 2766,
@@ -26069,7 +26069,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/7172.jpg",
-     "saldo": 216
+     "saldo": 206
     },
     {
      "cod": 7177,
@@ -26179,7 +26179,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 46
+     "saldo": 36
     },
     {
      "cod": 4362,
@@ -27058,7 +27058,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7789
+     "saldo": 7669
     },
     {
      "cod": 236,
@@ -29254,7 +29254,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/6657.jpg",
-     "saldo": 12
+     "saldo": 6
     },
     {
      "cod": 3102,
@@ -29648,7 +29648,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 3085,
@@ -29656,7 +29656,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 252
+     "saldo": 250
     },
     {
      "cod": 7275,
@@ -29686,7 +29686,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 2102,
@@ -30168,7 +30168,7 @@
      "marca": "PREMISSE",
      "preco": 75.9,
      "img": "produtos/7651.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 9812,
