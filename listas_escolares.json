@@ -22974,12 +22974,12 @@
       },
       {
        "descricao": "Papel Ecocores Criativo A3 8 cores 75 g/m² 64 folhas (2 pacotes)",
-       "qtd": 2,
+       "qtd": 3,
        "cod": 14876,
        "produto": "PAPEL CRIATIVO A3 C/20-OFFPINHO",
        "marca": "OFF PAPER",
        "preco": 21.9,
-       "obs": "Papel criativo A3 8 cores.",
+       "obs": "Papel criativo A3 Offpinho com 20 folhas: 3 pacotes = 60 folhas.",
        "foto": "listas/fotos/14876.jpg",
        "grupo": "Lista de materiais escolares (1º semestre)"
       },
@@ -24454,5 +24454,5 @@
    ]
   }
  ],
- "atualizado": "24/11/2026 11:59"
+ "atualizado": "24/11/2026 12:12"
 }
