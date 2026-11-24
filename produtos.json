@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1243,
+     "saldo": 1242,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1243
+       "saldo": 1242
       },
       {
        "cod": 553,
@@ -10083,7 +10083,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 675
+     "saldo": 672
     },
     {
      "cod": 4389,
@@ -11170,7 +11170,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 157
+     "saldo": 152
     },
     {
      "cod": 1977,
@@ -19743,8 +19743,8 @@
     },
     {
      "cod": 2616,
-     "nome": "REFIL COLA QUENTE FINO",
-     "marca": "CLASSE",
+     "nome": "REFIL COLA QUENTE FINO (UNIDADE)",
+     "marca": "",
      "preco": 1.0,
      "img": "produtos/2616.jpg",
      "saldo": 88
@@ -22057,7 +22057,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 819
+     "saldo": 818
     },
     {
      "cod": 938,
@@ -22353,7 +22353,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 518
+     "saldo": 517
     },
     {
      "cod": 2923,
@@ -23119,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 2937,
@@ -23127,7 +23127,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 301
+     "saldo": 300
     },
     {
      "cod": 4146,
@@ -23135,7 +23135,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 194
+     "saldo": 191
     },
     {
      "cod": 2491,
@@ -23151,7 +23151,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 172
+     "saldo": 171
     },
     {
      "cod": 2489,
@@ -23475,7 +23475,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 2516,
@@ -24477,7 +24477,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 10001,
@@ -24625,7 +24625,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/30.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 31,
@@ -25063,7 +25063,7 @@
      "marca": "VABENE",
      "preco": 23.9,
      "img": "produtos/7305.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 1995,
@@ -25469,7 +25469,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 89
+     "saldo": 88
     },
     {
      "cod": 665,
@@ -25693,7 +25693,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/13028.jpg",
-     "saldo": 94
+     "saldo": 91
     },
     {
      "cod": 2727,
@@ -25701,7 +25701,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 161
+     "saldo": 171
     },
     {
      "cod": 10062,
@@ -25845,7 +25845,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/2768.jpg",
-     "saldo": 269
+     "saldo": 268
     },
     {
      "cod": 2769,
@@ -26117,7 +26117,7 @@
      "marca": "",
      "preco": 11.9,
      "img": "produtos/7173.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 4058,
@@ -26163,7 +26163,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 2824,
@@ -26171,7 +26171,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 661
+     "saldo": 650
     },
     {
      "cod": 10972,
@@ -26558,7 +26558,7 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 243,
@@ -26582,7 +26582,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 102
+     "saldo": 162
     },
     {
      "cod": 13857,
@@ -26590,7 +26590,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 56
+     "saldo": 116
     },
     {
      "cod": 13856,
@@ -26598,7 +26598,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 101
+     "saldo": 161
     },
     {
      "cod": 13859,
@@ -26718,7 +26718,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5160
+     "saldo": 5060
     },
     {
      "cod": 11788,
@@ -27144,7 +27144,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 1278,
@@ -27302,7 +27302,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 408
+     "saldo": 406
     },
     {
      "cod": 2762,
@@ -27470,7 +27470,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10104.jpg",
-     "saldo": 128
+     "saldo": 127
     },
     {
      "cod": 2804,
@@ -29324,7 +29324,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/194.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 1035,
@@ -29930,7 +29930,7 @@
      "marca": "SANREMO",
      "preco": 4.9,
      "img": "produtos/11771.jpg",
-     "saldo": 8
+     "saldo": 5
     },
     {
      "cod": 1012,
@@ -30460,7 +30460,7 @@
      "marca": "TIBA",
      "preco": 9.9,
      "img": "produtos/3543.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 9849,
