@@ -2860,13 +2860,13 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 7,
+     "saldo": 6,
      "controle": [
       "AMARELO",
       "SALMÃO"
      ],
      "saldo_cor": {
-      "AMARELO": 5,
+      "AMARELO": 4,
       "SALMÃO": 2
      }
     },
@@ -10107,7 +10107,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 656
+     "saldo": 655
     },
     {
      "cod": 4389,
@@ -11649,7 +11649,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 203
+       "saldo": 202
       },
       {
        "cod": 2035,
@@ -12193,7 +12193,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1153
+     "saldo": 1157
     },
     {
      "cod": 9052,
@@ -17065,7 +17065,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 161
+       "saldo": 156
       }
      ]
     },
@@ -22154,7 +22154,7 @@
      "marca": "COPOMAIS",
      "preco": 10.9,
      "img": "produtos/14408.jpg",
-     "saldo": 114
+     "saldo": 108
     },
     {
      "cod": 954,
@@ -23000,7 +23000,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 173
+     "saldo": 172
     },
     {
      "cod": 3731,
@@ -23200,7 +23200,7 @@
      "marca": "TOTAPLAST",
      "preco": 8.9,
      "img": "produtos/4733.jpg",
-     "saldo": 4
+     "saldo": 76
     },
     {
      "cod": 13885,
@@ -23262,7 +23262,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 372
+     "saldo": 371
     },
     {
      "cod": 14417,
@@ -23350,7 +23350,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/9914.jpg",
-     "saldo": 54
+     "saldo": 51
     },
     {
      "cod": 14191,
@@ -23754,7 +23754,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 510
+     "saldo": 860
     },
     {
      "cod": 1415,
@@ -24200,7 +24200,7 @@
      "marca": "PITPRATOS",
      "preco": 35.9,
      "img": "produtos/2562.jpg",
-     "saldo": 12
+     "saldo": 22
     },
     {
      "cod": 2563,
@@ -24232,7 +24232,7 @@
      "marca": "PITPRATOS",
      "preco": 44.9,
      "img": "produtos/2566.jpg",
-     "saldo": 12
+     "saldo": 22
     },
     {
      "cod": 13700,
@@ -24532,7 +24532,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 241
+     "saldo": 240
     },
     {
      "cod": 3951,
@@ -24540,7 +24540,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 338
+     "saldo": 330
     },
     {
      "cod": 14268,
@@ -24650,7 +24650,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/39.jpg",
-     "saldo": 22
+     "saldo": 147
     },
     {
      "cod": 13605,
@@ -24746,7 +24746,15 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg",
-     "saldo": 10
+     "saldo": 40
+    },
+    {
+     "cod": 1344,
+     "nome": "FORMA ALUM D5 (170X215) 1.100ML C/100-MELLO",
+     "marca": "MELLO",
+     "preco": 139.9,
+     "img": "produtos/1344.jpg",
+     "saldo": 6
     },
     {
      "cod": 1345,
@@ -25238,7 +25246,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/5909.jpg",
-     "saldo": 19
+     "saldo": 18
     }
    ]
   },
@@ -25454,7 +25462,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 87
+     "saldo": 85
     },
     {
      "cod": 665,
@@ -25654,7 +25662,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 70
+     "saldo": 62
     },
     {
      "cod": 2726,
@@ -25798,7 +25806,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 127
+     "saldo": 124
     },
     {
      "cod": 2766,
@@ -26148,7 +26156,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 644
+     "saldo": 634
     },
     {
      "cod": 10972,
@@ -26449,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2340
+     "saldo": 2339
     },
     {
      "cod": 6821,
@@ -26679,7 +26687,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 15
+     "saldo": 11
     },
     {
      "cod": 4427,
@@ -27263,7 +27271,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 776
+     "saldo": 771
     },
     {
      "cod": 4936,
@@ -27280,6 +27288,14 @@
      "preco": 4.5,
      "img": "produtos/2762.jpg",
      "saldo": 271
+    },
+    {
+     "cod": 2763,
+     "nome": "SACO KRAFT 5KG C/100 (CAIXA)",
+     "marca": "IEC",
+     "preco": 13.9,
+     "img": "produtos/2763.jpg",
+     "saldo": 100
     },
     {
      "cod": 4937,
@@ -29301,7 +29317,7 @@
      "marca": "TANQUE NOV",
      "preco": 37.9,
      "img": "produtos/14329.jpg",
-     "saldo": 7
+     "saldo": 19
     },
     {
      "cod": 1724,
@@ -29569,7 +29585,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 8294,
@@ -29704,6 +29720,14 @@
      "preco": 69.9,
      "img": "produtos/7016.jpg",
      "saldo": 97
+    },
+    {
+     "cod": 9017,
+     "nome": "PAPEL HIG.4X30MT-BOB (NEUTRO)",
+     "marca": "BOB",
+     "preco": 5.9,
+     "img": "produtos/9017.jpg",
+     "saldo": 2
     },
     {
      "cod": 2107,
@@ -29861,7 +29885,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/10666.jpg",
-     "saldo": 34
+     "saldo": 28
     },
     {
      "cod": 11659,
