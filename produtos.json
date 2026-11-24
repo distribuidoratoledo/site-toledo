@@ -416,14 +416,14 @@
      "marca": "CIS",
      "preco": 4.5,
      "img": "produtos/561.jpg",
-     "saldo": 151,
+     "saldo": 149,
      "cores": [
       {
        "cod": 561,
        "cor": "Azul Claro",
        "nome": "CANETA CIS SPIRO-AZUL CLARO",
        "img": "produtos/561.jpg",
-       "saldo": 151
+       "saldo": 149
       },
       {
        "cod": 562,
@@ -437,7 +437,7 @@
        "cor": "Laranja",
        "nome": "CANETA CIS SPIRO-LARANJA",
        "img": "produtos/563.jpg",
-       "saldo": 186
+       "saldo": 185
       },
       {
        "cod": 564,
@@ -4638,7 +4638,7 @@
      "marca": "TILIBRA",
      "preco": 29.9,
      "img": "produtos/14273.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 14277,
@@ -7068,7 +7068,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 52
+     "saldo": 38
     },
     {
      "cod": 6295,
@@ -7665,7 +7665,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 42
+     "saldo": 40
     },
     {
      "cod": 3244,
@@ -9941,7 +9941,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/11652.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 1292,
@@ -10832,7 +10832,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 65
+     "saldo": 63
     }
    ]
   },
@@ -10980,7 +10980,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/1538.jpg",
-     "saldo": 89
+     "saldo": 88
     },
     {
      "cod": 9505,
@@ -10996,7 +10996,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 3479,
@@ -12176,7 +12176,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1171
+     "saldo": 1168
     },
     {
      "cod": 9052,
@@ -12286,7 +12286,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 209
+     "saldo": 210
     },
     {
      "cod": 4344,
@@ -12842,119 +12842,119 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3020.jpg",
-     "saldo": 49,
+     "saldo": 48,
      "cores": [
       {
        "cod": 3020,
        "cor": "Amarelo Ouro",
        "nome": "GUACHE 250ML ACRILEX-AMARELO OURO",
        "img": "produtos/3020.jpg",
-       "saldo": 49
+       "saldo": 48
       },
       {
        "cod": 12685,
        "cor": "Amarelo Pessego",
        "nome": "GUACHE 250ML ACRILEX-AMARELO PESSEGO",
        "img": "produtos/12685.jpg",
-       "saldo": 49
+       "saldo": 48
       },
       {
        "cod": 5764,
        "cor": "Azul",
        "nome": "GUACHE 250ML ACRILEX-AZUL",
        "img": "produtos/5764.jpg",
-       "saldo": 47
+       "saldo": 46
       },
       {
        "cod": 6269,
        "cor": "Azul Celeste",
        "nome": "GUACHE 250ML ACRILEX-AZUL CELESTE",
        "img": "produtos/6269.jpg",
-       "saldo": 62
+       "saldo": 61
       },
       {
        "cod": 3021,
        "cor": "Azul Turquesa",
        "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
        "img": "produtos/3021.jpg",
-       "saldo": 59
+       "saldo": 58
       },
       {
        "cod": 3022,
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 40
+       "saldo": 39
       },
       {
        "cod": 12686,
        "cor": "Cinza",
        "nome": "GUACHE 250ML ACRILEX-CINZA",
        "img": "produtos/12686.jpg",
-       "saldo": 91
+       "saldo": 90
       },
       {
        "cod": 3023,
        "cor": "Laranja",
        "nome": "GUACHE 250ML ACRILEX-LARANJA",
        "img": "produtos/3023.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 11882,
        "cor": "Lilas",
        "nome": "GUACHE 250ML ACRILEX-LILAS",
        "img": "produtos/11882.jpg",
-       "saldo": 90
+       "saldo": 89
       },
       {
        "cod": 11881,
        "cor": "Magenta",
        "nome": "GUACHE 250ML ACRILEX-MAGENTA",
        "img": "produtos/11881.jpg",
-       "saldo": 113
+       "saldo": 112
       },
       {
        "cod": 3024,
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 53
+       "saldo": 52
       },
       {
        "cod": 3025,
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 54
+       "saldo": 53
       },
       {
        "cod": 3026,
        "cor": "Rosa",
        "nome": "GUACHE 250ML ACRILEX-ROSA",
        "img": "produtos/3026.jpg",
-       "saldo": 76
+       "saldo": 75
       },
       {
        "cod": 3028,
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
        "img": "produtos/3028.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 12684,
        "cor": "Vinho",
        "nome": "GUACHE 250ML ACRILEX-VINHO",
        "img": "produtos/12684.jpg",
-       "saldo": 97
+       "saldo": 96
       },
       {
        "cod": 3027,
        "cor": "Violeta",
        "nome": "GUACHE 250ML ACRILEX-VIOLETA",
        "img": "produtos/3027.jpg",
-       "saldo": 75
+       "saldo": 74
       }
      ]
     },
@@ -12964,7 +12964,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/5763.jpg",
-     "saldo": 67
+     "saldo": 66
     },
     {
      "cod": 3029,
@@ -12972,7 +12972,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3029.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 3033,
@@ -16006,14 +16006,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 213,
+     "saldo": 212,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 213
+       "saldo": 212
       },
       {
        "cod": 6797,
@@ -19809,7 +19809,7 @@
      "marca": "SILVEIRA B",
      "preco": 16.9,
      "img": "produtos/1001.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 6090,
@@ -19833,7 +19833,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 82
+     "saldo": 81
     },
     {
      "cod": 14657,
@@ -21733,7 +21733,7 @@
      "marca": "CIS",
      "preco": 5.9,
      "img": "produtos/4337.jpg",
-     "saldo": 39
+     "saldo": 38
     }
    ]
   },
@@ -22081,7 +22081,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5891
+     "saldo": 5889
     },
     {
      "cod": 944,
@@ -23571,7 +23571,7 @@
      "marca": "ULTRA",
      "preco": 17.9,
      "img": "produtos/14823.jpg",
-     "saldo": 170
+     "saldo": 169
     },
     {
      "cod": 11690,
@@ -23753,7 +23753,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 520
+     "saldo": 510
     },
     {
      "cod": 1415,
@@ -25079,7 +25079,7 @@
      "marca": "RENATA",
      "preco": 3.9,
      "img": "produtos/3882.jpg",
-     "saldo": 55
+     "saldo": 53
     }
    ]
   },
@@ -25469,7 +25469,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 712
+     "saldo": 708
     },
     {
      "cod": 2705,
@@ -26956,7 +26956,7 @@
      "marca": "GERAPLAST",
      "preco": 34.9,
      "img": "produtos/2901.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 7358,
@@ -26994,7 +26994,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 2065
+     "saldo": 2063
     },
     {
      "cod": 6646,
@@ -27136,7 +27136,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 3427,
@@ -27262,7 +27262,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 570
+     "saldo": 565
     },
     {
      "cod": 4285,
@@ -27270,7 +27270,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 781
+     "saldo": 776
     },
     {
      "cod": 4936,
@@ -27414,7 +27414,7 @@
      "marca": "CHIARA",
      "preco": 52.9,
      "img": "produtos/3676.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 7013,
@@ -28668,7 +28668,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 397
+     "saldo": 395
     },
     {
      "cod": 2777,
@@ -29774,7 +29774,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1286
+     "saldo": 1285
     },
     {
      "cod": 2157,
@@ -30698,7 +30698,7 @@
        "cor": "Roxo",
        "nome": "APONTADOR FABER C/D TRADIC.GLITER-ROXO",
        "img": "produtos/5214.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 5212,
@@ -30861,7 +30861,7 @@
        "cor": "Rosa",
        "nome": "APONTADOR LEO C/D MINI-ROSA",
        "img": "produtos/7547.jpg",
-       "saldo": 93
+       "saldo": 92
       },
       {
        "cod": 7548,
