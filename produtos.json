@@ -6952,7 +6952,7 @@
      "marca": "TILIBRA",
      "preco": 23.9,
      "img": "produtos/11485.jpg",
-     "saldo": 19
+     "saldo": 17
     },
     {
      "cod": 14765,
@@ -7300,7 +7300,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/10490.jpg",
-     "saldo": 12
+     "saldo": 8
     },
     {
      "cod": 5850,
@@ -7372,7 +7372,7 @@
      "marca": "SAO DOMING",
      "preco": 27.9,
      "img": "produtos/8126.jpg",
-     "saldo": 12
+     "saldo": 7
     },
     {
      "cod": 6336,
@@ -8144,7 +8144,7 @@
      "marca": "CREDEAL",
      "preco": 7.9,
      "img": "produtos/8398.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 11488,
@@ -15339,7 +15339,7 @@
        "cor": "Branca",
        "nome": "PASTA ABA ELAST.PAPEL-BRANCA",
        "img": "produtos/2185.jpg",
-       "saldo": 10
+       "saldo": 50
       },
       {
        "cod": 2187,
@@ -16814,7 +16814,7 @@
      "marca": "ACRILEX",
      "preco": 11.9,
      "img": "produtos/12746.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 12738,
@@ -18877,7 +18877,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1054.jpg",
-     "saldo": 5326
+     "saldo": 5306
     },
     {
      "cod": 1056,
@@ -18941,7 +18941,7 @@
      "marca": "SCRITY",
      "preco": 0.15,
      "img": "produtos/1098.jpg",
-     "saldo": 500
+     "saldo": 1500
     },
     {
      "cod": 1095,
@@ -19833,7 +19833,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 81
+     "saldo": 80
     },
     {
      "cod": 14657,
@@ -21517,7 +21517,7 @@
        "cor": "Prata",
        "nome": "GLITER 3GR-PRATA",
        "img": "produtos/1479.jpg",
-       "saldo": 2
+       "saldo": 62
       },
       {
        "cod": 1480,
@@ -21545,7 +21545,7 @@
        "cor": "Vermelho",
        "nome": "GLITER 3GR-VERMELHO",
        "img": "produtos/1484.jpg",
-       "saldo": 24
+       "saldo": 84
       }
      ]
     },
@@ -23007,7 +23007,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 177
+     "saldo": 176
     },
     {
      "cod": 3731,
@@ -26211,7 +26211,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2840.jpg",
-     "saldo": 207
+     "saldo": 202
     },
     {
      "cod": 3848,
@@ -26372,7 +26372,7 @@
        "cor": "Azul Escuro",
        "nome": "SACOLA PH 30X40 C/50-AZUL ESCURO",
        "img": "produtos/3672.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 3958,
