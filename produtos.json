@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1183,
+     "saldo": 1173,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1183
+       "saldo": 1173
       },
       {
        "cod": 553,
@@ -2306,7 +2306,7 @@
      "marca": "CIS",
      "preco": 1.9,
      "img": "produtos/10477.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 10560,
@@ -4947,7 +4947,7 @@
      "marca": "PANAMERICA",
      "preco": 2.5,
      "img": "produtos/6064.jpg",
-     "saldo": 79
+     "saldo": 78
     },
     {
      "cod": 319,
@@ -6798,7 +6798,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO ALIBOM. CD 80F-VERMELHO",
        "img": "produtos/366.jpg",
-       "saldo": 162
+       "saldo": 161
       }
      ]
     },
@@ -7252,7 +7252,7 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/7796.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 5660,
@@ -7292,7 +7292,7 @@
      "marca": "SD",
      "preco": 29.9,
      "img": "produtos/12973.jpg",
-     "saldo": 17
+     "saldo": 15
     },
     {
      "cod": 8246,
@@ -7524,7 +7524,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/13170.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 14751,
@@ -8951,7 +8951,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/798.jpg",
-     "saldo": 7
+     "saldo": 5
     },
     {
      "cod": 10918,
@@ -10115,7 +10115,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 686
+     "saldo": 685
     },
     {
      "cod": 1317,
@@ -11502,7 +11502,7 @@
      "marca": "CIS",
      "preco": 0.8,
      "img": "produtos/673.jpg",
-     "saldo": 500
+     "saldo": 498
     },
     {
      "cod": 674,
@@ -11987,18 +11987,11 @@
        "saldo": 65
       },
       {
-       "cod": 2079,
-       "cor": "Verde Bandeira",
-       "nome": "CREPOM VERDE BANDEIRA",
-       "img": "produtos/2079.jpg",
-       "saldo": 24
-      },
-      {
        "cod": 2081,
        "cor": "Vermelho",
        "nome": "CREPOM VERMELHO",
        "img": "produtos/2081.jpg",
-       "saldo": 228
+       "saldo": 198
       }
      ]
     },
@@ -12184,7 +12177,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 105
+     "saldo": 5
     },
     {
      "cod": 2016,
@@ -12200,7 +12193,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1157
+     "saldo": 1153
     },
     {
      "cod": 9052,
@@ -15114,7 +15107,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 135
+     "saldo": 133
     },
     {
      "cod": 7644,
@@ -16627,7 +16620,7 @@
      "marca": "CROMUS",
      "preco": 11.9,
      "img": "produtos/2745.jpg",
-     "saldo": 56
+     "saldo": 54
     },
     {
      "cod": 4872,
@@ -16830,14 +16823,14 @@
      "marca": "ACRILEX",
      "preco": 18.9,
      "img": "produtos/12738.jpg",
-     "saldo": 74,
+     "saldo": 73,
      "cores": [
       {
        "cod": 12738,
        "cor": "Preta",
        "nome": "TESOURA S/P ACRILEX-PRETA (LETRAS)",
        "img": "produtos/12738.jpg",
-       "saldo": 74
+       "saldo": 73
       },
       {
        "cod": 12737,
@@ -17009,7 +17002,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 145
+       "saldo": 153
       },
       {
        "cod": 9160,
@@ -17051,7 +17044,7 @@
        "cor": "Preto",
        "nome": "EVA GLITER-PRETO",
        "img": "produtos/1222.jpg",
-       "saldo": 100
+       "saldo": 92
       },
       {
        "cod": 1223,
@@ -19091,7 +19084,7 @@
      "marca": "GRESPAN",
      "preco": 7.9,
      "img": "produtos/2377.jpg",
-     "saldo": 13
+     "saldo": 10
     },
     {
      "cod": 2378,
@@ -19723,7 +19716,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 8808,
@@ -19771,7 +19764,7 @@
      "marca": "IBEL",
      "preco": 57.9,
      "img": "produtos/11834.jpg",
-     "saldo": 101
+     "saldo": 100
     },
     {
      "cod": 11831,
@@ -22049,7 +22042,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 818
+     "saldo": 817
     },
     {
      "cod": 938,
@@ -22081,7 +22074,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5879
+     "saldo": 5869
     },
     {
      "cod": 944,
@@ -22345,7 +22338,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 517
+     "saldo": 516
     },
     {
      "cod": 2923,
@@ -23127,7 +23120,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 164
+     "saldo": 163
     },
     {
      "cod": 2491,
@@ -23143,7 +23136,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 158
+     "saldo": 157
     },
     {
      "cod": 2489,
@@ -23269,7 +23262,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 376
+     "saldo": 372
     },
     {
      "cod": 14417,
@@ -23499,7 +23492,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 595
+     "saldo": 594
     },
     {
      "cod": 13873,
@@ -23929,7 +23922,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 7045,
@@ -24025,7 +24018,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 1376,
@@ -25189,7 +25182,7 @@
      "marca": "MAREIA",
      "preco": 10.9,
      "img": "produtos/2698.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 14415,
@@ -25205,7 +25198,7 @@
      "marca": "MAREIA",
      "preco": 13.9,
      "img": "produtos/2699.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 2700,
@@ -25461,7 +25454,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/664.jpg",
-     "saldo": 88
+     "saldo": 87
     },
     {
      "cod": 665,
@@ -25493,7 +25486,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 944
+     "saldo": 943
     },
     {
      "cod": 2707,
@@ -25805,7 +25798,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 128
+     "saldo": 127
     },
     {
      "cod": 2766,
@@ -26335,7 +26328,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 25X35 C/50-PRETA",
        "img": "produtos/9878.jpg",
-       "saldo": 28
+       "saldo": 27
       },
       {
        "cod": 9964,
@@ -26464,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 313
+     "saldo": 311
     },
     {
      "cod": 6855,
@@ -26916,7 +26909,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 4314,
@@ -26948,7 +26941,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 2901,
@@ -27462,7 +27455,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/2805.jpg",
-     "saldo": 168
+     "saldo": 167
     },
     {
      "cod": 6102,
@@ -29710,7 +29703,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 100
+     "saldo": 97
     },
     {
      "cod": 2107,
@@ -29774,7 +29767,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1276
+     "saldo": 1266
     },
     {
      "cod": 2157,
@@ -29782,7 +29775,7 @@
      "marca": "INTERFORTY",
      "preco": 129.9,
      "img": "produtos/2157.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 2156,
@@ -31202,7 +31195,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14607.jpg",
-     "saldo": 32,
+     "saldo": 31,
      "controle": [
       "AZUL",
       "LARANJA",
@@ -31210,7 +31203,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 6,
+      "AZUL": 5,
       "LARANJA": 9,
       "ROSA": 8,
       "ROXO": 9
@@ -32408,7 +32401,7 @@
      "marca": "MAXI PLAST",
      "preco": 12.5,
      "img": "produtos/3728.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 668,
