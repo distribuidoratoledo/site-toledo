@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 786,
+     "saldo": 784,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 786
+       "saldo": 784
       },
       {
        "cod": 556,
@@ -3282,7 +3282,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.SLIM.JOCAR-VERMELHO",
        "img": "produtos/7532.jpg",
-       "saldo": 375
+       "saldo": 371
       }
      ]
     },
@@ -3537,7 +3537,7 @@
        "cor": "Preto",
        "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
        "img": "produtos/2626.jpg",
-       "saldo": 55
+       "saldo": 52
       },
       {
        "cod": 2627,
@@ -6265,7 +6265,7 @@
        "cor": "Preto",
        "nome": "CADERNO 1X1 80F-NEON PRETO",
        "img": "produtos/5847.jpg",
-       "saldo": 29
+       "saldo": 28
       },
       {
        "cod": 5618,
@@ -8356,7 +8356,7 @@
     },
     {
      "cod": 14787,
-     "nome": "CADERNO PEQ. CD 160F ESPI-LUNIX",
+     "nome": "CADERNO PEQ. CD 160F ESPIRAL-LUNIX",
      "marca": "TILIBRA",
      "preco": 19.9,
      "img": "produtos/14787.jpg",
@@ -8895,7 +8895,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/783.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 785,
@@ -9849,7 +9849,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3933
+     "saldo": 3931
     },
     {
      "cod": 14619,
@@ -10996,7 +10996,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 3479,
@@ -12136,7 +12136,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 697
+     "saldo": 696
     },
     {
      "cod": 5082,
@@ -12176,7 +12176,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1168
+     "saldo": 1167
     },
     {
      "cod": 9052,
@@ -24531,7 +24531,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 252
+     "saldo": 256
     },
     {
      "cod": 3951,
@@ -25781,7 +25781,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 289
+     "saldo": 286
     },
     {
      "cod": 14426,
@@ -26892,7 +26892,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 67
+     "saldo": 66
     },
     {
      "cod": 2906,
@@ -27042,7 +27042,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 883
+     "saldo": 1063
     },
     {
      "cod": 235,
@@ -27050,7 +27050,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7667
+     "saldo": 7637
     },
     {
      "cod": 236,
@@ -29774,7 +29774,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1281
+     "saldo": 1279
     },
     {
      "cod": 2157,
@@ -30854,7 +30854,7 @@
        "cor": "Laranja",
        "nome": "APONTADOR LEO C/D MINI-LARANJA",
        "img": "produtos/7546.jpg",
-       "saldo": 14
+       "saldo": 13
       },
       {
        "cod": 7547,
@@ -31655,14 +31655,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 326,
+     "saldo": 324,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 326
+       "saldo": 324
       },
       {
        "cod": 6051,
@@ -32354,7 +32354,7 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg",
-     "saldo": 1456
+     "saldo": 1451
     },
     {
      "cod": 14579,
