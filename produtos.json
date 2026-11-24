@@ -2250,7 +2250,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 894
+     "saldo": 890
     },
     {
      "cod": 1670,
@@ -2475,7 +2475,7 @@
        "cor": "Preto",
        "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
        "img": "produtos/8415.jpg",
-       "saldo": 34
+       "saldo": 31
       }
      ]
     },
@@ -2609,7 +2609,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 539
+     "saldo": 537
     },
     {
      "cod": 5836,
@@ -8991,7 +8991,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 797,
@@ -9841,7 +9841,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1899
+     "saldo": 1896
     },
     {
      "cod": 1031,
@@ -10043,7 +10043,7 @@
      "marca": "FOXLUX",
      "preco": 4.9,
      "img": "produtos/6521.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 11717,
@@ -10681,7 +10681,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 6716,
@@ -10996,7 +10996,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 3479,
@@ -11625,7 +11625,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 204
+       "saldo": 203
       },
       {
        "cod": 2035,
@@ -12136,7 +12136,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 698
+     "saldo": 697
     },
     {
      "cod": 5082,
@@ -12176,7 +12176,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1195
+     "saldo": 1182
     },
     {
      "cod": 9052,
@@ -15042,7 +15042,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/2535.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 2534,
@@ -19155,7 +19155,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 263
+     "saldo": 262
     },
     {
      "cod": 13980,
@@ -19239,7 +19239,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/9227.jpg",
-     "saldo": 138
+     "saldo": 118
     },
     {
      "cod": 73,
@@ -22105,7 +22105,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1744
+     "saldo": 1734
     },
     {
      "cod": 14414,
@@ -22887,7 +22887,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 165
+     "saldo": 149
     },
     {
      "cod": 770,
@@ -23007,7 +23007,7 @@
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 3947,
@@ -23127,7 +23127,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 302
+     "saldo": 301
     },
     {
      "cod": 4146,
@@ -23143,7 +23143,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 274
+     "saldo": 273
     },
     {
      "cod": 3887,
@@ -23571,7 +23571,7 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 2513,
@@ -23961,7 +23961,7 @@
      "marca": "",
      "preco": 66.9,
      "img": "produtos/1368.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 14427,
@@ -24547,7 +24547,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 260
+     "saldo": 258
     },
     {
      "cod": 3951,
@@ -24975,7 +24975,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 232
+     "saldo": 231
     },
     {
      "cod": 3932,
@@ -25354,7 +25354,7 @@
     {
      "cod": 14693,
      "nome": "GARRAFINHA ESCOLAR 500ML-SQUEEZE HELLO KITTY",
-     "marca": "SANRIO",
+     "marca": "",
      "preco": 14.9,
      "img": "produtos/14693.jpg",
      "saldo": 6
@@ -25485,7 +25485,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 718
+     "saldo": 713
     },
     {
      "cod": 2705,
@@ -25517,7 +25517,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 193
+     "saldo": 192
     },
     {
      "cod": 3651,
@@ -25685,7 +25685,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2726.jpg",
-     "saldo": 151
+     "saldo": 150
     },
     {
      "cod": 13028,
@@ -26480,7 +26480,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 320
+     "saldo": 315
     },
     {
      "cod": 6855,
@@ -26702,7 +26702,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 31
+     "saldo": 23
     },
     {
      "cod": 4427,
@@ -27074,7 +27074,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7883
+     "saldo": 7823
     },
     {
      "cod": 236,
@@ -27136,7 +27136,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 1273,
@@ -29426,7 +29426,7 @@
      "marca": "MAMUTH",
      "preco": 18.9,
      "img": "produtos/1495.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 1498,
@@ -29734,7 +29734,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 109
+     "saldo": 105
     },
     {
      "cod": 9017,
@@ -29798,7 +29798,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 6529,
@@ -29806,7 +29806,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1306
+     "saldo": 1301
     },
     {
      "cod": 2157,
