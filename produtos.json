@@ -12263,7 +12263,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 11784,
@@ -12920,7 +12920,7 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 3025,
@@ -13002,7 +13002,7 @@
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML MARIPEL-VERDE BANDEIRA",
        "img": "produtos/10128.jpg",
-       "saldo": 4
+       "saldo": 3
       }
      ]
     },
@@ -13108,7 +13108,7 @@
      "marca": "",
      "preco": 3.0,
      "img": "produtos/10998.jpg",
-     "saldo": 181
+     "saldo": 180
     },
     {
      "cod": 10994,
@@ -16978,7 +16978,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 153
+       "saldo": 152
       },
       {
        "cod": 9160,
@@ -17095,7 +17095,7 @@
        "cor": "Azul Marinho",
        "nome": "EVA LISO-AZUL MARINHO",
        "img": "produtos/6669.jpg",
-       "saldo": 295
+       "saldo": 294
       },
       {
        "cod": 9161,
@@ -17137,7 +17137,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 168
+       "saldo": 167
       },
       {
        "cod": 1238,
@@ -17172,14 +17172,14 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 194
+       "saldo": 193
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 320
+       "saldo": 319
       },
       {
        "cod": 1244,
@@ -19692,7 +19692,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 8808,
@@ -19748,7 +19748,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 313
+     "saldo": 312
     }
    ]
   },
@@ -26687,7 +26687,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 3842
+     "saldo": 3836
     },
     {
      "cod": 1337,
@@ -27479,7 +27479,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 105
+     "saldo": 110
     },
     {
      "cod": 11952,
