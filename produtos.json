@@ -1968,7 +1968,7 @@
      "marca": "LEO E LEO",
      "preco": 5.9,
      "img": "produtos/1650.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 7710,
@@ -9286,14 +9286,6 @@
      "preco": 21.9,
      "img": "produtos/2665.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 2667,
-     "nome": "ROLETE OPEN C8/P6 (OPEN) INK ROLLER",
-     "marca": "INK ROLLER",
-     "preco": 21.9,
-     "img": "produtos/2667.jpg",
-     "saldo": 5
     }
    ]
   },
@@ -11628,35 +11620,35 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2032.jpg",
-     "saldo": 211,
+     "saldo": 209,
      "cores": [
       {
        "cod": 2032,
        "cor": "Amarela",
        "nome": "CARTOLINA-AMARELA",
        "img": "produtos/2032.jpg",
-       "saldo": 211
+       "saldo": 209
       },
       {
        "cod": 2033,
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 104
+       "saldo": 103
       },
       {
        "cod": 2034,
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 202
+       "saldo": 200
       },
       {
        "cod": 2035,
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 79
+       "saldo": 77
       },
       {
        "cod": 2036,
@@ -11820,21 +11812,21 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 312,
+     "saldo": 308,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 312
+       "saldo": 308
       },
       {
        "cod": 4181,
        "cor": "Azul Claro",
        "nome": "COLORSETE-AZUL CLARO",
        "img": "produtos/4181.jpg",
-       "saldo": 111
+       "saldo": 110
       },
       {
        "cod": 2039,
@@ -11862,7 +11854,7 @@
        "cor": "Marrom",
        "nome": "COLORSETE-MARROM",
        "img": "produtos/2043.jpg",
-       "saldo": 72
+       "saldo": 71
       },
       {
        "cod": 2044,
@@ -11890,7 +11882,7 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE-VERDE CLARO",
        "img": "produtos/2048.jpg",
-       "saldo": 131
+       "saldo": 129
       },
       {
        "cod": 2050,
@@ -21288,7 +21280,7 @@
      "marca": "TILIBRA",
      "preco": 14.9,
      "img": "produtos/5849.jpg",
-     "saldo": 76
+     "saldo": 75
     },
     {
      "cod": 2620,
@@ -22042,7 +22034,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 817
+     "saldo": 816
     },
     {
      "cod": 938,
@@ -22338,7 +22330,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 516
+     "saldo": 515
     },
     {
      "cod": 2923,
@@ -22362,7 +22354,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 519
+     "saldo": 515
     },
     {
      "cod": 2934,
@@ -23104,7 +23096,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 2937,
@@ -23112,7 +23104,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 276
+     "saldo": 271
     },
     {
      "cod": 4146,
@@ -23128,7 +23120,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 251
+     "saldo": 247
     },
     {
      "cod": 3887,
@@ -23230,7 +23222,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 215
+     "saldo": 213
     },
     {
      "cod": 11964,
@@ -23254,7 +23246,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 399
+     "saldo": 396
     },
     {
      "cod": 880,
@@ -23476,7 +23468,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 510
+     "saldo": 506
     },
     {
      "cod": 7343,
@@ -24026,7 +24018,7 @@
      "marca": "",
      "preco": 52.9,
      "img": "produtos/1376.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 9164,
@@ -24230,7 +24222,7 @@
      "cod": 2566,
      "nome": "PRATO PAPELAO 8 C/100 (30CM)",
      "marca": "PITPRATOS",
-     "preco": 44.9,
+     "preco": 55.9,
      "img": "produtos/2566.jpg",
      "saldo": 22
     },
@@ -24746,7 +24738,7 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 1344,
@@ -25502,7 +25494,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 2709,
@@ -26148,7 +26140,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2824,
@@ -26164,7 +26156,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1036
+     "saldo": 1033
     },
     {
      "cod": 2826,
@@ -26743,7 +26735,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 1950
+     "saldo": 1945
     },
     {
      "cod": 5547,
@@ -27051,7 +27043,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7607
+     "saldo": 7577
     },
     {
      "cod": 236,
@@ -27391,7 +27383,7 @@
      "marca": "CIPAPEL",
      "preco": 26.9,
      "img": "produtos/10105.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 11347,
@@ -28915,7 +28907,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 428
+     "saldo": 418
     },
     {
      "cod": 6323,
@@ -29513,7 +29505,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 588
+     "saldo": 587
     },
     {
      "cod": 1786,
@@ -29687,7 +29679,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 47
+     "saldo": 43
     },
     {
      "cod": 2102,
