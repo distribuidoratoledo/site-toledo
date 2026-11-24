@@ -22770,7 +22770,1689 @@
      "idade": "11 a 14 anos"
     }
    ]
+  },
+  {
+   "id": "maplebear",
+   "nome": "Maple Bear Sete Lagoas",
+   "listas": [
+    {
+     "original": "listas/originais/maplebear-bearcare.pdf",
+     "id": "maplebear-bearcare",
+     "ano": "Bear Care",
+     "orcamento": 665186,
+     "itens": [
+      {
+       "descricao": "30 botões grandes coloridos",
+       "qtd": 30,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 pincéis chatos para pintura escolar pequenos",
+       "qtd": 2,
+       "cod": 10371,
+       "produto": "PINCEL CHATO 04",
+       "preco": 2.2,
+       "obs": "Pincel chato nº 4.",
+       "foto": "listas/fotos/10371.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 pincéis chatos para pintura escolar grandes",
+       "qtd": 2,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 3.2,
+       "obs": "Pincel chato nº 16.",
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 rolinhos de espuma para pintura",
+       "qtd": 2,
+       "cod": 2673,
+       "produto": "ROLO PINTURA 5CM",
+       "marca": "CONDOR",
+       "preco": 4.9,
+       "obs": "Rolo de pintura 5 cm Condor.",
+       "foto": "listas/fotos/2673.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 pacotes de argila 1 kg",
+       "qtd": 2,
+       "cod": 13713,
+       "produto": "ARGILA ESCOLAR-1KG",
+       "marca": "REZENDE",
+       "preco": 13.9,
+       "foto": "listas/fotos/13713.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 massas de modelar soft 12 cores 180 g",
+       "qtd": 2,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Massa de modelar Acrilex soft com 12.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 pacote de balão colorido nº 7 com 50",
+       "qtd": 1,
+       "cod": 4727,
+       "produto": "BALAO LISO SORTIDO C/50 Nº6,5",
+       "marca": "IDEATEX",
+       "preco": 7.9,
+       "obs": "Balão sortido nº 6,5 com 50 (não temos o nº 7 sortido).",
+       "foto": "listas/fotos/4727.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tecido americano cru 2 m",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tecido voil (escolher 2 cores), 2 m de cada cor",
+       "qtd": 4,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "TNT branco 3 m",
+       "qtd": 3,
+       "cod": 3060,
+       "produto": "TNT BRANCO",
+       "preco": 1.8,
+       "obs": "TNT vendido por metro.",
+       "foto": "listas/fotos/3060.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel kraft 4 m",
+       "qtd": 4,
+       "cod": 2112,
+       "produto": "PAPEL KRAFT 1,20MT/80G (BOBINA)",
+       "marca": "MG PAPEL",
+       "preco": 2.0,
+       "obs": "Papel kraft em bobina, vendido por metro.",
+       "foto": "listas/fotos/2112.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "4 cartolinas brancas",
+       "qtd": 4,
+       "cod": 2034,
+       "produto": "CARTOLINA-BRANCA",
+       "marca": "GRIFFE",
+       "preco": 1.5,
+       "foto": "listas/fotos/2034.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane amarelo (2 folhas)",
+       "qtd": 2,
+       "cod": 3765,
+       "produto": "CELOFANE-AMARELO",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/3765.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane azul (2 folhas)",
+       "qtd": 2,
+       "cod": 3764,
+       "produto": "CELOFANE-AZUL",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/3764.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane verde (2 folhas)",
+       "qtd": 2,
+       "cod": 758,
+       "produto": "CELOFANE-VERDE",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/758.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane vermelho (2 folhas)",
+       "qtd": 2,
+       "cod": 756,
+       "produto": "CELOFANE-VERMELHO",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/756.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom amarelo (2 rolos)",
+       "qtd": 2,
+       "cod": 2068,
+       "produto": "CREPOM AMARELO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2068.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom azul (2 rolos)",
+       "qtd": 2,
+       "cod": 2069,
+       "produto": "CREPOM AZUL CLARO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2069.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom verde (2 rolos)",
+       "qtd": 2,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom vermelho (2 rolos)",
+       "qtd": 2,
+       "cod": 2081,
+       "produto": "CREPOM VERMELHO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2081.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel Ecocores Criativo A3 8 cores 75 g/m² 64 folhas (2 pacotes)",
+       "qtd": 2,
+       "cod": 14876,
+       "produto": "PAPEL CRIATIVO A3 C/20-OFFPINHO",
+       "marca": "OFF PAPER",
+       "preco": 21.9,
+       "obs": "Papel criativo A3 8 cores.",
+       "foto": "listas/fotos/14876.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set amarelo (1 folha)",
+       "qtd": 1,
+       "cod": 2037,
+       "produto": "COLORSETE-AMARELO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2037.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set azul claro (1 folha)",
+       "qtd": 1,
+       "cod": 4181,
+       "produto": "COLORSETE-AZUL CLARO",
+       "preco": 1.3,
+       "foto": "listas/fotos/4181.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set azul escuro (1 folha)",
+       "qtd": 1,
+       "cod": 2039,
+       "produto": "COLORSETE-AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2039.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set verde bandeira (1 folha)",
+       "qtd": 1,
+       "cod": 2047,
+       "produto": "COLORSETE-VERDE BANDEIRA",
+       "preco": 1.3,
+       "foto": "listas/fotos/2047.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set verde claro (1 folha)",
+       "qtd": 1,
+       "cod": 2048,
+       "produto": "COLORSETE-VERDE CLARO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2048.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set vermelho (1 folha)",
+       "qtd": 1,
+       "cod": 2050,
+       "produto": "COLORSETE-VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2050.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set rosa (1 folha)",
+       "qtd": 1,
+       "cod": 2045,
+       "produto": "COLORSETE-ROSA",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2045.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set roxo (1 folha)",
+       "qtd": 1,
+       "cod": 4182,
+       "produto": "COLORSETE-LILAS/VIOLETA",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/4182.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set laranja (1 folha)",
+       "qtd": 1,
+       "cod": 2041,
+       "produto": "COLORSETE-LARANJA",
+       "preco": 1.3,
+       "foto": "listas/fotos/2041.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set preto (1 folha)",
+       "qtd": 1,
+       "cod": 2044,
+       "produto": "COLORSETE-PRETO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2044.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set marrom (1 folha)",
+       "qtd": 1,
+       "cod": 2043,
+       "produto": "COLORSETE-MARROM",
+       "preco": 1.3,
+       "foto": "listas/fotos/2043.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache amarelo ouro 250 ml",
+       "qtd": 1,
+       "cod": 3020,
+       "produto": "GUACHE 250ML ACRILEX-AMARELO OURO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3020.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache azul 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/5764.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache branca 250 ml",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache preta 250 ml",
+       "qtd": 1,
+       "cod": 3025,
+       "produto": "GUACHE 250ML ACRILEX-PRETO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3025.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache verde 250 ml",
+       "qtd": 1,
+       "cod": 3028,
+       "produto": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3028.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache vermelho 250 ml",
+       "qtd": 1,
+       "cod": 3029,
+       "produto": "GUACHE 250ML ACRILEX-VERMELHO FOGO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3029.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "20 folhas papel kraft natural Usapel A3 180 g, fosco",
+       "qtd": 20,
+       "status": "em_breve",
+       "obs": "Em breve: produto a caminho. Consulte a vendedora.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "20 folhas papel colorset preto A3 180 g",
+       "qtd": 1,
+       "cod": 13739,
+       "produto": "COLORSETE A3 PRETO C/20",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A3 preto 180 g com 20 folhas.",
+       "foto": "listas/fotos/13739.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 espumas de barbear",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Penas coloridas, 20 unidades",
+       "qtd": 20,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 macarrão concha 500 g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Alimento: não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 macarrão penne 500 g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Alimento: não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 cola branca pequena",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 cola branca grande 500 g",
+       "qtd": 1,
+       "cod": 14420,
+       "produto": "COLA LIQUIDA 500GR-APLICOLA",
+       "marca": "APLICOLA",
+       "preco": 12.9,
+       "obs": "Cola líquida Aplicola 500 g.",
+       "foto": "listas/fotos/14420.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 colas do artesão silicone líquido 60 ml/48 g",
+       "qtd": 2,
+       "cod": 11926,
+       "produto": "COLA SILICONE 100ML",
+       "marca": "REND/LEO",
+       "preco": 8.9,
+       "obs": "Cola silicone 100 ml.",
+       "foto": "listas/fotos/11926.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 giz de cera super jumbo gizão Meu 1º Giz 12 cores",
+       "qtd": 2,
+       "cod": 1474,
+       "produto": "GIZAO ACRILEX-MEU 1º GIZ C/6",
+       "marca": "ACRILEX",
+       "preco": 26.9,
+       "obs": "Gizão Acrilex Meu 1º Giz com 6 cores: 2 caixas = 12 cores.",
+       "foto": "listas/fotos/1474.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 lápis de cor 12 cores com apontador jumbo",
+       "qtd": 1,
+       "cod": 13745,
+       "produto": "LAPIS 12CORES-MAPED (JUMBO)",
+       "marca": "MAPED",
+       "preco": 19.9,
+       "obs": "Lápis de cor Maped jumbo com 12 cores.",
+       "foto": "listas/fotos/13745.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 caneta hidrográfica 12 cores super jumbo",
+       "qtd": 1,
+       "cod": 7527,
+       "produto": "JOGO PINCEL BIG LEO E LEO C/12",
+       "marca": "LEO E LEO",
+       "preco": 12.9,
+       "obs": "Jogo de pincel Big Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7527.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "30 plásticos para plastificadora A4",
+       "qtd": 3,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Polaseal A4 0,05 com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "30 plásticos para plastificadora A3",
+       "qtd": 3,
+       "cod": 13983,
+       "produto": "POLASEAL A3 303X426 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Polaseal A3 0,05 com 10.",
+       "foto": "listas/fotos/13983.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "500 folhas A3 branco report premium",
+       "qtd": 1,
+       "cod": 5082,
+       "produto": "PAPEL A3 C/100 CHAMEX (75GR)",
+       "marca": "CHAMEX",
+       "preco": 72.9,
+       "obs": "Fardo de papel A3 Chamex 75 g com 5 pacotes de 100 folhas (500 folhas).",
+       "foto": "listas/fotos/5082.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "100 folhas papel sulfite A3 180 g/m² (297x420 mm)",
+       "qtd": 2,
+       "cod": 6844,
+       "produto": "PAPEL 60KG A3 C/50FL-GRIFFE",
+       "marca": "MINASPEL",
+       "preco": 29.9,
+       "obs": "Papel 60 kg A3 com 50 folhas.",
+       "foto": "listas/fotos/6844.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 fita de cetim nº 3, 15 mm, escolher 1 cor",
+       "qtd": 1,
+       "cod": 9070,
+       "produto": "FITA CETIM N3 15MMX10MT-LARANJA",
+       "marca": "GITEX",
+       "preco": 7.9,
+       "obs": "Fita de cetim nº 3 com 10 m. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/9070.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "4 olhos móveis grandes, 2 pares",
+       "qtd": 4,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "4 areias coloridas (amarelo, verde, azul, vermelho) - 400 g cada cor",
+       "qtd": 4,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "200 palitos de picolé jumbo 8\", natural arredondado",
+       "qtd": 200,
+       "status": "em_breve",
+       "obs": "Em breve: produto a caminho. Consulte a vendedora.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "200 palitos de picolé coloridos, ponta arredondada",
+       "qtd": 4,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "obs": "Palito de picolé colorido com 50.",
+       "foto": "listas/fotos/1999.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 canetas permanentes 2.0, preta",
+       "qtd": 2,
+       "cod": 7533,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-PRETO",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar preto.",
+       "foto": "listas/fotos/7533.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "3 marcadores para quadro branco, cor azul",
+       "qtd": 3,
+       "cod": 7730,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-AZUL",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint azul.",
+       "foto": "listas/fotos/7730.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "3 marcadores para quadro branco, cor preta",
+       "qtd": 3,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint preto.",
+       "foto": "listas/fotos/7731.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "3 marcadores para quadro branco, cor vermelha",
+       "qtd": 3,
+       "cod": 7733,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-VERMELHO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint vermelho.",
+       "foto": "listas/fotos/7733.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Bobina picolata plástico 30x40 cm (100 saquinhos)",
+       "qtd": 1,
+       "cod": 13856,
+       "produto": "BOBINA ESTRELA (P) 25X40 C/500-HIPERROLL",
+       "marca": "HIPERROLL",
+       "preco": 20.9,
+       "obs": "Bobina Hiperroll com 500 saquinhos.",
+       "foto": "listas/fotos/13856.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "10 ziploc nº 6, 12x17 cm (pacote com 10)",
+       "qtd": 1,
+       "cod": 7177,
+       "produto": "SACO ZIPLOCK (05) 12X17 C/10",
+       "marca": "GRESPAN",
+       "preco": 3.9,
+       "obs": "Saco ziplock 12x17 com 10.",
+       "foto": "listas/fotos/7177.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 pasta em L A3 transparente cristal",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 vaso de barro cerâmica 11x10 cm",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 painel para pintura 20x30 cm",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "obs": "Tela para pintura 20x30.",
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 jogo pedagógico (escolher 1 opção entre os jogos do Anexo 4)",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros 30 peças. Modelo de amostra: confira se o jogo está no Anexo 4 da escola.",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 avental escolar ou camiseta grande",
+       "qtd": 1,
+       "cod": 3176,
+       "produto": "AVENTAL ESCOLAR BRANCO",
+       "preco": 15.9,
+       "foto": "listas/fotos/3176.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Uniforme extra na mochila (troca completa: uniforme e roupa íntima)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Roupa: não faz parte do nosso mix.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 garrafa de água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Garrafinha squeeze 700 ml. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 par de chinelos",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 kit de trocas individual (fraldas, lenços e pomada)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Higiene: não faz parte do nosso mix.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 mochila de fácil transporte, de costas ou com rodinhas",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 toalha de rosto",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Lista de materiais escolares do 1º semestre.",
+      "Todos os itens de uso pessoal devem estar identificados com o nome do aluno.",
+      "O material do aluno Maple Bear (SLM) é adquirido exclusivamente na Maple Bear Store via LEX."
+     ]
+    },
+    {
+     "original": "listas/originais/maplebear-year2.pdf",
+     "id": "maplebear-year2",
+     "ano": "Year 2",
+     "orcamento": 665187,
+     "itens": [
+      {
+       "descricao": "50 botões coloridos, tamanhos diversos",
+       "qtd": 50,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 pincel chato para pintura escolar pequeno",
+       "qtd": 1,
+       "cod": 10371,
+       "produto": "PINCEL CHATO 04",
+       "preco": 2.2,
+       "obs": "Pincel chato nº 4.",
+       "foto": "listas/fotos/10371.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 pincel chato para pintura escolar grande",
+       "qtd": 1,
+       "cod": 10994,
+       "produto": "PINCEL CHATO 16",
+       "preco": 3.2,
+       "obs": "Pincel chato nº 16.",
+       "foto": "listas/fotos/10994.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 rolinhos de espuma para pintura",
+       "qtd": 2,
+       "cod": 2673,
+       "produto": "ROLO PINTURA 5CM",
+       "marca": "CONDOR",
+       "preco": 4.9,
+       "obs": "Rolo de pintura 5 cm Condor.",
+       "foto": "listas/fotos/2673.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 pacotes de argila 1 kg",
+       "qtd": 2,
+       "cod": 13713,
+       "produto": "ARGILA ESCOLAR-1KG",
+       "marca": "REZENDE",
+       "preco": 13.9,
+       "foto": "listas/fotos/13713.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 massa de modelar soft 12 cores 180 g",
+       "qtd": 1,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Massa de modelar Acrilex soft com 12.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 pacote de balão colorido nº 7 com 50",
+       "qtd": 1,
+       "cod": 4727,
+       "produto": "BALAO LISO SORTIDO C/50 Nº6,5",
+       "marca": "IDEATEX",
+       "preco": 7.9,
+       "obs": "Balão sortido nº 6,5 com 50 (não temos o nº 7 sortido).",
+       "foto": "listas/fotos/4727.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tecido americano cru 2 m",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tecido voil (escolher 2 cores), 2 m de cada cor",
+       "qtd": 4,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "TNT laranja 3 m",
+       "qtd": 3,
+       "cod": 3062,
+       "produto": "TNT LARANJA",
+       "preco": 1.8,
+       "obs": "TNT vendido por metro.",
+       "foto": "listas/fotos/3062.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel kraft 4 m",
+       "qtd": 4,
+       "cod": 2112,
+       "produto": "PAPEL KRAFT 1,20MT/80G (BOBINA)",
+       "marca": "MG PAPEL",
+       "preco": 2.0,
+       "obs": "Papel kraft em bobina, vendido por metro.",
+       "foto": "listas/fotos/2112.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "4 cartolinas brancas",
+       "qtd": 4,
+       "cod": 2034,
+       "produto": "CARTOLINA-BRANCA",
+       "marca": "GRIFFE",
+       "preco": 1.5,
+       "foto": "listas/fotos/2034.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane amarelo (2 folhas)",
+       "qtd": 2,
+       "cod": 3765,
+       "produto": "CELOFANE-AMARELO",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/3765.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane azul (2 folhas)",
+       "qtd": 2,
+       "cod": 3764,
+       "produto": "CELOFANE-AZUL",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/3764.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane verde (2 folhas)",
+       "qtd": 2,
+       "cod": 758,
+       "produto": "CELOFANE-VERDE",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/758.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel celofane vermelho (2 folhas)",
+       "qtd": 2,
+       "cod": 756,
+       "produto": "CELOFANE-VERMELHO",
+       "marca": "EMBALE",
+       "preco": 1.5,
+       "foto": "listas/fotos/756.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom amarelo (2 rolos)",
+       "qtd": 2,
+       "cod": 2068,
+       "produto": "CREPOM AMARELO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2068.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom azul (2 rolos)",
+       "qtd": 2,
+       "cod": 2069,
+       "produto": "CREPOM AZUL CLARO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2069.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom verde (2 rolos)",
+       "qtd": 2,
+       "cod": 2079,
+       "produto": "CREPOM VERDE BANDEIRA",
+       "preco": 1.9,
+       "foto": "listas/fotos/2079.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel crepom vermelho (2 rolos)",
+       "qtd": 2,
+       "cod": 2081,
+       "produto": "CREPOM VERMELHO",
+       "preco": 1.9,
+       "foto": "listas/fotos/2081.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel Ecocores Criativo A4 8 cores 75 g/m² 64 folhas (2 pacotes)",
+       "qtd": 2,
+       "cod": 3340,
+       "produto": "PAPEL CRIATIVE PAPER A4 C/48-GRIFFE",
+       "marca": "GRIFFE",
+       "preco": 8.9,
+       "obs": "Papel Criative Paper A4 Griffe com 48 folhas.",
+       "foto": "listas/fotos/3340.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set amarelo (1 folha)",
+       "qtd": 1,
+       "cod": 2037,
+       "produto": "COLORSETE-AMARELO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2037.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set azul claro (1 folha)",
+       "qtd": 1,
+       "cod": 4181,
+       "produto": "COLORSETE-AZUL CLARO",
+       "preco": 1.3,
+       "foto": "listas/fotos/4181.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set azul escuro (1 folha)",
+       "qtd": 1,
+       "cod": 2039,
+       "produto": "COLORSETE-AZUL ESCURO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2039.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set verde bandeira (1 folha)",
+       "qtd": 1,
+       "cod": 2047,
+       "produto": "COLORSETE-VERDE BANDEIRA",
+       "preco": 1.3,
+       "foto": "listas/fotos/2047.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set verde claro (1 folha)",
+       "qtd": 1,
+       "cod": 2048,
+       "produto": "COLORSETE-VERDE CLARO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2048.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set vermelho (1 folha)",
+       "qtd": 1,
+       "cod": 2050,
+       "produto": "COLORSETE-VERMELHO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2050.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set rosa (1 folha)",
+       "qtd": 1,
+       "cod": 2045,
+       "produto": "COLORSETE-ROSA",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2045.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set roxo (1 folha)",
+       "qtd": 1,
+       "cod": 4182,
+       "produto": "COLORSETE-LILAS/VIOLETA",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/4182.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set laranja (1 folha)",
+       "qtd": 1,
+       "cod": 2041,
+       "produto": "COLORSETE-LARANJA",
+       "preco": 1.3,
+       "foto": "listas/fotos/2041.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set preto (1 folha)",
+       "qtd": 1,
+       "cod": 2044,
+       "produto": "COLORSETE-PRETO",
+       "marca": "GRIFFE",
+       "preco": 1.3,
+       "foto": "listas/fotos/2044.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Papel color-set marrom (1 folha)",
+       "qtd": 1,
+       "cod": 2043,
+       "produto": "COLORSETE-MARROM",
+       "preco": 1.3,
+       "foto": "listas/fotos/2043.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache amarelo ouro 250 ml",
+       "qtd": 1,
+       "cod": 3020,
+       "produto": "GUACHE 250ML ACRILEX-AMARELO OURO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3020.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache azul 250 ml",
+       "qtd": 1,
+       "cod": 5764,
+       "produto": "GUACHE 250ML ACRILEX-AZUL",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/5764.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache branca 250 ml",
+       "qtd": 1,
+       "cod": 3022,
+       "produto": "GUACHE 250ML ACRILEX-BRANCA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3022.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache preta 250 ml",
+       "qtd": 1,
+       "cod": 3025,
+       "produto": "GUACHE 250ML ACRILEX-PRETO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3025.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache verde 250 ml",
+       "qtd": 1,
+       "cod": 3028,
+       "produto": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3028.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Tinta guache vermelho 250 ml",
+       "qtd": 1,
+       "cod": 3029,
+       "produto": "GUACHE 250ML ACRILEX-VERMELHO FOGO",
+       "marca": "ACRILEX",
+       "preco": 10.9,
+       "obs": "Guache Acrilex 250 ml.",
+       "foto": "listas/fotos/3029.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "20 folhas papel kraft natural Usapel A4 180 g, fosco",
+       "qtd": 1,
+       "cod": 14085,
+       "produto": "PAPEL KRAFT A4 C/20 (180GR)",
+       "preco": 8.9,
+       "obs": "Papel kraft A4 180 g com 20 folhas.",
+       "foto": "listas/fotos/14085.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "20 folhas papel colorset preto A4 180 g",
+       "qtd": 1,
+       "cod": 2058,
+       "produto": "COLORSETE A4 C/50 PRETO",
+       "marca": "GRIFFE",
+       "preco": 15.9,
+       "obs": "Colorsete A4 preto com 50 folhas.",
+       "foto": "listas/fotos/2058.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 espumas de barbear",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Penas coloridas, 20 unidades",
+       "qtd": 20,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 macarrão sopa de letrinhas 500 g",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Alimento: não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 pacotes de sementes (ervas e folhosas)",
+       "qtd": 2,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 cola branca grande 500 g",
+       "qtd": 1,
+       "cod": 14420,
+       "produto": "COLA LIQUIDA 500GR-APLICOLA",
+       "marca": "APLICOLA",
+       "preco": 12.9,
+       "obs": "Cola líquida Aplicola 500 g.",
+       "foto": "listas/fotos/14420.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 giz de cera pastel oleoso com 12 cores",
+       "qtd": 1,
+       "cod": 6794,
+       "produto": "GIZ PASTEL OLEOSO C/12 CORES PENTEL",
+       "marca": "PENTEL",
+       "preco": 12.9,
+       "obs": "Giz pastel oleoso Pentel com 12 cores.",
+       "foto": "listas/fotos/6794.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 novelo de lã (escolher 1 cor)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "10 agulhas plásticas para crianças",
+       "qtd": 10,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "200 palitos de picolé jumbo 8\", natural arredondado",
+       "qtd": 200,
+       "status": "em_breve",
+       "obs": "Em breve: produto a caminho. Consulte a vendedora.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "200 palitos de picolé coloridos, ponta arredondada",
+       "qtd": 4,
+       "cod": 1999,
+       "produto": "PALITO PICOLE COLORIDO C/50",
+       "marca": "ASSETE",
+       "preco": 8.9,
+       "obs": "Palito de picolé colorido com 50.",
+       "foto": "listas/fotos/1999.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Bobina picolata plástico 30x40 cm (100 saquinhos)",
+       "qtd": 1,
+       "cod": 13856,
+       "produto": "BOBINA ESTRELA (P) 25X40 C/500-HIPERROLL",
+       "marca": "HIPERROLL",
+       "preco": 20.9,
+       "obs": "Bobina Hiperroll com 500 saquinhos.",
+       "foto": "listas/fotos/13856.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "30 plásticos para plastificadora A4",
+       "qtd": 3,
+       "cod": 13982,
+       "produto": "POLASEAL A4 220X307 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 10.9,
+       "obs": "Polaseal A4 0,05 com 10.",
+       "foto": "listas/fotos/13982.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "30 plásticos para plastificadora A3",
+       "qtd": 3,
+       "cod": 13983,
+       "produto": "POLASEAL A3 303X426 (0.5) C/10",
+       "marca": "MASTERPRIN",
+       "preco": 12.9,
+       "obs": "Polaseal A3 0,05 com 10.",
+       "foto": "listas/fotos/13983.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "500 folhas A4 branco report premium",
+       "qtd": 1,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "Papel A4 Papex com 500 folhas.",
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "100 folhas papel 60 kg A4",
+       "qtd": 2,
+       "cod": 5973,
+       "produto": "PAPEL 60KG A4 C/50",
+       "preco": 15.9,
+       "obs": "Papel 60 kg A4 com 50 folhas.",
+       "foto": "listas/fotos/5973.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 canetas permanentes 2.0, preta",
+       "qtd": 2,
+       "cod": 7533,
+       "produto": "PINCEL ATOM.SLIM.JOCAR-PRETO",
+       "marca": "JOCAR",
+       "preco": 2.5,
+       "obs": "Pincel atômico slim Jocar preto.",
+       "foto": "listas/fotos/7533.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 canetas permanentes 1.0, preta",
+       "qtd": 2,
+       "cod": 9405,
+       "produto": "RETRO 0.4/2.0 JOCAR-PRETO (PONTA DUPLA)",
+       "marca": "JOCAR",
+       "preco": 3.5,
+       "obs": "Caneta retroprojetor Jocar preta, ponta dupla 0.4/2.0.",
+       "foto": "listas/fotos/9405.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 marcadores para quadro branco, cor azul, grosso",
+       "qtd": 2,
+       "cod": 7730,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-AZUL",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint azul.",
+       "foto": "listas/fotos/7730.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 marcadores para quadro branco, cor preta, grosso",
+       "qtd": 2,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint preto.",
+       "foto": "listas/fotos/7731.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "2 marcadores para quadro branco, cor vermelha, grosso",
+       "qtd": 2,
+       "cod": 7733,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-VERMELHO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint vermelho.",
+       "foto": "listas/fotos/7733.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "10 ziploc nº 6, 12x17 cm (pacote com 10)",
+       "qtd": 1,
+       "cod": 7177,
+       "produto": "SACO ZIPLOCK (05) 12X17 C/10",
+       "marca": "GRESPAN",
+       "preco": 3.9,
+       "obs": "Saco ziplock 12x17 com 10.",
+       "foto": "listas/fotos/7177.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 azulejo cerâmica branco 10x10 cm",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Este item não faz parte do nosso mix.",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 painel para pintura 20x30 cm",
+       "qtd": 1,
+       "cod": 2954,
+       "produto": "TELA PINTURA 20X30",
+       "preco": 9.9,
+       "obs": "Tela para pintura 20x30.",
+       "foto": "listas/fotos/2954.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 cola do artesão silicone líquido 60 ml/48 g",
+       "qtd": 1,
+       "cod": 11926,
+       "produto": "COLA SILICONE 100ML",
+       "marca": "REND/LEO",
+       "preco": 8.9,
+       "obs": "Cola silicone 100 ml.",
+       "foto": "listas/fotos/11926.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "3 pastas com grampo trilho, papel cartão, ofício, vermelho",
+       "qtd": 3,
+       "cod": 2227,
+       "produto": "PASTA GRAMPO TRILHO VERMELHO",
+       "marca": "POLYCART",
+       "preco": 3.5,
+       "obs": "Pasta grampo trilho Polycart vermelha.",
+       "foto": "listas/fotos/2227.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "3 pastas com grampo trilho, papel cartão, ofício A4, roxo ou lilás",
+       "qtd": 3,
+       "cod": 2227,
+       "produto": "PASTA GRAMPO TRILHO VERMELHO",
+       "marca": "POLYCART",
+       "preco": 3.5,
+       "obs": "Pasta grampo trilho Polycart vermelha (não temos roxo ou lilás). Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/2227.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "1 jogo pedagógico (escolher 1 opção entre os jogos do Anexo 4)",
+       "qtd": 1,
+       "cod": 10192,
+       "produto": "QUEBRA CABEÇA DINOSSAUROS C/30PÇ",
+       "marca": "PAIS&FILHO",
+       "preco": 21.9,
+       "obs": "Quebra-cabeça Dinossauros 30 peças. Modelo de amostra: confira se o jogo está no Anexo 4 da escola.",
+       "foto": "listas/fotos/10192.jpg",
+       "grupo": "Lista de materiais escolares (1º semestre)"
+      },
+      {
+       "descricao": "Por que dona aranha subiu pelas paredes? (Pablo Morenno e Rosinha, Physalis)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Diário escondido de Serafina, O (Cristina Porto, Ática)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Dicionário Houaiss ilustrado (Antonio Houaiss, Moderna)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Reinações de Narizinho (Monteiro Lobato, Projetos Culturais)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Meu primeiro livro de contos de fadas (Mary Hoffman, Companhia das Letrinhas)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Que história é essa? V. 1 (Flávio de Souza, Companhia das Letras)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Viagens de Gulliver - col. Reencontro Infantil (Jonathan Swift, Scipione)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Aí tem coisa (Graziela Bozano Hetzel, DCL)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "Invenções - Criações que mudaram a História (Ana Paula Corradini, DCL)",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Livro com título definido pela escola. Consulte a vendedora.",
+       "grupo": "Livros (Portuguese Reading Collection)"
+      },
+      {
+       "descricao": "1 avental escolar ou camiseta grande",
+       "qtd": 1,
+       "cod": 3176,
+       "produto": "AVENTAL ESCOLAR BRANCO",
+       "preco": 15.9,
+       "foto": "listas/fotos/3176.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Uniforme extra na mochila (troca completa: uniforme e roupa íntima)",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Roupa: não faz parte do nosso mix.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 garrafa de água",
+       "qtd": 1,
+       "cod": 10798,
+       "produto": "GARRAFINHA ESCOLAR 700ML-SQUEEZE VERMELHO",
+       "marca": "MASTERUTIL",
+       "preco": 9.9,
+       "obs": "Garrafinha squeeze 700 ml. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10798.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 lápis de cor 12 cores",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra com 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caneta hidrográfica 12 cores",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA C/12-LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo com 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "5 lápis preto nº 2",
+       "qtd": 5,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 apontador com depósito",
+       "qtd": 1,
+       "cod": 7547,
+       "produto": "APONTADOR LEO C/D MINI-ROSA",
+       "marca": "LEO E LEO",
+       "preco": 0.5,
+       "obs": "Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7547.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 borracha branca",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "2 pastas aba elástico fina vermelhas",
+       "qtd": 2,
+       "cod": 13818,
+       "produto": "PASTA PP 1CM POLIBRAS-VERMELHA",
+       "preco": 3.5,
+       "obs": "Pasta PP 1 cm vermelha. Saldo de hoje: 1.",
+       "foto": "listas/fotos/13818.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 lousa branca 20x30 cm",
+       "qtd": 1,
+       "status": "nao_temos",
+       "obs": "Lousa pequena 20x30: não faz parte do nosso mix (temos quadro branco a partir de 60x40).",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "3 marcadores, caneta fina para quadro branco",
+       "qtd": 3,
+       "cod": 7731,
+       "produto": "PINCEL Q.BRC RECAR.MASTERPRINT-PRETO",
+       "marca": "MASTERPRIN",
+       "preco": 4.5,
+       "obs": "Pincel quadro branco Masterprint preto. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/7731.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 cola branca pequena",
+       "qtd": 1,
+       "cod": 822,
+       "produto": "COLA LIQUIDA 90GR-NEW MAGIC",
+       "marca": "NEW MAGIC",
+       "preco": 2.9,
+       "foto": "listas/fotos/822.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 tesoura sem ponta (de boa qualidade)",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 régua foco potencializador de leitura 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 mochila de fácil transporte, de costas ou com rodinhas",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Consulte a vendedora.",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caderno pequeno brochura capa dura vermelha 48 folhas",
+       "qtd": 1,
+       "cod": 12449,
+       "produto": "CADERNO PEQ. CD 48F (VERMELHO)",
+       "marca": "CREDEAL",
+       "preco": 5.9,
+       "obs": "Caderno pequeno capa dura Credeal 48 folhas vermelho.",
+       "foto": "listas/fotos/12449.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 caderno meia pauta capa dura brochura vermelha 96 folhas",
+       "qtd": 1,
+       "cod": 14865,
+       "produto": "CADERNO DESENHO CD MEIA PAUTA 80F (AZUL)",
+       "marca": "TAMOIO",
+       "preco": 24.9,
+       "obs": "Caderno de desenho capa dura meia pauta Tamoio 80 folhas. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/14865.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "1 material dourado 111 peças (madeira)",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Material de uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Lista de materiais escolares do 1º semestre.",
+      "Os materiais de uso pessoal devem ir na mochila no primeiro dia de aula, identificados com o nome do aluno.",
+      "Os livros devem ser identificados com o nome da criança.",
+      "O material do aluno Maple Bear (SLM) é adquirido exclusivamente na Maple Bear Store via LEX."
+     ],
+     "idade": "7 anos"
+    }
+   ]
   }
  ],
- "atualizado": "24/11/2026 11:00"
+ "atualizado": "24/11/2026 11:59"
 }
