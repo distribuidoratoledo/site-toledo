@@ -3160,7 +3160,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.1100 PILOT-PRETO",
        "img": "produtos/2344.jpg",
-       "saldo": 44
+       "saldo": 42
       },
       {
        "cod": 3604,
@@ -3978,7 +3978,7 @@
      "marca": "MOLIN",
      "preco": 4.9,
      "img": "produtos/14689.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -3989,7 +3989,7 @@
       "AMARELO": 6,
       "AZUL": 6,
       "ROSA": 5,
-      "VERDE-ÁGUA": 6
+      "VERDE-ÁGUA": 5
      }
     },
     {
@@ -5828,7 +5828,7 @@
        "cor": "Preto",
        "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
        "img": "produtos/13205.jpg",
-       "saldo": 27
+       "saldo": 26
       }
      ]
     },
@@ -6322,7 +6322,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/12764.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 13209,
@@ -7100,7 +7100,7 @@
      "marca": "TILIBRA",
      "preco": 33.9,
      "img": "produtos/6295.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 12441,
@@ -7228,7 +7228,7 @@
      "marca": "TILIBRA",
      "preco": 38.9,
      "img": "produtos/5663.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 14758,
@@ -7239,20 +7239,12 @@
      "saldo": 20
     },
     {
-     "cod": 6491,
-     "nome": "CADERNO CD 80F-HOMEM ARANHA GAME",
-     "marca": "TILIBRA",
-     "preco": 38.9,
-     "img": "produtos/6491.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 7796,
      "nome": "CADERNO CD 80F-HOT WHEELS",
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/7796.jpg",
-     "saldo": 27
+     "saldo": 23
     },
     {
      "cod": 5660,
@@ -7268,7 +7260,7 @@
      "marca": "TILIBRA",
      "preco": 36.9,
      "img": "produtos/11480.jpg",
-     "saldo": 31
+     "saldo": 29
     },
     {
      "cod": 14753,
@@ -9363,7 +9355,7 @@
      "marca": "LEO E LEO",
      "preco": 3.5,
      "img": "produtos/812.jpg",
-     "saldo": 138
+     "saldo": 137
     },
     {
      "cod": 9047,
@@ -9387,7 +9379,7 @@
      "marca": "LEO E LEO",
      "preco": 5.5,
      "img": "produtos/813.jpg",
-     "saldo": 141
+     "saldo": 140
     },
     {
      "cod": 11622,
@@ -12169,7 +12161,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2016,
@@ -12287,7 +12279,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 200
+     "saldo": 196
     },
     {
      "cod": 2100,
@@ -12319,7 +12311,7 @@
      "marca": "GRIFFE",
      "preco": 13.9,
      "img": "produtos/6667.jpg",
-     "saldo": 108
+     "saldo": 106
     },
     {
      "cod": 11515,
@@ -12935,7 +12927,7 @@
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 53
+       "saldo": 52
       },
       {
        "cod": 3026,
@@ -12963,7 +12955,7 @@
        "cor": "Violeta",
        "nome": "GUACHE 250ML ACRILEX-VIOLETA",
        "img": "produtos/3027.jpg",
-       "saldo": 74
+       "saldo": 73
       }
      ]
     },
@@ -13003,7 +12995,7 @@
        "cor": "Laranja",
        "nome": "GUACHE 250ML MARIPEL-LARANJA",
        "img": "produtos/3034.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 10128,
@@ -15473,7 +15465,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/6951.jpg",
-     "saldo": 190
+     "saldo": 189
     },
     {
      "cod": 6195,
@@ -17001,7 +16993,7 @@
        "cor": "Laranja",
        "nome": "EVA GLITER-LARANJA",
        "img": "produtos/9160.jpg",
-       "saldo": 92
+       "saldo": 91
       },
       {
        "cod": 4830,
@@ -17022,7 +17014,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 224
+       "saldo": 223
       },
       {
        "cod": 1221,
@@ -17057,7 +17049,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 156
+       "saldo": 153
       }
      ]
     },
@@ -17075,7 +17067,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 101
+     "saldo": 96
     },
     {
      "cod": 1228,
@@ -17153,7 +17145,7 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 170
+       "saldo": 168
       },
       {
        "cod": 1238,
@@ -18750,7 +18742,7 @@
      "marca": "SCRITY",
      "preco": 0.7,
      "img": "produtos/1048.jpg",
-     "saldo": 1110
+     "saldo": 1080
     },
     {
      "cod": 1050,
@@ -19818,7 +19810,7 @@
      "marca": "CULTURAMA",
      "preco": 6.9,
      "img": "produtos/13546.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 14657,
@@ -21390,7 +21382,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/13633.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 13635,
@@ -22480,7 +22472,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 572
+     "saldo": 569
     },
     {
      "cod": 4617,
@@ -23104,7 +23096,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 269
+     "saldo": 267
     },
     {
      "cod": 4146,
@@ -23120,7 +23112,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 245
+     "saldo": 243
     },
     {
      "cod": 3887,
@@ -23212,9 +23204,9 @@
      "cod": 7659,
      "nome": "COLHER AÇAI C/50 LONGA ROXA",
      "marca": "PLAZAPEL",
-     "preco": 17.9,
+     "preco": 8.9,
      "img": "produtos/7659.jpg",
-     "saldo": 28
+     "saldo": 78
     },
     {
      "cod": 8361,
@@ -23222,7 +23214,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 213
+     "saldo": 1363
     },
     {
      "cod": 11964,
@@ -23270,7 +23262,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/11601.jpg",
-     "saldo": 73
+     "saldo": 273
     },
     {
      "cod": 8466,
@@ -23294,7 +23286,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 270
+     "saldo": 870
     },
     {
      "cod": 1444,
@@ -23444,7 +23436,7 @@
      "marca": "ULTRA",
      "preco": 18.9,
      "img": "produtos/4573.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 2516,
@@ -23540,7 +23532,7 @@
      "marca": "TOTALPLAST",
      "preco": 16.9,
      "img": "produtos/11682.jpg",
-     "saldo": 93
+     "saldo": 87
     },
     {
      "cod": 2513,
@@ -23556,7 +23548,7 @@
      "marca": "TOTALPLAST",
      "preco": 23.9,
      "img": "produtos/11691.jpg",
-     "saldo": 60
+     "saldo": 54
     },
     {
      "cod": 14823,
@@ -23572,7 +23564,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 35
+     "saldo": 33
     },
     {
      "cod": 2524,
@@ -24486,7 +24478,7 @@
      "marca": "",
      "preco": 35.9,
      "img": "produtos/4322.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 5063,
@@ -25016,7 +25008,7 @@
      "marca": "M. E MOTA",
      "preco": 6.9,
      "img": "produtos/1113.jpg",
-     "saldo": 69
+     "saldo": 59
     },
     {
      "cod": 7108,
@@ -25854,7 +25846,7 @@
      "marca": "KROMASA",
      "preco": 4.9,
      "img": "produtos/4940.jpg",
-     "saldo": 626
+     "saldo": 625
     },
     {
      "cod": 4941,
@@ -26148,7 +26140,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 634
+     "saldo": 633
     },
     {
      "cod": 10972,
@@ -27359,7 +27351,7 @@
      "marca": "CIPAPEL",
      "preco": 51.9,
      "img": "produtos/2800.jpg",
-     "saldo": 59
+     "saldo": 56
     },
     {
      "cod": 7012,
