@@ -2240,7 +2240,7 @@
      "marca": "TRIS",
      "preco": 4.9,
      "img": "produtos/14564.jpg",
-     "saldo": 30,
+     "saldo": 29,
      "controle": [
       "AZUL",
       "PRETO",
@@ -3500,14 +3500,14 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
        "img": "produtos/2352.jpg",
-       "saldo": 103
+       "saldo": 102
       },
       {
        "cod": 2353,
        "cor": "Verde",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERDE (WBMA-VBM-M)",
        "img": "produtos/2353.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 2354,
@@ -7092,7 +7092,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 38
+     "saldo": 34
     },
     {
      "cod": 6295,
@@ -7689,7 +7689,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 3244,
@@ -7729,7 +7729,7 @@
      "marca": "S.DOMINGOS",
      "preco": 18.9,
      "img": "produtos/5877.jpg",
-     "saldo": 44
+     "saldo": 40
     },
     {
      "cod": 5882,
@@ -9261,7 +9261,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3443.jpg",
-     "saldo": 61
+     "saldo": 59
     },
     {
      "cod": 2664,
@@ -9857,7 +9857,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 733
+     "saldo": 730
     },
     {
      "cod": 4438,
@@ -10107,7 +10107,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 659
+     "saldo": 656
     },
     {
      "cod": 4389,
@@ -10856,7 +10856,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 123
+     "saldo": 119
     }
    ]
   },
@@ -11012,7 +11012,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 6612,
@@ -12184,7 +12184,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 5
+     "saldo": 105
     },
     {
      "cod": 2016,
@@ -12208,7 +12208,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 919
+     "saldo": 913
     },
     {
      "cod": 2007,
@@ -16563,7 +16563,7 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg",
-     "saldo": 152
+     "saldo": 150
     },
     {
      "cod": 4432,
@@ -16686,7 +16686,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 127
+     "saldo": 124
     },
     {
      "cod": 1144,
@@ -17808,14 +17808,6 @@
      "saldo": 2
     },
     {
-     "cod": 13199,
-     "nome": "MOCHILA CARRINHO XERYUS (M)-PATRULHA CANINA",
-     "marca": "XERYUS",
-     "preco": 375.9,
-     "img": "produtos/13199.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13228,
      "nome": "MOCHILA CARRINHO XERYUS (P)-PATRULHA CANINA",
      "marca": "XERYUS",
@@ -18257,7 +18249,7 @@
      "marca": "LUXCEL",
      "preco": 97.9,
      "img": "produtos/12816.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 12419,
@@ -22089,7 +22081,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5889
+     "saldo": 5879
     },
     {
      "cod": 944,
@@ -22169,7 +22161,7 @@
      "marca": "COPOMAIS",
      "preco": 10.9,
      "img": "produtos/14408.jpg",
-     "saldo": 115
+     "saldo": 114
     },
     {
      "cod": 954,
@@ -22265,7 +22257,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 103
+     "saldo": 102
     },
     {
      "cod": 958,
@@ -22273,7 +22265,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/958.jpg",
-     "saldo": 171
+     "saldo": 170
     },
     {
      "cod": 6814,
@@ -22417,7 +22409,7 @@
      "marca": "ULTRA",
      "preco": 8.9,
      "img": "produtos/3698.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 14233,
@@ -22433,7 +22425,7 @@
      "marca": "TOTAL",
      "preco": 8.9,
      "img": "produtos/11907.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 9746,
@@ -23119,7 +23111,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 2937,
@@ -23127,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 282
+     "saldo": 276
     },
     {
      "cod": 4146,
@@ -23143,7 +23135,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 256
+     "saldo": 251
     },
     {
      "cod": 3887,
@@ -23183,7 +23175,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 4129,
@@ -23191,7 +23183,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 5005,
@@ -23245,7 +23237,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 216
+     "saldo": 215
     },
     {
      "cod": 11964,
@@ -23269,7 +23261,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 401
+     "saldo": 399
     },
     {
      "cod": 880,
@@ -24025,7 +24017,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 1376,
@@ -24563,7 +24555,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 126
+     "saldo": 106
     },
     {
      "cod": 11295,
@@ -25573,7 +25565,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 2718,
@@ -26147,7 +26139,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 38
+     "saldo": 36
     },
     {
      "cod": 2824,
@@ -26163,7 +26155,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 48
+     "saldo": 36
     },
     {
      "cod": 2826,
@@ -26401,7 +26393,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 30X40 C/50-PRETA",
        "img": "produtos/2857.jpg",
-       "saldo": 17
+       "saldo": 16
       },
       {
        "cod": 4326,
@@ -26446,7 +26438,7 @@
        "cor": "Rosa Bebe",
        "nome": "SACOLA PH 40X50 C/50-ROSA BEBE",
        "img": "produtos/14516.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -26464,7 +26456,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 314
+     "saldo": 313
     },
     {
      "cod": 6855,
@@ -26472,7 +26464,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 218
+     "saldo": 217
     },
     {
      "cod": 2875,
@@ -26876,7 +26868,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2903.jpg",
-     "saldo": 212
+     "saldo": 211
     },
     {
      "cod": 2904,
@@ -27366,7 +27358,7 @@
      "marca": "",
      "preco": 52.9,
      "img": "produtos/7012.jpg",
-     "saldo": 70
+     "saldo": 69
     },
     {
      "cod": 10455,
@@ -29319,6 +29311,14 @@
      "saldo": 22
     },
     {
+     "cod": 1725,
+     "nome": "LINHA NYLON 20MM C/100M",
+     "marca": "DOURADO",
+     "preco": 4.9,
+     "img": "produtos/1725.jpg",
+     "saldo": 40
+    },
+    {
      "cod": 5194,
      "nome": "PRESILHA ARAME C/100GR",
      "marca": "FECHO",
@@ -29702,15 +29702,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 102
-    },
-    {
-     "cod": 9017,
-     "nome": "PAPEL HIG.4X30MT-BOB (NEUTRO)",
-     "marca": "BOB",
-     "preco": 5.9,
-     "img": "produtos/9017.jpg",
-     "saldo": 10
+     "saldo": 101
     },
     {
      "cod": 2107,
