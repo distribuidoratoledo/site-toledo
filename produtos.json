@@ -12176,7 +12176,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1172
+     "saldo": 1171
     },
     {
      "cod": 9052,
@@ -12286,7 +12286,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 210
+     "saldo": 209
     },
     {
      "cod": 4344,
@@ -24111,7 +24111,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 3614
+     "saldo": 3314
     },
     {
      "cod": 3857,
@@ -25733,7 +25733,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 3652,
@@ -26155,7 +26155,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 78
+     "saldo": 48
     },
     {
      "cod": 2826,
@@ -26606,7 +26606,7 @@
      "marca": "HIPERROLL",
      "preco": 11.9,
      "img": "produtos/13854.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 251,
@@ -31598,7 +31598,7 @@
        "cor": "Rosa",
        "nome": "MARCA TEXTO JOCAR-ROSA",
        "img": "produtos/11016.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 14355,
@@ -31669,7 +31669,7 @@
        "cor": "Azul",
        "nome": "MARCA TEXTO MASTERPRINT-AZUL",
        "img": "produtos/6051.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 6052,
