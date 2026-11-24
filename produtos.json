@@ -3628,7 +3628,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 262
+       "saldo": 260
       },
       {
        "cod": 2658,
@@ -12250,7 +12250,7 @@
     },
     {
      "cod": 3340,
-     "nome": "PAPEL CRIATIVE PAPER C/48-GRIFFE",
+     "nome": "PAPEL CRIATIVE PAPER A4 C/48-GRIFFE",
      "marca": "GRIFFE",
      "preco": 8.9,
      "img": "produtos/3340.jpg",
@@ -16694,7 +16694,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/1144.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 7200,
@@ -18749,7 +18749,7 @@
      "marca": "SCRITY",
      "preco": 0.15,
      "img": "produtos/1098.jpg",
-     "saldo": 73
+     "saldo": 53
     },
     {
      "cod": 1039,
@@ -23119,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 2937,
@@ -24547,7 +24547,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 258
+     "saldo": 257
     },
     {
      "cod": 3951,
@@ -26496,7 +26496,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 599
+     "saldo": 596
     },
     {
      "cod": 6825,
@@ -26718,7 +26718,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5260
+     "saldo": 5160
     },
     {
      "cod": 11788,
@@ -27074,7 +27074,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7823
+     "saldo": 7819
     },
     {
      "cod": 236,
@@ -27302,7 +27302,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 409
+     "saldo": 408
     },
     {
      "cod": 2762,
