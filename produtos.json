@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 232
+       "saldo": 230
       }
      ]
     },
@@ -2266,7 +2266,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 880
+     "saldo": 874
     },
     {
      "cod": 1670,
@@ -3652,7 +3652,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 253
+       "saldo": 241
       },
       {
        "cod": 2658,
@@ -4336,7 +4336,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/13077.jpg",
-     "saldo": 160
+     "saldo": 159
     },
     {
      "cod": 14522,
@@ -7092,7 +7092,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 6295,
@@ -7372,7 +7372,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 46
+     "saldo": 42
     },
     {
      "cod": 12978,
@@ -7412,7 +7412,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12440.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 6296,
@@ -7540,7 +7540,7 @@
      "marca": "CREDEAL",
      "preco": 10.9,
      "img": "produtos/12405.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 12990,
@@ -7689,7 +7689,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 3244,
@@ -8951,7 +8951,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/798.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 10918,
@@ -9435,14 +9435,14 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14604.jpg",
-     "saldo": 44,
+     "saldo": 43,
      "controle": [
       "LILAS",
       "ROSA"
      ],
      "saldo_cor": {
       "LILAS": 22,
-      "ROSA": 22
+      "ROSA": 21
      }
     },
     {
@@ -11012,7 +11012,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 3479,
@@ -14843,14 +14843,14 @@
      "marca": "MAXCRIL",
      "preco": 16.9,
      "img": "produtos/2462.jpg",
-     "saldo": 5,
+     "saldo": 4,
      "cores": [
       {
        "cod": 2462,
        "cor": "Cristal",
        "nome": "PORTA MOEDAS MAXCRIL CRISTAL",
        "img": "produtos/2462.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 4859,
@@ -15099,7 +15099,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 133
+     "saldo": 132
     },
     {
      "cod": 7644,
@@ -18066,7 +18066,7 @@
      "marca": "DAC",
      "preco": 74.9,
      "img": "produtos/12752.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 12532,
@@ -22480,7 +22480,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 575
+     "saldo": 572
     },
     {
      "cod": 4617,
@@ -22496,7 +22496,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 320
+     "saldo": 316
     },
     {
      "cod": 177,
@@ -22512,7 +22512,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 124
+     "saldo": 122
     },
     {
      "cod": 179,
@@ -23104,7 +23104,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 271
+     "saldo": 269
     },
     {
      "cod": 4146,
@@ -23120,7 +23120,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 247
+     "saldo": 245
     },
     {
      "cod": 3887,
@@ -23246,7 +23246,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 396
+     "saldo": 394
     },
     {
      "cod": 880,
@@ -24010,7 +24010,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 1376,
@@ -25534,7 +25534,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 311
+     "saldo": 310
     },
     {
      "cod": 13027,
@@ -25782,7 +25782,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 286
+     "saldo": 284
     },
     {
      "cod": 14426,
@@ -26695,7 +26695,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 3960
+     "saldo": 3956
     },
     {
      "cod": 1337,
@@ -27035,7 +27035,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1033
+     "saldo": 1003
     },
     {
      "cod": 235,
@@ -29277,7 +29277,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/192.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 193,
@@ -31664,14 +31664,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 324,
+     "saldo": 316,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 324
+       "saldo": 316
       },
       {
        "cod": 6051,
