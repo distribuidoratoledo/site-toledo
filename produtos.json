@@ -9873,7 +9873,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3929
+     "saldo": 3916
     },
     {
      "cod": 14619,
@@ -12200,7 +12200,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1167
+     "saldo": 1157
     },
     {
      "cod": 9052,
@@ -22019,7 +22019,7 @@
      "marca": "CHIARA",
      "preco": 34.9,
      "img": "produtos/6878.jpg",
-     "saldo": 45
+     "saldo": 41
     },
     {
      "cod": 14515,
@@ -22097,7 +22097,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1631
+     "saldo": 1629
     },
     {
      "cod": 14414,
@@ -22495,7 +22495,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 583
+     "saldo": 575
     },
     {
      "cod": 4617,
@@ -22511,7 +22511,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 324
+     "saldo": 320
     },
     {
      "cod": 177,
@@ -22543,7 +22543,7 @@
      "marca": "COPOPLAST",
      "preco": 25.9,
      "img": "produtos/180.jpg",
-     "saldo": 28
+     "saldo": 20
     },
     {
      "cod": 181,
@@ -23545,9 +23545,9 @@
      "cod": 11683,
      "nome": "POTE RETANG. 1000ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
-     "preco": 36.9,
+     "preco": 38.9,
      "img": "produtos/11683.jpg",
-     "saldo": 13
+     "saldo": 43
     },
     {
      "cod": 11682,
@@ -23564,6 +23564,14 @@
      "preco": 27.9,
      "img": "produtos/2513.jpg",
      "saldo": 17
+    },
+    {
+     "cod": 11691,
+     "nome": "POTE RETANG. 500ML C/24-TOTALPLAST",
+     "marca": "TOTALPLAST",
+     "preco": 23.9,
+     "img": "produtos/11691.jpg",
+     "saldo": 60
     },
     {
      "cod": 14823,
@@ -24531,7 +24539,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 256
+     "saldo": 241
     },
     {
      "cod": 3951,
@@ -25469,7 +25477,7 @@
      "marca": "ROMA P.",
      "preco": 3.9,
      "img": "produtos/2704.jpg",
-     "saldo": 708
+     "saldo": 707
     },
     {
      "cod": 2705,
@@ -25805,7 +25813,7 @@
      "marca": "KROMASA",
      "preco": 2.9,
      "img": "produtos/2766.jpg",
-     "saldo": 710
+     "saldo": 690
     },
     {
      "cod": 2767,
@@ -25821,7 +25829,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/2768.jpg",
-     "saldo": 268
+     "saldo": 266
     },
     {
      "cod": 2769,
@@ -25869,7 +25877,7 @@
      "marca": "KROMASA",
      "preco": 8.9,
      "img": "produtos/4942.jpg",
-     "saldo": 87
+     "saldo": 77
     },
     {
      "cod": 4943,
@@ -25909,7 +25917,7 @@
      "marca": "KROMASA",
      "preco": 19.9,
      "img": "produtos/4947.jpg",
-     "saldo": 168
+     "saldo": 158
     },
     {
      "cod": 4948,
@@ -25917,7 +25925,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 15
+     "saldo": 5
     },
     {
      "cod": 2806,
@@ -25933,7 +25941,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 634
+     "saldo": 614
     },
     {
      "cod": 2808,
@@ -26155,7 +26163,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 36
+     "saldo": 1036
     },
     {
      "cod": 2826,
@@ -26179,7 +26187,7 @@
      "marca": "PACKFORT",
      "preco": 25.9,
      "img": "produtos/4362.jpg",
-     "saldo": 179
+     "saldo": 199
     },
     {
      "cod": 2837,
@@ -26187,7 +26195,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 432
+     "saldo": 412
     },
     {
      "cod": 2838,
@@ -26630,7 +26638,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 51
+     "saldo": 47
     },
     {
      "cod": 13855,
@@ -26686,7 +26694,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 48
+     "saldo": 45
     },
     {
      "cod": 6857,
@@ -26932,7 +26940,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 889
+     "saldo": 879
     },
     {
      "cod": 2900,
@@ -26948,7 +26956,7 @@
      "marca": "GERAPLAST",
      "preco": 34.9,
      "img": "produtos/2901.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 7358,
@@ -26956,7 +26964,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 185
+     "saldo": 184
     },
     {
      "cod": 2902,
@@ -27462,7 +27470,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6102.jpg",
-     "saldo": 42
+     "saldo": 40
     },
     {
      "cod": 6103,
@@ -27470,7 +27478,7 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/6103.jpg",
-     "saldo": 21
+     "saldo": 96
     },
     {
      "cod": 7057,
@@ -27478,7 +27486,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 30
+     "saldo": 105
     },
     {
      "cod": 11952,
@@ -27494,7 +27502,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 20
+     "saldo": 96
     },
     {
      "cod": 6860,
@@ -27502,7 +27510,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/6860.jpg",
-     "saldo": 9
+     "saldo": 84
     },
     {
      "cod": 2829,
@@ -29324,7 +29332,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 309
+     "saldo": 289
     },
     {
      "cod": 2608,
@@ -29702,7 +29710,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 101
+     "saldo": 100
     },
     {
      "cod": 2107,
@@ -29758,7 +29766,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 202
+     "saldo": 182
     },
     {
      "cod": 6529,
