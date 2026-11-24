@@ -177,6 +177,22 @@
      "saldo": 2
     },
     {
+     "cod": 14904,
+     "nome": "CANETA BRUSH PEN-NEW PEN",
+     "marca": "NEW PEN",
+     "preco": 3.9,
+     "img": "produtos/14904.jpg",
+     "saldo": 60,
+     "controle": [
+      "1MM",
+      "4MM"
+     ],
+     "saldo_cor": {
+      "1MM": 10,
+      "4MM": 50
+     }
+    },
+    {
      "cod": 10830,
      "nome": "CANETA CIS 0.7",
      "marca": "CIS",
@@ -430,7 +446,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 99
+       "saldo": 94
       },
       {
        "cod": 563,
@@ -490,14 +506,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 846,
+     "saldo": 841,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 846
+       "saldo": 841
       },
       {
        "cod": 570,
@@ -2112,7 +2128,7 @@
      "marca": "MAPED",
      "preco": 28.9,
      "img": "produtos/1659.jpg",
-     "saldo": 26
+     "saldo": 34
     },
     {
      "cod": 12627,
@@ -2658,6 +2674,14 @@
      "preco": 1.5,
      "img": "produtos/6355.jpg",
      "saldo": 121
+    },
+    {
+     "cod": 11566,
+     "nome": "LAPIS ESCREVER MAPED BLACK'PEPS C/BORRACHA",
+     "marca": "MAPED",
+     "preco": 1.5,
+     "img": "produtos/11566.jpg",
+     "saldo": 288
     },
     {
      "cod": 11564,
@@ -4236,7 +4260,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/14517.jpg",
-     "saldo": 67
+     "saldo": 66
     },
     {
      "cod": 14520,
@@ -4344,7 +4368,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14622.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 13083,
@@ -9087,7 +9111,7 @@
      "marca": "JOCAR/CIS",
      "preco": 4.9,
      "img": "produtos/2575.jpg",
-     "saldo": 1
+     "saldo": 25
     }
    ]
   },
@@ -9315,7 +9339,7 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/7689.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 14524,
@@ -9635,7 +9659,7 @@
      "marca": "PRITT",
      "preco": 6.9,
      "img": "produtos/816.jpg",
-     "saldo": 280
+     "saldo": 278
     },
     {
      "cod": 14418,
@@ -9723,7 +9747,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/7904.jpg",
-     "saldo": 359
+     "saldo": 358
     },
     {
      "cod": 14523,
@@ -9849,7 +9873,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3931
+     "saldo": 3929
     },
     {
      "cod": 14619,
@@ -10521,7 +10545,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/6385.jpg",
-     "saldo": 389
+     "saldo": 388
     },
     {
      "cod": 2640,
@@ -10832,7 +10856,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 63
+     "saldo": 123
     }
    ]
   },
@@ -11084,7 +11108,7 @@
      "marca": "ACC",
      "preco": 32.9,
      "img": "produtos/1547.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 4155,
@@ -12802,7 +12826,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 230
+     "saldo": 229
     },
     {
      "cod": 11627,
@@ -13091,7 +13115,7 @@
      "marca": "TIGRE",
      "preco": 2.5,
      "img": "produtos/6378.jpg",
-     "saldo": 168
+     "saldo": 167
     },
     {
      "cod": 10997,
@@ -16686,7 +16710,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/1144.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 7200,
@@ -18993,7 +19017,7 @@
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 249
+       "saldo": 239
       }
      ]
     },
@@ -22855,7 +22879,7 @@
      "marca": "ISOMAX",
      "preco": 6.9,
      "img": "produtos/7364.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 767,
@@ -22895,7 +22919,7 @@
      "marca": "ISOMAX",
      "preco": 10.9,
      "img": "produtos/772.jpg",
-     "saldo": 168
+     "saldo": 148
     },
     {
      "cod": 773,
@@ -23055,7 +23079,7 @@
      "marca": "",
      "preco": 49.9,
      "img": "produtos/2530.jpg",
-     "saldo": 10
+     "saldo": 5
     },
     {
      "cod": 2531,
@@ -23063,7 +23087,7 @@
      "marca": "",
      "preco": 77.9,
      "img": "produtos/2531.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 8365,
@@ -23119,7 +23143,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 283
+     "saldo": 282
     },
     {
      "cod": 4146,
@@ -23135,7 +23159,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 257
+     "saldo": 256
     },
     {
      "cod": 3887,
@@ -26139,7 +26163,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 43
+     "saldo": 38
     },
     {
      "cod": 2824,
@@ -26994,7 +27018,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 2063
+     "saldo": 2062
     },
     {
      "cod": 6646,
@@ -27042,7 +27066,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 1063
+     "saldo": 1033
     },
     {
      "cod": 235,
@@ -28802,7 +28826,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 207
+     "saldo": 195
     },
     {
      "cod": 1155,
@@ -28858,7 +28882,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 1198,
@@ -28882,7 +28906,7 @@
      "marca": "PRIMUS",
      "preco": 31.9,
      "img": "produtos/1166.jpg",
-     "saldo": 51
+     "saldo": 50
     },
     {
      "cod": 11419,
@@ -28906,7 +28930,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 431
+     "saldo": 428
     },
     {
      "cod": 6323,
@@ -29356,7 +29380,7 @@
      "marca": "PRIMUS",
      "preco": 15.9,
      "img": "produtos/4673.jpg",
-     "saldo": 97
+     "saldo": 96
     },
     {
      "cod": 14135,
@@ -29386,7 +29410,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 238
+     "saldo": 237
     },
     {
      "cod": 1495,
@@ -31746,14 +31770,14 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
-     "saldo": 83,
+     "saldo": 81,
      "cores": [
       {
        "cod": 1829,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO PILOT-AMARELO",
        "img": "produtos/1829.jpg",
-       "saldo": 83
+       "saldo": 81
       },
       {
        "cod": 1830,
