@@ -10083,7 +10083,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 671
+     "saldo": 665
     },
     {
      "cod": 4389,
@@ -12302,7 +12302,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 1444
+     "saldo": 1443
     },
     {
      "cod": 6667,
@@ -14549,14 +14549,14 @@
      "marca": "MAXCRIL",
      "preco": 1.5,
      "img": "produtos/14490.jpg",
-     "saldo": 279,
+     "saldo": 278,
      "cores": [
       {
        "cod": 14490,
        "cor": "Branco",
        "nome": "ENVELOPE SEGURANÇA ECOMMERCE-32X40 (BRANCO)",
        "img": "produtos/14490.jpg",
-       "saldo": 279
+       "saldo": 278
       },
       {
        "cod": 9253,
@@ -18319,7 +18319,7 @@
        "cor": "Rosa",
        "nome": "ESTOJO MT BOX-PATRULHA CANINA ROSA",
        "img": "produtos/8024.jpg",
-       "saldo": 2
+       "saldo": 1
       }
      ]
     },
@@ -23119,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 286
+     "saldo": 284
     },
     {
      "cod": 4146,
@@ -23135,7 +23135,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 260
+     "saldo": 258
     },
     {
      "cod": 3887,
@@ -23175,7 +23175,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 113
+     "saldo": 110
     },
     {
      "cod": 4129,
@@ -23183,7 +23183,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 102
+     "saldo": 99
     },
     {
      "cod": 5005,
@@ -23579,7 +23579,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2524,
@@ -24293,7 +24293,7 @@
      "marca": "ABN",
      "preco": 28.9,
      "img": "produtos/7020.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 7021,
@@ -24389,7 +24389,7 @@
      "marca": "SANTECK",
      "preco": 4.9,
      "img": "produtos/7070.jpg",
-     "saldo": 89
+     "saldo": 88
     },
     {
      "cod": 7071,
@@ -25533,7 +25533,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 312
+     "saldo": 311
     },
     {
      "cod": 13027,
@@ -26163,7 +26163,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 2826,
@@ -26203,7 +26203,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 398
+     "saldo": 393
     },
     {
      "cod": 2839,
@@ -26394,7 +26394,7 @@
        "cor": "Prata",
        "nome": "SACOLA PH 30X40 C/50-PRATA",
        "img": "produtos/2854.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 2857,
@@ -26662,7 +26662,7 @@
      "marca": "HIPER ROLL",
      "preco": 39.9,
      "img": "produtos/6965.jpg",
-     "saldo": 19
+     "saldo": 16
     },
     {
      "cod": 254,
@@ -26678,7 +26678,7 @@
      "marca": "",
      "preco": 49.9,
      "img": "produtos/6966.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 255,
@@ -28439,14 +28439,6 @@
      "saldo": 8
     },
     {
-     "cod": 262,
-     "nome": "BOBINA PRESENTE 60CM-FEMININA",
-     "marca": "GERSELE",
-     "preco": 29.9,
-     "img": "produtos/262.jpg",
-     "saldo": 8
-    },
-    {
      "cod": 263,
      "nome": "BOBINA PRESENTE 60CM-INFANTIL",
      "marca": "GERSELE",
@@ -28914,7 +28906,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 382
+     "saldo": 381
     },
     {
      "cod": 6324,
@@ -29616,7 +29608,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 10988,
@@ -29648,7 +29640,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 3085,
@@ -29718,7 +29710,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 9017,
@@ -29790,7 +29782,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1291
+     "saldo": 1290
     },
     {
      "cod": 2157,
@@ -29868,7 +29860,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 6749,
@@ -31769,14 +31761,14 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
-     "saldo": 84,
+     "saldo": 83,
      "cores": [
       {
        "cod": 1829,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO PILOT-AMARELO",
        "img": "produtos/1829.jpg",
-       "saldo": 84
+       "saldo": 83
       },
       {
        "cod": 1830,
@@ -31790,14 +31782,14 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO PILOT-LARANJA",
        "img": "produtos/1831.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 1832,
        "cor": "Rosa",
        "nome": "MARCA TEXTO PILOT-ROSA",
        "img": "produtos/1832.jpg",
-       "saldo": 71
+       "saldo": 70
       },
       {
        "cod": 1833,
@@ -31829,7 +31821,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 122,
+     "saldo": 120,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -31839,11 +31831,11 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 22,
+      "AMARELO": 21,
       "AZUL": 19,
       "LARANJA": 22,
       "LILAS": 19,
-      "ROSA": 20,
+      "ROSA": 19,
       "VERDE": 20
      }
     },
