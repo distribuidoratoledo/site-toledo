@@ -23422,8 +23422,11 @@
       {
        "descricao": "1 pasta em L A3 transparente cristal",
        "qtd": 1,
-       "status": "nao_temos",
-       "obs": "Este item não faz parte do nosso mix.",
+       "cod": 14898,
+       "produto": "PASTA L A3 CRISTAL",
+       "preco": 8.9,
+       "obs": "Pasta L A3 cristal.",
+       "foto": "listas/fotos/14898.jpg",
        "grupo": "Lista de materiais escolares (1º semestre)"
       },
       {
@@ -24453,5 +24456,5 @@
    ]
   }
  ],
- "atualizado": "24/11/2026 12:14"
+ "atualizado": "24/11/2026 12:54"
 }
