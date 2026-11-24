@@ -2120,7 +2120,7 @@
      "marca": "TRIS",
      "preco": 24.9,
      "img": "produtos/12627.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 14584,
@@ -2312,14 +2312,14 @@
        "cor": "Rosa",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROSA",
        "img": "produtos/10561.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 10562,
        "cor": "Roxo",
        "nome": "LAPIS ESCREVER CIS SPIRO-ROXO",
        "img": "produtos/10562.jpg",
-       "saldo": 5
+       "saldo": 4
       },
       {
        "cod": 10563,
@@ -2609,7 +2609,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 537
+     "saldo": 535
     },
     {
      "cod": 5836,
@@ -2721,7 +2721,7 @@
      "marca": "MOLIN",
      "preco": 3.9,
      "img": "produtos/14540.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 12282,
@@ -3082,7 +3082,7 @@
      "marca": "COMPACTOR",
      "preco": 15.9,
      "img": "produtos/1582.jpg",
-     "saldo": 150
+     "saldo": 149
     },
     {
      "cod": 12688,
@@ -4320,7 +4320,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14522.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 3223,
@@ -4376,7 +4376,7 @@
      "marca": "MOLIN",
      "preco": 3.9,
      "img": "produtos/14680.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 293,
@@ -4598,7 +4598,7 @@
      "marca": "TILIBRA",
      "preco": 53.9,
      "img": "produtos/14270.jpg",
-     "saldo": 28
+     "saldo": 30
     },
     {
      "cod": 7930,
@@ -4622,7 +4622,7 @@
      "marca": "TILIBRA",
      "preco": 89.9,
      "img": "produtos/4955.jpg",
-     "saldo": 26
+     "saldo": 27
     },
     {
      "cod": 14274,
@@ -4702,7 +4702,7 @@
      "marca": "TILIBRA",
      "preco": 99.9,
      "img": "produtos/6040.jpg",
-     "saldo": 19
+     "saldo": 20
     },
     {
      "cod": 14278,
@@ -4726,7 +4726,7 @@
      "marca": "TILIBRA",
      "preco": 49.9,
      "img": "produtos/4957.jpg",
-     "saldo": 15
+     "saldo": 16
     },
     {
      "cod": 3118,
@@ -4766,21 +4766,21 @@
      "marca": "LORIGRAF",
      "preco": 31.9,
      "img": "produtos/14315.jpg",
-     "saldo": 14,
+     "saldo": 15,
      "cores": [
       {
        "cod": 14315,
        "cor": "Azul Escuro",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS AZUL ESCURO",
        "img": "produtos/14315.jpg",
-       "saldo": 14
+       "saldo": 15
       },
       {
        "cod": 14316,
        "cor": "Cinza",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS CINZA",
        "img": "produtos/14316.jpg",
-       "saldo": 12
+       "saldo": 13
       },
       {
        "cod": 14314,
@@ -4931,7 +4931,7 @@
      "marca": "PANAMERICA",
      "preco": 4.5,
      "img": "produtos/319.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 13535,
@@ -6904,7 +6904,7 @@
      "marca": "JANDAIA",
      "preco": 8.9,
      "img": "produtos/372.jpg",
-     "saldo": 97
+     "saldo": 96
     },
     {
      "cod": 14097,
@@ -6944,7 +6944,7 @@
      "marca": "TILIBRA",
      "preco": 12.9,
      "img": "produtos/11484.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 11485,
@@ -6989,7 +6989,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO CD 48F S/D (VERMELHO)",
        "img": "produtos/11344.jpg",
-       "saldo": 91
+       "saldo": 88
       }
      ]
     },
@@ -7060,7 +7060,7 @@
      "marca": "S. DOMINGO",
      "preco": 31.9,
      "img": "produtos/8103.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 8245,
@@ -7348,7 +7348,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 50
+     "saldo": 46
     },
     {
      "cod": 12978,
@@ -7616,7 +7616,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO CD 96F TILIBRA (VERMELHO)",
        "img": "produtos/9009.jpg",
-       "saldo": 42
+       "saldo": 35
       }
      ]
     },
@@ -7799,7 +7799,7 @@
        "cor": "Vermelho",
        "nome": "CADERNO CD S/P 80F TILIBRA (VERMELHO)",
        "img": "produtos/14759.jpg",
-       "saldo": 100
+       "saldo": 99
       }
      ]
     },
@@ -8168,7 +8168,7 @@
      "marca": "CREDEAL",
      "preco": 8.9,
      "img": "produtos/8887.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 12839,
@@ -8184,7 +8184,7 @@
      "marca": "TILIBRA",
      "preco": 17.9,
      "img": "produtos/7831.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 11489,
@@ -8352,11 +8352,11 @@
      "marca": "CREDEAL",
      "preco": 5.9,
      "img": "produtos/10884.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 14787,
-     "nome": "CADERNO PEQ. CD 160F ESPIRAL-LUNIX",
+     "nome": "CADERNO PEQ. CD 160F ESPI-LUNIX",
      "marca": "TILIBRA",
      "preco": 19.9,
      "img": "produtos/14787.jpg",
@@ -8658,7 +8658,7 @@
      "marca": "CADERSIL",
      "preco": 44.9,
      "img": "produtos/12858.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 12889,
@@ -9331,7 +9331,7 @@
      "marca": "PRITT",
      "preco": 16.9,
      "img": "produtos/811.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 9042,
@@ -9379,7 +9379,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11622.jpg",
-     "saldo": 59
+     "saldo": 57
     },
     {
      "cod": 814,
@@ -9723,7 +9723,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/7904.jpg",
-     "saldo": 360
+     "saldo": 359
     },
     {
      "cod": 14523,
@@ -10083,7 +10083,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 664
+     "saldo": 663
     },
     {
      "cod": 4389,
@@ -12802,7 +12802,7 @@
      "marca": "ACRILEX",
      "preco": 14.9,
      "img": "produtos/3017.jpg",
-     "saldo": 231
+     "saldo": 230
     },
     {
      "cod": 11627,
@@ -13091,7 +13091,7 @@
      "marca": "TIGRE",
      "preco": 2.5,
      "img": "produtos/6378.jpg",
-     "saldo": 169
+     "saldo": 168
     },
     {
      "cod": 10997,
@@ -16718,7 +16718,7 @@
      "marca": "MASTERPRIN",
      "preco": 11.9,
      "img": "produtos/6633.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 2959,
@@ -17036,7 +17036,7 @@
        "cor": "Prata",
        "nome": "EVA GLITER-PRATA",
        "img": "produtos/1221.jpg",
-       "saldo": 173
+       "saldo": 171
       },
       {
        "cod": 1222,
@@ -17057,7 +17057,7 @@
        "cor": "Verde Claro",
        "nome": "EVA GLITER-VERDE CLARO",
        "img": "produtos/5366.jpg",
-       "saldo": 113
+       "saldo": 110
       },
       {
        "cod": 1226,
@@ -17104,14 +17104,14 @@
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 231
+       "saldo": 229
       },
       {
        "cod": 1231,
        "cor": "Azul Escuro",
        "nome": "EVA LISO-AZUL ESCURO",
        "img": "produtos/1231.jpg",
-       "saldo": 118
+       "saldo": 117
       },
       {
        "cod": 6669,
@@ -17195,14 +17195,14 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 195
+       "saldo": 194
       },
       {
        "cod": 7675,
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 327
+       "saldo": 320
       },
       {
        "cod": 1244,
@@ -19865,7 +19865,7 @@
      "marca": "TODO LIVRO",
      "preco": 4.9,
      "img": "produtos/14801.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 14663,
@@ -21389,7 +21389,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/13627.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 13629,
@@ -21413,7 +21413,7 @@
      "marca": "TILIBRA",
      "preco": 2.9,
      "img": "produtos/13635.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 13636,
@@ -22273,7 +22273,7 @@
      "marca": "TOTAL",
      "preco": 5.9,
      "img": "produtos/6814.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 10120,
@@ -22847,7 +22847,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 7364,
@@ -23119,7 +23119,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 284
+     "saldo": 283
     },
     {
      "cod": 4146,
@@ -23135,7 +23135,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 258
+     "saldo": 257
     },
     {
      "cod": 3887,
@@ -24959,7 +24959,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 230
+     "saldo": 229
     },
     {
      "cod": 3932,
@@ -25917,7 +25917,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 2806,
@@ -26480,7 +26480,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 637
+     "saldo": 634
     },
     {
      "cod": 3964,
@@ -26694,7 +26694,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5060
+     "saldo": 4760
     },
     {
      "cod": 11788,
@@ -26892,7 +26892,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 70
+     "saldo": 67
     },
     {
      "cod": 2906,
@@ -27050,7 +27050,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7669
+     "saldo": 7667
     },
     {
      "cod": 236,
@@ -27112,7 +27112,7 @@
      "marca": "",
      "preco": 39.9,
      "img": "produtos/1272.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 1273,
@@ -27486,7 +27486,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 35
+     "saldo": 30
     },
     {
      "cod": 11952,
@@ -29434,7 +29434,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/1823.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 6983,
@@ -29576,7 +29576,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 8295,
@@ -29670,7 +29670,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 2102,
@@ -29726,7 +29726,7 @@
      "marca": "TENDERLY",
      "preco": 12.9,
      "img": "produtos/13944.jpg",
-     "saldo": 32
+     "saldo": 29
     },
     {
      "cod": 12118,
@@ -29750,7 +29750,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 240
+     "saldo": 239
     },
     {
      "cod": 2152,
@@ -29774,7 +29774,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1285
+     "saldo": 1281
     },
     {
      "cod": 2157,
@@ -29898,7 +29898,7 @@
      "marca": "SANREMO",
      "preco": 4.9,
      "img": "produtos/11771.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 1012,
@@ -30562,14 +30562,14 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/14630.jpg",
-     "saldo": 43,
+     "saldo": 42,
      "controle": [
       "AMARELO",
       "ROSA",
       "VERDE-ÁGUA"
      ],
      "saldo_cor": {
-      "AMARELO": 15,
+      "AMARELO": 14,
       "ROSA": 13,
       "VERDE-ÁGUA": 15
      }
@@ -31676,14 +31676,14 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 114
+       "saldo": 113
       },
       {
        "cod": 6053,
        "cor": "Rosa",
        "nome": "MARCA TEXTO MASTERPRINT-ROSA",
        "img": "produtos/6053.jpg",
-       "saldo": 238
+       "saldo": 237
       },
       {
        "cod": 6637,
