@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1253,
+     "saldo": 1243,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1253
+       "saldo": 1243
       },
       {
        "cod": 553,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 788,
+     "saldo": 786,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 788
+       "saldo": 786
       },
       {
        "cod": 556,
@@ -2660,14 +2660,6 @@
      "saldo": 121
     },
     {
-     "cod": 13310,
-     "nome": "LAPIS ESCREVER MAPED BLACK'PEPS",
-     "marca": "MAPED",
-     "preco": 1.0,
-     "img": "produtos/13310.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 11564,
      "nome": "LAPIS ESCREVER MAPED ENERGY C/BORRACHA",
      "marca": "MAPED",
@@ -2824,7 +2816,7 @@
      "marca": "TRIS",
      "preco": 2.0,
      "img": "produtos/14561.jpg",
-     "saldo": 24,
+     "saldo": 23,
      "controle": [
       "AZUL",
       "CINZA",
@@ -4272,7 +4264,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/14519.jpg",
-     "saldo": 140,
+     "saldo": 138,
      "controle": [
       "AZUL",
       "ROSA",
@@ -5235,7 +5227,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 69
+     "saldo": 66
     },
     {
      "cod": 12910,
@@ -5552,7 +5544,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10933.jpg",
-     "saldo": 163
+     "saldo": 161
     },
     {
      "cod": 5622,
@@ -9857,7 +9849,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3949
+     "saldo": 3933
     },
     {
      "cod": 14619,
@@ -10996,7 +10988,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 6612,
@@ -12184,7 +12176,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1197
+     "saldo": 1195
     },
     {
      "cod": 9052,
@@ -14159,7 +14151,7 @@
      "marca": "GRESPAN",
      "preco": 8.9,
      "img": "produtos/7401.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 7402,
@@ -16365,7 +16357,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/2265.jpg",
-     "saldo": 10
+     "saldo": 12
     },
     {
      "cod": 2266,
@@ -16571,7 +16563,7 @@
      "marca": "CIPATEX",
      "preco": 9.9,
      "img": "produtos/2412.jpg",
-     "saldo": 154
+     "saldo": 152
     },
     {
      "cod": 4432,
@@ -22089,7 +22081,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 39
+     "saldo": 34
     },
     {
      "cod": 14406,
@@ -23023,7 +23015,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 180
+     "saldo": 177
     },
     {
      "cod": 3731,
@@ -23143,7 +23135,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 198
+     "saldo": 194
     },
     {
      "cod": 2491,
@@ -23159,7 +23151,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 175
+     "saldo": 172
     },
     {
      "cod": 2489,
@@ -23175,7 +23167,7 @@
      "marca": "COPOPLAST",
      "preco": 29.9,
      "img": "produtos/7352.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 14323,
@@ -23199,7 +23191,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 114
+     "saldo": 113
     },
     {
      "cod": 4129,
@@ -23207,7 +23199,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 103
+     "saldo": 102
     },
     {
      "cod": 5005,
@@ -23459,7 +23451,7 @@
      "marca": "TOTALPLAST",
      "preco": 11.9,
      "img": "produtos/11826.jpg",
-     "saldo": 17
+     "saldo": 30
     },
     {
      "cod": 14835,
@@ -23595,7 +23587,7 @@
      "marca": "ULTRA",
      "preco": 17.9,
      "img": "produtos/14823.jpg",
-     "saldo": 171
+     "saldo": 170
     },
     {
      "cod": 11690,
@@ -23945,7 +23937,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 42
+     "saldo": 35
     },
     {
      "cod": 7045,
@@ -23969,7 +23961,7 @@
      "marca": "",
      "preco": 66.9,
      "img": "produtos/1368.jpg",
-     "saldo": 1
+     "saldo": 3
     },
     {
      "cod": 14427,
@@ -23985,7 +23977,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/1367.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 14322,
@@ -26179,7 +26171,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 662
+     "saldo": 661
     },
     {
      "cod": 10972,
@@ -26590,7 +26582,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 162
+     "saldo": 102
     },
     {
      "cod": 13857,
@@ -26598,7 +26590,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 116
+     "saldo": 56
     },
     {
      "cod": 13856,
@@ -26606,7 +26598,7 @@
      "marca": "HIPERROLL",
      "preco": 20.9,
      "img": "produtos/13856.jpg",
-     "saldo": 161
+     "saldo": 101
     },
     {
      "cod": 13859,
@@ -26662,7 +26654,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 53
+     "saldo": 51
     },
     {
      "cod": 13855,
@@ -26726,7 +26718,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 5264
+     "saldo": 5260
     },
     {
      "cod": 11788,
@@ -27056,7 +27048,7 @@
        "cor": "Branca",
        "nome": "BOBINA 57MM TERM 30M-BRANCA",
        "img": "produtos/6098.jpg",
-       "saldo": 799
+       "saldo": 795
       }
      ]
     },
@@ -27286,7 +27278,7 @@
      "marca": "IEC",
      "preco": 5.9,
      "img": "produtos/2759.jpg",
-     "saldo": 35
+     "saldo": 40
     },
     {
      "cod": 4935,
@@ -27294,7 +27286,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 585
+     "saldo": 580
     },
     {
      "cod": 4285,
@@ -30492,7 +30484,7 @@
      "marca": "SANREMO",
      "preco": 6.9,
      "img": "produtos/2662.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 9975,
