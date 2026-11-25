@@ -104,21 +104,21 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1095,
+     "saldo": 1088,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1095
+       "saldo": 1088
       },
       {
        "cod": 553,
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1946
+       "saldo": 1941
       },
       {
        "cod": 554,
@@ -506,14 +506,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 835,
+     "saldo": 833,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 835
+       "saldo": 833
       },
       {
        "cod": 570,
@@ -553,14 +553,14 @@
      "marca": "FABER",
      "preco": 2.9,
      "img": "produtos/10288.jpg",
-     "saldo": 21,
+     "saldo": 19,
      "cores": [
       {
        "cod": 10288,
        "cor": "Azul",
        "nome": "CANETA FABER TRILUX-(FINA) AZUL",
        "img": "produtos/10288.jpg",
-       "saldo": 21
+       "saldo": 19
       },
       {
        "cod": 10289,
@@ -626,7 +626,7 @@
        "cor": "Vermelha",
        "nome": "CANETA FABER TRILUX-VERMELHA",
        "img": "produtos/578.jpg",
-       "saldo": 24
+       "saldo": 23
       }
      ]
     },
@@ -3441,14 +3441,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 52,
+     "saldo": 51,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 2347,
@@ -3469,7 +3469,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
        "img": "produtos/2349.jpg",
-       "saldo": 9
+       "saldo": 8
       }
      ]
     },
@@ -3561,7 +3561,7 @@
        "cor": "Preto",
        "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
        "img": "produtos/2626.jpg",
-       "saldo": 52
+       "saldo": 49
       },
       {
        "cod": 2627,
@@ -3638,21 +3638,21 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 202,
+     "saldo": 201,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 202
+       "saldo": 201
       },
       {
        "cod": 2657,
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 239
+       "saldo": 238
       },
       {
        "cod": 2658,
@@ -5243,7 +5243,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10903.jpg",
-     "saldo": 106
+     "saldo": 102
     },
     {
      "cod": 8255,
@@ -5552,7 +5552,7 @@
      "marca": "TILIBRA",
      "preco": 21.9,
      "img": "produtos/6564.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 10466,
@@ -5704,7 +5704,7 @@
      "marca": "CADERSIL",
      "preco": 33.9,
      "img": "produtos/12837.jpg",
-     "saldo": 10
+     "saldo": 7
     },
     {
      "cod": 8138,
@@ -8368,7 +8368,7 @@
      "marca": "CREDEAL",
      "preco": 5.9,
      "img": "produtos/10884.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 14787,
@@ -9857,7 +9857,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3892
+     "saldo": 3891
     },
     {
      "cod": 14619,
@@ -9965,7 +9965,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 332
+     "saldo": 331
     },
     {
      "cod": 1294,
@@ -10051,7 +10051,7 @@
      "marca": "FOXLUX",
      "preco": 4.9,
      "img": "produtos/6521.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 11717,
@@ -10091,7 +10091,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 644
+     "saldo": 643
     },
     {
      "cod": 4389,
@@ -10718,7 +10718,7 @@
        "cor": "Rosa",
        "nome": "CORRETIVO CANETA 8ML MERCUR (ROSA)",
        "img": "produtos/7906.jpg",
-       "saldo": 72
+       "saldo": 71
       }
      ]
     },
@@ -11004,7 +11004,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 3479,
@@ -12153,7 +12153,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 2015,
@@ -14779,7 +14779,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/14688.jpg",
-     "saldo": 7
+     "saldo": 5
     },
     {
      "cod": 7493,
@@ -15999,7 +15999,7 @@
      "marca": "PLASCONY",
      "preco": 7.9,
      "img": "produtos/14204.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 14208,
@@ -18806,7 +18806,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 11681
+     "saldo": 11671
     },
     {
      "cod": 1051,
@@ -19444,7 +19444,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/6624.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 6620,
@@ -19684,7 +19684,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/2616.jpg",
-     "saldo": 88
+     "saldo": 86
     },
     {
      "cod": 11833,
@@ -21796,7 +21796,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14573.jpg",
-     "saldo": 29,
+     "saldo": 28,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -21806,7 +21806,7 @@
      "saldo_cor": {
       "AMARELO": 7,
       "AZUL": 6,
-      "ROSA": 8,
+      "ROSA": 7,
       "VERMELHO": 8
      }
     },
@@ -21816,7 +21816,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
-     "saldo": 63,
+     "saldo": 62,
      "controle": [
       "AMARELO",
       "LARANJA",
@@ -21826,7 +21826,7 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AMARELO": 10,
+      "AMARELO": 9,
       "LARANJA": 12,
       "ROXO": 12,
       "VERDE": 10,
@@ -21840,7 +21840,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14612.jpg",
-     "saldo": 32,
+     "saldo": 31,
      "controle": [
       "AZUL",
       "PINK",
@@ -21848,7 +21848,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 8,
+      "AZUL": 7,
       "PINK": 8,
       "ROSA": 8,
       "ROXO": 8
@@ -26457,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 717
+     "saldo": 712
     },
     {
      "cod": 6855,
@@ -26695,7 +26695,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 3436
+     "saldo": 3336
     },
     {
      "cod": 1337,
@@ -26909,7 +26909,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 152
+     "saldo": 150
     },
     {
      "cod": 4314,
@@ -29357,7 +29357,7 @@
      "marca": "REDINHA",
      "preco": 3.5,
      "img": "produtos/2608.jpg",
-     "saldo": 5
+     "saldo": 25
     },
     {
      "cod": 2609,
@@ -29365,7 +29365,7 @@
      "marca": "REDINHA",
      "preco": 8.9,
      "img": "produtos/2609.jpg",
-     "saldo": 6
+     "saldo": 26
     },
     {
      "cod": 2610,
@@ -29373,7 +29373,7 @@
      "marca": "REDINHA",
      "preco": 9.9,
      "img": "produtos/2610.jpg",
-     "saldo": 13
+     "saldo": 33
     },
     {
      "cod": 4673,
@@ -29505,7 +29505,7 @@
        "cor": "Branca",
        "nome": "ROLHA PLASTICA C/50 BRANCA",
        "img": "produtos/2670.jpg",
-       "saldo": 25
+       "saldo": 45
       }
      ]
     }
@@ -29815,7 +29815,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1255
+     "saldo": 1250
     },
     {
      "cod": 2157,
@@ -29877,7 +29877,7 @@
      "marca": "ENCOPA",
      "preco": 4.9,
      "img": "produtos/2000.jpg",
-     "saldo": 14
+     "saldo": 114
     },
     {
      "cod": 9829,
@@ -31482,7 +31482,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO (GEL) FABER-VERDE",
        "img": "produtos/6899.jpg",
-       "saldo": 18
+       "saldo": 17
       }
      ]
     },
@@ -31688,14 +31688,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 315,
+     "saldo": 310,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 315
+       "saldo": 310
       },
       {
        "cod": 6051,
