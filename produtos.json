@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 763,
+     "saldo": 713,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 763
+       "saldo": 713
       },
       {
        "cod": 556,
@@ -2625,7 +2625,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 535
+     "saldo": 525
     },
     {
      "cod": 5836,
@@ -3146,14 +3146,14 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2343.jpg",
-     "saldo": 31,
+     "saldo": 19,
      "cores": [
       {
        "cod": 2343,
        "cor": "Azul",
        "nome": "PINCEL ATOM.1100 PILOT-AZUL",
        "img": "produtos/2343.jpg",
-       "saldo": 31
+       "saldo": 19
       },
       {
        "cod": 2344,
@@ -4408,7 +4408,7 @@
      "marca": "MERCUR",
      "preco": 0.6,
      "img": "produtos/293.jpg",
-     "saldo": 309
+     "saldo": 304
     },
     {
      "cod": 3225,
@@ -10075,7 +10075,7 @@
      "marca": "ADELBRAS",
      "preco": 20.9,
      "img": "produtos/11807.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 6836,
@@ -13657,14 +13657,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2994.jpg",
-     "saldo": 50,
+     "saldo": 49,
      "cores": [
       {
        "cod": 2994,
        "cor": "Azul",
        "nome": "TINTA PINCEL 37ML PILOT-AZUL",
        "img": "produtos/2994.jpg",
-       "saldo": 50
+       "saldo": 49
       },
       {
        "cod": 2995,
@@ -16201,14 +16201,14 @@
      "marca": "PLASCONY",
      "preco": 6.9,
      "img": "produtos/14205.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "cores": [
       {
        "cod": 14205,
        "cor": "Azul",
        "nome": "PASTA PP 5CM PLASCONY-AZUL",
        "img": "produtos/14205.jpg",
-       "saldo": 46
+       "saldo": 45
       },
       {
        "cod": 14444,
@@ -16229,7 +16229,7 @@
        "cor": "Verde",
        "nome": "PASTA PP 5CM PLASCONY-VERDE",
        "img": "produtos/14446.jpg",
-       "saldo": 35
+       "saldo": 34
       }
      ]
     },
@@ -23343,6 +23343,14 @@
      "saldo": 118
     },
     {
+     "cod": 2493,
+     "nome": "POTE (KIT) 1000ML C/24-RIOPLASTIC",
+     "marca": "RIOPLASTIC",
+     "preco": 32.9,
+     "img": "produtos/2493.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 11829,
      "nome": "POTE (KIT) 1000ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
@@ -25526,7 +25534,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 143
+     "saldo": 141
     },
     {
      "cod": 2712,
@@ -25718,7 +25726,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 130
+     "saldo": 125
     },
     {
      "cod": 8160,
@@ -26465,7 +26473,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 719
+     "saldo": 717
     },
     {
      "cod": 6855,
@@ -26481,7 +26489,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 590
+     "saldo": 588
     },
     {
      "cod": 6825,
@@ -26576,6 +26584,14 @@
      "preco": 33.9,
      "img": "produtos/13857.jpg",
      "saldo": 110
+    },
+    {
+     "cod": 245,
+     "nome": "BOBINA ESTRELA (P) 25X40 C/450",
+     "marca": "",
+     "preco": 19.9,
+     "img": "produtos/245.jpg",
+     "saldo": 1
     },
     {
      "cod": 13856,
@@ -28677,7 +28693,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 392
+     "saldo": 342
     },
     {
      "cod": 2777,
@@ -28859,7 +28875,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 21
+     "saldo": 19
     },
     {
      "cod": 1197,
@@ -29293,7 +29309,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/193.jpg",
-     "saldo": 7
+     "saldo": 5
     },
     {
      "cod": 194,
