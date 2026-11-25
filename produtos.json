@@ -467,7 +467,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 77
+       "saldo": 76
       },
       {
        "cod": 566,
@@ -1024,7 +1024,7 @@
        "cor": "Ouro",
        "nome": "CANETA GEL/CONVITE MOLIN-OURO",
        "img": "produtos/573.jpg",
-       "saldo": 24
+       "saldo": 22
       },
       {
        "cod": 574,
@@ -2745,7 +2745,7 @@
      "marca": "MOLIN",
      "preco": 3.9,
      "img": "produtos/14540.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 12282,
@@ -7404,7 +7404,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12440.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 6296,
@@ -7532,7 +7532,7 @@
      "marca": "CREDEAL",
      "preco": 10.9,
      "img": "produtos/12405.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 12990,
@@ -8453,7 +8453,7 @@
      "marca": "TILIBRA",
      "preco": 11.9,
      "img": "produtos/5855.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 8755,
@@ -9079,7 +9079,7 @@
      "marca": "JOCAR",
      "preco": 1.9,
      "img": "produtos/7554.jpg",
-     "saldo": 16
+     "saldo": 14
     },
     {
      "cod": 12223,
@@ -12137,7 +12137,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 696
+     "saldo": 694
     },
     {
      "cod": 5082,
@@ -12177,7 +12177,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1119
+     "saldo": 1114
     },
     {
      "cod": 9052,
@@ -12263,7 +12263,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 42
+     "saldo": 40
     },
     {
      "cod": 11784,
@@ -12287,7 +12287,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 208
+     "saldo": 207
     },
     {
      "cod": 4344,
@@ -14779,7 +14779,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/14688.jpg",
-     "saldo": 9
+     "saldo": 7
     },
     {
      "cod": 7493,
@@ -15592,14 +15592,6 @@
      "saldo": 1
     },
     {
-     "cod": 14210,
-     "nome": "PASTA ENVELOPE A6-ANIMAL PRINT",
-     "marca": "PLASCONY",
-     "preco": 6.9,
-     "img": "produtos/14210.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 2218,
      "nome": "PASTA GRAMPO TRILHO",
      "marca": "POLYCART",
@@ -15791,7 +15783,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/14441.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 6744,
@@ -16007,7 +15999,7 @@
      "marca": "PLASCONY",
      "preco": 7.9,
      "img": "produtos/14204.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14208,
@@ -16358,7 +16350,7 @@
      "marca": "POLIBRAS",
      "preco": 69.9,
      "img": "produtos/2268.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 2274,
@@ -18814,7 +18806,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 11711
+     "saldo": 11681
     },
     {
      "cod": 1051,
@@ -19230,7 +19222,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 91
+     "saldo": 81
     }
    ]
   },
@@ -22976,7 +22968,7 @@
      "marca": "COPOPLAST",
      "preco": 31.9,
      "img": "produtos/1569.jpg",
-     "saldo": 97
+     "saldo": 96
     },
     {
      "cod": 5937,
@@ -23580,7 +23572,7 @@
      "marca": "TOTALPLAST",
      "preco": 34.9,
      "img": "produtos/11690.jpg",
-     "saldo": 33
+     "saldo": 153
     },
     {
      "cod": 2524,
@@ -25276,7 +25268,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 43
+     "saldo": 41
     },
     {
      "cod": 14678,
@@ -25494,7 +25486,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2706.jpg",
-     "saldo": 943
+     "saldo": 941
     },
     {
      "cod": 2707,
@@ -26909,7 +26901,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2280
+     "saldo": 2279
     },
     {
      "cod": 2896,
@@ -27503,7 +27495,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 109
+     "saldo": 105
     },
     {
      "cod": 11952,
@@ -29529,7 +29521,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/1785.jpg",
-     "saldo": 1084
+     "saldo": 1081
     },
     {
      "cod": 1786,
@@ -29673,7 +29665,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 0
+     "saldo": 4
     },
     {
      "cod": 3085,
@@ -31490,7 +31482,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO (GEL) FABER-VERDE",
        "img": "produtos/6899.jpg",
-       "saldo": 19
+       "saldo": 18
       }
      ]
     },
@@ -31500,14 +31492,14 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/9132.jpg",
-     "saldo": 17,
+     "saldo": 16,
      "cores": [
       {
        "cod": 9132,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO (GEL) TRIS TWIST-AMARELO",
        "img": "produtos/9132.jpg",
-       "saldo": 17
+       "saldo": 16
       },
       {
        "cod": 9137,
