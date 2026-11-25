@@ -2160,7 +2160,7 @@
      "marca": "LEO E LEO",
      "preco": 19.9,
      "img": "produtos/1662.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 12629,
@@ -2266,7 +2266,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 831
+     "saldo": 830
     },
     {
      "cod": 1670,
@@ -3285,14 +3285,14 @@
      "marca": "JOCAR",
      "preco": 2.5,
      "img": "produtos/7579.jpg",
-     "saldo": 413,
+     "saldo": 412,
      "cores": [
       {
        "cod": 7579,
        "cor": "Azul",
        "nome": "PINCEL ATOM.SLIM.JOCAR-AZUL",
        "img": "produtos/7579.jpg",
-       "saldo": 413
+       "saldo": 412
       },
       {
        "cod": 7533,
@@ -4500,7 +4500,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14548.jpg",
-     "saldo": 23,
+     "saldo": 22,
      "controle": [
       "AZUL",
       "LILAS",
@@ -4509,7 +4509,7 @@
      "saldo_cor": {
       "AZUL": 8,
       "LILAS": 7,
-      "ROSA": 8
+      "ROSA": 7
      }
     },
     {
@@ -5243,7 +5243,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 12910,
@@ -8445,7 +8445,7 @@
      "marca": "TILIBRA",
      "preco": 11.9,
      "img": "produtos/5855.jpg",
-     "saldo": 119
+     "saldo": 116
     },
     {
      "cod": 8755,
@@ -9117,7 +9117,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 508,
@@ -10800,7 +10800,7 @@
      "marca": "MERCUR",
      "preco": 16.9,
      "img": "produtos/983.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 7684,
@@ -10956,7 +10956,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1536.jpg",
-     "saldo": 228
+     "saldo": 227
     },
     {
      "cod": 1537,
@@ -11538,7 +11538,7 @@
        "cor": "Branco",
        "nome": "CARTAO-BRANCO",
        "img": "produtos/3308.jpg",
-       "saldo": 46
+       "saldo": 31
       },
       {
        "cod": 744,
@@ -11625,7 +11625,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 191
+       "saldo": 190
       },
       {
        "cod": 2035,
@@ -12185,14 +12185,14 @@
      "marca": "CHAMEQUINH",
      "preco": 10.9,
      "img": "produtos/2007.jpg",
-     "saldo": 277,
+     "saldo": 276,
      "cores": [
       {
        "cod": 2007,
        "cor": "Amarelo",
        "nome": "PAPEL A4 COLOR. C/100-AMARELO",
        "img": "produtos/2007.jpg",
-       "saldo": 277
+       "saldo": 276
       },
       {
        "cod": 3975,
@@ -12271,7 +12271,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 195
+     "saldo": 193
     },
     {
      "cod": 2100,
@@ -12287,7 +12287,7 @@
      "marca": "MASTERPRIN",
      "preco": 18.9,
      "img": "produtos/4344.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 2113,
@@ -14064,7 +14064,7 @@
      "marca": "GRESPAN",
      "preco": 74.9,
      "img": "produtos/7432.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 7430,
@@ -14136,7 +14136,7 @@
      "marca": "GRESPAN",
      "preco": 74.9,
      "img": "produtos/7438.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 7439,
@@ -16239,7 +16239,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/12934.jpg",
-     "saldo": 149
+     "saldo": 147
     },
     {
      "cod": 12935,
@@ -18798,7 +18798,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 11671
+     "saldo": 11661
     },
     {
      "cod": 1051,
@@ -22034,7 +22034,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1594
+     "saldo": 1569
     },
     {
      "cod": 14414,
@@ -23048,7 +23048,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 2937,
@@ -23056,7 +23056,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 233
+     "saldo": 232
     },
     {
      "cod": 4146,
@@ -23166,7 +23166,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1354
+     "saldo": 1350
     },
     {
      "cod": 11964,
@@ -23238,7 +23238,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 870
+     "saldo": 866
     },
     {
      "cod": 1444,
@@ -23348,7 +23348,7 @@
      "marca": "RIOPLASTIC",
      "preco": 9.9,
      "img": "produtos/2495.jpg",
-     "saldo": 194
+     "saldo": 154
     },
     {
      "cod": 14028,
@@ -23404,7 +23404,7 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/15026.jpg",
-     "saldo": 994
+     "saldo": 974
     },
     {
      "cod": 14835,
@@ -23906,7 +23906,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/7045.jpg",
-     "saldo": 4
+     "saldo": 14
     },
     {
      "cod": 1366,
@@ -26022,7 +26022,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/7176.jpg",
-     "saldo": 197
+     "saldo": 187
     },
     {
      "cod": 7175,
@@ -26132,7 +26132,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1805
+     "saldo": 1804
     },
     {
      "cod": 2826,
@@ -26655,7 +26655,7 @@
      "marca": "",
      "preco": 49.9,
      "img": "produtos/6966.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 4427,
@@ -26877,7 +26877,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2277
+     "saldo": 2257
     },
     {
      "cod": 2896,
@@ -26885,7 +26885,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 150
+     "saldo": 149
     },
     {
      "cod": 4314,
@@ -26901,7 +26901,7 @@
      "marca": "GERAPLAST",
      "preco": 21.9,
      "img": "produtos/2897.jpg",
-     "saldo": 107
+     "saldo": 100
     },
     {
      "cod": 2898,
@@ -26941,7 +26941,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 65
+     "saldo": 63
     }
    ]
   },
@@ -29505,7 +29505,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/1786.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 9179,
@@ -29513,7 +29513,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/9179.jpg",
-     "saldo": 21
+     "saldo": 18
     },
     {
      "cod": 7488,
@@ -29775,7 +29775,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 145
+     "saldo": 130
     },
     {
      "cod": 2153,
@@ -29799,7 +29799,7 @@
      "marca": "INTERFORTY",
      "preco": 129.9,
      "img": "produtos/2157.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2156,
@@ -30629,7 +30629,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10614.jpg",
-     "saldo": 29
+     "saldo": 28
     },
     {
      "cod": 10647,
