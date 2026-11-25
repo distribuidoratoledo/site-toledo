@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1035,
+     "saldo": 985,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1035
+       "saldo": 985
       },
       {
        "cod": 553,
@@ -9269,7 +9269,7 @@
      "marca": "INK ROLLER",
      "preco": 21.9,
      "img": "produtos/2665.jpg",
-     "saldo": 2
+     "saldo": 1
     }
    ]
   },
@@ -9571,7 +9571,7 @@
      "marca": "TEKBOND",
      "preco": 15.9,
      "img": "produtos/845.jpg",
-     "saldo": 34
+     "saldo": 29
     },
     {
      "cod": 846,
@@ -10059,7 +10059,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 11807,
@@ -11845,7 +11845,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 48
+       "saldo": 47
       },
       {
        "cod": 2045,
@@ -12137,7 +12137,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 73
+     "saldo": 63
     },
     {
      "cod": 4502,
@@ -12153,7 +12153,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 102
+     "saldo": 82
     },
     {
      "cod": 2016,
@@ -12169,7 +12169,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1077
+     "saldo": 1067
     },
     {
      "cod": 9052,
@@ -12177,7 +12177,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 910
+     "saldo": 900
     },
     {
      "cod": 2007,
@@ -13156,7 +13156,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/10372.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 2364,
@@ -16949,14 +16949,14 @@
      "marca": "LEO/DUB",
      "preco": 3.9,
      "img": "produtos/6665.jpg",
-     "saldo": 149,
+     "saldo": 146,
      "cores": [
       {
        "cod": 6665,
        "cor": "Azul Celeste / Royal",
        "nome": "EVA GLITER-AZUL CELESTE/ROYAL",
        "img": "produtos/6665.jpg",
-       "saldo": 149
+       "saldo": 146
       },
       {
        "cod": 4829,
@@ -25470,7 +25470,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 2709,
@@ -25494,7 +25494,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 141
+     "saldo": 139
     },
     {
      "cod": 2712,
@@ -26671,7 +26671,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 3032
+     "saldo": 2932
     },
     {
      "cod": 1337,
@@ -26963,7 +26963,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 2050
+     "saldo": 2046
     },
     {
      "cod": 6646,
@@ -28835,7 +28835,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 19
+     "saldo": 18
     },
     {
      "cod": 1197,
@@ -29277,7 +29277,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/194.jpg",
-     "saldo": 17
+     "saldo": 13
     },
     {
      "cod": 1035,
@@ -29711,7 +29711,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 97
+     "saldo": 94
     },
     {
      "cod": 9017,
