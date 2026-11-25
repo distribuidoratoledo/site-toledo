@@ -506,14 +506,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 838,
+     "saldo": 836,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 838
+       "saldo": 836
       },
       {
        "cod": 570,
@@ -2390,7 +2390,7 @@
      "marca": "FABER",
      "preco": 2.5,
      "img": "produtos/3500.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 10705,
@@ -3330,7 +3330,7 @@
        "cor": "Preto",
        "nome": "PINCEL COMPACTOR-PRETO",
        "img": "produtos/2331.jpg",
-       "saldo": 351
+       "saldo": 350
       },
       {
        "cod": 2332,
@@ -3698,7 +3698,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 550
+     "saldo": 549
     },
     {
      "cod": 1509,
@@ -3998,7 +3998,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
-     "saldo": 81,
+     "saldo": 80,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4228,7 +4228,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1969
+     "saldo": 1963
     },
     {
      "cod": 4341,
@@ -5704,7 +5704,7 @@
      "marca": "CADERSIL",
      "preco": 33.9,
      "img": "produtos/12837.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 8138,
@@ -6254,14 +6254,14 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/5615.jpg",
-     "saldo": 11,
+     "saldo": 10,
      "cores": [
       {
        "cod": 5615,
        "cor": "Azul",
        "nome": "CADERNO 1X1 80F-NEON AZUL",
        "img": "produtos/5615.jpg",
-       "saldo": 11
+       "saldo": 10
       },
       {
        "cod": 5616,
@@ -6314,7 +6314,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/12763.jpg",
-     "saldo": 21
+     "saldo": 18
     },
     {
      "cod": 12764,
@@ -6322,7 +6322,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/12764.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 13209,
@@ -9125,7 +9125,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 508,
@@ -9229,7 +9229,7 @@
      "marca": "MOURE JAR",
      "preco": 28.9,
      "img": "produtos/5010.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 494,
@@ -9747,7 +9747,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 294
+     "saldo": 292
     },
     {
      "cod": 11926,
@@ -9755,7 +9755,7 @@
      "marca": "REND/LEO",
      "preco": 8.9,
      "img": "produtos/11926.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 10944,
@@ -9849,7 +9849,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1896
+     "saldo": 1886
     },
     {
      "cod": 1031,
@@ -9965,7 +9965,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 342
+     "saldo": 332
     },
     {
      "cod": 1294,
@@ -10067,7 +10067,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 39
+     "saldo": 36
     },
     {
      "cod": 11807,
@@ -10091,7 +10091,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 646
+     "saldo": 644
     },
     {
      "cod": 4389,
@@ -10153,7 +10153,7 @@
      "marca": "JOCAR",
      "preco": 29.9,
      "img": "produtos/1520.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 1522,
@@ -10784,7 +10784,7 @@
      "marca": "ACRILEX",
      "preco": 9.9,
      "img": "produtos/7685.jpg",
-     "saldo": 69
+     "saldo": 66
     },
     {
      "cod": 982,
@@ -11633,7 +11633,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 200
+       "saldo": 199
       },
       {
        "cod": 2035,
@@ -11671,7 +11671,7 @@
        "cor": "Azul",
        "nome": "CELOFANE-AZUL",
        "img": "produtos/3764.jpg",
-       "saldo": 107
+       "saldo": 106
       },
       {
        "cod": 757,
@@ -11710,35 +11710,35 @@
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/2051.jpg",
-     "saldo": 28,
+     "saldo": 25,
      "cores": [
       {
        "cod": 2051,
        "cor": "Amarelo",
        "nome": "COLORSETE A4 C/50 AMARELO",
        "img": "produtos/2051.jpg",
-       "saldo": 28
+       "saldo": 25
       },
       {
        "cod": 2054,
        "cor": "Azul Royal / Azul Escuro",
        "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
        "img": "produtos/2054.jpg",
-       "saldo": 55
+       "saldo": 54
       },
       {
        "cod": 2055,
        "cor": "Laranja",
        "nome": "COLORSETE A4 C/50 LARANJA",
        "img": "produtos/2055.jpg",
-       "saldo": 12
+       "saldo": 10
       },
       {
        "cod": 4172,
        "cor": "Lilas",
        "nome": "COLORSETE A4 C/50 LILAS",
        "img": "produtos/4172.jpg",
-       "saldo": 19
+       "saldo": 17
       },
       {
        "cod": 2057,
@@ -11773,7 +11773,7 @@
        "cor": "Verde Bandeira",
        "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
        "img": "produtos/2063.jpg",
-       "saldo": 18
+       "saldo": 15
       },
       {
        "cod": 2064,
@@ -11787,7 +11787,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 41
+       "saldo": 36
       },
       {
        "cod": 5162,
@@ -12105,7 +12105,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 532
+     "saldo": 531
     },
     {
      "cod": 3580,
@@ -12153,7 +12153,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 38
+     "saldo": 33
     },
     {
      "cod": 2015,
@@ -12169,7 +12169,7 @@
      "marca": "CHAMEX",
      "preco": 49.9,
      "img": "produtos/2016.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2014,
@@ -12835,7 +12835,7 @@
      "marca": "TRIS",
      "preco": 15.9,
      "img": "produtos/12633.jpg",
-     "saldo": 59
+     "saldo": 58
     },
     {
      "cod": 3020,
@@ -12927,7 +12927,7 @@
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 52
+       "saldo": 51
       },
       {
        "cod": 3026,
@@ -14454,7 +14454,7 @@
      "marca": "MAXCRIL",
      "preco": 1.0,
      "img": "produtos/3309.jpg",
-     "saldo": 39
+     "saldo": 14
     },
     {
      "cod": 1245,
@@ -15075,7 +15075,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/4265.jpg",
-     "saldo": 132
+     "saldo": 128
     },
     {
      "cod": 7644,
@@ -15091,7 +15091,7 @@
      "marca": "AMBIENTE",
      "preco": 36.9,
      "img": "produtos/4616.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 2648,
@@ -15646,14 +15646,14 @@
        "cor": "Verde",
        "nome": "PASTA GRAMPO TRILHO VERDE",
        "img": "produtos/2226.jpg",
-       "saldo": 76
+       "saldo": 66
       },
       {
        "cod": 2227,
        "cor": "Vermelho",
        "nome": "PASTA GRAMPO TRILHO VERMELHO",
        "img": "produtos/2227.jpg",
-       "saldo": 76
+       "saldo": 66
       }
      ]
     },
@@ -15799,14 +15799,14 @@
      "marca": "POLIBRAS",
      "preco": 5.9,
      "img": "produtos/6190.jpg",
-     "saldo": 43,
+     "saldo": 33,
      "cores": [
       {
        "cod": 6190,
        "cor": "Amarela",
        "nome": "PASTA POLIONDA 2CM AMARELA",
        "img": "produtos/6190.jpg",
-       "saldo": 43
+       "saldo": 33
       },
       {
        "cod": 6192,
@@ -15827,7 +15827,7 @@
        "cor": "Vermelha",
        "nome": "PASTA POLIONDA 2CM VERMELHA",
        "img": "produtos/2171.jpg",
-       "saldo": 43
+       "saldo": 33
       }
      ]
     },
@@ -16476,7 +16476,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/4918.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 4919,
@@ -17260,7 +17260,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 206
+     "saldo": 200
     },
     {
      "cod": 6999,
@@ -17284,7 +17284,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3069.jpg",
-     "saldo": 761
+     "saldo": 749
     },
     {
      "cod": 3070,
@@ -17308,7 +17308,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3071.jpg",
-     "saldo": 744
+     "saldo": 732
     },
     {
      "cod": 5066,
@@ -18694,7 +18694,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 18424
+     "saldo": 18417
     },
     {
      "cod": 1039,
@@ -18830,7 +18830,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7290
+     "saldo": 7267
     },
     {
      "cod": 1054,
@@ -18940,21 +18940,21 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 206,
+     "saldo": 196,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 206
+       "saldo": 196
       },
       {
        "cod": 661,
        "cor": "Preta",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 PRETA",
        "img": "produtos/661.jpg",
-       "saldo": 239
+       "saldo": 229
       }
      ]
     },
@@ -18989,14 +18989,6 @@
      "preco": 76.9,
      "img": "produtos/1121.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 4925,
-     "nome": "ESPIRAL 20MM P/120F C/70",
-     "marca": "",
-     "preco": 44.9,
-     "img": "produtos/4925.jpg",
-     "saldo": 1
     },
     {
      "cod": 1123,
@@ -19108,7 +19100,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 251
+     "saldo": 241
     },
     {
      "cod": 13980,
@@ -19708,7 +19700,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/11833.jpg",
-     "saldo": 48
+     "saldo": 46
     },
     {
      "cod": 11832,
@@ -20864,7 +20856,7 @@
      "marca": "PADO",
      "preco": 27.9,
      "img": "produtos/312.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 313,
@@ -21464,7 +21456,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 9
+       "saldo": 6
       },
       {
        "cod": 1478,
@@ -21499,14 +21491,14 @@
        "cor": "Verde",
        "nome": "GLITER 3GR-VERDE",
        "img": "produtos/1483.jpg",
-       "saldo": 82
+       "saldo": 80
       },
       {
        "cod": 1484,
        "cor": "Vermelho",
        "nome": "GLITER 3GR-VERMELHO",
        "img": "produtos/1484.jpg",
-       "saldo": 84
+       "saldo": 82
       }
      ]
     },
@@ -22042,7 +22034,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5867
+     "saldo": 5865
     },
     {
      "cod": 944,
@@ -22090,7 +22082,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 681
+     "saldo": 680
     },
     {
      "cod": 14407,
@@ -22187,14 +22179,6 @@
      "preco": 5.5,
      "img": "produtos/963.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 946,
-     "nome": "COPO LISO 300/330ML C/50-COPOZAN",
-     "marca": "COPOZAN",
-     "preco": 7.9,
-     "img": "produtos/946.jpg",
-     "saldo": 1
     },
     {
      "cod": 6922,
@@ -22864,7 +22848,7 @@
      "marca": "ISOMAX",
      "preco": 10.9,
      "img": "produtos/772.jpg",
-     "saldo": 148
+     "saldo": 140
     },
     {
      "cod": 773,
@@ -23080,7 +23064,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 2937,
@@ -23088,7 +23072,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 237
+     "saldo": 236
     },
     {
      "cod": 4146,
@@ -23444,7 +23428,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 619
+     "saldo": 618
     },
     {
      "cod": 2516,
@@ -24128,7 +24112,7 @@
      "marca": "COPOPLAST",
      "preco": 3.9,
      "img": "produtos/3898.jpg",
-     "saldo": 635
+     "saldo": 634
     },
     {
      "cod": 2553,
@@ -24200,7 +24184,7 @@
      "marca": "PITPRATOS",
      "preco": 37.9,
      "img": "produtos/2563.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 2564,
@@ -24208,7 +24192,7 @@
      "marca": "PITPRATOS",
      "preco": 39.9,
      "img": "produtos/2564.jpg",
-     "saldo": 56
+     "saldo": 54
     },
     {
      "cod": 2565,
@@ -24406,7 +24390,7 @@
      "marca": "SANTECK",
      "preco": 12.9,
      "img": "produtos/9058.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 12122,
@@ -25072,7 +25056,7 @@
      "marca": "THEOTO",
      "preco": 3.0,
      "img": "produtos/3864.jpg",
-     "saldo": 107
+     "saldo": 106
     },
     {
      "cod": 3882,
@@ -25494,7 +25478,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 2709,
@@ -25598,7 +25582,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 2720,
@@ -25614,7 +25598,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2722.jpg",
-     "saldo": 55
+     "saldo": 52
     },
     {
      "cod": 2723,
@@ -25622,7 +25606,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2723.jpg",
-     "saldo": 284
+     "saldo": 283
     },
     {
      "cod": 2721,
@@ -25694,7 +25678,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2729.jpg",
-     "saldo": 201
+     "saldo": 196
     },
     {
      "cod": 2730,
@@ -26373,7 +26357,7 @@
        "cor": "Azul Escuro",
        "nome": "SACOLA PH 30X40 C/50-AZUL ESCURO",
        "img": "produtos/3672.jpg",
-       "saldo": 3
+       "saldo": 2
       },
       {
        "cod": 3958,
@@ -26415,7 +26399,7 @@
        "cor": "Vermelha",
        "nome": "SACOLA PH 30X40 C/50-VERMELHA",
        "img": "produtos/2859.jpg",
-       "saldo": 8
+       "saldo": 7
       }
      ]
     },
@@ -26449,7 +26433,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2324
+     "saldo": 2323
     },
     {
      "cod": 6821,
@@ -26457,7 +26441,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 740
+     "saldo": 739
     },
     {
      "cod": 6855,
@@ -26647,7 +26631,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 77
+     "saldo": 74
     },
     {
      "cod": 6965,
@@ -26663,7 +26647,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 228
+     "saldo": 227
     },
     {
      "cod": 6966,
@@ -26679,7 +26663,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 8
+     "saldo": 4
     },
     {
      "cod": 4427,
@@ -26743,7 +26727,7 @@
      "marca": "MGPAPEL",
      "preco": 119.9,
      "img": "produtos/5547.jpg",
-     "saldo": 6
+     "saldo": 5
     }
    ]
   },
@@ -27043,7 +27027,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7577
+     "saldo": 7574
     },
     {
      "cod": 236,
@@ -29261,7 +29245,7 @@
      "marca": "JAF TEXTIL",
      "preco": 8.9,
      "img": "produtos/195.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 196,
@@ -29783,7 +29767,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 159
+     "saldo": 155
     },
     {
      "cod": 6529,
