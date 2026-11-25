@@ -432,14 +432,14 @@
      "marca": "CIS",
      "preco": 4.5,
      "img": "produtos/561.jpg",
-     "saldo": 149,
+     "saldo": 148,
      "cores": [
       {
        "cod": 561,
        "cor": "Azul Claro",
        "nome": "CANETA CIS SPIRO-AZUL CLARO",
        "img": "produtos/561.jpg",
-       "saldo": 149
+       "saldo": 148
       },
       {
        "cod": 562,
@@ -467,21 +467,21 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 76
+       "saldo": 74
       },
       {
        "cod": 566,
        "cor": "Rosa",
        "nome": "CANETA CIS SPIRO-ROSA",
        "img": "produtos/566.jpg",
-       "saldo": 139
+       "saldo": 137
       },
       {
        "cod": 567,
        "cor": "Verde",
        "nome": "CANETA CIS SPIRO-VERDE",
        "img": "produtos/567.jpg",
-       "saldo": 60
+       "saldo": 58
       },
       {
        "cod": 568,
@@ -3500,7 +3500,7 @@
        "cor": "Preto",
        "nome": "PINCEL Q.BRC RECAR.PILOT-PRETO (WBMA-VBM-M)",
        "img": "produtos/2352.jpg",
-       "saldo": 102
+       "saldo": 100
       },
       {
        "cod": 2353,
@@ -8903,7 +8903,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/781.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 783,
@@ -9125,7 +9125,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 508,
@@ -9181,7 +9181,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 14110,
@@ -9957,7 +9957,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 498
+     "saldo": 493
     },
     {
      "cod": 1293,
@@ -10091,7 +10091,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 643
+     "saldo": 642
     },
     {
      "cod": 4389,
@@ -10153,7 +10153,7 @@
      "marca": "JOCAR",
      "preco": 29.9,
      "img": "produtos/1520.jpg",
-     "saldo": 14
+     "saldo": 12
     },
     {
      "cod": 1522,
@@ -10225,7 +10225,7 @@
      "marca": "MAPED",
      "preco": 29.9,
      "img": "produtos/1525.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 11872,
@@ -10545,7 +10545,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/2641.jpg",
-     "saldo": 446
+     "saldo": 445
     },
     {
      "cod": 10030,
@@ -11178,7 +11178,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 150
+     "saldo": 148
     },
     {
      "cod": 1977,
@@ -11298,7 +11298,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 73
+     "saldo": 71
     },
     {
      "cod": 2604,
@@ -12177,7 +12177,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1114
+     "saldo": 1103
     },
     {
      "cod": 9052,
@@ -12304,6 +12304,22 @@
      "preco": 1.5,
      "img": "produtos/2113.jpg",
      "saldo": 1443
+    },
+    {
+     "cod": 14085,
+     "nome": "PAPEL KRAFT A4 C/20 (180GR)",
+     "marca": "",
+     "preco": 8.9,
+     "img": "produtos/14085.jpg",
+     "saldo": 125
+    },
+    {
+     "cod": 6081,
+     "nome": "PAPEL KRAFT A4 C/25 (80GR)",
+     "marca": "",
+     "preco": 5.9,
+     "img": "produtos/6081.jpg",
+     "saldo": 50
     },
     {
      "cod": 6667,
@@ -26148,7 +26164,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 632
+     "saldo": 622
     },
     {
      "cod": 10972,
@@ -26164,7 +26180,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/2826.jpg",
-     "saldo": 41
+     "saldo": 31
     },
     {
      "cod": 2827,
@@ -26196,7 +26212,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 380
+     "saldo": 379
     },
     {
      "cod": 2839,
@@ -26457,7 +26473,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 712
+     "saldo": 710
     },
     {
      "cod": 6855,
@@ -26995,7 +27011,7 @@
      "marca": "PRIMUS",
      "preco": 29.9,
      "img": "produtos/6646.jpg",
-     "saldo": 51
+     "saldo": 49
     },
     {
      "cod": 225,
@@ -27495,7 +27511,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/7057.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 11952,
