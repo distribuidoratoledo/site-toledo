@@ -63,7 +63,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC BOLD 1.6-PRETA",
        "img": "produtos/550.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 551,
@@ -1024,14 +1024,14 @@
        "cor": "Ouro",
        "nome": "CANETA GEL/CONVITE MOLIN-OURO",
        "img": "produtos/573.jpg",
-       "saldo": 22
+       "saldo": 21
       },
       {
        "cod": 574,
        "cor": "Prata",
        "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
        "img": "produtos/574.jpg",
-       "saldo": 34
+       "saldo": 33
       }
      ]
     },
@@ -2681,7 +2681,7 @@
      "marca": "MAPED",
      "preco": 1.5,
      "img": "produtos/11566.jpg",
-     "saldo": 288
+     "saldo": 286
     },
     {
      "cod": 11564,
@@ -2860,7 +2860,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/14560.jpg",
-     "saldo": 6,
+     "saldo": 4,
      "controle": [
       "AMARELO"
      ],
@@ -3703,7 +3703,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 549
+     "saldo": 548
     },
     {
      "cod": 1509,
@@ -3899,7 +3899,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
-     "saldo": 44,
+     "saldo": 43,
      "controle": [
       "AZUL",
       "LILAS",
@@ -4079,7 +4079,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14544.jpg",
-     "saldo": 34,
+     "saldo": 33,
      "controle": [
       "LILAS",
       "ROSA",
@@ -4341,7 +4341,7 @@
      "marca": "MERCUR",
      "preco": 3.0,
      "img": "produtos/7917.jpg",
-     "saldo": 498
+     "saldo": 497
     },
     {
      "cod": 13077,
@@ -8389,7 +8389,7 @@
      "marca": "TILIBRA",
      "preco": 19.9,
      "img": "produtos/14788.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 12443,
@@ -10845,7 +10845,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 115
+     "saldo": 114
     }
    ]
   },
@@ -11792,7 +11792,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 35
+       "saldo": 33
       },
       {
        "cod": 5162,
@@ -14245,7 +14245,7 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/7392.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 4334,
@@ -14277,7 +14277,7 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/2908.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13926,
