@@ -553,14 +553,14 @@
      "marca": "FABER",
      "preco": 2.9,
      "img": "produtos/10288.jpg",
-     "saldo": 22,
+     "saldo": 21,
      "cores": [
       {
        "cod": 10288,
        "cor": "Azul",
        "nome": "CANETA FABER TRILUX-(FINA) AZUL",
        "img": "produtos/10288.jpg",
-       "saldo": 22
+       "saldo": 21
       },
       {
        "cod": 10289,
@@ -1430,14 +1430,14 @@
      "marca": "PILOT",
      "preco": 11.9,
      "img": "produtos/608.jpg",
-     "saldo": 11,
+     "saldo": 10,
      "cores": [
       {
        "cod": 608,
        "cor": "Azul",
        "nome": "CANETA PILOT GRIP 1.0-AZUL",
        "img": "produtos/608.jpg",
-       "saldo": 11
+       "saldo": 10
       },
       {
        "cod": 609,
@@ -10711,7 +10711,7 @@
        "cor": "Branca",
        "nome": "CORRETIVO CANETA 8ML MERCUR (BRANCA)",
        "img": "produtos/978.jpg",
-       "saldo": 71
+       "saldo": 70
       },
       {
        "cod": 7906,
@@ -10840,7 +10840,7 @@
      "marca": "MERCUR",
      "preco": 12.9,
      "img": "produtos/2618.jpg",
-     "saldo": 119
+     "saldo": 117
     }
    ]
   },
@@ -14779,7 +14779,7 @@
      "marca": "MOLIN",
      "preco": 10.9,
      "img": "produtos/14688.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 7493,
@@ -16222,7 +16222,7 @@
        "cor": "Rosa",
        "nome": "PASTA PP 5CM PLASCONY-ROSA",
        "img": "produtos/14445.jpg",
-       "saldo": 35
+       "saldo": 34
       },
       {
        "cod": 14446,
@@ -16271,7 +16271,7 @@
      "marca": "POLIBRAS",
      "preco": 4.9,
      "img": "produtos/7166.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 14203,
@@ -17647,14 +17647,6 @@
      "preco": 290.0,
      "img": "produtos/13660.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 13659,
-     "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA CANINA ROSA (IC42032PA-RA)",
-     "marca": "LUXCEL",
-     "preco": 379.9,
-     "img": "produtos/13659.jpg",
-     "saldo": 1
     },
     {
      "cod": 13078,
@@ -21678,7 +21670,7 @@
      "marca": "LEO E LEO",
      "preco": 18.9,
      "img": "produtos/7555.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 13315,
@@ -22026,7 +22018,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 388
+     "saldo": 387
     },
     {
      "cod": 945,
@@ -23136,7 +23128,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 109
+     "saldo": 110
     },
     {
      "cod": 4129,
@@ -23144,7 +23136,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 98
+     "saldo": 99
     },
     {
      "cod": 5005,
@@ -24478,7 +24470,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/10001.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 6861,
@@ -25550,7 +25542,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 310
+     "saldo": 309
     },
     {
      "cod": 13027,
@@ -26396,7 +26388,7 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 30X40 C/50-DOURADA",
        "img": "produtos/3958.jpg",
-       "saldo": 22
+       "saldo": 21
       },
       {
        "cod": 2854,
@@ -26941,7 +26933,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 846
+     "saldo": 845
     },
     {
      "cod": 2900,
@@ -27051,7 +27043,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7574
+     "saldo": 7578
     },
     {
      "cod": 236,
@@ -29823,7 +29815,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1259
+     "saldo": 1255
     },
     {
      "cod": 2157,
