@@ -9849,7 +9849,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3885
+     "saldo": 3883
     },
     {
      "cod": 14619,
@@ -10257,7 +10257,7 @@
      "marca": "THOMPSON",
      "preco": 69.9,
      "img": "produtos/1528.jpg",
-     "saldo": 7
+     "saldo": 6
     }
    ]
   },
@@ -10884,7 +10884,7 @@
      "marca": "ACC",
      "preco": 16.9,
      "img": "produtos/5156.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 4050,
@@ -11604,14 +11604,14 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2032.jpg",
-     "saldo": 209,
+     "saldo": 199,
      "cores": [
       {
        "cod": 2032,
        "cor": "Amarela",
        "nome": "CARTOLINA-AMARELA",
        "img": "produtos/2032.jpg",
-       "saldo": 209
+       "saldo": 199
       },
       {
        "cod": 2033,
@@ -12169,7 +12169,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1081
+     "saldo": 1078
     },
     {
      "cod": 9052,
@@ -17067,14 +17067,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 234,
+     "saldo": 224,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 234
+       "saldo": 224
       },
       {
        "cod": 1230,
@@ -17123,7 +17123,7 @@
        "cor": "Laranja",
        "nome": "EVA LISO-LARANJA",
        "img": "produtos/1235.jpg",
-       "saldo": 318
+       "saldo": 308
       },
       {
        "cod": 1236,
@@ -20978,7 +20978,7 @@
      "marca": "",
      "preco": 0.7,
      "img": "produtos/986.jpg",
-     "saldo": 193
+     "saldo": 163
     },
     {
      "cod": 6796,
@@ -21042,7 +21042,7 @@
      "marca": "",
      "preco": 1.4,
      "img": "produtos/2577.jpg",
-     "saldo": 700
+     "saldo": 670
     },
     {
      "cod": 988,
@@ -21980,7 +21980,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 36
+     "saldo": 35
     }
    ]
   },
@@ -22066,7 +22066,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 981
+     "saldo": 961
     },
     {
      "cod": 949,
@@ -22202,7 +22202,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 502
+     "saldo": 500
     },
     {
      "cod": 958,
@@ -22808,7 +22808,7 @@
      "marca": "ISOMAX",
      "preco": 32.9,
      "img": "produtos/767.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 768,
@@ -22944,7 +22944,7 @@
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 3947,
@@ -23420,7 +23420,7 @@
      "marca": "GALVANOTEK",
      "preco": 15.9,
      "img": "produtos/14835.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 11853,
@@ -23444,7 +23444,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 603
+     "saldo": 597
     },
     {
      "cod": 2516,
@@ -23564,7 +23564,7 @@
      "marca": "ULTRA",
      "preco": 17.9,
      "img": "produtos/14823.jpg",
-     "saldo": 167
+     "saldo": 169
     },
     {
      "cod": 11690,
@@ -23754,7 +23754,7 @@
      "marca": "GALVANOTEK",
      "preco": 63.9,
      "img": "produtos/1415.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 3957,
@@ -23811,14 +23811,6 @@
      "preco": 5.5,
      "img": "produtos/4493.jpg",
      "saldo": 2
-    },
-    {
-     "cod": 5067,
-     "nome": "FORMA GO933 C/10 (BARCA MEDIA)",
-     "marca": "GALVANOTEK",
-     "preco": 48.9,
-     "img": "produtos/5067.jpg",
-     "saldo": 1
     },
     {
      "cod": 14015,
@@ -23914,7 +23906,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 30
+     "saldo": 29
     },
     {
      "cod": 7045,
@@ -24326,7 +24318,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14665.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 14664,
@@ -24334,7 +24326,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/14664.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 14666,
@@ -24342,7 +24334,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/14666.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 9056,
@@ -26148,7 +26140,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1807
+     "saldo": 1805
     },
     {
      "cod": 2826,
@@ -26180,7 +26172,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 412
+     "saldo": 411
     },
     {
      "cod": 2838,
@@ -26615,7 +26607,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 90
+     "saldo": 88
     },
     {
      "cod": 13853,
@@ -26679,7 +26671,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 57
+     "saldo": 45
     },
     {
      "cod": 6857,
@@ -27359,7 +27351,7 @@
      "marca": "CIPAPEL",
      "preco": 51.9,
      "img": "produtos/2800.jpg",
-     "saldo": 55
+     "saldo": 52
     },
     {
      "cod": 7012,
@@ -27399,7 +27391,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/3675.jpg",
-     "saldo": 106
+     "saldo": 105
     },
     {
      "cod": 2802,
@@ -29807,7 +29799,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1250
+     "saldo": 1245
     },
     {
      "cod": 2157,
