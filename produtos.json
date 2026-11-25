@@ -9857,7 +9857,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3905
+     "saldo": 3892
     },
     {
      "cod": 14619,
@@ -12177,7 +12177,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1121
+     "saldo": 1120
     },
     {
      "cod": 9052,
@@ -16310,7 +16310,7 @@
      "marca": "POLIBRAS",
      "preco": 29.9,
      "img": "produtos/2264.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 2265,
@@ -19644,7 +19644,7 @@
      "marca": "ETIQ PLAST",
      "preco": 54.9,
      "img": "produtos/1333.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2368,
@@ -22245,6 +22245,14 @@
      "saldo": 39
     },
     {
+     "cod": 7011,
+     "nome": "COPO TERMICO 70ML C/20-TOTAL (ISOPOR)",
+     "marca": "TOTALPLAST",
+     "preco": 3.9,
+     "img": "produtos/7011.jpg",
+     "saldo": 500
+    },
+    {
      "cod": 9745,
      "nome": "COPO TERMICO 85ML C/50-VABENE (PAPEL)",
      "marca": "VABENE",
@@ -23190,7 +23198,7 @@
      "marca": "GOLDENPLAS",
      "preco": 12.9,
      "img": "produtos/11964.jpg",
-     "saldo": 2
+     "saldo": 47
     },
     {
      "cod": 9085,
@@ -23206,7 +23214,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 382
+     "saldo": 1382
     },
     {
      "cod": 880,
@@ -23343,6 +23351,14 @@
      "saldo": 116
     },
     {
+     "cod": 15027,
+     "nome": "POTE (KIT) 1000ML C/25-PLASZOM",
+     "marca": "PLASZOM",
+     "preco": 36.9,
+     "img": "produtos/15027.jpg",
+     "saldo": 120
+    },
+    {
      "cod": 2495,
      "nome": "POTE (KIT) 140ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
@@ -23388,7 +23404,15 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/15025.jpg",
-     "saldo": 300
+     "saldo": 299
+    },
+    {
+     "cod": 15028,
+     "nome": "POTE (KIT) 250ML C/25-PLASZOM",
+     "marca": "PLASZOM",
+     "preco": 11.9,
+     "img": "produtos/15028.jpg",
+     "saldo": 198
     },
     {
      "cod": 15026,
@@ -23402,15 +23426,23 @@
      "cod": 14835,
      "nome": "POTE (KIT) 350ML C/25-GALVANOTEK",
      "marca": "GALVANOTEK",
-     "preco": 16.9,
+     "preco": 15.9,
      "img": "produtos/14835.jpg",
      "saldo": 24
+    },
+    {
+     "cod": 11853,
+     "nome": "POTE (KIT) 380ML C/25-COPOZAN",
+     "marca": "COPOZAN",
+     "preco": 16.9,
+     "img": "produtos/11853.jpg",
+     "saldo": 60
     },
     {
      "cod": 2510,
      "nome": "POTE (KIT) 380ML C/25-RIOPLASTIC (SOBRE TAMPA)",
      "marca": "RIOPLASTIC",
-     "preco": 19.9,
+     "preco": 16.9,
      "img": "produtos/2510.jpg",
      "saldo": 7
     },
@@ -23420,7 +23452,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 618
+     "saldo": 617
     },
     {
      "cod": 2516,
@@ -25534,7 +25566,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2715.jpg",
-     "saldo": 117
+     "saldo": 113
     },
     {
      "cod": 2717,
@@ -25574,7 +25606,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 108
+     "saldo": 107
     },
     {
      "cod": 2720,
@@ -25654,7 +25686,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 170
+     "saldo": 169
     },
     {
      "cod": 10062,
@@ -26425,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2322
+     "saldo": 2317
     },
     {
      "cod": 6821,
@@ -26433,7 +26465,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 734
+     "saldo": 729
     },
     {
      "cod": 6855,
@@ -26441,7 +26473,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 506
+     "saldo": 505
     },
     {
      "cod": 2875,
@@ -26511,7 +26543,7 @@
      "marca": "CEPELMA",
      "preco": 28.9,
      "img": "produtos/242.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 243,
@@ -26519,7 +26551,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/243.jpg",
-     "saldo": 109
+     "saldo": 108
     },
     {
      "cod": 244,
@@ -27065,7 +27097,7 @@
      "marca": "",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
-     "saldo": 3
+     "saldo": 49
     },
     {
      "cod": 1272,
@@ -27335,7 +27367,7 @@
      "marca": "CIPAPEL",
      "preco": 51.9,
      "img": "produtos/2800.jpg",
-     "saldo": 56
+     "saldo": 55
     },
     {
      "cod": 7012,
@@ -29577,7 +29609,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 8295,
