@@ -4790,14 +4790,14 @@
      "marca": "LORIGRAF",
      "preco": 31.9,
      "img": "produtos/14315.jpg",
-     "saldo": 15,
+     "saldo": 14,
      "cores": [
       {
        "cod": 14315,
        "cor": "Azul Escuro",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS AZUL ESCURO",
        "img": "produtos/14315.jpg",
-       "saldo": 15
+       "saldo": 14
       },
       {
        "cod": 14316,
@@ -10067,7 +10067,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 11807,
@@ -10083,7 +10083,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 1313,
@@ -11194,7 +11194,7 @@
      "marca": "TILIBRA",
      "preco": 3.5,
      "img": "produtos/4320.jpg",
-     "saldo": 54
+     "saldo": 52
     },
     {
      "cod": 2283,
@@ -11633,7 +11633,7 @@
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 199
+       "saldo": 195
       },
       {
        "cod": 2035,
@@ -17252,7 +17252,7 @@
      "marca": "SANTA FE",
      "preco": 1.8,
      "img": "produtos/3064.jpg",
-     "saldo": 92
+     "saldo": 88
     },
     {
      "cod": 3065,
@@ -19348,7 +19348,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/6963.jpg",
-     "saldo": 48
+     "saldo": 45
     },
     {
      "cod": 11824,
@@ -21470,7 +21470,7 @@
        "cor": "Prata",
        "nome": "GLITER 3GR-PRATA",
        "img": "produtos/1479.jpg",
-       "saldo": 62
+       "saldo": 57
       },
       {
        "cod": 1480,
@@ -22050,7 +22050,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1626
+     "saldo": 1622
     },
     {
      "cod": 14414,
@@ -22448,7 +22448,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 568
+     "saldo": 566
     },
     {
      "cod": 4617,
@@ -23174,7 +23174,7 @@
      "marca": "PLAZAPEL",
      "preco": 8.9,
      "img": "produtos/7659.jpg",
-     "saldo": 78
+     "saldo": 74
     },
     {
      "cod": 8361,
@@ -23182,7 +23182,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1358
+     "saldo": 1354
     },
     {
      "cod": 11964,
@@ -24430,7 +24430,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 10001,
@@ -25534,7 +25534,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2715.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 2717,
@@ -25654,7 +25654,7 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 171
+     "saldo": 170
     },
     {
      "cod": 10062,
@@ -25782,7 +25782,7 @@
      "marca": "KROMASA",
      "preco": 2.9,
      "img": "produtos/2766.jpg",
-     "saldo": 690
+     "saldo": 689
     },
     {
      "cod": 2767,
@@ -26441,7 +26441,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 513
+     "saldo": 506
     },
     {
      "cod": 2875,
@@ -26449,7 +26449,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 591
+     "saldo": 590
     },
     {
      "cod": 6825,
@@ -26457,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 634
+     "saldo": 633
     },
     {
      "cod": 3964,
@@ -26623,7 +26623,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 74
+     "saldo": 70
     },
     {
      "cod": 6965,
@@ -26648,14 +26648,6 @@
      "preco": 49.9,
      "img": "produtos/6966.jpg",
      "saldo": 18
-    },
-    {
-     "cod": 255,
-     "nome": "BOBINA PICOT. 40X60 C/500-ROLLBAG (PESO 4KG)",
-     "marca": "ROLLBAG",
-     "preco": 23.9,
-     "img": "produtos/255.jpg",
-     "saldo": 4
     },
     {
      "cod": 4427,
@@ -29877,7 +29869,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/10666.jpg",
-     "saldo": 20
+     "saldo": 40
     },
     {
      "cod": 11659,
