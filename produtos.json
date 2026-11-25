@@ -9007,7 +9007,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/790.jpg",
-     "saldo": 23
+     "saldo": 17
     },
     {
      "cod": 797,
@@ -9841,7 +9841,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 730
+     "saldo": 720
     },
     {
      "cod": 4438,
@@ -10067,7 +10067,7 @@
      "marca": "ADELBRAS",
      "preco": 14.9,
      "img": "produtos/11806.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 11807,
@@ -10091,7 +10091,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 655
+     "saldo": 649
     },
     {
      "cod": 4389,
@@ -15171,7 +15171,7 @@
      "marca": "JOCAR",
      "preco": 15.9,
      "img": "produtos/2915.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 6627,
@@ -17144,7 +17144,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 220
+       "saldo": 216
       },
       {
        "cod": 1239,
@@ -17268,7 +17268,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 210
+     "saldo": 206
     },
     {
      "cod": 6999,
@@ -20402,7 +20402,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/14644.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 14649,
@@ -23238,7 +23238,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 394
+     "saldo": 384
     },
     {
      "cod": 880,
@@ -23402,7 +23402,7 @@
      "cod": 2499,
      "nome": "POTE (KIT) 200ML C/24-RIOPLASTIC",
      "marca": "RIOPLASTIC",
-     "preco": 15.9,
+     "preco": 10.9,
      "img": "produtos/2499.jpg",
      "saldo": 56
     },
@@ -23410,9 +23410,25 @@
      "cod": 11826,
      "nome": "POTE (KIT) 200ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
-     "preco": 11.9,
+     "preco": 10.9,
      "img": "produtos/11826.jpg",
      "saldo": 27
+    },
+    {
+     "cod": 15025,
+     "nome": "POTE (KIT) 200ML C/25-ULTRA",
+     "marca": "ULTRA",
+     "preco": 10.9,
+     "img": "produtos/15025.jpg",
+     "saldo": 300
+    },
+    {
+     "cod": 15026,
+     "nome": "POTE (KIT) 250ML C/25-ULTRA",
+     "marca": "ULTRA",
+     "preco": 11.9,
+     "img": "produtos/15026.jpg",
+     "saldo": 1000
     },
     {
      "cod": 14835,
@@ -23434,7 +23450,7 @@
      "cod": 4573,
      "nome": "POTE (KIT) 500ML C/25-ULTRA",
      "marca": "ULTRA",
-     "preco": 18.9,
+     "preco": 15.9,
      "img": "produtos/4573.jpg",
      "saldo": 619
     },
@@ -25654,7 +25670,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2726.jpg",
-     "saldo": 150
+     "saldo": 149
     },
     {
      "cod": 13028,
@@ -25726,7 +25742,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 3652,
@@ -25734,7 +25750,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/3652.jpg",
-     "saldo": 69
+     "saldo": 66
     },
     {
      "cod": 2733,
@@ -25790,7 +25806,7 @@
      "marca": "KROMASSA",
      "preco": 17.9,
      "img": "produtos/2738.jpg",
-     "saldo": 124
+     "saldo": 119
     },
     {
      "cod": 2766,
@@ -26386,7 +26402,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 30X40 C/50-PRETA",
        "img": "produtos/2857.jpg",
-       "saldo": 16
+       "saldo": 15
       },
       {
        "cod": 4326,
@@ -26489,7 +26505,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 168
+     "saldo": 163
     }
    ]
   },
@@ -26671,7 +26687,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/255.jpg",
-     "saldo": 11
+     "saldo": 16
     },
     {
      "cod": 4427,
@@ -26687,7 +26703,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 3836
+     "saldo": 3536
     },
     {
      "cod": 1337,
@@ -26893,7 +26909,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2292
+     "saldo": 2291
     },
     {
      "cod": 2896,
@@ -26909,7 +26925,7 @@
      "marca": "GERAPLAST",
      "preco": 96.9,
      "img": "produtos/4314.jpg",
-     "saldo": 133
+     "saldo": 131
     },
     {
      "cod": 2897,
@@ -26925,7 +26941,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 876
+     "saldo": 846
     },
     {
      "cod": 2900,
@@ -26957,7 +26973,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 66
+     "saldo": 65
     }
    ]
   },
@@ -27057,7 +27073,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 188
+     "saldo": 187
     },
     {
      "cod": 10990,
@@ -29641,7 +29657,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 9
+     "saldo": 5
     },
     {
      "cod": 3085,
@@ -29695,7 +29711,7 @@
      "marca": "INTERFORTY",
      "preco": 89.9,
      "img": "produtos/2103.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 2104,
@@ -29767,7 +29783,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 156
+     "saldo": 146
     },
     {
      "cod": 2153,
@@ -29775,7 +29791,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 179
+     "saldo": 159
     },
     {
      "cod": 6529,
@@ -29821,7 +29837,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/6750.jpg",
-     "saldo": 39
+     "saldo": 29
     },
     {
      "cod": 9337,
@@ -29861,7 +29877,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 6749,
@@ -29877,7 +29893,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/10666.jpg",
-     "saldo": 28
+     "saldo": 22
     },
     {
      "cod": 11659,
@@ -30043,7 +30059,7 @@
      "marca": "BELL PLUS",
      "preco": 49.9,
      "img": "produtos/2687.jpg",
-     "saldo": 58
+     "saldo": 52
     },
     {
      "cod": 7650,
