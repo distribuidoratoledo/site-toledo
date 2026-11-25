@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 663,
+     "saldo": 659,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 663
+       "saldo": 659
       },
       {
        "cod": 556,
@@ -2625,7 +2625,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 521
+     "saldo": 2249
     },
     {
      "cod": 5836,
@@ -2641,7 +2641,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 646
+     "saldo": 2662
     },
     {
      "cod": 14124,
@@ -2862,12 +2862,10 @@
      "img": "produtos/14560.jpg",
      "saldo": 6,
      "controle": [
-      "AMARELO",
-      "SALMÃO"
+      "AMARELO"
      ],
      "saldo_cor": {
-      "AMARELO": 4,
-      "SALMÃO": 2
+      "AMARELO": 4
      }
     },
     {
@@ -3542,13 +3540,20 @@
      "saldo": 8
     },
     {
-     "cod": 2625,
+     "cod": 2624,
      "nome": "REFIL PINCEL Q.BRC PILOT",
      "marca": "PILOT",
      "preco": 7.9,
-     "img": "produtos/2625.jpg",
-     "saldo": 116,
+     "img": "produtos/2624.jpg",
+     "saldo": 72,
      "cores": [
+      {
+       "cod": 2624,
+       "cor": "Azul",
+       "nome": "REFIL PINCEL Q.BRC PILOT-AZUL",
+       "img": "produtos/2624.jpg",
+       "saldo": 72
+      },
       {
        "cod": 2625,
        "cor": "Laranja",
@@ -3561,7 +3566,7 @@
        "cor": "Preto",
        "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
        "img": "produtos/2626.jpg",
-       "saldo": 48
+       "saldo": 120
       },
       {
        "cod": 2627,
@@ -3904,7 +3909,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "LILAS": 11,
-      "ROSA": 9,
+      "ROSA": 8,
       "VERDE-ÁGUA": 12
      }
     },
@@ -4084,7 +4089,7 @@
      "saldo_cor": {
       "LILAS": 8,
       "ROSA": 8,
-      "SALMÃO": 9,
+      "SALMÃO": 8,
       "VERDE": 9
      }
     },
@@ -4189,6 +4194,14 @@
        "saldo": 11
       }
      ]
+    },
+    {
+     "cod": 3213,
+     "nome": "BORRACHA FABER C/CP PRETA",
+     "marca": "FABER",
+     "preco": 4.5,
+     "img": "produtos/3213.jpg",
+     "saldo": 72
     },
     {
      "cod": 283,
@@ -5760,7 +5773,7 @@
      "marca": "PAULISTA",
      "preco": 29.9,
      "img": "produtos/11296.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 11304,
@@ -6658,7 +6671,7 @@
      "marca": "PAULISTA",
      "preco": 39.9,
      "img": "produtos/11291.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 11294,
@@ -6730,7 +6743,7 @@
      "marca": "PAULISTA",
      "preco": 34.9,
      "img": "produtos/11307.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 367,
@@ -9173,7 +9186,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/14287.jpg",
-     "saldo": 25
+     "saldo": 23
     },
     {
      "cod": 14110,
@@ -9515,7 +9528,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 82
+     "saldo": 81
     },
     {
      "cod": 836,
@@ -10996,7 +11009,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 3479,
@@ -11772,14 +11785,14 @@
        "cor": "Verde Claro",
        "nome": "COLORSETE A4 C/50 VERDE CLARO",
        "img": "produtos/2064.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 2065,
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 5162,
@@ -12113,7 +12126,7 @@
      "marca": "MINASPEL",
      "preco": 29.9,
      "img": "produtos/6844.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 8404,
@@ -12129,7 +12142,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 694
+     "saldo": 688
     },
     {
      "cod": 5082,
@@ -12161,7 +12174,7 @@
      "marca": "CHAMEX",
      "preco": 49.9,
      "img": "produtos/2016.jpg",
-     "saldo": 3
+     "saldo": 8
     },
     {
      "cod": 2014,
@@ -12169,7 +12182,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1067
+     "saldo": 1062
     },
     {
      "cod": 9052,
@@ -12256,6 +12269,14 @@
      "preco": 19.9,
      "img": "produtos/6495.jpg",
      "saldo": 39
+    },
+    {
+     "cod": 2096,
+     "nome": "PAPEL FOTO A4-(ADESIVO) 130GR C/50-MASTERPRINT",
+     "marca": "MASTERPRIN",
+     "preco": 39.9,
+     "img": "produtos/2096.jpg",
+     "saldo": 30
     },
     {
      "cod": 11784,
@@ -12402,12 +12423,20 @@
      "saldo": 503
     },
     {
+     "cod": 2136,
+     "nome": "SEDA AZUL ESCURO",
+     "marca": "RIACHO",
+     "preco": 0.4,
+     "img": "produtos/2136.jpg",
+     "saldo": 100
+    },
+    {
      "cod": 7098,
      "nome": "SEDA AZUL ROYAL",
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/7098.jpg",
-     "saldo": 460
+     "saldo": 960
     },
     {
      "cod": 2137,
@@ -12415,7 +12444,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 162
+     "saldo": 1362
     },
     {
      "cod": 2139,
@@ -12447,7 +12476,7 @@
      "marca": "VMP",
      "preco": 0.8,
      "img": "produtos/2142.jpg",
-     "saldo": 234
+     "saldo": 224
     },
     {
      "cod": 2143,
@@ -12495,7 +12524,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2148.jpg",
-     "saldo": 64
+     "saldo": 564
     },
     {
      "cod": 2149,
@@ -12511,7 +12540,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2150.jpg",
-     "saldo": 856
+     "saldo": 1356
     },
     {
      "cod": 2159,
@@ -13459,14 +13488,14 @@
      "marca": "PILOT",
      "preco": 15.9,
      "img": "produtos/2977.jpg",
-     "saldo": 46,
+     "saldo": 45,
      "cores": [
       {
        "cod": 2977,
        "cor": "Azul",
        "nome": "TINTA CARIMBO 42ML PILOT-AZUL",
        "img": "produtos/2977.jpg",
-       "saldo": 46
+       "saldo": 45
       },
       {
        "cod": 2978,
@@ -18806,7 +18835,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7260
+     "saldo": 7220
     },
     {
      "cod": 1054,
@@ -19993,6 +20022,14 @@
      "preco": 17.9,
      "img": "produtos/1469.jpg",
      "saldo": 20
+    },
+    {
+     "cod": 6794,
+     "nome": "GIZ PASTEL OLEOSO C/12 CORES PENTEL",
+     "marca": "PENTEL",
+     "preco": 15.9,
+     "img": "produtos/6794.jpg",
+     "saldo": 36
     },
     {
      "cod": 1473,
@@ -24088,7 +24125,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1205
+     "saldo": 1202
     },
     {
      "cod": 2552,
@@ -24254,7 +24291,7 @@
      "marca": "FIDELI PAR",
      "preco": 21.9,
      "img": "produtos/7019.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 7020,
@@ -25622,7 +25659,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2724.jpg",
-     "saldo": 52
+     "saldo": 50
     },
     {
      "cod": 2725,
@@ -26711,7 +26748,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 1940
+     "saldo": 1938
     },
     {
      "cod": 5547,
@@ -27255,7 +27292,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 394
+     "saldo": 391
     },
     {
      "cod": 2762,
@@ -27455,7 +27492,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/6102.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 6103,
@@ -27463,7 +27500,7 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/6103.jpg",
-     "saldo": 98
+     "saldo": 97
     },
     {
      "cod": 7057,
@@ -27925,7 +27962,7 @@
        "cor": "Ouro / Dourado",
        "nome": "FITILHO 50MT OURO/DOURADO",
        "img": "produtos/4778.jpg",
-       "saldo": 11
+       "saldo": 9
       },
       {
        "cod": 4779,
