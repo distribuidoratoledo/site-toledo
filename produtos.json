@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 1162,
+     "saldo": 1152,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 1162
+       "saldo": 1152
       },
       {
        "cod": 553,
@@ -212,7 +212,7 @@
        "cor": "Vermelha",
        "nome": "CANETA CIS 0.7-VERMELHA",
        "img": "produtos/10831.jpg",
-       "saldo": 238
+       "saldo": 234
       }
      ]
     },
@@ -446,7 +446,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 94
+       "saldo": 92
       },
       {
        "cod": 563,
@@ -5027,7 +5027,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12468.jpg",
-     "saldo": 130
+     "saldo": 124
     },
     {
      "cod": 7784,
@@ -5568,7 +5568,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10933.jpg",
-     "saldo": 161
+     "saldo": 155
     },
     {
      "cod": 5622,
@@ -9563,7 +9563,7 @@
      "marca": "ALMASUPER",
      "preco": 9.9,
      "img": "produtos/7159.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 844,
@@ -12287,7 +12287,7 @@
      "marca": "MASTERPRIN",
      "preco": 29.9,
      "img": "produtos/2100.jpg",
-     "saldo": 209
+     "saldo": 208
     },
     {
      "cod": 4344,
@@ -12519,7 +12519,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/7182.jpg",
-     "saldo": 36
+     "saldo": 26
     },
     {
      "cod": 13876,
@@ -14104,7 +14104,7 @@
      "marca": "GRESPAN",
      "preco": 74.9,
      "img": "produtos/7434.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 7435,
@@ -16970,7 +16970,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 151
+       "saldo": 150
       },
       {
        "cod": 9160,
@@ -16998,7 +16998,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 213
+       "saldo": 208
       },
       {
        "cod": 1221,
@@ -17019,7 +17019,7 @@
        "cor": "Rosa Pink",
        "nome": "EVA GLITER-ROSA PINK",
        "img": "produtos/1223.jpg",
-       "saldo": 105
+       "saldo": 100
       },
       {
        "cod": 5366,
@@ -17051,7 +17051,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/1225.jpg",
-     "saldo": 96
+     "saldo": 95
     },
     {
      "cod": 1228,
@@ -17059,21 +17059,21 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 237,
+     "saldo": 235,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 237
+       "saldo": 235
       },
       {
        "cod": 1230,
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 229
+       "saldo": 227
       },
       {
        "cod": 1231,
@@ -17101,7 +17101,7 @@
        "cor": "Bege",
        "nome": "EVA LISO-BEGE",
        "img": "produtos/1232.jpg",
-       "saldo": 125
+       "saldo": 114
       },
       {
        "cod": 1233,
@@ -17122,7 +17122,7 @@
        "cor": "Lilas",
        "nome": "EVA LISO-LILAS",
        "img": "produtos/1236.jpg",
-       "saldo": 222
+       "saldo": 221
       },
       {
        "cod": 1237,
@@ -17164,7 +17164,7 @@
        "cor": "Verde Claro",
        "nome": "EVA LISO-VERDE CLARO",
        "img": "produtos/4008.jpg",
-       "saldo": 192
+       "saldo": 185
       },
       {
        "cod": 7675,
@@ -22002,7 +22002,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 815
+     "saldo": 810
     },
     {
      "cod": 938,
@@ -22082,7 +22082,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 680
+     "saldo": 679
     },
     {
      "cod": 14407,
@@ -22138,7 +22138,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 181
+     "saldo": 178
     },
     {
      "cod": 14405,
@@ -22298,7 +22298,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 514
+     "saldo": 509
     },
     {
      "cod": 2923,
@@ -25252,7 +25252,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 14678,
@@ -25774,7 +25774,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/14426.jpg",
-     "saldo": 117
+     "saldo": 116
     },
     {
      "cod": 2738,
@@ -26433,7 +26433,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2323
+     "saldo": 2322
     },
     {
      "cod": 6821,
@@ -26441,7 +26441,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 739
+     "saldo": 735
     },
     {
      "cod": 6855,
@@ -26457,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 593
+     "saldo": 592
     },
     {
      "cod": 6825,
@@ -26885,7 +26885,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2291
+     "saldo": 2281
     },
     {
      "cod": 2896,
