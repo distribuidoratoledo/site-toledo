@@ -763,14 +763,14 @@
      "marca": "MOLIN",
      "preco": 6.9,
      "img": "produtos/14465.jpg",
-     "saldo": 23,
+     "saldo": 21,
      "cores": [
       {
        "cod": 14465,
        "cor": "Azul",
        "nome": "CANETA GEL MOLIN-AZUL",
        "img": "produtos/14465.jpg",
-       "saldo": 23
+       "saldo": 21
       },
       {
        "cod": 14466,
@@ -2491,7 +2491,7 @@
        "cor": "Preto",
        "nome": "LAPIS ESCREVER FABER GRIP-PRETO",
        "img": "produtos/8415.jpg",
-       "saldo": 31
+       "saldo": 29
       }
      ]
     },
@@ -4482,7 +4482,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14589.jpg",
-     "saldo": 70,
+     "saldo": 69,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -4490,7 +4490,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 24,
-      "AZUL": 23,
+      "AZUL": 22,
       "VERMELHO": 23
      }
     },
@@ -20143,7 +20143,7 @@
       "PRETO": 4,
       "ROXO": 4,
       "VERDE": 4,
-      "VERMELHO": 4
+      "VERMELHO": 3
      }
     },
     {
@@ -22074,7 +22074,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 982
+     "saldo": 981
     },
     {
      "cod": 949,
@@ -23420,7 +23420,7 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/15026.jpg",
-     "saldo": 997
+     "saldo": 995
     },
     {
      "cod": 14835,
@@ -25470,7 +25470,7 @@
      "marca": "GERAPLAST",
      "preco": 89.9,
      "img": "produtos/665.jpg",
-     "saldo": 162
+     "saldo": 161
     },
     {
      "cod": 2704,
@@ -25518,7 +25518,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/3651.jpg",
-     "saldo": 278
+     "saldo": 277
     },
     {
      "cod": 2710,
@@ -25566,7 +25566,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2715.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 2717,
@@ -25670,7 +25670,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2726.jpg",
-     "saldo": 149
+     "saldo": 148
     },
     {
      "cod": 13028,
@@ -25718,7 +25718,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 8160,
@@ -26204,7 +26204,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 381
+     "saldo": 380
     },
     {
      "cod": 2839,
@@ -26567,7 +26567,7 @@
      "marca": "HIPERROLL",
      "preco": 31.9,
      "img": "produtos/13858.jpg",
-     "saldo": 156
+     "saldo": 155
     },
     {
      "cod": 13857,
@@ -27519,7 +27519,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/6860.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 2829,
@@ -29791,7 +29791,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 2153,
@@ -31881,7 +31881,7 @@
      "marca": "TRIS",
      "preco": 8.9,
      "img": "produtos/14562.jpg",
-     "saldo": 43,
+     "saldo": 42,
      "controle": [
       "AM/AZUL",
       "LA/ROXO",
@@ -31890,7 +31890,7 @@
      ],
      "saldo_cor": {
       "AM/AZUL": 10,
-      "LA/ROXO": 10,
+      "LA/ROXO": 9,
       "RS/CIANO": 12,
       "VD/ROSA": 11
      }
