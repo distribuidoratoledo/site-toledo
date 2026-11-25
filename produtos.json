@@ -2745,7 +2745,7 @@
      "marca": "MOLIN",
      "preco": 3.9,
      "img": "produtos/14540.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 12282,
@@ -4196,7 +4196,7 @@
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg",
-     "saldo": 61
+     "saldo": 60
     },
     {
      "cod": 12771,
@@ -5027,7 +5027,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12468.jpg",
-     "saldo": 124
+     "saldo": 121
     },
     {
      "cod": 7784,
@@ -9515,7 +9515,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/834.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 835,
@@ -12177,7 +12177,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1125
+     "saldo": 1121
     },
     {
      "cod": 9052,
@@ -12185,7 +12185,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 913
+     "saldo": 912
     },
     {
      "cod": 2007,
@@ -18790,7 +18790,7 @@
      "marca": "SCRITY",
      "preco": 0.25,
      "img": "produtos/1038.jpg",
-     "saldo": 12352
+     "saldo": 12102
     },
     {
      "cod": 1040,
@@ -22034,7 +22034,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5865
+     "saldo": 5863
     },
     {
      "cod": 944,
@@ -22553,14 +22553,6 @@
      "preco": 1.6,
      "img": "produtos/9909.jpg",
      "saldo": 33
-    },
-    {
-     "cod": 9929,
-     "nome": "BOLA ISOPOR 250MM (OCA)",
-     "marca": "ISOMAX",
-     "preco": 28.9,
-     "img": "produtos/9929.jpg",
-     "saldo": 3
     },
     {
      "cod": 9910,
@@ -23364,7 +23356,7 @@
      "marca": "RIOPLASTIC",
      "preco": 37.9,
      "img": "produtos/14028.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 9822,
@@ -23404,7 +23396,7 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/15026.jpg",
-     "saldo": 998
+     "saldo": 997
     },
     {
      "cod": 14835,
@@ -26124,7 +26116,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/2823.jpg",
-     "saldo": 235
+     "saldo": 234
     },
     {
      "cod": 2824,
@@ -27077,8 +27069,8 @@
     },
     {
      "cod": 1270,
-     "nome": "FILME PVC 28X100M LUSAFILM",
-     "marca": "DISPAFILM",
+     "nome": "FILME PVC 28X100M",
+     "marca": "",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
      "saldo": 3
@@ -29885,7 +29877,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/10666.jpg",
-     "saldo": 22
+     "saldo": 20
     },
     {
      "cod": 11659,
