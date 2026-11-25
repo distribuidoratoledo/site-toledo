@@ -866,16 +866,16 @@
      "marca": "TRIS",
      "preco": 21.9,
      "img": "produtos/14545.jpg",
-     "saldo": 25,
+     "saldo": 19,
      "controle": [
       "BRANCO",
       "LILAS",
       "ROSA"
      ],
      "saldo_cor": {
-      "BRANCO": 9,
-      "LILAS": 7,
-      "ROSA": 9
+      "BRANCO": 7,
+      "LILAS": 5,
+      "ROSA": 7
      }
     },
     {
@@ -4947,7 +4947,7 @@
      "marca": "PANAMERICA",
      "preco": 2.5,
      "img": "produtos/6064.jpg",
-     "saldo": 78
+     "saldo": 42
     },
     {
      "cod": 319,
@@ -9747,7 +9747,7 @@
      "marca": "NEW MAGIC",
      "preco": 2.9,
      "img": "produtos/822.jpg",
-     "saldo": 289
+     "saldo": 288
     },
     {
      "cod": 11926,
@@ -10043,7 +10043,7 @@
      "marca": "ADELBRAS",
      "preco": 13.9,
      "img": "produtos/1020.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 6521,
@@ -11486,7 +11486,7 @@
      "marca": "CIS",
      "preco": 0.8,
      "img": "produtos/673.jpg",
-     "saldo": 498
+     "saldo": 398
     },
     {
      "cod": 674,
@@ -11626,14 +11626,14 @@
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 103
+       "saldo": 102
       },
       {
        "cod": 2034,
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 195
+       "saldo": 191
       },
       {
        "cod": 2035,
@@ -11853,7 +11853,7 @@
        "cor": "Preto",
        "nome": "COLORSETE-PRETO",
        "img": "produtos/2044.jpg",
-       "saldo": 51
+       "saldo": 48
       },
       {
        "cod": 2045,
@@ -12105,7 +12105,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/6114.jpg",
-     "saldo": 531
+     "saldo": 526
     },
     {
      "cod": 3580,
@@ -12161,7 +12161,7 @@
      "marca": "CHAMEX",
      "preco": 35.9,
      "img": "produtos/2015.jpg",
-     "saldo": 3
+     "saldo": 102
     },
     {
      "cod": 2016,
@@ -12263,7 +12263,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 11784,
@@ -12271,7 +12271,7 @@
      "marca": "MASTERPRIN",
      "preco": 23.9,
      "img": "produtos/11784.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 2099,
@@ -14163,6 +14163,14 @@
      "saldo": 3
     },
     {
+     "cod": 13708,
+     "nome": "ETIQUETADORA MX5500-LETRON",
+     "marca": "LETRON",
+     "preco": 59.9,
+     "img": "produtos/13708.jpg",
+     "saldo": 7
+    },
+    {
      "cod": 13371,
      "nome": "SELO CONVITE AMARELO 12MM C/210",
      "marca": "PIMACO",
@@ -14542,7 +14550,7 @@
      "marca": "MAXCRIL",
      "preco": 1.6,
      "img": "produtos/9254.jpg",
-     "saldo": 53
+     "saldo": 40
     },
     {
      "cod": 1117,
@@ -16998,7 +17006,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 208
+       "saldo": 207
       },
       {
        "cod": 1221,
@@ -17033,7 +17041,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 141
+       "saldo": 140
       }
      ]
     },
@@ -17150,7 +17158,7 @@
        "cor": "Rosa Escuro / Pink",
        "nome": "EVA LISO-ROSA ESCURO/PINK",
        "img": "produtos/1240.jpg",
-       "saldo": 200
+       "saldo": 198
       },
       {
        "cod": 4648,
@@ -17171,7 +17179,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 319
+       "saldo": 318
       },
       {
        "cod": 1244,
@@ -20128,7 +20136,7 @@
      "marca": "ACRILEX",
      "preco": 13.9,
      "img": "produtos/14433.jpg",
-     "saldo": 20,
+     "saldo": 19,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -22616,7 +22624,7 @@
      "marca": "ISOMAX",
      "preco": 1.5,
      "img": "produtos/9918.jpg",
-     "saldo": 31
+     "saldo": 29
     },
     {
      "cod": 9919,
@@ -22624,7 +22632,7 @@
      "marca": "ISOMAX",
      "preco": 2.2,
      "img": "produtos/9919.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 9920,
@@ -22960,7 +22968,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 168
+     "saldo": 165
     },
     {
      "cod": 3731,
@@ -23754,7 +23762,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 790
+     "saldo": 780
     },
     {
      "cod": 1415,
@@ -26465,7 +26473,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 729
+     "saldo": 719
     },
     {
      "cod": 6855,
@@ -26987,7 +26995,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 2052
+     "saldo": 2050
     },
     {
      "cod": 6646,
@@ -28854,20 +28862,20 @@
      "saldo": 127
     },
     {
-     "cod": 1197,
-     "nome": "ETIQUETA ETIQUET.OPEN C8 C/10 PRIMUS",
-     "marca": "PRIMUS",
-     "preco": 19.9,
-     "img": "produtos/1197.jpg",
-     "saldo": 4
-    },
-    {
      "cod": 1195,
      "nome": "ETIQUETA ETIQUETAD.MX5500 C/10",
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 23
+     "saldo": 21
+    },
+    {
+     "cod": 1197,
+     "nome": "ETIQUETA ETIQUETAD.OPEN C8 C/10 PRIMUS",
+     "marca": "PRIMUS",
+     "preco": 19.9,
+     "img": "produtos/1197.jpg",
+     "saldo": 4
     },
     {
      "cod": 1198,
@@ -29665,7 +29673,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 14
+     "saldo": 0
     },
     {
      "cod": 3085,
@@ -29746,12 +29754,20 @@
      "saldo": 2
     },
     {
+     "cod": 2105,
+     "nome": "PAPEL HIG.4X30MT-CARINHO PLUS",
+     "marca": "CARINHO",
+     "preco": 4.8,
+     "img": "produtos/2105.jpg",
+     "saldo": 80
+    },
+    {
      "cod": 2107,
      "nome": "PAPEL HIG.4X30MT-PREMIUM (ECO)",
      "marca": "PREMIUM",
      "preco": 12.9,
      "img": "produtos/2107.jpg",
-     "saldo": 7
+     "saldo": 87
     },
     {
      "cod": 13944,
@@ -29807,7 +29823,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1260
+     "saldo": 1259
     },
     {
      "cod": 2157,
