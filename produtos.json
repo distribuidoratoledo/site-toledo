@@ -1626,14 +1626,14 @@
      "marca": "TILIBRA",
      "preco": 10.9,
      "img": "produtos/632.jpg",
-     "saldo": 12,
+     "saldo": 10,
      "cores": [
       {
        "cod": 632,
        "cor": "Azul",
        "nome": "CANETA TILIBRA 0.6 DEFINIT-AZUL",
        "img": "produtos/632.jpg",
-       "saldo": 12
+       "saldo": 10
       },
       {
        "cod": 633,
@@ -4964,14 +4964,6 @@
      "preco": 13.9,
      "img": "produtos/13535.jpg",
      "saldo": 16
-    },
-    {
-     "cod": 13536,
-     "nome": "CADERNETA ESP. MEDIA CD 80F NICECREAM-FORONI",
-     "marca": "FORONI",
-     "preco": 14.9,
-     "img": "produtos/13536.jpg",
-     "saldo": 3
     },
     {
      "cod": 13531,
@@ -17014,7 +17006,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 207
+       "saldo": 203
       },
       {
        "cod": 1221,
@@ -17089,7 +17081,7 @@
        "cor": "Azul Claro / Bebe",
        "nome": "EVA LISO-AZUL CLARO/BEBE",
        "img": "produtos/1230.jpg",
-       "saldo": 227
+       "saldo": 221
       },
       {
        "cod": 1231,
@@ -17145,14 +17137,14 @@
        "cor": "Marrom",
        "nome": "EVA LISO-MARROM",
        "img": "produtos/1237.jpg",
-       "saldo": 167
+       "saldo": 166
       },
       {
        "cod": 1238,
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 216
+       "saldo": 209
       },
       {
        "cod": 1239,
@@ -22042,7 +22034,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5858
+     "saldo": 5833
     },
     {
      "cod": 944,
@@ -22058,7 +22050,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1622
+     "saldo": 1621
     },
     {
      "cod": 14414,
@@ -23930,7 +23922,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 33
+     "saldo": 32
     },
     {
      "cod": 7045,
@@ -24618,7 +24610,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/30.jpg",
-     "saldo": 21
+     "saldo": 19
     },
     {
      "cod": 31,
@@ -25710,7 +25702,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2729.jpg",
-     "saldo": 196
+     "saldo": 195
     },
     {
      "cod": 2730,
@@ -25790,7 +25782,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 28
+     "saldo": 133
     },
     {
      "cod": 2737,
@@ -26164,7 +26156,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 622
+     "saldo": 612
     },
     {
      "cod": 10972,
@@ -26212,7 +26204,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 379
+     "saldo": 374
     },
     {
      "cod": 2839,
@@ -26465,7 +26457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2317
+     "saldo": 2312
     },
     {
      "cod": 6821,
@@ -26481,7 +26473,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 505
+     "saldo": 475
     },
     {
      "cod": 2875,
@@ -26489,7 +26481,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 588
+     "saldo": 558
     },
     {
      "cod": 6825,
@@ -26497,7 +26489,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 633
+     "saldo": 618
     },
     {
      "cod": 3964,
@@ -26513,7 +26505,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/2877.jpg",
-     "saldo": 163
+     "saldo": 153
     }
    ]
   },
@@ -26639,7 +26631,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 94
+     "saldo": 90
     },
     {
      "cod": 13853,
@@ -26655,7 +26647,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 31
+     "saldo": 17
     },
     {
      "cod": 13855,
@@ -26711,7 +26703,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 3336
+     "saldo": 3036
     },
     {
      "cod": 1337,
@@ -27051,7 +27043,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 943
+     "saldo": 913
     },
     {
      "cod": 235,
@@ -27113,7 +27105,7 @@
      "marca": "",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
-     "saldo": 49
+     "saldo": 48
     },
     {
      "cod": 1272,
