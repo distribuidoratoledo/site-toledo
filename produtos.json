@@ -2056,7 +2056,7 @@
      "marca": "TRIS",
      "preco": 10.9,
      "img": "produtos/12626.jpg",
-     "saldo": 145
+     "saldo": 144
     },
     {
      "cod": 14582,
@@ -2266,7 +2266,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 874
+     "saldo": 871
     },
     {
      "cod": 1670,
@@ -4228,7 +4228,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1963
+     "saldo": 1961
     },
     {
      "cod": 4341,
@@ -6394,7 +6394,7 @@
      "marca": "CREDEAL",
      "preco": 21.9,
      "img": "produtos/8395.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 12963,
@@ -7084,7 +7084,7 @@
      "marca": "S. DOMINGO",
      "preco": 31.9,
      "img": "produtos/8103.jpg",
-     "saldo": 16
+     "saldo": 14
     },
     {
      "cod": 8245,
@@ -7092,7 +7092,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 33
+     "saldo": 30
     },
     {
      "cod": 6295,
@@ -7340,7 +7340,7 @@
      "marca": "SD",
      "preco": 29.9,
      "img": "produtos/8235.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 5726,
@@ -7396,7 +7396,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/6336.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 12440,
@@ -8104,7 +8104,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/14776.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 14777,
@@ -9739,7 +9739,7 @@
      "marca": "MERCUR",
      "preco": 5.9,
      "img": "produtos/14523.jpg",
-     "saldo": 236
+     "saldo": 235
     },
     {
      "cod": 822,
@@ -9779,7 +9779,7 @@
      "marca": "LOCTITE",
      "preco": 12.9,
      "img": "produtos/4049.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 4048,
@@ -10059,7 +10059,7 @@
      "marca": "FOXLUX",
      "preco": 2.9,
      "img": "produtos/11717.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 11806,
@@ -10561,7 +10561,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/6972.jpg",
-     "saldo": 188
+     "saldo": 187
     },
     {
      "cod": 14594,
@@ -12177,7 +12177,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1120
+     "saldo": 1119
     },
     {
      "cod": 9052,
@@ -15983,14 +15983,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 212,
+     "saldo": 210,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 212
+       "saldo": 210
       },
       {
        "cod": 6797,
@@ -16279,7 +16279,7 @@
      "marca": "PLASCONY",
      "preco": 21.9,
      "img": "produtos/14203.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 5181,
@@ -16679,7 +16679,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 84
+     "saldo": 79
     },
     {
      "cod": 13124,
@@ -17196,7 +17196,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3057.jpg",
-     "saldo": 381
+     "saldo": 379
     },
     {
      "cod": 3058,
@@ -18157,14 +18157,6 @@
      "saldo": 1
     },
     {
-     "cod": 13655,
-     "nome": "ESTOJO LUXCEL 3F-UP4YOU BE CAPY VERDE (ET49655UP-VD)",
-     "marca": "LUXCEL",
-     "preco": 61.9,
-     "img": "produtos/13655.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13245,
      "nome": "ESTOJO LUXCEL BOX-AZUL STITCH (EI42414SC-AZ)",
      "marca": "LUXCEL",
@@ -19093,6 +19085,14 @@
      "preco": 16.9,
      "img": "produtos/7400.jpg",
      "saldo": 17
+    },
+    {
+     "cod": 14859,
+     "nome": "POLASEAL (UNIDADE)",
+     "marca": "",
+     "preco": 5.0,
+     "img": "produtos/14859.jpg",
+     "saldo": 1
     },
     {
      "cod": 13982,
@@ -21018,7 +21018,7 @@
      "marca": "ACP",
      "preco": 9.9,
      "img": "produtos/2431.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 2579,
@@ -23072,7 +23072,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 233
+     "saldo": 232
     },
     {
      "cod": 4146,
@@ -23097,14 +23097,6 @@
      "preco": 21.0,
      "img": "produtos/3887.jpg",
      "saldo": 152
-    },
-    {
-     "cod": 2489,
-     "nome": "PT104 COPOBRAS C/100 (FUNDO)",
-     "marca": "COPOBRAS",
-     "preco": 31.9,
-     "img": "produtos/2489.jpg",
-     "saldo": 1
     },
     {
      "cod": 14323,
@@ -25072,7 +25064,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/1995.jpg",
-     "saldo": 108
+     "saldo": 107
     },
     {
      "cod": 1999,
@@ -26172,7 +26164,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1027
+     "saldo": 1807
     },
     {
      "cod": 2826,
@@ -30472,14 +30464,6 @@
      "saldo": 24
     },
     {
-     "cod": 3542,
-     "nome": "PULVERIZADOR 300ML BOLA LEITOSO",
-     "marca": "GIFO",
-     "preco": 8.9,
-     "img": "produtos/3542.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 3543,
      "nome": "PULVERIZADOR 500ML BOLA",
      "marca": "TIBA",
@@ -30619,7 +30603,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/14630.jpg",
-     "saldo": 42,
+     "saldo": 41,
      "controle": [
       "AMARELO",
       "ROSA",
@@ -30627,7 +30611,7 @@
      ],
      "saldo_cor": {
       "AMARELO": 14,
-      "ROSA": 13,
+      "ROSA": 12,
       "VERDE-ÁGUA": 15
      }
     },
