@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1939
+       "saldo": 1937
       },
       {
        "cod": 554,
@@ -2625,7 +2625,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/4122.jpg",
-     "saldo": 2247
+     "saldo": 2244
     },
     {
      "cod": 5836,
@@ -3088,7 +3088,7 @@
      "marca": "LEO E LEO",
      "preco": 6.9,
      "img": "produtos/7526.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 6467,
@@ -3899,7 +3899,7 @@
      "marca": "TRIS",
      "preco": 6.9,
      "img": "produtos/14549.jpg",
-     "saldo": 43,
+     "saldo": 42,
      "controle": [
       "AZUL",
       "LILAS",
@@ -3909,7 +3909,7 @@
      "saldo_cor": {
       "AZUL": 12,
       "LILAS": 11,
-      "ROSA": 8,
+      "ROSA": 7,
       "VERDE-ÁGUA": 12
      }
     },
@@ -5248,7 +5248,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/10903.jpg",
-     "saldo": 101
+     "saldo": 100
     },
     {
      "cod": 8255,
@@ -8221,7 +8221,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/11448.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 8813,
@@ -8631,7 +8631,7 @@
      "marca": "PAUTA BRC",
      "preco": 10.9,
      "img": "produtos/12381.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 3249,
@@ -9838,7 +9838,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1875
+     "saldo": 1874
     },
     {
      "cod": 1031,
@@ -10080,7 +10080,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 622
+     "saldo": 620
     },
     {
      "cod": 4389,
@@ -12166,7 +12166,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1037
+     "saldo": 1033
     },
     {
      "cod": 9052,
@@ -16276,7 +16276,7 @@
      "marca": "POLIBRAS",
      "preco": 4.9,
      "img": "produtos/7166.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 14203,
@@ -20695,7 +20695,7 @@
      "marca": "PAIS E F",
      "preco": 22.9,
      "img": "produtos/8054.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 14363,
@@ -21435,7 +21435,7 @@
      "marca": "VMP",
      "preco": 3.9,
      "img": "produtos/7.jpg",
-     "saldo": 290
+     "saldo": 289
     },
     {
      "cod": 13698,
@@ -22079,7 +22079,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1453
+     "saldo": 1450
     },
     {
      "cod": 14414,
@@ -22997,7 +22997,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 250
+     "saldo": 248
     },
     {
      "cod": 1569,
@@ -23101,7 +23101,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 213
+     "saldo": 212
     },
     {
      "cod": 4146,
@@ -23117,7 +23117,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 208
+     "saldo": 207
     },
     {
      "cod": 3887,
@@ -23149,7 +23149,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 108
+     "saldo": 105
     },
     {
      "cod": 4129,
@@ -23157,7 +23157,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 98
+     "saldo": 95
     },
     {
      "cod": 5005,
@@ -23339,7 +23339,7 @@
      "marca": "PRAFESTA",
      "preco": 31.9,
      "img": "produtos/14191.jpg",
-     "saldo": 33
+     "saldo": 32
     }
    ]
   },
@@ -24031,7 +24031,7 @@
      "marca": "ECOPLAST",
      "preco": 59.9,
      "img": "produtos/1375.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 1376,
@@ -24463,7 +24463,7 @@
     },
     {
      "cod": 6987,
-     "nome": "CAIXA SALGADO 40CM C/25",
+     "nome": "CX SALGADO 40CM C/25",
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
@@ -24537,7 +24537,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 425
+     "saldo": 424
     },
     {
      "cod": 3951,
@@ -26296,7 +26296,7 @@
        "cor": "Vermelha",
        "nome": "SACOLA PH 20X30 C/50-VERMELHA",
        "img": "produtos/2847.jpg",
-       "saldo": 7
+       "saldo": 6
       }
      ]
     },
@@ -28690,7 +28690,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 254
+     "saldo": 253
     },
     {
      "cod": 2779,
@@ -29638,7 +29638,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/12279.jpg",
-     "saldo": 35
+     "saldo": 34
     },
     {
      "cod": 10988,
@@ -29820,7 +29820,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1238
+     "saldo": 1234
     },
     {
      "cod": 2157,
@@ -31340,7 +31340,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14552.jpg",
-     "saldo": 14,
+     "saldo": 13,
      "controle": [
       "AZUL",
       "LILAS",
@@ -31349,7 +31349,7 @@
      ],
      "saldo_cor": {
       "AZUL": 3,
-      "LILAS": 4,
+      "LILAS": 3,
       "ROSA": 4,
       "VERMELHO": 3
      }
