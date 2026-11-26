@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 659,
+     "saldo": 656,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 659
+       "saldo": 656
       },
       {
        "cod": 556,
@@ -3297,7 +3297,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 119
+       "saldo": 118
       },
       {
        "cod": 7532,
@@ -3657,7 +3657,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 237
+       "saldo": 236
       },
       {
        "cod": 2658,
@@ -7065,7 +7065,7 @@
        "cor": "Preto",
        "nome": "CADERNO CD 80F TILIBRA (PRETO)",
        "img": "produtos/10470.jpg",
-       "saldo": 199
+       "saldo": 197
       },
       {
        "cod": 9988,
@@ -7105,7 +7105,7 @@
      "marca": "TILIBRA",
      "preco": 33.9,
      "img": "produtos/6295.jpg",
-     "saldo": 23
+     "saldo": 21
     },
     {
      "cod": 12441,
@@ -7473,7 +7473,7 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/5662.jpg",
-     "saldo": 25
+     "saldo": 21
     },
     {
      "cod": 11242,
@@ -7481,14 +7481,6 @@
      "marca": "FORONI",
      "preco": 39.9,
      "img": "produtos/11242.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 12407,
-     "nome": "CADERNO CD 80F-SUPER CARS",
-     "marca": "CREDEAL",
-     "preco": 12.9,
-     "img": "produtos/12407.jpg",
      "saldo": 1
     },
     {
@@ -7521,7 +7513,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/13170.jpg",
-     "saldo": 23
+     "saldo": 20
     },
     {
      "cod": 14751,
@@ -7661,14 +7653,14 @@
        "cor": "Rosa",
        "nome": "CADERNO CD 96F TILIBRA (ROSA)",
        "img": "produtos/14761.jpg",
-       "saldo": 100
+       "saldo": 98
       },
       {
        "cod": 14762,
        "cor": "Roxo",
        "nome": "CADERNO CD 96F TILIBRA (ROXO)",
        "img": "produtos/14762.jpg",
-       "saldo": 99
+       "saldo": 97
       }
      ]
     },
@@ -9237,14 +9229,6 @@
      "saldo": 14
     },
     {
-     "cod": 494,
-     "nome": "CALCULADORA HR100 ELETRONICA",
-     "marca": "CASIO",
-     "preco": 499.9,
-     "img": "produtos/494.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 495,
      "nome": "CALCULADORA HR150 ELETRONICA",
      "marca": "CASIO",
@@ -9854,7 +9838,7 @@
      "marca": "KORETECH",
      "preco": 0.9,
      "img": "produtos/4438.jpg",
-     "saldo": 1885
+     "saldo": 1875
     },
     {
      "cod": 1031,
@@ -9862,7 +9846,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3889
+     "saldo": 3885
     },
     {
      "cod": 14619,
@@ -9962,7 +9946,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 493
+     "saldo": 487
     },
     {
      "cod": 1293,
@@ -9970,7 +9954,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 331
+     "saldo": 326
     },
     {
      "cod": 1294,
@@ -10096,7 +10080,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 638
+     "saldo": 633
     },
     {
      "cod": 4389,
@@ -11001,7 +10985,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 6612,
@@ -11551,7 +11535,7 @@
        "cor": "Branco",
        "nome": "CARTAO-BRANCO",
        "img": "produtos/3308.jpg",
-       "saldo": 31
+       "saldo": 30
       },
       {
        "cod": 744,
@@ -12142,7 +12126,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 688
+     "saldo": 687
     },
     {
      "cod": 5082,
@@ -12190,7 +12174,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 900
+     "saldo": 897
     },
     {
      "cod": 2007,
@@ -12316,7 +12300,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 1443
+     "saldo": 1433
     },
     {
      "cod": 14085,
@@ -16593,7 +16577,7 @@
      "marca": "",
      "preco": 44.9,
      "img": "produtos/2744.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 9784,
@@ -18843,7 +18827,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1054.jpg",
-     "saldo": 5306
+     "saldo": 5286
     },
     {
      "cod": 1056,
@@ -22079,7 +22063,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 28
+     "saldo": 23
     },
     {
      "cod": 14406,
@@ -22087,7 +22071,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5833
+     "saldo": 5826
     },
     {
      "cod": 944,
@@ -22103,7 +22087,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1569
+     "saldo": 1532
     },
     {
      "cod": 14414,
@@ -22127,7 +22111,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 961
+     "saldo": 960
     },
     {
      "cod": 949,
@@ -22183,7 +22167,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 845
+     "saldo": 835
     },
     {
      "cod": 3342,
@@ -22263,7 +22247,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 500
+     "saldo": 493
     },
     {
      "cod": 958,
@@ -22271,7 +22255,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/958.jpg",
-     "saldo": 369
+     "saldo": 368
     },
     {
      "cod": 6814,
@@ -22501,7 +22485,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/7462.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 4618,
@@ -22797,7 +22781,7 @@
      "marca": "",
      "preco": 50.9,
      "img": "produtos/7359.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 6946,
@@ -22837,7 +22821,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/6939.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 7362,
@@ -23013,7 +22997,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 165
+     "saldo": 160
     },
     {
      "cod": 3731,
@@ -23117,7 +23101,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 64
+     "saldo": 62
     },
     {
      "cod": 2937,
@@ -23125,7 +23109,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 232
+     "saldo": 222
     },
     {
      "cod": 4146,
@@ -23133,7 +23117,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 158
+     "saldo": 156
     },
     {
      "cod": 2491,
@@ -23141,7 +23125,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 222
+     "saldo": 213
     },
     {
      "cod": 3887,
@@ -23149,7 +23133,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 152
+     "saldo": 149
     },
     {
      "cod": 14323,
@@ -23259,7 +23243,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 1378
+     "saldo": 1375
     },
     {
      "cod": 880,
@@ -23315,7 +23299,7 @@
      "marca": "PLAZAPEL",
      "preco": 5.9,
      "img": "produtos/1444.jpg",
-     "saldo": 58
+     "saldo": 56
     },
     {
      "cod": 4277,
@@ -24007,7 +23991,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/1367.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 14322,
@@ -24181,7 +24165,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 1507
+     "saldo": 1489
     },
     {
      "cod": 11873,
@@ -24569,7 +24553,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 438
+     "saldo": 435
     },
     {
      "cod": 3951,
@@ -25005,7 +24989,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 226
+     "saldo": 225
     },
     {
      "cod": 3932,
@@ -25029,7 +25013,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 55
+     "saldo": 53
     },
     {
      "cod": 11675,
@@ -25085,7 +25069,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 215
+     "saldo": 205
     },
     {
      "cod": 7305,
@@ -25539,7 +25523,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 2709,
@@ -26201,7 +26185,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1804
+     "saldo": 1799
     },
     {
      "cod": 2826,
@@ -26954,7 +26938,7 @@
      "marca": "GERAPLAST",
      "preco": 64.9,
      "img": "produtos/2896.jpg",
-     "saldo": 149
+     "saldo": 148
     },
     {
      "cod": 4314,
@@ -26962,7 +26946,7 @@
      "marca": "GERAPLAST",
      "preco": 96.9,
      "img": "produtos/4314.jpg",
-     "saldo": 131
+     "saldo": 130
     },
     {
      "cod": 2897,
@@ -26970,7 +26954,7 @@
      "marca": "GERAPLAST",
      "preco": 21.9,
      "img": "produtos/2897.jpg",
-     "saldo": 100
+     "saldo": 99
     },
     {
      "cod": 2898,
@@ -26978,7 +26962,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 845
+     "saldo": 844
     },
     {
      "cod": 2900,
@@ -27032,7 +27016,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 2046
+     "saldo": 2042
     },
     {
      "cod": 6646,
@@ -27088,7 +27072,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7543
+     "saldo": 7423
     },
     {
      "cod": 236,
@@ -27158,7 +27142,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 38
+     "saldo": 37
     },
     {
      "cod": 1277,
@@ -27316,7 +27300,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 771
+     "saldo": 766
     },
     {
      "cod": 4936,
@@ -27348,7 +27332,7 @@
      "marca": "FORT-PACK",
      "preco": 13.9,
      "img": "produtos/4937.jpg",
-     "saldo": 61
+     "saldo": 56
     },
     {
      "cod": 4960,
@@ -27610,7 +27594,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/104.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 10756,
@@ -28952,7 +28936,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 371
+     "saldo": 361
     },
     {
      "cod": 6324,
@@ -28960,7 +28944,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 418
+     "saldo": 408
     },
     {
      "cod": 6323,
@@ -29638,7 +29622,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 30
+     "saldo": 28
     },
     {
      "cod": 10304,
@@ -29654,7 +29638,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 8295,
@@ -29718,7 +29702,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 248
+     "saldo": 237
     },
     {
      "cod": 7275,
@@ -29726,7 +29710,7 @@
      "marca": "VABENE",
      "preco": 9.9,
      "img": "produtos/7275.jpg",
-     "saldo": 89
+     "saldo": 84
     }
    ]
   },
@@ -29748,7 +29732,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 2102,
@@ -29780,7 +29764,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 94
+     "saldo": 86
     },
     {
      "cod": 9017,
@@ -29852,7 +29836,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 155
+     "saldo": 153
     },
     {
      "cod": 6529,
@@ -29860,7 +29844,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1244
+     "saldo": 1243
     },
     {
      "cod": 2157,
