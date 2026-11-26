@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 966,
+     "saldo": 912,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 966
+       "saldo": 912
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 224
+       "saldo": 223
       }
      ]
     },
@@ -3439,14 +3439,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 49,
+     "saldo": 48,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 49
+       "saldo": 48
       },
       {
        "cod": 2347,
@@ -3566,7 +3566,7 @@
        "cor": "Preto",
        "nome": "REFIL PINCEL Q.BRC PILOT-PRETO",
        "img": "produtos/2626.jpg",
-       "saldo": 120
+       "saldo": 108
       },
       {
        "cod": 2627,
@@ -4619,7 +4619,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/6215.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 14272,
@@ -4803,14 +4803,14 @@
      "marca": "LORIGRAF",
      "preco": 31.9,
      "img": "produtos/14315.jpg",
-     "saldo": 13,
+     "saldo": 12,
      "cores": [
       {
        "cod": 14315,
        "cor": "Azul Escuro",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS AZUL ESCURO",
        "img": "produtos/14315.jpg",
-       "saldo": 13
+       "saldo": 12
       },
       {
        "cod": 14316,
@@ -9336,7 +9336,7 @@
      "marca": "SCOTCH",
      "preco": 13.9,
      "img": "produtos/9042.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 812,
@@ -9608,7 +9608,7 @@
      "marca": "APLICOLA",
      "preco": 22.9,
      "img": "produtos/14421.jpg",
-     "saldo": 201
+     "saldo": 200
     },
     {
      "cod": 823,
@@ -9712,7 +9712,7 @@
      "marca": "APLICOLA",
      "preco": 2.9,
      "img": "produtos/14419.jpg",
-     "saldo": 1912
+     "saldo": 1910
     },
     {
      "cod": 7904,
@@ -10072,7 +10072,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 1313,
@@ -10821,7 +10821,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 129
+     "saldo": 128
     },
     {
      "cod": 2618,
@@ -11263,7 +11263,7 @@
      "marca": "TILIBRA",
      "preco": 4.0,
      "img": "produtos/2602.jpg",
-     "saldo": 59
+     "saldo": 57
     },
     {
      "cod": 2605,
@@ -12174,7 +12174,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 896
+     "saldo": 895
     },
     {
      "cod": 2007,
@@ -12300,7 +12300,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 1433
+     "saldo": 1431
     },
     {
      "cod": 14085,
@@ -13575,7 +13575,7 @@
      "marca": "JOCAR",
      "preco": 6.5,
      "img": "produtos/2985.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 2986,
@@ -13583,7 +13583,7 @@
      "marca": "JOCAR",
      "preco": 6.5,
      "img": "produtos/2986.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 10548,
@@ -15032,7 +15032,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/2535.jpg",
-     "saldo": 5
+     "saldo": 2
     },
     {
      "cod": 2534,
@@ -15740,14 +15740,14 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/4152.jpg",
-     "saldo": 161,
+     "saldo": 121,
      "cores": [
       {
        "cod": 4152,
        "cor": "Cristal",
        "nome": "PASTA L A4 CRISTAL",
        "img": "produtos/4152.jpg",
-       "saldo": 161
+       "saldo": 121
       },
       {
        "cod": 6798,
@@ -16435,7 +16435,7 @@
      "marca": "",
      "preco": 61.9,
      "img": "produtos/2277.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 2276,
@@ -18683,7 +18683,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 18417
+     "saldo": 18415
     },
     {
      "cod": 1039,
@@ -18819,7 +18819,7 @@
      "marca": "SCRITY",
      "preco": 0.55,
      "img": "produtos/1051.jpg",
-     "saldo": 7220
+     "saldo": 7172
     },
     {
      "cod": 1054,
@@ -18827,7 +18827,7 @@
      "marca": "SCRITY",
      "preco": 0.6,
      "img": "produtos/1054.jpg",
-     "saldo": 5286
+     "saldo": 5259
     },
     {
      "cod": 1056,
@@ -19251,7 +19251,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 81
+     "saldo": 31
     }
    ]
   },
@@ -22047,7 +22047,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 386
+     "saldo": 384
     },
     {
      "cod": 945,
@@ -22509,7 +22509,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 95
+     "saldo": 93
     },
     {
      "cod": 3772,
@@ -23093,7 +23093,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 2937,
@@ -23101,7 +23101,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 215
+     "saldo": 214
     },
     {
      "cod": 4146,
@@ -23109,7 +23109,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 152
+     "saldo": 150
     },
     {
      "cod": 2491,
@@ -23125,7 +23125,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 141
+     "saldo": 139
     },
     {
      "cod": 14323,
@@ -24387,7 +24387,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 16
+     "saldo": 5
     },
     {
      "cod": 7070,
@@ -24537,7 +24537,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 430
+     "saldo": 425
     },
     {
      "cod": 3951,
@@ -24569,7 +24569,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 92
+     "saldo": 90
     },
     {
      "cod": 14698,
@@ -24577,7 +24577,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14698.jpg",
-     "saldo": 238
+     "saldo": 240
     },
     {
      "cod": 1555,
@@ -24981,7 +24981,7 @@
      "marca": "PLASTSUL",
      "preco": 8.9,
      "img": "produtos/3932.jpg",
-     "saldo": 47
+     "saldo": 43
     },
     {
      "cod": 4668,
@@ -25579,7 +25579,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 49
+     "saldo": 47
     },
     {
      "cod": 2718,
@@ -25955,7 +25955,7 @@
      "marca": "KROMASA",
      "preco": 1.8,
      "img": "produtos/2808.jpg",
-     "saldo": 1881
+     "saldo": 1879
     },
     {
      "cod": 9185,
@@ -26161,7 +26161,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 609
+     "saldo": 608
     },
     {
      "cod": 10972,
@@ -26169,7 +26169,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1781
+     "saldo": 1780
     },
     {
      "cod": 2826,
@@ -26177,7 +26177,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/2826.jpg",
-     "saldo": 181
+     "saldo": 179
     },
     {
      "cod": 2827,
@@ -26700,7 +26700,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 42
+     "saldo": 30
     },
     {
      "cod": 6857,
@@ -26708,7 +26708,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 2832
+     "saldo": 2822
     },
     {
      "cod": 1337,
@@ -26748,7 +26748,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 1938
+     "saldo": 1935
     },
     {
      "cod": 5547,
@@ -26756,7 +26756,7 @@
      "marca": "MGPAPEL",
      "preco": 119.9,
      "img": "produtos/5547.jpg",
-     "saldo": 5
+     "saldo": 4
     }
    ]
   },
@@ -26890,7 +26890,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2904.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 2905,
@@ -26914,7 +26914,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2252
+     "saldo": 2250
     },
     {
      "cod": 2896,
@@ -26930,7 +26930,7 @@
      "marca": "GERAPLAST",
      "preco": 96.9,
      "img": "produtos/4314.jpg",
-     "saldo": 130
+     "saldo": 129
     },
     {
      "cod": 2897,
@@ -27056,7 +27056,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7423
+     "saldo": 7333
     },
     {
      "cod": 236,
@@ -27626,7 +27626,7 @@
      "marca": "IDEATEX",
      "preco": 7.9,
      "img": "produtos/3195.jpg",
-     "saldo": 7
+     "saldo": 3
     },
     {
      "cod": 100,
@@ -28912,7 +28912,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 361
+     "saldo": 351
     },
     {
      "cod": 6324,
@@ -28952,7 +28952,7 @@
      "marca": "PRIMUS",
      "preco": 59.9,
      "img": "produtos/1207.jpg",
-     "saldo": 12
+     "saldo": 11
     }
    ]
   },
@@ -29614,7 +29614,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8294.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 8295,
@@ -29622,7 +29622,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8295.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 1801,
@@ -29812,7 +29812,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 153
+     "saldo": 152
     },
     {
      "cod": 6529,
@@ -31643,7 +31643,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR-VERDE",
        "img": "produtos/14355.jpg",
-       "saldo": 30
+       "saldo": 27
       }
      ]
     },
@@ -31693,14 +31693,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 306,
+     "saldo": 296,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 306
+       "saldo": 296
       },
       {
        "cod": 6051,
@@ -31714,7 +31714,7 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 109
+       "saldo": 106
       },
       {
        "cod": 6053,
@@ -31728,7 +31728,7 @@
        "cor": "Vermelho",
        "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
        "img": "produtos/6637.jpg",
-       "saldo": 93
+       "saldo": 90
       }
      ]
     },
@@ -31826,7 +31826,7 @@
        "cor": "Violeta",
        "nome": "MARCA TEXTO PILOT-VIOLETA",
        "img": "produtos/12147.jpg",
-       "saldo": 58
+       "saldo": 56
       }
      ]
     },
