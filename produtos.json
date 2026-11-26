@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 840,
+     "saldo": 790,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 840
+       "saldo": 790
       },
       {
        "cod": 553,
@@ -3649,7 +3649,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 222
+       "saldo": 221
       },
       {
        "cod": 2658,
@@ -5139,6 +5139,14 @@
      "saldo": 8
     },
     {
+     "cod": 14905,
+     "nome": "CADERNO 10X1 160F-BROWNIE",
+     "marca": "TILIBRA",
+     "preco": 42.9,
+     "img": "produtos/14905.jpg",
+     "saldo": 8
+    },
+    {
      "cod": 14723,
      "nome": "CADERNO 10X1 160F-CAPIVARA CAPYCLUB",
      "marca": "TILIBRA",
@@ -5449,6 +5457,14 @@
      "preco": 67.9,
      "img": "produtos/14732.jpg",
      "saldo": 8
+    },
+    {
+     "cod": 14906,
+     "nome": "CADERNO 10X1 160F-NATURALIS",
+     "marca": "TILIBRA",
+     "preco": 42.9,
+     "img": "produtos/14906.jpg",
+     "saldo": 12
     },
     {
      "cod": 5623,
@@ -8453,6 +8469,22 @@
      "saldo": 116
     },
     {
+     "cod": 14908,
+     "nome": "CADERNO PEQ. CD 80F ESPIRAL-ZIP COLOR (AA)",
+     "marca": "TILIBRA",
+     "preco": 11.9,
+     "img": "produtos/14908.jpg",
+     "saldo": 40
+    },
+    {
+     "cod": 14907,
+     "nome": "CADERNO PEQ. CD 80F ESPIRAL-ZIP COLORS",
+     "marca": "TILIBRA",
+     "preco": 11.9,
+     "img": "produtos/14907.jpg",
+     "saldo": 80
+    },
+    {
      "cod": 8755,
      "nome": "CADERNO PEQ. CD 80F-BARBIE",
      "marca": "FORONI",
@@ -9186,7 +9218,7 @@
      "marca": "LETRON",
      "preco": 18.9,
      "img": "produtos/14110.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 3283,
@@ -11380,13 +11412,6 @@
        "saldo": 5
       },
       {
-       "cod": 2022,
-       "cor": "Branco",
-       "nome": "CAMURÇA-BRANCO",
-       "img": "produtos/2022.jpg",
-       "saldo": 14
-      },
-      {
        "cod": 2023,
        "cor": "Laranja",
        "nome": "CAMURÇA-LARANJA",
@@ -12134,7 +12159,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1011
+     "saldo": 1010
     },
     {
      "cod": 9052,
@@ -14205,7 +14230,7 @@
      "marca": "GRESPAN",
      "preco": 6.9,
      "img": "produtos/7392.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 4334,
@@ -14213,7 +14238,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/4334.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 2907,
@@ -15008,7 +15033,7 @@
      "marca": "",
      "preco": 27.9,
      "img": "produtos/2535.jpg",
-     "saldo": 5
+     "saldo": 2
     },
     {
      "cod": 2534,
@@ -16959,7 +16984,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 150
+       "saldo": 145
       },
       {
        "cod": 9160,
@@ -16980,14 +17005,14 @@
        "cor": "Marrom",
        "nome": "EVA GLITER-MARROM",
        "img": "produtos/1219.jpg",
-       "saldo": 9
+       "saldo": 4
       },
       {
        "cod": 1220,
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 198
+       "saldo": 196
       },
       {
        "cod": 1221,
@@ -17022,7 +17047,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 110
+       "saldo": 108
       }
      ]
     },
@@ -17125,7 +17150,7 @@
        "cor": "Preto",
        "nome": "EVA LISO-PRETO",
        "img": "produtos/1238.jpg",
-       "saldo": 204
+       "saldo": 194
       },
       {
        "cod": 1239,
@@ -17201,7 +17226,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/4206.jpg",
-     "saldo": 342
+     "saldo": 340
     },
     {
      "cod": 3060,
@@ -17209,7 +17234,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3060.jpg",
-     "saldo": 472
+     "saldo": 470
     },
     {
      "cod": 14800,
@@ -20475,7 +20500,7 @@
      "marca": "SCRITY",
      "preco": 0.2,
      "img": "produtos/1062.jpg",
-     "saldo": 6267
+     "saldo": 6247
     },
     {
      "cod": 3386,
@@ -21313,7 +21338,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 8808,
@@ -21345,7 +21370,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11832.jpg",
-     "saldo": 101
+     "saldo": 100
     },
     {
      "cod": 14261,
@@ -23345,7 +23370,7 @@
      "marca": "CARBRINCK",
      "preco": 7.9,
      "img": "produtos/14383.jpg",
-     "saldo": 8
+     "saldo": 10
     },
     {
      "cod": 6643,
@@ -23377,7 +23402,7 @@
      "marca": "RADEX",
      "preco": 11.9,
      "img": "produtos/25.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 9495,
@@ -23469,7 +23494,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14571.jpg",
-     "saldo": 62,
+     "saldo": 61,
      "controle": [
       "AMARELO",
       "LARANJA",
@@ -23479,7 +23504,7 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AMARELO": 9,
+      "AMARELO": 8,
       "LARANJA": 12,
       "ROXO": 12,
       "VERDE": 10,
@@ -23775,7 +23800,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 783
+     "saldo": 781
     },
     {
      "cod": 3342,
@@ -24725,7 +24750,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 199
+     "saldo": 198
     },
     {
      "cod": 4146,
@@ -24741,7 +24766,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 195
+     "saldo": 194
     },
     {
      "cod": 3887,
@@ -24993,7 +25018,7 @@
      "marca": "TOTALPLAST",
      "preco": 36.9,
      "img": "produtos/11829.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 15027,
@@ -27211,7 +27236,7 @@
      "marca": "ROMA P.",
      "preco": 26.9,
      "img": "produtos/6862.jpg",
-     "saldo": 20
+     "saldo": 18
     },
     {
      "cod": 2707,
@@ -27507,7 +27532,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 281
+     "saldo": 280
     },
     {
      "cod": 14426,
@@ -28388,7 +28413,7 @@
      "marca": "HIPER ROLL",
      "preco": 39.9,
      "img": "produtos/6965.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 254,
@@ -28412,7 +28437,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 39
+     "saldo": 27
     },
     {
      "cod": 6857,
@@ -30401,7 +30426,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 340
+     "saldo": 339
     },
     {
      "cod": 2777,
@@ -30425,7 +30450,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 435
+     "saldo": 434
     },
     {
      "cod": 6912,
@@ -30433,7 +30458,7 @@
      "marca": "GERSELE",
      "preco": 3.8,
      "img": "produtos/6912.jpg",
-     "saldo": 311
+     "saldo": 310
     },
     {
      "cod": 10423,
@@ -33354,7 +33379,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO JOCAR-VERDE",
        "img": "produtos/14355.jpg",
-       "saldo": 30
+       "saldo": 27
       }
      ]
     },
@@ -33404,14 +33429,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 302,
+     "saldo": 292,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 302
+       "saldo": 292
       },
       {
        "cod": 6051,
@@ -33425,7 +33450,7 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 108
+       "saldo": 105
       },
       {
        "cod": 6053,
@@ -33439,7 +33464,7 @@
        "cor": "Vermelho",
        "nome": "MARCA TEXTO MASTERPRINT-VERMELHO",
        "img": "produtos/6637.jpg",
-       "saldo": 92
+       "saldo": 89
       }
      ]
     },
@@ -33537,7 +33562,7 @@
        "cor": "Violeta",
        "nome": "MARCA TEXTO PILOT-VIOLETA",
        "img": "produtos/12147.jpg",
-       "saldo": 58
+       "saldo": 56
       }
      ]
     },
