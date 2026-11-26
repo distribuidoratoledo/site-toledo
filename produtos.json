@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 745,
+     "saldo": 695,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 745
+       "saldo": 695
       },
       {
        "cod": 553,
@@ -3719,7 +3719,7 @@
      "marca": "MOLIN",
      "preco": 5.9,
      "img": "produtos/14534.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 12247,
@@ -4003,7 +4003,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
-     "saldo": 79,
+     "saldo": 78,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4233,7 +4233,7 @@
      "marca": "MERCUR",
      "preco": 2.5,
      "img": "produtos/8161.jpg",
-     "saldo": 160
+     "saldo": 159
     },
     {
      "cod": 276,
@@ -4944,7 +4944,7 @@
      "marca": "PANAMERICA",
      "preco": 1.5,
      "img": "produtos/315.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 13533,
@@ -9800,7 +9800,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/12735.jpg",
-     "saldo": 142
+     "saldo": 141
     },
     {
      "cod": 9819,
@@ -10080,7 +10080,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 620
+     "saldo": 610
     },
     {
      "cod": 4389,
@@ -14315,7 +14315,7 @@
      "marca": "",
      "preco": 99.9,
      "img": "produtos/79.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 7502,
@@ -17003,7 +17003,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 203
+       "saldo": 198
       },
       {
        "cod": 1221,
@@ -17265,7 +17265,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 199
+     "saldo": 196
     },
     {
      "cod": 6999,
@@ -19529,14 +19529,14 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6620.jpg",
-     "saldo": 19,
+     "saldo": 17,
      "cores": [
       {
        "cod": 6620,
        "cor": "Amarelo",
        "nome": "POST-IT 76X76 C/100 AMARELO",
        "img": "produtos/6620.jpg",
-       "saldo": 19
+       "saldo": 17
       },
       {
        "cod": 6623,
@@ -19550,14 +19550,14 @@
        "cor": "Rosa",
        "nome": "POST-IT 76X76 C/100 ROSA",
        "img": "produtos/6621.jpg",
-       "saldo": 50
+       "saldo": 48
       },
       {
        "cod": 6622,
        "cor": "Verde",
        "nome": "POST-IT 76X76 C/100 VERDE",
        "img": "produtos/6622.jpg",
-       "saldo": 51
+       "saldo": 49
       }
      ]
     },
@@ -21849,7 +21849,7 @@
      "marca": "TRIS",
      "preco": 2.9,
      "img": "produtos/14572.jpg",
-     "saldo": 71,
+     "saldo": 70,
      "controle": [
       "AZUL CL",
       "AZUL ESC",
@@ -22103,7 +22103,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5810
+     "saldo": 5802
     },
     {
      "cod": 944,
@@ -22319,7 +22319,7 @@
      "marca": "TOTALPLAST",
      "preco": 3.9,
      "img": "produtos/7011.jpg",
-     "saldo": 450
+     "saldo": 437
     },
     {
      "cod": 9745,
@@ -22541,7 +22541,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 313
+     "saldo": 312
     },
     {
      "cod": 177,
@@ -23168,14 +23168,6 @@
      "saldo": 139
     },
     {
-     "cod": 14323,
-     "nome": "PT104 ISOBRAS (KIT TAMPA+FUNDO) C/100",
-     "marca": "",
-     "preco": 52.9,
-     "img": "produtos/14323.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 3536,
      "nome": "PT300 ULTRA C/50 (FUNDO)",
      "marca": "ULTRA",
@@ -23283,7 +23275,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 369
+     "saldo": 367
     },
     {
      "cod": 14417,
@@ -24173,7 +24165,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1102
+     "saldo": 1090
     },
     {
      "cod": 2552,
@@ -26075,7 +26067,7 @@
      "marca": "ALIPROT",
      "preco": 219.9,
      "img": "produtos/4203.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 14514,
@@ -27002,7 +26994,7 @@
      "marca": "GERAPLAST",
      "preco": 34.9,
      "img": "produtos/2901.jpg",
-     "saldo": 115
+     "saldo": 114
     },
     {
      "cod": 7358,
@@ -27642,7 +27634,7 @@
      "marca": "SAO ROQUE",
      "preco": 16.9,
      "img": "produtos/99.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 109,
@@ -29884,7 +29876,7 @@
      "marca": "SLIM/NOAH",
      "preco": 84.9,
      "img": "produtos/7484.jpg",
-     "saldo": 42
+     "saldo": 41
     }
    ]
   },
