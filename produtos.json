@@ -118,14 +118,14 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1933
+       "saldo": 1929
       },
       {
        "cod": 554,
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 223
+       "saldo": 222
       }
      ]
     },
@@ -498,14 +498,14 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 832,
+     "saldo": 831,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 832
+       "saldo": 831
       },
       {
        "cod": 570,
@@ -519,7 +519,7 @@
        "cor": "Vermelha",
        "nome": "CANETA COMPACTOR-VERMELHA",
        "img": "produtos/571.jpg",
-       "saldo": 498
+       "saldo": 496
       }
      ]
     },
@@ -1128,14 +1128,14 @@
      "marca": "PAPER MATE",
      "preco": 1.8,
      "img": "produtos/14673.jpg",
-     "saldo": 118,
+     "saldo": 117,
      "cores": [
       {
        "cod": 14673,
        "cor": "Azul",
        "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
        "img": "produtos/14673.jpg",
-       "saldo": 118
+       "saldo": 117
       },
       {
        "cod": 588,
@@ -2633,7 +2633,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 2650
+     "saldo": 2648
     },
     {
      "cod": 14124,
@@ -2713,7 +2713,7 @@
      "marca": "MAPED",
      "preco": 2.9,
      "img": "produtos/7862.jpg",
-     "saldo": 113
+     "saldo": 112
     },
     {
      "cod": 13305,
@@ -3289,7 +3289,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.SLIM.JOCAR-PRETO",
        "img": "produtos/7533.jpg",
-       "saldo": 118
+       "saldo": 117
       },
       {
        "cod": 7532,
@@ -3320,7 +3320,7 @@
        "cor": "Preto",
        "nome": "PINCEL COMPACTOR-PRETO",
        "img": "produtos/2331.jpg",
-       "saldo": 347
+       "saldo": 340
       },
       {
        "cod": 2332,
@@ -4233,7 +4233,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1950
+     "saldo": 1947
     },
     {
      "cod": 4341,
@@ -4611,7 +4611,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/6215.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 14272,
@@ -8441,7 +8441,7 @@
        "cor": "Verde",
        "nome": "CADERNO PEQ. CD 48F (VERDE)",
        "img": "produtos/12448.jpg",
-       "saldo": 37
+       "saldo": 36
       },
       {
        "cod": 12449,
@@ -9504,7 +9504,7 @@
      "marca": "ACRILEX",
      "preco": 12.9,
      "img": "produtos/832.jpg",
-     "saldo": 122
+     "saldo": 121
     },
     {
      "cod": 7905,
@@ -9544,7 +9544,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 80
+     "saldo": 79
     },
     {
      "cod": 836,
@@ -9854,7 +9854,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/1028.jpg",
-     "saldo": 2884
+     "saldo": 2883
     },
     {
      "cod": 1029,
@@ -10112,7 +10112,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 577
+     "saldo": 575
     },
     {
      "cod": 4389,
@@ -10120,7 +10120,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 677
+     "saldo": 676
     },
     {
      "cod": 1317,
@@ -10710,7 +10710,7 @@
      "marca": "JOCAR",
      "preco": 5.9,
      "img": "produtos/979.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 6716,
@@ -10781,7 +10781,7 @@
      "marca": "MERCUR",
      "preco": 19.9,
      "img": "produtos/981.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 11867,
@@ -11786,14 +11786,14 @@
      "marca": "GRIFFE",
      "preco": 1.3,
      "img": "produtos/2037.jpg",
-     "saldo": 306,
+     "saldo": 305,
      "cores": [
       {
        "cod": 2037,
        "cor": "Amarelo",
        "nome": "COLORSETE-AMARELO",
        "img": "produtos/2037.jpg",
-       "saldo": 306
+       "saldo": 305
       },
       {
        "cod": 4181,
@@ -11842,28 +11842,21 @@
        "cor": "Rosa",
        "nome": "COLORSETE-ROSA",
        "img": "produtos/2045.jpg",
-       "saldo": 63
-      },
-      {
-       "cod": 2047,
-       "cor": "Verde Bandeira",
-       "nome": "COLORSETE-VERDE BANDEIRA",
-       "img": "produtos/2047.jpg",
-       "saldo": 1
+       "saldo": 62
       },
       {
        "cod": 2048,
        "cor": "Verde Claro",
        "nome": "COLORSETE-VERDE CLARO",
        "img": "produtos/2048.jpg",
-       "saldo": 128
+       "saldo": 127
       },
       {
        "cod": 2050,
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 111
+       "saldo": 110
       }
      ]
     },
@@ -11887,7 +11880,7 @@
        "cor": "Azul Claro",
        "nome": "CREPOM AZUL CLARO",
        "img": "produtos/2069.jpg",
-       "saldo": 50
+       "saldo": 45
       },
       {
        "cod": 2070,
@@ -12167,7 +12160,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 74
+     "saldo": 73
     },
     {
      "cod": 2007,
@@ -13090,7 +13083,7 @@
      "marca": "",
      "preco": 2.3,
      "img": "produtos/11000.jpg",
-     "saldo": 143
+     "saldo": 142
     },
     {
      "cod": 10999,
@@ -13106,7 +13099,7 @@
      "marca": "TIGRE",
      "preco": 2.5,
      "img": "produtos/6378.jpg",
-     "saldo": 167
+     "saldo": 166
     },
     {
      "cod": 10997,
@@ -13170,7 +13163,7 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/2364.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 10737,
@@ -13671,14 +13664,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2994.jpg",
-     "saldo": 49,
+     "saldo": 48,
      "cores": [
       {
        "cod": 2994,
        "cor": "Azul",
        "nome": "TINTA PINCEL 37ML PILOT-AZUL",
        "img": "produtos/2994.jpg",
-       "saldo": 49
+       "saldo": 48
       },
       {
        "cod": 2995,
@@ -14238,7 +14231,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/4334.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 2907,
@@ -23384,7 +23377,7 @@
        "cor": "Vermelha",
        "nome": "ALMOFADA CARIMBO Nº3 MASTERPRINT-VERMELHA",
        "img": "produtos/6644.jpg",
-       "saldo": 11
+       "saldo": 10
       }
      ]
     },
@@ -23736,7 +23729,7 @@
      "marca": "COPOMAIS",
      "preco": 7.9,
      "img": "produtos/14413.jpg",
-     "saldo": 958
+     "saldo": 952
     },
     {
      "cod": 949,
@@ -24758,7 +24751,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 194
+     "saldo": 193
     },
     {
      "cod": 3887,
@@ -24876,7 +24869,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 1346
+     "saldo": 1326
     },
     {
      "cod": 880,
@@ -25162,7 +25155,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14411.jpg",
-     "saldo": 594
+     "saldo": 588
     },
     {
      "cod": 13873,
@@ -25766,7 +25759,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 3213
+     "saldo": 3193
     },
     {
      "cod": 3857,
@@ -26210,7 +26203,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 2358
+     "saldo": 2352
     },
     {
      "cod": 1553,
@@ -27652,7 +27645,7 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg",
-     "saldo": 162
+     "saldo": 161
     },
     {
      "cod": 4947,
@@ -28785,7 +28778,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 883
+     "saldo": 853
     },
     {
      "cod": 235,
@@ -29029,7 +29022,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 381
+     "saldo": 376
     },
     {
      "cod": 2762,
@@ -29593,7 +29586,7 @@
        "cor": "Branco",
        "nome": "FITA CETIM N2 10MMX10MT-BRANCO",
        "img": "produtos/14130.jpg",
-       "saldo": 4
+       "saldo": 2
       },
       {
        "cod": 14132,
@@ -30426,7 +30419,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 339
+     "saldo": 334
     },
     {
      "cod": 2777,
@@ -30434,7 +30427,7 @@
      "marca": "GERSELE",
      "preco": 1.2,
      "img": "produtos/2777.jpg",
-     "saldo": 253
+     "saldo": 251
     },
     {
      "cod": 2779,
@@ -30450,7 +30443,7 @@
      "marca": "GERSELE",
      "preco": 1.9,
      "img": "produtos/2780.jpg",
-     "saldo": 434
+     "saldo": 431
     },
     {
      "cod": 6912,
