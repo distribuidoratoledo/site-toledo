@@ -9846,7 +9846,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3867
+     "saldo": 3865
     },
     {
      "cod": 14619,
@@ -9854,7 +9854,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 707
+     "saldo": 703
     },
     {
      "cod": 1021,
@@ -10080,7 +10080,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 582
+     "saldo": 577
     },
     {
      "cod": 4389,
@@ -10986,22 +10986,6 @@
      "preco": 5.9,
      "img": "produtos/6612.jpg",
      "saldo": 16
-    },
-    {
-     "cod": 3479,
-     "nome": "GRAMPO 26/6 C/5000-TOP (COBREADO)",
-     "marca": "TOP",
-     "preco": 7.9,
-     "img": "produtos/3479.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 1539,
-     "nome": "GRAMPO 26/6 C/5000-TOP (GALVANIZADO)",
-     "marca": "TOP",
-     "preco": 7.5,
-     "img": "produtos/1539.jpg",
-     "saldo": 1
     },
     {
      "cod": 4361,
@@ -12118,7 +12102,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 678
+     "saldo": 672
     },
     {
      "cod": 5082,
@@ -12158,7 +12142,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1021
+     "saldo": 1011
     },
     {
      "cod": 9052,
@@ -12166,7 +12150,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 85
+     "saldo": 74
     },
     {
      "cod": 2007,
@@ -12212,7 +12196,7 @@
      "marca": "CHAMEX",
      "preco": 11.9,
      "img": "produtos/2012.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 2017,
@@ -20435,7 +20419,7 @@
      "marca": "SCRITY",
      "preco": 0.3,
      "img": "produtos/1042.jpg",
-     "saldo": 5029
+     "saldo": 4779
     },
     {
      "cod": 1045,
@@ -23695,7 +23679,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5799
+     "saldo": 5797
     },
     {
      "cod": 944,
@@ -23847,7 +23831,7 @@
      "marca": "COPOZAN",
      "preco": 7.9,
      "img": "produtos/946.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 6922,
@@ -24157,7 +24141,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 104
+     "saldo": 103
     },
     {
      "cod": 179,
@@ -24741,7 +24725,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 4146,
@@ -24757,7 +24741,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 199
+     "saldo": 198
     },
     {
      "cod": 3887,
@@ -25789,7 +25773,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 1466
+     "saldo": 1461
     },
     {
      "cod": 11873,
@@ -26225,7 +26209,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14698.jpg",
-     "saldo": 240
+     "saldo": 230
     },
     {
      "cod": 1555,
@@ -28862,7 +28846,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/1278.jpg",
-     "saldo": 90
+     "saldo": 88
     },
     {
      "cod": 1279,
@@ -31539,7 +31523,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1221
+     "saldo": 1218
     },
     {
      "cod": 2157,
