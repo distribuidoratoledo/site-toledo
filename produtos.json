@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 973,
+     "saldo": 968,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 973
+       "saldo": 968
       },
       {
        "cod": 553,
@@ -446,7 +446,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 91
+       "saldo": 90
       },
       {
        "cod": 563,
@@ -467,7 +467,7 @@
        "cor": "Preta",
        "nome": "CANETA CIS SPIRO-PRETA",
        "img": "produtos/565.jpg",
-       "saldo": 68
+       "saldo": 67
       },
       {
        "cod": 566,
@@ -3439,14 +3439,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 50,
+     "saldo": 49,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 50
+       "saldo": 49
       },
       {
        "cod": 2347,
@@ -3467,7 +3467,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL Q.BRC RECAR.PILOT-VERMELHO (WBM-7)",
        "img": "produtos/2349.jpg",
-       "saldo": 8
+       "saldo": 7
       }
      ]
     },
@@ -3863,7 +3863,7 @@
      "marca": "FABER",
      "preco": 12.9,
      "img": "produtos/14437.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 9158,
@@ -5256,7 +5256,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 63
+     "saldo": 62
     },
     {
      "cod": 12910,
@@ -9846,7 +9846,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3882
+     "saldo": 3878
     },
     {
      "cod": 14619,
@@ -10080,7 +10080,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 633
+     "saldo": 628
     },
     {
      "cod": 4389,
@@ -12174,7 +12174,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 897
+     "saldo": 896
     },
     {
      "cod": 2007,
@@ -15112,7 +15112,7 @@
      "marca": "AMBIENTE",
      "preco": 36.9,
      "img": "produtos/4616.jpg",
-     "saldo": 3
+     "saldo": 1
     },
     {
      "cod": 2648,
@@ -16644,7 +16644,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/1139.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 3390,
@@ -16660,7 +16660,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/1142.jpg",
-     "saldo": 124
+     "saldo": 123
     },
     {
      "cod": 1144,
@@ -17046,7 +17046,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 138
+       "saldo": 113
       }
      ]
     },
@@ -17184,7 +17184,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 318
+       "saldo": 314
       },
       {
        "cod": 1244,
@@ -19076,14 +19076,6 @@
      "saldo": 15
     },
     {
-     "cod": 6664,
-     "nome": "OFERTA 200X300 C/10",
-     "marca": "RADEX",
-     "preco": 16.9,
-     "img": "produtos/6664.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 2379,
      "nome": "OFERTA 276X200 C/10",
      "marca": "GRESPAN",
@@ -19705,7 +19697,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 54
+     "saldo": 53
     },
     {
      "cod": 8808,
@@ -19721,7 +19713,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/2616.jpg",
-     "saldo": 76
+     "saldo": 66
     },
     {
      "cod": 11833,
@@ -19761,7 +19753,7 @@
      "marca": "IBEL",
      "preco": 9.9,
      "img": "produtos/11831.jpg",
-     "saldo": 312
+     "saldo": 311
     }
    ]
   },
@@ -19927,7 +19919,7 @@
      "marca": "SD",
      "preco": 6.9,
      "img": "produtos/13220.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 14655,
@@ -20045,7 +20037,7 @@
      "marca": "PENTEL",
      "preco": 15.9,
      "img": "produtos/6794.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 1473,
@@ -22087,7 +22079,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1482
+     "saldo": 1478
     },
     {
      "cod": 14414,
@@ -24523,7 +24515,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/5063.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 6101,
@@ -25691,7 +25683,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2726.jpg",
-     "saldo": 148
+     "saldo": 147
     },
     {
      "cod": 13028,
@@ -25931,7 +25923,7 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg",
-     "saldo": 172
+     "saldo": 162
     },
     {
      "cod": 4947,
@@ -26322,14 +26314,14 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/9961.jpg",
-     "saldo": 2,
+     "saldo": 1,
      "cores": [
       {
        "cod": 9961,
        "cor": "Azul Escuro",
        "nome": "SACOLA PH 25X35 C/50-AZUL ESCURO",
        "img": "produtos/9961.jpg",
-       "saldo": 2
+       "saldo": 1
       },
       {
        "cod": 9877,
@@ -26478,7 +26470,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2310
+     "saldo": 2305
     },
     {
      "cod": 6821,
@@ -26486,7 +26478,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 704
+     "saldo": 699
     },
     {
      "cod": 6855,
@@ -26930,7 +26922,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2255
+     "saldo": 2252
     },
     {
      "cod": 2896,
@@ -27292,7 +27284,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 564
+     "saldo": 563
     },
     {
      "cod": 4285,
@@ -28172,7 +28164,7 @@
      "marca": "VMP",
      "preco": 25.9,
      "img": "produtos/10765.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 10766,
@@ -30064,7 +30056,7 @@
      "marca": "BELL PLUS",
      "preco": 45.9,
      "img": "produtos/6345.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 2651,
