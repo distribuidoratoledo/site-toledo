@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 642,
+     "saldo": 640,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 642
+       "saldo": 640
       },
       {
        "cod": 553,
@@ -143,14 +143,14 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 644,
+     "saldo": 643,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 644
+       "saldo": 643
       },
       {
        "cod": 556,
@@ -498,21 +498,21 @@
      "marca": "COMPACTOR",
      "preco": 1.5,
      "img": "produtos/569.jpg",
-     "saldo": 833,
+     "saldo": 832,
      "cores": [
       {
        "cod": 569,
        "cor": "Azul",
        "nome": "CANETA COMPACTOR-AZUL",
        "img": "produtos/569.jpg",
-       "saldo": 833
+       "saldo": 832
       },
       {
        "cod": 570,
        "cor": "Preta",
        "nome": "CANETA COMPACTOR-PRETA",
        "img": "produtos/570.jpg",
-       "saldo": 714
+       "saldo": 713
       },
       {
        "cod": 571,
@@ -537,7 +537,7 @@
      "marca": "COMPACTOR",
      "preco": 1.9,
      "img": "produtos/5084.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 10288,
@@ -6091,7 +6091,7 @@
      "marca": "TILIBRA",
      "preco": 27.9,
      "img": "produtos/7764.jpg",
-     "saldo": 2
+     "saldo": 34
     },
     {
      "cod": 12845,
@@ -6244,6 +6244,14 @@
      "preco": 42.9,
      "img": "produtos/12768.jpg",
      "saldo": 20
+    },
+    {
+     "cod": 10489,
+     "nome": "CADERNO 1X1 80F-NATURALIS",
+     "marca": "TILIBRA",
+     "preco": 26.9,
+     "img": "produtos/10489.jpg",
+     "saldo": 32
     },
     {
      "cod": 5615,
@@ -6423,7 +6431,7 @@
      "marca": "TILIBRA",
      "preco": 28.9,
      "img": "produtos/7767.jpg",
-     "saldo": 28
+     "saldo": 60
     },
     {
      "cod": 8895,
@@ -9946,7 +9954,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 319
+     "saldo": 317
     },
     {
      "cod": 1294,
@@ -10072,7 +10080,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 585
+     "saldo": 582
     },
     {
      "cod": 4389,
@@ -11400,7 +11408,7 @@
        "cor": "Branco",
        "nome": "CAMURÇA-BRANCO",
        "img": "produtos/2022.jpg",
-       "saldo": 14
+       "saldo": 4
       },
       {
        "cod": 2023,
@@ -12236,7 +12244,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 2096,
@@ -13992,6 +14000,14 @@
      "saldo": 36
     },
     {
+     "cod": 10502,
+     "nome": "ETIQUETA ESCOLAR C/8-TILIBRA BLINK",
+     "marca": "TILIBRA",
+     "preco": 3.9,
+     "img": "produtos/10502.jpg",
+     "saldo": 20
+    },
+    {
      "cod": 10495,
      "nome": "ETIQUETA ESCOLAR C/8-TILIBRA LOVELAND",
      "marca": "TILIBRA",
@@ -14237,7 +14253,7 @@
      "marca": "PIMACO",
      "preco": 6.9,
      "img": "produtos/4335.jpg",
-     "saldo": 8
+     "saldo": 4
     },
     {
      "cod": 2908,
@@ -16967,7 +16983,7 @@
        "cor": "Branco",
        "nome": "EVA GLITER-BRANCO",
        "img": "produtos/1217.jpg",
-       "saldo": 150
+       "saldo": 145
       },
       {
        "cod": 9160,
@@ -16988,14 +17004,14 @@
        "cor": "Marrom",
        "nome": "EVA GLITER-MARROM",
        "img": "produtos/1219.jpg",
-       "saldo": 9
+       "saldo": 4
       },
       {
        "cod": 1220,
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 198
+       "saldo": 196
       },
       {
        "cod": 1221,
@@ -21119,7 +21135,7 @@
        "cor": "Azul",
        "nome": "POST-IT 76X76 C/100 AZUL",
        "img": "produtos/6623.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 6621,
@@ -21151,7 +21167,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14599.jpg",
-     "saldo": 59,
+     "saldo": 57,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -21161,11 +21177,11 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 10,
+      "AMARELO": 9,
       "AZUL": 10,
       "LARANJA": 10,
       "ROSA": 10,
-      "ROXO": 9,
+      "ROXO": 8,
       "VERDE": 10
      }
     },
@@ -21321,7 +21337,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/11738.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 8808,
@@ -21439,7 +21455,7 @@
      "marca": "BICHO ESPE",
      "preco": 1.5,
      "img": "produtos/14657.jpg",
-     "saldo": 113
+     "saldo": 105
     },
     {
      "cod": 8061,
@@ -21845,7 +21861,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1556
+     "saldo": 1555
     },
     {
      "cod": 3538,
@@ -24725,7 +24741,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 204
+     "saldo": 203
     },
     {
      "cod": 4146,
@@ -24741,7 +24757,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 200
+     "saldo": 199
     },
     {
      "cod": 3887,
@@ -25097,7 +25113,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 596
+     "saldo": 595
     },
     {
      "cod": 2516,
@@ -25797,7 +25813,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7254.jpg",
-     "saldo": 3
+     "saldo": 17
     },
     {
      "cod": 2558,
@@ -26131,7 +26147,7 @@
      "marca": "",
      "preco": 28.9,
      "img": "produtos/6100.jpg",
-     "saldo": 2
+     "saldo": 12
     },
     {
      "cod": 5063,
@@ -26177,7 +26193,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 313
+     "saldo": 312
     },
     {
      "cod": 14268,
@@ -26311,7 +26327,7 @@
      "marca": "VABENE",
      "preco": 8.5,
      "img": "produtos/82.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 83,
@@ -27771,7 +27787,7 @@
      "marca": "",
      "preco": 2.2,
      "img": "produtos/7175.jpg",
-     "saldo": 122
+     "saldo": 112
     },
     {
      "cod": 7172,
@@ -27865,7 +27881,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 608
+     "saldo": 598
     },
     {
      "cod": 10972,
@@ -28166,7 +28182,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2305
+     "saldo": 2300
     },
     {
      "cod": 6821,
@@ -28340,7 +28356,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 88
+     "saldo": 86
     },
     {
      "cod": 13853,
@@ -28364,7 +28380,7 @@
      "marca": "HIPERROLL",
      "preco": 21.9,
      "img": "produtos/13855.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 253,
@@ -28412,7 +28428,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 12422
+     "saldo": 12412
     },
     {
      "cod": 1337,
@@ -28452,7 +28468,7 @@
      "marca": "MG PAPEL",
      "preco": 2.0,
      "img": "produtos/2112.jpg",
-     "saldo": 1933
+     "saldo": 1928
     },
     {
      "cod": 5547,
@@ -28618,7 +28634,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2250
+     "saldo": 2240
     },
     {
      "cod": 2896,
@@ -28658,7 +28674,7 @@
      "marca": "GERAPLAST",
      "preco": 112.9,
      "img": "produtos/2900.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 2901,
@@ -28814,7 +28830,7 @@
      "marca": "",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 1272,
@@ -28838,7 +28854,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 1278,
@@ -29004,7 +29020,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 266
+     "saldo": 264
     },
     {
      "cod": 2763,
@@ -29068,7 +29084,7 @@
      "marca": "IEC",
      "preco": 6.9,
      "img": "produtos/2786.jpg",
-     "saldo": 187
+     "saldo": 182
     },
     {
      "cod": 13529,
@@ -29228,7 +29244,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 84
+     "saldo": 82
     },
     {
      "cod": 6860,
@@ -29701,6 +29717,13 @@
        "nome": "FITILHO 50MT VERDE ESCURO",
        "img": "produtos/1331.jpg",
        "saldo": 9
+      },
+      {
+       "cod": 1332,
+       "cor": "Vermelho",
+       "nome": "FITILHO 50MT VERMELHO",
+       "img": "produtos/1332.jpg",
+       "saldo": 6
       }
      ]
     },
@@ -31492,7 +31515,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 234
+     "saldo": 233
     },
     {
      "cod": 2152,
