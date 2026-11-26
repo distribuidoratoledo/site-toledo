@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1934
+       "saldo": 1933
       },
       {
        "cod": 554,
@@ -1880,7 +1880,7 @@
      "marca": "MAPED",
      "preco": 12.9,
      "img": "produtos/7707.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 7699,
@@ -2258,7 +2258,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 824
+     "saldo": 812
     },
     {
      "cod": 1670,
@@ -2657,7 +2657,7 @@
      "marca": "FABER",
      "preco": 1.8,
      "img": "produtos/1671.jpg",
-     "saldo": 123
+     "saldo": 122
     },
     {
      "cod": 6355,
@@ -2673,7 +2673,7 @@
      "marca": "MAPED",
      "preco": 1.5,
      "img": "produtos/11566.jpg",
-     "saldo": 286
+     "saldo": 285
     },
     {
      "cod": 11564,
@@ -4201,7 +4201,7 @@
      "marca": "FABER",
      "preco": 3.9,
      "img": "produtos/283.jpg",
-     "saldo": 58
+     "saldo": 57
     },
     {
      "cod": 12771,
@@ -4233,7 +4233,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1952
+     "saldo": 1950
     },
     {
      "cod": 4341,
@@ -4715,7 +4715,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/4952.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 14275,
@@ -6275,14 +6275,14 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/5615.jpg",
-     "saldo": 10,
+     "saldo": 9,
      "cores": [
       {
        "cod": 5615,
        "cor": "Azul",
        "nome": "CADERNO 1X1 80F-NEON AZUL",
        "img": "produtos/5615.jpg",
-       "saldo": 10
+       "saldo": 9
       },
       {
        "cod": 5616,
@@ -6343,7 +6343,7 @@
      "marca": "TILIBRA",
      "preco": 34.9,
      "img": "produtos/12764.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 13209,
@@ -6351,7 +6351,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13209.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 12905,
@@ -8237,7 +8237,7 @@
      "marca": "CREDEAL",
      "preco": 9.9,
      "img": "produtos/11448.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 8813,
@@ -8924,7 +8924,7 @@
      "marca": "BACCHI",
      "preco": 8.5,
      "img": "produtos/3314.jpg",
-     "saldo": 7
+     "saldo": 6
     },
     {
      "cod": 781,
@@ -9680,7 +9680,7 @@
      "marca": "MERCUR",
      "preco": 2.9,
      "img": "produtos/7903.jpg",
-     "saldo": 231
+     "saldo": 229
     },
     {
      "cod": 3318,
@@ -10023,7 +10023,7 @@
        "cor": "Verde",
        "nome": "FITA DEMARCAÇAO 48X14M-VERDE(ADELBRAS)",
        "img": "produtos/6763.jpg",
-       "saldo": 8
+       "saldo": 7
       },
       {
        "cod": 6764,
@@ -10278,7 +10278,7 @@
      "marca": "MAPED",
      "preco": 11.9,
      "img": "produtos/14244.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 1528,
@@ -10370,7 +10370,7 @@
      "marca": "MAXCRIL",
      "preco": 11.9,
      "img": "produtos/4846.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 4847,
@@ -10434,7 +10434,7 @@
      "marca": "MAXCRIL",
      "preco": 9.9,
      "img": "produtos/3489.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 14603,
@@ -10518,7 +10518,7 @@
      "marca": "ACRILEX",
      "preco": 8.9,
      "img": "produtos/7500.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 2639,
@@ -12095,7 +12095,7 @@
      "marca": "",
      "preco": 15.0,
      "img": "produtos/3580.jpg",
-     "saldo": 46
+     "saldo": 45
     },
     {
      "cod": 6844,
@@ -12421,7 +12421,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 1348
+     "saldo": 848
     },
     {
      "cod": 2139,
@@ -16602,7 +16602,7 @@
      "marca": "CROMUS",
      "preco": 11.9,
      "img": "produtos/2745.jpg",
-     "saldo": 54
+     "saldo": 52
     },
     {
      "cod": 4872,
@@ -17047,7 +17047,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 108
+       "saldo": 106
       }
      ]
     },
@@ -17073,14 +17073,14 @@
      "marca": "LEOARTE",
      "preco": 1.5,
      "img": "produtos/1228.jpg",
-     "saldo": 218,
+     "saldo": 217,
      "cores": [
       {
        "cod": 1228,
        "cor": "Amarelo",
        "nome": "EVA LISO-AMARELO",
        "img": "produtos/1228.jpg",
-       "saldo": 218
+       "saldo": 217
       },
       {
        "cod": 1230,
@@ -17185,7 +17185,7 @@
        "cor": "Verde Escuro",
        "nome": "EVA LISO-VERDE ESCURO",
        "img": "produtos/7675.jpg",
-       "saldo": 310
+       "saldo": 309
       },
       {
        "cod": 1244,
@@ -20324,7 +20324,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 18412
+     "saldo": 14412
     },
     {
      "cod": 1039,
@@ -21354,7 +21354,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/2616.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 11833,
@@ -23126,7 +23126,7 @@
        "cor": "Ouro",
        "nome": "GLITER 3GR-OURO",
        "img": "produtos/1477.jpg",
-       "saldo": 6
+       "saldo": 5
       },
       {
        "cod": 1478,
@@ -23168,7 +23168,7 @@
        "cor": "Vermelho",
        "nome": "GLITER 3GR-VERMELHO",
        "img": "produtos/1484.jpg",
-       "saldo": 82
+       "saldo": 81
       }
      ]
     },
@@ -23332,7 +23332,7 @@
      "marca": "LEO E LEO",
      "preco": 10.9,
      "img": "produtos/4725.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 7555,
@@ -23800,7 +23800,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 167
+     "saldo": 168
     },
     {
      "cod": 14405,
@@ -24294,7 +24294,7 @@
      "marca": "ISOMAX",
      "preco": 2.2,
      "img": "produtos/9919.jpg",
-     "saldo": 19
+     "saldo": 17
     },
     {
      "cod": 9920,
@@ -24750,7 +24750,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 148
+     "saldo": 149
     },
     {
      "cod": 2491,
@@ -24769,6 +24769,14 @@
      "saldo": 137
     },
     {
+     "cod": 7352,
+     "nome": "PT104 COPOPLAST C/100 (FUNDO)",
+     "marca": "COPOPLAST",
+     "preco": 29.9,
+     "img": "produtos/7352.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 3536,
      "nome": "PT300 ULTRA C/50 (FUNDO)",
      "marca": "ULTRA",
@@ -24782,7 +24790,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 104
+     "saldo": 105
     },
     {
      "cod": 4129,
@@ -24790,7 +24798,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 94
+     "saldo": 95
     },
     {
      "cod": 5005,
@@ -25082,7 +25090,7 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/15026.jpg",
-     "saldo": 971
+     "saldo": 931
     },
     {
      "cod": 14835,
@@ -25576,7 +25584,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/9820.jpg",
-     "saldo": 28
+     "saldo": 35
     },
     {
      "cod": 7045,
@@ -25584,7 +25592,7 @@
      "marca": "",
      "preco": 59.9,
      "img": "produtos/7045.jpg",
-     "saldo": 9
+     "saldo": 4
     },
     {
      "cod": 1366,
@@ -27364,7 +27372,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2723.jpg",
-     "saldo": 283
+     "saldo": 281
     },
     {
      "cod": 2721,
@@ -27492,7 +27500,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 141
+     "saldo": 140
     },
     {
      "cod": 8100,
@@ -27516,7 +27524,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 133
+     "saldo": 73
     },
     {
      "cod": 2737,
@@ -27898,7 +27906,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1762
+     "saldo": 1652
     },
     {
      "cod": 2826,
@@ -27906,7 +27914,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/2826.jpg",
-     "saldo": 169
+     "saldo": 69
     },
     {
      "cod": 2827,
@@ -27914,7 +27922,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/2827.jpg",
-     "saldo": 354
+     "saldo": 184
     },
     {
      "cod": 4362,
@@ -28261,7 +28269,7 @@
      "marca": "MP",
      "preco": 26.9,
      "img": "produtos/14242.jpg",
-     "saldo": 122
+     "saldo": 111
     },
     {
      "cod": 7678,
@@ -28675,7 +28683,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 840
+     "saldo": 839
     },
     {
      "cod": 2900,
@@ -31318,7 +31326,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/4396.jpg",
-     "saldo": 79
+     "saldo": 59
     },
     {
      "cod": 4551,
@@ -33088,7 +33096,7 @@
      "marca": "TRIS",
      "preco": 14.9,
      "img": "produtos/14609.jpg",
-     "saldo": 31,
+     "saldo": 30,
      "controle": [
       "AZUL",
       "PRETO",
@@ -33096,7 +33104,7 @@
       "VERMELHO"
      ],
      "saldo_cor": {
-      "AZUL": 8,
+      "AZUL": 7,
       "PRETO": 7,
       "VERDE": 7,
       "VERMELHO": 9
