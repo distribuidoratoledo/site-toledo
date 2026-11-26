@@ -9712,7 +9712,7 @@
      "marca": "APLICOLA",
      "preco": 2.9,
      "img": "produtos/14419.jpg",
-     "saldo": 1908
+     "saldo": 1906
     },
     {
      "cod": 7904,
@@ -10072,7 +10072,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 19
+     "saldo": 14
     },
     {
      "cod": 1313,
@@ -10134,7 +10134,7 @@
      "marca": "JOCAR",
      "preco": 22.9,
      "img": "produtos/1519.jpg",
-     "saldo": 20
+     "saldo": 10
     },
     {
      "cod": 1520,
@@ -10316,7 +10316,7 @@
      "marca": "MASTERPRIN",
      "preco": 41.9,
      "img": "produtos/6615.jpg",
-     "saldo": 8
+     "saldo": 3
     }
    ]
   },
@@ -10518,7 +10518,7 @@
      "marca": "MAXCRIL",
      "preco": 3.9,
      "img": "produtos/6385.jpg",
-     "saldo": 387
+     "saldo": 377
     },
     {
      "cod": 2640,
@@ -10813,7 +10813,7 @@
      "marca": "JOCAR",
      "preco": 3.9,
      "img": "produtos/7549.jpg",
-     "saldo": 102
+     "saldo": 92
     },
     {
      "cod": 4212,
@@ -10843,7 +10843,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/6613.jpg",
-     "saldo": 86
+     "saldo": 56
     }
    ]
   },
@@ -10873,7 +10873,7 @@
      "marca": "CHAPARRAU",
      "preco": 15.9,
      "img": "produtos/8039.jpg",
-     "saldo": 18
+     "saldo": 3
     },
     {
      "cod": 5156,
@@ -11041,7 +11041,7 @@
      "marca": "ACC",
      "preco": 46.9,
      "img": "produtos/1540.jpg",
-     "saldo": 40
+     "saldo": 35
     },
     {
      "cod": 3480,
@@ -12174,7 +12174,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 895
+     "saldo": 95
     },
     {
      "cod": 2007,
@@ -14499,7 +14499,7 @@
      "marca": "MAXCRIL",
      "preco": 31.9,
      "img": "produtos/1014.jpg",
-     "saldo": 123
+     "saldo": 118
     },
     {
      "cod": 1013,
@@ -16844,7 +16844,7 @@
      "marca": "NX13C/MAST",
      "preco": 3.9,
      "img": "produtos/6634.jpg",
-     "saldo": 406
+     "saldo": 386
     },
     {
      "cod": 6721,
@@ -18835,7 +18835,7 @@
      "marca": "SCRITY",
      "preco": 0.65,
      "img": "produtos/1056.jpg",
-     "saldo": 4970
+     "saldo": 3470
     },
     {
      "cod": 1058,
@@ -19251,7 +19251,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 31
+     "saldo": 1
     }
    ]
   },
@@ -21724,14 +21724,6 @@
    "nome": "Carimbo e Almofada",
    "itens": [
     {
-     "cod": 14383,
-     "nome": "ALMOFADA CARIMBO Nº3 CARBRINCK-AZUL",
-     "marca": "CARBRINCK",
-     "preco": 7.9,
-     "img": "produtos/14383.jpg",
-     "saldo": 8
-    },
-    {
      "cod": 6643,
      "nome": "ALMOFADA CARIMBO NO3 MASTERPRINT",
      "marca": "MASTERPRIN",
@@ -22079,7 +22071,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 1450
+     "saldo": 50
     },
     {
      "cod": 14414,
@@ -22159,7 +22151,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 785
+     "saldo": 755
     },
     {
      "cod": 3342,
@@ -25579,7 +25571,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 2718,
@@ -26708,7 +26700,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 2722
+     "saldo": 2622
     },
     {
      "cod": 1337,
@@ -27126,7 +27118,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 37
+     "saldo": 22
     },
     {
      "cod": 1277,
@@ -27380,7 +27372,7 @@
      "marca": "CIPAPEL",
      "preco": 51.9,
      "img": "produtos/2800.jpg",
-     "saldo": 52
+     "saldo": 55
     },
     {
      "cod": 7012,
@@ -29416,7 +29408,7 @@
      "marca": "MAMUTH",
      "preco": 6.9,
      "img": "produtos/1494.jpg",
-     "saldo": 237
+     "saldo": 187
     },
     {
      "cod": 1495,
@@ -31693,14 +31685,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 296,
+     "saldo": 266,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 296
+       "saldo": 266
       },
       {
        "cod": 6051,
