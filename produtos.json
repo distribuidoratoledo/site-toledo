@@ -7623,7 +7623,7 @@
        "cor": "Azul",
        "nome": "CADERNO CD 96F TILIBRA (AZUL)",
        "img": "produtos/398.jpg",
-       "saldo": 31
+       "saldo": 26
       },
       {
        "cod": 399,
@@ -11601,42 +11601,42 @@
      "marca": "GRIFFE",
      "preco": 1.5,
      "img": "produtos/2032.jpg",
-     "saldo": 199,
+     "saldo": 189,
      "cores": [
       {
        "cod": 2032,
        "cor": "Amarela",
        "nome": "CARTOLINA-AMARELA",
        "img": "produtos/2032.jpg",
-       "saldo": 199
+       "saldo": 189
       },
       {
        "cod": 2033,
        "cor": "Azul",
        "nome": "CARTOLINA-AZUL",
        "img": "produtos/2033.jpg",
-       "saldo": 102
+       "saldo": 92
       },
       {
        "cod": 2034,
        "cor": "Branca",
        "nome": "CARTOLINA-BRANCA",
        "img": "produtos/2034.jpg",
-       "saldo": 190
+       "saldo": 180
       },
       {
        "cod": 2035,
        "cor": "Rosa",
        "nome": "CARTOLINA-ROSA",
        "img": "produtos/2035.jpg",
-       "saldo": 77
+       "saldo": 67
       },
       {
        "cod": 2036,
        "cor": "Verde",
        "nome": "CARTOLINA-VERDE",
        "img": "produtos/2036.jpg",
-       "saldo": 196
+       "saldo": 186
       }
      ]
     },
@@ -20883,7 +20883,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/9226.jpg",
-     "saldo": 1
+     "saldo": 601
     }
    ]
   },
@@ -21487,7 +21487,7 @@
      "marca": "TODOLIVRO",
      "preco": 1.8,
      "img": "produtos/14662.jpg",
-     "saldo": 183
+     "saldo": 179
     },
     {
      "cod": 13557,
@@ -23834,6 +23834,14 @@
      "saldo": 2
     },
     {
+     "cod": 946,
+     "nome": "COPO LISO 300/330ML C/50-COPOZAN",
+     "marca": "COPOZAN",
+     "preco": 7.9,
+     "img": "produtos/946.jpg",
+     "saldo": 6
+    },
+    {
      "cod": 6922,
      "nome": "COPO LISO 300/330ML C/50-ULTRA",
      "marca": "ULTRA",
@@ -25923,7 +25931,7 @@
      "marca": "ABN",
      "preco": 35.9,
      "img": "produtos/7021.jpg",
-     "saldo": 29
+     "saldo": 69
     },
     {
      "cod": 7022,
@@ -25931,7 +25939,7 @@
      "marca": "ABN",
      "preco": 41.9,
      "img": "produtos/7022.jpg",
-     "saldo": 15
+     "saldo": 30
     },
     {
      "cod": 7023,
@@ -26059,7 +26067,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 12
+     "saldo": 24
     },
     {
      "cod": 6986,
@@ -26067,7 +26075,7 @@
      "marca": "ABN",
      "preco": 57.9,
      "img": "produtos/6986.jpg",
-     "saldo": 15
+     "saldo": 27
     },
     {
      "cod": 481,
@@ -26075,7 +26083,7 @@
      "marca": "ABN",
      "preco": 66.9,
      "img": "produtos/481.jpg",
-     "saldo": 14
+     "saldo": 34
     },
     {
      "cod": 6987,
@@ -26083,7 +26091,7 @@
      "marca": "ABN",
      "preco": 87.9,
      "img": "produtos/6987.jpg",
-     "saldo": 14
+     "saldo": 40
     },
     {
      "cod": 10001,
@@ -28634,7 +28642,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 842
+     "saldo": 841
     },
     {
      "cod": 2900,
@@ -31508,7 +31516,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1234
+     "saldo": 1230
     },
     {
      "cod": 2157,
@@ -33556,14 +33564,14 @@
      "marca": "TRIS",
      "preco": 7.9,
      "img": "produtos/14565.jpg",
-     "saldo": 71,
+     "saldo": 70,
      "controle": [
       "AM/LARANJA",
       "AM/ROSA",
       "AM/VERDE"
      ],
      "saldo_cor": {
-      "AM/LARANJA": 24,
+      "AM/LARANJA": 23,
       "AM/ROSA": 24,
       "AM/VERDE": 23
      }
