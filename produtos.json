@@ -7369,7 +7369,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 42
+     "saldo": 38
     },
     {
      "cod": 12978,
@@ -7457,7 +7457,7 @@
      "marca": "SAO DOMING",
      "preco": 22.9,
      "img": "produtos/12979.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 14750,
@@ -7678,7 +7678,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 37
+     "saldo": 26
     },
     {
      "cod": 3244,
@@ -10024,7 +10024,7 @@
      "marca": "ADELBRAS",
      "preco": 8.9,
      "img": "produtos/1019.jpg",
-     "saldo": 124
+     "saldo": 125
     },
     {
      "cod": 1020,
@@ -12118,7 +12118,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 679
+     "saldo": 678
     },
     {
      "cod": 5082,
@@ -14657,7 +14657,7 @@
      "marca": "ACP",
      "preco": 19.9,
      "img": "produtos/1820.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 1821,
@@ -17099,7 +17099,7 @@
        "cor": "Azul Royal",
        "nome": "EVA LISO-AZUL ROYAL",
        "img": "produtos/9161.jpg",
-       "saldo": 54
+       "saldo": 53
       },
       {
        "cod": 1232,
@@ -17127,7 +17127,7 @@
        "cor": "Lilas",
        "nome": "EVA LISO-LILAS",
        "img": "produtos/1236.jpg",
-       "saldo": 221
+       "saldo": 220
       },
       {
        "cod": 1237,
@@ -17338,6 +17338,62 @@
      "saldo": 4
     },
     {
+     "cod": 14950,
+     "nome": "MOCHILA COSTAS LUXCEL-BARBIE SEREIAS ROSA",
+     "marca": "LUXCEL",
+     "preco": 170.9,
+     "img": "produtos/14950.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14951,
+     "nome": "MOCHILA COSTAS LUXCEL-HOMEM ARANHA JACQ. AZUL",
+     "marca": "LUXCEL",
+     "preco": 264.9,
+     "img": "produtos/14951.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14949,
+     "nome": "MOCHILA COSTAS LUXCEL-PATRULHA CHASE AZUL",
+     "marca": "LUXCEL",
+     "preco": 189.9,
+     "img": "produtos/14949.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14948,
+     "nome": "MOCHILA COSTAS LUXCEL-PATRULHA SKYE ROSA",
+     "marca": "LUXCEL",
+     "preco": 189.9,
+     "img": "produtos/14948.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14867,
+     "nome": "MOCHILA COSTAS LUXCEL-SANRIO CINNAMOROLL AZUL",
+     "marca": "LUXCEL",
+     "preco": 321.9,
+     "img": "produtos/14867.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14868,
+     "nome": "MOCHILA COSTAS LUXCEL-SANRIO MY MELODY ROSA",
+     "marca": "LUXCEL",
+     "preco": 321.9,
+     "img": "produtos/14868.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14947,
+     "nome": "MOCHILA COSTAS LUXCEL-STITCH PELUCIA AZUL",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14947.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 12283,
      "nome": "MOCHILA COSTAS MOLIN-LOVE PINK HEART 40235",
      "marca": "MOLIN",
@@ -17480,21 +17536,172 @@
      "saldo": 1
     },
     {
+     "cod": 14844,
+     "nome": "MOCHILA COSTAS LUXCEL-GASH FEM. AZUL",
+     "marca": "LUXCEL",
+     "preco": 283.9,
+     "img": "produtos/14844.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 15006,
+     "nome": "MOCHILA COSTAS LUXCEL-HOT WHEELS",
+     "marca": "LUXCEL",
+     "preco": 208.9,
+     "img": "produtos/15006.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15006,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-HOT WHEELS AZUL",
+       "img": "produtos/15006.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15007,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-HOT WHEELS PRETO",
+       "img": "produtos/15007.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 15011,
+     "nome": "MOCHILA COSTAS LUXCEL-LOUD LOUDER",
+     "marca": "LUXCEL",
+     "preco": 245.9,
+     "img": "produtos/15011.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15011,
+       "cor": "Cinza",
+       "nome": "MOCHILA COSTAS LUXCEL-LOUD LOUDER CINZA",
+       "img": "produtos/15011.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15010,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-LOUD LOUDER PRETO",
+       "img": "produtos/15010.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 15008,
+     "nome": "MOCHILA COSTAS LUXCEL-LOUD NAILON",
+     "marca": "LUXCEL",
+     "preco": 189.9,
+     "img": "produtos/15008.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15008,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-LOUD NAILON AZUL",
+       "img": "produtos/15008.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15009,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-LOUD NAILON PRETO",
+       "img": "produtos/15009.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 15004,
+     "nome": "MOCHILA COSTAS LUXCEL-POLO KING BASIC 18\" PRETO",
+     "marca": "LUXCEL",
+     "preco": 102.9,
+     "img": "produtos/15004.jpg",
+     "saldo": 5
+    },
+    {
      "cod": 12255,
      "nome": "MOCHILA COSTAS LUXCEL-POLO KING FIRST CLASS 18\" PRETO",
      "marca": "LUXCEL",
-     "preco": 260.9,
+     "preco": 234.9,
      "img": "produtos/12255.jpg",
      "saldo": 5
     },
     {
-     "cod": 12262,
+     "cod": 15005,
+     "nome": "MOCHILA COSTAS LUXCEL-POLO KING FIRST CLASS 19\" PRETO",
+     "marca": "LUXCEL",
+     "preco": 219.9,
+     "img": "produtos/15005.jpg",
+     "saldo": 5
+    },
+    {
+     "cod": 15012,
+     "nome": "MOCHILA COSTAS LUXCEL-STITCH BALAO",
+     "marca": "LUXCEL",
+     "preco": 189.9,
+     "img": "produtos/15012.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15012,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-STITCH BALAO AZUL",
+       "img": "produtos/15012.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15013,
+       "cor": "Rosa",
+       "nome": "MOCHILA COSTAS LUXCEL-STITCH BALAO ROSA",
+       "img": "produtos/15013.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 15014,
+     "nome": "MOCHILA COSTAS LUXCEL-STITCH NAILON",
+     "marca": "LUXCEL",
+     "preco": 245.9,
+     "img": "produtos/15014.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15014,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-STITCH NAILON AZUL",
+       "img": "produtos/15014.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15015,
+       "cor": "Violeta",
+       "nome": "MOCHILA COSTAS LUXCEL-STITCH NAILON VIOLETA",
+       "img": "produtos/15015.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14999,
      "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL 17\"",
      "marca": "LUXCEL",
-     "preco": 227.9,
-     "img": "produtos/12262.jpg",
+     "preco": 175.9,
+     "img": "produtos/14999.jpg",
      "saldo": 3,
      "cores": [
+      {
+       "cod": 14999,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL 17\" AZUL",
+       "img": "produtos/14999.jpg",
+       "saldo": 3
+      },
       {
        "cod": 12262,
        "cor": "Bege",
@@ -17508,6 +17715,133 @@
        "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL 17\" PRETO",
        "img": "produtos/12261.jpg",
        "saldo": 4
+      }
+     ]
+    },
+    {
+     "cod": 15000,
+     "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL 18\"",
+     "marca": "LUXCEL",
+     "preco": 219.9,
+     "img": "produtos/15000.jpg",
+     "saldo": 3,
+     "cores": [
+      {
+       "cod": 15000,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL 18\" PRETO",
+       "img": "produtos/15000.jpg",
+       "saldo": 3
+      },
+      {
+       "cod": 15001,
+       "cor": "Rosa",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL 18\" ROSA",
+       "img": "produtos/15001.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14881,
+     "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL",
+     "marca": "LUXCEL",
+     "preco": 264.9,
+     "img": "produtos/14881.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14881,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL PRETO",
+       "img": "produtos/14881.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14883,
+       "cor": "Verde",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL VERDE",
+       "img": "produtos/14883.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14882,
+       "cor": "Violeta",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU CASUAL VIOLETA",
+       "img": "produtos/14882.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 15003,
+     "nome": "MOCHILA COSTAS LUXCEL-UP4YOU FIRST CLASS 18\"",
+     "marca": "LUXCEL",
+     "preco": 278.9,
+     "img": "produtos/15003.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15003,
+       "cor": "Cinza",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU FIRST CLASS 18\" CINZA",
+       "img": "produtos/15003.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15002,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU FIRST CLASS 18\" PRETO",
+       "img": "produtos/15002.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14879,
+     "nome": "MOCHILA COSTAS LUXCEL-UP4YOU JUVENIL NA",
+     "marca": "LUXCEL",
+     "preco": 226.9,
+     "img": "produtos/14879.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14879,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU JUVENIL NA AZUL",
+       "img": "produtos/14879.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14878,
+       "cor": "Preto",
+       "nome": "MOCHILA COSTAS LUXCEL-UP4YOU JUVENIL NA PRETO",
+       "img": "produtos/14878.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14854,
+     "nome": "MOCHILA COSTAS LUXCEL-URBANA STITCH",
+     "marca": "LUXCEL",
+     "preco": 283.9,
+     "img": "produtos/14854.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14854,
+       "cor": "Azul",
+       "nome": "MOCHILA COSTAS LUXCEL-URBANA STITCH AZUL",
+       "img": "produtos/14854.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14855,
+       "cor": "Roxo",
+       "nome": "MOCHILA COSTAS LUXCEL-URBANA STITCH ROXO",
+       "img": "produtos/14855.jpg",
+       "saldo": 1
       }
      ]
     },
@@ -17638,6 +17972,30 @@
      "preco": 169.9,
      "img": "produtos/11325.jpg",
      "saldo": 3
+    },
+    {
+     "cod": 14850,
+     "nome": "MOCHILA MATERNIDADE LUXCEL-GASH NINHO BABY",
+     "marca": "LUXCEL",
+     "preco": 283.9,
+     "img": "produtos/14850.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14850,
+       "cor": "Azul",
+       "nome": "MOCHILA MATERNIDADE LUXCEL-GASH NINHO BABY AZUL",
+       "img": "produtos/14850.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14851,
+       "cor": "Rosa",
+       "nome": "MOCHILA MATERNIDADE LUXCEL-GASH NINHO BABY ROSA",
+       "img": "produtos/14851.jpg",
+       "saldo": 2
+      }
+     ]
     }
    ]
   },
@@ -17670,12 +18028,284 @@
      "saldo": 1
     },
     {
+     "cod": 14945,
+     "nome": "MOCHILA CARRINHO LUXCEL-BARBIE SEREIAS ROSA",
+     "marca": "LUXCEL",
+     "preco": 245.9,
+     "img": "produtos/14945.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14985,
+     "nome": "MOCHILA CARRINHO LUXCEL-HOT WHEELS",
+     "marca": "LUXCEL",
+     "preco": 377.9,
+     "img": "produtos/14985.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14985,
+       "cor": "Azul",
+       "nome": "MOCHILA CARRINHO LUXCEL-HOT WHEELS AZUL",
+       "img": "produtos/14985.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14986,
+       "cor": "Preto",
+       "nome": "MOCHILA CARRINHO LUXCEL-HOT WHEELS PRETO",
+       "img": "produtos/14986.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14987,
+     "nome": "MOCHILA CARRINHO LUXCEL-LOUD PRETO",
+     "marca": "LUXCEL",
+     "preco": 340.9,
+     "img": "produtos/14987.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14984,
+     "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO 4R ROSA",
+     "marca": "LUXCEL",
+     "preco": 548.9,
+     "img": "produtos/14984.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14981,
+     "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO",
+     "marca": "LUXCEL",
+     "preco": 321.9,
+     "img": "produtos/14981.jpg",
+     "saldo": 4,
+     "cores": [
+      {
+       "cod": 14981,
+       "cor": "Azul",
+       "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO AZUL",
+       "img": "produtos/14981.jpg",
+       "saldo": 4
+      },
+      {
+       "cod": 14982,
+       "cor": "Lilas",
+       "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO LILAS",
+       "img": "produtos/14982.jpg",
+       "saldo": 4
+      }
+     ]
+    },
+    {
+     "cod": 14983,
+     "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO NB LILAS",
+     "marca": "LUXCEL",
+     "preco": 415.9,
+     "img": "produtos/14983.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 13660,
      "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA CANINA AZUL (IC42032PA-AZ)",
      "marca": "LUXCEL",
      "preco": 290.0,
      "img": "produtos/13660.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14944,
+     "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA CHASE AZUL",
+     "marca": "LUXCEL",
+     "preco": 302.9,
+     "img": "produtos/14944.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14943,
+     "nome": "MOCHILA CARRINHO LUXCEL-PATRULHA SKYE ROSA",
+     "marca": "LUXCEL",
+     "preco": 302.9,
+     "img": "produtos/14943.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14990,
+     "nome": "MOCHILA CARRINHO LUXCEL-SONIC 4 RODAS AZUL",
+     "marca": "LUXCEL",
+     "preco": 661.9,
+     "img": "produtos/14990.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 14988,
+     "nome": "MOCHILA CARRINHO LUXCEL-SONIC",
+     "marca": "LUXCEL",
+     "preco": 377.9,
+     "img": "produtos/14988.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14988,
+       "cor": "Azul",
+       "nome": "MOCHILA CARRINHO LUXCEL-SONIC AZUL",
+       "img": "produtos/14988.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14989,
+       "cor": "Preto",
+       "nome": "MOCHILA CARRINHO LUXCEL-SONIC PRETO",
+       "img": "produtos/14989.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14946,
+     "nome": "MOCHILA CARRINHO LUXCEL-SPIDEY AZUL",
+     "marca": "LUXCEL",
+     "preco": 415.9,
+     "img": "produtos/14946.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14938,
+     "nome": "MOCHILA CARRINHO LUXCEL-STITCH",
+     "marca": "LUXCEL",
+     "preco": 122.9,
+     "img": "produtos/14938.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14938,
+       "cor": "Azul",
+       "nome": "MOCHILA CARRINHO LUXCEL-STITCH AZUL",
+       "img": "produtos/14938.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14939,
+       "cor": "Rosa",
+       "nome": "MOCHILA CARRINHO LUXCEL-STITCH ROSA",
+       "img": "produtos/14939.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14991,
+     "nome": "MOCHILA CARRINHO LUXCEL-STITCH BALAO",
+     "marca": "LUXCEL",
+     "preco": 377.9,
+     "img": "produtos/14991.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14991,
+       "cor": "Azul",
+       "nome": "MOCHILA CARRINHO LUXCEL-STITCH BALAO AZUL",
+       "img": "produtos/14991.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14992,
+       "cor": "Rosa",
+       "nome": "MOCHILA CARRINHO LUXCEL-STITCH BALAO ROSA",
+       "img": "produtos/14992.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14993,
+     "nome": "MOCHILA CARRINHO LUXCEL-STITCH NAILON",
+     "marca": "LUXCEL",
+     "preco": 548.9,
+     "img": "produtos/14993.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14993,
+       "cor": "Azul",
+       "nome": "MOCHILA CARRINHO LUXCEL-STITCH NAILON AZUL",
+       "img": "produtos/14993.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14994,
+       "cor": "Violeta",
+       "nome": "MOCHILA CARRINHO LUXCEL-STITCH NAILON VIOLETA",
+       "img": "produtos/14994.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14978,
+     "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU ALLBLACK PRETO",
+     "marca": "LUXCEL",
+     "preco": 340.9,
+     "img": "produtos/14978.jpg",
+     "saldo": 12
+    },
+    {
+     "cod": 14940,
+     "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU FUTEBOL PRETO",
+     "marca": "LUXCEL",
+     "preco": 255.9,
+     "img": "produtos/14940.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14977,
+     "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU JACQUARD PRETO",
+     "marca": "LUXCEL",
+     "preco": 264.9,
+     "img": "produtos/14977.jpg",
+     "saldo": 8
+    },
+    {
+     "cod": 14979,
+     "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU SOFT",
+     "marca": "LUXCEL",
+     "preco": 340.9,
+     "img": "produtos/14979.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14979,
+       "cor": "Preto",
+       "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU SOFT PRETO",
+       "img": "produtos/14979.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14980,
+       "cor": "Roxo",
+       "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU SOFT ROXO",
+       "img": "produtos/14980.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14942,
+     "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU T-REX PRETO",
+     "marca": "LUXCEL",
+     "preco": 264.9,
+     "img": "produtos/14942.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14941,
+     "nome": "MOCHILA CARRINHO LUXCEL-UP4YOU URSO MARROM",
+     "marca": "LUXCEL",
+     "preco": 321.9,
+     "img": "produtos/14941.jpg",
+     "saldo": 4
     },
     {
      "cod": 13078,
@@ -17836,6 +18466,85 @@
    "nome": "Bolsa de Viagem/Necesser",
    "itens": [
     {
+     "cod": 14884,
+     "nome": "BOLSA BAU LUXCEL-UP4YOU TOTE NA",
+     "marca": "LUXCEL",
+     "preco": 176.9,
+     "img": "produtos/14884.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14884,
+       "cor": "Preto",
+       "nome": "BOLSA BAÚ LUXCEL-UP4YOU TOTE NA PRETO",
+       "img": "produtos/14884.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14886,
+       "cor": "Verde",
+       "nome": "BOLSA BAÚ LUXCEL-UP4YOU TOTE NA VERDE",
+       "img": "produtos/14886.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14885,
+       "cor": "Violeta",
+       "nome": "BOLSA BAÚ LUXCEL-UP4YOU TOTE NA VIOLETA",
+       "img": "produtos/14885.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14856,
+     "nome": "BOLSA CARTEIRO LUXCEL-STITCH",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14856.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14856,
+       "cor": "Azul",
+       "nome": "BOLSA CARTEIRO LUXCEL-STITCH AZUL",
+       "img": "produtos/14856.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14857,
+       "cor": "Roxo",
+       "nome": "BOLSA CARTEIRO LUXCEL-STITCH ROXO",
+       "img": "produtos/14857.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 15023,
+     "nome": "BOLSA ESPORTIVA LUXCEL-UP4YOU",
+     "marca": "LUXCEL",
+     "preco": 139.9,
+     "img": "produtos/15023.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 15023,
+       "cor": "Preto",
+       "nome": "BOLSA ESPORTIVA LUXCEL-UP4YOU PRETO",
+       "img": "produtos/15023.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 15024,
+       "cor": "Rosa",
+       "nome": "BOLSA ESPORTIVA LUXCEL-UP4YOU ROSA",
+       "img": "produtos/15024.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
      "cod": 10965,
      "nome": "BOLSA FEMININA PAULISTA YC-2395",
      "marca": "CYC",
@@ -17876,6 +18585,258 @@
      "saldo": 1
     },
     {
+     "cod": 14846,
+     "nome": "BOLSA LUXCEL-GASH CHLOE FEM. BEGE",
+     "marca": "LUXCEL",
+     "preco": 205.9,
+     "img": "produtos/14846.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14841,
+     "nome": "BOLSA LUXCEL-GASH REGINA TRANSVERSAL",
+     "marca": "LUXCEL",
+     "preco": 146.9,
+     "img": "produtos/14841.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14841,
+       "cor": "Azul",
+       "nome": "BOLSA LUXCEL-GASH REGINA TRANSVERSAL AZUL",
+       "img": "produtos/14841.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14840,
+       "cor": "Cinza",
+       "nome": "BOLSA LUXCEL-GASH REGINA TRANSVERSAL CINZA",
+       "img": "produtos/14840.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14839,
+       "cor": "Preta",
+       "nome": "BOLSA LUXCEL-GASH REGINA TRANSVERSAL PRETA",
+       "img": "produtos/14839.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14869,
+     "nome": "BOLSA LUXCEL-SANRIO CINNAMOROLL AZUL",
+     "marca": "LUXCEL",
+     "preco": 220.9,
+     "img": "produtos/14869.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14870,
+     "nome": "BOLSA LUXCEL-SANRIO MY MELODY ROSA",
+     "marca": "LUXCEL",
+     "preco": 220.9,
+     "img": "produtos/14870.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14862,
+     "nome": "BOLSA LUXCEL-STITCH MATELASSE",
+     "marca": "LUXCEL",
+     "preco": 146.9,
+     "img": "produtos/14862.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14862,
+       "cor": "Azul",
+       "nome": "BOLSA LUXCEL-STITCH MATELASSE AZUL",
+       "img": "produtos/14862.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14863,
+       "cor": "Roxo",
+       "nome": "BOLSA LUXCEL-STITCH MATELASSE ROXO",
+       "img": "produtos/14863.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14864,
+     "nome": "BOLSA LUXCEL-STITCH SHOULDER",
+     "marca": "LUXCEL",
+     "preco": 102.9,
+     "img": "produtos/14864.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14864,
+       "cor": "Azul",
+       "nome": "BOLSA LUXCEL-STITCH SHOULDER AZUL",
+       "img": "produtos/14864.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14866,
+       "cor": "Roxo",
+       "nome": "BOLSA LUXCEL-STITCH SHOULDER ROXO",
+       "img": "produtos/14866.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14890,
+     "nome": "BOLSA LUXCEL-UP4YOU",
+     "marca": "LUXCEL",
+     "preco": 176.9,
+     "img": "produtos/14890.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14890,
+       "cor": "Azul",
+       "nome": "BOLSA LUXCEL-UP4YOU AZUL",
+       "img": "produtos/14890.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14889,
+       "cor": "Bege",
+       "nome": "BOLSA LUXCEL-UP4YOU BEGE",
+       "img": "produtos/14889.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14888,
+       "cor": "Preto",
+       "nome": "BOLSA LUXCEL-UP4YOU PRETO",
+       "img": "produtos/14888.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14894,
+     "nome": "BOLSA LUXCEL-UP4YOU LUIZA",
+     "marca": "LUXCEL",
+     "preco": 176.9,
+     "img": "produtos/14894.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14894,
+       "cor": "Azul",
+       "nome": "BOLSA LUXCEL-UP4YOU LUIZA AZUL",
+       "img": "produtos/14894.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14893,
+       "cor": "Bege",
+       "nome": "BOLSA LUXCEL-UP4YOU LUIZA BEGE",
+       "img": "produtos/14893.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14892,
+       "cor": "Preto",
+       "nome": "BOLSA LUXCEL-UP4YOU LUIZA PRETO",
+       "img": "produtos/14892.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14875,
+     "nome": "BOLSA LUXCEL-UP4YOU TOTE COLLEGE",
+     "marca": "LUXCEL",
+     "preco": 190.9,
+     "img": "produtos/14875.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14875,
+       "cor": "Azul",
+       "nome": "BOLSA LUXCEL-UP4YOU TOTE COLLEGE AZUL",
+       "img": "produtos/14875.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14874,
+       "cor": "Lilas",
+       "nome": "BOLSA LUXCEL-UP4YOU TOTE COLLEGE LILAS",
+       "img": "produtos/14874.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14873,
+       "cor": "Preto",
+       "nome": "BOLSA LUXCEL-UP4YOU TOTE COLLEGE PRETO",
+       "img": "produtos/14873.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14880,
+     "nome": "BOLSA LUXCEL-UP4YOU TOTE NA AZUL",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14880.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 14887,
+     "nome": "BOLSA LUXCEL-UP4YOU TOTE YOGA ROSA",
+     "marca": "LUXCEL",
+     "preco": 190.9,
+     "img": "produtos/14887.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 14848,
+     "nome": "BOLSA MATERNIDADE LUXCEL-GASH NINHO BABY",
+     "marca": "LUXCEL",
+     "preco": 190.9,
+     "img": "produtos/14848.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14848,
+       "cor": "Azul",
+       "nome": "BOLSA MATERNIDADE LUXCEL-GASH NINHO BABY AZUL",
+       "img": "produtos/14848.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14849,
+       "cor": "Rosa",
+       "nome": "BOLSA MATERNIDADE LUXCEL-GASH NINHO BABY ROSA",
+       "img": "produtos/14849.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14871,
+     "nome": "BOLSA MINI LUXCEL-SANRIO CINNAMOROLL AZUL",
+     "marca": "LUXCEL",
+     "preco": 161.9,
+     "img": "produtos/14871.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14872,
+     "nome": "BOLSA MINI LUXCEL-SANRIO MY MELODY ROSA",
+     "marca": "LUXCEL",
+     "preco": 161.9,
+     "img": "produtos/14872.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 12269,
      "nome": "BOLSA MOCHILA ESPORTIVA LUXCEL-UP4YOU CINZA (BS78821UP-CZ)",
      "marca": "LUXCEL",
@@ -17887,7 +18848,7 @@
      "cod": 12263,
      "nome": "BOLSA MOCHILA ESPORTIVA LUXCEL-UP4YOU",
      "marca": "LUXCEL",
-     "preco": 195.9,
+     "preco": 119.9,
      "img": "produtos/12263.jpg",
      "saldo": 1,
      "cores": [
@@ -17924,11 +18885,99 @@
      "saldo": 1
     },
     {
+     "cod": 14997,
+     "nome": "MALA CARONA LUXCEL-BARBIE ROSA",
+     "marca": "LUXCEL",
+     "preco": 285.9,
+     "img": "produtos/14997.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14995,
+     "nome": "MALA CARONA LUXCEL-PATRULHA CANINA AZUL",
+     "marca": "LUXCEL",
+     "preco": 311.9,
+     "img": "produtos/14995.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14996,
+     "nome": "MALA CARONA LUXCEL-STITCH AZUL",
+     "marca": "LUXCEL",
+     "preco": 311.9,
+     "img": "produtos/14996.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 14998,
+     "nome": "MALA VIAGEM LUXCEL-ENALDINHO PRETO",
+     "marca": "LUXCEL",
+     "preco": 324.9,
+     "img": "produtos/14998.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 15018,
+     "nome": "NECESSAIRE BOLSA LUXCEL-UP4YOU FITNESS PRETO",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/15018.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 15019,
+     "nome": "NECESSAIRE BOX LUXCEL-SANRIO CINNAMOROLL AZUL",
+     "marca": "LUXCEL",
+     "preco": 88.9,
+     "img": "produtos/15019.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 15020,
+     "nome": "NECESSAIRE BOX LUXCEL-SANRIO MY MELODY ROSA",
+     "marca": "LUXCEL",
+     "preco": 88.9,
+     "img": "produtos/15020.jpg",
+     "saldo": 2
+    },
+    {
      "cod": 12893,
      "nome": "NECESSAIRE LUXCEL NUDE NC14640",
      "marca": "LUXCEL",
      "preco": 113.9,
      "img": "produtos/12893.jpg",
+     "saldo": 2
+    },
+    {
+     "cod": 15016,
+     "nome": "NECESSAIRE LUXCEL-POLO KING PRETO",
+     "marca": "LUXCEL",
+     "preco": 54.9,
+     "img": "produtos/15016.jpg",
+     "saldo": 5
+    },
+    {
+     "cod": 15021,
+     "nome": "NECESSAIRE LUXCEL-SANRIO CINNAMOROLL AZUL",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/15021.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 15022,
+     "nome": "NECESSAIRE LUXCEL-SANRIO MY MELODY ROSA",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/15022.jpg",
+     "saldo": 1
+    },
+    {
+     "cod": 15017,
+     "nome": "NECESSAIRE LUXCEL-UP4YOU FITNESS ROSA",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/15017.jpg",
      "saldo": 2
     },
     {
@@ -17946,6 +18995,14 @@
      "preco": 104.9,
      "img": "produtos/13331.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14930,
+     "nome": "PASTA NOTEBOOK LUXCEL-POLO KING PRETO",
+     "marca": "LUXCEL",
+     "preco": 117.9,
+     "img": "produtos/14930.jpg",
+     "saldo": 5
     },
     {
      "cod": 8982,
@@ -17993,6 +19050,166 @@
    "slug": "estojo",
    "nome": "Estojo",
    "itens": [
+    {
+     "cod": 14899,
+     "nome": "ESTOJO BOX LUXCEL-BARBIE ESTAMPADO ROSA",
+     "marca": "LUXCEL",
+     "preco": 80.9,
+     "img": "produtos/14899.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14901,
+     "nome": "ESTOJO BOX LUXCEL-BARBIE SEREIAS ROSA",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14901.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14902,
+     "nome": "ESTOJO BOX LUXCEL-HOMEM ARANHA AZUL",
+     "marca": "LUXCEL",
+     "preco": 80.9,
+     "img": "produtos/14902.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14910,
+     "nome": "ESTOJO BOX LUXCEL-HOMEM ARANHA JACQUARD AZUL",
+     "marca": "LUXCEL",
+     "preco": 73.9,
+     "img": "produtos/14910.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14903,
+     "nome": "ESTOJO BOX LUXCEL-HOMEM ARANHA SPIDEY AZUL",
+     "marca": "LUXCEL",
+     "preco": 80.9,
+     "img": "produtos/14903.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14918,
+     "nome": "ESTOJO BOX LUXCEL-HOT WHEELS HW PRETO",
+     "marca": "LUXCEL",
+     "preco": 88.9,
+     "img": "produtos/14918.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14897,
+     "nome": "ESTOJO BOX LUXCEL-PATRULHA CANINA CHASE AZUL",
+     "marca": "LUXCEL",
+     "preco": 73.9,
+     "img": "produtos/14897.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14896,
+     "nome": "ESTOJO BOX LUXCEL-PATRULHA CANINA SKYE ROSA",
+     "marca": "LUXCEL",
+     "preco": 73.9,
+     "img": "produtos/14896.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14919,
+     "nome": "ESTOJO BOX LUXCEL-SONIC",
+     "marca": "LUXCEL",
+     "preco": 80.9,
+     "img": "produtos/14919.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14919,
+       "cor": "Azul",
+       "nome": "ESTOJO BOX LUXCEL-SONIC AZUL",
+       "img": "produtos/14919.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14920,
+       "cor": "Preto",
+       "nome": "ESTOJO BOX LUXCEL-SONIC PRETO",
+       "img": "produtos/14920.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14921,
+     "nome": "ESTOJO BOX LUXCEL-SONIC FACE AZUL",
+     "marca": "LUXCEL",
+     "preco": 88.9,
+     "img": "produtos/14921.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14923,
+     "nome": "ESTOJO BOX LUXCEL-SONIC RELEVO AZUL",
+     "marca": "LUXCEL",
+     "preco": 80.9,
+     "img": "produtos/14923.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14924,
+     "nome": "ESTOJO BOX LUXCEL-STITCH BALAO",
+     "marca": "LUXCEL",
+     "preco": 80.9,
+     "img": "produtos/14924.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14924,
+       "cor": "Azul",
+       "nome": "ESTOJO BOX LUXCEL-STITCH BALAO AZUL",
+       "img": "produtos/14924.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14925,
+       "cor": "Rosa",
+       "nome": "ESTOJO BOX LUXCEL-STITCH BALAO ROSA",
+       "img": "produtos/14925.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14911,
+     "nome": "ESTOJO BOX LUXCEL-UP4YOU EMBORRACHADO",
+     "marca": "LUXCEL",
+     "preco": 66.9,
+     "img": "produtos/14911.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14911,
+       "cor": "Azul",
+       "nome": "ESTOJO BOX LUXCEL-UP4YOU EMBORRACHADO AZUL",
+       "img": "produtos/14911.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14912,
+       "cor": "Preto",
+       "nome": "ESTOJO BOX LUXCEL-UP4YOU EMBORRACHADO PRETO",
+       "img": "produtos/14912.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14895,
+     "nome": "ESTOJO BOX LUXCEL-UP4YOU T-REX DANGER PRETO",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14895.jpg",
+     "saldo": 4
+    },
     {
      "cod": 13303,
      "nome": "ESTOJO BOX XERYUS-PATRULHA CANINA SE",
@@ -18114,6 +19331,14 @@
      "saldo": 2
     },
     {
+     "cod": 14913,
+     "nome": "ESTOJO DUPLO LUXCEL-UP4YOU ALL BLACK PRETO",
+     "marca": "LUXCEL",
+     "preco": 29.9,
+     "img": "produtos/14913.jpg",
+     "saldo": 12
+    },
+    {
      "cod": 13445,
      "nome": "ESTOJO LUXCEL 1F-UP4YOU ROXO (ET49665UP-RX)",
      "marca": "LUXCEL",
@@ -18152,6 +19377,14 @@
      "preco": 64.9,
      "img": "produtos/13325.jpg",
      "saldo": 3
+    },
+    {
+     "cod": 14900,
+     "nome": "ESTOJO LUXCEL 3F-BARBIE ESTAMPADO ROSA",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14900.jpg",
+     "saldo": 4
     },
     {
      "cod": 13299,
@@ -18354,6 +19587,110 @@
      "saldo": 1
     },
     {
+     "cod": 14916,
+     "nome": "ESTOJO TRIPLO LUXCEL-HOT WHEELS",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14916.jpg",
+     "saldo": 4,
+     "cores": [
+      {
+       "cod": 14916,
+       "cor": "Azul",
+       "nome": "ESTOJO TRIPLO LUXCEL-HOT WHEELS AZUL",
+       "img": "produtos/14916.jpg",
+       "saldo": 4
+      },
+      {
+       "cod": 14917,
+       "cor": "Preto",
+       "nome": "ESTOJO TRIPLO LUXCEL-HOT WHEELS PRETO",
+       "img": "produtos/14917.jpg",
+       "saldo": 4
+      }
+     ]
+    },
+    {
+     "cod": 14922,
+     "nome": "ESTOJO TRIPLO LUXCEL-SONIC FACE AZUL",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14922.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14926,
+     "nome": "ESTOJO TRIPLO LUXCEL-STITCH BALAO",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14926.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14926,
+       "cor": "Azul",
+       "nome": "ESTOJO TRIPLO LUXCEL-STITCH BALAO AZUL",
+       "img": "produtos/14926.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14927,
+       "cor": "Rosa",
+       "nome": "ESTOJO TRIPLO LUXCEL-STITCH BALAO ROSA",
+       "img": "produtos/14927.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14928,
+     "nome": "ESTOJO TRIPLO LUXCEL-STITCH NAILON",
+     "marca": "LUXCEL",
+     "preco": 58.9,
+     "img": "produtos/14928.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14928,
+       "cor": "Azul",
+       "nome": "ESTOJO TRIPLO LUXCEL-STITCH NAILON AZUL",
+       "img": "produtos/14928.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14929,
+       "cor": "Violeta",
+       "nome": "ESTOJO TRIPLO LUXCEL-STITCH NAILON VIOLETA",
+       "img": "produtos/14929.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14914,
+     "nome": "ESTOJO TRIPLO LUXCEL-UP4YOU SOFT",
+     "marca": "LUXCEL",
+     "preco": 36.9,
+     "img": "produtos/14914.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14914,
+       "cor": "Preto",
+       "nome": "ESTOJO TRIPLO LUXCEL-UP4YOU SOFT PRETO",
+       "img": "produtos/14914.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14915,
+       "cor": "Roxo",
+       "nome": "ESTOJO TRIPLO LUXCEL-UP4YOU SOFT ROXO",
+       "img": "produtos/14915.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
      "cod": 12587,
      "nome": "ESTOJO XERYUS 1F-TRENDY TROPICOS-12573",
      "marca": "XERYUS",
@@ -18432,12 +19769,68 @@
      "saldo": 1
     },
     {
+     "cod": 14957,
+     "nome": "LANCHEIRA LUXCEL-BARBIE SEREIAS ROSA",
+     "marca": "LUXCEL",
+     "preco": 94.9,
+     "img": "produtos/14957.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 8632,
      "nome": "LANCHEIRA LUXCEL-BORUTO LARANJA (LA39613BR-LA)",
      "marca": "LUXCEL",
      "preco": 49.9,
      "img": "produtos/8632.jpg",
      "saldo": 2
+    },
+    {
+     "cod": 14958,
+     "nome": "LANCHEIRA LUXCEL-HOMEM ARANHA JACQUARD AZUL",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14958.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14964,
+     "nome": "LANCHEIRA LUXCEL-HOT WHEELS",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14964.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14964,
+       "cor": "Azul",
+       "nome": "LANCHEIRA LUXCEL-HOT WHEELS AZUL",
+       "img": "produtos/14964.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14965,
+       "cor": "Preto",
+       "nome": "LANCHEIRA LUXCEL-HOT WHEELS PRETO",
+       "img": "produtos/14965.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14966,
+     "nome": "LANCHEIRA LUXCEL-HOT WHEELS HW PRETO",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14966.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14967,
+     "nome": "LANCHEIRA LUXCEL-LOUD PRETO",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14967.jpg",
+     "saldo": 8
     },
     {
      "cod": 13664,
@@ -18456,12 +19849,92 @@
      "saldo": 1
     },
     {
+     "cod": 14956,
+     "nome": "LANCHEIRA LUXCEL-PATRULHA CHASE AZUL",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14956.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14955,
+     "nome": "LANCHEIRA LUXCEL-PATRULHA SKYE ROSA",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14955.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 13351,
      "nome": "LANCHEIRA LUXCEL-SONIC AZUL (LA49833SO-AZ)",
      "marca": "LUXCEL",
      "preco": 113.9,
      "img": "produtos/13351.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14968,
+     "nome": "LANCHEIRA LUXCEL-SONIC FACE AZUL",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14968.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14969,
+     "nome": "LANCHEIRA LUXCEL-SONIC RELEVO AZUL",
+     "marca": "LUXCEL",
+     "preco": 151.9,
+     "img": "produtos/14969.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14970,
+     "nome": "LANCHEIRA LUXCEL-STITCH BALAO",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14970.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14970,
+       "cor": "Azul",
+       "nome": "LANCHEIRA LUXCEL-STITCH BALAO AZUL",
+       "img": "produtos/14970.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14971,
+       "cor": "Rosa",
+       "nome": "LANCHEIRA LUXCEL-STITCH BALAO ROSA",
+       "img": "produtos/14971.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14972,
+     "nome": "LANCHEIRA LUXCEL-STITCH NAILON",
+     "marca": "LUXCEL",
+     "preco": 132.9,
+     "img": "produtos/14972.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14972,
+       "cor": "Azul",
+       "nome": "LANCHEIRA LUXCEL-STITCH NAILON AZUL",
+       "img": "produtos/14972.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14973,
+       "cor": "Violeta",
+       "nome": "LANCHEIRA LUXCEL-STITCH NAILON VIOLETA",
+       "img": "produtos/14973.jpg",
+       "saldo": 2
+      }
+     ]
     },
     {
      "cod": 12880,
@@ -18480,6 +19953,14 @@
      "saldo": 2
     },
     {
+     "cod": 14960,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU ALL BLACK PRETO",
+     "marca": "LUXCEL",
+     "preco": 94.9,
+     "img": "produtos/14960.jpg",
+     "saldo": 16
+    },
+    {
      "cod": 12508,
      "nome": "LANCHEIRA LUXCEL-UP4YOU AZUL (LA49634UP-AZ)",
      "marca": "LUXCEL",
@@ -18496,12 +19977,99 @@
      "saldo": 1
     },
     {
+     "cod": 14976,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU CASUAL",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14976.jpg",
+     "saldo": 1,
+     "cores": [
+      {
+       "cod": 14976,
+       "cor": "Azul",
+       "nome": "LANCHEIRA LUXCEL-UP4YOU CASUAL AZUL",
+       "img": "produtos/14976.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14975,
+       "cor": "Lilas",
+       "nome": "LANCHEIRA LUXCEL-UP4YOU CASUAL LILAS",
+       "img": "produtos/14975.jpg",
+       "saldo": 1
+      },
+      {
+       "cod": 14974,
+       "cor": "Preto",
+       "nome": "LANCHEIRA LUXCEL-UP4YOU CASUAL PRETO",
+       "img": "produtos/14974.jpg",
+       "saldo": 1
+      }
+     ]
+    },
+    {
+     "cod": 14952,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU FUTEBOL PRETO",
+     "marca": "LUXCEL",
+     "preco": 75.9,
+     "img": "produtos/14952.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14963,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU LULUZINHO AZUL",
+     "marca": "LUXCEL",
+     "preco": 113.9,
+     "img": "produtos/14963.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 12877,
      "nome": "LANCHEIRA LUXCEL-UP4YOU PRETA (LA49644UP-PT)",
      "marca": "LUXCEL",
      "preco": 81.9,
      "img": "produtos/12877.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14961,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU SOFT",
+     "marca": "LUXCEL",
+     "preco": 94.9,
+     "img": "produtos/14961.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 14961,
+       "cor": "Preto",
+       "nome": "LANCHEIRA LUXCEL-UP4YOU SOFT PRETO",
+       "img": "produtos/14961.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 14962,
+       "cor": "Roxo",
+       "nome": "LANCHEIRA LUXCEL-UP4YOU SOFT ROXO",
+       "img": "produtos/14962.jpg",
+       "saldo": 2
+      }
+     ]
+    },
+    {
+     "cod": 14954,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU T-REX PRETO",
+     "marca": "LUXCEL",
+     "preco": 94.9,
+     "img": "produtos/14954.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 14953,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU URSO MARROM",
+     "marca": "LUXCEL",
+     "preco": 94.9,
+     "img": "produtos/14953.jpg",
+     "saldo": 4
     },
     {
      "cod": 12506,
@@ -18670,6 +20238,14 @@
      "preco": 119.9,
      "img": "produtos/11019.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 14959,
+     "nome": "LANCHEIRA SLIM LUXCEL-UP4YOU ALL BLACK PRETO",
+     "marca": "LUXCEL",
+     "preco": 56.9,
+     "img": "produtos/14959.jpg",
+     "saldo": 4
     },
     {
      "cod": 8528,
@@ -18977,14 +20553,14 @@
      "marca": "PROLAM",
      "preco": 7.9,
      "img": "produtos/660.jpg",
-     "saldo": 195,
+     "saldo": 194,
      "cores": [
       {
        "cod": 660,
        "cor": "Cristal",
        "nome": "CAPA ENCADERNAÇAO A4 C/10 CRISTAL",
        "img": "produtos/660.jpg",
-       "saldo": 195
+       "saldo": 194
       },
       {
        "cod": 661,
@@ -22103,7 +23679,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5802
+     "saldo": 5801
     },
     {
      "cod": 944,
@@ -23173,7 +24749,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3536.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 3989,
@@ -23243,7 +24819,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1348
+     "saldo": 1347
     },
     {
      "cod": 11964,
@@ -23315,7 +24891,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 866
+     "saldo": 865
     },
     {
      "cod": 1444,
@@ -24165,7 +25741,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1090
+     "saldo": 1086
     },
     {
      "cod": 2552,
@@ -24577,7 +26153,7 @@
      "marca": "BRASIPEL",
      "preco": 2.9,
      "img": "produtos/3951.jpg",
-     "saldo": 316
+     "saldo": 314
     },
     {
      "cod": 14268,
@@ -24687,7 +26263,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/39.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 13605,
@@ -25085,7 +26661,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 203
+     "saldo": 202
     },
     {
      "cod": 7305,
@@ -25314,6 +26890,78 @@
      "preco": 92.9,
      "img": "produtos/1452.jpg",
      "saldo": 39
+    },
+    {
+     "cod": 14933,
+     "nome": "GARRAFA INOX 500ML LUXCEL-SPIDEY AZUL",
+     "marca": "LUXCEL",
+     "preco": 68.9,
+     "img": "produtos/14933.jpg",
+     "saldo": 12
+    },
+    {
+     "cod": 14937,
+     "nome": "GARRAFA INOX 600ML LUXCEL-STITCH AZUL",
+     "marca": "LUXCEL",
+     "preco": 102.9,
+     "img": "produtos/14937.jpg",
+     "saldo": 6
+    },
+    {
+     "cod": 14936,
+     "nome": "GARRAFA INOX 600ML LUXCEL-UP4YOU",
+     "marca": "LUXCEL",
+     "preco": 90.9,
+     "img": "produtos/14936.jpg",
+     "saldo": 6,
+     "cores": [
+      {
+       "cod": 14936,
+       "cor": "Branco",
+       "nome": "GARRAFA INOX 600ML LUXCEL-UP4YOU BRANCO",
+       "img": "produtos/14936.jpg",
+       "saldo": 6
+      },
+      {
+       "cod": 14935,
+       "cor": "Verde",
+       "nome": "GARRAFA INOX 600ML LUXCEL-UP4YOU VERDE",
+       "img": "produtos/14935.jpg",
+       "saldo": 6
+      }
+     ]
+    },
+    {
+     "cod": 14934,
+     "nome": "GARRAFA INOX 750ML LUXCEL-LOUD PRETO",
+     "marca": "LUXCEL",
+     "preco": 75.9,
+     "img": "produtos/14934.jpg",
+     "saldo": 6
+    },
+    {
+     "cod": 14931,
+     "nome": "GARRAFA INOX 800ML LUXCEL-UP4YOU",
+     "marca": "LUXCEL",
+     "preco": 105.9,
+     "img": "produtos/14931.jpg",
+     "saldo": 6,
+     "cores": [
+      {
+       "cod": 14931,
+       "cor": "Azul",
+       "nome": "GARRAFA INOX 800ML LUXCEL-UP4YOU AZUL",
+       "img": "produtos/14931.jpg",
+       "saldo": 6
+      },
+      {
+       "cod": 14932,
+       "cor": "Preto",
+       "nome": "GARRAFA INOX 800ML LUXCEL-UP4YOU PRETO",
+       "img": "produtos/14932.jpg",
+       "saldo": 6
+      }
+     ]
     },
     {
      "cod": 14678,
@@ -25643,7 +27291,7 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 107
+     "saldo": 106
     },
     {
      "cod": 2720,
@@ -26724,7 +28372,7 @@
      "marca": "",
      "preco": 49.9,
      "img": "produtos/6966.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 4427,
@@ -27010,7 +28658,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 62
+     "saldo": 61
     }
    ]
   },
@@ -29828,7 +31476,7 @@
      "marca": "YURI",
      "preco": 5.9,
      "img": "produtos/2154.jpg",
-     "saldo": 235
+     "saldo": 234
     },
     {
      "cod": 2152,
