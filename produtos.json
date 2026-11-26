@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 695,
+     "saldo": 645,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 695
+       "saldo": 645
       },
       {
        "cod": 553,
@@ -318,14 +318,6 @@
      "preco": 29.9,
      "img": "produtos/10588.jpg",
      "saldo": 1
-    },
-    {
-     "cod": 14667,
-     "nome": "CANETA CIS RETRO-MARKER HOP",
-     "marca": "CIS",
-     "preco": 6.9,
-     "img": "produtos/14667.jpg",
-     "saldo": 72
     },
     {
      "cod": 5300,
@@ -3439,14 +3431,14 @@
      "marca": "PILOT",
      "preco": 14.9,
      "img": "produtos/2346.jpg",
-     "saldo": 38,
+     "saldo": 37,
      "cores": [
       {
        "cod": 2346,
        "cor": "Azul",
        "nome": "PINCEL Q.BRC RECAR.PILOT-AZUL (WBM-7)",
        "img": "produtos/2346.jpg",
-       "saldo": 38
+       "saldo": 37
       },
       {
        "cod": 2347,
@@ -8924,7 +8916,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/785.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 788,
@@ -8940,7 +8932,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/793.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 798,
@@ -9258,7 +9250,7 @@
      "marca": "",
      "preco": 8.9,
      "img": "produtos/2664.jpg",
-     "saldo": 8
+     "saldo": 6
     },
     {
      "cod": 2666,
@@ -9720,7 +9712,7 @@
      "marca": "APLICOLA",
      "preco": 2.9,
      "img": "produtos/14419.jpg",
-     "saldo": 1906
+     "saldo": 1904
     },
     {
      "cod": 7904,
@@ -9838,7 +9830,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 710
+     "saldo": 690
     },
     {
      "cod": 4438,
@@ -9954,7 +9946,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 476
+     "saldo": 470
     },
     {
      "cod": 1293,
@@ -10080,7 +10072,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 9
+     "saldo": 4
     },
     {
      "cod": 1313,
@@ -10993,7 +10985,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 26
+     "saldo": 18
     },
     {
      "cod": 3479,
@@ -11894,7 +11886,7 @@
        "cor": "Azul Claro",
        "nome": "CREPOM AZUL CLARO",
        "img": "produtos/2069.jpg",
-       "saldo": 53
+       "saldo": 50
       },
       {
        "cod": 2070,
@@ -12166,7 +12158,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1031
+     "saldo": 1021
     },
     {
      "cod": 9052,
@@ -17233,7 +17225,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3060.jpg",
-     "saldo": 474
+     "saldo": 473
     },
     {
      "cod": 14800,
@@ -18875,6 +18867,14 @@
        "saldo": 1
       }
      ]
+    },
+    {
+     "cod": 1585,
+     "nome": "BOLSA TERMICA (FRENTE) LANCHE/PIZZA",
+     "marca": "PLENITUDE",
+     "preco": 155.0,
+     "img": "produtos/1585.jpg",
+     "saldo": 5
     },
     {
      "cod": 5040,
@@ -21345,7 +21345,7 @@
      "marca": "",
      "preco": 1.0,
      "img": "produtos/2616.jpg",
-     "saldo": 59
+     "saldo": 57
     },
     {
      "cod": 11833,
@@ -24733,7 +24733,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 210
+     "saldo": 209
     },
     {
      "cod": 4146,
@@ -24749,7 +24749,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 205
+     "saldo": 204
     },
     {
      "cod": 3887,
@@ -26177,7 +26177,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 424
+     "saldo": 423
     },
     {
      "cod": 3951,
@@ -26709,7 +26709,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/1995.jpg",
-     "saldo": 107
+     "saldo": 106
     },
     {
      "cod": 1999,
@@ -26891,7 +26891,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/5909.jpg",
-     "saldo": 18
+     "saldo": 17
     }
    ]
   },
@@ -28074,7 +28074,7 @@
        "cor": "Vermelha",
        "nome": "SACOLA PH 25X35 C/50-VERMELHA",
        "img": "produtos/9880.jpg",
-       "saldo": 6
+       "saldo": 5
       }
      ]
     },
@@ -28133,7 +28133,7 @@
        "cor": "Verde Claro",
        "nome": "SACOLA PH 30X40 C/50-VERDE CLARO",
        "img": "produtos/2858.jpg",
-       "saldo": 14
+       "saldo": 13
       },
       {
        "cod": 2859,
@@ -29701,7 +29701,7 @@
        "cor": "Verde Claro",
        "nome": "FITILHO 50MT VERDE CLARO",
        "img": "produtos/1330.jpg",
-       "saldo": 4
+       "saldo": 3
       },
       {
        "cod": 1331,
@@ -30394,7 +30394,7 @@
      "marca": "GERSELE",
      "preco": 1.0,
      "img": "produtos/2776.jpg",
-     "saldo": 342
+     "saldo": 340
     },
     {
      "cod": 2777,
@@ -31532,7 +31532,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1227
+     "saldo": 1225
     },
     {
      "cod": 2157,
