@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1937
+       "saldo": 1936
       },
       {
        "cod": 554,
@@ -2641,7 +2641,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 2660
+     "saldo": 2657
     },
     {
      "cod": 14124,
@@ -3703,7 +3703,7 @@
      "marca": "FABER",
      "preco": 4.9,
      "img": "produtos/4463.jpg",
-     "saldo": 548
+     "saldo": 547
     },
     {
      "cod": 1509,
@@ -3879,7 +3879,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14555.jpg",
-     "saldo": 43,
+     "saldo": 42,
      "controle": [
       "AZUL",
       "CINZA",
@@ -3889,7 +3889,7 @@
      "saldo_cor": {
       "AZUL": 11,
       "CINZA": 10,
-      "PRETO": 11,
+      "PRETO": 10,
       "VERMELHO": 11
      }
     },
@@ -4241,7 +4241,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1955
+     "saldo": 1952
     },
     {
      "cod": 4341,
@@ -4699,7 +4699,7 @@
      "marca": "TILIBRA",
      "preco": 45.9,
      "img": "produtos/6039.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 14276,
@@ -5955,7 +5955,15 @@
      "marca": "CADERSIL",
      "preco": 27.9,
      "img": "produtos/12861.jpg",
-     "saldo": 6
+     "saldo": 5
+    },
+    {
+     "cod": 8143,
+     "nome": "CADERNO 1X1 80F-COLEG. HAPPEN",
+     "marca": "SD",
+     "preco": 26.9,
+     "img": "produtos/8143.jpg",
+     "saldo": 1
     },
     {
      "cod": 12794,
@@ -6407,7 +6415,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/12963.jpg",
-     "saldo": 56
+     "saldo": 54
     },
     {
      "cod": 351,
@@ -6487,7 +6495,7 @@
      "marca": "TILIBRA",
      "preco": 29.9,
      "img": "produtos/5604.jpg",
-     "saldo": 32
+     "saldo": 29
     },
     {
      "cod": 11440,
@@ -8988,7 +8996,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/782.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 787,
@@ -10072,7 +10080,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 14
+     "saldo": 9
     },
     {
      "cod": 1313,
@@ -12158,7 +12166,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1033
+     "saldo": 1032
     },
     {
      "cod": 9052,
@@ -12556,7 +12564,7 @@
      "marca": "USAPEL",
      "preco": 22.9,
      "img": "produtos/7337.jpg",
-     "saldo": 5
+     "saldo": 3
     },
     {
      "cod": 7335,
@@ -15184,7 +15192,7 @@
      "marca": "MASTERPRIN",
      "preco": 39.9,
      "img": "produtos/6627.jpg",
-     "saldo": 36
+     "saldo": 35
     }
    ]
   },
@@ -16355,7 +16363,7 @@
      "marca": "POLIBRAS",
      "preco": 69.9,
      "img": "produtos/2268.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 2274,
@@ -16636,7 +16644,7 @@
      "marca": "",
      "preco": 2.8,
      "img": "produtos/1139.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 3390,
@@ -16668,7 +16676,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/7200.jpg",
-     "saldo": 112
+     "saldo": 110
     },
     {
      "cod": 7201,
@@ -16676,7 +16684,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 79
+     "saldo": 77
     },
     {
      "cod": 13124,
@@ -20545,7 +20553,7 @@
      "marca": "USA FOLIEN",
      "preco": 10.9,
      "img": "produtos/8715.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 660,
@@ -21329,7 +21337,7 @@
      "marca": "",
      "preco": 19.9,
      "img": "produtos/8808.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 2616,
@@ -23847,7 +23855,7 @@
      "marca": "ULTRA",
      "preco": 12.9,
      "img": "produtos/3338.jpg",
-     "saldo": 309
+     "saldo": 307
     },
     {
      "cod": 953,
@@ -24445,7 +24453,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 40
+     "saldo": 39
     },
     {
      "cod": 7364,
@@ -24597,7 +24605,7 @@
      "marca": "COPOPLAST",
      "preco": 49.9,
      "img": "produtos/3924.jpg",
-     "saldo": 34
+     "saldo": 33
     },
     {
      "cod": 3947,
@@ -24819,7 +24827,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/8361.jpg",
-     "saldo": 1347
+     "saldo": 1342
     },
     {
      "cod": 11964,
@@ -24891,7 +24899,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4274.jpg",
-     "saldo": 865
+     "saldo": 862
     },
     {
      "cod": 1444,
@@ -25458,6 +25466,14 @@
      "saldo": 2
     },
     {
+     "cod": 5067,
+     "nome": "FORMA GO933 C/10 (BARCA MEDIA)",
+     "marca": "GALVANOTEK",
+     "preco": 48.9,
+     "img": "produtos/5067.jpg",
+     "saldo": 1
+    },
+    {
      "cod": 14015,
      "nome": "FORMA PF742 C/10 (250ML)",
      "marca": "",
@@ -25591,7 +25607,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/1367.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 14322,
@@ -25733,7 +25749,7 @@
      "marca": "",
      "preco": 2.0,
      "img": "produtos/2550.jpg",
-     "saldo": 3239
+     "saldo": 3219
     },
     {
      "cod": 3857,
@@ -25741,7 +25757,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1086
+     "saldo": 1076
     },
     {
      "cod": 2552,
@@ -25765,7 +25781,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 1489
+     "saldo": 1469
     },
     {
      "cod": 11873,
@@ -25963,7 +25979,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/14664.jpg",
-     "saldo": 7
+     "saldo": 8
     },
     {
      "cod": 14666,
@@ -25971,7 +25987,7 @@
      "marca": "",
      "preco": 38.9,
      "img": "produtos/14666.jpg",
-     "saldo": 4
+     "saldo": 5
     },
     {
      "cod": 9056,
@@ -26161,7 +26177,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 2368
+     "saldo": 2358
     },
     {
      "cod": 1553,
@@ -26177,7 +26193,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/11295.jpg",
-     "saldo": 90
+     "saldo": 85
     },
     {
      "cod": 14698,
@@ -26661,7 +26677,7 @@
      "marca": "BOMPACK",
      "preco": 1.0,
      "img": "produtos/7237.jpg",
-     "saldo": 202
+     "saldo": 192
     },
     {
      "cod": 7305,
@@ -27731,7 +27747,7 @@
      "marca": "",
      "preco": 1.9,
      "img": "produtos/7178.jpg",
-     "saldo": 54
+     "saldo": 34
     },
     {
      "cod": 7176,
@@ -28758,7 +28774,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 175
+     "saldo": 173
     },
     {
      "cod": 10990,
@@ -31484,7 +31500,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 130
+     "saldo": 129
     },
     {
      "cod": 2153,
@@ -33524,7 +33540,7 @@
      "marca": "TRIS",
      "preco": 1.5,
      "img": "produtos/11735.jpg",
-     "saldo": 120,
+     "saldo": 114,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -33534,12 +33550,12 @@
       "VERDE"
      ],
      "saldo_cor": {
-      "AMARELO": 21,
-      "AZUL": 19,
-      "LARANJA": 22,
-      "LILAS": 19,
-      "ROSA": 19,
-      "VERDE": 20
+      "AMARELO": 20,
+      "AZUL": 18,
+      "LARANJA": 21,
+      "LILAS": 18,
+      "ROSA": 18,
+      "VERDE": 19
      }
     },
     {
