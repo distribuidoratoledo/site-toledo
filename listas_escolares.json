@@ -13883,6 +13883,274 @@
    ]
   },
   {
+   "id": "virtusdei",
+   "nome": "Colégio Virtus Dei",
+   "listas": [
+    {
+     "original": "listas/originais/virtusdei-ano1.pdf",
+     "id": "virtusdei-ano1",
+     "ano": "1º Ano",
+     "orcamento": 666351,
+     "itens": [
+      {
+       "descricao": "Cadernos grandes, capa dura, brochura, com pauta, 96 folhas (Língua Portuguesa, Matemática, Latim, Virtudes e Inglês)",
+       "qtd": 5,
+       "cod": 8885,
+       "produto": "CADERNO CD 96F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 11.9,
+       "obs": "Caderno capa dura Credeal 96 folhas. Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/8885.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Cadernos grandes, capa dura, brochura, com pauta, 60 folhas (Ciências, Geografia, História, Música, Ensino Religioso)",
+       "qtd": 5,
+       "cod": 10906,
+       "produto": "CADERNO CD 80F CREDEAL (AZUL)",
+       "marca": "CREDEAL",
+       "preco": 9.9,
+       "obs": "Caderno capa dura Credeal 80 folhas (o de 60 folhas não é fabricado). Cor de amostra: escolha a cor desejada.",
+       "foto": "listas/fotos/10906.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Caderno de caligrafia (específico para o 1º ano)",
+       "qtd": 1,
+       "cod": 13538,
+       "produto": "CADERNO CALIGRAFIA 40F-FORONI",
+       "marca": "FORONI",
+       "preco": 3.9,
+       "obs": "Caderno de caligrafia Foroni 40 folhas.",
+       "foto": "listas/fotos/13538.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Pasta catálogo com 50 plásticos, A4 *",
+       "qtd": 1,
+       "cod": 6195,
+       "produto": "PASTA CATALOGO PRETA C/50",
+       "marca": "ACP",
+       "preco": 25.9,
+       "obs": "Entregar na secretaria da escola, identificado, de 21/12/2026 a 29/01/2027.",
+       "foto": "listas/fotos/6195.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Pasta de aba fina plástica com elástico, para atividades e comunicados *",
+       "qtd": 1,
+       "cod": 2231,
+       "produto": "PASTA PP 1CM-CRISTAL",
+       "preco": 3.5,
+       "obs": "Entregar na secretaria da escola, identificado, de 21/12/2026 a 29/01/2027.",
+       "foto": "listas/fotos/2231.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Pacote de papel sulfite A4, 500 folhas *",
+       "qtd": 2,
+       "cod": 2014,
+       "produto": "PAPEL A4 C/500 PAPEX",
+       "marca": "PAPEX",
+       "preco": 26.9,
+       "obs": "Entregar na secretaria da escola, identificado, de 21/12/2026 a 29/01/2027.",
+       "foto": "listas/fotos/2014.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Agenda, tamanho 14x20 cm",
+       "qtd": 1,
+       "cod": 6215,
+       "produto": "AGENDA 2027 TILIBRA COST. PEPPER PRETA 160F",
+       "marca": "TILIBRA",
+       "preco": 24.9,
+       "obs": "Agenda 2027 Tilibra Pepper, 160 folhas. Modelo de amostra: temos outros modelos.",
+       "foto": "listas/fotos/6215.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Lápis grafite 2HB",
+       "qtd": 5,
+       "cod": 7698,
+       "produto": "LAPIS ESCREVER ACRILEX",
+       "marca": "ACRILEX",
+       "preco": 0.8,
+       "foto": "listas/fotos/7698.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Caixa de lápis de cor",
+       "qtd": 1,
+       "cod": 13608,
+       "produto": "LAPIS 12CORES-TILIBRA",
+       "marca": "TILIBRA",
+       "preco": 8.9,
+       "obs": "Lápis de cor Tilibra 12 cores.",
+       "foto": "listas/fotos/13608.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Apontador com coletor",
+       "qtd": 1,
+       "cod": 7591,
+       "produto": "APONTADOR LEO C/D BLOCO 60-VERDE",
+       "marca": "LEO E LEO",
+       "preco": 1.0,
+       "foto": "listas/fotos/7591.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Borracha branca macia (sem tema; identificar na lateral)",
+       "qtd": 1,
+       "cod": 276,
+       "produto": "BORRACHA MERCUR 20",
+       "marca": "MERCUR",
+       "preco": 1.8,
+       "foto": "listas/fotos/276.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Caneta hidrográfica 12 cores (não usar caneta Touch / Bobbie Goods)",
+       "qtd": 1,
+       "cod": 7530,
+       "produto": "CANETINHA C/12-LEO",
+       "marca": "LEO E LEO",
+       "preco": 6.9,
+       "obs": "Canetinha Leo e Leo 12 cores.",
+       "foto": "listas/fotos/7530.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Caixa de giz de cera, 12 cores",
+       "qtd": 1,
+       "cod": 1472,
+       "produto": "GIZAO CERA ACRILEX C/12",
+       "marca": "ACRILEX",
+       "preco": 9.9,
+       "foto": "listas/fotos/1472.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Régua resistente de 30 cm",
+       "qtd": 1,
+       "cod": 2641,
+       "produto": "REGUA 30CM REFORÇ. CRISTAL-MAXCRIL",
+       "marca": "MAXCRIL",
+       "preco": 3.9,
+       "foto": "listas/fotos/2641.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Caixa de massa de modelar, 12 cores *",
+       "qtd": 3,
+       "cod": 1877,
+       "produto": "MASSA MODELAR ACRILEX C/12 (SOFT)",
+       "marca": "ACRILEX",
+       "preco": 7.9,
+       "obs": "Entregar na secretaria da escola, identificado, de 21/12/2026 a 29/01/2027.",
+       "foto": "listas/fotos/1877.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Cola branca de 90 g",
+       "qtd": 1,
+       "cod": 14419,
+       "produto": "COLA LIQUIDA 90GR-APLICOLA",
+       "marca": "APLICOLA",
+       "preco": 2.9,
+       "foto": "listas/fotos/14419.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Tesoura sem ponta",
+       "qtd": 1,
+       "cod": 6634,
+       "produto": "TESOURA S/P NX13C/MASTERPRINT COLORS",
+       "marca": "NX13C/MAST",
+       "preco": 3.9,
+       "foto": "listas/fotos/6634.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Material dourado em MDF, 111 peças *",
+       "qtd": 1,
+       "cod": 1880,
+       "produto": "MATERIAL DOURADO C/111 PÇ",
+       "marca": "SMMART",
+       "preco": 16.9,
+       "obs": "Entregar na secretaria da escola, identificado, de 21/12/2026 a 29/01/2027.",
+       "foto": "listas/fotos/1880.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Dicionário de língua portuguesa (nova ortografia); sugestão: Silveira Bueno ou Aurélio",
+       "qtd": 1,
+       "cod": 1001,
+       "produto": "DICIONARIO PORTUGUES-SILVEIRA BUENO",
+       "marca": "SILVEIRA B",
+       "preco": 16.9,
+       "obs": "Dicionário Silveira Bueno.",
+       "foto": "listas/fotos/1001.jpg",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Livro de literatura (será indicado posteriormente) *",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "O título será indicado pela escola: consulte a vendedora.",
+       "grupo": "Material escolar"
+      },
+      {
+       "descricao": "Mochila",
+       "qtd": 1,
+       "status": "consultar",
+       "obs": "Temos mochilas de costas reforçadas a partir de R$ 79,90: consulte a vendedora.",
+       "grupo": "Uso pessoal"
+      },
+      {
+       "descricao": "Bolsinha",
+       "qtd": 1,
+       "cod": 8223,
+       "produto": "ESTOJO DAC 1F",
+       "marca": "DAC",
+       "preco": 8.9,
+       "obs": "Estojo DAC 1 zíper.",
+       "foto": "listas/fotos/8223.jpg",
+       "grupo": "Uso pessoal"
+      },
+      {
+       "descricao": "Garrafa de água com identificação",
+       "qtd": 1,
+       "cod": 14675,
+       "produto": "GARRAFINHA ESCOLAR 250ML-ESPORTES",
+       "marca": "TIBA",
+       "preco": 6.9,
+       "obs": "Garrafinha escolar 250 ml.",
+       "foto": "listas/fotos/14675.jpg",
+       "grupo": "Uso pessoal"
+      },
+      {
+       "descricao": "Etiqueta para identificar o material",
+       "qtd": 1,
+       "cod": 6324,
+       "produto": "ETIQUETA PREÇO (M)-ROLO",
+       "marca": "READY",
+       "preco": 1.5,
+       "obs": "Rolo de etiquetas médias.",
+       "foto": "listas/fotos/6324.jpg",
+       "grupo": "Para marcar o material com o nome do aluno"
+      }
+     ],
+     "observacoes": [
+      "Os itens marcados com * devem ser entregues na secretaria da escola, identificados com o nome do aluno, de 21/12/2026 a 29/01/2027.",
+      "Os materiais que seu filho já tiver do ano anterior podem ser reaproveitados.",
+      "Todos os materiais e uniformes devem estar identificados com o nome do aluno."
+     ],
+     "idade": "6 anos"
+    }
+   ]
+  },
+  {
    "id": "alicemaciel",
    "nome": "Instituto Alice Maciel",
    "listas": [
@@ -24454,5 +24722,5 @@
    ]
   }
  ],
- "atualizado": "26/11/2026 16:14"
+ "atualizado": "26/11/2026 16:17"
 }
