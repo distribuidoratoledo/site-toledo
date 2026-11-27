@@ -2266,7 +2266,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/1670.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 13799,
@@ -2633,7 +2633,7 @@
      "marca": "FABER",
      "preco": 1.5,
      "img": "produtos/1683.jpg",
-     "saldo": 2648
+     "saldo": 2643
     },
     {
      "cod": 14124,
@@ -4233,7 +4233,7 @@
      "marca": "MERCUR",
      "preco": 1.8,
      "img": "produtos/276.jpg",
-     "saldo": 1945
+     "saldo": 1940
     },
     {
      "cod": 4341,
@@ -9776,7 +9776,7 @@
      "marca": "REND/LEO",
      "preco": 15.9,
      "img": "produtos/10944.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 848,
@@ -10096,7 +10096,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 504
+     "saldo": 497
     },
     {
      "cod": 4389,
@@ -13973,7 +13973,7 @@
      "marca": "GRESPAN",
      "preco": 16.9,
      "img": "produtos/7403.jpg",
-     "saldo": 17
+     "saldo": 12
     },
     {
      "cod": 3411,
@@ -16355,7 +16355,7 @@
      "marca": "POLIBRAS",
      "preco": 69.9,
      "img": "produtos/2268.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 2274,
@@ -17127,7 +17127,7 @@
        "cor": "Lilas",
        "nome": "EVA LISO-LILAS",
        "img": "produtos/1236.jpg",
-       "saldo": 220
+       "saldo": 218
       },
       {
        "cod": 1237,
@@ -17265,7 +17265,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 194
+     "saldo": 144
     },
     {
      "cod": 6999,
@@ -23672,7 +23672,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5783
+     "saldo": 5758
     },
     {
      "cod": 944,
@@ -25098,7 +25098,7 @@
      "marca": "RIOPLASTIC",
      "preco": 16.9,
      "img": "produtos/2510.jpg",
-     "saldo": 6
+     "saldo": 4
     },
     {
      "cod": 4573,
@@ -26012,7 +26012,7 @@
      "marca": "SANTECK",
      "preco": 2.9,
      "img": "produtos/7069.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 7070,
@@ -26020,7 +26020,7 @@
      "marca": "SANTECK",
      "preco": 4.9,
      "img": "produtos/7070.jpg",
-     "saldo": 88
+     "saldo": 86
     },
     {
      "cod": 7071,
@@ -26068,7 +26068,7 @@
      "marca": "ABN",
      "preco": 44.9,
      "img": "produtos/6985.jpg",
-     "saldo": 24
+     "saldo": 19
     },
     {
      "cod": 6986,
@@ -27508,7 +27508,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 140,
+     "saldo": 139,
      "un": "KG"
     },
     {
@@ -27535,7 +27535,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 73,
+     "saldo": 72,
      "un": "KG"
     },
     {
@@ -27690,7 +27690,7 @@
      "marca": "KROMASA",
      "preco": 1.5,
      "img": "produtos/2806.jpg",
-     "saldo": 1941
+     "saldo": 1940
     },
     {
      "cod": 2807,
@@ -28217,7 +28217,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2296,
+     "saldo": 2294,
      "un": "KG"
     },
     {
@@ -28827,7 +28827,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7233
+     "saldo": 7203
     },
     {
      "cod": 236,
@@ -31137,7 +31137,7 @@
      "marca": "FECHO",
      "preco": 3.9,
      "img": "produtos/5194.jpg",
-     "saldo": 268
+     "saldo": 258
     },
     {
      "cod": 2608,
