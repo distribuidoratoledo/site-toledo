@@ -1271,7 +1271,11 @@
       var a = parseFloat(m[1].replace(',', '.')), b = m[2] ? parseFloat(m[2].replace(',', '.')) : a;
       return (a + b) / 2;
     }
+    /* produtos com unidade KG no Sankhya em 27/11/2026 (reserva ate' o catalogo trazer o campo un) */
+    var KG_CODS = {};
+    '7309,14242,7678,6937,6755,251,252,253,254,255,4427,14183,260,262,263,264,265,1485,13504,1486,1488,1489,13503,1491,1492,2084,2707,2709,3651,2710,2712,2711,13027,2713,2714,2715,2717,2718,2716,10060,2719,2720,2722,2723,2721,10061,2724,2725,2726,13028,2727,10062,4926,2729,2730,2728,8160,2732,2731,3652,2734,2733,8100,2735,2736,13863,2737,14426,2837,2838,2839,2840,6854,6821,6855,2875,6825'.split(',').forEach(function (c) { KG_CODS[c] = 1; });
     function infoKg(p) {
+      if (p.un !== 'KG' && KG_CODS[p.cod]) { p.un = 'KG'; }
       if (p.un !== 'KG' || !(p.preco > 0)) { return ''; }
       var kg = pesoRolo(p), h = '<span class="kg-un"> o kg</span>';
       if (kg) {
