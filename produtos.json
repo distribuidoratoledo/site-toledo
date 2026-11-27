@@ -3611,7 +3611,7 @@
        "cor": "Preto",
        "nome": "RETRO 1.0 PILOT-PRETO",
        "img": "produtos/2653.jpg",
-       "saldo": 37
+       "saldo": 35
       },
       {
        "cod": 2654,
@@ -4808,7 +4808,7 @@
        "cor": "Preto",
        "nome": "AGENDA EXECUTIVA COURINO 352FLS PRETO",
        "img": "produtos/14314.jpg",
-       "saldo": 41
+       "saldo": 40
       }
      ]
     },
@@ -5581,7 +5581,7 @@
      "marca": "TILIBRA",
      "preco": 21.9,
      "img": "produtos/6564.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 10466,
@@ -10192,7 +10192,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 494
+     "saldo": 493
     },
     {
      "cod": 4389,
@@ -12143,7 +12143,7 @@
        "cor": "Prata",
        "nome": "LAMINADO-PRATA",
        "img": "produtos/2116.jpg",
-       "saldo": 4
+       "saldo": 5
       },
       {
        "cod": 2117,
@@ -12364,7 +12364,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 190
+     "saldo": 189
     },
     {
      "cod": 2100,
@@ -16286,7 +16286,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/3929.jpg",
-     "saldo": 191
+     "saldo": 187
     },
     {
      "cod": 14205,
@@ -25149,14 +25149,6 @@
      "saldo": 118
     },
     {
-     "cod": 2493,
-     "nome": "POTE (KIT) 1000ML C/24-RIOPLASTIC",
-     "marca": "RIOPLASTIC",
-     "preco": 32.9,
-     "img": "produtos/2493.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 11829,
      "nome": "POTE (KIT) 1000ML C/24-TOTALPLAST",
      "marca": "TOTALPLAST",
@@ -25170,7 +25162,7 @@
      "marca": "PLASZOM",
      "preco": 36.9,
      "img": "produtos/15027.jpg",
-     "saldo": 116
+     "saldo": 115
     },
     {
      "cod": 2495,
@@ -25178,7 +25170,7 @@
      "marca": "RIOPLASTIC",
      "preco": 9.9,
      "img": "produtos/2495.jpg",
-     "saldo": 147
+     "saldo": 143
     },
     {
      "cod": 14028,
@@ -25242,7 +25234,7 @@
      "marca": "GALVANOTEK",
      "preco": 15.9,
      "img": "produtos/14835.jpg",
-     "saldo": 22
+     "saldo": 18
     },
     {
      "cod": 11853,
@@ -25266,7 +25258,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 583
+     "saldo": 579
     },
     {
      "cod": 2516,
@@ -28130,7 +28122,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 360,
+     "saldo": 344,
      "un": "KG"
     },
     {
@@ -28622,7 +28614,7 @@
      "marca": "",
      "preco": 49.9,
      "img": "produtos/6966.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 4427,
@@ -29066,7 +29058,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 21
+     "saldo": 22
     },
     {
      "cod": 1278,
@@ -31684,7 +31676,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 9017,
@@ -31748,7 +31740,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 143
+     "saldo": 118
     },
     {
      "cod": 6529,
@@ -34320,7 +34312,7 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg",
-     "saldo": 1447
+     "saldo": 1445
     },
     {
      "cod": 14579,
