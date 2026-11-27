@@ -11379,14 +11379,14 @@
      "marca": "ART FLOC",
      "preco": 1.8,
      "img": "produtos/2018.jpg",
-     "saldo": 31,
+     "saldo": 21,
      "cores": [
       {
        "cod": 2018,
        "cor": "Amarelo",
        "nome": "CAMURÇA-AMARELO",
        "img": "produtos/2018.jpg",
-       "saldo": 31
+       "saldo": 21
       },
       {
        "cod": 2019,
@@ -12158,7 +12158,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 68
+     "saldo": 67
     },
     {
      "cod": 2007,
@@ -13847,7 +13847,7 @@
      "marca": "ATLAS",
      "preco": 6.9,
      "img": "produtos/11885.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 7059,
@@ -22517,7 +22517,7 @@
      "marca": "FOXLUX",
      "preco": 12.9,
      "img": "produtos/5978.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 3999,
@@ -23712,7 +23712,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 383
+     "saldo": 381
     },
     {
      "cod": 945,
@@ -23720,7 +23720,7 @@
      "marca": "COPOFLEX",
      "preco": 4.9,
      "img": "produtos/945.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 14406,
@@ -24166,7 +24166,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 561
+     "saldo": 560
     },
     {
      "cod": 4617,
@@ -24182,7 +24182,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 309
+     "saldo": 308
     },
     {
      "cod": 177,
@@ -24198,7 +24198,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 102
+     "saldo": 101
     },
     {
      "cod": 179,
@@ -24670,7 +24670,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 246
+     "saldo": 236
     },
     {
      "cod": 1569,
@@ -24766,7 +24766,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 51
+     "saldo": 49
     },
     {
      "cod": 2937,
@@ -24782,7 +24782,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 141
+     "saldo": 140
     },
     {
      "cod": 2491,
@@ -24916,7 +24916,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 1306
+     "saldo": 1301
     },
     {
      "cod": 880,
@@ -24924,7 +24924,7 @@
      "marca": "",
      "preco": 2.9,
      "img": "produtos/880.jpg",
-     "saldo": 345
+     "saldo": 342
     },
     {
      "cod": 14417,
@@ -25162,7 +25162,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 585
+     "saldo": 583
     },
     {
      "cod": 2516,
@@ -25806,7 +25806,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1063
+     "saldo": 1051
     },
     {
      "cod": 2552,
@@ -26226,7 +26226,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 391
+     "saldo": 361
     },
     {
      "cod": 3951,
@@ -26274,7 +26274,7 @@
      "marca": "SANTEPEL",
      "preco": 5.9,
      "img": "produtos/1555.jpg",
-     "saldo": 179
+     "saldo": 175
     },
     {
      "cod": 13007,
@@ -26670,7 +26670,7 @@
      "marca": "PLASTSUL",
      "preco": 8.9,
      "img": "produtos/3932.jpg",
-     "saldo": 43
+     "saldo": 42
     },
     {
      "cod": 4668,
@@ -28273,7 +28273,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2294,
+     "saldo": 2289,
      "un": "KG"
     },
     {
@@ -28282,7 +28282,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 685,
+     "saldo": 680,
      "un": "KG"
     },
     {
@@ -28550,7 +28550,7 @@
      "marca": "HIPERROLL",
      "preco": 30.9,
      "img": "produtos/1338.jpg",
-     "saldo": 39
+     "saldo": 37
     },
     {
      "cod": 1339,
@@ -28725,7 +28725,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 64
+     "saldo": 62
     },
     {
      "cod": 2906,
@@ -28741,7 +28741,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2237
+     "saldo": 2236
     },
     {
      "cod": 2896,
@@ -28977,7 +28977,7 @@
      "marca": "",
      "preco": 79.9,
      "img": "produtos/1279.jpg",
-     "saldo": 94
+     "saldo": 93
     },
     {
      "cod": 3427,
@@ -29864,7 +29864,7 @@
      "marca": "",
      "preco": 46.9,
      "img": "produtos/6859.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 7307,
@@ -30751,7 +30751,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 346
+     "saldo": 341
     },
     {
      "cod": 6324,
@@ -31547,7 +31547,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 40
+     "saldo": 38
     },
     {
      "cod": 2102,
@@ -31593,7 +31593,7 @@
      "cod": 2105,
      "nome": "PAPEL HIG.4X30MT-CARINHO PLUS",
      "marca": "CARINHO",
-     "preco": 4.8,
+     "preco": 6.9,
      "img": "produtos/2105.jpg",
      "saldo": 80
     },
@@ -31651,7 +31651,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1166
+     "saldo": 1156
     },
     {
      "cod": 2157,
@@ -33524,14 +33524,14 @@
      "marca": "MASTERPRIN",
      "preco": 2.0,
      "img": "produtos/6050.jpg",
-     "saldo": 261,
+     "saldo": 257,
      "cores": [
       {
        "cod": 6050,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO MASTERPRINT-AMARELO",
        "img": "produtos/6050.jpg",
-       "saldo": 261
+       "saldo": 257
       },
       {
        "cod": 6051,
