@@ -1002,14 +1002,14 @@
      "marca": "MOLIN",
      "preco": 9.5,
      "img": "produtos/572.jpg",
-     "saldo": 22,
+     "saldo": 21,
      "cores": [
       {
        "cod": 572,
        "cor": "Branca",
        "nome": "CANETA GEL/CONVITE MOLIN-BRANCA",
        "img": "produtos/572.jpg",
-       "saldo": 22
+       "saldo": 21
       },
       {
        "cod": 573,
@@ -1128,14 +1128,14 @@
      "marca": "PAPER MATE",
      "preco": 1.8,
      "img": "produtos/14673.jpg",
-     "saldo": 117,
+     "saldo": 114,
      "cores": [
       {
        "cod": 14673,
        "cor": "Azul",
        "nome": "CANETA KILOMETRICA 0.7-AZUL (FINA)",
        "img": "produtos/14673.jpg",
-       "saldo": 117
+       "saldo": 114
       },
       {
        "cod": 588,
@@ -2112,7 +2112,7 @@
      "marca": "LEO E LEO",
      "preco": 12.9,
      "img": "produtos/1658.jpg",
-     "saldo": 24
+     "saldo": 22
     },
     {
      "cod": 1659,
@@ -10096,7 +10096,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 562
+     "saldo": 557
     },
     {
      "cod": 4389,
@@ -23641,7 +23641,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 34
+     "saldo": 33
     }
    ]
   },
@@ -23735,7 +23735,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 669
+     "saldo": 667
     },
     {
      "cod": 14407,
@@ -25001,7 +25001,7 @@
      "marca": "PRAFESTA",
      "preco": 12.9,
      "img": "produtos/2507.jpg",
-     "saldo": 118
+     "saldo": 117
     },
     {
      "cod": 2493,
@@ -25025,7 +25025,7 @@
      "marca": "PLASZOM",
      "preco": 36.9,
      "img": "produtos/15027.jpg",
-     "saldo": 119
+     "saldo": 117
     },
     {
      "cod": 2495,
@@ -26067,7 +26067,7 @@
      "marca": "SANTECK",
      "preco": 12.9,
      "img": "produtos/9058.jpg",
-     "saldo": 19
+     "saldo": 15
     },
     {
      "cod": 12122,
@@ -26193,7 +26193,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 412
+     "saldo": 411
     },
     {
      "cod": 3951,
@@ -26645,7 +26645,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/4668.jpg",
-     "saldo": 55
+     "saldo": 54
     },
     {
      "cod": 654,
@@ -28236,7 +28236,7 @@
      "cod": 3964,
      "nome": "SACOLA VOLTE S. 30X40 (1,450KG)",
      "marca": "",
-     "preco": 42.9,
+     "preco": 35.9,
      "img": "produtos/3964.jpg",
      "saldo": 36
     },
@@ -28244,7 +28244,7 @@
      "cod": 2877,
      "nome": "SACOLA VOLTE S. 38X48 (3K)",
      "marca": "",
-     "preco": 89.9,
+     "preco": 69.9,
      "img": "produtos/2877.jpg",
      "saldo": 153
     }
@@ -28300,7 +28300,7 @@
      "marca": "CEPELMA",
      "preco": 49.9,
      "img": "produtos/244.jpg",
-     "saldo": 105
+     "saldo": 104
     },
     {
      "cod": 13858,
@@ -28682,7 +28682,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 839
+     "saldo": 829
     },
     {
      "cod": 2900,
@@ -28784,7 +28784,7 @@
      "marca": "PRIMUS",
      "preco": 4.9,
      "img": "produtos/3204.jpg",
-     "saldo": 823
+     "saldo": 763
     },
     {
      "cod": 235,
@@ -29036,7 +29036,7 @@
      "marca": "RIO BRANCO",
      "preco": 4.5,
      "img": "produtos/2762.jpg",
-     "saldo": 258
+     "saldo": 251
     },
     {
      "cod": 2763,
@@ -30607,7 +30607,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/1195.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 1197,
@@ -31341,7 +31341,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 10304,
