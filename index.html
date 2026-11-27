@@ -256,6 +256,9 @@
     .bf-selo { display: inline-block; background: #111; color: #ffd400; font-size: .68rem; font-weight: 800; letter-spacing: .05em;
       text-transform: uppercase; padding: .12rem .45rem; border-radius: 6px; margin-right: .35rem; vertical-align: middle; }
     .bf-de { color: #8a95a6; text-decoration: line-through; font-weight: 500; font-size: .85em; margin-right: .35rem; }
+    .kg-un { font-size: .8em; font-weight: 600; }
+    .kg-rolo { display: block; font-size: .78rem; font-weight: 500; color: #333; line-height: 1.3; margin-top: 2px; }
+    .kg-rolo b { color: var(--vermelho); }
     .bf-por { background: #ffd400; color: #111; font-weight: 800; padding: .05rem .4rem; border-radius: 6px; white-space: nowrap; }
     .preco.bf, .jan-preco.bf, .dest-preco.bf { color: #111; line-height: 1.9; }
     .bf-un { color: #111; } .bf-un s { color: #8a95a6; }
@@ -1258,10 +1261,29 @@
       if (typeof DESTAQUES !== 'undefined') { DESTAQUES.forEach(marcarBF); }
       if (!BF_ATIVA) { var b = document.getElementById('bf-banner'); if (b) { b.hidden = true; } }
     })();
+    /* VENDIDO A QUILO (Adriana, 27/11/2026: "ajuste imediatamente a informacao de kilo no preco", "informe em todas as
+       bobinas rollbag que esse preco e' no kilo" e "traga o preco medio de cada rolo"). O preco do Sankhya desses itens
+       (unidade KG) e' o do quilo: o site escreve "o kg" junto do preco e, quando o nome traz o peso do rolo
+       ("PESO 3,5KG", "PESO 8 A 10KG" = media 9), mostra o preco medio do rolo = peso x preco do kg. */
+    function pesoRolo(p) {
+      var m = /PESO\s*([\d]+(?:[.,]\d+)?)\s*(?:A\s*([\d]+(?:[.,]\d+)?))?\s*K/i.exec(p.nome || '');
+      if (!m) { return 0; }
+      var a = parseFloat(m[1].replace(',', '.')), b = m[2] ? parseFloat(m[2].replace(',', '.')) : a;
+      return (a + b) / 2;
+    }
+    function infoKg(p) {
+      if (p.un !== 'KG' || !(p.preco > 0)) { return ''; }
+      var kg = pesoRolo(p), h = '<span class="kg-un"> o kg</span>';
+      if (kg) {
+        h += '<span class="kg-rolo">Rolo com cerca de ' + String(kg).replace('.', ',') + ' kg: em média <b>'
+          + moeda(Math.round(kg * p.preco * 100) / 100) + '</b> o rolo</span>';
+      }
+      return h;
+    }
     function precoHtml(p, semSelo) {
-      if (!p.bf) { return moeda(p.preco); }
+      if (!p.bf) { return moeda(p.preco) + infoKg(p); }
       return (semSelo ? '' : '<span class="bf-selo">Black Friday</span>') + '<span class="bf-de">' + moeda(p.preco_antigo) + '</span>'
-           + '<span class="bf-por">' + moeda(p.preco) + '</span>';
+           + '<span class="bf-por">' + moeda(p.preco) + '</span>' + infoKg(p);
     }
     function verBlackFriday() {
       itens.forEach(function (i) { i.classList.toggle('ativo', i.getAttribute('data-cat') === 'black-friday'); });
@@ -2346,7 +2368,7 @@
           + '<button type="button" onclick="mudarQtd(\'' + x.cod + '\',1)" aria-label="Mais">+</button></span></div>'
           + '<div class="dir"><span class="tot">' + moeda(i.preco * x.qtd) + '</span>'
           + (i.bf ? '<span class="un bf-un">Black Friday \u00b7 de <s>' + moeda(i.preco_antigo) + '</s></span>' : '')
-          + '<span class="un">' + moeda(i.preco) + ' cada</span>'
+          + '<span class="un">' + moeda(i.preco) + (i.un === 'KG' ? ' o kg' : ' cada') + '</span>'
           + '<button class="tirar" type="button" onclick="tirar(\'' + x.cod + '\')">Remover</button></div>'
           + '</div>';
       }).join('');
@@ -2554,7 +2576,7 @@
                '\ud83d\udc64 *VENDEDORA: ' + (DADOS.vendedora || '') + '*', ''];
       CARRINHO.forEach(function (x) {
         var i = itemDoCodigo(x.cod);
-        t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + (i.bf ? 'BLACK FRIDAY de ' + moeda(i.preco_antigo) + ' por ' : '') + moeda(i.preco) + ' = ' + moeda(i.preco * x.qtd)
+        t.push(x.qtd + ' x ' + i.nome + ' (c\u00f3d. ' + i.cod + ') - ' + (i.bf ? 'BLACK FRIDAY de ' + moeda(i.preco_antigo) + ' por ' : '') + moeda(i.preco) + (i.un === 'KG' ? ' o kg' : '') + ' = ' + moeda(i.preco * x.qtd)
           + (i.saldo != null && x.qtd > i.saldo ? ' \u26a0\ufe0f estoque ' + i.saldo + ', confirmar' : ''));
       });
       /* Black Friday (16/11/2026): "precisa informar na venda pra chegar na vendedora no zap que nao pode dar mais desconto nesse item" */
