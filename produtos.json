@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 639,
+     "saldo": 636,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 639
+       "saldo": 636
       },
       {
        "cod": 553,
@@ -438,7 +438,7 @@
        "cor": "Azul Escuro",
        "nome": "CANETA CIS SPIRO-AZUL ESCURO",
        "img": "produtos/562.jpg",
-       "saldo": 86
+       "saldo": 76
       },
       {
        "cod": 563,
@@ -747,7 +747,7 @@
      "marca": "COMPACOTOR",
      "preco": 6.9,
      "img": "produtos/14399.jpg",
-     "saldo": 72
+     "saldo": 71
     },
     {
      "cod": 14465,
@@ -962,7 +962,7 @@
      "marca": "PENTEL",
      "preco": 13.9,
      "img": "produtos/14239.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 10042,
@@ -1016,7 +1016,7 @@
        "cor": "Ouro",
        "nome": "CANETA GEL/CONVITE MOLIN-OURO",
        "img": "produtos/573.jpg",
-       "saldo": 21
+       "saldo": 20
       },
       {
        "cod": 574,
@@ -4004,7 +4004,7 @@
      "saldo_cor": {
       "AZUL": 22,
       "ROSA": 27,
-      "ROXO": 29
+      "ROXO": 28
      }
     }
    ]
@@ -7105,7 +7105,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8245.jpg",
-     "saldo": 30
+     "saldo": 27
     },
     {
      "cod": 6295,
@@ -7361,7 +7361,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/5726.jpg",
-     "saldo": 17
+     "saldo": 16
     },
     {
      "cod": 12776,
@@ -7377,7 +7377,7 @@
      "marca": "CREDEAL",
      "preco": 14.9,
      "img": "produtos/8890.jpg",
-     "saldo": 37
+     "saldo": 33
     },
     {
      "cod": 12978,
@@ -7417,7 +7417,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/12440.jpg",
-     "saldo": 36
+     "saldo": 34
     },
     {
      "cod": 6296,
@@ -7686,7 +7686,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8244.jpg",
-     "saldo": 26
+     "saldo": 24
     },
     {
      "cod": 3244,
@@ -9854,7 +9854,7 @@
      "marca": "",
      "preco": 1.5,
      "img": "produtos/1029.jpg",
-     "saldo": 675
+     "saldo": 673
     },
     {
      "cod": 4438,
@@ -9970,7 +9970,7 @@
      "marca": "ADELBRAS",
      "preco": 6.9,
      "img": "produtos/1292.jpg",
-     "saldo": 457
+     "saldo": 453
     },
     {
      "cod": 1293,
@@ -10096,7 +10096,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/6836.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 1313,
@@ -10198,7 +10198,7 @@
      "marca": "MAPED",
      "preco": 33.9,
      "img": "produtos/3971.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 5148,
@@ -10837,7 +10837,7 @@
      "marca": "JOCAR",
      "preco": 3.9,
      "img": "produtos/7549.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 4212,
@@ -10977,7 +10977,7 @@
      "marca": "ACC",
      "preco": 13.9,
      "img": "produtos/1537.jpg",
-     "saldo": 457
+     "saldo": 456
     },
     {
      "cod": 1538,
@@ -11287,7 +11287,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/2603.jpg",
-     "saldo": 71
+     "saldo": 70
     },
     {
      "cod": 2604,
@@ -12166,7 +12166,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1004
+     "saldo": 1003
     },
     {
      "cod": 9052,
@@ -12210,7 +12210,7 @@
        "cor": "Verde",
        "nome": "PAPEL A4 COLOR. C/100-VERDE",
        "img": "produtos/6313.jpg",
-       "saldo": 303
+       "saldo": 302
       }
      ]
     },
@@ -12260,7 +12260,7 @@
      "marca": "MASTERPRIN",
      "preco": 39.9,
      "img": "produtos/2096.jpg",
-     "saldo": 30
+     "saldo": 27
     },
     {
      "cod": 11784,
@@ -13503,14 +13503,14 @@
      "marca": "RADEX",
      "preco": 8.9,
      "img": "produtos/2975.jpg",
-     "saldo": 14,
+     "saldo": 13,
      "cores": [
       {
        "cod": 2975,
        "cor": "Azul",
        "nome": "TINTA CARIMBO AUTOM-AZUL",
        "img": "produtos/2975.jpg",
-       "saldo": 14
+       "saldo": 13
       },
       {
        "cod": 2976,
@@ -15996,14 +15996,14 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2231.jpg",
-     "saldo": 208,
+     "saldo": 207,
      "cores": [
       {
        "cod": 2231,
        "cor": "Cristal",
        "nome": "PASTA PP 1CM-CRISTAL",
        "img": "produtos/2231.jpg",
-       "saldo": 208
+       "saldo": 207
       },
       {
        "cod": 6797,
@@ -16020,7 +16020,7 @@
      "marca": "PLASCONY",
      "preco": 7.9,
      "img": "produtos/14204.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 14208,
@@ -16105,7 +16105,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/3592.jpg",
-     "saldo": 232
+     "saldo": 231
     },
     {
      "cod": 12933,
@@ -16228,7 +16228,7 @@
        "cor": "Lilas",
        "nome": "PASTA PP 5CM PLASCONY-LILAS",
        "img": "produtos/14444.jpg",
-       "saldo": 36
+       "saldo": 35
       },
       {
        "cod": 14445,
@@ -16585,7 +16585,7 @@
      "marca": "",
      "preco": 44.9,
      "img": "produtos/2744.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 9784,
@@ -23671,7 +23671,7 @@
      "marca": "COPOPLAST",
      "preco": 6.9,
      "img": "produtos/938.jpg",
-     "saldo": 394
+     "saldo": 390
     },
     {
      "cod": 943,
@@ -23711,7 +23711,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 53
+     "saldo": 43
     },
     {
      "cod": 14414,
@@ -23791,7 +23791,7 @@
      "marca": "COPOMAIS",
      "preco": 2.9,
      "img": "produtos/14403.jpg",
-     "saldo": 751
+     "saldo": 747
     },
     {
      "cod": 3342,
@@ -23799,7 +23799,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 168
+     "saldo": 165
     },
     {
      "cod": 14405,
@@ -24469,7 +24469,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 7364,
@@ -24613,7 +24613,7 @@
      "marca": "ULTRA",
      "preco": 69.9,
      "img": "produtos/4037.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 3924,
@@ -24741,7 +24741,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 176
+     "saldo": 173
     },
     {
      "cod": 4146,
@@ -24749,7 +24749,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 147
+     "saldo": 142
     },
     {
      "cod": 2491,
@@ -24757,7 +24757,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 176
+     "saldo": 173
     },
     {
      "cod": 3887,
@@ -24765,7 +24765,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 131
+     "saldo": 126
     },
     {
      "cod": 7352,
@@ -25121,7 +25121,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 592
+     "saldo": 588
     },
     {
      "cod": 2516,
@@ -26193,7 +26193,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 414
+     "saldo": 412
     },
     {
      "cod": 3951,
@@ -26217,7 +26217,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 106
+     "saldo": 96
     },
     {
      "cod": 11295,
@@ -26629,7 +26629,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/3301.jpg",
-     "saldo": 223
+     "saldo": 221
     },
     {
      "cod": 3932,
@@ -27651,7 +27651,7 @@
      "marca": "KROMASA",
      "preco": 18.9,
      "img": "produtos/4946.jpg",
-     "saldo": 161
+     "saldo": 160
     },
     {
      "cod": 4947,
@@ -27683,7 +27683,7 @@
      "marca": "KROMASA",
      "preco": 1.7,
      "img": "produtos/2807.jpg",
-     "saldo": 612
+     "saldo": 572
     },
     {
      "cod": 2808,
@@ -28372,7 +28372,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 13853,
@@ -28444,7 +28444,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 12312
+     "saldo": 12206
     },
     {
      "cod": 1337,
@@ -28562,7 +28562,7 @@
      "marca": "GERAPLAST",
      "preco": 29.9,
      "img": "produtos/2888.jpg",
-     "saldo": 84
+     "saldo": 83
     },
     {
      "cod": 2889,
@@ -28634,7 +28634,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 66
+     "saldo": 65
     },
     {
      "cod": 2906,
@@ -28650,7 +28650,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2240
+     "saldo": 2239
     },
     {
      "cod": 2896,
@@ -28870,7 +28870,7 @@
      "marca": "",
      "preco": 56.9,
      "img": "produtos/1277.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 1278,
@@ -29739,7 +29739,7 @@
        "cor": "Vermelho",
        "nome": "FITILHO 50MT VERMELHO",
        "img": "produtos/1332.jpg",
-       "saldo": 6
+       "saldo": 5
       }
      ]
     },
@@ -31555,7 +31555,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1196
+     "saldo": 1194
     },
     {
      "cod": 2157,
@@ -33301,7 +33301,7 @@
        "cor": "Verde",
        "nome": "MARCA TEXTO CIS-VERDE",
        "img": "produtos/1827.jpg",
-       "saldo": 60
+       "saldo": 57
       }
      ]
     },
