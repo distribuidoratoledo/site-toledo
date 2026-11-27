@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1923
+       "saldo": 1922
       },
       {
        "cod": 554,
@@ -5749,7 +5749,7 @@
      "marca": "SAO DOMING",
      "preco": 27.9,
      "img": "produtos/5911.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 13217,
@@ -9132,7 +9132,7 @@
      "marca": "TOP",
      "preco": 2.9,
      "img": "produtos/797.jpg",
-     "saldo": 25
+     "saldo": 23
     },
     {
      "cod": 14697,
@@ -9832,7 +9832,7 @@
      "marca": "APLICOLA",
      "preco": 2.9,
      "img": "produtos/14419.jpg",
-     "saldo": 1903
+     "saldo": 1902
     },
     {
      "cod": 7904,
@@ -10200,7 +10200,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 673
+     "saldo": 671
     },
     {
      "cod": 1317,
@@ -10893,7 +10893,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 120
+     "saldo": 119
     },
     {
      "cod": 6632,
@@ -10901,7 +10901,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6632.jpg",
-     "saldo": 78
+     "saldo": 77
     },
     {
      "cod": 983,
@@ -12254,7 +12254,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 993
+     "saldo": 991
     },
     {
      "cod": 9052,
@@ -19125,6 +19125,14 @@
      ]
     },
     {
+     "cod": 15133,
+     "nome": "NECESSAIRE LUXCEL-UP4YOU PRETO",
+     "marca": "LUXCEL",
+     "preco": 73.9,
+     "img": "produtos/15133.jpg",
+     "saldo": 6
+    },
+    {
      "cod": 14684,
      "nome": "NECESSAIRE MOLIN LOVE DAISY",
      "marca": "MOLIN",
@@ -23786,7 +23794,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 32
+     "saldo": 27
     }
    ]
   },
@@ -23848,7 +23856,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 41
+     "saldo": 39
     },
     {
      "cod": 14414,
@@ -24766,7 +24774,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 145
+     "saldo": 125
     },
     {
      "cod": 3731,
@@ -24774,7 +24782,7 @@
      "marca": "",
      "preco": 24.9,
      "img": "produtos/3731.jpg",
-     "saldo": 236
+     "saldo": 231
     },
     {
      "cod": 1569,
@@ -27066,7 +27074,7 @@
      "marca": "DECOPLAST",
      "preco": 92.9,
      "img": "produtos/1452.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 14933,
@@ -27678,7 +27686,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2735.jpg",
-     "saldo": 126,
+     "saldo": 125,
      "un": "KG"
     },
     {
@@ -28081,7 +28089,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1615
+     "saldo": 1605
     },
     {
      "cod": 2826,
@@ -28631,7 +28639,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 11400
+     "saldo": 11300
     },
     {
      "cod": 1337,
@@ -28750,7 +28758,7 @@
      "marca": "GERAPLAST",
      "preco": 29.9,
      "img": "produtos/2888.jpg",
-     "saldo": 83
+     "saldo": 80
     },
     {
      "cod": 2889,
@@ -28838,7 +28846,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2226
+     "saldo": 2224
     },
     {
      "cod": 2896,
@@ -28980,7 +28988,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7173
+     "saldo": 7165
     },
     {
      "cod": 236,
@@ -30752,7 +30760,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 174
+     "saldo": 173
     },
     {
      "cod": 1155,
@@ -31732,7 +31740,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 112
+     "saldo": 104
     },
     {
      "cod": 2153,
