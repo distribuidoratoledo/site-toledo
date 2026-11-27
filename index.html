@@ -1989,6 +1989,7 @@
     }
 
     function abrirCarrinho() {
+      perguntarVez();
       document.getElementById('car-aviso').hidden = true;
       document.getElementById('car-teste').hidden = COMPRA_LIBERADA;
       document.getElementById('car-fundo').hidden = false;
@@ -2411,6 +2412,27 @@
        disso. Este codigo nasce no clique de enviar, vai em destaque no topo
        da mensagem e e' gravado na observacao do pedido no Sankhya -- e' por
        ele que a equipe acha o pedido. */
+    /* RODIZIO DE VERDADE (Adriana, 27/11/2026: "eu te pedi pra gerar um rodizio ... para que houvesse um equilibrio";
+       a Fran ficou sem nenhum pedido no sorteio pelo minuto). A planilha "Pedidos do Site" (script do Google) conta
+       quantos pedidos cada vendedora recebeu e diz de quem e' a vez: a que tem MENOS. O site pergunta ao abrir o
+       carrinho e de minuto em minuto enquanto ele esta' aberto; o nome vai no WhatsApp e no pedido, e o script soma 1
+       para ela quando o pedido chega. Sem resposta do script (fora do ar), cai no minuto, como antes. */
+    var VEZ_SITE = null;
+    function perguntarVez() {
+      if (!PEDIDOS_ENDPOINT || (VEZ_SITE && Date.now() - VEZ_SITE.em < 60000)) { return; }
+      try {
+        fetch(PEDIDOS_ENDPOINT + '?acao=vez&t=' + Date.now()).then(function (r) { return r.json(); }).then(function (j) {
+          if (j && j.ok && VENDEDORAS.indexOf(j.vendedora) >= 0) { VEZ_SITE = { nome: j.vendedora, em: Date.now() }; }
+        }).catch(function () {});
+      } catch (e) {}
+    }
+    setInterval(function () {
+      var f = document.getElementById('car-fundo');
+      if (f && !f.hidden) { perguntarVez(); }
+    }, 60000);
+    function vendedoraDaVez() {
+      return VEZ_SITE && Date.now() - VEZ_SITE.em < 5 * 60000 ? VEZ_SITE.nome : vendedoraDoMinuto();
+    }
     function vendedoraDoMinuto(d) {
       d = d || agoraBR();
       var minutos = Math.floor(d.getTime() / 60000);
@@ -2637,7 +2659,9 @@
       var agora = Date.now();
       if (!(DADOS.numeroPedido && DADOS.assinatura === assin && agora - (DADOS.enviadoEm || 0) < 15 * 60000)) {
         DADOS.numeroPedido = novoNumeroPedido();
-        DADOS.vendedora = vendedoraDoMinuto();
+        DADOS.vendedora = vendedoraDaVez();
+        VEZ_SITE = null;   // a vez andou: o proximo pedido pergunta de novo
+        setTimeout(perguntarVez, 5000);
       }
       DADOS.assinatura = assin; DADOS.enviadoEm = agora;
       try { salvarDados(); } catch (e) {}
