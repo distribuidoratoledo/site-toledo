@@ -3220,7 +3220,7 @@
        "cor": "Preto",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-PRETO",
        "img": "produtos/2339.jpg",
-       "saldo": 207
+       "saldo": 206
       },
       {
        "cod": 9972,
@@ -5216,7 +5216,7 @@
      "marca": "SD",
      "preco": 31.9,
      "img": "produtos/13212.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 12402,
@@ -5248,7 +5248,7 @@
      "marca": "CREDEAL",
      "preco": 16.9,
      "img": "produtos/8255.jpg",
-     "saldo": 62
+     "saldo": 61
     },
     {
      "cod": 12910,
@@ -5576,14 +5576,6 @@
      "saldo": 155
     },
     {
-     "cod": 5622,
-     "nome": "CADERNO 10X1 160F-POOH CONNECT",
-     "marca": "TILIBRA",
-     "preco": 45.9,
-     "img": "produtos/5622.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 12842,
      "nome": "CADERNO 10X1 160F-POSITIVITY",
      "marca": "CADERSIL",
@@ -5613,7 +5605,7 @@
      "marca": "SD",
      "preco": 51.9,
      "img": "produtos/12964.jpg",
-     "saldo": 31
+     "saldo": 30
     },
     {
      "cod": 13181,
@@ -6391,7 +6383,7 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/5613.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 12841,
@@ -8205,7 +8197,7 @@
      "marca": "TILIBRA",
      "preco": 17.9,
      "img": "produtos/7831.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 11489,
@@ -10096,7 +10088,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 497
+     "saldo": 496
     },
     {
      "cod": 4389,
@@ -14301,7 +14293,7 @@
      "marca": "PIM/REFL",
      "preco": 6.9,
      "img": "produtos/14668.jpg",
-     "saldo": 4
+     "saldo": 2
     }
    ]
   },
@@ -19435,14 +19427,6 @@
      "saldo": 4
     },
     {
-     "cod": 13299,
-     "nome": "ESTOJO LUXCEL 3F-BARBIE PINK (ET49935BB-PK)",
-     "marca": "LUXCEL",
-     "preco": 79.9,
-     "img": "produtos/13299.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13301,
      "nome": "ESTOJO LUXCEL 3F-BARBIE PRETO (ET49935BB-PT)",
      "marca": "LUXCEL",
@@ -23712,7 +23696,7 @@
      "marca": "COPOMAIS",
      "preco": 4.9,
      "img": "produtos/14404.jpg",
-     "saldo": 802
+     "saldo": 801
     },
     {
      "cod": 938,
@@ -23848,7 +23832,7 @@
      "marca": "COPOPLAST",
      "preco": 3.5,
      "img": "produtos/3342.jpg",
-     "saldo": 164
+     "saldo": 162
     },
     {
      "cod": 14405,
@@ -24024,7 +24008,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14409.jpg",
-     "saldo": 501
+     "saldo": 500
     },
     {
      "cod": 2923,
@@ -24105,6 +24089,14 @@
      "preco": 8.9,
      "img": "produtos/11907.jpg",
      "saldo": 145
+    },
+    {
+     "cod": 3701,
+     "nome": "TAMPA LISA 700/770ML (S/F) C/50-ULTRA",
+     "marca": "ULTRA",
+     "preco": 8.9,
+     "img": "produtos/3701.jpg",
+     "saldo": 19
     },
     {
      "cod": 9746,
@@ -24190,7 +24182,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 310
+     "saldo": 309
     },
     {
      "cod": 177,
@@ -24198,7 +24190,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 90
+     "saldo": 89
     },
     {
      "cod": 3772,
@@ -24462,7 +24454,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/6946.jpg",
-     "saldo": 8
+     "saldo": 7
     },
     {
      "cod": 8229,
@@ -24780,7 +24772,7 @@
      "cod": 2937,
      "nome": "PT100/PT102/PT104 COPOBRAS C/100 (TAMPA)",
      "marca": "COPOBRAS",
-     "preco": 22.0,
+     "preco": 24.0,
      "img": "produtos/2937.jpg",
      "saldo": 166
     },
@@ -24796,7 +24788,7 @@
      "cod": 2491,
      "nome": "PT102 COPOBRAS C/100 (FUNDO)",
      "marca": "COPOBRAS",
-     "preco": 23.9,
+     "preco": 25.9,
      "img": "produtos/2491.jpg",
      "saldo": 165
     },
@@ -24830,7 +24822,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/3989.jpg",
-     "saldo": 102
+     "saldo": 101
     },
     {
      "cod": 4129,
@@ -24838,7 +24830,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/4129.jpg",
-     "saldo": 92
+     "saldo": 91
     },
     {
      "cod": 5005,
@@ -25472,7 +25464,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 687
+     "saldo": 679
     },
     {
      "cod": 1415,
@@ -26694,7 +26686,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/654.jpg",
-     "saldo": 53
+     "saldo": 51
     },
     {
      "cod": 11675,
@@ -27455,7 +27447,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2724.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "un": "KG"
     },
     {
@@ -28891,7 +28883,7 @@
      "marca": "THEGA",
      "preco": 4.9,
      "img": "produtos/235.jpg",
-     "saldo": 7203
+     "saldo": 7173
     },
     {
      "cod": 236,
@@ -31445,7 +31437,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 25
+     "saldo": 24
     },
     {
      "cod": 10304,
@@ -31587,7 +31579,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 85
+     "saldo": 84
     },
     {
      "cod": 9017,
@@ -31659,7 +31651,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1168
+     "saldo": 1166
     },
     {
      "cod": 2157,
@@ -33553,7 +33545,7 @@
        "cor": "Laranja",
        "nome": "MARCA TEXTO MASTERPRINT-LARANJA",
        "img": "produtos/6052.jpg",
-       "saldo": 105
+       "saldo": 104
       },
       {
        "cod": 6053,
@@ -34378,7 +34370,7 @@
    "cod": 2491,
    "nome": "PT102 COPOBRAS C/100 (FUNDO)",
    "marca": "COPOBRAS",
-   "preco": 23.9,
+   "preco": 25.9,
    "img": "produtos/2491.jpg"
   },
   {
