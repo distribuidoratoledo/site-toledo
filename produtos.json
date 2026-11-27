@@ -104,14 +104,14 @@
      "marca": "BIC",
      "preco": 1.3,
      "img": "produtos/552.jpg",
-     "saldo": 640,
+     "saldo": 639,
      "cores": [
       {
        "cod": 552,
        "cor": "Azul",
        "nome": "CANETA BIC CRISTAL-AZUL",
        "img": "produtos/552.jpg",
-       "saldo": 640
+       "saldo": 639
       },
       {
        "cod": 553,
@@ -125,7 +125,7 @@
        "cor": "Vermelha",
        "nome": "CANETA BIC CRISTAL-VERMELHA",
        "img": "produtos/554.jpg",
-       "saldo": 222
+       "saldo": 221
       }
      ]
     },
@@ -135,7 +135,7 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/7292.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 555,
@@ -3635,14 +3635,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 200,
+     "saldo": 198,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 200
+       "saldo": 198
       },
       {
        "cod": 2657,
@@ -4467,7 +4467,7 @@
      "marca": "TRIS",
      "preco": 1.9,
      "img": "produtos/14590.jpg",
-     "saldo": 62,
+     "saldo": 60,
      "controle": [
       "AZUL",
       "ROSA",
@@ -5833,7 +5833,7 @@
        "cor": "Preto",
        "nome": "CADERNO 1X1 120F-GRAFFIATO PRETO (SMART)",
        "img": "produtos/13205.jpg",
-       "saldo": 24
+       "saldo": 23
       }
      ]
     },
@@ -6235,7 +6235,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13201.jpg",
-     "saldo": 16
+     "saldo": 14
     },
     {
      "cod": 5965,
@@ -6391,7 +6391,7 @@
      "marca": "TILIBRA",
      "preco": 39.9,
      "img": "produtos/5613.jpg",
-     "saldo": 15
+     "saldo": 12
     },
     {
      "cod": 12841,
@@ -6415,7 +6415,7 @@
      "marca": "SD",
      "preco": 26.9,
      "img": "produtos/12963.jpg",
-     "saldo": 53
+     "saldo": 52
     },
     {
      "cod": 351,
@@ -9870,7 +9870,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3820
+     "saldo": 3818
     },
     {
      "cod": 14619,
@@ -9878,7 +9878,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/14619.jpg",
-     "saldo": 696
+     "saldo": 695
     },
     {
      "cod": 1021,
@@ -11159,7 +11159,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1979.jpg",
-     "saldo": 148
+     "saldo": 548
     },
     {
      "cod": 1977,
@@ -11168,6 +11168,14 @@
      "preco": 4.5,
      "img": "produtos/1977.jpg",
      "saldo": 131
+    },
+    {
+     "cod": 1981,
+     "nome": "BLOCO NOTA NEUTRA (S/C) GRIFFE",
+     "marca": "GRIFFE",
+     "preco": 3.0,
+     "img": "produtos/1981.jpg",
+     "saldo": 100
     },
     {
      "cod": 4320,
@@ -11247,7 +11255,7 @@
      "marca": "GRIFFE",
      "preco": 3.5,
      "img": "produtos/2601.jpg",
-     "saldo": 36
+     "saldo": 96
     },
     {
      "cod": 2602,
@@ -11476,7 +11484,7 @@
      "marca": "GRIFFE",
      "preco": 2.9,
      "img": "produtos/738.jpg",
-     "saldo": 5
+     "saldo": 105
     },
     {
      "cod": 5083,
@@ -11541,7 +11549,7 @@
        "cor": "Marrom",
        "nome": "CARTAO-MARROM",
        "img": "produtos/746.jpg",
-       "saldo": 3
+       "saldo": 63
       },
       {
        "cod": 747,
@@ -11576,7 +11584,7 @@
        "cor": "Vermelho",
        "nome": "CARTAO-VERMELHO",
        "img": "produtos/751.jpg",
-       "saldo": 33
+       "saldo": 93
       }
      ]
     },
@@ -11684,70 +11692,70 @@
      "marca": "GRIFFE",
      "preco": 15.9,
      "img": "produtos/2051.jpg",
-     "saldo": 25,
+     "saldo": 145,
      "cores": [
       {
        "cod": 2051,
        "cor": "Amarelo",
        "nome": "COLORSETE A4 C/50 AMARELO",
        "img": "produtos/2051.jpg",
-       "saldo": 25
+       "saldo": 145
       },
       {
        "cod": 2054,
        "cor": "Azul Royal / Azul Escuro",
        "nome": "COLORSETE A4 C/50 AZUL ROYAL/AZUL ESCURO",
        "img": "produtos/2054.jpg",
-       "saldo": 54
+       "saldo": 174
       },
       {
        "cod": 2055,
        "cor": "Laranja",
        "nome": "COLORSETE A4 C/50 LARANJA",
        "img": "produtos/2055.jpg",
-       "saldo": 10
+       "saldo": 130
       },
       {
        "cod": 4172,
        "cor": "Lilas",
        "nome": "COLORSETE A4 C/50 LILAS",
        "img": "produtos/4172.jpg",
-       "saldo": 17
+       "saldo": 137
       },
       {
        "cod": 2057,
        "cor": "Marrom",
        "nome": "COLORSETE A4 C/50 MARROM",
        "img": "produtos/2057.jpg",
-       "saldo": 29
+       "saldo": 89
       },
       {
        "cod": 2058,
        "cor": "Preto",
        "nome": "COLORSETE A4 C/50 PRETO",
        "img": "produtos/2058.jpg",
-       "saldo": 9
+       "saldo": 69
       },
       {
        "cod": 2059,
        "cor": "Rosa Claro",
        "nome": "COLORSETE A4 C/50 ROSA CLARO",
        "img": "produtos/2059.jpg",
-       "saldo": 30
+       "saldo": 150
       },
       {
        "cod": 2061,
        "cor": "Rosa Pink",
        "nome": "COLORSETE A4 C/50 ROSA PINK",
        "img": "produtos/2061.jpg",
-       "saldo": 32
+       "saldo": 152
       },
       {
        "cod": 2063,
        "cor": "Verde Bandeira",
        "nome": "COLORSETE A4 C/50 VERDE BANDEIRA",
        "img": "produtos/2063.jpg",
-       "saldo": 15
+       "saldo": 135
       },
       {
        "cod": 2064,
@@ -11761,14 +11769,14 @@
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 33
+       "saldo": 133
       },
       {
        "cod": 5162,
        "cor": "Violeta",
        "nome": "COLORSETE A4 C/50 VIOLETA",
        "img": "produtos/5162.jpg",
-       "saldo": 22
+       "saldo": 142
       }
      ]
     },
@@ -11835,6 +11843,13 @@
        "nome": "COLORSETE-ROSA",
        "img": "produtos/2045.jpg",
        "saldo": 62
+      },
+      {
+       "cod": 2047,
+       "cor": "Verde Bandeira",
+       "nome": "COLORSETE-VERDE BANDEIRA",
+       "img": "produtos/2047.jpg",
+       "saldo": 60
       },
       {
        "cod": 2048,
@@ -12087,7 +12102,7 @@
      "marca": "",
      "preco": 15.0,
      "img": "produtos/3580.jpg",
-     "saldo": 45
+     "saldo": 95
     },
     {
      "cod": 6844,
@@ -12095,7 +12110,7 @@
      "marca": "MINASPEL",
      "preco": 29.9,
      "img": "produtos/6844.jpg",
-     "saldo": 22
+     "saldo": 192
     },
     {
      "cod": 8404,
@@ -12159,7 +12174,7 @@
      "marca": "PRIMUS",
      "preco": 25.9,
      "img": "produtos/9052.jpg",
-     "saldo": 70
+     "saldo": 68
     },
     {
      "cod": 2007,
@@ -12229,7 +12244,7 @@
      "marca": "GRIFFE",
      "preco": 8.9,
      "img": "produtos/3340.jpg",
-     "saldo": 49
+     "saldo": 199
     },
     {
      "cod": 6495,
@@ -12309,7 +12324,7 @@
      "marca": "GRIFFE",
      "preco": 13.9,
      "img": "produtos/6667.jpg",
-     "saldo": 105
+     "saldo": 255
     },
     {
      "cod": 11515,
@@ -16618,7 +16633,7 @@
      "marca": "VABENE",
      "preco": 15.9,
      "img": "produtos/3656.jpg",
-     "saldo": 17
+     "saldo": 16
     }
    ]
   },
@@ -18453,14 +18468,6 @@
      "saldo": 1
     },
     {
-     "cod": 12260,
-     "nome": "MOCHILA MALA LUXCEL-GASH VIOLETA (MF10518GA-VL)",
-     "marca": "LUXCEL",
-     "preco": 618.9,
-     "img": "produtos/12260.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13358,
      "nome": "MOCHILA MALA LUXCEL-STITCH ROSA (MF10534SC-RA)",
      "marca": "LUXCEL",
@@ -19540,14 +19547,6 @@
      "saldo": 1
     },
     {
-     "cod": 5422,
-     "nome": "ESTOJO MT 2F-PATRULHA CANINA ROSA",
-     "marca": "MT KIDS",
-     "preco": 26.9,
-     "img": "produtos/5422.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 13090,
      "nome": "ESTOJO MT BOX TRANSPARENTE-NUDE",
      "marca": "MT KIDS",
@@ -19745,7 +19744,7 @@
      "marca": "XERYUS",
      "preco": 56.9,
      "img": "produtos/13314.jpg",
-     "saldo": 2
+     "saldo": 1
     },
     {
      "cod": 13308,
@@ -21106,7 +21105,7 @@
      "marca": "BRW",
      "preco": 8.9,
      "img": "produtos/11869.jpg",
-     "saldo": 9
+     "saldo": 8
     },
     {
      "cod": 6624,
@@ -21862,7 +21861,7 @@
      "marca": "ACRILEX",
      "preco": 7.9,
      "img": "produtos/1877.jpg",
-     "saldo": 1555
+     "saldo": 1554
     },
     {
      "cod": 3538,
@@ -23696,7 +23695,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5796
+     "saldo": 5794
     },
     {
      "cod": 944,
@@ -25090,7 +25089,7 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/15026.jpg",
-     "saldo": 931
+     "saldo": 930
     },
     {
      "cod": 14835,
@@ -25122,7 +25121,7 @@
      "marca": "ULTRA",
      "preco": 15.9,
      "img": "produtos/4573.jpg",
-     "saldo": 593
+     "saldo": 592
     },
     {
      "cod": 2516,
@@ -25424,7 +25423,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 766
+     "saldo": 696
     },
     {
      "cod": 1415,
@@ -25531,14 +25530,6 @@
      "saldo": 1
     },
     {
-     "cod": 1361,
-     "nome": "FORMA S13 C/100-SANPACK",
-     "marca": "SANPACK",
-     "preco": 66.9,
-     "img": "produtos/1361.jpg",
-     "saldo": 1
-    },
-    {
      "cod": 1362,
      "nome": "FORMA S18 C/100-ECO",
      "marca": "ECOPLAST",
@@ -25560,7 +25551,7 @@
      "marca": "SANPACK",
      "preco": 95.9,
      "img": "produtos/14062.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 11999,
@@ -25728,7 +25719,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/14621.jpg",
-     "saldo": 4
+     "saldo": 3
     }
    ]
   },
@@ -27244,7 +27235,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 2709,
@@ -27284,7 +27275,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 309
+     "saldo": 306
     },
     {
      "cod": 13027,
@@ -27316,7 +27307,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 2718,
@@ -30560,7 +30551,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 179
+     "saldo": 177
     },
     {
      "cod": 1155,
@@ -31548,7 +31539,7 @@
      "marca": "INTERFORTY",
      "preco": 24.9,
      "img": "produtos/2153.jpg",
-     "saldo": 150
+     "saldo": 148
     },
     {
      "cod": 6529,
@@ -33520,14 +33511,14 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
-     "saldo": 80,
+     "saldo": 78,
      "cores": [
       {
        "cod": 1829,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO PILOT-AMARELO",
        "img": "produtos/1829.jpg",
-       "saldo": 80
+       "saldo": 78
       },
       {
        "cod": 1830,
