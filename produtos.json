@@ -2048,7 +2048,7 @@
      "marca": "TRIS",
      "preco": 10.9,
      "img": "produtos/12626.jpg",
-     "saldo": 144
+     "saldo": 143
     },
     {
      "cod": 14582,
@@ -2673,7 +2673,7 @@
      "marca": "MAPED",
      "preco": 1.5,
      "img": "produtos/11566.jpg",
-     "saldo": 285
+     "saldo": 284
     },
     {
      "cod": 11564,
@@ -3056,7 +3056,7 @@
      "marca": "ACRILEX",
      "preco": 6.9,
      "img": "produtos/10260.jpg",
-     "saldo": 73
+     "saldo": 71
     },
     {
      "cod": 7529,
@@ -9870,7 +9870,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3805
+     "saldo": 3804
     },
     {
      "cod": 14619,
@@ -9928,7 +9928,7 @@
        "cor": "Vermelho",
        "nome": "DUREX COLOR.12X10M-VERMELHO",
        "img": "produtos/1027.jpg",
-       "saldo": 551
+       "saldo": 550
       }
      ]
     },
@@ -10096,7 +10096,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 506
+     "saldo": 504
     },
     {
      "cod": 4389,
@@ -10837,7 +10837,7 @@
      "marca": "MERCUR",
      "preco": 4.9,
      "img": "produtos/4212.jpg",
-     "saldo": 128
+     "saldo": 127
     },
     {
      "cod": 2618,
@@ -10905,7 +10905,7 @@
      "marca": "ACC",
      "preco": 28.9,
      "img": "produtos/1530.jpg",
-     "saldo": 62
+     "saldo": 57
     },
     {
      "cod": 3475,
@@ -10993,7 +10993,7 @@
      "marca": "MASTERPRIN",
      "preco": 5.9,
      "img": "produtos/6612.jpg",
-     "saldo": 14
+     "saldo": 19
     },
     {
      "cod": 4361,
@@ -11167,7 +11167,7 @@
      "marca": "GRIFFE",
      "preco": 3.0,
      "img": "produtos/1981.jpg",
-     "saldo": 100
+     "saldo": 80
     },
     {
      "cod": 4320,
@@ -11855,7 +11855,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 110
+       "saldo": 108
       }
      ]
     },
@@ -12158,7 +12158,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 1002
+     "saldo": 995
     },
     {
      "cod": 9052,
@@ -12856,14 +12856,14 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3020.jpg",
-     "saldo": 48,
+     "saldo": 47,
      "cores": [
       {
        "cod": 3020,
        "cor": "Amarelo Ouro",
        "nome": "GUACHE 250ML ACRILEX-AMARELO OURO",
        "img": "produtos/3020.jpg",
-       "saldo": 48
+       "saldo": 47
       },
       {
        "cod": 12685,
@@ -12891,14 +12891,14 @@
        "cor": "Azul Turquesa",
        "nome": "GUACHE 250ML ACRILEX-AZUL TURQUESA",
        "img": "produtos/3021.jpg",
-       "saldo": 58
+       "saldo": 57
       },
       {
        "cod": 3022,
        "cor": "Branca",
        "nome": "GUACHE 250ML ACRILEX-BRANCA",
        "img": "produtos/3022.jpg",
-       "saldo": 38
+       "saldo": 37
       },
       {
        "cod": 12686,
@@ -12912,7 +12912,7 @@
        "cor": "Laranja",
        "nome": "GUACHE 250ML ACRILEX-LARANJA",
        "img": "produtos/3023.jpg",
-       "saldo": 63
+       "saldo": 62
       },
       {
        "cod": 11882,
@@ -12933,28 +12933,28 @@
        "cor": "Marrom",
        "nome": "GUACHE 250ML ACRILEX-MARROM",
        "img": "produtos/3024.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 3025,
        "cor": "Preto",
        "nome": "GUACHE 250ML ACRILEX-PRETO",
        "img": "produtos/3025.jpg",
-       "saldo": 51
+       "saldo": 50
       },
       {
        "cod": 3026,
        "cor": "Rosa",
        "nome": "GUACHE 250ML ACRILEX-ROSA",
        "img": "produtos/3026.jpg",
-       "saldo": 73
+       "saldo": 72
       },
       {
        "cod": 3028,
        "cor": "Verde Bandeira",
        "nome": "GUACHE 250ML ACRILEX-VERDE BANDEIRA",
        "img": "produtos/3028.jpg",
-       "saldo": 55
+       "saldo": 54
       },
       {
        "cod": 12684,
@@ -12968,7 +12968,7 @@
        "cor": "Violeta",
        "nome": "GUACHE 250ML ACRILEX-VIOLETA",
        "img": "produtos/3027.jpg",
-       "saldo": 73
+       "saldo": 72
       }
      ]
     },
@@ -12986,7 +12986,7 @@
      "marca": "ACRILEX",
      "preco": 10.9,
      "img": "produtos/3029.jpg",
-     "saldo": 48
+     "saldo": 47
     },
     {
      "cod": 3033,
@@ -15027,14 +15027,6 @@
      "saldo": 1
     },
     {
-     "cod": 2535,
-     "nome": "PRANCHETA ACRILICA OF. (PREND. METAL) CRISTAL",
-     "marca": "",
-     "preco": 27.9,
-     "img": "produtos/2535.jpg",
-     "saldo": 2
-    },
-    {
      "cod": 2534,
      "nome": "PRANCHETA ACRILICA OF. (PREND. METAL) PRETA",
      "marca": "MAXCRIL",
@@ -15462,7 +15454,7 @@
      "marca": "",
      "preco": 37.9,
      "img": "produtos/6196.jpg",
-     "saldo": 256
+     "saldo": 254
     },
     {
      "cod": 6951,
@@ -23641,7 +23633,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 33
+     "saldo": 32
     }
    ]
   },
@@ -23871,7 +23863,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 486
+     "saldo": 485
     },
     {
      "cod": 958,
@@ -23991,7 +23983,7 @@
      "marca": "COPOMAIS",
      "preco": 6.9,
      "img": "produtos/14412.jpg",
-     "saldo": 505
+     "saldo": 500
     },
     {
      "cod": 2934,
@@ -24309,7 +24301,7 @@
      "marca": "ISOMAX",
      "preco": 3.9,
      "img": "produtos/9931.jpg",
-     "saldo": 6
+     "saldo": 3
     },
     {
      "cod": 9932,
@@ -24317,7 +24309,7 @@
      "marca": "ISOMAX",
      "preco": 8.9,
      "img": "produtos/9932.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 9933,
@@ -24461,7 +24453,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/7363.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 7364,
@@ -24733,7 +24725,7 @@
      "marca": "COPOBRAS",
      "preco": 22.0,
      "img": "produtos/2937.jpg",
-     "saldo": 173
+     "saldo": 166
     },
     {
      "cod": 4146,
@@ -24749,7 +24741,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 173
+     "saldo": 166
     },
     {
      "cod": 3887,
@@ -25081,7 +25073,7 @@
      "marca": "PLASZOM",
      "preco": 11.9,
      "img": "produtos/15028.jpg",
-     "saldo": 198
+     "saldo": 195
     },
     {
      "cod": 15026,
@@ -25097,7 +25089,7 @@
      "marca": "GALVANOTEK",
      "preco": 15.9,
      "img": "produtos/14835.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 11853,
@@ -25145,7 +25137,7 @@
      "marca": "COPOMAIS",
      "preco": 5.9,
      "img": "produtos/14410.jpg",
-     "saldo": 496
+     "saldo": 491
     },
     {
      "cod": 7343,
@@ -25765,7 +25757,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1071
+     "saldo": 1063
     },
     {
      "cod": 2552,
@@ -26201,7 +26193,7 @@
      "marca": "LIMPMAX",
      "preco": 2.9,
      "img": "produtos/14268.jpg",
-     "saldo": 2352
+     "saldo": 2362
     },
     {
      "cod": 1553,
@@ -26399,7 +26391,7 @@
      "marca": "MARMITINHA",
      "preco": 49.9,
      "img": "produtos/1341.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 1344,
@@ -26543,7 +26535,7 @@
      "marca": "PITPRATOS",
      "preco": 1.4,
      "img": "produtos/2544.jpg",
-     "saldo": 46
+     "saldo": 26
     },
     {
      "cod": 2545,
@@ -26559,7 +26551,7 @@
      "marca": "PITPRATOS",
      "preco": 1.9,
      "img": "produtos/2546.jpg",
-     "saldo": 54
+     "saldo": 34
     },
     {
      "cod": 2547,
@@ -27041,16 +27033,16 @@
      "marca": "TIBA",
      "preco": 9.9,
      "img": "produtos/14685.jpg",
-     "saldo": 24,
+     "saldo": 22,
      "controle": [
       "AZUL",
       "PRETO",
       "ROSA"
      ],
      "saldo_cor": {
-      "AZUL": 8,
+      "AZUL": 7,
       "PRETO": 7,
-      "ROSA": 9
+      "ROSA": 8
      }
     },
     {
@@ -27149,7 +27141,7 @@
      "marca": "BANDEIRANT",
      "preco": 13.9,
      "img": "produtos/14696.jpg",
-     "saldo": 11
+     "saldo": 10
     },
     {
      "cod": 13321,
@@ -27563,7 +27555,7 @@
      "marca": "KROMASA",
      "preco": 16.9,
      "img": "produtos/2768.jpg",
-     "saldo": 263
+     "saldo": 262
     },
     {
      "cod": 2769,
@@ -27667,7 +27659,7 @@
      "marca": "KROMASA",
      "preco": 1.5,
      "img": "produtos/2806.jpg",
-     "saldo": 1951
+     "saldo": 1941
     },
     {
      "cod": 2807,
@@ -27889,7 +27881,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/2824.jpg",
-     "saldo": 598
+     "saldo": 597
     },
     {
      "cod": 10972,
@@ -27897,7 +27889,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1618
+     "saldo": 1615
     },
     {
      "cod": 2826,
@@ -27996,7 +27988,7 @@
        "cor": "Preta",
        "nome": "SACOLA PH 20X30 C/50-PRETA",
        "img": "produtos/4550.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 13963,
@@ -28190,7 +28182,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2297
+     "saldo": 2296
     },
     {
      "cod": 6821,
@@ -28198,7 +28190,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 686
+     "saldo": 685
     },
     {
      "cod": 6855,
@@ -28206,7 +28198,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 466
+     "saldo": 441
     },
     {
      "cod": 2875,
@@ -28412,7 +28404,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 218
+     "saldo": 217
     },
     {
      "cod": 6966,
@@ -28436,7 +28428,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 11900
+     "saldo": 11400
     },
     {
      "cod": 1337,
@@ -29004,7 +28996,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 553
+     "saldo": 547
     },
     {
      "cod": 4285,
@@ -29012,7 +29004,7 @@
      "marca": "CHIARA",
      "preco": 8.9,
      "img": "produtos/4285.jpg",
-     "saldo": 737
+     "saldo": 727
     },
     {
      "cod": 4936,
@@ -29829,14 +29821,14 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
-     "saldo": 71,
+     "saldo": 56,
      "cores": [
       {
        "cod": 11919,
        "cor": "Rosa",
        "nome": "LAÇO PRONTO (GG)-ROSA",
        "img": "produtos/11919.jpg",
-       "saldo": 71
+       "saldo": 56
       },
       {
        "cod": 11918,
@@ -30551,7 +30543,7 @@
      "marca": "PRIMUS",
      "preco": 24.9,
      "img": "produtos/1153.jpg",
-     "saldo": 177
+     "saldo": 174
     },
     {
      "cod": 1155,
@@ -31333,7 +31325,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 26
+     "saldo": 25
     },
     {
      "cod": 10304,
@@ -31405,7 +31397,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/1874.jpg",
-     "saldo": 3
+     "saldo": 2
     },
     {
      "cod": 3085,
