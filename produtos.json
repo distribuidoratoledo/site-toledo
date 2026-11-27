@@ -143,21 +143,21 @@
      "marca": "BIC",
      "preco": 1.5,
      "img": "produtos/555.jpg",
-     "saldo": 640,
+     "saldo": 639,
      "cores": [
       {
        "cod": 555,
        "cor": "Azul",
        "nome": "CANETA BIC FINE PLUS-AZUL",
        "img": "produtos/555.jpg",
-       "saldo": 640
+       "saldo": 639
       },
       {
        "cod": 556,
        "cor": "Preta",
        "nome": "CANETA BIC FINE PLUS-PRETA",
        "img": "produtos/556.jpg",
-       "saldo": 425
+       "saldo": 424
       },
       {
        "cod": 557,
@@ -4217,7 +4217,7 @@
      "marca": "MERCUR",
      "preco": 1.5,
      "img": "produtos/274.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 8161,
@@ -10797,7 +10797,7 @@
      "marca": "JOCAR",
      "preco": 6.9,
      "img": "produtos/982.jpg",
-     "saldo": 121
+     "saldo": 120
     },
     {
      "cod": 6632,
@@ -12126,7 +12126,7 @@
      "marca": "CHAMEX",
      "preco": 17.9,
      "img": "produtos/5082.jpg",
-     "saldo": 63
+     "saldo": 58
     },
     {
      "cod": 4502,
@@ -16668,7 +16668,7 @@
      "marca": "",
      "preco": 4.9,
      "img": "produtos/7200.jpg",
-     "saldo": 110
+     "saldo": 108
     },
     {
      "cod": 7201,
@@ -16676,7 +16676,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/7201.jpg",
-     "saldo": 75
+     "saldo": 74
     },
     {
      "cod": 13124,
@@ -17003,7 +17003,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 191
+       "saldo": 161
       },
       {
        "cod": 1221,
@@ -17113,7 +17113,7 @@
        "cor": "Branco",
        "nome": "EVA LISO-BRANCO",
        "img": "produtos/1233.jpg",
-       "saldo": 76
+       "saldo": 46
       },
       {
        "cod": 1235,
@@ -18036,6 +18036,14 @@
      "saldo": 4
     },
     {
+     "cod": 15130,
+     "nome": "MOCHILA CARRINHO LUXCEL-HOMEM ARANHA AZUL",
+     "marca": "LUXCEL",
+     "preco": 360.16,
+     "img": "produtos/15130.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 14985,
      "nome": "MOCHILA CARRINHO LUXCEL-HOT WHEELS",
      "marca": "LUXCEL",
@@ -18069,11 +18077,27 @@
     },
     {
      "cod": 14984,
-     "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO 4R ROSA",
+     "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO 4R",
      "marca": "LUXCEL",
      "preco": 548.9,
      "img": "produtos/14984.jpg",
-     "saldo": 4
+     "saldo": 4,
+     "cores": [
+      {
+       "cod": 14984,
+       "cor": "Rosa",
+       "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO 4R ROSA",
+       "img": "produtos/14984.jpg",
+       "saldo": 4
+      },
+      {
+       "cod": 15131,
+       "cor": "Verde",
+       "nome": "MOCHILA CARRINHO LUXCEL-LULUZINHO 4R VERDE",
+       "img": "produtos/15131.jpg",
+       "saldo": 4
+      }
+     ]
     },
     {
      "cod": 14981,
@@ -18981,12 +19005,28 @@
      "saldo": 1
     },
     {
-     "cod": 15017,
-     "nome": "NECESSAIRE LUXCEL-UP4YOU FITNESS ROSA",
+     "cod": 15132,
+     "nome": "NECESSAIRE LUXCEL-UP4YOU FITNESS",
      "marca": "LUXCEL",
      "preco": 58.9,
-     "img": "produtos/15017.jpg",
-     "saldo": 2
+     "img": "produtos/15132.jpg",
+     "saldo": 2,
+     "cores": [
+      {
+       "cod": 15132,
+       "cor": "Preto",
+       "nome": "NECESSAIRE LUXCEL-UP4YOU FITNESS PRETO",
+       "img": "produtos/15132.jpg",
+       "saldo": 2
+      },
+      {
+       "cod": 15017,
+       "cor": "Rosa",
+       "nome": "NECESSAIRE LUXCEL-UP4YOU FITNESS ROSA",
+       "img": "produtos/15017.jpg",
+       "saldo": 2
+      }
+     ]
     },
     {
      "cod": 14684,
@@ -19419,6 +19459,22 @@
      "saldo": 1
     },
     {
+     "cod": 15118,
+     "nome": "ESTOJO LUXCEL 3F-HOMEM ARANHA AZUL",
+     "marca": "LUXCEL",
+     "preco": 59.9,
+     "img": "produtos/15118.jpg",
+     "saldo": 4
+    },
+    {
+     "cod": 15119,
+     "nome": "ESTOJO LUXCEL 3F-HOMEM ARANHA AZUL(SPIDEY)",
+     "marca": "LUXCEL",
+     "preco": 59.9,
+     "img": "produtos/15119.jpg",
+     "saldo": 4
+    },
+    {
      "cod": 12422,
      "nome": "ESTOJO LUXCEL 3F-STITCH PRETO (ET50085SC-PT)",
      "marca": "LUXCEL",
@@ -19745,6 +19801,14 @@
      "preco": 37.9,
      "img": "produtos/13327.jpg",
      "saldo": 1
+    },
+    {
+     "cod": 15120,
+     "nome": "ESTOJOLUXCEL 3F-SONIC RELEVO AZUL",
+     "marca": "LUXCEL",
+     "preco": 59.9,
+     "img": "produtos/15120.jpg",
+     "saldo": 4
     }
    ]
   },
@@ -20032,6 +20096,14 @@
      "saldo": 1
     },
     {
+     "cod": 15121,
+     "nome": "LANCHEIRA LUXCEL-UP4YOU PRETO",
+     "marca": "LUXCEL",
+     "preco": 125.9,
+     "img": "produtos/15121.jpg",
+     "saldo": 10
+    },
+    {
      "cod": 14961,
      "nome": "LANCHEIRA LUXCEL-UP4YOU SOFT",
      "marca": "LUXCEL",
@@ -20307,7 +20379,7 @@
      "marca": "",
      "preco": 0.1,
      "img": "produtos/1065.jpg",
-     "saldo": 12412
+     "saldo": 12402
     },
     {
      "cod": 1039,
@@ -21845,7 +21917,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/3538.jpg",
-     "saldo": 755
+     "saldo": 754
     },
     {
      "cod": 12731,
@@ -23672,7 +23744,7 @@
      "marca": "COPOJU",
      "preco": 4.9,
      "img": "produtos/14406.jpg",
-     "saldo": 5758
+     "saldo": 5755
     },
     {
      "cod": 944,
@@ -23720,7 +23792,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/949.jpg",
-     "saldo": 667
+     "saldo": 627
     },
     {
      "cod": 14407,
@@ -23728,7 +23800,7 @@
      "marca": "COPOMAIS",
      "preco": 8.9,
      "img": "produtos/14407.jpg",
-     "saldo": 146
+     "saldo": 145
     },
     {
      "cod": 8806,
@@ -23856,7 +23928,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 483
+     "saldo": 423
     },
     {
      "cod": 958,
@@ -24102,7 +24174,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/4618.jpg",
-     "saldo": 562
+     "saldo": 561
     },
     {
      "cod": 4617,
@@ -24118,7 +24190,7 @@
      "marca": "",
      "preco": 12.5,
      "img": "produtos/4060.jpg",
-     "saldo": 311
+     "saldo": 310
     },
     {
      "cod": 177,
@@ -24134,7 +24206,7 @@
      "marca": "",
      "preco": 25.9,
      "img": "produtos/3772.jpg",
-     "saldo": 103
+     "saldo": 102
     },
     {
      "cod": 179,
@@ -24702,7 +24774,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 52
+     "saldo": 51
     },
     {
      "cod": 2937,
@@ -24718,7 +24790,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 142
+     "saldo": 141
     },
     {
      "cod": 2491,
@@ -24852,7 +24924,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 1316
+     "saldo": 1306
     },
     {
      "cod": 880,
@@ -25050,7 +25122,7 @@
      "marca": "ULTRA",
      "preco": 10.9,
      "img": "produtos/15025.jpg",
-     "saldo": 298
+     "saldo": 297
     },
     {
      "cod": 15028,
@@ -25400,7 +25472,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 696
+     "saldo": 687
     },
     {
      "cod": 1415,
@@ -26162,7 +26234,7 @@
      "marca": "SANTPEL",
      "preco": 13.9,
      "img": "produtos/7935.jpg",
-     "saldo": 401
+     "saldo": 391
     },
     {
      "cod": 3951,
@@ -26218,7 +26290,7 @@
      "marca": "LIDER",
      "preco": 69.9,
      "img": "produtos/13007.jpg",
-     "saldo": 18
+     "saldo": 17
     },
     {
      "cod": 13006,
@@ -30719,7 +30791,7 @@
      "marca": "GRESPAN",
      "preco": 31.9,
      "img": "produtos/3939.jpg",
-     "saldo": 29
+     "saldo": 26
     },
     {
      "cod": 1207,
@@ -31515,7 +31587,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 86
+     "saldo": 85
     },
     {
      "cod": 9017,
@@ -31587,7 +31659,7 @@
      "marca": "SLIM PAPER",
      "preco": 14.9,
      "img": "produtos/6529.jpg",
-     "saldo": 1178
+     "saldo": 1168
     },
     {
      "cod": 2157,
@@ -31657,7 +31729,7 @@
      "marca": "",
      "preco": 17.9,
      "img": "produtos/9829.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 6754,
@@ -31665,7 +31737,7 @@
      "marca": "",
      "preco": 89.9,
      "img": "produtos/6754.jpg",
-     "saldo": 44
+     "saldo": 43
     },
     {
      "cod": 6749,
