@@ -118,7 +118,7 @@
        "cor": "Preta",
        "nome": "CANETA BIC CRISTAL-PRETA",
        "img": "produtos/553.jpg",
-       "saldo": 1927
+       "saldo": 1924
       },
       {
        "cod": 554,
@@ -333,7 +333,7 @@
      "marca": "CIS",
      "preco": 4.9,
      "img": "produtos/10629.jpg",
-     "saldo": 27
+     "saldo": 26
     },
     {
      "cod": 10627,
@@ -2258,7 +2258,7 @@
      "marca": "ACRILEX",
      "preco": 0.8,
      "img": "produtos/7698.jpg",
-     "saldo": 812
+     "saldo": 806
     },
     {
      "cod": 1670,
@@ -2721,7 +2721,7 @@
      "marca": "MAPED",
      "preco": 1.9,
      "img": "produtos/13305.jpg",
-     "saldo": 20
+     "saldo": 14
     },
     {
      "cod": 7860,
@@ -23871,7 +23871,7 @@
      "marca": "ULTRA",
      "preco": 13.9,
      "img": "produtos/953.jpg",
-     "saldo": 492
+     "saldo": 486
     },
     {
      "cod": 958,
@@ -23911,7 +23911,7 @@
      "marca": "TOTALPLAST",
      "preco": 3.9,
      "img": "produtos/7011.jpg",
-     "saldo": 437
+     "saldo": 424
     },
     {
      "cod": 9745,
@@ -25097,7 +25097,7 @@
      "marca": "GALVANOTEK",
      "preco": 15.9,
      "img": "produtos/14835.jpg",
-     "saldo": 23
+     "saldo": 22
     },
     {
      "cod": 11853,
@@ -25797,7 +25797,7 @@
      "marca": "",
      "preco": 3.5,
      "img": "produtos/2553.jpg",
-     "saldo": 1461
+     "saldo": 1458
     },
     {
      "cod": 11873,
@@ -27483,7 +27483,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 143
+     "saldo": 142
     },
     {
      "cod": 3652,
@@ -28714,7 +28714,7 @@
      "marca": "GERAPLAST",
      "preco": 46.9,
      "img": "produtos/2902.jpg",
-     "saldo": 61
+     "saldo": 59
     }
    ]
   },
@@ -31421,7 +31421,7 @@
      "marca": "",
      "preco": 10.9,
      "img": "produtos/3085.jpg",
-     "saldo": 233
+     "saldo": 232
     },
     {
      "cod": 7275,
@@ -31451,7 +31451,7 @@
      "marca": "SLIM PAPER",
      "preco": 39.9,
      "img": "produtos/7015.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 2102,
