@@ -3635,14 +3635,14 @@
      "marca": "PILOT",
      "preco": 6.9,
      "img": "produtos/2656.jpg",
-     "saldo": 198,
+     "saldo": 197,
      "cores": [
       {
        "cod": 2656,
        "cor": "Azul",
        "nome": "RETRO 2.0 PILOT-AZUL",
        "img": "produtos/2656.jpg",
-       "saldo": 198
+       "saldo": 197
       },
       {
        "cod": 2657,
@@ -3663,7 +3663,7 @@
        "cor": "Vermelho",
        "nome": "RETRO 2.0 PILOT-VERMELHO",
        "img": "produtos/2659.jpg",
-       "saldo": 15
+       "saldo": 14
       }
      ]
     }
@@ -9978,7 +9978,7 @@
      "marca": "ADELBRAS",
      "preco": 7.5,
      "img": "produtos/1293.jpg",
-     "saldo": 316
+     "saldo": 315
     },
     {
      "cod": 1294,
@@ -10905,7 +10905,7 @@
      "marca": "ACC",
      "preco": 28.9,
      "img": "produtos/1530.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 3475,
@@ -11855,7 +11855,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE-VERMELHO",
        "img": "produtos/2050.jpg",
-       "saldo": 108
+       "saldo": 106
       }
      ]
     },
@@ -12252,7 +12252,7 @@
      "marca": "MASTERPRIN",
      "preco": 39.9,
      "img": "produtos/2096.jpg",
-     "saldo": 27
+     "saldo": 7
     },
     {
      "cod": 11784,
@@ -22445,7 +22445,7 @@
      "marca": "FOXLUX",
      "preco": 21.9,
      "img": "produtos/6961.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 9770,
@@ -23442,7 +23442,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14573.jpg",
-     "saldo": 28,
+     "saldo": 27,
      "controle": [
       "AMARELO",
       "AZUL",
@@ -23453,7 +23453,7 @@
       "AMARELO": 7,
       "AZUL": 6,
       "ROSA": 7,
-      "VERMELHO": 8
+      "VERMELHO": 7
      }
     },
     {
@@ -23486,7 +23486,7 @@
      "marca": "TRIS",
      "preco": 3.9,
      "img": "produtos/14612.jpg",
-     "saldo": 29,
+     "saldo": 28,
      "controle": [
       "AZUL",
       "PINK",
@@ -23494,7 +23494,7 @@
       "ROXO"
      ],
      "saldo_cor": {
-      "AZUL": 7,
+      "AZUL": 6,
       "PINK": 8,
       "ROSA": 8,
       "ROXO": 6
@@ -24166,14 +24166,6 @@
      "marca": "",
      "preco": 146.9,
      "img": "produtos/184.jpg",
-     "saldo": 1
-    },
-    {
-     "cod": 183,
-     "nome": "BANDEJA ISOPOR CR-008 C/100",
-     "marca": "COPOBRAS",
-     "preco": 102.9,
-     "img": "produtos/183.jpg",
      "saldo": 1
     },
     {
@@ -29047,7 +29039,7 @@
      "marca": "RIO BRANCO",
      "preco": 5.9,
      "img": "produtos/4935.jpg",
-     "saldo": 547
+     "saldo": 546
     },
     {
      "cod": 4285,
@@ -29063,7 +29055,7 @@
      "marca": "CHIARA",
      "preco": 9.9,
      "img": "produtos/4936.jpg",
-     "saldo": 376
+     "saldo": 375
     },
     {
      "cod": 2762,
@@ -29087,7 +29079,7 @@
      "marca": "FORT-PACK",
      "preco": 13.9,
      "img": "produtos/4937.jpg",
-     "saldo": 41
+     "saldo": 40
     },
     {
      "cod": 4960,
