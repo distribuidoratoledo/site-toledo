@@ -1089,14 +1089,14 @@
      "marca": "JOCAR",
      "preco": 1.0,
      "img": "produtos/9369.jpg",
-     "saldo": 19,
+     "saldo": 18,
      "cores": [
       {
        "cod": 9369,
        "cor": "Azul",
        "nome": "CANETA JOCAR 1.0-AZUL",
        "img": "produtos/9369.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 9370,
@@ -3206,14 +3206,14 @@
      "marca": "JOCAR",
      "preco": 2.9,
      "img": "produtos/2338.jpg",
-     "saldo": 64,
+     "saldo": 63,
      "cores": [
       {
        "cod": 2338,
        "cor": "Azul",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-AZUL",
        "img": "produtos/2338.jpg",
-       "saldo": 64
+       "saldo": 63
       },
       {
        "cod": 2339,
@@ -3227,7 +3227,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.GROSSO JOCAR TOP-VERMELHO",
        "img": "produtos/9972.jpg",
-       "saldo": 187
+       "saldo": 186
       }
      ]
     },
@@ -3649,7 +3649,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 67
+       "saldo": 65
       },
       {
        "cod": 2658,
@@ -9966,7 +9966,7 @@
      "marca": "KORETECH",
      "preco": 2.5,
      "img": "produtos/1031.jpg",
-     "saldo": 3802
+     "saldo": 3789
     },
     {
      "cod": 14619,
@@ -10192,7 +10192,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 496
+     "saldo": 494
     },
     {
      "cod": 4389,
@@ -12174,7 +12174,7 @@
      "marca": "",
      "preco": 16.9,
      "img": "produtos/5986.jpg",
-     "saldo": 69
+     "saldo": 68
     },
     {
      "cod": 6114,
@@ -23816,7 +23816,7 @@
      "marca": "COPOBRAS",
      "preco": 6.9,
      "img": "produtos/943.jpg",
-     "saldo": 381
+     "saldo": 356
     },
     {
      "cod": 945,
@@ -26108,7 +26108,7 @@
      "marca": "ABN",
      "preco": 49.9,
      "img": "produtos/7023.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 3730,
@@ -27461,7 +27461,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 41,
+     "saldo": 40,
      "un": "KG"
     },
     {
@@ -28317,7 +28317,7 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 30X40 C/50-DOURADA",
        "img": "produtos/3958.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 2854,
@@ -28471,7 +28471,7 @@
      "marca": "MP",
      "preco": 26.9,
      "img": "produtos/7678.jpg",
-     "saldo": 210,
+     "saldo": 197,
      "un": "KG"
     },
     {
@@ -28613,7 +28613,7 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 218,
+     "saldo": 215,
      "un": "KG"
     },
     {
@@ -28846,7 +28846,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2236
+     "saldo": 2226
     },
     {
      "cod": 2896,
@@ -28878,7 +28878,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 828
+     "saldo": 818
     },
     {
      "cod": 2900,
@@ -28902,7 +28902,7 @@
      "marca": "GERAPLAST",
      "preco": 58.9,
      "img": "produtos/7358.jpg",
-     "saldo": 184
+     "saldo": 183
     },
     {
      "cod": 2902,
@@ -29042,7 +29042,7 @@
      "marca": "",
      "preco": 14.9,
      "img": "produtos/1270.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 1272,
@@ -30033,14 +30033,14 @@
      "marca": "GRESPAN",
      "preco": 1.5,
      "img": "produtos/11919.jpg",
-     "saldo": 56,
+     "saldo": 55,
      "cores": [
       {
        "cod": 11919,
        "cor": "Rosa",
        "nome": "LAÇO PRONTO (GG)-ROSA",
        "img": "produtos/11919.jpg",
-       "saldo": 56
+       "saldo": 55
       },
       {
        "cod": 11918,
@@ -30658,7 +30658,7 @@
      "marca": "GERSELE",
      "preco": 3.8,
      "img": "produtos/6912.jpg",
-     "saldo": 310
+     "saldo": 309
     },
     {
      "cod": 10423,
@@ -31668,7 +31668,7 @@
      "marca": "INTERFORTY",
      "preco": 89.9,
      "img": "produtos/2103.jpg",
-     "saldo": 12
+     "saldo": 10
     },
     {
      "cod": 2104,
@@ -31740,7 +31740,7 @@
      "marca": "INTERFORTY",
      "preco": 29.9,
      "img": "produtos/2152.jpg",
-     "saldo": 127
+     "saldo": 112
     },
     {
      "cod": 2153,
@@ -31764,7 +31764,7 @@
      "marca": "INTERFORTY",
      "preco": 129.9,
      "img": "produtos/2157.jpg",
-     "saldo": 4
+     "saldo": 2
     },
     {
      "cod": 2156,
@@ -33720,14 +33720,14 @@
      "marca": "PILOT",
      "preco": 5.9,
      "img": "produtos/1829.jpg",
-     "saldo": 78,
+     "saldo": 77,
      "cores": [
       {
        "cod": 1829,
        "cor": "Amarelo",
        "nome": "MARCA TEXTO PILOT-AMARELO",
        "img": "produtos/1829.jpg",
-       "saldo": 78
+       "saldo": 77
       },
       {
        "cod": 1830,
@@ -34049,14 +34049,6 @@
      "saldo": 21
     },
     {
-     "cod": 7618,
-     "nome": "CONTACT DECORADO-CIMENTO QUEIMADO",
-     "marca": "LEOTACK",
-     "preco": 6.9,
-     "img": "produtos/7618.jpg",
-     "saldo": 7
-    },
-    {
      "cod": 7606,
      "nome": "CONTACT DECORADO-FLORAL 03",
      "marca": "LEOTACK",
@@ -34328,7 +34320,7 @@
      "marca": "LEOTACK",
      "preco": 3.9,
      "img": "produtos/933.jpg",
-     "saldo": 1448
+     "saldo": 1447
     },
     {
      "cod": 14579,
