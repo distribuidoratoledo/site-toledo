@@ -755,14 +755,14 @@
      "marca": "MOLIN",
      "preco": 6.9,
      "img": "produtos/14465.jpg",
-     "saldo": 21,
+     "saldo": 20,
      "cores": [
       {
        "cod": 14465,
        "cor": "Azul",
        "nome": "CANETA GEL MOLIN-AZUL",
        "img": "produtos/14465.jpg",
-       "saldo": 21
+       "saldo": 20
       },
       {
        "cod": 14466,
@@ -1506,7 +1506,7 @@
        "cor": "Vermelha",
        "nome": "CANETA PILOT S.GRIP 0.7-VERMELHA",
        "img": "produtos/616.jpg",
-       "saldo": 18
+       "saldo": 17
       }
      ]
     },
@@ -11089,7 +11089,7 @@
      "marca": "JOCAR",
      "preco": 4.5,
      "img": "produtos/9505.jpg",
-     "saldo": 27
+     "saldo": 87
     },
     {
      "cod": 6612,
@@ -24270,7 +24270,7 @@
      "marca": "",
      "preco": 21.9,
      "img": "produtos/7462.jpg",
-     "saldo": 17
+     "saldo": 11
     },
     {
      "cod": 4618,
@@ -24302,7 +24302,7 @@
      "marca": "",
      "preco": 29.9,
      "img": "produtos/177.jpg",
-     "saldo": 89
+     "saldo": 85
     },
     {
      "cod": 3772,
@@ -24566,7 +24566,7 @@
      "marca": "",
      "preco": 57.9,
      "img": "produtos/6946.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 8229,
@@ -28423,7 +28423,7 @@
      "marca": "",
      "preco": 35.9,
      "img": "produtos/3964.jpg",
-     "saldo": 35
+     "saldo": 32
     },
     {
      "cod": 2877,
@@ -28431,7 +28431,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/2877.jpg",
-     "saldo": 153
+     "saldo": 151
     }
    ]
   },
