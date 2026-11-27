@@ -9092,7 +9092,7 @@
      "marca": "CIS",
      "preco": 1.5,
      "img": "produtos/10652.jpg",
-     "saldo": 16
+     "saldo": 15
     },
     {
      "cod": 7554,
@@ -9124,7 +9124,7 @@
      "marca": "JOCAR/CIS",
      "preco": 4.9,
      "img": "produtos/2575.jpg",
-     "saldo": 24
+     "saldo": 22
     }
    ]
   },
@@ -9536,7 +9536,7 @@
      "marca": "ACRILEX",
      "preco": 4.9,
      "img": "produtos/835.jpg",
-     "saldo": 78
+     "saldo": 76
     },
     {
      "cod": 836,
@@ -12134,7 +12134,7 @@
      "marca": "CHAMEQUINH",
      "preco": 7.9,
      "img": "produtos/4502.jpg",
-     "saldo": 531
+     "saldo": 530
     },
     {
      "cod": 2015,
@@ -12158,7 +12158,7 @@
      "marca": "PAPEX",
      "preco": 26.9,
      "img": "produtos/2014.jpg",
-     "saldo": 995
+     "saldo": 993
     },
     {
      "cod": 9052,
@@ -12292,7 +12292,7 @@
      "marca": "SCRITY",
      "preco": 1.5,
      "img": "produtos/2113.jpg",
-     "saldo": 1426
+     "saldo": 1416
     },
     {
      "cod": 14085,
@@ -17265,7 +17265,7 @@
      "marca": "",
      "preco": 1.8,
      "img": "produtos/3065.jpg",
-     "saldo": 196
+     "saldo": 194
     },
     {
      "cod": 6999,
@@ -22031,7 +22031,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/14644.jpg",
-     "saldo": 39
+     "saldo": 38
     },
     {
      "cod": 14649,
@@ -23154,6 +23154,7 @@
      "preco": 124.9,
      "img": "produtos/1485.jpg",
      "saldo": 1,
+     "un": "KG",
      "cores": [
       {
        "cod": 1485,
@@ -23687,7 +23688,7 @@
      "marca": "TOTALPLAST",
      "preco": 5.5,
      "img": "produtos/942.jpg",
-     "saldo": 42
+     "saldo": 41
     },
     {
      "cod": 14414,
@@ -24605,7 +24606,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 150
+     "saldo": 148
     },
     {
      "cod": 3731,
@@ -24733,7 +24734,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/2491.jpg",
-     "saldo": 166
+     "saldo": 165
     },
     {
      "cod": 3887,
@@ -25527,7 +25528,7 @@
      "marca": "ECO",
      "preco": 69.9,
      "img": "produtos/1363.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 14062,
@@ -27219,7 +27220,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 16
+     "saldo": 16,
+     "un": "KG"
     },
     {
      "cod": 2709,
@@ -27227,7 +27229,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 180
+     "saldo": 180,
+     "un": "KG"
     },
     {
      "cod": 3651,
@@ -27235,7 +27238,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/3651.jpg",
-     "saldo": 277
+     "saldo": 277,
+     "un": "KG"
     },
     {
      "cod": 2710,
@@ -27243,7 +27247,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2710.jpg",
-     "saldo": 139
+     "saldo": 138,
+     "un": "KG"
     },
     {
      "cod": 2712,
@@ -27251,7 +27256,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2712.jpg",
-     "saldo": 205
+     "saldo": 205,
+     "un": "KG"
     },
     {
      "cod": 2711,
@@ -27259,7 +27265,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2711.jpg",
-     "saldo": 304
+     "saldo": 304,
+     "un": "KG"
     },
     {
      "cod": 13027,
@@ -27267,7 +27274,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/13027.jpg",
-     "saldo": 145
+     "saldo": 145,
+     "un": "KG"
     },
     {
      "cod": 2714,
@@ -27275,7 +27283,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2714.jpg",
-     "saldo": 90
+     "saldo": 90,
+     "un": "KG"
     },
     {
      "cod": 2715,
@@ -27283,7 +27292,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2715.jpg",
-     "saldo": 112
+     "saldo": 112,
+     "un": "KG"
     },
     {
      "cod": 2717,
@@ -27291,7 +27301,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 41
+     "saldo": 41,
+     "un": "KG"
     },
     {
      "cod": 2718,
@@ -27299,7 +27310,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2718.jpg",
-     "saldo": 44
+     "saldo": 44,
+     "un": "KG"
     },
     {
      "cod": 2716,
@@ -27307,7 +27319,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2716.jpg",
-     "saldo": 1
+     "saldo": 1,
+     "un": "KG"
     },
     {
      "cod": 10060,
@@ -27315,7 +27328,8 @@
      "marca": "DIFFATTO",
      "preco": 35.9,
      "img": "produtos/10060.jpg",
-     "saldo": 23
+     "saldo": 23,
+     "un": "KG"
     },
     {
      "cod": 2719,
@@ -27323,7 +27337,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2719.jpg",
-     "saldo": 105
+     "saldo": 105,
+     "un": "KG"
     },
     {
      "cod": 2720,
@@ -27331,7 +27346,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2720.jpg",
-     "saldo": 0
+     "saldo": 0,
+     "un": "KG"
     },
     {
      "cod": 2722,
@@ -27339,7 +27355,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2722.jpg",
-     "saldo": 52
+     "saldo": 52,
+     "un": "KG"
     },
     {
      "cod": 2723,
@@ -27347,7 +27364,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2723.jpg",
-     "saldo": 281
+     "saldo": 281,
+     "un": "KG"
     },
     {
      "cod": 2721,
@@ -27355,7 +27373,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2721.jpg",
-     "saldo": 77
+     "saldo": 77,
+     "un": "KG"
     },
     {
      "cod": 10061,
@@ -27363,7 +27382,8 @@
      "marca": "DIFFATTO",
      "preco": 35.9,
      "img": "produtos/10061.jpg",
-     "saldo": 15
+     "saldo": 15,
+     "un": "KG"
     },
     {
      "cod": 2724,
@@ -27371,7 +27391,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2724.jpg",
-     "saldo": 50
+     "saldo": 48,
+     "un": "KG"
     },
     {
      "cod": 2725,
@@ -27379,7 +27400,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2725.jpg",
-     "saldo": 62
+     "saldo": 55,
+     "un": "KG"
     },
     {
      "cod": 2726,
@@ -27387,7 +27409,8 @@
      "marca": "MP",
      "preco": 32.9,
      "img": "produtos/2726.jpg",
-     "saldo": 146
+     "saldo": 146,
+     "un": "KG"
     },
     {
      "cod": 13028,
@@ -27395,7 +27418,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/13028.jpg",
-     "saldo": 85
+     "saldo": 85,
+     "un": "KG"
     },
     {
      "cod": 2727,
@@ -27403,7 +27427,8 @@
      "marca": "SP",
      "preco": 32.9,
      "img": "produtos/2727.jpg",
-     "saldo": 169
+     "saldo": 169,
+     "un": "KG"
     },
     {
      "cod": 10062,
@@ -27411,7 +27436,8 @@
      "marca": "DIFFATTO",
      "preco": 35.9,
      "img": "produtos/10062.jpg",
-     "saldo": 34
+     "saldo": 34,
+     "un": "KG"
     },
     {
      "cod": 2729,
@@ -27419,7 +27445,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2729.jpg",
-     "saldo": 194
+     "saldo": 194,
+     "un": "KG"
     },
     {
      "cod": 2730,
@@ -27427,7 +27454,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2730.jpg",
-     "saldo": 4
+     "saldo": 4,
+     "un": "KG"
     },
     {
      "cod": 2728,
@@ -27435,7 +27463,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 115
+     "saldo": 115,
+     "un": "KG"
     },
     {
      "cod": 8160,
@@ -27443,7 +27472,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8160.jpg",
-     "saldo": 140
+     "saldo": 140,
+     "un": "KG"
     },
     {
      "cod": 2732,
@@ -27451,7 +27481,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2732.jpg",
-     "saldo": 66
+     "saldo": 66,
+     "un": "KG"
     },
     {
      "cod": 2731,
@@ -27459,7 +27490,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2731.jpg",
-     "saldo": 142
+     "saldo": 142,
+     "un": "KG"
     },
     {
      "cod": 3652,
@@ -27467,7 +27499,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/3652.jpg",
-     "saldo": 66
+     "saldo": 66,
+     "un": "KG"
     },
     {
      "cod": 2733,
@@ -27475,7 +27508,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2733.jpg",
-     "saldo": 140
+     "saldo": 140,
+     "un": "KG"
     },
     {
      "cod": 8100,
@@ -27483,7 +27517,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8100.jpg",
-     "saldo": 178
+     "saldo": 178,
+     "un": "KG"
     },
     {
      "cod": 2735,
@@ -27491,7 +27526,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2735.jpg",
-     "saldo": 126
+     "saldo": 126,
+     "un": "KG"
     },
     {
      "cod": 2736,
@@ -27499,7 +27535,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2736.jpg",
-     "saldo": 73
+     "saldo": 73,
+     "un": "KG"
     },
     {
      "cod": 2737,
@@ -27507,7 +27544,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2737.jpg",
-     "saldo": 280
+     "saldo": 280,
+     "un": "KG"
     },
     {
      "cod": 14426,
@@ -27515,7 +27553,8 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/14426.jpg",
-     "saldo": 116
+     "saldo": 116,
+     "un": "KG"
     },
     {
      "cod": 2738,
@@ -27587,7 +27626,7 @@
      "marca": "",
      "preco": 7.9,
      "img": "produtos/4941.jpg",
-     "saldo": 310
+     "saldo": 305
     },
     {
      "cod": 4942,
@@ -27913,7 +27952,8 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2837.jpg",
-     "saldo": 393
+     "saldo": 393,
+     "un": "KG"
     },
     {
      "cod": 2838,
@@ -27921,7 +27961,8 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2838.jpg",
-     "saldo": 360
+     "saldo": 360,
+     "un": "KG"
     },
     {
      "cod": 2839,
@@ -27929,7 +27970,8 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2839.jpg",
-     "saldo": 413
+     "saldo": 413,
+     "un": "KG"
     },
     {
      "cod": 2840,
@@ -27937,7 +27979,8 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/2840.jpg",
-     "saldo": 201
+     "saldo": 201,
+     "un": "KG"
     },
     {
      "cod": 3848,
@@ -28174,7 +28217,8 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2296
+     "saldo": 2296,
+     "un": "KG"
     },
     {
      "cod": 6821,
@@ -28182,7 +28226,8 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6821.jpg",
-     "saldo": 685
+     "saldo": 685,
+     "un": "KG"
     },
     {
      "cod": 6855,
@@ -28190,7 +28235,8 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 441
+     "saldo": 441,
+     "un": "KG"
     },
     {
      "cod": 2875,
@@ -28198,7 +28244,8 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 522
+     "saldo": 522,
+     "un": "KG"
     },
     {
      "cod": 6825,
@@ -28206,7 +28253,8 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6825.jpg",
-     "saldo": 617
+     "saldo": 617,
+     "un": "KG"
     },
     {
      "cod": 3964,
@@ -28214,7 +28262,7 @@
      "marca": "",
      "preco": 35.9,
      "img": "produtos/3964.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2877,
@@ -28236,7 +28284,8 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/7309.jpg",
-     "saldo": 176
+     "saldo": 176,
+     "un": "KG"
     },
     {
      "cod": 14242,
@@ -28244,7 +28293,8 @@
      "marca": "MP",
      "preco": 26.9,
      "img": "produtos/14242.jpg",
-     "saldo": 111
+     "saldo": 111,
+     "un": "KG"
     },
     {
      "cod": 7678,
@@ -28252,7 +28302,8 @@
      "marca": "MP",
      "preco": 26.9,
      "img": "produtos/7678.jpg",
-     "saldo": 210
+     "saldo": 210,
+     "un": "KG"
     },
     {
      "cod": 242,
@@ -28324,7 +28375,8 @@
      "marca": "CARDOSO",
      "preco": 28.9,
      "img": "produtos/6937.jpg",
-     "saldo": 17
+     "saldo": 17,
+     "un": "KG"
     },
     {
      "cod": 6755,
@@ -28332,7 +28384,8 @@
      "marca": "CARDOSO",
      "preco": 33.9,
      "img": "produtos/6755.jpg",
-     "saldo": 75
+     "saldo": 75,
+     "un": "KG"
     },
     {
      "cod": 13854,
@@ -28348,7 +28401,8 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/251.jpg",
-     "saldo": 82
+     "saldo": 82,
+     "un": "KG"
     },
     {
      "cod": 13853,
@@ -28364,7 +28418,8 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 5
+     "saldo": 5,
+     "un": "KG"
     },
     {
      "cod": 13855,
@@ -28380,7 +28435,8 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/253.jpg",
-     "saldo": 70
+     "saldo": 70,
+     "un": "KG"
     },
     {
      "cod": 6965,
@@ -28388,7 +28444,7 @@
      "marca": "HIPER ROLL",
      "preco": 39.9,
      "img": "produtos/6965.jpg",
-     "saldo": 15
+     "saldo": 14
     },
     {
      "cod": 254,
@@ -28396,7 +28452,8 @@
      "marca": "ROLL BAG",
      "preco": 23.9,
      "img": "produtos/254.jpg",
-     "saldo": 217
+     "saldo": 218,
+     "un": "KG"
     },
     {
      "cod": 6966,
@@ -28412,7 +28469,8 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 27
+     "saldo": 27,
+     "un": "KG"
     },
     {
      "cod": 6857,
@@ -28452,7 +28510,8 @@
      "marca": "CEPELMA",
      "preco": 14.9,
      "img": "produtos/2084.jpg",
-     "saldo": 51
+     "saldo": 51,
+     "un": "KG"
     },
     {
      "cod": 2112,
@@ -28610,7 +28669,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2905.jpg",
-     "saldo": 65
+     "saldo": 64
     },
     {
      "cod": 2906,
@@ -28712,7 +28771,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1975
+     "saldo": 1971
     },
     {
      "cod": 6646,
@@ -28790,7 +28849,7 @@
      "marca": "PACKSEVEN",
      "preco": 69.9,
      "img": "produtos/269.jpg",
-     "saldo": 167
+     "saldo": 166
     },
     {
      "cod": 10990,
@@ -29148,7 +29207,7 @@
      "marca": "CHIARA",
      "preco": 52.9,
      "img": "produtos/3676.jpg",
-     "saldo": 28
+     "saldo": 27
     },
     {
      "cod": 7013,
@@ -29274,7 +29333,7 @@
      "marca": "GRANFESTA",
      "preco": 11.9,
      "img": "produtos/10054.jpg",
-     "saldo": 5
+     "saldo": 4
     },
     {
      "cod": 103,
@@ -30145,7 +30204,8 @@
      "marca": "GERSELE",
      "preco": 29.9,
      "img": "produtos/14183.jpg",
-     "saldo": 16
+     "saldo": 16,
+     "un": "KG"
     },
     {
      "cod": 260,
@@ -30153,7 +30213,8 @@
      "marca": "GERSELE",
      "preco": 29.9,
      "img": "produtos/260.jpg",
-     "saldo": 6
+     "saldo": 6,
+     "un": "KG"
     },
     {
      "cod": 9257,
@@ -30169,7 +30230,8 @@
      "marca": "GERSELE",
      "preco": 29.9,
      "img": "produtos/263.jpg",
-     "saldo": 8
+     "saldo": 8,
+     "un": "KG"
     },
     {
      "cod": 264,
@@ -30177,7 +30239,8 @@
      "marca": "GERSELE",
      "preco": 29.9,
      "img": "produtos/264.jpg",
-     "saldo": 8
+     "saldo": 8,
+     "un": "KG"
     },
     {
      "cod": 265,
@@ -30185,7 +30248,8 @@
      "marca": "GERSELE",
      "preco": 29.9,
      "img": "produtos/265.jpg",
-     "saldo": 8
+     "saldo": 8,
+     "un": "KG"
     },
     {
      "cod": 11996,
