@@ -480,7 +480,7 @@
        "cor": "Vermelha",
        "nome": "CANETA CIS SPIRO-VERMELHA",
        "img": "produtos/568.jpg",
-       "saldo": 46
+       "saldo": 45
       }
      ]
     },
@@ -3136,14 +3136,14 @@
      "marca": "PILOT",
      "preco": 7.9,
      "img": "produtos/2343.jpg",
-     "saldo": 19,
+     "saldo": 18,
      "cores": [
       {
        "cod": 2343,
        "cor": "Azul",
        "nome": "PINCEL ATOM.1100 PILOT-AZUL",
        "img": "produtos/2343.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 2344,
@@ -3164,7 +3164,7 @@
        "cor": "Vermelho",
        "nome": "PINCEL ATOM.1100 PILOT-VERMELHO",
        "img": "produtos/2345.jpg",
-       "saldo": 116
+       "saldo": 115
       }
      ]
     },
@@ -3589,7 +3589,7 @@
      "marca": "JOCAR",
      "preco": 3.5,
      "img": "produtos/9405.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 2652,
@@ -3995,7 +3995,7 @@
      "marca": "TRIS",
      "preco": 5.9,
      "img": "produtos/14605.jpg",
-     "saldo": 78,
+     "saldo": 77,
      "controle": [
       "AZUL",
       "ROSA",
@@ -4357,7 +4357,7 @@
      "marca": "MERCUR",
      "preco": 2.5,
      "img": "produtos/3223.jpg",
-     "saldo": 99
+     "saldo": 98
     },
     {
      "cod": 13084,
@@ -7073,7 +7073,7 @@
        "cor": "Preto",
        "nome": "CADERNO CD 80F TILIBRA (PRETO)",
        "img": "produtos/10470.jpg",
-       "saldo": 197
+       "saldo": 196
       },
       {
        "cod": 9988,
@@ -9986,7 +9986,7 @@
      "marca": "ADELBRAS",
      "preco": 15.9,
      "img": "produtos/1294.jpg",
-     "saldo": 213
+     "saldo": 212
     },
     {
      "cod": 6761,
@@ -10091,20 +10091,12 @@
      "saldo": 55
     },
     {
-     "cod": 6836,
-     "nome": "FITA PVC CRISTAL 45X100MT",
-     "marca": "",
-     "preco": 7.9,
-     "img": "produtos/6836.jpg",
-     "saldo": 13
-    },
-    {
      "cod": 1313,
      "nome": "FITA PVC CRISTAL 45X40MT-KORETECH",
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/1313.jpg",
-     "saldo": 564
+     "saldo": 562
     },
     {
      "cod": 4389,
@@ -10112,7 +10104,7 @@
      "marca": "KORETECH",
      "preco": 2.9,
      "img": "produtos/4389.jpg",
-     "saldo": 674
+     "saldo": 673
     },
     {
      "cod": 1317,
@@ -11528,7 +11520,7 @@
        "cor": "Branco",
        "nome": "CARTAO-BRANCO",
        "img": "produtos/3308.jpg",
-       "saldo": 30
+       "saldo": 29
       },
       {
        "cod": 744,
@@ -12316,7 +12308,7 @@
      "marca": "",
      "preco": 5.9,
      "img": "produtos/6081.jpg",
-     "saldo": 50
+     "saldo": 49
     },
     {
      "cod": 6667,
@@ -17019,7 +17011,7 @@
        "cor": "Ouro",
        "nome": "EVA GLITER-OURO",
        "img": "produtos/1220.jpg",
-       "saldo": 196
+       "saldo": 192
       },
       {
        "cod": 1221,
@@ -17054,7 +17046,7 @@
        "cor": "Vermelho",
        "nome": "EVA GLITER-VERMELHO",
        "img": "produtos/1226.jpg",
-       "saldo": 96
+       "saldo": 92
       }
      ]
     },
@@ -20451,7 +20443,7 @@
      "marca": "SCRITY",
      "preco": 0.5,
      "img": "produtos/1049.jpg",
-     "saldo": 11661
+     "saldo": 11411
     },
     {
      "cod": 1051,
@@ -20761,7 +20753,7 @@
      "marca": "MASTERPRIN",
      "preco": 10.9,
      "img": "produtos/13982.jpg",
-     "saldo": 240
+     "saldo": 238
     },
     {
      "cod": 13980,
@@ -24501,7 +24493,7 @@
      "marca": "ISOMAX",
      "preco": 5.9,
      "img": "produtos/769.jpg",
-     "saldo": 117
+     "saldo": 108
     },
     {
      "cod": 770,
@@ -24597,7 +24589,7 @@
      "marca": "",
      "preco": 136.9,
      "img": "produtos/1010.jpg",
-     "saldo": 4
+     "saldo": 3
     },
     {
      "cod": 5987,
@@ -24838,12 +24830,20 @@
    "nome": "Talheres e Mexedores",
    "itens": [
     {
-     "cod": 7659,
+     "cod": 875,
      "nome": "COLHER AÇAI C/50 LONGA ROXA",
-     "marca": "PLAZAPEL",
+     "marca": "STRAWPLAST",
+     "preco": 18.9,
+     "img": "produtos/875.jpg",
+     "saldo": 20
+    },
+    {
+     "cod": 7659,
+     "nome": "COLHER AÇAI C/50 ROXA",
+     "marca": "",
      "preco": 8.9,
      "img": "produtos/7659.jpg",
-     "saldo": 73
+     "saldo": 53
     },
     {
      "cod": 8361,
@@ -27243,7 +27243,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2707.jpg",
-     "saldo": 21
+     "saldo": 16
     },
     {
      "cod": 2709,
@@ -27459,7 +27459,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2728.jpg",
-     "saldo": 116
+     "saldo": 115
     },
     {
      "cod": 8160,
@@ -28444,7 +28444,7 @@
      "marca": "HM2",
      "preco": 2.0,
      "img": "produtos/6857.jpg",
-     "saldo": 12206
+     "saldo": 12106
     },
     {
      "cod": 1337,
@@ -28642,7 +28642,7 @@
      "marca": "GERAPLAST",
      "preco": 11.9,
      "img": "produtos/2906.jpg",
-     "saldo": 110
+     "saldo": 109
     },
     {
      "cod": 2895,
@@ -28650,7 +28650,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2239
+     "saldo": 2238
     },
     {
      "cod": 2896,
