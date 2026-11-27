@@ -9052,7 +9052,7 @@
      "marca": "TOP",
      "preco": 15.9,
      "img": "produtos/793.jpg",
-     "saldo": 10
+     "saldo": 9
     },
     {
      "cod": 798,
@@ -9496,7 +9496,7 @@
      "marca": "MARIPEL",
      "preco": 4.9,
      "img": "produtos/11622.jpg",
-     "saldo": 57
+     "saldo": 55
     },
     {
      "cod": 814,
@@ -11652,7 +11652,7 @@
        "cor": "Preto",
        "nome": "CARTAO-PRETO",
        "img": "produtos/747.jpg",
-       "saldo": 69
+       "saldo": 68
       },
       {
        "cod": 748,
@@ -18052,14 +18052,6 @@
      "preco": 159.9,
      "img": "produtos/13240.jpg",
      "saldo": 3
-    },
-    {
-     "cod": 13247,
-     "nome": "MOCHILA COSTAS XERYUS (G)-ESPORTIVA QUIKSILVER PRETO",
-     "marca": "XERYUS",
-     "preco": 281.9,
-     "img": "produtos/13247.jpg",
-     "saldo": 1
     },
     {
      "cod": 13292,
@@ -26276,7 +26268,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/6861.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 10002,
@@ -26292,7 +26284,7 @@
      "marca": "",
      "preco": 35.9,
      "img": "produtos/4322.jpg",
-     "saldo": 47
+     "saldo": 46
     },
     {
      "cod": 6100,
@@ -26362,7 +26354,7 @@
      "marca": "SANTEPEL",
      "preco": 2.9,
      "img": "produtos/1553.jpg",
-     "saldo": 96
+     "saldo": 92
     },
     {
      "cod": 11295,
@@ -27469,7 +27461,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2717.jpg",
-     "saldo": 40,
+     "saldo": 20,
      "un": "KG"
     },
     {
@@ -27764,14 +27756,6 @@
      "preco": 16.9,
      "img": "produtos/2768.jpg",
      "saldo": 262
-    },
-    {
-     "cod": 2769,
-     "nome": "SACO LANCHE 29X14 C/500",
-     "marca": "KROMASA",
-     "preco": 8.5,
-     "img": "produtos/2769.jpg",
-     "saldo": 5
     },
     {
      "cod": 7308,
@@ -28394,7 +28378,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2289,
+     "saldo": 2276,
      "un": "KG"
     },
     {
@@ -28412,7 +28396,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 441,
+     "saldo": 426,
      "un": "KG"
     },
     {
@@ -28421,7 +28405,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/2875.jpg",
-     "saldo": 522,
+     "saldo": 512,
      "un": "KG"
     },
     {
@@ -28587,7 +28571,7 @@
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/252.jpg",
-     "saldo": 5,
+     "saldo": 66,
      "un": "KG"
     },
     {
@@ -28633,12 +28617,21 @@
      "saldo": 15
     },
     {
+     "cod": 255,
+     "nome": "BOBINA PICOT. 40X60 C/500-ROLLBAG (PESO 4KG)",
+     "marca": "ROLLBAG",
+     "preco": 23.9,
+     "img": "produtos/255.jpg",
+     "saldo": 65,
+     "un": "KG"
+    },
+    {
      "cod": 4427,
      "nome": "BOBINA PICOT. 50X70 C/250-ROLLBAG (PESO 3KG)",
      "marca": "ROLLBAG",
      "preco": 23.9,
      "img": "produtos/4427.jpg",
-     "saldo": 27,
+     "saldo": 48,
      "un": "KG"
     },
     {
@@ -31574,7 +31567,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8295.jpg",
-     "saldo": 10
+     "saldo": 7
     },
     {
      "cod": 1801,
@@ -31859,14 +31852,6 @@
      "preco": 5.9,
      "img": "produtos/10666.jpg",
      "saldo": 40
-    },
-    {
-     "cod": 11659,
-     "nome": "SACO CHAO ALVEJADO (80X55) 18BT",
-     "marca": "PANOFLEX",
-     "preco": 10.9,
-     "img": "produtos/11659.jpg",
-     "saldo": 6
     },
     {
      "cod": 3668,
