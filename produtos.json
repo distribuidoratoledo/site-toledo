@@ -3649,7 +3649,7 @@
        "cor": "Preto",
        "nome": "RETRO 2.0 PILOT-PRETO",
        "img": "produtos/2657.jpg",
-       "saldo": 65
+       "saldo": 64
       },
       {
        "cod": 2658,
@@ -9242,7 +9242,7 @@
      "marca": "CLASSE",
      "preco": 26.9,
      "img": "produtos/14285.jpg",
-     "saldo": 13
+     "saldo": 12
     },
     {
      "cod": 508,
@@ -11756,7 +11756,7 @@
        "cor": "Transparente",
        "nome": "CELOFANE-TRANSPARENTE",
        "img": "produtos/757.jpg",
-       "saldo": 52
+       "saldo": 44
       },
       {
        "cod": 758,
@@ -12222,7 +12222,7 @@
      "marca": "",
      "preco": 15.9,
      "img": "produtos/5973.jpg",
-     "saldo": 670
+     "saldo": 669
     },
     {
      "cod": 5082,
@@ -12348,7 +12348,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 37
+     "saldo": 36
     },
     {
      "cod": 2096,
@@ -12372,7 +12372,7 @@
      "marca": "MASTERPRIN",
      "preco": 12.9,
      "img": "produtos/2099.jpg",
-     "saldo": 189
+     "saldo": 188
     },
     {
      "cod": 2100,
@@ -12484,7 +12484,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2134.jpg",
-     "saldo": 342
+     "saldo": 338
     },
     {
      "cod": 12760,
@@ -12500,7 +12500,7 @@
      "marca": "RIACHO",
      "preco": 0.4,
      "img": "produtos/2135.jpg",
-     "saldo": 503
+     "saldo": 498
     },
     {
      "cod": 2136,
@@ -24048,7 +24048,7 @@
      "marca": "TOTALPLAST",
      "preco": 8.9,
      "img": "produtos/10120.jpg",
-     "saldo": 10
+     "saldo": 8
     },
     {
      "cod": 3348,
@@ -26680,7 +26680,7 @@
      "marca": "PITPRATOS",
      "preco": 0.8,
      "img": "produtos/2543.jpg",
-     "saldo": 148
+     "saldo": 128
     },
     {
      "cod": 2544,
@@ -27795,7 +27795,7 @@
      "marca": "KROMASA",
      "preco": 8.9,
      "img": "produtos/4942.jpg",
-     "saldo": 67
+     "saldo": 66
     },
     {
      "cod": 4943,
@@ -27843,7 +27843,7 @@
      "marca": "KROMASA",
      "preco": 26.9,
      "img": "produtos/4948.jpg",
-     "saldo": 45
+     "saldo": 44
     },
     {
      "cod": 2806,
@@ -28504,7 +28504,7 @@
      "marca": "HIPERROLL",
      "preco": 33.9,
      "img": "produtos/13857.jpg",
-     "saldo": 110
+     "saldo": 108
     },
     {
      "cod": 13856,
@@ -31677,7 +31677,7 @@
      "marca": "NOAH",
      "preco": 69.9,
      "img": "produtos/7016.jpg",
-     "saldo": 83
+     "saldo": 81
     },
     {
      "cod": 9017,
