@@ -3881,7 +3881,7 @@
      "saldo_cor": {
       "AZUL": 11,
       "CINZA": 10,
-      "PRETO": 10,
+      "PRETO": 9,
       "VERMELHO": 11
      }
     },
@@ -5613,7 +5613,7 @@
      "marca": "CREDEAL",
      "preco": 28.9,
      "img": "produtos/8401.jpg",
-     "saldo": 14
+     "saldo": 13
     },
     {
      "cod": 7773,
@@ -5883,7 +5883,7 @@
      "marca": "TILIBRA",
      "preco": 24.9,
      "img": "produtos/14717.jpg",
-     "saldo": 20
+     "saldo": 19
     },
     {
      "cod": 14703,
@@ -5931,7 +5931,7 @@
      "marca": "TILIBRA",
      "preco": 29.9,
      "img": "produtos/14719.jpg",
-     "saldo": 32
+     "saldo": 31
     },
     {
      "cod": 5610,
@@ -6415,7 +6415,7 @@
      "marca": "SD",
      "preco": 22.9,
      "img": "produtos/13203.jpg",
-     "saldo": 21
+     "saldo": 20
     },
     {
      "cod": 11421,
@@ -11624,7 +11624,7 @@
        "cor": "Branco",
        "nome": "CARTAO-BRANCO",
        "img": "produtos/3308.jpg",
-       "saldo": 27
+       "saldo": 26
       },
       {
        "cod": 744,
@@ -11666,7 +11666,7 @@
        "cor": "Verde Bandeira",
        "nome": "CARTAO-VERDE BANDEIRA",
        "img": "produtos/749.jpg",
-       "saldo": 103
+       "saldo": 102
       },
       {
        "cod": 5158,
@@ -11680,7 +11680,7 @@
        "cor": "Vermelho",
        "nome": "CARTAO-VERMELHO",
        "img": "produtos/751.jpg",
-       "saldo": 93
+       "saldo": 92
       }
      ]
     },
@@ -12348,7 +12348,7 @@
      "marca": "MASTERPRIN",
      "preco": 19.9,
      "img": "produtos/6495.jpg",
-     "saldo": 36
+     "saldo": 35
     },
     {
      "cod": 2096,
@@ -12524,7 +12524,7 @@
      "marca": "V.M.P",
      "preco": 0.4,
      "img": "produtos/2137.jpg",
-     "saldo": 848
+     "saldo": 847
     },
     {
      "cod": 2139,
@@ -12604,7 +12604,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2148.jpg",
-     "saldo": 562
+     "saldo": 561
     },
     {
      "cod": 2149,
@@ -12620,7 +12620,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2150.jpg",
-     "saldo": 1356
+     "saldo": 1355
     },
     {
      "cod": 2159,
@@ -13513,7 +13513,7 @@
      "marca": "",
      "preco": 9.9,
      "img": "produtos/2954.jpg",
-     "saldo": 191
+     "saldo": 190
     },
     {
      "cod": 2955,
@@ -24886,7 +24886,7 @@
      "marca": "COPOBRAS",
      "preco": 24.0,
      "img": "produtos/2937.jpg",
-     "saldo": 157
+     "saldo": 136
     },
     {
      "cod": 4146,
@@ -24902,7 +24902,7 @@
      "marca": "COPOBRAS",
      "preco": 25.9,
      "img": "produtos/2491.jpg",
-     "saldo": 159
+     "saldo": 138
     },
     {
      "cod": 3887,
@@ -25028,7 +25028,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 1270
+     "saldo": 1269
     },
     {
      "cod": 880,
@@ -25242,7 +25242,7 @@
      "marca": "ULTRA",
      "preco": 11.9,
      "img": "produtos/15026.jpg",
-     "saldo": 918
+     "saldo": 910
     },
     {
      "cod": 14835,
@@ -25576,7 +25576,7 @@
      "marca": "",
      "preco": 2.5,
      "img": "produtos/1411.jpg",
-     "saldo": 679
+     "saldo": 675
     },
     {
      "cod": 1415,
@@ -25918,7 +25918,7 @@
      "marca": "",
      "preco": 1.7,
      "img": "produtos/3857.jpg",
-     "saldo": 1051
+     "saldo": 1049
     },
     {
      "cod": 2552,
@@ -28089,7 +28089,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1556
+     "saldo": 1554
     },
     {
      "cod": 2826,
@@ -28317,7 +28317,7 @@
        "cor": "Dourada",
        "nome": "SACOLA PH 30X40 C/50-DOURADA",
        "img": "produtos/3958.jpg",
-       "saldo": 19
+       "saldo": 18
       },
       {
        "cod": 2854,
@@ -28386,7 +28386,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6854.jpg",
-     "saldo": 2276,
+     "saldo": 2275,
      "un": "KG"
     },
     {
@@ -28404,7 +28404,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/6855.jpg",
-     "saldo": 426,
+     "saldo": 425,
      "un": "KG"
     },
     {
@@ -28855,7 +28855,7 @@
      "marca": "GERAPLAST",
      "preco": 12.5,
      "img": "produtos/2895.jpg",
-     "saldo": 2213
+     "saldo": 2212
     },
     {
      "cod": 2896,
@@ -29473,7 +29473,7 @@
      "marca": "",
      "preco": 12.9,
      "img": "produtos/6860.jpg",
-     "saldo": 83
+     "saldo": 82
     },
     {
      "cod": 2829,
