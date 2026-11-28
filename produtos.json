@@ -1016,14 +1016,14 @@
        "cor": "Ouro",
        "nome": "CANETA GEL/CONVITE MOLIN-OURO",
        "img": "produtos/573.jpg",
-       "saldo": 20
+       "saldo": 19
       },
       {
        "cod": 574,
        "cor": "Prata",
        "nome": "CANETA GEL/CONVITE MOLIN-PRATA",
        "img": "produtos/574.jpg",
-       "saldo": 33
+       "saldo": 32
       }
      ]
     },
@@ -11588,7 +11588,7 @@
      "marca": "MINASPEL",
      "preco": 1.5,
      "img": "produtos/5083.jpg",
-     "saldo": 72
+     "saldo": 70
     },
     {
      "cod": 740,
@@ -11865,7 +11865,7 @@
        "cor": "Vermelho",
        "nome": "COLORSETE A4 C/50 VERMELHO",
        "img": "produtos/2065.jpg",
-       "saldo": 132
+       "saldo": 131
       },
       {
        "cod": 5162,
@@ -12604,7 +12604,7 @@
      "marca": "VMP",
      "preco": 0.4,
      "img": "produtos/2148.jpg",
-     "saldo": 564
+     "saldo": 562
     },
     {
      "cod": 2149,
@@ -13457,7 +13457,7 @@
      "marca": "COLORE",
      "preco": 24.9,
      "img": "produtos/3682.jpg",
-     "saldo": 6
+     "saldo": 5
     },
     {
      "cod": 4717,
@@ -23794,7 +23794,7 @@
      "marca": "",
      "preco": 34.9,
      "img": "produtos/6936.jpg",
-     "saldo": 27
+     "saldo": 26
     }
    ]
   },
@@ -24774,7 +24774,7 @@
      "marca": "",
      "preco": 18.9,
      "img": "produtos/3947.jpg",
-     "saldo": 124
+     "saldo": 121
     },
     {
      "cod": 3731,
@@ -24798,7 +24798,7 @@
      "marca": "",
      "preco": 26.9,
      "img": "produtos/5937.jpg",
-     "saldo": 24
+     "saldo": 23
     },
     {
      "cod": 2460,
@@ -24878,7 +24878,7 @@
      "marca": "COPOBRAS",
      "preco": 23.9,
      "img": "produtos/1867.jpg",
-     "saldo": 49
+     "saldo": 43
     },
     {
      "cod": 2937,
@@ -24886,7 +24886,7 @@
      "marca": "COPOBRAS",
      "preco": 24.0,
      "img": "produtos/2937.jpg",
-     "saldo": 161
+     "saldo": 158
     },
     {
      "cod": 4146,
@@ -24894,7 +24894,7 @@
      "marca": "COPOPLAST",
      "preco": 18.9,
      "img": "produtos/4146.jpg",
-     "saldo": 139
+     "saldo": 138
     },
     {
      "cod": 2491,
@@ -24902,7 +24902,7 @@
      "marca": "COPOBRAS",
      "preco": 25.9,
      "img": "produtos/2491.jpg",
-     "saldo": 161
+     "saldo": 160
     },
     {
      "cod": 3887,
@@ -24910,7 +24910,7 @@
      "marca": "COPOPLAST",
      "preco": 21.0,
      "img": "produtos/3887.jpg",
-     "saldo": 124
+     "saldo": 120
     },
     {
      "cod": 7352,
@@ -25028,7 +25028,7 @@
      "marca": "",
      "preco": 3.9,
      "img": "produtos/7255.jpg",
-     "saldo": 1290
+     "saldo": 1270
     },
     {
      "cod": 880,
@@ -26416,7 +26416,7 @@
      "marca": "",
      "preco": 2.45,
      "img": "produtos/31.jpg",
-     "saldo": 139
+     "saldo": 137
     },
     {
      "cod": 34,
@@ -27389,7 +27389,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/2709.jpg",
-     "saldo": 179,
+     "saldo": 178,
      "un": "KG"
     },
     {
@@ -28081,7 +28081,7 @@
      "marca": "ECO",
      "preco": 6.9,
      "img": "produtos/10972.jpg",
-     "saldo": 1579
+     "saldo": 1576
     },
     {
      "cod": 2826,
@@ -28431,7 +28431,7 @@
      "marca": "",
      "preco": 69.9,
      "img": "produtos/2877.jpg",
-     "saldo": 149
+     "saldo": 148
     }
    ]
   },
@@ -28488,7 +28488,7 @@
      "marca": "CEPELMA",
      "preco": 49.9,
      "img": "produtos/244.jpg",
-     "saldo": 103
+     "saldo": 102
     },
     {
      "cod": 13858,
@@ -28879,7 +28879,7 @@
      "marca": "GERAPLAST",
      "preco": 14.9,
      "img": "produtos/2898.jpg",
-     "saldo": 815
+     "saldo": 814
     },
     {
      "cod": 2900,
@@ -28933,7 +28933,7 @@
      "marca": "PRIMUS",
      "preco": 2.5,
      "img": "produtos/5871.jpg",
-     "saldo": 1967
+     "saldo": 1962
     },
     {
      "cod": 6646,
@@ -29059,7 +29059,7 @@
      "marca": "",
      "preco": 6.9,
      "img": "produtos/1273.jpg",
-     "saldo": 22
+     "saldo": 21
     },
     {
      "cod": 1277,
@@ -29361,7 +29361,7 @@
      "marca": "",
      "preco": 46.9,
      "img": "produtos/2802.jpg",
-     "saldo": 57
+     "saldo": 56
     },
     {
      "cod": 3676,
@@ -29409,7 +29409,7 @@
      "marca": "CIPAPEL",
      "preco": 39.9,
      "img": "produtos/2804.jpg",
-     "saldo": 133
+     "saldo": 132
     },
     {
      "cod": 2805,
@@ -29457,7 +29457,7 @@
      "marca": "",
      "preco": 13.9,
      "img": "produtos/7128.jpg",
-     "saldo": 80
+     "saldo": 78
     },
     {
      "cod": 6860,
@@ -30849,7 +30849,7 @@
      "marca": "READY",
      "preco": 2.5,
      "img": "produtos/6468.jpg",
-     "saldo": 340
+     "saldo": 335
     },
     {
      "cod": 6324,
@@ -30857,7 +30857,7 @@
      "marca": "READY",
      "preco": 1.5,
      "img": "produtos/6324.jpg",
-     "saldo": 396
+     "saldo": 386
     },
     {
      "cod": 6323,
@@ -31299,7 +31299,7 @@
      "marca": "REDINHA",
      "preco": 3.5,
      "img": "produtos/2608.jpg",
-     "saldo": 25
+     "saldo": 23
     },
     {
      "cod": 2609,
@@ -31535,7 +31535,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/8293.jpg",
-     "saldo": 24
+     "saldo": 25
     },
     {
      "cod": 10304,
@@ -31543,7 +31543,7 @@
      "marca": "",
      "preco": 32.9,
      "img": "produtos/10304.jpg",
-     "saldo": 12
+     "saldo": 11
     },
     {
      "cod": 8294,
